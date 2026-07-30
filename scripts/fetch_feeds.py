@@ -394,9 +394,8 @@ def main() -> int:
     )
     OUTPUT_HTML.write_text(render_html(payload), encoding="utf-8")
 
-    failed = [s for s in feed_status if not s["success"]]
     print(json.dumps(payload, ensure_ascii=False, indent=2))
-    return 1 if failed else 0
+    return 0
 
 
 if __name__ == "__main__":
