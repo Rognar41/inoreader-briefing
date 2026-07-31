@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T00:41:15.265187+00:00",
+  "generated_at": "2026-07-31T00:50:53.163284+00:00",
   "feed_status": [
     {
       "folder": "00_毎日確認",
@@ -20,7 +20,7 @@
       "http_status": null,
       "item_count": 0,
       "errors": [
-        "rss: ValueError: RSS parse error: <unknown>:2:0: syntax error",
+        "rss: ValueError: RSS parse error: <unknown>:2:0: syntax error; status=200; content_type=text/html; charset=UTF-8; length=17; body_prefix='Stream not found!'",
         "json: JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
       ]
     }
