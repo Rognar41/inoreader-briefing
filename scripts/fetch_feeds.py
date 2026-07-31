@@ -37,8 +37,8 @@ FEEDS = [
     {
         "folder": "06_左派ニュース・社会主義戦略",
         "priority": 2,
-        "rss": "https://www.inoreader.com/stream/user/1004825287/tag/06_%E5%B7%A6%E6%B4%BE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%BB%E7%A4%BE%E4%B8%BB%E7%BE%A9%E6%88%A6%E7%95%A5",
-        "json": "https://www.inoreader.com/stream/user/1004825287/tag/06_%E5%B7%A6%E6%B4%BE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%BB%E7%A4%BE%E4%B8%BB%E7%BE%A9%E6%88%A6%E7%95%A5/view/json",
+        "rss": "https://www.inoreader.com/stream/user/1004825287/tag/06_%E5%B7%A6%E6%B4%BE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%BB%E7%A4%BE%E4%BC%9A%E4%B8%BB%E7%BE%A9%E6%88%A6%E7%95%A5",
+        "json": "https://www.inoreader.com/stream/user/1004825287/tag/06_%E5%B7%A6%E6%B4%BE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%BB%E7%A4%BE%E4%BC%9A%E4%B8%BB%E7%BE%A9%E6%88%A6%E7%95%A5/view/json",
     },
 ]
 
