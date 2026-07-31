@@ -6,6 +6,7 @@ import html
 import json
 import re
 import sys
+import time
 from dataclasses import dataclass, asdict
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
@@ -125,22 +126,62 @@ def first_nonempty(mapping: Any, keys: list[str]) -> Any:
 
 
 def fetch_url(url: str) -> requests.Response:
-    response = requests.get(
-        url,
-        timeout=TIMEOUT_SECONDS,
-        headers={
-            "User-Agent": USER_AGENT,
-            "Accept": "application/rss+xml, application/atom+xml, application/json, text/xml, */*",
-        },
-    )
-    response.raise_for_status()
-    return response
+    last_error: Exception | None = None
+
+    for attempt in range(3):
+        try:
+            response = requests.get(
+                url,
+                timeout=TIMEOUT_SECONDS,
+                headers={
+                    "User-Agent": (
+                        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                        "AppleWebKit/537.36 (KHTML, like Gecko) "
+                        "Chrome/150.0.0.0 Safari/537.36"
+                    ),
+                    "Accept": (
+                        "application/rss+xml, application/atom+xml, "
+                        "application/json, text/xml, application/xml, */*"
+                    ),
+                },
+            )
+            response.raise_for_status()
+
+            if not response.content:
+                raise ValueError("Empty response")
+
+            return response
+
+        except Exception as exc:
+            last_error = exc
+            if attempt < 2:
+                time.sleep(5 * (attempt + 1))
+
+    assert last_error is not None
+    raise last_error
 
 
 def rss_entries(response: requests.Response) -> tuple[str, list[dict[str, Any]]]:
-    parsed = feedparser.parse(response.content)
+    encoding = response.encoding or response.apparent_encoding or "utf-8"
+    text = response.content.decode(encoding, errors="replace")
+
+    # BOM、先頭の空白、XMLで使用できない制御文字を除去
+    text = text.lstrip("\ufeff \t\r\n")
+    text = re.sub(r"[\x00-\x08\x0b\x0c\x0e-\x1f]", "", text)
+
+    parsed = feedparser.parse(text)
+
     if getattr(parsed, "bozo", False) and not parsed.entries:
-        raise ValueError(f"RSS parse error: {parsed.bozo_exception}")
+        content_type = response.headers.get("content-type", "")
+        prefix = text[:300].replace("\n", "\\n")
+
+        raise ValueError(
+            f"RSS parse error: {parsed.bozo_exception}; "
+            f"status={response.status_code}; "
+            f"content_type={content_type}; "
+            f"length={len(response.content)}; "
+            f"body_prefix={prefix!r}"
+        )
     title = clean_html(first_nonempty(parsed.feed, ["title"])) or "Inoreader output feed"
     entries: list[dict[str, Any]] = []
     for entry in parsed.entries:
