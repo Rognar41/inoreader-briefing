@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T00:50:53.163284+00:00",
+  "generated_at": "2026-07-31T02:56:36.228406+00:00",
   "feed_status": [
     {
       "folder": "00_毎日確認",
@@ -13,17 +13,14 @@
     },
     {
       "folder": "06_左派ニュース・社会主義戦略",
-      "success": false,
-      "format": null,
-      "url": null,
-      "feed_title": null,
-      "http_status": null,
-      "item_count": 0,
-      "errors": [
-        "rss: ValueError: RSS parse error: <unknown>:2:0: syntax error; status=200; content_type=text/html; charset=UTF-8; length=17; body_prefix='Stream not found!'",
-        "json: JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-      ]
+      "success": true,
+      "format": "rss",
+      "url": "https://www.inoreader.com/stream/user/1004825287/tag/06_%E5%B7%A6%E6%B4%BE%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%BB%E7%A4%BE%E4%BC%9A%E4%B8%BB%E7%BE%A9%E6%88%A6%E7%95%A5",
+      "feed_title": "06_左派ニュース・社会主義戦略 via 齋藤道明 on Inoreader",
+      "http_status": 200,
+      "item_count": 20,
+      "errors_before_success": []
     }
   ],
-  "article_count": 9
+  "article_count": 28
 }
