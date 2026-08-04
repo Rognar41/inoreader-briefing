@@ -2,8 +2,8 @@ name: Update Inoreader feeds
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "30 20 * * *"
+ schedule:
+  - cron: "30 19 * * *"
 
 permissions:
   contents: write
