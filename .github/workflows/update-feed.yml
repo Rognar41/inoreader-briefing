@@ -40,12 +40,21 @@ jobs:
       - name: Fetch and build static files
         run: python scripts/fetch_feeds.py
 
+      - name: Split briefing data
+        run: python scripts/split_latest.py
+
       - name: Commit updated data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add docs/latest.json docs/latest.html docs/status.json
+          git add \
+            docs/latest.json \
+            docs/latest.html \
+            docs/status.json \
+            docs/latest-meta.json \
+            docs/latest-00.json \
+            docs/latest-06.json
 
           if git diff --cached --quiet; then
             echo "No data changes to commit."
