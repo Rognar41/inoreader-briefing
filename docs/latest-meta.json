@@ -1,5 +1,13 @@
 {
   "generated_at": "2026-08-28T07:21:57.498599+00:00",
+  "generated_at_jst": "2026-08-28T16:21:57.498599+09:00",
+  "period_start": "2026-08-27T01:21:57.498599+00:00",
+  "lookback_hours": 30,
+  "raw_item_count": 40,
+  "recent_item_count_before_dedup": 34,
+  "article_count": 34,
+  "article_count_00": 17,
+  "article_count_06": 17,
   "feed_status": [
     {
       "folder": "00_毎日確認",
@@ -21,6 +29,5 @@
       "item_count": 20,
       "errors_before_success": []
     }
-  ],
-  "article_count": 34
+  ]
 }
