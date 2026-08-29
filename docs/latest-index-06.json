@@ -1,12 +1,252 @@
 {
-  "generated_at": "2026-08-28T07:30:49.300183+00:00",
-  "generated_at_jst": "2026-08-28T16:30:49.300183+09:00",
-  "period_start": "2026-08-27T01:30:49.300183+00:00",
+  "generated_at": "2026-08-29T02:23:01.240720+00:00",
+  "generated_at_jst": "2026-08-29T11:23:01.240720+09:00",
+  "period_start": "2026-08-27T20:23:01.240720+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
   "article_count": 17,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "35fc84a3b192b83d667b689e",
+      "title": "Mission impossible? Quantifying military emissions",
+      "url": "https://mronline.org/2026/08/28/mission-impossible-quantifying-military-emissions",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-08-28T21:47:40+00:00",
+      "content_excerpt": "Military and wartime emissions are difficult to track—but too important to ignore. The post Mission impossible? Quantifying military emissions appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/35fc84a3b192b83d667b689e.json"
+    },
+    {
+      "id": "506fea77db579d7381ad4836",
+      "title": "Military government in Guinea-Bissau seeks to reshape political system with referendum",
+      "url": "https://breakthroughnews.org/2026/08/28/military-government-in-guinea-bissau-seeks-to-reshape-political-system-with-referendum",
+      "author": "Nicholas Mwangi",
+      "source": "BT News",
+      "published_at": "2026-08-28T19:34:55+00:00",
+      "content_excerpt": "Guinea-Bissau is set to vote on a new constitution on Sunday, August 30, in a referendum that could alter the country’s political system and strengthen the powers of the presidency. The referendum comes nine months after the military seized control. The crisis traces back to November 23, 2025, when Guinea-Bissau held presidential and parliamentary elections. Both incumbent President Umaro Sissoco Embaló and opposition candidate Fernando Dias da Costa claimed victory. Before the electoral commission could release provisional results, the military intervened on November 26, one day ahead of the announcement suspending the vote count and arresting opposition figures including PAIGC leader Domingos Simões Pereira and PRS’s Francisco da Costa. General Horta N’Tam was installed as transitional p",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/506fea77db579d7381ad4836.json"
+    },
+    {
+      "id": "1614d08aa74dc638ec9d772f",
+      "title": "Health activists in India demand affordable breast cancer treatments",
+      "url": "https://breakthroughnews.org/2026/08/28/health-activists-in-india-demand-affordable-breast-cancer-treatments",
+      "author": "Ana Vračar",
+      "source": "BT News",
+      "published_at": "2026-08-28T17:32:44+00:00",
+      "content_excerpt": "Health activists and public health experts in India are pushing for affordable breast cancer treatments as the Kerala High Court continues to hear a case originally filed in 2022. The case and the surrounding advocacy concern access to the medications ribociclib and abemaciclib – both of which have demonstrated significant benefits for patients with early-stage breast cancer but remain prohibitively expensive for a large part of the population. Breast cancer represents a true public health crisis in India, noted the Working Group on Access to Medicines and Treatment. In 2024 , of the 780,000 new cancer cases among women, breast cancer accounted for 237,000 diagnoses. India also has a notable survival gap compared to other countries: five-year survival stands at 65.7%, compared to 87.3% in ",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/1614d08aa74dc638ec9d772f.json"
+    },
+    {
+      "id": "f591a15842bf0484e3f975d5",
+      "title": "The far right’s dangerous obsession with birth rates",
+      "url": "https://breakthroughnews.org/2026/08/28/the-far-rights-dangerous-obsession-with-birth-rates",
+      "author": "Maisa Bascuas",
+      "source": "BT News",
+      "published_at": "2026-08-28T17:32:44+00:00",
+      "content_excerpt": "This content is for members only. Visit the site and log in/register to read.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/f591a15842bf0484e3f975d5.json"
+    },
+    {
+      "id": "3792716587b8fd24bfb8ccbc",
+      "title": "“Shut Down Dilley”: Rep. Joaquin Castro on “Abusive” ICE Family Jail, Targeting of Military Families",
+      "url": "https://www.democracynow.org/2026/8/28/joaquin_castro_ice",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-08-28T15:24:31+00:00",
+      "content_excerpt": "Calls to shut down the ICE jail known as the Dilley Immigration Processing Center in South Texas continue to grow following the detention and deportation of 5-year-old Liam Tadeo and his father Victor Martinez Nieto to Mexico. According to the family’s lawyer, Nieto had begged officers to let his son go as they were arrested on their way to soccer practice in Austin last week. Nieto wanted Liam released to his mother, but ICE reportedly refused. The arrest happened just days before Liam was set to start kindergarten. Texas Democratic Congressmember Joaquin Castro previously attempted to visit Liam and his father at Dilley but was denied by ICE . Last month, Castro led a group of more than 110 Democratic House members in a nationwide call to end family detention and shut down Dilley. “You h",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/3792716587b8fd24bfb8ccbc.json"
+    },
+    {
+      "id": "1daef7c5c357070aff8d69d6",
+      "title": "Glacier Collapse: 2K Dead or Missing in Nepal-Tibet Flood Is “Glaring Example of Climate Injustice”",
+      "url": "https://www.democracynow.org/2026/8/28/nepal_flooding",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-08-28T15:24:31+00:00",
+      "content_excerpt": "We get a report from Nepal, where at least 547 people are confirmed to have died and over 1,500 are still missing after a glacial collapse on Wednesday sent a wall of ice, mud and rock into a Himalayan river, triggering catastrophic flooding in the Nepal-Tibet border region that swept away entire communities. Nepali authorities say they have rescued more than 3,700 people so far. Geologists say the flash floods were set off by a landslide and glacial avalanche so powerful it set off its own seismic signal. Climate scientists warn the region is warming much faster than the global average, leading to the rapid retreat of glaciers. “Scientists and civil society have been warning about the very fact that these kind of events might happen in the Himalayas,” says Sunil Acharya, a climate and pub",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/1daef7c5c357070aff8d69d6.json"
+    },
+    {
+      "id": "ba4fd174d5b7648f751f36f0",
+      "title": "“Who Paid, Who Gained”: Juan González on How Chicago Funded Real Estate Instead of Social Services",
+      "url": "https://www.democracynow.org/2026/8/28/juan_chicago_report",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-08-28T15:24:31+00:00",
+      "content_excerpt": "A team of researchers led by Democracy Now! ’s Juan González at the University of Illinois Chicago recently released an in-depth study on how, through a program called Tax Increment Financing ( TIF ), Chicago has spent some $16 billion in property taxes it collected over the past 40 years to fund downtown development. The money was supposed to be used to eliminate urban blight. ” TIF funding has actually exacerbated economic inequities throughout the city, pouring more than half of the billions of dollars that it collected into downtown neighborhoods while the 70 other community areas around the city were left to share the other half,” says González. Please check back later for full transcript. Page 2 Experts estimate that a language is lost every two weeks — and that half of the world’s 7",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/ba4fd174d5b7648f751f36f0.json"
+    },
+    {
+      "id": "c23072566fc32308e9278178",
+      "title": "“The Lion King” in Quechua?: New Film “Runa Simi” Profiles Indigenous Artist Keeping Language Alive",
+      "url": "https://www.democracynow.org/2026/8/28/runa_simi",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-08-28T15:24:31+00:00",
+      "content_excerpt": "Experts estimate that a language is lost every two weeks — and that half of the world’s 7,000 spoken languages could be lost by the end of the century. Quechua is the most widely spoken Indigenous language in the Americas, with approximately 7 to 10 million speakers living primarily in Peru, Bolivia and Ecuador. But like so many Indigenous languages, Qechua is vulnerable due to cultural pressures and discrimination. The new documentary Runa Simi — “our language” in Quechua — follows Fernando Valencia, a Peruvian voice actor, Indigenous activist, radio host and single father, who has dubbed many online clips of animated movies into Quechua from his home in Cusco, Peru. In the film, Fernando pursues his most ambitious goal yet: to fully dub Disney’s animated classic The Lion King into Quechu",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/c23072566fc32308e9278178.json"
+    },
+    {
+      "id": "ce744133f544a559990b91d3",
+      "title": "Children in Gaza are afraid flying their kites will get them killed",
+      "url": "https://mondoweiss.net/2026/08/children-in-gaza-are-afraid-flying-their-kites-will-get-them-killed",
+      "author": "Tareq S. Hajjaj",
+      "source": "Mondoweiss",
+      "published_at": "2026-08-28T14:27:33+00:00",
+      "content_excerpt": "Israel regards any kite flown in Gaza as an \"act of war\" and has ordered the army to treat them like drones. \"I don't know what we can do that won't anger Israel,\" says Muhammad Owais, 13, who struggles to understand the rules of this new reality.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/ce744133f544a559990b91d3.json"
+    },
+    {
+      "id": "9dad3e7ecddd569b0091a6d9",
+      "title": "Meet the new ‘superstar’ of the Israeli left, who is so progressive she only supports apartheid",
+      "url": "https://mondoweiss.net/2026/08/meet-the-new-superstar-of-the-israeli-left-who-is-so-progressive-she-only-supports-apartheid",
+      "author": "Jonathan Ofir",
+      "source": "Mondoweiss",
+      "published_at": "2026-08-28T13:57:45+00:00",
+      "content_excerpt": "Naama Lazimi is being hailed as the Israeli left's rising star. But when she isn’t busy making excuses for the genocidal turn in Israeli society and politics, she’s advocating for a return to good old-fashioned apartheid.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/9dad3e7ecddd569b0091a6d9.json"
+    },
+    {
+      "id": "c65514949be56101d173f04f",
+      "title": "We dig into the soil of our radical traditions: The Thirty-Fifth Newsletter (2026)",
+      "url": "https://mronline.org/2026/08/28/we-dig-into-the-soil-of-our-radical-traditions-the-thirty-fifth-newsletter-2026",
+      "author": "Vijay Prashad",
+      "source": "MR Online",
+      "published_at": "2026-08-28T13:05:05+00:00",
+      "content_excerpt": "When imperialism turns knowledge, technology, and art into instruments of submission, radical traditions teach another lesson: oppressed peoples can seize those tools and transform them into weapons of liberation. The post We dig into the soil of our radical traditions: The Thirty-Fifth Newsletter (2026) appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/c65514949be56101d173f04f.json"
+    },
+    {
+      "id": "0c5190578a76b306eccd760d",
+      "title": "The ghost of Upton Sinclair: The danger of food industry deregulation today",
+      "url": "https://mronline.org/2026/08/28/the-ghost-of-upton-sinclair-the-danger-of-food-industry-deregulation-today",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-08-28T12:03:41+00:00",
+      "content_excerpt": "When The Jungle was published in 1906, writer and journalist Upton Sinclair hoped his novel would advance socialism by exposing the plight of the wage slave, dangerous working conditions, and the general hopelessness that undermined the working class’s struggle. The post The ghost of Upton Sinclair: The danger of food industry deregulation today appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/0c5190578a76b306eccd760d.json"
+    },
+    {
+      "id": "6fe43f863bb1635081a8c7f9",
+      "title": "A People(s)-Centered Human Rights critique of “An Open Letter to Iran’s Political Prisoners”",
+      "url": "https://mronline.org/2026/08/28/a-peoples-centered-human-rights-critique-of-an-open-letter-to-irans-political-prisoners",
+      "author": "Ajamu Baraka",
+      "source": "MR Online",
+      "published_at": "2026-08-28T11:01:45+00:00",
+      "content_excerpt": "A People(s)-Centered Human Rights framework rejects the liberal abstraction that makes a false symmetry between Iranian authoritarianism and U.S. imperialism, which obscures the fact that one is a sovereign state under siege and the other is the world's most powerful empire waging war. The post A People(s)-Centered Human Rights critique of “An Open Letter to Iran’s Political Prisoners” appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/6fe43f863bb1635081a8c7f9.json"
+    },
+    {
+      "id": "85679ff14284c5eff596d420",
+      "title": "Towards an ecological architecture",
+      "url": "https://mronline.org/2026/08/28/towards-an-ecological-architecture",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-08-28T10:30:39+00:00",
+      "content_excerpt": "JAMES WALSH is moved by a provocative and original take on the relationship between ecology and architecture, and a plea to work with, not against, the materials and minerals of our world. The post Towards an ecological architecture appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/85679ff14284c5eff596d420.json"
+    },
+    {
+      "id": "2b120c564bc1a583b970627c",
+      "title": "235 years of capitalist revenge against Haiti",
+      "url": "https://mronline.org/2026/08/28/235-years-of-capitalist-revenge-against-haiti",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-08-28T09:28:16+00:00",
+      "content_excerpt": "The Trump regime’s mass deportations of Haitian people have begun. The post 235 years of capitalist revenge against Haiti appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/2b120c564bc1a583b970627c.json"
+    },
+    {
+      "id": "bcd4e19877c34e66e2beb37b",
+      "title": "From anti-caste struggle to women’s liberation: The transformative contribution of Gail Omvedt",
+      "url": "https://mronline.org/2026/08/28/from-anti-caste-struggle-to-womens-liberation-the-transformative-contribution-of-gail-omvedt",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-08-28T09:28:16+00:00",
+      "content_excerpt": "Caste reality has still not ended, injustice against women has still not ended, and the problems of farmers and agricultural laborers remain unresolved—in such circumstances, the ideological foundation Dr. Gail laid out, and the path of action she demonstrated, continue to guide scholars and activists of the new generation. The post From anti-caste struggle to women’s liberation: The transformative contribution of Gail Omvedt appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/bcd4e19877c34e66e2beb37b.json"
+    },
     {
       "id": "8057a92e9a46d8088bf5942b",
       "title": "“Filipiñana”: Dark Satire Takes Aim at Inequality & Structural Violence in the Philippines",
@@ -21,246 +261,6 @@
       "priority": 2,
       "date_missing": false,
       "article_path": "articles/8057a92e9a46d8088bf5942b.json"
-    },
-    {
-      "id": "2cf8935a4dadde758cd65c54",
-      "title": "Trump administration designates Palestine Action as terrorist organization",
-      "url": "https://breakthroughnews.org/2026/08/27/trump-administration-designates-palestine-action-as-terrorist-organization",
-      "author": "Ana Vračar",
-      "source": "BT News",
-      "published_at": "2026-08-27T19:26:44+00:00",
-      "content_excerpt": "On August 26, the US Department of the Treasury announced sanctions on three organizations – Masar Badil, Autistici Inventati, and British direct action group Palestine Action – as part of the Trump administration’s crackdown on the left. “We will bring the full weight of our economic tools to bear,” Secretary Scott Bessent stated in the announcement. The measures will freeze the groups’ US-based assets, prohibit different forms of support, and place supporters at risk of visa denials and personal finance restrictions due to the deep integration of US sanctions with the global financial system. Palestine Action was labeled a Specially Designated Global Terrorist , echoing the UK’s 2025 ban introduced by Keir Starmer’s government. The British ban followed a series of direct action campaigns",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/2cf8935a4dadde758cd65c54.json"
-    },
-    {
-      "id": "367e96e775000c07b61e8dfb",
-      "title": "The Old Guard is Dying: Platano Progressives Win A New Vision for NY-13",
-      "url": "https://convergencemag.com/articles/the-old-guard-is-dying-platano-progressives-win-a-new-vision-for-ny-13",
-      "author": "Shaira Chaer",
-      "source": "Convergence",
-      "published_at": "2026-08-27T16:55:13+00:00",
-      "content_excerpt": "On June 24th, New York City cemented itself as a progressive bellwether in the midst of the far right’s march toward global domination. It was a test of the strength of Mayor Zohran Mamdani’s first year in office; all candidates backed by the mayor swept the primaries, propelled forward by campaigns that centered the plight of New Yorkers through a rejection of establishment politics. Source",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/367e96e775000c07b61e8dfb.json"
-    },
-    {
-      "id": "a7beedd22e040634334cc7b8",
-      "title": "After two decades, Palestinians prepare to vote for a new political leadership. But will it change anything?",
-      "url": "https://mondoweiss.net/2026/08/after-two-decades-palestinians-prepare-to-vote-for-a-new-political-leadership-but-will-it-change-anything",
-      "author": "Qassam Muaddi",
-      "source": "Mondoweiss",
-      "published_at": "2026-08-27T15:31:00+00:00",
-      "content_excerpt": "Hamas, Islamic Jihad, and rival Fatah dissidents have united in an unprecedented coalition for the first Palestinian elections since 2006. But Israeli repression and foreign pressure raise doubts about whether free politics is possible under occupation.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/a7beedd22e040634334cc7b8.json"
-    },
-    {
-      "id": "a2c7994691a0ffcedcd1ae91",
-      "title": "As Meta Agrees to $17B Settlement, Now Is the Time to Regulate AI Before It’s Too Late: Amba Kak",
-      "url": "https://www.democracynow.org/2026/8/27/meta_settlement_ai_regulation",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-08-27T15:29:41+00:00",
-      "content_excerpt": "Prosecutors across 47 states, Washington, D.C., and U.S. territories have announced a groundbreaking legal settlement with technology giant Meta over accusations that the social media company deliberately designed addictive products they knew to be harmful to children. Meta, the parent company of Instagram and Facebook, is set to pay at least $12 billion and up to $17.1 billion in financial penalties, in addition to implementing design changes for underage users. “This is the least they can do to prevent harms that have metastasized and have already caused suicides … [but] we cannot be relying on fines, or certainly even on litigation, after harms have already transpired. What we need are rules of the road. And we need rules that go to the root cause of the business model,” says Amba Kak, ",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/a2c7994691a0ffcedcd1ae91.json"
-    },
-    {
-      "id": "f13eea8af4c06de527f4a603",
-      "title": "Exploited Data Workers in the Global South Are “the Secret Ingredient of AI Itself”",
-      "url": "https://www.democracynow.org/2026/8/27/data_workers",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-08-27T15:29:41+00:00",
-      "content_excerpt": "Despite being branded as autonomous and self-sustaining, artificial intelligence relies heavily on human labor — an army of data workers all over the world, primarily in the Global South. These workers “are purposely hidden by the companies that produce AI because they are the secret ingredient of AI itself,” says sociologist Antonio Casilli, the author of Waiting for Robots: The Hired Hands of Automation and co-writer of the documentary In the Belly of AI . Casilli estimates that over 160 million people are involved in data work around the world. Please check back later for full transcript. Page 2 Julián Posada’s upcoming book, titled Platform Extractivism: Data Work and the People Powering Artificial Intelligence , is based on extensive fieldwork among data workers in Venezuela. During t",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/f13eea8af4c06de527f4a603.json"
-    },
-    {
-      "id": "ab42bd08ec0ad56a07071276",
-      "title": "“Platform Extractivism”: Inside Venezuela’s Hidden Workforce Training Algorithms for Pennies",
-      "url": "https://www.democracynow.org/2026/8/27/ai_platform_extractivism",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-08-27T15:29:41+00:00",
-      "content_excerpt": "Julián Posada’s upcoming book, titled Platform Extractivism: Data Work and the People Powering Artificial Intelligence , is based on extensive fieldwork among data workers in Venezuela. During the height of the COVID -19 pandemic, amid a hyperinflation crisis, entire communities in Venezuela depended on data work, says Posada, a professor at Yale University. Paid as little as 50 cents per hour and monitored by surveillance algorithms, most workers did not even know who or for what end they were working for. “From the perspective of the worker, you would just see the tasks. … [T]he algorithm here is the manager.”",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/ab42bd08ec0ad56a07071276.json"
-    },
-    {
-      "id": "cce28ccf1bf0b1bdbc55b307",
-      "title": "Studies show El-Sayed win sparked wave of Islamphobia across social media",
-      "url": "https://mondoweiss.net/2026/08/studies-shows-el-sayed-win-sparked-wave-of-islamphobia-across-social-media",
-      "author": "Michael Arria",
-      "source": "Mondoweiss",
-      "published_at": "2026-08-27T12:28:56+00:00",
-      "content_excerpt": "Analysis by multiple outlets shows a surge of Islamophobia across social media in response to Abdul El-Sayed’s Michigan victory.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/cce28ccf1bf0b1bdbc55b307.json"
-    },
-    {
-      "id": "1fa43f2dd264ad6b6a6209c7",
-      "title": "the case for dismantling the israeli state",
-      "url": "https://socialistforum.dsausa.org/uncategorized/the-case-for-dismantling-the-israeli-state",
-      "author": "Socialist Forum",
-      "source": "Socialist Forum",
-      "published_at": "2026-08-27T12:16:50+00:00",
-      "content_excerpt": "Over 680,000 Palestinians have been killed by Israel’s machinery of mass slaughter since the start of October 2023. According to UN Raconteur Francesca Albanese, 380,000 of those murdered in Gaza have been infants under the age of five. Nearly thirty years ago, Edward Said said that the situation between Israel and Palestine had reached a “bloody impasse”, and called for a dissolution of Zionist Israel into one unified secular Palestinian state. In his New York Times essay, entitled “ One-State Solution ”, Said stated, “I see no other way than to begin now to speak about sharing the land that has thrust us together, sharing it in a truly democratic way, with equal rights for each citizen.” Palestinians have long called for the ending of the settler colonial regime of Israel, having already",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/1fa43f2dd264ad6b6a6209c7.json"
-    },
-    {
-      "id": "6553ab664729c6c4a867c27c",
-      "title": "Fidel foresaw it: The human species is in danger of extinction",
-      "url": "https://mronline.org/2026/08/27/fidel-foresaw-it-the-human-species-is-in-danger-of-extinction",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-08-27T12:02:53+00:00",
-      "content_excerpt": "Will the developed countries, the ones most responsible for this danger, finally face the situation, or will they wait until it is too late for everyone? The post Fidel foresaw it: The human species is in danger of extinction appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/6553ab664729c6c4a867c27c.json"
-    },
-    {
-      "id": "92b3da65ab5019191294985d",
-      "title": "Generative influence",
-      "url": "https://mronline.org/2026/08/27/generative-influence",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-08-27T11:01:54+00:00",
-      "content_excerpt": "More than one quarter of all federal lobbyists are now lobbying on AI issues. The post Generative influence appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/92b3da65ab5019191294985d.json"
-    },
-    {
-      "id": "c50b440918b71d8212bb1978",
-      "title": "Sleepwalking to war?",
-      "url": "https://mronline.org/2026/08/27/sleepwalking-to-war",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-08-27T10:00:40+00:00",
-      "content_excerpt": "Andy Burnham’s gift of British blueprints for key missile components to Ukraine signals another step closer towards a wider European conflict finds Robert Dale. The post Sleepwalking to war? appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/c50b440918b71d8212bb1978.json"
-    },
-    {
-      "id": "214a6487b795388c70695dd9",
-      "title": "Resistance to Japan’s growing ‘war posture’ against China: The Sixteenth Asia Newsletter (2026)",
-      "url": "https://mronline.org/2026/08/27/resistance-to-japans-growing-war-posture-against-china-the-sixteenth-asia-newsletter-2026",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-08-27T09:28:54+00:00",
-      "content_excerpt": "Missile units on southern islands, troops moving on civilian ferries, command bunkers dug underground: a grassroots movement across Japan is trying to halt the drift back towards imperial confrontation. Remembering the 81st anniversary of the atomic bombings of Hiroshima and Nagasaki. The post Resistance to Japan’s growing ‘war posture’ against China: The Sixteenth Asia Newsletter (2026) appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/214a6487b795388c70695dd9.json"
-    },
-    {
-      "id": "710d67c1eb3a3c00f05cbe2c",
-      "title": "UN and Red Cross call for ban of autonomous weapons systems",
-      "url": "https://breakthroughnews.org/2026/08/27/un-and-red-cross-call-for-ban-of-autonomous-weapons-systems",
-      "author": "Abdul Rahman",
-      "source": "BT News",
-      "published_at": "2026-08-27T04:22:46+00:00",
-      "content_excerpt": "UN Secretary-General Antonio Guterres and President of the International Committee of the Red Cross (ICRC) Mirjana Spoljaric repeated their joint call for urgent prohibitions and restrictions on autonomous weapons systems. “We are now dangerously close to crossing a moral red line: the autonomous targeting of humans by machines,” Guterres said in his post on X asserting “innovation must serve humanity-not endanger it.” Noting the growing use of drones and other automated weapons in the ongoing and recent conflicts such as wars in Ukraine, the Israeli genocide in Gaza, the US-Israeli war on Iran, and the war in Sudan, the UN and other agencies have insisted on laying down norms on their use as existing laws and conventions often fail to do so. Absence of a firm and clear understanding on th",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/710d67c1eb3a3c00f05cbe2c.json"
-    },
-    {
-      "id": "f3017084e0e79f33ce3e585c",
-      "title": "Analyst: US economic war on Iran will ‘backfire’",
-      "url": "https://breakthroughnews.org/2026/08/27/analyst-us-economic-war-on-iran-will-backfire",
-      "author": "Zoe Alexandra",
-      "source": "BT News",
-      "published_at": "2026-08-27T04:22:46+00:00",
-      "content_excerpt": "The US already tried its harshest sanctions on Iran once and they failed. So Trump went to war. Tehran-based journalist Navid Zarrinnal joins Rania Khalek and Zoe Alexandra to explain why Treasury Secretary Scott Bessent’s Operation Economic Outcast — Trump’s promised “economic D-Day” — is doomed from the start; as top military analysts conclude the US has likely permanently lost 15 Gulf bases and crude oil reserves have hit their thinnest cushion in five decades, the Pentagon is pulling its precision-guided munitions out of East Asia to keep Iran surrounded, all while the Strait of Hormuz remains firmly in Tehran’s control. Zarrinnal breaks down the wildcard that could make this backfire even harder: if the UAE cuts ties with Iran, Tehran may pivot deeper into Asia, accelerating the preci",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/f3017084e0e79f33ce3e585c.json"
-    },
-    {
-      "id": "29661568226f99620a74b6ca",
-      "title": "Data centers got power. Gary, Indiana went dark with Aja Ba",
-      "url": "https://breakthroughnews.org/2026/08/27/data-centers-got-power-gary-indiana-went-dark-with-aja-ba",
-      "author": "Rania Khalek",
-      "source": "BT News",
-      "published_at": "2026-08-27T04:22:46+00:00",
-      "content_excerpt": "It was five days after Gary, Indiana’s power went out before NIPSCO acknowledged the 76% Black city needed help, independent journalist and Gary native Aja Bridges tells Zoe Alexandra and Rania Khalek. As the private utility released consistent “progress updates” to white communities and the Lake County Fair was pushed back online, Bridges unpacks why Gary couldn’t refrigerate food, run breathing machines, or send their kids to school – all while charging customers more than full price. As Gary residents are pummeled by rate hikes driven by energy privatization and billion-dollar data center investments for Amazon and Google, NIPSCO neglects vegetation clearance and other basic maintenance that could have prevented this disaster. It’s all part of Governor Mike Braun’s intentional marginali",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/29661568226f99620a74b6ca.json"
-    },
-    {
-      "id": "eca7710b5dcfd95e4f4bdc3b",
-      "title": "Vijay Prashad blasts the ‘shady’ Guardian Iran letter",
-      "url": "https://breakthroughnews.org/2026/08/27/vijay-prashad-blasts-the-shady-guardian-iran-letter",
-      "author": "Zoe Alexandra",
-      "source": "BT News",
-      "published_at": "2026-08-27T04:22:46+00:00",
-      "content_excerpt": "US political prisoner Mumia Abu-Jamal never signed the open letter “To Iran’s Political Prisoners” — and Vijay Prashad says The Guardian owes us answers. The executive director of the Tricontinental Institute for Social Research joins Rania Khalek and Zoe Alexandra alongside Tehran-based journalist Navid Zarrinnal to dissect the “shady” text signed by more than twenty Western academics and activists, including Angela Davis, Judith Butler, and Robin D.G. Kelley, and why Prashad argues it provides exactly the kind of ideological cover the US war machine needs to keep bombing. He breaks down why the letter was never addressed to Iranians at all, but to Western liberals. He asks why the same signers never put their names behind the Palestine Action activists jailed by the UK government, or the",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/eca7710b5dcfd95e4f4bdc3b.json"
     }
   ]
 }

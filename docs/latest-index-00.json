@@ -1,12 +1,117 @@
 {
-  "generated_at": "2026-08-28T07:30:49.300183+00:00",
-  "generated_at_jst": "2026-08-28T16:30:49.300183+09:00",
-  "period_start": "2026-08-27T01:30:49.300183+00:00",
+  "generated_at": "2026-08-29T02:23:01.240720+00:00",
+  "generated_at_jst": "2026-08-29T11:23:01.240720+09:00",
+  "period_start": "2026-08-27T20:23:01.240720+00:00",
   "lookback_hours": 30,
   "folder": "00_毎日確認",
-  "article_count": 17,
+  "article_count": 8,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "86fe414e6278c9554b5faadc",
+      "title": "UAW Members Voting for International Officers",
+      "url": "https://medium.com/dsa-detroit-newspaper/uaw-members-voting-for-international-officers-900223cfb2e9?source=rss-160b7baee925------2",
+      "author": "Detroit DSA",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-08-28T20:11:03+00:00",
+      "content_excerpt": "Delegates to the UAW Convention in June heard candidates for top offices. Any active member could run; there was no signature-gathering requirement as in some other unions. Photo: Jim West | jimwestphoto.com By Luis Feliz Leon and Jane Slaughter United Auto Workers members are voting by mail ballot for their top officers, for the second time in the union’s 91 years. Ballots went out August 21 and are due back by October 5. The contest will decide whether President Shawn Fain, who became famous for leading 2023’s Stand-Up Strike against the Big 3 automakers, will be able to continue the union’s about-face from its previous employer-friendly ways. William Hughes, a member of UAW Local 249 at Ford Kansas City, said the election is about maintaining the union’s momentum in winning gains for th",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/86fe414e6278c9554b5faadc.json"
+    },
+    {
+      "id": "39caa77906613988a2c4fcea",
+      "title": "New York City’s Electoral Earthquake: How We Did It",
+      "url": "https://democraticleft.dsausa.org/2026/08/28/new-york-citys-electoral-earthquake-how-we-did-it",
+      "author": "Democratic Left",
+      "source": "Democratic Left",
+      "published_at": "2026-08-28T18:05:07+00:00",
+      "content_excerpt": "Democratic Left interviews two leaders of New York City DSA’s electoral working group on the strategic decisions behind the chapter’s near sweep in June. The post New York City’s Electoral Earthquake: How We Did It appeared first on Democratic Left .",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/39caa77906613988a2c4fcea.json"
+    },
+    {
+      "id": "c1d03612fb6d32bb339d8cf7",
+      "title": "Colombia’s Far Right Sees an Earthquake as an Opportunity",
+      "url": "https://www.inoreader.com/article/3a9c6e7603a44c9a",
+      "author": "Cruz Bonlarron Martínez",
+      "source": "Jacobin",
+      "published_at": "2026-08-28T16:44:56+00:00",
+      "content_excerpt": "On August 10, western Colombia was rocked by a 7.8 magnitude earthquake. Images of collapsed buildings and ordinary citizens organizing to remove the rubble quickly circulated on social media and through news agencies. Cali, the region’s largest city, quickly became the week’s trending topic. This came just three days after the country’s far-right President Abelardo de la Espriella had taken power in a highly divisive and militarized spectacle held at a military base in the city, which voted overwhelmingly for his leftist competitor Iván Cepeda. Now after the earthquake, Cali and western Colombia are taking center stage in the administration’s reversal of Gustavo Petro’s redistributive policies and its attempt to refound Colombia as a bastion of far-right politics. The Initial Response Ins",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/c1d03612fb6d32bb339d8cf7.json"
+    },
+    {
+      "id": "de392a610fcd4994162e113c",
+      "title": "James Lawson Was the Civil Rights Movement’s Drill Sergeant",
+      "url": "https://www.inoreader.com/article/3a9c6e760396ff0c",
+      "author": "Chris Maisano",
+      "source": "Jacobin",
+      "published_at": "2026-08-28T14:44:44+00:00",
+      "content_excerpt": "Reverend James Lawson Jr did not attend the 1963 March on Washington for Jobs and Freedom. Most of the movement’s boldfaced names — the “Big Six” civil rights leaders, labor leaders and religious figures, celebrities and entertainers — were there, in front of a quarter million people up on the Lincoln Memorial’s marble steps. But Lawson was not. He was hundreds of miles away from the nation’s capital, organizing and training people at a regional gathering of Methodist student leaders in Upstate New York. Lawson and his colleagues paused the proceedings so that anyone who wanted to board a bus to Washington early that morning could do so. “I had planned to go,” recalls Lawson in his landmark memoir, Nonviolent , “but we didn’t have enough room for every student who wanted to attend. I decid",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/de392a610fcd4994162e113c.json"
+    },
+    {
+      "id": "0400458fb057f9472c81733f",
+      "title": "The Customer Is Always Watching",
+      "url": "https://www.inoreader.com/article/3a9c6e7603933a42",
+      "author": "Alex N. Press",
+      "source": "Jacobin",
+      "published_at": "2026-08-28T14:15:10+00:00",
+      "content_excerpt": "Toru Hinkle was stocking shelves at Target when two customers appeared. Toru asked if they needed help. The men wanted a price check on an item that cost $20, but even after Hinkle told them the price, they kept asking. Eventually Hinkle noticed a blinking light on one customer’s glasses. Mia Sato reported what happened next for The Verge , speaking with Hinkle and other workers about the new problems posed by customers wearing Ray-Ban Meta glasses. The men were filming Hinkle. They kept up the bit, repeatedly asking the price and deliberately misgendering Hinkle (who uses “they/them” pronouns) and a manager who came over to help. Hinkle told Sato that Hinkle tried saying “Meta, stop recording,” hoping the command might work on someone else’s glasses. It didn’t. The video wound up online, ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/0400458fb057f9472c81733f.json"
+    },
+    {
+      "id": "462551f12e04f9b4e44d91fd",
+      "title": "Trump’s Art of the Bad Deal Comes to Canada",
+      "url": "https://www.inoreader.com/article/3a9c6e76039f74f5",
+      "author": "Stuart Trew",
+      "source": "Jacobin",
+      "published_at": "2026-08-28T13:45:18+00:00",
+      "content_excerpt": "Canadian Prime Minister Mark Carney’s decision to withdraw his trade negotiating team from Washington last Friday was surprising and refreshing. Surprising because Carney clearly wanted a deal and has a record of conceding to Donald Trump again and again , to no effect, in hopes of securing one. Refreshing because the deal on offer would have been terrible for Canadian workers. The interests of labor and capital are not the same, and Carney’s position is not the Left’s. Canadian workers care about the health of their country’s productive base but have no interest in undercutting American workers in this trade war, which is doing the latter no favors in any case. The industries in Trump’s crosshairs support millions. Their destruction would devastate communities on both sides of the border,",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/462551f12e04f9b4e44d91fd.json"
+    },
+    {
+      "id": "188fbee33238e9da32eb47f3",
+      "title": "France Needs a President Who Isn’t for the Bosses",
+      "url": "https://www.inoreader.com/article/3a9c6e76039be1c7",
+      "author": "Marlon Ettinger",
+      "source": "Jacobin",
+      "published_at": "2026-08-28T13:14:24+00:00",
+      "content_excerpt": "Heavy rain pummeled the canopy over the covered stage in Paris’s Roland-Garros stadium on Thursday night, midway through the first debate for next spring’s French presidential election. The seven candidates present, who included Jean-Luc Mélenchon, Marine Le Pen, Édouard Philippe, Gabriel Attal, Raphaël Glucksmann, and Marine Tondelier, volleyed competing economic visions in front of a buttoned-up crowd of entrepreneurs and business leaders attending the Movement of French Businesses’ (Medef) summer conference. There was plenty on stage for Medef corporate chiefs to cheer for. The pro-business, deregulation-happy employers’ union has already enjoyed a long string of political wins since its founding in 1998. Whoever the president has been, Medef’s priorities have consistently been carried ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/188fbee33238e9da32eb47f3.json"
+    },
     {
       "id": "a712b786db7eab820d432077",
       "title": "Review: The Wind Cries Freedom: An Oral History of the Next American Revolution",
@@ -21,246 +126,6 @@
       "priority": 1,
       "date_missing": false,
       "article_path": "articles/a712b786db7eab820d432077.json"
-    },
-    {
-      "id": "ffc359f5c9a3b545be9fbc0f",
-      "title": "the case for dismantling the israeli state",
-      "url": "https://socialistforum.dsausa.org/issues/spring-summer-2026/the-case-for-dismantling-the-israeli-state",
-      "author": "Socialist Forum",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-08-27T19:17:24+00:00",
-      "content_excerpt": "Over 680,000 Palestinians have been killed by Israel’s machinery of mass slaughter since the start of October 2023. According to UN Raconteur Francesca Albanese, 380,000 of those murdered in Gaza have been infants under the age of five. Nearly thirty years ago, Edward Said said that the situation between Israel and Palestine had reached a “bloody impasse”, and called for a dissolution of Zionist Israel into one unified secular Palestinian state. In his New York Times essay, entitled “ One-State Solution ”, Said stated, “I see no other way than to begin now to speak about sharing the land that has thrust us together, sharing it in a truly democratic way, with equal rights for each citizen.” Palestinians have long called for the ending of the settler colonial regime of Israel, having already",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/ffc359f5c9a3b545be9fbc0f.json"
-    },
-    {
-      "id": "3a9fd560b85ce81354f72595",
-      "title": "A Religious Socialist Defends Democratic Socialism",
-      "url": "https://religioussocialism.org/a-religious-socialist-defends-democratic-socialism",
-      "author": "DSA Religion and Socialism Working Group",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-08-27T19:17:24+00:00",
-      "content_excerpt": "DSA and its activities have been covered in many news outlets recently, not always favorably. Here, RS contributor C. Don Jones responds to Dennis McIntyre ’s August 19 article in Patheos . It appeared in the August 20 issue of Patheos.We reprint it in slightly adapted form with the authors permission.–Eds. I read Dennis McIntyre’s recent Patheos article The Rise of DSA And America’s Socialist Movement with great interest. Even when we disagree, I find McIntyre to be a good writer and a sincere believer in Christian hope . I join him in his prayer “that all involved have open hearts and focus on the common good, guided by the values Jesus gives us.” I normally do not write about political ideologies. His thoughts are worth discussing. U.S. Socialist Movements My first objection to his piec",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/3a9fd560b85ce81354f72595.json"
-    },
-    {
-      "id": "b9cc39fe39e90b4447a86b34",
-      "title": "Abolish ICE statement 8-26-26",
-      "url": "https://ctdsa.org/abolish-ice-statement-8-26-26",
-      "author": "Connecticut DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-08-27T19:17:24+00:00",
-      "content_excerpt": "On Monday, August 24, masked ICE thugs abducted over 25 of our immigrant neighbors across Danbury, Stamford, and Bridgeport. Their […]",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/b9cc39fe39e90b4447a86b34.json"
-    },
-    {
-      "id": "926c50a978935cf79d8ac54e",
-      "title": "Mike Rogers Pushed for War With Iran for Two Decades",
-      "url": "https://www.inoreader.com/article/3a9c6e76030ced66",
-      "author": "Branko Marcetic",
-      "source": "Jacobin",
-      "published_at": "2026-08-27T17:03:10+00:00",
-      "content_excerpt": "It’s not a secret that Mike Rogers supports the Iran war. Since Donald Trump launched the war six months ago, the Michigan Republican candidate for Senate called Iran “an imminent threat to our country” that “must not have a nuclear weapon,” said the war was “absolutely right” and “a win-win-win for us,” believes “we are better off today than we were when it started,” and has said he “doesn’t mind” the idea of giving Trump congressional authorization to keep the war going. “I was for all of this when it wasn’t very cool to be for all of this,” he boasted last year, after Trump launched his first attack on the country. Rogers wasn’t exaggerating. A review of the public record shows that Rogers has been pushing for war with Iran for at least two decades, since all the way back when George W.",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/926c50a978935cf79d8ac54e.json"
-    },
-    {
-      "id": "5a7b04091902b4c0e0f30808",
-      "title": "The Fight Over Data Centers Is Dividing the Labor Movement",
-      "url": "https://www.inoreader.com/article/3a9c6e760cf83207",
-      "author": "Ginny Hogan",
-      "source": "Jacobin",
-      "published_at": "2026-08-27T15:03:27+00:00",
-      "content_excerpt": "Several weeks ago, Jason Kelce (football player, podcaster, Taylor Swift’s brother-in-law) starred in an ad asking Americans to pee in jars and send them to their nearest artificial intelligence data center. The spot — a collaboration between Liquid Death and Kelce’s own Garage Beer — was nominally about water consumption. Mostly, though, it was evidence that hating on data centers has gone fully mainstream. The polling backs this up. The University of Pennsylvania’s Annenberg Public Policy Center found that opposition to local data centers jumped twelve points in four months this year — from 49 percent in March to 61 percent in July. And an August Heatmap Pro poll pushed the number to 75 percent , with more than six in ten Americans strongly opposed — the most negative result since the ou",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/5a7b04091902b4c0e0f30808.json"
-    },
-    {
-      "id": "e5d49e49b8c182272c414291",
-      "title": "The United Auto Workers Are Voting for Their Top Leadership",
-      "url": "https://www.inoreader.com/article/3a9c6e760ce51228",
-      "author": "Luis Feliz Leon",
-      "source": "Jacobin",
-      "published_at": "2026-08-27T14:32:58+00:00",
-      "content_excerpt": "United Auto Workers (UAW) members are voting by mail ballot for their top officers, for the second time in the union’s ninety-one years. Ballots went out August 21 and are due back by October 5. The contest will decide whether President Shawn Fain, who became famous for leading 2023’s “ stand-up strike ” against the Big Three automakers, will be able to continue the union’s about-face from its previous employer-friendly ways. William Hughes, a member of UAW Local 249 at Ford Kansas City, said the election is about maintaining the union’s momentum in winning gains for the membership. “During my twenty-seven years in the union, I’ve never seen anything even close to the amount of gains that we’ve been getting in all these contracts — not just in the Big Three,” said Hughes. “I built seats be",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/e5d49e49b8c182272c414291.json"
-    },
-    {
-      "id": "fcb503374a9a11af1560268c",
-      "title": "Democrats Are Losing the Billionaire Primary",
-      "url": "https://www.inoreader.com/article/3a9c6e760cee588e",
-      "author": "Conor Lynch",
-      "source": "Jacobin",
-      "published_at": "2026-08-27T13:33:15+00:00",
-      "content_excerpt": "Democrats enter this year’s midterms with a host of political advantages: a deeply unpopular Republican president, a faltering economy , and a fired-up base. But Republicans hold a clear edge in at least one crucial area. With Election Day less than three months out, fundraising data shows the GOP with vastly more cash on hand. That financial advantage stems entirely from well-funded Republican super PACs and party committees, which together hold over a billion dollars — nearly three times the reserves of comparable Democratic groups. The GOP’s enormous war chest has been filled primarily by corporate and billionaire donors, who overwhelmingly favor Republicans this cycle. An analysis by reporters at the Washington Post found that this year’s top fifty donors have already contributed aroun",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/fcb503374a9a11af1560268c.json"
-    },
-    {
-      "id": "4fe6297acc869fbe9863d211",
-      "title": "Italian Rapper Caparezza Has Voted Communist All His Life",
-      "url": "https://www.inoreader.com/article/3a9c6e760ceb3b71",
-      "author": "Caparezza",
-      "source": "Jacobin",
-      "published_at": "2026-08-27T13:02:17+00:00",
-      "content_excerpt": "Over the last two decades, Caparezza has been one of the most original voices in Italian music. A constantly evolving rapper, he has a vast and loyal audience who have followed him through ever-changing concept albums mixing languages, musical genres, and imagery. His most recent album, Orbit Orbit , released last fall, is accompanied by a comic book written by him. In July, it won the Targa Tenco for best album of the year — the most prestigious award in Italian songwriting, and a rare one for a rapper. Caparezza (real name Michele Salvemini) is one of the few contemporary Italian musicians capable of combining commercial success, artistic experimentation, and political engagement. His songs echo through marches and demonstrations throughout Italy without him ever conforming to the aesthe",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/4fe6297acc869fbe9863d211.json"
-    },
-    {
-      "id": "6b8e3054975307ff8af19cd9",
-      "title": "Socialists Can Never Win — Until We Do",
-      "url": "https://democraticleft.dsausa.org/2026/08/27/socialists-can-never-win-until-we-do",
-      "author": "cale_t",
-      "source": "Democratic Left",
-      "published_at": "2026-08-27T11:04:10+00:00",
-      "content_excerpt": "DSA candidates across the country are contesting elections, and the narrative that surrounds them The post Socialists Can Never Win — Until We Do appeared first on Democratic Left .",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/6b8e3054975307ff8af19cd9.json"
-    },
-    {
-      "id": "2e7894d7e8877da401f41aa9",
-      "title": "社会統計学習会拡大版（新・地域医療構想）「京都府における地域医療圏の現状と課題」（オンライン） 開催のご案内",
-      "url": "https://www.inhcc.org/jp/news/open/20250805-seminar.html",
-      "author": "",
-      "source": "非営利・協同総研いのちとくらし",
-      "published_at": "2026-08-27T04:52:27+00:00",
-      "content_excerpt": "社会統計学習会拡大版（新・地域医療構想）「京都府における地域医療圏の現状と課題」を開催します。 今回は京都医労連の塩見様から、厚労省からこの7月3日に公表された新・地域医療構想策定ガイドラインの概要と問題点、京都府の医療統計を使った京都府北部の地域医療の現状と地域医療構想の影響について、お話をいただく予定です（詳細はチラシ参照）。 参加の申し込みは、下記のフォームからお申込みください｡ 日時：2026年8月26日（水）19～21時 Zoomにてオンライン開催(無料)(IDやパスコードはチラシ参照) ゲスト講師: 塩見正（京都医労連） ：地域医療構想策定ガイドラインの概要と問題点、京都の状況（60分） 八田英之（研究所副理事長・全日本民医連顧問）：千葉の医療圏再編の状況（20分） 後藤道夫・研究所副理事長・都留文科大学名誉教授、髙山一夫・研究所理事長・京都橘大学教授からコメント、および全体質疑・意見交換 ※資料について： 当日、画面共有とチャット添付予定ですが、事前送付希望者は下記登録フォームから、メールアドレスを登録ください。 https://forms.gle/SHFxwqZoymwvhPan8 チラシ（PDF）はこちら 。 ※社会統計学習会とは.……当研究所副理事長の後藤道夫が講師をつとめ、貧困、雇用・賃金、社会保障の給付や利用者負担などについて、公表統計を使いながらどのように議論してきたのかを学んでいます。登録メンバーによるオンライン開催ですが、今回のような拡大版も適宜あります。",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/2e7894d7e8877da401f41aa9.json"
-    },
-    {
-      "id": "ab9eacfec95b8c087f27cc6f",
-      "title": "社会的連帯経済公開研究会（オンライン全3回、1回のみもOK）のご案内",
-      "url": "https://www.inhcc.org/jp/news/open/20260612-sse.html",
-      "author": "",
-      "source": "非営利・協同総研いのちとくらし",
-      "published_at": "2026-08-27T04:52:27+00:00",
-      "content_excerpt": "当研究所では2026年『社会的連帯経済の定義と基礎理念―日本と海外の事例―』を発行しました。この執筆者による連続全3回の短期学習会を開催いたします（テキストなしでも、どなたでも参加自由、参加費無料）。詳細はチラシをご覧ください。 日時： 2026年7月1日(水)、15日(水)、24日(金) いずれも19:00〜21：00 会場： Zoom（3回とも共通） ミーティングID: 828 2833 8302 パスコード: 614379 参加費： 無料 チラシ (PDFファイル)（資料送付希望者はちらしのフォームから登録してください）。",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/ab9eacfec95b8c087f27cc6f.json"
-    },
-    {
-      "id": "23fb11bd05db491063342afb",
-      "title": "2026年度定期総会・記念企画のご案内",
-      "url": "https://www.inhcc.org/jp/news/open/20260529-meeting.html",
-      "author": "",
-      "source": "非営利・協同総研いのちとくらし",
-      "published_at": "2026-08-27T04:52:27+00:00",
-      "content_excerpt": "下記の通り定期総会についてご案内申し上げます。記念企画は参加費無料、どなたでもお申し込みいただけます。 定期総会および記念企画 1． 日時：2026年6月20日（土） 13時30分～14時00分 定期総会 14時15分～17時00分 記念企画（無料） 2． 場所：平和と労働センター・全労連会館 2階ホール（東京・湯島）およびZoomミーティングによるオンライン併用 3．記念企画：帝国主義の「外」と「内」―トランプ政権・排外主義・貧困― 基調講演「トランプ政権と帝国主義」後藤道夫（都留文科大学名誉教授） 報告(1)「ヨーロッパにおける排外主義(仮)」二宮元（琉球大学教授） 報告(2)「アメリカにおける貧困の現状(仮)」髙山一夫（京都橘大学教授） 報告(3)「無料低額診療と日本における貧困の現状(仮)」調整中 ◎ 参加申し込み 以下のフォームからお申し込みください(Zoomミーティングの案内を返信します) https://forms.gle/GUuFSarC29XW8bjs9 ◎ 会場へのアクセス（平和と労働センター・全労連会館 2階ホール） https://zenrouren-kaikan.jp/access/ 2026年度定期総会・記念企画のご案内 (PDF) ※正会員の方は、議決を書面あるいは電子メールにて、事前に送付をお願い申し上げます。",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/23fb11bd05db491063342afb.json"
-    },
-    {
-      "id": "30da801f201a47efce601985",
-      "title": "2026年度研究費助成(研究助成・奨励研究)の公募について",
-      "url": "https://www.inhcc.org/jp/research/subsidize/20260529-subsidize.html",
-      "author": "",
-      "source": "非営利・協同総研いのちとくらし",
-      "published_at": "2026-08-27T04:52:27+00:00",
-      "content_excerpt": "非営利・協同総研いのちとくらしでは、非営利・協同セクターおよび、社会保障制度、医療・福祉制度、経営管理・労働問題など、研究所の定款に掲げる目的に添った、人々の「いのちとくらし」に関わる社会的・経済的・政治的分析・調査研究を支援するため、研究助成の公募をいたします（共同研究、個人研究）。 ●奨励研究の公募について 非営利・協同総研いのちとくらしでは、下記の内容で奨励研究を公募いたします（個人研究）。 1．目的 本奨励研究の目的は、以下に関わる実践や調査・研究を支援することである。 ①医療・福祉の施策や制度について ②新自由主義と市場経済論について ③非営利・協同セクターの実践・理論研究 2．対象 研究者（応募時に概ね40歳未満）及び実務者（年齢不問）で、「非営利・協同」や「いのちとくらし」に関する調査・研究の成果（１万字程度）を２年以内に『いのちとくらし研究所報』などへ投稿できる個人。会員かどうかは問わないが、採用された場合には入会できる者（団体会員の職員も対象に含む）。 2026年度研究助成要項 (Microsoft Wordファイル) 2026年度奨励研究要項 (Microsoft Wordファイル)",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/30da801f201a47efce601985.json"
-    },
-    {
-      "id": "df86842cfb25a48d8e2846bd",
-      "title": "機関誌『いのちとくらし研究所報』 94号",
-      "url": "https://www.inhcc.org/jp/publishing/review/20260331-review-no094.html",
-      "author": "",
-      "source": "非営利・協同総研いのちとくらし",
-      "published_at": "2026-08-27T04:52:27+00:00",
-      "content_excerpt": "巻頭エッセイ：トランプ氏は「三権分立の意義」を理解できない（中川雄一郎） 特集：まちづくりの諸問題（生業と福祉） 小規模漁業と地域の存続（馬場治） 後継者問題からみた農業をめぐる現状と課題（小林元） 「共助」の強制政策にどう対抗するか―島根県の「小さな拠点」を事例に―（関耕平） 座談会：地域包括支援センターの現状と課題（田澤宏治、井上雅美、小島薫、司会：松田貴弘） 連載：総力戦体制下・保健国策の正体（10）第75回帝国議会における国民体力管理法案審議（その2）（森川貞夫） 連載：アメリカの医療政策動向（4）医療政策と司法の役割－ＡＣＡ予防給付をめぐる連邦最高裁判決－（髙山一夫） 2021年度研究助成概要報告：原子力被災地域における食のコミュニティ再生のモデル構築－研究助成報告書籍の概要－（荒井聡） 2023年度研究助成概要報告：公害発生と補償過程における差別と貧困－宮崎県土呂久地区慢性砒素中毒症を例に（鎌谷勇宏） 2024年度研究助成概要報告：施設入所における高齢者本人への意思確認に関する実態と課題－有料老人ホーム入所支援担当職員を対象とした調査研究－（片山祥子）",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/df86842cfb25a48d8e2846bd.json"
-    },
-    {
-      "id": "11ef1e4f44aed98a773b3e2a",
-      "title": "『社会的連帯経済の定義と基礎理念 ―日本と海外の事例―",
-      "url": "https://www.inhcc.org/jp/publishing/report/20260228-SSE-report.html",
-      "author": "",
-      "source": "非営利・協同総研いのちとくらし",
-      "published_at": "2026-08-27T04:52:27+00:00",
-      "content_excerpt": "ISBN: 978-4-903543-22-2 編者: 社会的連帯経済研究会 著者: 中川雄一郎・富沢賢治・大高研道・石塚秀雄・竹野ユキコ 頒価: 1,500円 発行日2026年02月28日 序章 コミュニケーション コミュニティと社会的連帯経済 中川雄一郎 1. 社会的経済の定義と基礎理念 沢賢治 2. 労働者協同組合の成立と社会的連帯経済―「協同労働」概念の再検討― 大高研道 3. エクアドル憲法における「ブエンビビール」と「自然の権利」と社会的連帯経済 石塚秀雄 あとがき 石塚秀雄・竹野ユキコ・富沢賢治",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/11ef1e4f44aed98a773b3e2a.json"
-    },
-    {
-      "id": "c1bad3197098d4493a776b45",
-      "title": "社会統計学習会(オンライン)開催のご案内",
-      "url": "https://www.inhcc.org/jp/news/open/20250903-seminar.html",
-      "author": "",
-      "source": "非営利・協同総研いのちとくらし",
-      "published_at": "2026-08-27T04:52:27+00:00",
-      "content_excerpt": "研究所では、社会統計学習会(オンライン)を開催します。 講師からの一言など、詳細はチラシをご覧下さい（エクセル操作は各自で学習しておいて下さい）。 参加の申し込みは、下記のフォームからお申込みください｡ 講師： 後藤 道夫 （ごとう みちお、研究所副理事長、都留文科大学名誉教授） Zoomミーティングによるオンライン （参加費無料、後日動画シェアあり） 月１回、夜７時～２時間程度を想定（日時は参加者で検討して決定） 対象：研究所の会員 （団体会員所属の方も含む）で関心をお持ちの方など 第1回は、2025年9月24日（水）19時～21時 Zoomにて開催 ……下記URLあるいはQRコードで開くフォームからお申し込みください（ 9/23（火） まで）。 ……資料送付やご連絡は、登録いただいたメールアドレス宛にさせていただきます。 申し込みフォーム： https://forms.gle/Ru6ukvhebPj5VosV9 チラシ（PDF）はこちら 。",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/c1bad3197098d4493a776b45.json"
     }
   ]
 }
