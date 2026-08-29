@@ -1,12 +1,72 @@
 {
-  "generated_at": "2026-08-29T02:23:01.240720+00:00",
-  "generated_at_jst": "2026-08-29T11:23:01.240720+09:00",
-  "period_start": "2026-08-27T20:23:01.240720+00:00",
+  "generated_at": "2026-08-29T21:53:41.942572+00:00",
+  "generated_at_jst": "2026-08-30T06:53:41.942572+09:00",
+  "period_start": "2026-08-28T15:53:41.942572+00:00",
   "lookback_hours": 30,
   "folder": "00_毎日確認",
-  "article_count": 8,
+  "article_count": 7,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "aef30b3ff3fae59dc5e0dd1a",
+      "title": "Starbucks Workers Are Calling for a Nationwide Boycott",
+      "url": "https://www.inoreader.com/article/3a9c6e76022635c5",
+      "author": "Jenny Brown",
+      "source": "Jacobin",
+      "published_at": "2026-08-29T15:13:35+00:00",
+      "content_excerpt": "No contract? No Starbucks coffee at the union hall. Seeking to pressure Starbucks to finally sign a contract with its 12,000 unionized baristas, Starbucks Workers United announced a boycott of the chain August 25. In addition to individual customers, they are asking organizations and unions to stop patronizing the coffee giant, including avoiding catering and sponsorships, until they get a contract. The AFL-CIO has already signed on, and the 25,000-strong Chicago Teachers Union voted to boycott on August 26. Starbucks Workers United members conducted their largest and longest strike yet last November, demanding that the company resolve its 550 unfair labor practice charges and negotiate in good faith. Three thousand baristas in one hundred cities struck, in some cases staying out into Janu",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/aef30b3ff3fae59dc5e0dd1a.json"
+    },
+    {
+      "id": "3a920e853a544231be67bb4f",
+      "title": "Tony Is a Terrific Coming-of-Age Story",
+      "url": "https://www.inoreader.com/article/3a9c6e76022c60f5",
+      "author": "Eileen Jones",
+      "source": "Jacobin",
+      "published_at": "2026-08-29T14:11:29+00:00",
+      "content_excerpt": "A loose adaptation of just a few pages from the memoir that made Anthony Bourdain famous, Tony is a triumph of warm, earthy, character-centered filmmaking on a modest scale. Writer-director Matt Johnson (BlackBerry, Nirvanna the Band the Show the Movie) focuses the film on one fateful summer in 1975, when glowering, disaffected nineteen-year-old Tony Bourdain (Dominic Sessa) gets his start in restaurant work as a lowly dishwasher in a Cape Cod seafood joint.This film will make a great double feature with Alexander Payne’s delightful Christmas movie The Holdovers (2023). Both star the highly talented Dominic Sessa as a troubled teen acting out furiously while coming of age in the 1970s, and both center on brief but intense vacation interludes when a small cluster of characters, pushed toget",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/3a920e853a544231be67bb4f.json"
+    },
+    {
+      "id": "fe03ddb75ee4cc2081f496c3",
+      "title": "Centrist Dems Are at War With Their Own Voters on Israel",
+      "url": "https://www.inoreader.com/article/3a9c6e76022f5e30",
+      "author": "Branko Marcetic",
+      "source": "Jacobin",
+      "published_at": "2026-08-29T13:41:50+00:00",
+      "content_excerpt": "The “civil war” currently playing out in the Democratic Party is usually thought of as a battle between socialists and progressives on the one hand, and centrists on the other. Which it is. But it’s also a battle between the Democratic establishment and its own voters.If you need proof, look at party leadership’s plans to install Jared Moskowitz and several other right-wing Democrats in influential foreign policy positions if the party retakes the House of Representatives.“I’ll be in a position to help steer US policy on Israel and the Middle East,” said Moskowitz, who will become chair of the Middle East and North Africa subcommittee if the party wins big in November.The views of the Democratic electorate on Israel are not ambiguous. A recent poll carried out by YouGov, for example, found",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/fe03ddb75ee4cc2081f496c3.json"
+    },
+    {
+      "id": "e1c86029fcd1022ea73c990c",
+      "title": "Faced With Record Fires, France Skimps on Fire Crews",
+      "url": "https://www.inoreader.com/article/3a9c6e76022a63ca",
+      "author": "Marlon Ettinger",
+      "source": "Jacobin",
+      "published_at": "2026-08-29T13:10:39+00:00",
+      "content_excerpt": "For thirty years, Patrice Hureaux has fought fires in his forest-covered corner of southwestern France. Every summer, he and his team work diligently to put out fires in the woods right as they start. Landes, where he lives and works, is one of the most wooded of France’s 101 local départements , with fully two-thirds of its territory covered in trees. He and his colleagues have their work cut out for them, but the vigilance is worth it. “It’s much easier to put out a fire when it starts than to let it build in intensity,” Hureaux told me earlier this month. “After, you need much more water and much more resources.” This summer has presented a particularly grueling challenge for France’s volunteer firefighters like Hureaux, as well as its understaffed professional forces. Out-of-control fi",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/e1c86029fcd1022ea73c990c.json"
+    },
     {
       "id": "86fe414e6278c9554b5faadc",
       "title": "UAW Members Voting for International Officers",
@@ -51,81 +111,6 @@
       "priority": 1,
       "date_missing": false,
       "article_path": "articles/c1d03612fb6d32bb339d8cf7.json"
-    },
-    {
-      "id": "de392a610fcd4994162e113c",
-      "title": "James Lawson Was the Civil Rights Movement’s Drill Sergeant",
-      "url": "https://www.inoreader.com/article/3a9c6e760396ff0c",
-      "author": "Chris Maisano",
-      "source": "Jacobin",
-      "published_at": "2026-08-28T14:44:44+00:00",
-      "content_excerpt": "Reverend James Lawson Jr did not attend the 1963 March on Washington for Jobs and Freedom. Most of the movement’s boldfaced names — the “Big Six” civil rights leaders, labor leaders and religious figures, celebrities and entertainers — were there, in front of a quarter million people up on the Lincoln Memorial’s marble steps. But Lawson was not. He was hundreds of miles away from the nation’s capital, organizing and training people at a regional gathering of Methodist student leaders in Upstate New York. Lawson and his colleagues paused the proceedings so that anyone who wanted to board a bus to Washington early that morning could do so. “I had planned to go,” recalls Lawson in his landmark memoir, Nonviolent , “but we didn’t have enough room for every student who wanted to attend. I decid",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/de392a610fcd4994162e113c.json"
-    },
-    {
-      "id": "0400458fb057f9472c81733f",
-      "title": "The Customer Is Always Watching",
-      "url": "https://www.inoreader.com/article/3a9c6e7603933a42",
-      "author": "Alex N. Press",
-      "source": "Jacobin",
-      "published_at": "2026-08-28T14:15:10+00:00",
-      "content_excerpt": "Toru Hinkle was stocking shelves at Target when two customers appeared. Toru asked if they needed help. The men wanted a price check on an item that cost $20, but even after Hinkle told them the price, they kept asking. Eventually Hinkle noticed a blinking light on one customer’s glasses. Mia Sato reported what happened next for The Verge , speaking with Hinkle and other workers about the new problems posed by customers wearing Ray-Ban Meta glasses. The men were filming Hinkle. They kept up the bit, repeatedly asking the price and deliberately misgendering Hinkle (who uses “they/them” pronouns) and a manager who came over to help. Hinkle told Sato that Hinkle tried saying “Meta, stop recording,” hoping the command might work on someone else’s glasses. It didn’t. The video wound up online, ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/0400458fb057f9472c81733f.json"
-    },
-    {
-      "id": "462551f12e04f9b4e44d91fd",
-      "title": "Trump’s Art of the Bad Deal Comes to Canada",
-      "url": "https://www.inoreader.com/article/3a9c6e76039f74f5",
-      "author": "Stuart Trew",
-      "source": "Jacobin",
-      "published_at": "2026-08-28T13:45:18+00:00",
-      "content_excerpt": "Canadian Prime Minister Mark Carney’s decision to withdraw his trade negotiating team from Washington last Friday was surprising and refreshing. Surprising because Carney clearly wanted a deal and has a record of conceding to Donald Trump again and again , to no effect, in hopes of securing one. Refreshing because the deal on offer would have been terrible for Canadian workers. The interests of labor and capital are not the same, and Carney’s position is not the Left’s. Canadian workers care about the health of their country’s productive base but have no interest in undercutting American workers in this trade war, which is doing the latter no favors in any case. The industries in Trump’s crosshairs support millions. Their destruction would devastate communities on both sides of the border,",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/462551f12e04f9b4e44d91fd.json"
-    },
-    {
-      "id": "188fbee33238e9da32eb47f3",
-      "title": "France Needs a President Who Isn’t for the Bosses",
-      "url": "https://www.inoreader.com/article/3a9c6e76039be1c7",
-      "author": "Marlon Ettinger",
-      "source": "Jacobin",
-      "published_at": "2026-08-28T13:14:24+00:00",
-      "content_excerpt": "Heavy rain pummeled the canopy over the covered stage in Paris’s Roland-Garros stadium on Thursday night, midway through the first debate for next spring’s French presidential election. The seven candidates present, who included Jean-Luc Mélenchon, Marine Le Pen, Édouard Philippe, Gabriel Attal, Raphaël Glucksmann, and Marine Tondelier, volleyed competing economic visions in front of a buttoned-up crowd of entrepreneurs and business leaders attending the Movement of French Businesses’ (Medef) summer conference. There was plenty on stage for Medef corporate chiefs to cheer for. The pro-business, deregulation-happy employers’ union has already enjoyed a long string of political wins since its founding in 1998. Whoever the president has been, Medef’s priorities have consistently been carried ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/188fbee33238e9da32eb47f3.json"
-    },
-    {
-      "id": "a712b786db7eab820d432077",
-      "title": "Review: The Wind Cries Freedom: An Oral History of the Next American Revolution",
-      "url": "https://medium.com/dsa-detroit-newspaper/review-the-wind-cries-freedom-an-oral-history-of-the-next-american-revolution-e1ca53e6a173?source=rss-160b7baee925------2",
-      "author": "Detroit DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-08-28T04:15:22+00:00",
-      "content_excerpt": "The cover for The Wind Cries Freedom by Michael Albert By Will Froberg Michael Albert takes you into a parallel universe in which the fictional Revolutionary Participatory Society (RPS) mass movement has grasped the levers of power in the United States, and is now in the process of implementing their participatory vision. Through a series of interviews with RPS organizers, Albert explains the means by which the movement eventually prevailed. Their vision includes an alternative to capitalism called a participatory economy , which the author invented alongside Robin Hahnel back in the 1960’s, and which he has spent his life advocating for. One of the RPS organizers reflects on the direction the movement settled on at their first convention. She describes a participatory economy as being “a ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/a712b786db7eab820d432077.json"
     }
   ]
 }
