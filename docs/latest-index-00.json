@@ -1,116 +1,71 @@
 {
-  "generated_at": "2026-08-29T21:53:41.942572+00:00",
-  "generated_at_jst": "2026-08-30T06:53:41.942572+09:00",
-  "period_start": "2026-08-28T15:53:41.942572+00:00",
+  "generated_at": "2026-08-30T21:58:22.439111+00:00",
+  "generated_at_jst": "2026-08-31T06:58:22.439111+09:00",
+  "period_start": "2026-08-29T15:58:22.439111+00:00",
   "lookback_hours": 30,
   "folder": "00_毎日確認",
-  "article_count": 7,
+  "article_count": 4,
   "excerpt_chars": 800,
   "articles": [
     {
-      "id": "aef30b3ff3fae59dc5e0dd1a",
-      "title": "Starbucks Workers Are Calling for a Nationwide Boycott",
-      "url": "https://www.inoreader.com/article/3a9c6e76022635c5",
-      "author": "Jenny Brown",
+      "id": "78f1e4472119958a14305a59",
+      "title": "Indonesia Still Hasn’t Come to Terms With Suharto’s Crimes",
+      "url": "https://www.inoreader.com/article/3a9c6e7602929110",
+      "author": "Michael G. Vann",
       "source": "Jacobin",
-      "published_at": "2026-08-29T15:13:35+00:00",
-      "content_excerpt": "No contract? No Starbucks coffee at the union hall. Seeking to pressure Starbucks to finally sign a contract with its 12,000 unionized baristas, Starbucks Workers United announced a boycott of the chain August 25. In addition to individual customers, they are asking organizations and unions to stop patronizing the coffee giant, including avoiding catering and sponsorships, until they get a contract. The AFL-CIO has already signed on, and the 25,000-strong Chicago Teachers Union voted to boycott on August 26. Starbucks Workers United members conducted their largest and longest strike yet last November, demanding that the company resolve its 550 unfair labor practice charges and negotiate in good faith. Three thousand baristas in one hundred cities struck, in some cases staying out into Janu",
+      "published_at": "2026-08-30T13:50:08+00:00",
+      "content_excerpt": "On July 27 this year, a black covering fell from a bronze statue in the courtyard at the headquarters of the Indonesian Democratic Party of Struggle (PDI-P) in central Jakarta. The sculpture revealed a woman with her mouth open in a cry, her arms wrapped around five figures whose heads bend beneath an unseen weight. Designed by the politically engaged Indonesian sculptor Dolorosa Sinaga , the monument marks the thirtieth anniversary of Kudatuli — Kerusuhan Dua Puluh Tujuh Juli, or the July 27 riots. This was one of the final great acts of political violence carried out by Suharto’s thirty-two-year New Order dictatorship. Political Landscaping Megawati Soekarnoputri, the PDI-P chair and the woman whose political rise the 1996 attack was intended to stop, pressed the button that unveiled the",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/aef30b3ff3fae59dc5e0dd1a.json"
+      "article_path": "articles/78f1e4472119958a14305a59.json"
     },
     {
-      "id": "3a920e853a544231be67bb4f",
-      "title": "Tony Is a Terrific Coming-of-Age Story",
-      "url": "https://www.inoreader.com/article/3a9c6e76022c60f5",
-      "author": "Eileen Jones",
+      "id": "ede421109710217b64cb6ce1",
+      "title": "The American Plutocracy Wants Workers Trapped in Debt",
+      "url": "https://www.inoreader.com/article/3a9c6e760292910f",
+      "author": "Giorgos Gouzoulis",
       "source": "Jacobin",
-      "published_at": "2026-08-29T14:11:29+00:00",
-      "content_excerpt": "A loose adaptation of just a few pages from the memoir that made Anthony Bourdain famous, Tony is a triumph of warm, earthy, character-centered filmmaking on a modest scale. Writer-director Matt Johnson (BlackBerry, Nirvanna the Band the Show the Movie) focuses the film on one fateful summer in 1975, when glowering, disaffected nineteen-year-old Tony Bourdain (Dominic Sessa) gets his start in restaurant work as a lowly dishwasher in a Cape Cod seafood joint.This film will make a great double feature with Alexander Payne’s delightful Christmas movie The Holdovers (2023). Both star the highly talented Dominic Sessa as a troubled teen acting out furiously while coming of age in the 1970s, and both center on brief but intense vacation interludes when a small cluster of characters, pushed toget",
+      "published_at": "2026-08-30T13:50:08+00:00",
+      "content_excerpt": "In May 2026, the White House’s top economist went on Fox Business to make an argument that would probably have gotten him laughed out of any economics seminar twenty years ago. Kevin Hassett told Maria Bartiromo that “the consumer is really, really firing on all cylinders,” pointing to a fresh surge in credit card spending as proof that the economy was thriving. Days earlier, Treasury Secretary Scott Bessent argued that according to banks and credit card companies, “all quintiles of the distribution group is [ sic ] very strong.” The reality couldn’t be further from that picture. Subprime auto delinquencies had just hit a thirty-two-year high, while farm bankruptcies were up 46 percent on the year. Personal debt had pushed past $18.8 trillion . None of that made it into Hassett’s or Bessen",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/3a920e853a544231be67bb4f.json"
+      "article_path": "articles/ede421109710217b64cb6ce1.json"
     },
     {
-      "id": "fe03ddb75ee4cc2081f496c3",
-      "title": "Centrist Dems Are at War With Their Own Voters on Israel",
-      "url": "https://www.inoreader.com/article/3a9c6e76022f5e30",
-      "author": "Branko Marcetic",
+      "id": "168e52750a6595b99a3f873a",
+      "title": "AI Isn’t Coming for Our Jobs. It’s Coming for Our Wages.",
+      "url": "https://www.inoreader.com/article/3a9c6e760292910d",
+      "author": "Nuno Teles",
       "source": "Jacobin",
-      "published_at": "2026-08-29T13:41:50+00:00",
-      "content_excerpt": "The “civil war” currently playing out in the Democratic Party is usually thought of as a battle between socialists and progressives on the one hand, and centrists on the other. Which it is. But it’s also a battle between the Democratic establishment and its own voters.If you need proof, look at party leadership’s plans to install Jared Moskowitz and several other right-wing Democrats in influential foreign policy positions if the party retakes the House of Representatives.“I’ll be in a position to help steer US policy on Israel and the Middle East,” said Moskowitz, who will become chair of the Middle East and North Africa subcommittee if the party wins big in November.The views of the Democratic electorate on Israel are not ambiguous. A recent poll carried out by YouGov, for example, found",
+      "published_at": "2026-08-30T13:50:08+00:00",
+      "content_excerpt": "The Economist recently ran a cover entitled “ Prepare for an AI jobs apocalypse ,” citing widespread fear among the American public of artificial-intelligence-induced job losses. Such fearmongering is far from new. Information technology breakthroughs have led to many such announcements over the last few decades. In the 1990s, we had the computer scare, prompted by best-selling authors such as Jeremy Rifkin and Viviane Forrester . More recently, in 2013, we had the robot menace, when an Oxford study estimated that 47 percent of jobs in the United States were at risk of computerization. At both times, such prophecies coincided with mass unemployment, not caused by technology but by economic recessions driven by financial instability and austerity policies. Yet such stories helped to natural",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/fe03ddb75ee4cc2081f496c3.json"
+      "article_path": "articles/168e52750a6595b99a3f873a.json"
     },
     {
-      "id": "e1c86029fcd1022ea73c990c",
-      "title": "Faced With Record Fires, France Skimps on Fire Crews",
-      "url": "https://www.inoreader.com/article/3a9c6e76022a63ca",
-      "author": "Marlon Ettinger",
+      "id": "81fe6d084370c6382e7fee2a",
+      "title": "The Oil Crisis That Became a Weapon Against Welfare",
+      "url": "https://www.inoreader.com/article/3a9c6e760292910c",
+      "author": "Oskar Brandt",
       "source": "Jacobin",
-      "published_at": "2026-08-29T13:10:39+00:00",
-      "content_excerpt": "For thirty years, Patrice Hureaux has fought fires in his forest-covered corner of southwestern France. Every summer, he and his team work diligently to put out fires in the woods right as they start. Landes, where he lives and works, is one of the most wooded of France’s 101 local départements , with fully two-thirds of its territory covered in trees. He and his colleagues have their work cut out for them, but the vigilance is worth it. “It’s much easier to put out a fire when it starts than to let it build in intensity,” Hureaux told me earlier this month. “After, you need much more water and much more resources.” This summer has presented a particularly grueling challenge for France’s volunteer firefighters like Hureaux, as well as its understaffed professional forces. Out-of-control fi",
+      "published_at": "2026-08-30T13:50:08+00:00",
+      "content_excerpt": "On August 15, 1971, Richard Nixon appeared on American television to announce a drastic reordering of the postwar economy. He closed the so-called gold window, ending the convertibility of dollars held by foreign central banks into US gold. Other central banks were no longer allowed to exchange their dollars for American gold. With a short speech, he brought down the monetary order that had underpinned the world economy since World War II: the Bretton Woods system. The United States had put the dollar at the center of the system. The country promised to redeem dollars for gold at a fixed price. Other states tied their currencies to the dollar. But the Vietnam War drained resources, drove up spending, and sent new dollars out around the world. The decision to abandon the dollar’s gold link ",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/e1c86029fcd1022ea73c990c.json"
-    },
-    {
-      "id": "86fe414e6278c9554b5faadc",
-      "title": "UAW Members Voting for International Officers",
-      "url": "https://medium.com/dsa-detroit-newspaper/uaw-members-voting-for-international-officers-900223cfb2e9?source=rss-160b7baee925------2",
-      "author": "Detroit DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-08-28T20:11:03+00:00",
-      "content_excerpt": "Delegates to the UAW Convention in June heard candidates for top offices. Any active member could run; there was no signature-gathering requirement as in some other unions. Photo: Jim West | jimwestphoto.com By Luis Feliz Leon and Jane Slaughter United Auto Workers members are voting by mail ballot for their top officers, for the second time in the union’s 91 years. Ballots went out August 21 and are due back by October 5. The contest will decide whether President Shawn Fain, who became famous for leading 2023’s Stand-Up Strike against the Big 3 automakers, will be able to continue the union’s about-face from its previous employer-friendly ways. William Hughes, a member of UAW Local 249 at Ford Kansas City, said the election is about maintaining the union’s momentum in winning gains for th",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/86fe414e6278c9554b5faadc.json"
-    },
-    {
-      "id": "39caa77906613988a2c4fcea",
-      "title": "New York City’s Electoral Earthquake: How We Did It",
-      "url": "https://democraticleft.dsausa.org/2026/08/28/new-york-citys-electoral-earthquake-how-we-did-it",
-      "author": "Democratic Left",
-      "source": "Democratic Left",
-      "published_at": "2026-08-28T18:05:07+00:00",
-      "content_excerpt": "Democratic Left interviews two leaders of New York City DSA’s electoral working group on the strategic decisions behind the chapter’s near sweep in June. The post New York City’s Electoral Earthquake: How We Did It appeared first on Democratic Left .",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/39caa77906613988a2c4fcea.json"
-    },
-    {
-      "id": "c1d03612fb6d32bb339d8cf7",
-      "title": "Colombia’s Far Right Sees an Earthquake as an Opportunity",
-      "url": "https://www.inoreader.com/article/3a9c6e7603a44c9a",
-      "author": "Cruz Bonlarron Martínez",
-      "source": "Jacobin",
-      "published_at": "2026-08-28T16:44:56+00:00",
-      "content_excerpt": "On August 10, western Colombia was rocked by a 7.8 magnitude earthquake. Images of collapsed buildings and ordinary citizens organizing to remove the rubble quickly circulated on social media and through news agencies. Cali, the region’s largest city, quickly became the week’s trending topic. This came just three days after the country’s far-right President Abelardo de la Espriella had taken power in a highly divisive and militarized spectacle held at a military base in the city, which voted overwhelmingly for his leftist competitor Iván Cepeda. Now after the earthquake, Cali and western Colombia are taking center stage in the administration’s reversal of Gustavo Petro’s redistributive policies and its attempt to refound Colombia as a bastion of far-right politics. The Initial Response Ins",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/c1d03612fb6d32bb339d8cf7.json"
+      "article_path": "articles/81fe6d084370c6382e7fee2a.json"
     }
   ]
 }

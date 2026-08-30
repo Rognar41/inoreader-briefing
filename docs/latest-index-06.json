@@ -1,12 +1,72 @@
 {
-  "generated_at": "2026-08-29T21:53:41.942572+00:00",
-  "generated_at_jst": "2026-08-30T06:53:41.942572+09:00",
-  "period_start": "2026-08-28T15:53:41.942572+00:00",
+  "generated_at": "2026-08-30T21:58:22.439111+00:00",
+  "generated_at_jst": "2026-08-31T06:58:22.439111+09:00",
+  "period_start": "2026-08-29T15:58:22.439111+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
-  "article_count": 16,
+  "article_count": 7,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "e57ebcf47df0b6d204a16e12",
+      "title": "“Don’t Be Squeamish About Squamous, Get a Checkup!” Amy Goodman’s Personal Health Update",
+      "url": "https://www.democracynow.org/2026/8/28/dont_be_squeamish_about_squamous",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-08-30T21:17:15+00:00",
+      "content_excerpt": "This is a rush transcript. Copy may not be in its final form. AMY GOODMAN : This is Democracy Now! , democracynow.org, The War and Peace Report . I’m Amy Goodman, with Juan González. Before we move on with the show, I wanted to say a few words about my absence from the show this week. I took time off following a minor but important medical procedure known as Mohs surgery — that’s M-O-H-S — microscopic surgery, to remove some skin cells on my nose that tested positive for squamous cell cancer. The procedure was painless, using only minimal local anesthesia, and it went well. I got the stitches out yesterday and now have Steri-Strips across the bridge of my nose, a kind of post-surgical Band-Aid. But I decided to come back on, because I think it’s important that we are not — you know, we don",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/e57ebcf47df0b6d204a16e12.json"
+    },
+    {
+      "id": "82c6868ad356b62c94941dc9",
+      "title": "Palestinian Christians are disappearing. Warnings are not enough.",
+      "url": "https://mondoweiss.net/2026/08/palestinian-christians-are-disappearing-warnings-are-not-enough",
+      "author": "Dave Reed",
+      "source": "Mondoweiss",
+      "published_at": "2026-08-30T12:47:09+00:00",
+      "content_excerpt": "Church leaders, activists, and Palestinian media keep sounding the alarm: Palestinian Christians are leaving the Holy Land. We need an institutional and economic strategy that makes staying a viable choice, not just a moral one.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/82c6868ad356b62c94941dc9.json"
+    },
+    {
+      "id": "66651574272d908e9a8e1669",
+      "title": "Brazil must not surrender its critical minerals",
+      "url": "https://breakthroughnews.org/2026/08/30/brazil-must-not-surrender-its-critical-minerals",
+      "author": "Vijay Prashad",
+      "source": "BT News",
+      "published_at": "2026-08-30T03:45:12+00:00",
+      "content_excerpt": "In Minaçu, in the northern part of the Brazilian state of Goiás, the landscape bears the scars of an earlier mineral rush. For decades, the town depended on the Cana Brava asbestos mine, whose prosperity was inseparable from lethal illnesses and a long history of environmental damage. Now Minaçu has been recruited into another promised future. At the Pela Ema mine, Serra Verde extracts rare-earth elements required for electric motors, wind turbines, advanced electronics, and weapons systems. The mineral has changed, but the danger is that the old structure of dependency will remain intact. Brazil possesses approximately 23% of the world’s known rare-earth reserves, second only to China. Yet it accounts for barely 1% of production and lacks an integrated industrial chain capable of separati",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/66651574272d908e9a8e1669.json"
+    },
+    {
+      "id": "609b6086b5855e8ecbf88ded",
+      "title": "FIDEL x 100: A Century in the Battle of Ideas and Emotions",
+      "url": "https://thetricontinental.org/art-bulletin-fidel-x-100",
+      "author": "",
+      "source": "[:en]THE TRICONTINENTAL[:es]TRICONTINENTAL[:]",
+      "published_at": "2026-08-30T03:13:26+00:00",
+      "content_excerpt": "The Thirtieth Art Bulletin (August 2026) Listen to ‘ Y en eso llegó Fidel ’ (And Just Then, Fidel Arrived, 1959) by Carlos Puebla, performed in the lively guaracha rhythm that helped carry the song from revolutionary Cuba to union halls, cantinas, political schools, and liberation movements across Latin America. Havana, August 2026 From 6 to 9 August, more than 180 delegates from 27 countries representing more than 130 organisations gathered at the University of Havana for the IV Continental Assembly of ALBA Movimientos, a space for articulating popular movements around the project of socialism, anti-imperialism, and continental integration. As part of the assembly’s cultural programme, FIDEL x 100 commemorated the centenary of Fidel Castro’s birth with more than 200 posters created by ove",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/609b6086b5855e8ecbf88ded.json"
+    },
     {
       "id": "de7ccc35f0e5fe741b80b12a",
       "title": "Israel kills three in airstrike on Jenin",
@@ -51,201 +111,6 @@
       "priority": 2,
       "date_missing": false,
       "article_path": "articles/4f355f7f663a60a14cb30afd.json"
-    },
-    {
-      "id": "cf9e5f1c0991821ad01381a5",
-      "title": "U.S. slaps sanctions on left-wing groups, including Palestine Action",
-      "url": "https://mronline.org/2026/08/29/u-s-slaps-sanctions-on-left-wing-groups-including-palestine-action",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-08-29T13:08:18+00:00",
-      "content_excerpt": "The sanctions mean all property and interests in property of the groups or individuals that are in the U.S. “or in the possession or control of U.S. persons” are blocked. The post U.S. slaps sanctions on left-wing groups, including Palestine Action appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/cf9e5f1c0991821ad01381a5.json"
-    },
-    {
-      "id": "d78c6f4a29f51f19853efa66",
-      "title": "After giving up on military force, Trump’s new plan to defeat Iran is…more economic sanctions?",
-      "url": "https://mondoweiss.net/2026/08/after-giving-up-on-military-force-trumps-new-plan-to-defeat-iran-ismore-economic-sanctions",
-      "author": "Mitchell Plitnick",
-      "source": "Mondoweiss",
-      "published_at": "2026-08-29T12:35:55+00:00",
-      "content_excerpt": "Trump's \"Operation Economic Outcast\" to impose secondary sanctions on countries trading with Iran is a tacit admission of U.S. military defeat. But sanctions haven't worked for 47 years, and Iran won't let the U.S. decide when the shooting war ends.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/d78c6f4a29f51f19853efa66.json"
-    },
-    {
-      "id": "f1430b3f379b4235e6a8a475",
-      "title": "The salad monopoly behind the parasite",
-      "url": "https://mronline.org/2026/08/29/the-salad-monopoly-behind-the-parasite",
-      "author": "Gary Wilson",
-      "source": "MR Online",
-      "published_at": "2026-08-29T12:05:04+00:00",
-      "content_excerpt": "By Aug. 21, the Cyclospora outbreak linked to shredded iceberg lettuce sold by Taylor Farms had sickened 10,930 people in 17 states, hospitalized 454 and killed two. The illnesses began June 14 and continued through Aug. 11. The post The salad monopoly behind the parasite appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/f1430b3f379b4235e6a8a475.json"
-    },
-    {
-      "id": "55e717debf2e5cccb177d8b4",
-      "title": "Inside the struggle to dismantle America’s greenhouse gas data",
-      "url": "https://mronline.org/2026/08/29/inside-the-struggle-to-dismantle-americas-greenhouse-gas-data",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-08-29T11:03:32+00:00",
-      "content_excerpt": "New Documents Detail Industry Efforts to Roll Back Federal Methane Regulations But Maintain Emissions Monitoring System. The post Inside the struggle to dismantle America’s greenhouse gas data appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/55e717debf2e5cccb177d8b4.json"
-    },
-    {
-      "id": "f24643a204450c0d0f71ccec",
-      "title": "Nepal flooding: an unnatural catastrophe",
-      "url": "https://mronline.org/2026/08/29/nepal-flooding-an-unnatural-catastrophe",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-08-29T10:02:21+00:00",
-      "content_excerpt": "The collapse of a Himalayan glacier wreaked death and destruction as it cascaded down the valley. Feyzi Ismail explains why this is a result of climate crisis denial. The post Nepal flooding: an unnatural catastrophe appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/f24643a204450c0d0f71ccec.json"
-    },
-    {
-      "id": "c3cc1e6f3c7698931f31ccef",
-      "title": "Baristas ask organizations to boycott until Starbucks signs a contract",
-      "url": "https://mronline.org/2026/08/29/baristas-ask-organizations-to-boycott-until-starbucks-signs-a-contract",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-08-29T09:31:49+00:00",
-      "content_excerpt": "No contract? No Starbucks coffee at the union hall. The post Baristas ask organizations to boycott until Starbucks signs a contract appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/c3cc1e6f3c7698931f31ccef.json"
-    },
-    {
-      "id": "0108f83f65c3bf8fd0a1ae4e",
-      "title": "China saw this coming: Why Trump’s Iran sanctions won’t work with Dr. Ken Hammond",
-      "url": "https://breakthroughnews.org/2026/08/29/china-saw-this-coming-why-trumps-iran-sanctions-wont-work-with-dr-ken-hammond",
-      "author": "Rania Khalek",
-      "source": "BT News",
-      "published_at": "2026-08-29T03:37:27+00:00",
-      "content_excerpt": "Beijing just proved the limits of Washington’s sanctions machine. As US Treasury Secretary Scott Bessent rolls out “Operation Economic Outcast,” China is doing what almost no other country in the world can: refusing to comply with US sanctions on Iran. Dr. Ken Hammond, professor of East Asian and Global History at New Mexico State University, joins Rania Khalek and Zoe Alexandra to unpack how Trump’s promised “economic D-Day” is running headfirst into a wall, as Beijing shields Chinese companies from “illegitimate” US sanctions and continues to buy up to 90% of Iran’s sanctioned crude oil exports. Hammond explains why Trump’s bullying barely registers in Beijing, pointing to years of stockpiling oil reserves, diversifying suppliers, and building BRICS-based alternatives to dollar-dominated",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/0108f83f65c3bf8fd0a1ae4e.json"
-    },
-    {
-      "id": "c3a63f16bd74f19998ebd10c",
-      "title": "Dolly Parton, Hayden Panettiere, and what Hollywood owes women",
-      "url": "https://breakthroughnews.org/2026/08/29/dolly-parton-hayden-panettiere-and-what-hollywood-owes-women",
-      "author": "Rania Khalek",
-      "source": "BT News",
-      "published_at": "2026-08-29T03:37:27+00:00",
-      "content_excerpt": "Rania Khalek and Zoe Alexandra honor Dolly Parton: working-class feminist icon, country music legend and lifelong advocate for the disenfranchised, as the world mourns her death Tuesday at the age of 80. They pay tribute to the songwriter who immortalized the fight for workplace dignity waged by 9 to 5, the National Association of Working Women; the Imagination Library founder and philanthropist who used $10 million in royalties from Whitney Houston’s “I Will Always Love You” (which she wrote) to invest in a historically Black Nashville neighborhood; and the human rights warrior who stood by the queer community decades before it was popular or professionally safe to do so — during the height of the 1980s AIDS crisis. Zoe and Rania also pay tribute to Hayden Panettiere, star of Heroes and N",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/c3a63f16bd74f19998ebd10c.json"
-    },
-    {
-      "id": "3f4a606881010c62f2c31f6e",
-      "title": "Right-wing attack on university in West Bengal sparks mass protests",
-      "url": "https://breakthroughnews.org/2026/08/29/right-wing-attack-on-university-in-west-bengal-sparks-mass-protests",
-      "author": "Abdul Rahman",
-      "source": "BT News",
-      "published_at": "2026-08-29T03:37:27+00:00",
-      "content_excerpt": "Massive protests were organized in cities and towns across the Indian state of West Bengal on Wednesday, August 26 protesting against the rising right-wing attacks on the educational institutions and activists. This was the third such protest action taken since the August 20 midnight attack on the university by the ultra right-wing and Hindu supremacist Bharatiya Janata Party (BJP) and Rashtriya Swayamsevak Sangh (RSS)-affiliated student organization Akhil Bhartiya Vidyarthi Parishad (ABVP). Several students and teachers were injured in the attack and university property was vandalized. Students have lodged accusations that the security forces were unresponsive, while elected members of the state legislative assembly from the ruling BJP were directly involved. ABVP-BJP-RSS goons arrived on",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/3f4a606881010c62f2c31f6e.json"
-    },
-    {
-      "id": "35fc84a3b192b83d667b689e",
-      "title": "Mission impossible? Quantifying military emissions",
-      "url": "https://mronline.org/2026/08/28/mission-impossible-quantifying-military-emissions",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-08-28T21:47:40+00:00",
-      "content_excerpt": "Military and wartime emissions are difficult to track—but too important to ignore. The post Mission impossible? Quantifying military emissions appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/35fc84a3b192b83d667b689e.json"
-    },
-    {
-      "id": "506fea77db579d7381ad4836",
-      "title": "Military government in Guinea-Bissau seeks to reshape political system with referendum",
-      "url": "https://breakthroughnews.org/2026/08/28/military-government-in-guinea-bissau-seeks-to-reshape-political-system-with-referendum",
-      "author": "Nicholas Mwangi",
-      "source": "BT News",
-      "published_at": "2026-08-28T19:34:55+00:00",
-      "content_excerpt": "Guinea-Bissau is set to vote on a new constitution on Sunday, August 30, in a referendum that could alter the country’s political system and strengthen the powers of the presidency. The referendum comes nine months after the military seized control. The crisis traces back to November 23, 2025, when Guinea-Bissau held presidential and parliamentary elections. Both incumbent President Umaro Sissoco Embaló and opposition candidate Fernando Dias da Costa claimed victory. Before the electoral commission could release provisional results, the military intervened on November 26, one day ahead of the announcement suspending the vote count and arresting opposition figures including PAIGC leader Domingos Simões Pereira and PRS’s Francisco da Costa. General Horta N’Tam was installed as transitional p",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/506fea77db579d7381ad4836.json"
-    },
-    {
-      "id": "1614d08aa74dc638ec9d772f",
-      "title": "Health activists in India demand affordable breast cancer treatments",
-      "url": "https://breakthroughnews.org/2026/08/28/health-activists-in-india-demand-affordable-breast-cancer-treatments",
-      "author": "Ana Vračar",
-      "source": "BT News",
-      "published_at": "2026-08-28T17:32:44+00:00",
-      "content_excerpt": "Health activists and public health experts in India are pushing for affordable breast cancer treatments as the Kerala High Court continues to hear a case originally filed in 2022. The case and the surrounding advocacy concern access to the medications ribociclib and abemaciclib – both of which have demonstrated significant benefits for patients with early-stage breast cancer but remain prohibitively expensive for a large part of the population. Breast cancer represents a true public health crisis in India, noted the Working Group on Access to Medicines and Treatment. In 2024 , of the 780,000 new cancer cases among women, breast cancer accounted for 237,000 diagnoses. India also has a notable survival gap compared to other countries: five-year survival stands at 65.7%, compared to 87.3% in ",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/1614d08aa74dc638ec9d772f.json"
-    },
-    {
-      "id": "f591a15842bf0484e3f975d5",
-      "title": "The far right’s dangerous obsession with birth rates",
-      "url": "https://breakthroughnews.org/2026/08/28/the-far-rights-dangerous-obsession-with-birth-rates",
-      "author": "Maisa Bascuas",
-      "source": "BT News",
-      "published_at": "2026-08-28T17:32:44+00:00",
-      "content_excerpt": "This content is for members only. Visit the site and log in/register to read.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/f591a15842bf0484e3f975d5.json"
     }
   ]
 }
