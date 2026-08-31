@@ -1,12 +1,252 @@
 {
-  "generated_at": "2026-08-30T21:58:22.439111+00:00",
-  "generated_at_jst": "2026-08-31T06:58:22.439111+09:00",
-  "period_start": "2026-08-29T15:58:22.439111+00:00",
+  "generated_at": "2026-08-31T23:17:20.617849+00:00",
+  "generated_at_jst": "2026-09-01T08:17:20.617849+09:00",
+  "period_start": "2026-08-30T17:17:20.617849+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
-  "article_count": 7,
+  "article_count": 17,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "a91a00561ede94de2b1db9fb",
+      "title": "BT LIVE: Xi, Putin & Modi Meet – Can the Global South Escape the G20’s Grip?",
+      "url": "https://breakthroughnews.org/2026/08/31/september-1-2026",
+      "author": "emilybrease",
+      "source": "BT News",
+      "published_at": "2026-08-31T21:29:59+00:00",
+      "content_excerpt": "This content is for members only. Visit the site and log in/register to read.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/a91a00561ede94de2b1db9fb.json"
+    },
+    {
+      "id": "2b9338e9140d24dad874b008",
+      "title": "Ebola spreads to 60 health zones in eastern DRC; UN warns of funding shortfall",
+      "url": "https://breakthroughnews.org/2026/08/31/ebola-spreads-to-60-health-zones-in-eastern-drc-un-warns-of-funding-shortfall",
+      "author": "Pavan Kulkarni",
+      "source": "BT News",
+      "published_at": "2026-08-31T20:29:36+00:00",
+      "content_excerpt": "The fastest-growing Ebola outbreak in history, killing nearly one in two infected in the eastern region of the Democratic Republic of Congo (DRC), has spread to six new health zones between August 14 and August 28. The spread remains within six of the country’s 26 provinces identified before August 14: namely Bas-Uélé, Haut-Uélé, Ituri, North Kivu, South Kivu, and Tshopo. However, the number of health zones affected within these six provinces increased from 54 of the 151 to 60 over the following two weeks. The spread was identified in a new health zone of the Tshopo province on August 15. By August 23, the spread was also confirmed in Viadana in Bas-Uélé and Mutwanga in North Kivu. On August 28, infections were also confirmed in the Ganga health zone of Bas-Uélé as well as in Biena and Man",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/2b9338e9140d24dad874b008.json"
+    },
+    {
+      "id": "74558bbd7d29000891e776cc",
+      "title": "Mutiny crushed in Niger; normalcy returns as AES reaffirms unity",
+      "url": "https://breakthroughnews.org/2026/08/31/mutiny-crushed-in-niger-normalcy-returns-as-aes-reaffirms-unity",
+      "author": "Pavan Kulkarni",
+      "source": "BT News",
+      "published_at": "2026-08-31T19:30:27+00:00",
+      "content_excerpt": "Civil society groups marched in solidarity with Niger’s military government on Sunday, August 30, after the army suppressed a mutiny overnight at the country’s main air base in the capital, Niamey, restoring normalcy by Saturday morning. Thousands of people march in solidarity with the CNSP as it faced a mutiny. Photo: ANP Gunfire and explosions were also heard at some sensitive military sites in Niamey after the mutiny began around 20 minutes past midnight , with a group of soldiers confining other soldiers to their barracks and holding them hostage in the military base 101. The base is located in the compound of the Diori Hamani International Airport, about a kilometer away from civilian infrastructure. However, the airport itself was not affected, and flights continued normally, the dir",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/74558bbd7d29000891e776cc.json"
+    },
+    {
+      "id": "b3a2e7586113860127c5a127",
+      "title": "Will a new political alliance unseat the Abbas-led Palestinian Authority?",
+      "url": "https://breakthroughnews.org/2026/08/31/will-a-new-political-alliance-unseat-the-abbas-led-palestinian-authority",
+      "author": "Aseel Saleh",
+      "source": "BT News",
+      "published_at": "2026-08-31T18:31:07+00:00",
+      "content_excerpt": "After over two decades of political impasse caused by the division between the major Palestinian factions Fatah and Hamas, a new alliance in the making has revealed itself as a national unity coalition. The coalition will participate in the historic November 28 elections for the Palestinian Legislative Council (PLC). The PLC elections were held in 2006. According to media reports, the emerging election coalition comprises the Fatah-affiliated Democratic Reform Current and led by Mohammad Dahlan, Hamas, Palestinian Islamic Jihad, the Popular Resistance Committees, and Nasser al-Qudwa’s National Democratic Forum. The Popular Front for the Liberation of Palestine (PFLP) and the Democratic Front for the Liberation of Palestine (DFLP) have yet to finalize their decision to join the coalition, r",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/b3a2e7586113860127c5a127.json"
+    },
+    {
+      "id": "73d7aad3d19da05bcccba4f4",
+      "title": "When the mountain broke: inside Nepal’s deadliest Himalayan flood",
+      "url": "https://breakthroughnews.org/2026/08/31/when-the-mountain-broke-inside-nepals-deadliest-himalayan-flood",
+      "author": "Madhab Pant",
+      "source": "BT News",
+      "published_at": "2026-08-31T18:31:07+00:00",
+      "content_excerpt": "At roughly 8:30 am on August 26, 2026, a wall of water, mud, ice, and massive boulders roared down the Lhende Khola into the Bhotekoshi and Trishuli river systems. The surge struck without local rainfall or warning sirens, catching border communities like Timure, mid-morning. Initial reports mistook the ground tremors for an earthquake, but satellite and seismic data later confirmed the real trigger: a high-altitude collapse of rock and ice near Langtang Lirung, on the Tibetan side, spanning nearly one square kilometer and generating a ground shock equivalent to a magnitude 5.2 quake. Plunging 1,200 vertical meters into the valley, the avalanche briefly dammed the Lhende River before rupturing, unleashing a debris-laden slurry that tore through Rasuwa, Nuwakot, Dhading, Gorkha, Tanahun, an",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/73d7aad3d19da05bcccba4f4.json"
+    },
+    {
+      "id": "483a9005b99acbe6cfe9f428",
+      "title": "The Hour of the Furnaces: Internationalism in Difficult Times",
+      "url": "https://mronline.org/2026/08/31/the-hour-of-the-furnaces-internationalism-in-difficult-times",
+      "author": "Cira Pascual Marquina",
+      "source": "MR Online",
+      "published_at": "2026-08-31T17:33:26+00:00",
+      "content_excerpt": "The task is to recognize the political capacities that remain and to build relationships with those who continue to organize and struggle, here and abroad. The post The Hour of the Furnaces: Internationalism in Difficult Times appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/483a9005b99acbe6cfe9f428.json"
+    },
+    {
+      "id": "6b11d855758c19fcfa7a7931",
+      "title": "“Catastrophe of Unimaginable Proportions”: Nepal Flood Death Toll Tops 900; Near 5,000 Still Missing",
+      "url": "https://www.democracynow.org/2026/8/31/nepal_floods_aftermath",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-08-31T14:38:52+00:00",
+      "content_excerpt": "More than 900 people in Nepal are confirmed dead after a massive wall of water, mud and debris crashed through a Himalayan river valley on the border with Tibet. More than 4,200 people are missing in Nepal and hundreds more in Tibet. Families are searching hospitals for loved ones, and crews have buried hundreds of unidentified bodies in shallow graves. Rescue efforts are also underway for more than 900 hydropower workers, believed to be trapped in more than a dozen underground tunnels blocked by debris. The cause of the flash flooding is believed to have been the collapse of a glacier in the mountains, leading a wave of water, rocks and debris to carve its way through the valley. “This is a catastrophe of unimaginable proportions,” says journalist Kunda Dixit, speaking to Democracy Now! f",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/6b11d855758c19fcfa7a7931.json"
+    },
+    {
+      "id": "1e0685b98a37fd87cdaf3413",
+      "title": "The Real Reason There’s a Munitions Shortage? Too Many Wars & a Dysfunctional Pentagon: William Hartung",
+      "url": "https://www.democracynow.org/2026/8/31/us_munitions_low",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-08-31T14:38:52+00:00",
+      "content_excerpt": "Top U.S. military leaders have reportedly advised Defense Secretary Pete Hegseth against extending the war in Iran because ongoing operations in the Middle East have degraded the Pentagon’s ability to confront threats elsewhere. According to The Washington Post , the warnings appeared in a classified assessment for Hegseth prepared by the heads of the Army, Navy and Air Force, and the four-star commanders overseeing U.S. operations throughout Europe, Asia and Latin America. This comes after multiple reports have revealed the U.S. is facing a critical munitions shortage, having used up much of its global stockpile of expensive missile systems during the war against Iran. “The Pentagon is completely dysfunctional when it comes to fighting this kind of war,” says defense analyst William Hartu",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/1e0685b98a37fd87cdaf3413.json"
+    },
+    {
+      "id": "3c4abe6150d74a12e2d54901",
+      "title": "“Left Behind and Overlooked”: Indiana Energy Company Left Majority-Black Gary Powerless for Weeks",
+      "url": "https://www.democracynow.org/2026/8/31/gary_indiana",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-08-31T14:38:52+00:00",
+      "content_excerpt": "Thousands of residents recently spent two weeks without power in Gary, Indiana, following a storm that ripped through the majority-Black city. The blackout ground the city to a halt, trapping residents in their apartments, forcing the closure of many businesses and leading to fuel shortages at gas stations. Officials in Indiana estimate the storm might have caused up to $5 billion in damage in Gary and other communities. “We’re still in the recovery phase, as we speak,” says Gary Mayor Eddie Melton, who underscores that “hardening the infrastructure” should be a priority for the NIPSCO utility company. “We’ve never seen wind this strong before. … They need to ensure that the utility grid system is going to sustain that type of wind.” Page 2 As Gary, Indiana, recovers from flooding and a tw",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/3c4abe6150d74a12e2d54901.json"
+    },
+    {
+      "id": "011fb34e2eca1df91076af7b",
+      "title": "Jane Fonda Exclusive: Dolly Parton, a Feminist, Wrote the Anthem for Working Women with “9 to 5”",
+      "url": "https://www.democracynow.org/2026/8/31/jane_fonda_dolly_parton",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-08-31T14:38:52+00:00",
+      "content_excerpt": "Tributes continue to pour in for Dolly Parton after the iconic country singer, actor and philanthropist’s death on August 25 at age 80. Her former co-star Jane Fonda tells Democracy Now! how they made the classic workplace comedy 9 to 5 , for which Parton wrote the accompanying hit song. “She could see through people to their essence,” Fonda says of Parton. “She loved everyone.” Topics Guests Please check back later for full transcript.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/011fb34e2eca1df91076af7b.json"
+    },
+    {
+      "id": "fc613b5b81d5f3b538839a42",
+      "title": "Gaza’s archaeological heritage was destroyed in Israel’s genocide. These volunteers are trying to salvage it from the rubble.",
+      "url": "https://mondoweiss.net/2026/08/gazas-archaeological-heritage-was-destroyed-in-israels-genocide-these-volunteers-are-trying-to-salvage-it-from-the-rubble",
+      "author": "Tareq S. Hajjaj",
+      "source": "Mondoweiss",
+      "published_at": "2026-08-31T13:40:25+00:00",
+      "content_excerpt": "As Israeli strikes leveled museums and 5,000-year-old sites across Gaza, volunteers dug through the rubble by hand to save what they could. Meanwhile, looted artifacts quietly resurfaced in a Paris exhibition.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/fc613b5b81d5f3b538839a42.json"
+    },
+    {
+      "id": "4d67dfd0bae668f30a9335e9",
+      "title": "“Irregular Army: How the US Military Recruited Neo-Nazis, Gang Members, and Criminals to Fight the War on Terror” – book review",
+      "url": "https://mronline.org/2026/08/31/irregular-army-how-the-us-military-recruited-neo-nazis-gang-members-and-criminals-to-fight-the-war-on-terror-book-review",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-08-31T13:27:38+00:00",
+      "content_excerpt": "Kennard’s Irregular Army alarmingly exposes the open door to violent, far-right elements in the US army. This should be connected to imperial overreach, argues Reece Goscinski. The post “Irregular Army: How the US Military Recruited Neo-Nazis, Gang Members, and Criminals to Fight the War on Terror” – book review appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/4d67dfd0bae668f30a9335e9.json"
+    },
+    {
+      "id": "aa7167b98982b621db05ec20",
+      "title": "Huge scandal exposes how USA uses criminals to manipulate elections in Latin America",
+      "url": "https://mronline.org/2026/08/31/huge-scandal-exposes-how-usa-uses-criminals-to-manipulate-elections-in-latin-america",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-08-31T12:25:23+00:00",
+      "content_excerpt": "Huge scandal in Latin America: far-right election meddling specialist Fernando Cerimedo was arrested for trying to assassinate his ex-girlfriend. He oversaw disinformation campaigns for region’s conservative pro-U.S. presidents and has links to Trump admin. The post Huge scandal exposes how USA uses criminals to manipulate elections in Latin America appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/aa7167b98982b621db05ec20.json"
+    },
+    {
+      "id": "c62b053df9719b441b22caac",
+      "title": "The U.S. military’s fatal stance on climate change",
+      "url": "https://mronline.org/2026/08/31/the-u-s-militarys-fatal-stance-on-climate-change",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-08-31T11:24:02+00:00",
+      "content_excerpt": "The Pentagon is preparing to wage war in a warmer world, even as it accelerates it. The post The U.S. military’s fatal stance on climate change appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/c62b053df9719b441b22caac.json"
+    },
+    {
+      "id": "86a1ea1bffafaee5429fee13",
+      "title": "A dying capitalism",
+      "url": "https://mronline.org/2026/08/31/a-dying-capitalism",
+      "author": "Prabhat Patnaik",
+      "source": "MR Online",
+      "published_at": "2026-08-31T10:21:30+00:00",
+      "content_excerpt": "The signs of decay and decrepitude of a dying capitalism are all too evident at present. The post A dying capitalism appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/86a1ea1bffafaee5429fee13.json"
+    },
+    {
+      "id": "8e1a90055cee0adcbadb5c76",
+      "title": "More than 200 days under the Energy Blockade: The silent suffocation of the Cuban people",
+      "url": "https://mronline.org/2026/08/31/more-than-200-days-under-the-energy-blockade-the-silent-suffocation-of-the-cuban-people",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-08-31T09:20:56+00:00",
+      "content_excerpt": "So far in 2026, Cuba has received a single shipment of oil: some 100,000 metric tons of crude donated by Russia—and nothing else. The post More than 200 days under the Energy Blockade: The silent suffocation of the Cuban people appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/8e1a90055cee0adcbadb5c76.json"
+    },
     {
       "id": "e57ebcf47df0b6d204a16e12",
       "title": "“Don’t Be Squeamish About Squamous, Get a Checkup!” Amy Goodman’s Personal Health Update",
@@ -21,96 +261,6 @@
       "priority": 2,
       "date_missing": false,
       "article_path": "articles/e57ebcf47df0b6d204a16e12.json"
-    },
-    {
-      "id": "82c6868ad356b62c94941dc9",
-      "title": "Palestinian Christians are disappearing. Warnings are not enough.",
-      "url": "https://mondoweiss.net/2026/08/palestinian-christians-are-disappearing-warnings-are-not-enough",
-      "author": "Dave Reed",
-      "source": "Mondoweiss",
-      "published_at": "2026-08-30T12:47:09+00:00",
-      "content_excerpt": "Church leaders, activists, and Palestinian media keep sounding the alarm: Palestinian Christians are leaving the Holy Land. We need an institutional and economic strategy that makes staying a viable choice, not just a moral one.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/82c6868ad356b62c94941dc9.json"
-    },
-    {
-      "id": "66651574272d908e9a8e1669",
-      "title": "Brazil must not surrender its critical minerals",
-      "url": "https://breakthroughnews.org/2026/08/30/brazil-must-not-surrender-its-critical-minerals",
-      "author": "Vijay Prashad",
-      "source": "BT News",
-      "published_at": "2026-08-30T03:45:12+00:00",
-      "content_excerpt": "In Minaçu, in the northern part of the Brazilian state of Goiás, the landscape bears the scars of an earlier mineral rush. For decades, the town depended on the Cana Brava asbestos mine, whose prosperity was inseparable from lethal illnesses and a long history of environmental damage. Now Minaçu has been recruited into another promised future. At the Pela Ema mine, Serra Verde extracts rare-earth elements required for electric motors, wind turbines, advanced electronics, and weapons systems. The mineral has changed, but the danger is that the old structure of dependency will remain intact. Brazil possesses approximately 23% of the world’s known rare-earth reserves, second only to China. Yet it accounts for barely 1% of production and lacks an integrated industrial chain capable of separati",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/66651574272d908e9a8e1669.json"
-    },
-    {
-      "id": "609b6086b5855e8ecbf88ded",
-      "title": "FIDEL x 100: A Century in the Battle of Ideas and Emotions",
-      "url": "https://thetricontinental.org/art-bulletin-fidel-x-100",
-      "author": "",
-      "source": "[:en]THE TRICONTINENTAL[:es]TRICONTINENTAL[:]",
-      "published_at": "2026-08-30T03:13:26+00:00",
-      "content_excerpt": "The Thirtieth Art Bulletin (August 2026) Listen to ‘ Y en eso llegó Fidel ’ (And Just Then, Fidel Arrived, 1959) by Carlos Puebla, performed in the lively guaracha rhythm that helped carry the song from revolutionary Cuba to union halls, cantinas, political schools, and liberation movements across Latin America. Havana, August 2026 From 6 to 9 August, more than 180 delegates from 27 countries representing more than 130 organisations gathered at the University of Havana for the IV Continental Assembly of ALBA Movimientos, a space for articulating popular movements around the project of socialism, anti-imperialism, and continental integration. As part of the assembly’s cultural programme, FIDEL x 100 commemorated the centenary of Fidel Castro’s birth with more than 200 posters created by ove",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/609b6086b5855e8ecbf88ded.json"
-    },
-    {
-      "id": "de7ccc35f0e5fe741b80b12a",
-      "title": "Israel kills three in airstrike on Jenin",
-      "url": "https://breakthroughnews.org/2026/08/29/israel-kills-three-in-airstrike-on-jenin",
-      "author": "Aseel Saleh",
-      "source": "BT News",
-      "published_at": "2026-08-29T17:44:05+00:00",
-      "content_excerpt": "The Israeli Army announced on Friday, August 28 that it launched a drone strike in the northern West Bank city of Jenin, killing three Palestinian resistance fighters. It added that Qais Bitawi, whom it described as a Hamas operative in the dismantled Jenin Brigade, was among the fatalities. The other two slain men were identified as Basel Turkman and Ahmad Yaqoub Turkman, according to local media outlets which also reported that the bodies of the three Palestinians were confiscated by the Israeli forces. The deadly attack marks the first Israeli airstrike in the occupied West Bank in 10 months. It was also carried out as part of Israel’s extensive military operations in the occupied territory that started in January 2025. Read more: After the “Iron Wall”: Israel launches another large-sca",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/de7ccc35f0e5fe741b80b12a.json"
-    },
-    {
-      "id": "8e7398e7566be2279e4bafb0",
-      "title": "Canada vs. Trump: Is this a trade war or something bigger?",
-      "url": "https://breakthroughnews.org/2026/08/29/canada-vs-trump-is-this-a-trade-war-or-something-bigger",
-      "author": "Rania Khalek",
-      "source": "BT News",
-      "published_at": "2026-08-29T16:43:00+00:00",
-      "content_excerpt": "Trump torched trade talks with Canada last week after demanding veto power over Canada’s own infrastructure spending and its ability to make deals with other countries. Toronto-based writer and geopolitical analyst Justin Podur tells Rania Khalek and Zoe Alexandra Washington’s demands went well beyond the terms of the USMCA (formerly NAFTA) into “total annexation-style stuff” before the Trump administration slapped 50% tariffs on $20 billion in Canadian goods, everything from dairy and alcohol to hockey equipment. Podur explains what Prime Minister Mark Carney’s “dollar for dollar” retaliation really means for two deeply unequal, deeply integrated economies; why a tens-of-billions-of-dollar F-35 deal is still quietly moving forward as both countries claim they’re at “war”; and why saying n",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/8e7398e7566be2279e4bafb0.json"
-    },
-    {
-      "id": "4f355f7f663a60a14cb30afd",
-      "title": "Babies are being held in ICE detention in Texas with Rep. Joaquin Castro",
-      "url": "https://breakthroughnews.org/2026/08/29/babies-are-being-held-in-ice-detention-in-texas-with-rep-joaquin-castro",
-      "author": "Rania Khalek",
-      "source": "BT News",
-      "published_at": "2026-08-29T16:43:00+00:00",
-      "content_excerpt": "“The commodification of child imprisonment” under Donald Trump is making CoreCivic and GEO Group executives even richer, Rep. Joaquin Castro tells Rania Khalek and Zoe Alexandra. The Democrat representing Texas’s 20th Congressional District says babies as young as two months old are being held in ICE detention, and parents are being coerced into helping entrap their own children, all while private prison giants profit off every kid DHS locks up. Castro breaks down what he’s witnessed inside facilities like the Dilley “trailer prison,” and the explosion of 287(g) agreements turning local police departments into DHS henchmen. But what about the Democrats still voting to fund ICE despite the horrors it’s perpetrating? And can US voters expect real accountability for the mass deportation machi",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/4f355f7f663a60a14cb30afd.json"
     }
   ]
 }

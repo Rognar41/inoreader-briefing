@@ -1,71 +1,101 @@
 {
-  "generated_at": "2026-08-30T21:58:22.439111+00:00",
-  "generated_at_jst": "2026-08-31T06:58:22.439111+09:00",
-  "period_start": "2026-08-29T15:58:22.439111+00:00",
+  "generated_at": "2026-08-31T23:17:20.617849+00:00",
+  "generated_at_jst": "2026-09-01T08:17:20.617849+09:00",
+  "period_start": "2026-08-30T17:17:20.617849+00:00",
   "lookback_hours": 30,
   "folder": "00_毎日確認",
-  "article_count": 4,
+  "article_count": 6,
   "excerpt_chars": 800,
   "articles": [
     {
-      "id": "78f1e4472119958a14305a59",
-      "title": "Indonesia Still Hasn’t Come to Terms With Suharto’s Crimes",
-      "url": "https://www.inoreader.com/article/3a9c6e7602929110",
-      "author": "Michael G. Vann",
+      "id": "91aa717a11d778ffeb6708d4",
+      "title": "Volunteers Were the Key to NYC-DSA’s Socialist Sweep",
+      "url": "https://www.inoreader.com/article/3a9c6e7601532101",
+      "author": "Ashley Bishop",
       "source": "Jacobin",
-      "published_at": "2026-08-30T13:50:08+00:00",
-      "content_excerpt": "On July 27 this year, a black covering fell from a bronze statue in the courtyard at the headquarters of the Indonesian Democratic Party of Struggle (PDI-P) in central Jakarta. The sculpture revealed a woman with her mouth open in a cry, her arms wrapped around five figures whose heads bend beneath an unseen weight. Designed by the politically engaged Indonesian sculptor Dolorosa Sinaga , the monument marks the thirtieth anniversary of Kudatuli — Kerusuhan Dua Puluh Tujuh Juli, or the July 27 riots. This was one of the final great acts of political violence carried out by Suharto’s thirty-two-year New Order dictatorship. Political Landscaping Megawati Soekarnoputri, the PDI-P chair and the woman whose political rise the 1996 attack was intended to stop, pressed the button that unveiled the",
+      "published_at": "2026-08-31T18:33:04+00:00",
+      "content_excerpt": "Since the Democratic Socialists of America (DSA) swept the New York primaries in June, conservative and liberal media alike have tried to make sense of DSA’s meteoric rise by tying them to ascendant New York City Mayor Zohran Mamdani and his “kingmaking” abilities. Beyond a cursory nod to the army of volunteers knocking doors and making phone calls, far less has been made of the why behind the volunteer effort that propelled these candidates to victory. Across NYC-DSA’s slate of endorsed candidates, roughly 8,500 volunteers showed up to knock more than 750,000 doors, with over 810,000 attempted door knocks — for an off-year electoral cycle. Many of these volunteers were part of Mamdani’s 100,000-strong volunteer base, who, still electrified from last year’s win, rolled right into volunteer",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/78f1e4472119958a14305a59.json"
+      "article_path": "articles/91aa717a11d778ffeb6708d4.json"
     },
     {
-      "id": "ede421109710217b64cb6ce1",
-      "title": "The American Plutocracy Wants Workers Trapped in Debt",
-      "url": "https://www.inoreader.com/article/3a9c6e760292910f",
-      "author": "Giorgos Gouzoulis",
-      "source": "Jacobin",
-      "published_at": "2026-08-30T13:50:08+00:00",
-      "content_excerpt": "In May 2026, the White House’s top economist went on Fox Business to make an argument that would probably have gotten him laughed out of any economics seminar twenty years ago. Kevin Hassett told Maria Bartiromo that “the consumer is really, really firing on all cylinders,” pointing to a fresh surge in credit card spending as proof that the economy was thriving. Days earlier, Treasury Secretary Scott Bessent argued that according to banks and credit card companies, “all quintiles of the distribution group is [ sic ] very strong.” The reality couldn’t be further from that picture. Subprime auto delinquencies had just hit a thirty-two-year high, while farm bankruptcies were up 46 percent on the year. Personal debt had pushed past $18.8 trillion . None of that made it into Hassett’s or Bessen",
+      "id": "ec2fe42ae4f6ed5018b5826d",
+      "title": "Telling Our Story",
+      "url": "https://democraticleft.dsausa.org/2026/08/31/telling-our-story",
+      "author": "gdsnyc@verizon.net",
+      "source": "Democratic Left",
+      "published_at": "2026-08-31T17:58:24+00:00",
+      "content_excerpt": "DSA should use media to promote its socialist vision and counter corporate media’s distortions. The post Telling Our Story appeared first on Democratic Left .",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/ede421109710217b64cb6ce1.json"
+      "article_path": "articles/ec2fe42ae4f6ed5018b5826d.json"
     },
     {
-      "id": "168e52750a6595b99a3f873a",
-      "title": "AI Isn’t Coming for Our Jobs. It’s Coming for Our Wages.",
-      "url": "https://www.inoreader.com/article/3a9c6e760292910d",
-      "author": "Nuno Teles",
+      "id": "7a1227f4f17fd2722bd7e44e",
+      "title": "HBO’s Burning Man Documentary Omits the Festival’s Workers",
+      "url": "https://www.inoreader.com/article/3a9c6e76014387d6",
+      "author": "Keith A. Spencer",
       "source": "Jacobin",
-      "published_at": "2026-08-30T13:50:08+00:00",
-      "content_excerpt": "The Economist recently ran a cover entitled “ Prepare for an AI jobs apocalypse ,” citing widespread fear among the American public of artificial-intelligence-induced job losses. Such fearmongering is far from new. Information technology breakthroughs have led to many such announcements over the last few decades. In the 1990s, we had the computer scare, prompted by best-selling authors such as Jeremy Rifkin and Viviane Forrester . More recently, in 2013, we had the robot menace, when an Oxford study estimated that 47 percent of jobs in the United States were at risk of computerization. At both times, such prophecies coincided with mass unemployment, not caused by technology but by economic recessions driven by financial instability and austerity policies. Yet such stories helped to natural",
+      "published_at": "2026-08-31T16:33:48+00:00",
+      "content_excerpt": "It’s been a precarious decade for Burning Man. The legendary counterculture gathering was canceled two years in a row due to COVID-19 and has yet to recover its record pre-pandemic attendance numbers. In 2023, the indulgent spectacle was marred by sensational headlines about attendees being trapped by torrential downpours that snared vehicles in mud. Moreover, the past decade has seen a parade of negative headlines about Burning Man — including stories of horrific volunteer injuries and a pattern of worker suicides . It’s a weighty moment to release a new documentary series about Burning Man. Directed by Jehane Noujaim and Vikram Gandhi and shot over five years, the four-part docuseries The Man Will Burn dropped its final episode on HBO on July 30. The four-plus-hour series weaves together",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/168e52750a6595b99a3f873a.json"
+      "article_path": "articles/7a1227f4f17fd2722bd7e44e.json"
     },
     {
-      "id": "81fe6d084370c6382e7fee2a",
-      "title": "The Oil Crisis That Became a Weapon Against Welfare",
-      "url": "https://www.inoreader.com/article/3a9c6e760292910c",
-      "author": "Oskar Brandt",
+      "id": "aa7e13450476c0cab0b6a247",
+      "title": "Nancy Fraser’s Theory of Capitalism Is Politically Vital",
+      "url": "https://www.inoreader.com/article/3a9c6e7601351868",
+      "author": "Marjan Ivković",
       "source": "Jacobin",
-      "published_at": "2026-08-30T13:50:08+00:00",
-      "content_excerpt": "On August 15, 1971, Richard Nixon appeared on American television to announce a drastic reordering of the postwar economy. He closed the so-called gold window, ending the convertibility of dollars held by foreign central banks into US gold. Other central banks were no longer allowed to exchange their dollars for American gold. With a short speech, he brought down the monetary order that had underpinned the world economy since World War II: the Bretton Woods system. The United States had put the dollar at the center of the system. The country promised to redeem dollars for gold at a fixed price. Other states tied their currencies to the dollar. But the Vietnam War drained resources, drove up spending, and sent new dollars out around the world. The decision to abandon the dollar’s gold link ",
+      "published_at": "2026-08-31T15:33:38+00:00",
+      "content_excerpt": "Nancy Fraser’s work has had a significant influence on anti-capitalist politics over the past couple of decades. Some of her insights about the relationship between “redistribution” and “recognition” or the “dangerous liaison” of liberal feminism and anti-racism with neoliberal economic agendas have spread beyond left-wing academic circles and entered the vocabulary of political activism. This is precisely what the tradition of critical theory, in which Fraser situates herself, hopes to achieve, by providing resources for the self-clarification of progressive political struggles. In a broader sense, Fraser has formulated a unique theorization of capitalism that responds innovatively to some of the most pressing questions of anti-capitalist political strategy. Fraser’s theory of capitalism ",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/81fe6d084370c6382e7fee2a.json"
+      "article_path": "articles/aa7e13450476c0cab0b6a247.json"
+    },
+    {
+      "id": "d0f6f0aeaa42d5c290fcf82a",
+      "title": "The People’s Dolly",
+      "url": "https://www.inoreader.com/article/3a9c6e76013b80d1",
+      "author": "Amber A’Lee Frost",
+      "source": "Jacobin",
+      "published_at": "2026-08-31T14:03:08+00:00",
+      "content_excerpt": "I cannot easily remember a national treasure that has inspired a larger outpouring of eulogies, memories, and declarations than the passing of Dolly Parton. Personally, after hearing the news, I unplugged and had a day listening to the music, and — of course — watching the 1980 blockbuster 9 to 5 (which was only outsold by The Empire Strikes Back).The madcap comedy starring Dolly, Jane Fonda, and Lily Tomlin gave voice to all the girls in the typing pool, the women of what Tomlin calls “the pink-collar ghetto,” where they are underpaid, overworked, sexually harassed, insulted, demeaned, overlooked, unrecognized, micromanaged, surveilled for any hint of dissent — or even complaint — and — of course — stolen from, by shitty bosses who get ahead by taking credit for somebody else’s work and i",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/d0f6f0aeaa42d5c290fcf82a.json"
+    },
+    {
+      "id": "da28e020deca2255277f92ee",
+      "title": "Israel Has Robbed Gaza’s People of Their Homes",
+      "url": "https://www.inoreader.com/article/3a9c6e7601201bb5",
+      "author": "Mohammed Mourtaja",
+      "source": "Jacobin",
+      "published_at": "2026-08-31T13:34:05+00:00",
+      "content_excerpt": "One year ago, on August 3, 2025, Israel destroyed my family’s house in El-Tuffah, a neighborhood in Gaza City. Israel did not bomb the house or demolish it with artillery shells. A remote-controlled vehicle packed with explosives drove down our street before detonating. That is how Israel destroyed a house that stood for four generations. During the genocide, our house became shelter for four families. But when it was destroyed, barely any rubble was left. I know how our house appears in the destruction data, because I helped trace and visualize it. At GazaIndex, we trace the data: 134,422 destroyed structures across the Gaza Strip; 34,666 in Gaza City; 2,575 in El-Tuffah. One of them is ours. But what this record does not convey, besides the sweat and tears, is how many families it shelte",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/da28e020deca2255277f92ee.json"
     }
   ]
 }
