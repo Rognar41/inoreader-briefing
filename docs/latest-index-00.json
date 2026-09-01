@@ -1,12 +1,102 @@
 {
-  "generated_at": "2026-08-31T23:17:20.617849+00:00",
-  "generated_at_jst": "2026-09-01T08:17:20.617849+09:00",
-  "period_start": "2026-08-30T17:17:20.617849+00:00",
+  "generated_at": "2026-09-01T21:55:02.175122+00:00",
+  "generated_at_jst": "2026-09-02T06:55:02.175122+09:00",
+  "period_start": "2026-08-31T15:55:02.175122+00:00",
   "lookback_hours": 30,
   "folder": "00_毎日確認",
-  "article_count": 6,
+  "article_count": 9,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "5f1811ce818e47c46295414f",
+      "title": "Centrist Democrats Are Trying to Throw the Michigan Race",
+      "url": "https://www.inoreader.com/article/3a9c6e7600116b43",
+      "author": "Branko Marcetic",
+      "source": "Jacobin",
+      "published_at": "2026-09-01T20:02:07+00:00",
+      "content_excerpt": "In Michigan, where progressive Abdul El-Sayed is facing off for the must-win Senate seat against Donald Trump–backed Mike Rogers, Democrats have a problem. How to reconcile their distaste for their own party’s nominee with the imperative to care about winning? Attorney General Dana Nessel modeled a way out of the bind with a comically backhanded endorsement. Tasked with trying to convince Jewish Democrats that they should vote for El-Sayed despite the blizzard of smears charging he’s a dangerous antisemite, Attorney General Dana Nessel offered the most unappetizing of unappetizing pitches. Referencing the biblical story of Queen Esther, who chose to put her life on the line to save many others, she implored those in the room to do the same. “It is perhaps up to us now to follow in her path",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/5f1811ce818e47c46295414f.json"
+    },
+    {
+      "id": "46fede5d11b70797da80c6c0",
+      "title": "Live Blog: Rematchachusetts",
+      "url": "https://democraticleft.dsausa.org/2026/09/01/live-blog-rematchachusetts",
+      "author": "Democratic Left",
+      "source": "Democratic Left",
+      "published_at": "2026-09-01T16:22:24+00:00",
+      "content_excerpt": "Labor organizer Evan MacKay came within 50 votes of unseating a Cambridge, Mass., state representative in 2024. Tonight, Boston DSA takes another run at the prize. The post Live Blog: Rematchachusetts appeared first on Democratic Left .",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/46fede5d11b70797da80c6c0.json"
+    },
+    {
+      "id": "7a70f4f3b3c892b4ee7beaf2",
+      "title": "The Dog Stars Is a Western in Postapocalyptic Drag",
+      "url": "https://www.inoreader.com/article/3a9c6e7601f34049",
+      "author": "Eileen Jones",
+      "source": "Jacobin",
+      "published_at": "2026-09-01T16:07:17+00:00",
+      "content_excerpt": "The dullest yet most enraging film of the year may very well be The Dog Stars , a draggy postapocalyptic thriller with no thrills, even of the grim dystopian kind. This latest effort by director Ridley Scott, from a screenplay by Mark L. Smith ( Twisters, The Revenant ) based on the 2012 novel of the same name by Peter Heller, is about the survivors of a flu pandemic who live in isolated enclaves defending their turf from marauding bands of desperate nomads. Jacob Elordi plays Hig, an ex-mechanic turned prop pilot whose last remaining relationship from the old days is with his dog, Jasper. Jasper is a cool dog, a Belgian Malinois, who keeps whining nervously as if he knows he’s not safe with Hig. They fly around Colorado in Hig’s little putt-putting plane, fetching supplies for Hig’s encla",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/7a70f4f3b3c892b4ee7beaf2.json"
+    },
+    {
+      "id": "7120ee05bf6fa99d2ea1affe",
+      "title": "The Scandal That Could Break the Latin American Far Right",
+      "url": "https://www.inoreader.com/article/3a9c6e7601e4d56d",
+      "author": "Kurt Hackbarth",
+      "source": "Jacobin",
+      "published_at": "2026-09-01T15:08:56+00:00",
+      "content_excerpt": "On Tuesday, August 18, an Argentine citizen named Fernando Cerimedo was arrested at the Viru Viru International Airport in Santa Cruz de la Sierra, Bolivia. Cerimedo, age forty-five, was charged with the attempted homicide of his ex-partner, Bolivian lawyer Nadia Beller, and ordered held for 180 days of pretrial detention. The details are grisly: security camera footage showed hit men, disguised as delivery workers, firing on an unsuspecting Beller at point-blank range before fleeing the scene. Compounding matters, Beller, who miraculously survived the assault, was apparently pregnant with Cerimedo’s own child. Thus far, the affair could be classified as a case — gruesome, yes, but hardly unusual — of a botched femicide in the wake of a failed relationship. Something to briefly grace the c",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/7120ee05bf6fa99d2ea1affe.json"
+    },
+    {
+      "id": "07322ac8c524b75854ff82d6",
+      "title": "The Human Soul of the Fight to Control AI",
+      "url": "https://www.inoreader.com/article/3a9c6e7601ee2d64",
+      "author": "Daniele G. Palmer",
+      "source": "Jacobin",
+      "published_at": "2026-09-01T14:11:34+00:00",
+      "content_excerpt": "During World War II, bomber pilots would tell each other, “if you’re taking flak, you’re over the target.” Don’t demur, you’ve struck a nerve. Opposition, at times, isn’t all that bad a sign — if anything, it could point to something good, or at least true. Judged by that standard, the reception of Pope Leo XIV’s pronouncement on artificial Intelligence has been curious. Some have fought over its account of just war theory; others have questioned its denial of machine sentience. Yet its diagnosis of the politics AI relies on, and the fixes needed to guard against it, has gone almost entirely unchallenged, especially among technologists. In a recent article for the Financial Times , theologian and AI sceptic Carmody Grey insists that Leo’s Magnifica Humanitas is unique. It not only represen",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/07322ac8c524b75854ff82d6.json"
+    },
+    {
+      "id": "4e23758ad786f7bd9e0c2fbb",
+      "title": "The Israel Lobby Is Out of Control",
+      "url": "https://www.inoreader.com/article/3a9c6e7601d73a1b",
+      "author": "Eli Clifton",
+      "source": "Jacobin",
+      "published_at": "2026-09-01T13:13:51+00:00",
+      "content_excerpt": "In a year of record-breaking campaign spending by the American Israel Public Affairs Committee (AIPAC) and widespread popular revulsion at Donald Trump’s war on Iran, a deeply researched study of the Israel lobby couldn’t be timelier. Jacobin ’s Seth Ackerman spoke with investigative journalist Eli Clifton and veteran scholar Ian Lustick about their new book Israel’s Lobby : America in the Grip of a Foreign Power , which reveals how the lobby has not only warped Washington politics but accelerated Israel’s own ideological radicalization — and now threatens Americans’ civil liberties at home. Seth Ackerman Almost twenty years ago, the international relations scholars John Mearsheimer and Stephen Walt wrote a very famous and very controversial book called The Israel Lobby and U.S. Foreign Po",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/4e23758ad786f7bd9e0c2fbb.json"
+    },
     {
       "id": "91aa717a11d778ffeb6708d4",
       "title": "Volunteers Were the Key to NYC-DSA’s Socialist Sweep",
@@ -51,51 +141,6 @@
       "priority": 1,
       "date_missing": false,
       "article_path": "articles/7a1227f4f17fd2722bd7e44e.json"
-    },
-    {
-      "id": "aa7e13450476c0cab0b6a247",
-      "title": "Nancy Fraser’s Theory of Capitalism Is Politically Vital",
-      "url": "https://www.inoreader.com/article/3a9c6e7601351868",
-      "author": "Marjan Ivković",
-      "source": "Jacobin",
-      "published_at": "2026-08-31T15:33:38+00:00",
-      "content_excerpt": "Nancy Fraser’s work has had a significant influence on anti-capitalist politics over the past couple of decades. Some of her insights about the relationship between “redistribution” and “recognition” or the “dangerous liaison” of liberal feminism and anti-racism with neoliberal economic agendas have spread beyond left-wing academic circles and entered the vocabulary of political activism. This is precisely what the tradition of critical theory, in which Fraser situates herself, hopes to achieve, by providing resources for the self-clarification of progressive political struggles. In a broader sense, Fraser has formulated a unique theorization of capitalism that responds innovatively to some of the most pressing questions of anti-capitalist political strategy. Fraser’s theory of capitalism ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/aa7e13450476c0cab0b6a247.json"
-    },
-    {
-      "id": "d0f6f0aeaa42d5c290fcf82a",
-      "title": "The People’s Dolly",
-      "url": "https://www.inoreader.com/article/3a9c6e76013b80d1",
-      "author": "Amber A’Lee Frost",
-      "source": "Jacobin",
-      "published_at": "2026-08-31T14:03:08+00:00",
-      "content_excerpt": "I cannot easily remember a national treasure that has inspired a larger outpouring of eulogies, memories, and declarations than the passing of Dolly Parton. Personally, after hearing the news, I unplugged and had a day listening to the music, and — of course — watching the 1980 blockbuster 9 to 5 (which was only outsold by The Empire Strikes Back).The madcap comedy starring Dolly, Jane Fonda, and Lily Tomlin gave voice to all the girls in the typing pool, the women of what Tomlin calls “the pink-collar ghetto,” where they are underpaid, overworked, sexually harassed, insulted, demeaned, overlooked, unrecognized, micromanaged, surveilled for any hint of dissent — or even complaint — and — of course — stolen from, by shitty bosses who get ahead by taking credit for somebody else’s work and i",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/d0f6f0aeaa42d5c290fcf82a.json"
-    },
-    {
-      "id": "da28e020deca2255277f92ee",
-      "title": "Israel Has Robbed Gaza’s People of Their Homes",
-      "url": "https://www.inoreader.com/article/3a9c6e7601201bb5",
-      "author": "Mohammed Mourtaja",
-      "source": "Jacobin",
-      "published_at": "2026-08-31T13:34:05+00:00",
-      "content_excerpt": "One year ago, on August 3, 2025, Israel destroyed my family’s house in El-Tuffah, a neighborhood in Gaza City. Israel did not bomb the house or demolish it with artillery shells. A remote-controlled vehicle packed with explosives drove down our street before detonating. That is how Israel destroyed a house that stood for four generations. During the genocide, our house became shelter for four families. But when it was destroyed, barely any rubble was left. I know how our house appears in the destruction data, because I helped trace and visualize it. At GazaIndex, we trace the data: 134,422 destroyed structures across the Gaza Strip; 34,666 in Gaza City; 2,575 in El-Tuffah. One of them is ours. But what this record does not convey, besides the sweat and tears, is how many families it shelte",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/da28e020deca2255277f92ee.json"
     }
   ]
 }

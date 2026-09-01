@@ -1,266 +1,311 @@
 {
-  "generated_at": "2026-08-31T23:17:20.617849+00:00",
-  "generated_at_jst": "2026-09-01T08:17:20.617849+09:00",
-  "period_start": "2026-08-30T17:17:20.617849+00:00",
+  "generated_at": "2026-09-01T21:55:02.175122+00:00",
+  "generated_at_jst": "2026-09-02T06:55:02.175122+09:00",
+  "period_start": "2026-08-31T15:55:02.175122+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
-  "article_count": 17,
+  "article_count": 20,
   "excerpt_chars": 800,
   "articles": [
     {
-      "id": "a91a00561ede94de2b1db9fb",
-      "title": "BT LIVE: Xi, Putin & Modi Meet – Can the Global South Escape the G20’s Grip?",
-      "url": "https://breakthroughnews.org/2026/08/31/september-1-2026",
-      "author": "emilybrease",
+      "id": "35848c14b63c3ea842a7d970",
+      "title": "Thousands join Berlin’s Peace Days to support antimilitarism and solidarity",
+      "url": "https://breakthroughnews.org/2026/09/01/thousands-join-berlins-peace-days-to-support-antimilitarism-and-solidarity",
+      "author": "Ana Vračar",
       "source": "BT News",
-      "published_at": "2026-08-31T21:29:59+00:00",
+      "published_at": "2026-09-01T21:12:58+00:00",
+      "content_excerpt": "On August 28-30, over 5,000 people gathered in Berlin for the UZ-Friedenstage – Unsere Zeit’s Peace Days – the bi-annual festival organized by the German Communist Party (DKP). The program included political discussions, concerts, readings, and workshops, representing notable growth since the last edition in 2024. The festival drew a cross-generational audience of trade unionists, activists, students, authors, ambassadors, renters’ associations, and communist and workers’ parties from around the world. The Peace Days took place against the backdrop of Germany’s militarization and the government’s measures against workers’ rights, social provision, and democratic participation. This context shaped one of the festival’s core discussion points: the predicament of the labor movement’s integrat",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/35848c14b63c3ea842a7d970.json"
+    },
+    {
+      "id": "e46b616cd0dd0bcf0ef51e96",
+      "title": "Tanzanian opposition leader ordered to defend himself in treason trial",
+      "url": "https://breakthroughnews.org/2026/09/01/tanzanian-opposition-leader-ordered-to-defend-himself-in-treason-trial",
+      "author": "Nicholas Mwangi",
+      "source": "BT News",
+      "published_at": "2026-09-01T21:12:58+00:00",
+      "content_excerpt": "Tanzania’s High Court has ruled that Chadema party chairman Tundu Lissu must present a formal defense in his treason trial , a charge that carries a maximum penalty of death if he is convicted. The ruling is not a conviction. At this stage of a criminal trial, the court is only deciding whether the prosecution has produced evidence that, left unanswered, could support a conviction. It is not a final determination of guilt, nor a detailed assessment of witness credibility. From “No Reforms, No Election” to a treason charge The case goes back to Chadema’s nationwide “No Reforms, No Election” campaign, which called for changes to Tanzania’s electoral system ahead of the October 2025 general election. The specific charge centers on remarks Lissu allegedly made at a Chadema meeting in Dar es Sa",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/e46b616cd0dd0bcf0ef51e96.json"
+    },
+    {
+      "id": "c9bf5bee16bb4cd5c49e3f97",
+      "title": "With Xi, Putin, and Modi in attendance, SCO condemns US economic warfare",
+      "url": "https://breakthroughnews.org/2026/09/01/with-xi-putin-and-modi-in-attendance-sco-condemns-us-economic-warfare",
+      "author": "Abdul Rahman",
+      "source": "BT News",
+      "published_at": "2026-09-01T21:12:58+00:00",
+      "content_excerpt": "The 26th annual summit of the Shanghai Cooperation Organization (SCO) concluded in Bishkek, Kyrgyzstan, on Tuesday, September 1. This years’ summit was attended by Chinese President Xi Jinping, Russian President Vladimir Putin, Indian Prime Minister Narendra Modi, Pakistan Prime Minister Shehbaz Sharif, Iranian President Masoud Pezeshkian, Turkish President Recep Tayyip Erdoğan, among others. At the conclusion of the summit, member countries adopted the Bishkek Declaration , which reiterates the common resolve of the SCO to work against all forms of hegemonic practices in world politics and create a truly democratic and equitable world order. The declaration also condemned the growing use of unilateral coercive measures or sanctions by certain countries to achieve their geopolitical goals ",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/c9bf5bee16bb4cd5c49e3f97.json"
+    },
+    {
+      "id": "1e1b97f67ac5ccc6702dc56e",
+      "title": "Indonesia’s intern doctors are being pushed to the brink under health minister and WHO hopeful",
+      "url": "https://breakthroughnews.org/2026/09/01/indonesias-intern-doctors-are-being-pushed-to-the-brink-under-health-minister-and-who-hopeful",
+      "author": "Peoples Health Dispatch",
+      "source": "BT News",
+      "published_at": "2026-09-01T20:14:08+00:00",
+      "content_excerpt": "On July 21, 2026, 25-year-old intern doctor Muhammad Zulfikar Drakel was found dead in his boarding room in Metro, Lampung. He was the sixth Indonesian medical intern to die on duty this year alone. These physicians are the most visible casualties of a much larger epidemic, one that has engulfed health workers across the 17,000 islands archipelago. Less than a week later, intern doctor Siti Zahra Maghfira jumped from her family’s apartment balcony while her parents were out. Before Zulfikar came Kartika Ayu Permatasari, who died in February after contracting measles in Rembang. Edgar Bezaliel Hartanto perished in Denpasar in March. The same month, Andito Mohammad Wibisono also died after contracting measles with pneumonia in Cianjur. And then there was Myta Aprilia Azmy, the case that brok",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/1e1b97f67ac5ccc6702dc56e.json"
+    },
+    {
+      "id": "2174bbadd6844aa54bd86bea",
+      "title": "President De la Espriella cancels peace talks in Colombia",
+      "url": "https://breakthroughnews.org/2026/09/01/president-de-la-espriella-cancels-peace-talks-in-colombia",
+      "author": "BreakThrough News",
+      "source": "BT News",
+      "published_at": "2026-09-01T19:15:14+00:00",
+      "content_excerpt": "On Sunday, August 30, Colombia’s newly inaugurated president, the far-right Abelardo de la Espriella, announced he was canceling the peace negotiations with several armed groups which had started during the previous administration led by Gustavo Petro. Talks with the Bloques de Magdalena Medio, Comandos de la Frontera, and the Autodefensas Conquistadores de la Sierra Nevada had begun under the previous administration as part of Petro’s “Total Peace” policy, which sought to build new peace processes and agreements. “I want to announce to the country a decision I have made regarding the processes inherited from the so-called ‘total peace,’ which was nothing more than a surrender of sovereignty to narco-terrorism. I have decided to put an end to three processes of false peace and false dialog",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/2174bbadd6844aa54bd86bea.json"
+    },
+    {
+      "id": "6b3b7d66830a45b493250685",
+      "title": "Three Sets: A Model for the United Front",
+      "url": "https://convergencemag.com/articles/three-sets-a-model-for-the-united-front",
+      "author": "Puya Gerami",
+      "source": "Convergence",
+      "published_at": "2026-09-01T18:19:03+00:00",
+      "content_excerpt": "Drawing on a pair of visualizations found in two well-known books of history, this sketch aims to reinforce a certain way of seeing past incarnations of the Left in the United States. That is to say, a certain way of understanding how these incarnations worked and successfully exerted the power to change the world. In turn, these visualizations provide a certain way of seeing ourselves–the kind of… Source",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/6b3b7d66830a45b493250685.json"
+    },
+    {
+      "id": "1f76ec44f91cf12c12cdefd6",
+      "title": "FIDEL x 100: A Century in the Battle of Ideas and Emotions",
+      "url": "https://thetricontinental.org/art-bulletin-fidel-x-100",
+      "author": "",
+      "source": "[:en]THE TRICONTINENTAL[:es]TRICONTINENTAL[:]",
+      "published_at": "2026-09-01T17:25:42+00:00",
+      "content_excerpt": "The Thirtieth Art Bulletin (August 2026) Listen to ‘ Y en eso llegó Fidel ’ (And Just Then, Fidel Arrived, 1959) by Carlos Puebla, performed in the lively guaracha rhythm that helped carry the song from revolutionary Cuba to union halls, cantinas, political schools, and liberation movements across Latin America. Havana, August 2026 From 6 to 9 August, more than 180 delegates from 27 countries representing more than 130 organisations gathered at the University of Havana for the IV Continental Assembly of ALBA Movimientos, a space for articulating popular movements around the project of socialism, anti-imperialism, and continental integration. As part of the assembly’s cultural programme, FIDEL x 100 commemorated the centenary of Fidel Castro’s birth with more than 200 posters created by ove",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/1f76ec44f91cf12c12cdefd6.json"
+    },
+    {
+      "id": "218f312090ff018c6ba760be",
+      "title": "Cuando la montaña se derrumbó: Los detalles de la inundación más mortífera del Himalaya en Nepal",
+      "url": "https://breakthroughnews.org/2026/09/01/cuando-la-montana-se-derrumbo-los-detalles-de-la-inundacion-mas-mortifera-del-himalaya-en-nepal",
+      "author": "Madhab Pant",
+      "source": "BT News",
+      "published_at": "2026-09-01T16:16:01+00:00",
+      "content_excerpt": "Read in English here Aproximadamente a las 8:30 a. m. del 26 de agosto de 2026, un muro de agua, lodo, hielo y enormes rocas descendió con estruendo por el Lhende Khola hacia los sistemas fluviales del Bhotekoshi y el Trishuli. La oleada se produjo sin que hubiera lluvias locales ni sonaran las sirenas de alerta, tomando por sorpresa a media mañana a comunidades fronterizas como Timure. Los informes iniciales confundieron las sacudidas del suelo con un terremoto, pero los datos satelitales y sísmicos confirmaron más tarde la verdadera causa: un derrumbe a gran altitud de roca y hielo cerca del Langtang Lirung, en el lado tibetano, que abarcó casi un kilómetro cuadrado y generó una sacudida en el suelo equivalente a un terremoto de magnitud 5,2. Al precipitarse 1200 metros verticales hacia ",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/218f312090ff018c6ba760be.json"
+    },
+    {
+      "id": "36ac16c59f41304c1c7c2c8a",
+      "title": "Roe Kapara – Everything’s Fine (Nuke Song) [Official Lyric Video]",
+      "url": "https://mronline.org/2026/09/01/roe-kapara-everythings-fine-nuke-song-official-lyric-video",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-09-01T15:34:40+00:00",
+      "content_excerpt": "Roe Kapara - Everything's Fine (Nuke Song) [Official Lyric Video] The post Roe Kapara – Everything’s Fine (Nuke Song) [Official Lyric Video] appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/36ac16c59f41304c1c7c2c8a.json"
+    },
+    {
+      "id": "7615aeb8fbfeab3ce923ead3",
+      "title": "UN committee reports rising religious and racial discrimination in India",
+      "url": "https://breakthroughnews.org/2026/09/01/un-committee-reports-rising-religious-and-racial-discrimination-in-india",
+      "author": "Abdul Rahman",
+      "source": "BT News",
+      "published_at": "2026-09-01T15:17:11+00:00",
       "content_excerpt": "This content is for members only. Visit the site and log in/register to read.",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/a91a00561ede94de2b1db9fb.json"
+      "article_path": "articles/7615aeb8fbfeab3ce923ead3.json"
     },
     {
-      "id": "2b9338e9140d24dad874b008",
-      "title": "Ebola spreads to 60 health zones in eastern DRC; UN warns of funding shortfall",
-      "url": "https://breakthroughnews.org/2026/08/31/ebola-spreads-to-60-health-zones-in-eastern-drc-un-warns-of-funding-shortfall",
-      "author": "Pavan Kulkarni",
-      "source": "BT News",
-      "published_at": "2026-08-31T20:29:36+00:00",
-      "content_excerpt": "The fastest-growing Ebola outbreak in history, killing nearly one in two infected in the eastern region of the Democratic Republic of Congo (DRC), has spread to six new health zones between August 14 and August 28. The spread remains within six of the country’s 26 provinces identified before August 14: namely Bas-Uélé, Haut-Uélé, Ituri, North Kivu, South Kivu, and Tshopo. However, the number of health zones affected within these six provinces increased from 54 of the 151 to 60 over the following two weeks. The spread was identified in a new health zone of the Tshopo province on August 15. By August 23, the spread was also confirmed in Viadana in Bas-Uélé and Mutwanga in North Kivu. On August 28, infections were also confirmed in the Ganga health zone of Bas-Uélé as well as in Biena and Man",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/2b9338e9140d24dad874b008.json"
-    },
-    {
-      "id": "74558bbd7d29000891e776cc",
-      "title": "Mutiny crushed in Niger; normalcy returns as AES reaffirms unity",
-      "url": "https://breakthroughnews.org/2026/08/31/mutiny-crushed-in-niger-normalcy-returns-as-aes-reaffirms-unity",
-      "author": "Pavan Kulkarni",
-      "source": "BT News",
-      "published_at": "2026-08-31T19:30:27+00:00",
-      "content_excerpt": "Civil society groups marched in solidarity with Niger’s military government on Sunday, August 30, after the army suppressed a mutiny overnight at the country’s main air base in the capital, Niamey, restoring normalcy by Saturday morning. Thousands of people march in solidarity with the CNSP as it faced a mutiny. Photo: ANP Gunfire and explosions were also heard at some sensitive military sites in Niamey after the mutiny began around 20 minutes past midnight , with a group of soldiers confining other soldiers to their barracks and holding them hostage in the military base 101. The base is located in the compound of the Diori Hamani International Airport, about a kilometer away from civilian infrastructure. However, the airport itself was not affected, and flights continued normally, the dir",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/74558bbd7d29000891e776cc.json"
-    },
-    {
-      "id": "b3a2e7586113860127c5a127",
-      "title": "Will a new political alliance unseat the Abbas-led Palestinian Authority?",
-      "url": "https://breakthroughnews.org/2026/08/31/will-a-new-political-alliance-unseat-the-abbas-led-palestinian-authority",
+      "id": "84c8d5905b43247356f9539d",
+      "title": "US resumes airstrikes on Iran after month-long pause",
+      "url": "https://breakthroughnews.org/2026/09/01/us-resumes-airstrikes-on-iran-after-month-long-pause",
       "author": "Aseel Saleh",
       "source": "BT News",
-      "published_at": "2026-08-31T18:31:07+00:00",
-      "content_excerpt": "After over two decades of political impasse caused by the division between the major Palestinian factions Fatah and Hamas, a new alliance in the making has revealed itself as a national unity coalition. The coalition will participate in the historic November 28 elections for the Palestinian Legislative Council (PLC). The PLC elections were held in 2006. According to media reports, the emerging election coalition comprises the Fatah-affiliated Democratic Reform Current and led by Mohammad Dahlan, Hamas, Palestinian Islamic Jihad, the Popular Resistance Committees, and Nasser al-Qudwa’s National Democratic Forum. The Popular Front for the Liberation of Palestine (PFLP) and the Democratic Front for the Liberation of Palestine (DFLP) have yet to finalize their decision to join the coalition, r",
+      "published_at": "2026-09-01T15:17:11+00:00",
+      "content_excerpt": "The military confrontation between the United States and Iran came back to the fore after US forces struck Iranian rocket launchers on its Larak Island in the Strait of Hormuz, on Sunday, August 30. US Central Command (CENTCOM) claimed that the attack on Larak was launched to prevent Iran’s Islamic Revolutionary Guard Corps (IRGC) from laying mines in the Strait of Hormuz. However, an Iranian military source debunked CENTCOM’s claim as “fantasy and story making.” The offensive marks the first US strike since July 29. At that time, the United States launched a wave of airstrikes on Iran, claiming they were a “powerful response” to attempted Iranian strikes on its forces in Jordan a day earlier. Before the US assault on Larak on Sunday, the situation between Washington and Tehran was charact",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/b3a2e7586113860127c5a127.json"
+      "article_path": "articles/84c8d5905b43247356f9539d.json"
     },
     {
-      "id": "73d7aad3d19da05bcccba4f4",
-      "title": "When the mountain broke: inside Nepal’s deadliest Himalayan flood",
-      "url": "https://breakthroughnews.org/2026/08/31/when-the-mountain-broke-inside-nepals-deadliest-himalayan-flood",
-      "author": "Madhab Pant",
-      "source": "BT News",
-      "published_at": "2026-08-31T18:31:07+00:00",
-      "content_excerpt": "At roughly 8:30 am on August 26, 2026, a wall of water, mud, ice, and massive boulders roared down the Lhende Khola into the Bhotekoshi and Trishuli river systems. The surge struck without local rainfall or warning sirens, catching border communities like Timure, mid-morning. Initial reports mistook the ground tremors for an earthquake, but satellite and seismic data later confirmed the real trigger: a high-altitude collapse of rock and ice near Langtang Lirung, on the Tibetan side, spanning nearly one square kilometer and generating a ground shock equivalent to a magnitude 5.2 quake. Plunging 1,200 vertical meters into the valley, the avalanche briefly dammed the Lhende River before rupturing, unleashing a debris-laden slurry that tore through Rasuwa, Nuwakot, Dhading, Gorkha, Tanahun, an",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/73d7aad3d19da05bcccba4f4.json"
-    },
-    {
-      "id": "483a9005b99acbe6cfe9f428",
-      "title": "The Hour of the Furnaces: Internationalism in Difficult Times",
-      "url": "https://mronline.org/2026/08/31/the-hour-of-the-furnaces-internationalism-in-difficult-times",
-      "author": "Cira Pascual Marquina",
-      "source": "MR Online",
-      "published_at": "2026-08-31T17:33:26+00:00",
-      "content_excerpt": "The task is to recognize the political capacities that remain and to build relationships with those who continue to organize and struggle, here and abroad. The post The Hour of the Furnaces: Internationalism in Difficult Times appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/483a9005b99acbe6cfe9f428.json"
-    },
-    {
-      "id": "6b11d855758c19fcfa7a7931",
-      "title": "“Catastrophe of Unimaginable Proportions”: Nepal Flood Death Toll Tops 900; Near 5,000 Still Missing",
-      "url": "https://www.democracynow.org/2026/8/31/nepal_floods_aftermath",
+      "id": "2dbe55f1f5f305e3832d7f76",
+      "title": "U.S. Claims Majority Control of Venezuela’s Oil Reserves",
+      "url": "https://www.democracynow.org/2026/9/1/venezuela_trump_oil_grab",
       "author": "",
       "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-08-31T14:38:52+00:00",
-      "content_excerpt": "More than 900 people in Nepal are confirmed dead after a massive wall of water, mud and debris crashed through a Himalayan river valley on the border with Tibet. More than 4,200 people are missing in Nepal and hundreds more in Tibet. Families are searching hospitals for loved ones, and crews have buried hundreds of unidentified bodies in shallow graves. Rescue efforts are also underway for more than 900 hydropower workers, believed to be trapped in more than a dozen underground tunnels blocked by debris. The cause of the flash flooding is believed to have been the collapse of a glacier in the mountains, leading a wave of water, rocks and debris to carve its way through the valley. “This is a catastrophe of unimaginable proportions,” says journalist Kunda Dixit, speaking to Democracy Now! f",
+      "published_at": "2026-09-01T15:02:50+00:00",
+      "content_excerpt": "The U.S. has struck a deal to take majority control of more than 65 billion barrels of Venezuela’s oil reserves, nine months after the U.S. military abducted President Nicolás Maduro and his wife Cilia Flores in a raid on Caracas and two months after The New York Times revealed that U.S. Secretary of State Marco Rubio has become the de facto viceroy of Venezuela, effectively controlling Venezuela’s finances, the distribution of its natural resources and its government. The new oil deal gives the Department of Defense a 35% stake in a joint U.S.-Venezuelan private company that now holds 100-year leases to 17 oil fields. It also gives the U.S. the right to buy some of the oil produced at cost — a major triumph for the Trump administration as the war on Iran depletes the United States’ strate",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/6b11d855758c19fcfa7a7931.json"
+      "article_path": "articles/2dbe55f1f5f305e3832d7f76.json"
     },
     {
-      "id": "1e0685b98a37fd87cdaf3413",
-      "title": "The Real Reason There’s a Munitions Shortage? Too Many Wars & a Dysfunctional Pentagon: William Hartung",
-      "url": "https://www.democracynow.org/2026/8/31/us_munitions_low",
+      "id": "c6c8abffb9b5764243467d3c",
+      "title": "U.S. Deports Thousands to Countries They Don’t Know Under Secretive “Third Country” Deal",
+      "url": "https://www.democracynow.org/2026/9/1/trump_admin_third_country_deportations",
       "author": "",
       "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-08-31T14:38:52+00:00",
-      "content_excerpt": "Top U.S. military leaders have reportedly advised Defense Secretary Pete Hegseth against extending the war in Iran because ongoing operations in the Middle East have degraded the Pentagon’s ability to confront threats elsewhere. According to The Washington Post , the warnings appeared in a classified assessment for Hegseth prepared by the heads of the Army, Navy and Air Force, and the four-star commanders overseeing U.S. operations throughout Europe, Asia and Latin America. This comes after multiple reports have revealed the U.S. is facing a critical munitions shortage, having used up much of its global stockpile of expensive missile systems during the war against Iran. “The Pentagon is completely dysfunctional when it comes to fighting this kind of war,” says defense analyst William Hartu",
+      "published_at": "2026-09-01T15:02:50+00:00",
+      "content_excerpt": "As part of its mass deportation campaign, the Trump administration is secretly deporting immigrants to countries that they have no ties to. CNN correspondent Isobel Yeung recently traveled to the Central African Republic, which in recent months has accepted dozens of immigrants who had previously been granted deportation protections because they risk facing torture in their home countries. Despite the fact that the State Department warns U.S. citizens not to travel to the Central African Republic “under any circumstances,” the Department of Homeland Security has now deported dozens of immigrants from countries including Afghanistan, Cuba, Russia and Iran to a legal limbo in a country wracked by civil war between Muslim and Christian militias and officially ruled by a Russia-backed authorit",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/1e0685b98a37fd87cdaf3413.json"
+      "article_path": "articles/c6c8abffb9b5764243467d3c.json"
     },
     {
-      "id": "3c4abe6150d74a12e2d54901",
-      "title": "“Left Behind and Overlooked”: Indiana Energy Company Left Majority-Black Gary Powerless for Weeks",
-      "url": "https://www.democracynow.org/2026/8/31/gary_indiana",
+      "id": "b02d890ec8f56c42834e13b4",
+      "title": "Amid Severe Water Crisis & Drought, Puerto Rico Marks 10 Years of “La Junta” Oversight",
+      "url": "https://www.democracynow.org/2026/9/1/puerto_rico_water_shortage_la_junta",
       "author": "",
       "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-08-31T14:38:52+00:00",
-      "content_excerpt": "Thousands of residents recently spent two weeks without power in Gary, Indiana, following a storm that ripped through the majority-Black city. The blackout ground the city to a halt, trapping residents in their apartments, forcing the closure of many businesses and leading to fuel shortages at gas stations. Officials in Indiana estimate the storm might have caused up to $5 billion in damage in Gary and other communities. “We’re still in the recovery phase, as we speak,” says Gary Mayor Eddie Melton, who underscores that “hardening the infrastructure” should be a priority for the NIPSCO utility company. “We’ve never seen wind this strong before. … They need to ensure that the utility grid system is going to sustain that type of wind.” Page 2 As Gary, Indiana, recovers from flooding and a tw",
+      "published_at": "2026-09-01T15:02:50+00:00",
+      "content_excerpt": "Juan Carlos Dávila reports from Puerto Rico as the island grapples with a severe water crisis. A record-breaking drought has led to severe shortages and a system of water rationing that residents say could have been prevented by better infrastructure maintenance. Climate scientists have warned for years that changing weather conditions in the Caribbean are likely to exacerbate existing infrastructure failings, but rather than address the root cause of the water shortage, explains Dávila, a pattern of government inaction and failed public services is used to justify increasing privatization. Puerto Rico’s water woes come 10 years after the United States passed the bankruptcy law PROMESA to restructure the U.S. territory’s debt, installing an unelected board colloquially known as “La Junta” ",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/3c4abe6150d74a12e2d54901.json"
+      "article_path": "articles/b02d890ec8f56c42834e13b4.json"
     },
     {
-      "id": "011fb34e2eca1df91076af7b",
-      "title": "Jane Fonda Exclusive: Dolly Parton, a Feminist, Wrote the Anthem for Working Women with “9 to 5”",
-      "url": "https://www.democracynow.org/2026/8/31/jane_fonda_dolly_parton",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-08-31T14:38:52+00:00",
-      "content_excerpt": "Tributes continue to pour in for Dolly Parton after the iconic country singer, actor and philanthropist’s death on August 25 at age 80. Her former co-star Jane Fonda tells Democracy Now! how they made the classic workplace comedy 9 to 5 , for which Parton wrote the accompanying hit song. “She could see through people to their essence,” Fonda says of Parton. “She loved everyone.” Topics Guests Please check back later for full transcript.",
+      "id": "50808cbda4509ef71da8f23e",
+      "title": "September 2026 (Volume 78, Number 4)",
+      "url": "https://monthlyreview.org/articles/mr-078-04-2026-08_0",
+      "author": "Jamil Jonna",
+      "source": "Articles Archive - Monthly Review",
+      "published_at": "2026-09-01T01:50:20+00:00",
+      "content_excerpt": "Taking as a starting point two classic works of the mid-nineteenth century—Benjamin Disraeli’s Sybil; or the Two Nations and Frederick Engels’s The Condition of the Working Class in England —this month’s “Notes from the Editors” explores the way both authors articulated the plight of workers in their own era, drawing key parallels to our own time. The similarities are particularly conspicuous when examining the so-called affordability crisis, exposing the regime of social murder that accompanies the increasing polarization of economic life. The post September 2026 (Volume 78, Number 4) appeared first on Monthly Review .",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/011fb34e2eca1df91076af7b.json"
+      "article_path": "articles/50808cbda4509ef71da8f23e.json"
     },
     {
-      "id": "fc613b5b81d5f3b538839a42",
-      "title": "Gaza’s archaeological heritage was destroyed in Israel’s genocide. These volunteers are trying to salvage it from the rubble.",
-      "url": "https://mondoweiss.net/2026/08/gazas-archaeological-heritage-was-destroyed-in-israels-genocide-these-volunteers-are-trying-to-salvage-it-from-the-rubble",
-      "author": "Tareq S. Hajjaj",
-      "source": "Mondoweiss",
-      "published_at": "2026-08-31T13:40:25+00:00",
-      "content_excerpt": "As Israeli strikes leveled museums and 5,000-year-old sites across Gaza, volunteers dug through the rubble by hand to save what they could. Meanwhile, looted artifacts quietly resurfaced in a Paris exhibition.",
+      "id": "46ce6eec4286fd4572c29d25",
+      "title": "India’s Ruling Classes and the Global Crisis",
+      "url": "https://monthlyreview.org/articles/indias-ruling-classes-and-the-global-crisis",
+      "author": "Jamil Jonna",
+      "source": "Articles Archive - Monthly Review",
+      "published_at": "2026-09-01T01:50:20+00:00",
+      "content_excerpt": "In September’s Review of the Month, the Research Unit for Political Economy delves into how the crisis pervading the world system, on stark display in the tech sector, global finance, and the sphere of production, lays bare the longstanding vulnerabilities of the Indian economy. As the contradictions in the neoliberal phase become unmistakable, the authors write, it is necessary to take a class-based approach to resolving the questions of how to bring about key questions regarding the productive life and development of India. The post India’s Ruling Classes and the Global Crisis appeared first on Monthly Review .",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/fc613b5b81d5f3b538839a42.json"
+      "article_path": "articles/46ce6eec4286fd4572c29d25.json"
     },
     {
-      "id": "4d67dfd0bae668f30a9335e9",
-      "title": "“Irregular Army: How the US Military Recruited Neo-Nazis, Gang Members, and Criminals to Fight the War on Terror” – book review",
-      "url": "https://mronline.org/2026/08/31/irregular-army-how-the-us-military-recruited-neo-nazis-gang-members-and-criminals-to-fight-the-war-on-terror-book-review",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-08-31T13:27:38+00:00",
-      "content_excerpt": "Kennard’s Irregular Army alarmingly exposes the open door to violent, far-right elements in the US army. This should be connected to imperial overreach, argues Reece Goscinski. The post “Irregular Army: How the US Military Recruited Neo-Nazis, Gang Members, and Criminals to Fight the War on Terror” – book review appeared first on MR Online .",
+      "id": "96e0713a87533d0fe2eab317",
+      "title": "José Carlos Mariátegui and Local Traditions of Struggle",
+      "url": "https://monthlyreview.org/articles/jos-carlos-maritegui-and-local-traditions-of-struggle",
+      "author": "Jamil Jonna",
+      "source": "Articles Archive - Monthly Review",
+      "published_at": "2026-09-01T01:50:20+00:00",
+      "content_excerpt": "The relationship between Marxism and other revolutionary traditions is a key question for our time. If we approach the issue incorrectly, we risk Eurocentrism and underrecognizing Marxism’s role in the Global South contexts where it is most vital and active. This article examines and extends José Carlos Mariátegui’s dialectical approach to the issue, which demonstrates how Marxism is not diluted but strengthened through engagement with the thought and practice of existing struggles, while those struggles can, in turn, gain greater depth and groundedness through the same relationship. The post José Carlos Mariátegui and Local Traditions of Struggle appeared first on Monthly Review .",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/4d67dfd0bae668f30a9335e9.json"
+      "article_path": "articles/96e0713a87533d0fe2eab317.json"
     },
     {
-      "id": "aa7167b98982b621db05ec20",
-      "title": "Huge scandal exposes how USA uses criminals to manipulate elections in Latin America",
-      "url": "https://mronline.org/2026/08/31/huge-scandal-exposes-how-usa-uses-criminals-to-manipulate-elections-in-latin-america",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-08-31T12:25:23+00:00",
-      "content_excerpt": "Huge scandal in Latin America: far-right election meddling specialist Fernando Cerimedo was arrested for trying to assassinate his ex-girlfriend. He oversaw disinformation campaigns for region’s conservative pro-U.S. presidents and has links to Trump admin. The post Huge scandal exposes how USA uses criminals to manipulate elections in Latin America appeared first on MR Online .",
+      "id": "9fc6cb5108908c033543f980",
+      "title": "Beyond Scarcity: Thomas Sowell and the Limits of Neoclassical Economics",
+      "url": "https://monthlyreview.org/articles/beyond-scarcity",
+      "author": "Jamil Jonna",
+      "source": "Articles Archive - Monthly Review",
+      "published_at": "2026-09-01T01:50:20+00:00",
+      "content_excerpt": "Through the work of neoclassical economist Thomas Sowell, Elliot Goodell Ugalde dissects the orthodox view that takes for granted that scarcity is at the center of economic life. In a world of various kinds of surpluses, Goodell argues, the idea that scarcity is the only organizing principle of our economic is inadequate to describe the complex interactions of institutions, history, and social power that make up economic organization under capitalism. The post Beyond Scarcity: Thomas Sowell and the Limits of Neoclassical Economics appeared first on Monthly Review .",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/aa7167b98982b621db05ec20.json"
+      "article_path": "articles/9fc6cb5108908c033543f980.json"
     },
     {
-      "id": "c62b053df9719b441b22caac",
-      "title": "The U.S. military’s fatal stance on climate change",
-      "url": "https://mronline.org/2026/08/31/the-u-s-militarys-fatal-stance-on-climate-change",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-08-31T11:24:02+00:00",
-      "content_excerpt": "The Pentagon is preparing to wage war in a warmer world, even as it accelerates it. The post The U.S. military’s fatal stance on climate change appeared first on MR Online .",
+      "id": "4140d5c219984e792f3216d8",
+      "title": "The Economics of Destruction",
+      "url": "https://monthlyreview.org/articles/the-economics-of-destruction",
+      "author": "Jamil Jonna",
+      "source": "Articles Archive - Monthly Review",
+      "published_at": "2026-09-01T01:50:20+00:00",
+      "content_excerpt": "In this 1980 talk by Joan Robinson, first published in MR in 1983, the economist painted a stark picture of global arms race fueled by military capitalism and imperialism. The important question,” she urged, “is not whether the rate of inflation is high or low or can be brought under control but whether our generation will succeed in destroying the world…. Economics should begin to address the important issue of our impending doom.” The post The Economics of Destruction appeared first on Monthly Review .",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/c62b053df9719b441b22caac.json"
+      "article_path": "articles/4140d5c219984e792f3216d8.json"
     },
     {
-      "id": "86a1ea1bffafaee5429fee13",
-      "title": "A dying capitalism",
-      "url": "https://mronline.org/2026/08/31/a-dying-capitalism",
-      "author": "Prabhat Patnaik",
-      "source": "MR Online",
-      "published_at": "2026-08-31T10:21:30+00:00",
-      "content_excerpt": "The signs of decay and decrepitude of a dying capitalism are all too evident at present. The post A dying capitalism appeared first on MR Online .",
+      "id": "948e2f84f29f329b81fa7823",
+      "title": "Radical Jewish Tradition",
+      "url": "https://monthlyreview.org/articles/radical-jewish-tradition",
+      "author": "Jamil Jonna",
+      "source": "Articles Archive - Monthly Review",
+      "published_at": "2026-09-01T01:50:20+00:00",
+      "content_excerpt": "Paul Buhle The Radical Jewish Tradition by Donny Glickstein and Janey Stone. The book, Buhle writes, is a window onto “the antinomies of nineteenth-century Jewish life”—including the growing movement against Zionism and for socialism among Eastern European Jews. This authors, Buhle notes, also tells the story of Jewish communists in Britain, the United States, and beyond, taking into account the wide sweep of Jewish left activity globally, situating the present struggles against genocide in Palestine squarely within the legacy of radical Jews everywhere. The post Radical Jewish Tradition appeared first on Monthly Review .",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/86a1ea1bffafaee5429fee13.json"
-    },
-    {
-      "id": "8e1a90055cee0adcbadb5c76",
-      "title": "More than 200 days under the Energy Blockade: The silent suffocation of the Cuban people",
-      "url": "https://mronline.org/2026/08/31/more-than-200-days-under-the-energy-blockade-the-silent-suffocation-of-the-cuban-people",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-08-31T09:20:56+00:00",
-      "content_excerpt": "So far in 2026, Cuba has received a single shipment of oil: some 100,000 metric tons of crude donated by Russia—and nothing else. The post More than 200 days under the Energy Blockade: The silent suffocation of the Cuban people appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/8e1a90055cee0adcbadb5c76.json"
-    },
-    {
-      "id": "e57ebcf47df0b6d204a16e12",
-      "title": "“Don’t Be Squeamish About Squamous, Get a Checkup!” Amy Goodman’s Personal Health Update",
-      "url": "https://www.democracynow.org/2026/8/28/dont_be_squeamish_about_squamous",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-08-30T21:17:15+00:00",
-      "content_excerpt": "This is a rush transcript. Copy may not be in its final form. AMY GOODMAN : This is Democracy Now! , democracynow.org, The War and Peace Report . I’m Amy Goodman, with Juan González. Before we move on with the show, I wanted to say a few words about my absence from the show this week. I took time off following a minor but important medical procedure known as Mohs surgery — that’s M-O-H-S — microscopic surgery, to remove some skin cells on my nose that tested positive for squamous cell cancer. The procedure was painless, using only minimal local anesthesia, and it went well. I got the stitches out yesterday and now have Steri-Strips across the bridge of my nose, a kind of post-surgical Band-Aid. But I decided to come back on, because I think it’s important that we are not — you know, we don",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/e57ebcf47df0b6d204a16e12.json"
+      "article_path": "articles/948e2f84f29f329b81fa7823.json"
     }
   ]
 }
