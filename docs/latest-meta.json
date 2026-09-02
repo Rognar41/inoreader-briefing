@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-01T21:55:02.175122+00:00",
-  "generated_at_jst": "2026-09-02T06:55:02.175122+09:00",
-  "period_start": "2026-08-31T15:55:02.175122+00:00",
+  "generated_at": "2026-09-02T21:55:32.325308+00:00",
+  "generated_at_jst": "2026-09-03T06:55:32.325308+09:00",
+  "period_start": "2026-09-01T15:55:32.325308+00:00",
   "lookback_hours": 30,
   "raw_item_count": 40,
-  "recent_item_count_before_dedup": 29,
-  "article_count": 29,
-  "article_count_00": 9,
+  "recent_item_count_before_dedup": 40,
+  "article_count": 40,
+  "article_count_00": 20,
   "article_count_06": 20,
   "feed_status": [
     {
