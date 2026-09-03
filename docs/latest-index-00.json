@@ -1,12 +1,118 @@
 {
-  "generated_at": "2026-09-02T21:55:32.325308+00:00",
-  "generated_at_jst": "2026-09-03T06:55:32.325308+09:00",
-  "period_start": "2026-09-01T15:55:32.325308+00:00",
+  "generated_at": "2026-09-03T21:49:52.099005+00:00",
+  "generated_at_jst": "2026-09-04T06:49:52.099005+09:00",
+  "period_start": "2026-09-02T15:49:52.099005+00:00",
   "lookback_hours": 30,
   "folder": "00_毎日確認",
-  "article_count": 20,
+  "article_count": 11,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "9e07cf8713cf05f732682ad5",
+      "title": "With Anti-DSA Bill, Congress Is Red-Baiting Like It’s 1955",
+      "url": "https://www.inoreader.com/article/3a9c6e760771626f",
+      "author": "Ben Burgis",
+      "source": "Jacobin",
+      "published_at": "2026-09-03T17:50:59+00:00",
+      "content_excerpt": "As summer turns into fall, the United States remains mired in a wildly unpopular war in Iran. On the home front, inflation is stubbornly persistent. All indications point to the president’s party suffering major losses in the November midterms — if, that is, the various Republican attempts to interfere with the integrity of the election fall short.Even with all this going on, though, the House found time on Tuesday to pass a resolution symbolically condemning the Democratic Socialists of America (DSA) and “all forms of socialism,” quite obviously inspired by Zohran Mamdani’s mayoralty and the primary victories of several DSA-backed congressional candidates.The anti-DSA bill is a strange document. It starts so similarly to the other congressional resolutions condemning socialism over the la",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/9e07cf8713cf05f732682ad5.json"
+    },
+    {
+      "id": "c9abaa84e2887786d3675688",
+      "title": "The Rise of the Billionaire Lobby",
+      "url": "https://www.inoreader.com/article/3a9c6e760765af89",
+      "author": "Ben Case",
+      "source": "Jacobin",
+      "published_at": "2026-09-03T16:24:02+00:00",
+      "content_excerpt": "You’ve heard of the oil lobby, the tobacco lobby, the Israel lobby, the charter school lobby. Behind all of these are billionaires who benefit from the underlying industries or sectors, and whose corporations use their resources to lobby the government for favorable policies. Now, in reaction to a California ballot initiative for the world’s first billionaire tax, we have an innovation: a lobby for billionaires themselves. Self-advocacy by wealthy people is nothing new, of course. But faced with the prospect of persuading voters to reject Proposition 40 — a temporary tax on roughly two hundred unfathomably rich individuals to fund health care for millions of people — billionaires must make the case to the public that forcing them to share a small amount of their fortunes would do more harm",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/c9abaa84e2887786d3675688.json"
+    },
+    {
+      "id": "5af662fa403fbd19ed307195",
+      "title": "Decades of Growing Inequality Powered MAGA’s Rise",
+      "url": "https://www.inoreader.com/article/3a9c6e7607554363",
+      "author": "Thomas Ferguson",
+      "source": "Jacobin",
+      "published_at": "2026-09-03T14:26:54+00:00",
+      "content_excerpt": "What lies behind the ascendance of Donald Trump and his Make America Great Again movement? All sorts of demagogic political appeals — racism, sexism, anti-immigrant stereotyping — have played integral roles in the rise of the Right, of course. But a fundamental underlying driver is popular disillusionment with an economy that has for decades failed millions of people.That is the argument of our new working paper for the Institute for New Economic Thinking (INET), which analyzes the macroeconomic roots of the collapse of the political center in the United States. The affordability crisis hurting working- and middle-class US households is a long-term emergency that is rooted in inadequate pay and insecure jobs, not just (recently) rising prices, and has eroded the social underpinnings of Ame",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/5af662fa403fbd19ed307195.json"
+    },
+    {
+      "id": "27f3a51034d4de166a7d1018",
+      "title": "We Must Talk about Denuclearizing Israel",
+      "url": "https://socialistforum.dsausa.org/issues/spring-summer-2026/we-must-talk-about-denuclearizing-israel",
+      "author": "Socialist Forum",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-09-03T13:39:45+00:00",
+      "content_excerpt": "There is a simple action DSA can take to dramatically change the relationship between the United States and the genocidal regime in Israel. Start talking about their nukes. Openly, aggressively. Denounce Israel as a rogue nuclear state. Since Israel began developing its nuclear program in the 1950s, its nuclear capabilities have remained the subject of longstanding secrecy and diplomatic silence. The U.S. government has refused to acknowledge Israeli weapons for a variety of reasons; a big one is that a Presidential determination would trigger the stiff sanctions in Sec. 102(B) of the Arms Export Control Act. By acknowledging and denouncing Israel’s nuclear arsenal, DSA can force political recognition of these weapons and inspire action, such as imposing sanctions on Israel. Furthermore, t",
+      "source_folders": [
+        "00_毎日確認",
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/27f3a51034d4de166a7d1018.json"
+    },
+    {
+      "id": "824da325f9a9c3d676cb009b",
+      "title": "The Sewer Socialists Were Pragmatic Class Warriors",
+      "url": "https://www.inoreader.com/article/3a9c6e76075c419b",
+      "author": "Eric Blanc",
+      "source": "Jacobin",
+      "published_at": "2026-09-03T13:27:58+00:00",
+      "content_excerpt": "Milwaukee, Wisconsin, was a Socialist Party stronghold for much of the first half of the twentieth century. Socialists there built a strong presence in the labor movement and city council and held the mayor’s office for nearly forty years between 1910 and 1960. The Milwaukee socialists’ focus on good governance and municipal policy achievements like clean water earned them the ire of some fellow socialists, who derisively dubbed them “sewer socialists.” Yet New York City Mayor Zohran Mamdani has cited them as an inspiration for his own administration, and, as Jacobin contributor Eric Blanc argued in an essay for Catalyst earlier this year, the sewer socialists’ pragmatic approach to building working-class power has much to teach the Left today. David Griscom recently interviewed Blanc for ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/824da325f9a9c3d676cb009b.json"
+    },
+    {
+      "id": "e20770cd460683f070085a48",
+      "title": "In Defense of Victor Serge",
+      "url": "https://www.inoreader.com/article/3a9c6e76075feaa9",
+      "author": "Claudio Albertani",
+      "source": "Jacobin",
+      "published_at": "2026-09-03T12:58:07+00:00",
+      "content_excerpt": "For decades, anyone writing about Victor Serge had to begin by explaining who he was and why we should care. Despite an enormous literary legacy, he had been literally airbrushed from Soviet history, a forgotten figure even on much of the Left. History is rarely kind to the vanquished, and Serge stood on the side of the defeated, with those who refused to compromise with capitalism or surrender to Stalinism. The cost was high, but Serge’s eloquent voice and mighty pen could not prevent his being sidelined by history, ignored or poorly understood, consigned to a life of poverty. Four of his books were confiscated by the Soviet Censorship ( Glavlit ), and other writings were left unpublished, though they establish him as a man who belongs to our future. Who was Serge? A worker, a militant, a",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/e20770cd460683f070085a48.json"
+    },
+    {
+      "id": "fd41a5a133d868506295245c",
+      "title": "Tlaib responds to House Resolution Condemning Socialism",
+      "url": "https://democraticleft.dsausa.org/2026/09/02/tlaib-responds-to-house-resolution-condemning-socialism",
+      "author": "Democratic Left",
+      "source": "Democratic Left",
+      "published_at": "2026-09-03T00:00:47+00:00",
+      "content_excerpt": "In remarks on the House floor, U.S. Rep. Rashida Tlaib contrasted the goals of democratic socialists with Republican policies that immiserate Americans. The post Tlaib responds to House Resolution Condemning Socialism appeared first on Democratic Left .",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/fd41a5a133d868506295245c.json"
+    },
     {
       "id": "9422b977631902c1970d4c90",
       "title": "Chapter Notes: September 2026",
@@ -66,246 +172,6 @@
       "priority": 1,
       "date_missing": false,
       "article_path": "articles/78ca7f4c31d921c483abaf83.json"
-    },
-    {
-      "id": "0d594428b3d1edbc6a5cacea",
-      "title": "Socialism’s Summer Isn’t Over — And Neither Is the Media’s Fascination",
-      "url": "https://democraticleft.dsausa.org/2026/09/02/socialisms-summer-isnt-over-and-neither-is-the-medias-fascination",
-      "author": "Democratic Left",
-      "source": "Democratic Left",
-      "published_at": "2026-09-02T15:49:47+00:00",
-      "content_excerpt": "An occasional round-up of media coverage of DSA. The post Socialism’s Summer Isn’t Over — And Neither Is the Media’s Fascination appeared first on Democratic Left .",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/0d594428b3d1edbc6a5cacea.json"
-    },
-    {
-      "id": "2a7977fa55f6689df7064ae9",
-      "title": "Will AI Destroy the Meritocracy?",
-      "url": "https://www.inoreader.com/article/3a9c6e7600af5f10",
-      "author": "Matt Bruenig",
-      "source": "Jacobin",
-      "published_at": "2026-09-02T14:28:46+00:00",
-      "content_excerpt": "There is a lot of debate about whether artificial intelligence, large language models (LLMs) in particular, will make people smarter or dumber. The case for dumber is that LLMs can be used as a substitute for learning. Rather than struggling through a subject and working your brain around understanding it, you can just have an LLM produce the desired output. The case for smarter is that LLMs can be used like a very patient tutor who answers your questions and thereby helps you understand and learn things. Generally speaking, I think the answer is obviously both. This is true even for a particular individual who may use AI to help them understand certain things better while also using it to help them avoid learning other things. This tracks my own experience. I have used AI to help me under",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/2a7977fa55f6689df7064ae9.json"
-    },
-    {
-      "id": "c6dfb2fd509642c071cf750b",
-      "title": "Spiking Bond Yields Pay the Rich and Squeeze Everyone Else",
-      "url": "https://www.inoreader.com/article/3a9c6e7600942c19",
-      "author": "Matías Vernengo",
-      "source": "Jacobin",
-      "published_at": "2026-09-02T13:59:53+00:00",
-      "content_excerpt": "The recent rise in long-term US Treasury yields has revived a familiar story about fiscal irresponsibility. Commentators point to large federal deficits, growing public debt, and the volume of Treasury securities coming onto the market. From this perspective, higher yields are the market’s response to excessive government borrowing, and the Trump administration’s policy amounts to fiscal recklessness. This interpretation rests on an old and misleading conception of financial markets. It treats government and private borrowers as competing for a limited pool of savings, so that larger deficits necessarily drive interest rates upward. But interest rates in a modern monetary economy are not determined in this way. The Federal Reserve (Fed) directly sets the short-term policy rate and strongly",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/c6dfb2fd509642c071cf750b.json"
-    },
-    {
-      "id": "46dd8ea37aa526a993c84c7f",
-      "title": "A Strong Welfare State Changes the Meaning of Unemployment",
-      "url": "https://www.inoreader.com/article/3a9c6e76009dae19",
-      "author": "Kelly McKowen",
-      "source": "Jacobin",
-      "published_at": "2026-09-02T13:01:56+00:00",
-      "content_excerpt": "On a fall evening in 2015, I accepted — with some reluctance — an invitation to a gathering at the home of Nina Witoszek, a popular émigré writer and gadfly in Oslo. I did not know Nina well, though for years I had read her columns in Aftenposten, Norway’s largest newspaper. I had also seen firsthand how her acerbic, insider-outsider commentary on this or that object of Norwegian pride could drive her more patriotic readers to the point of an almost foaming apoplexy.Nina was unafraid to ask big, difficult questions and offer a perspective that much of the public inevitably scorned — even as they eagerly awaited what she had to say next. And now she had fixed her aim on something truly sacred: the so-called Nordic model of welfare capitalism. Her plan was to recruit an interdisciplinary gro",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/46dd8ea37aa526a993c84c7f.json"
-    },
-    {
-      "id": "3c47acd8ad81e11a7a1d831f",
-      "title": "How Domestic Workers built POWER in Philadelphia - The Forge",
-      "url": "https://forgeorganizing.org/article/how-domestic-workers-built-power-in-philadelphia",
-      "author": "",
-      "source": "The Forge",
-      "published_at": "2026-09-02T06:17:45+00:00",
-      "content_excerpt": "A few years ago, one of our members — a Black Caribbean immigrant nanny working in one of Philadelphia’s wealthiest neighborhoods — asked her employer for a written contract. She had that right under the city’s Domestic Worker Bill of Rights, which domestic workers won in 2019. Instead, she was fired on the spot. After that, she was quietly blacklisted in the neighborhood’s parent Facebook groups, a form of retaliation that could itself be deemed illegal in many labor violation cases. I’ve spent years working as an organizer alongside Philadelphia nannies, caregivers, and housecleaners to win critical labor protections and the dignity and respect all workers deserve. The nanny’s story finally made us pause and say what we all felt: the law we won wasn’t working. We won one of the strongest",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/3c47acd8ad81e11a7a1d831f.json"
-    },
-    {
-      "id": "77490b7fe500722a548b0235",
-      "title": "Beyond Democracy, Everyone Eats - The Forge",
-      "url": "https://forgeorganizing.org/article/beyond-democracy-everyone-eats",
-      "author": "",
-      "source": "The Forge",
-      "published_at": "2026-09-02T05:16:22+00:00",
-      "content_excerpt": "In this conversation, Claire Maracle, Executive Director of Words of the People, and Baratunde Thurston, storyteller and author of How to Be Black, excavate the origins of American democracy to expand and reshape our political imagination. It turns out we’ve been dreaming too small. Baratunde: You’re Claire, I’m Baratunde, and we are human beings on this earth. And that’s just a beautiful thing to be. Claire, could you introduce yourself? Claire: Shé:kon sewakwé:kon , Ionkiats Claire. Kanienkeha:ka niwakonhwentsio. Ohkwa:ri niwakitaro:ten. Hello, everyone. My name is Claire. I am Mohawk Bear Clan from the Six Nations of the Grand River. My great-grandmother was Sue Staats, and her grandmother was Susannah Maracle. I am someone who holds status under the Indian Act in Canada. I was born in ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/77490b7fe500722a548b0235.json"
-    },
-    {
-      "id": "06e64b123187736ac9c8596b",
-      "title": "Pinellas County Democratic Socialists of America Launch ‘No on 3’ Campaign",
-      "url": "https://dsa-pinellas.medium.com/pinellas-county-democratic-socialists-of-america-launch-no-on-3-campaign-0844fc45be44?source=rss-fc02be9a55f0------2",
-      "author": "Pinellas DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-09-02T02:25:55+00:00",
-      "content_excerpt": "Pinellas County Democratic Socialists of America Launch ‘No on 3’ Campaign in Opposition to Amendment 3, Warn of Grave Threat to Local Services Members of Pinellas DSA met in Clearwater on August 29 for the launch of the ‘No on 3’ campaign. The Pinellas County chapter of the Democratic Socialists of America announced the launch of their ‘No on 3’ campaign at a kickoff event Thursday night at the Clearwater East Community Library in Clearwater. The campaign is an effort to educate Floridians about Amendment 3, and raise awareness of its potential consequences for local governments, public services, and communities across Florida. Amendment 3 would substantially increase Florida’s homestead exemption for property taxes, from the current $50,000 to $150,000 in 2027 and $250,000 in 2028, while",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/06e64b123187736ac9c8596b.json"
-    },
-    {
-      "id": "db2a7c2ddbedd40d8828a14d",
-      "title": "War Tax Resistance: Legal Quagmire or Civil Initiative",
-      "url": "https://medium.com/dsa-detroit-newspaper/war-tax-resistance-legal-quagmire-or-civil-initiative-aa85364dd68a?source=rss-160b7baee925------2",
-      "author": "Detroit DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-09-02T02:25:55+00:00",
-      "content_excerpt": "The War Resisters League’s recently published “Where your income tax money is going” pie chart estimates that 58% of the 2027 federal budget will be spent on past or present military By AJ When I left full-time employment in 2019 I had never heard of war tax resistance. I knew about conscientious objection to participating in war, but as someone who did not want to join the military (and whom the military would not want) it felt as though there was no concrete way for me to voice my opposition to war, the military as an institution, and the outrageous amount of money they receive from our federal tax payments. It turned out that one of the side effects of my semi-retirement and greatly reduced income was that I became a war tax resister by default. A brief history of war tax resistance War",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/db2a7c2ddbedd40d8828a14d.json"
-    },
-    {
-      "id": "2638b7cc2133c175207efd14",
-      "title": "Rochester Red Star | September 2026 | (Issue 29)",
-      "url": "https://rocdsa.org/blog/rochester-red-star-september-2026-issue-29",
-      "author": "Rochester Red Star: News from Rochester DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-09-02T02:25:55+00:00",
-      "content_excerpt": "Monthly Newsletter of the Rochester Chapter of Democratic Socialists of America Welcome to the September issue of Rochester Red Star , ROC DSA’s monthly newsletter. This month, we present essays on abolishing the Senate, Canadian militarism, the secrets of a successful organizer, and more. You’ll also find upcoming events and coverage of chapter activities. Interested in contributing? Send submissions to bit.ly/SubmitRedStar , or get involved with our Communications Committee. Reach out to steering@rocdsa.org and join DSA today! September 2026 Newsletter (Online) Download The post Rochester Red Star | September 2026 | (Issue 29) first appeared on Rochester Red Star .",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/2638b7cc2133c175207efd14.json"
-    },
-    {
-      "id": "f92435d68efb6632bd2ab886",
-      "title": "Political Cartoons, September 2026",
-      "url": "https://pineandroses.org/opinion/political-cartoons-september-2026",
-      "author": "Pine and Roses -- Maine DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-09-02T02:25:55+00:00",
-      "content_excerpt": "The post Political Cartoons, September 2026 appeared first on Pine & Roses .",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/f92435d68efb6632bd2ab886.json"
-    },
-    {
-      "id": "028d08c4fd2874146ebb1aa0",
-      "title": "The Left Can’t Win Without an Internationalist Vision",
-      "url": "https://pineandroses.org/opinion/the-left-cant-win-without-an-internationalist-vision",
-      "author": "Pine and Roses -- Maine DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-09-02T02:25:55+00:00",
-      "content_excerpt": "As we enter a new age of imperial wars, internationalism is very much back on the Left’s agenda. But what is internationalism? And why does it matter? The Left’s preoccupation with “internationalism” stems from the fact that its political project has always been tied in some way to what might be called universal emancipation. To emancipate is to free someone or something from a power, and universal emancipation stands for the liberation of everyone from all domination. The aim of the Left, in other words, is not simply to redistribute wealth, expand state services, or roll back racial discrimination in one’s own country; it is to abolish every form of oppression and domination everywhere. By definition, universal emancipation has to be global or not at all. A World of States But the globe ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/028d08c4fd2874146ebb1aa0.json"
-    },
-    {
-      "id": "5f2f49274c812db0dfd488a7",
-      "title": "DSA San Francisco Opposes Mayor Lurie’s Power Grab: No on D, E and F",
-      "url": "https://dsasf.org/oppose-mayor-luries-power-grab-no-on-d-e-f",
-      "author": "San Francisco DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-09-02T02:25:55+00:00",
-      "content_excerpt": "DSA San Francisco stands in strong opposition to Mayor Lurie’s three proposed charter amendments for November 2026 which seek to limit San Franciscans’ ability to place measures on the ballot, reduce democratic oversight over city spending, and further centralize power under the Mayor. The measures are funded by a set of tech and real estate capitalists, to the tune of $8.6 million so far . All of these measures undermine the working class’ ability to govern ourselves and hold our officials accountable for their decisions while cynically being marketed as an effort to “clean up City Hall,” despite most of San Francisco’s recent corruption emanating from the Mayor’s Office. In the last 1.5 years as mayor, Daniel Lurie has continued the legacy of his “moderate”, corporate-backed predecessors",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/5f2f49274c812db0dfd488a7.json"
-    },
-    {
-      "id": "2619e1f7c5190855c88455ea",
-      "title": "Code Red: Local Workers Must Know Their Rights as ICE Activity Ramps Up in Las Vegas",
-      "url": "https://lvdsa.org/2026/08/31/code-red-local-workers-must-know-their-rights-as-ice-activity-ramps-up-in-las-vegas",
-      "author": "Las Vegas DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-09-02T02:25:55+00:00",
-      "content_excerpt": "By Jill Glass The Las Vegas Democratic Socialists of America (LVDSA) fight to abolish Immigration and Customs Enforcement (ICE) and build a future where all people can live, work, and move safely and with dignity. Our fabulous Las Vegas is an iconic world-class destination because of its diversity and immigrant contributions; we should celebrate and invigorate this workforce. Yet, today’s young and diverse workers are subject to vicious, violent ICE raids where agents are rewarded for exceeding quotas of captured humans, never mind how these numbers are attained. Our neighbors are not tally marks to meet ICE agents’ monthly goals, and we are appalled that our local workers face this reality. As ICE activity ramps up in the Las Vegas Valley, we heed the call to action in supporting vital im",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/2619e1f7c5190855c88455ea.json"
-    },
-    {
-      "id": "64bfe315486f18801f065320",
-      "title": "Stop The Steal! Big Business is Colluding With the City Council Right-Wing to Rig Zenith Transfer Agreement",
-      "url": "https://portlanddsa.org/stop-the-steal-big-business-is-colluding-with-the-city-council-right-wing-to-rig-zenith-transfer-agreement",
-      "author": "Portland DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-09-02T02:25:55+00:00",
-      "content_excerpt": "At a September 2 meeting, Portland City Council will decide if Zenith Energy, the notorious law-breaking corporate polluter based in the waterfront CEI hub, can skip town by selling assets and transferring its franchise agreement to I Squared Capital, a $60 billion Miami-based private equity firm. I Squared has a record of safety, employment, consumer protection, and environmental violations at least in the United Kingdom if not elsewhere. I Squared is also heavily invested in data centers, with a commitment to invest $2 billion in “digital infrastructure” in Saudi Arabia and $1 billion in US data centers . I Squared says it will expand the Portland terminal — already the largest fuel storage and transfer facility in Portland — into a regional fuel terminal. That means more oil trains, mor",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/64bfe315486f18801f065320.json"
-    },
-    {
-      "id": "4a17f14cb6682def8ba095ab",
-      "title": "Telling Our Story",
-      "url": "https://democraticleft.dsausa.org/2026/08/31/telling-our-story",
-      "author": "Democratic Left",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-09-02T02:25:55+00:00",
-      "content_excerpt": "DSA should use media to promote its socialist vision and counter corporate media’s distortions. The post Telling Our Story appeared first on Democratic Left .",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/4a17f14cb6682def8ba095ab.json"
-    },
-    {
-      "id": "5f1811ce818e47c46295414f",
-      "title": "Centrist Democrats Are Trying to Throw the Michigan Race",
-      "url": "https://www.inoreader.com/article/3a9c6e7600116b43",
-      "author": "Branko Marcetic",
-      "source": "Jacobin",
-      "published_at": "2026-09-01T20:02:07+00:00",
-      "content_excerpt": "In Michigan, where progressive Abdul El-Sayed is facing off for the must-win Senate seat against Donald Trump–backed Mike Rogers, Democrats have a problem. How to reconcile their distaste for their own party’s nominee with the imperative to care about winning? Attorney General Dana Nessel modeled a way out of the bind with a comically backhanded endorsement. Tasked with trying to convince Jewish Democrats that they should vote for El-Sayed despite the blizzard of smears charging he’s a dangerous antisemite, Attorney General Dana Nessel offered the most unappetizing of unappetizing pitches. Referencing the biblical story of Queen Esther, who chose to put her life on the line to save many others, she implored those in the room to do the same. “It is perhaps up to us now to follow in her path",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/5f1811ce818e47c46295414f.json"
     }
   ]
 }
