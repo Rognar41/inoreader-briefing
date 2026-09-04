@@ -1,12 +1,102 @@
 {
-  "generated_at": "2026-09-03T21:49:52.099005+00:00",
-  "generated_at_jst": "2026-09-04T06:49:52.099005+09:00",
-  "period_start": "2026-09-02T15:49:52.099005+00:00",
+  "generated_at": "2026-09-04T21:40:29.004145+00:00",
+  "generated_at_jst": "2026-09-05T06:40:29.004145+09:00",
+  "period_start": "2026-09-03T15:40:29.004145+00:00",
   "lookback_hours": 30,
   "folder": "00_毎日確認",
-  "article_count": 11,
+  "article_count": 8,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "74833ee4bbf783b5bc2217a8",
+      "title": "Gloria Steinem Was the Godmother of Neoliberal Feminism",
+      "url": "https://www.inoreader.com/article/3a9c6e76064809ce",
+      "author": "Jenny Brown",
+      "source": "Jacobin",
+      "published_at": "2026-09-04T21:33:27+00:00",
+      "content_excerpt": "Gloria Steinem, the establishment’s favorite radical feminist, died on September 2. The mainstream media has gone all out in praising her, with the Wall Street Journal and The New York Times united in their adulation. The Times called her the “personification of the women’s movement” and credited her with helping to usher in “sweeping cultural transformations across virtually every facet of American life, from the boardroom to the courtroom to the bedroom.” They approvingly quote her self-description as an “entrepreneur of social change.” For many people, she is the only radical feminist they can name, eclipsing the extraordinary women who planned and launched the successful women’s liberation movement starting in 1967. Steinem did wield enormous influence. Ms . magazine and the Ms. Founda",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/74833ee4bbf783b5bc2217a8.json"
+    },
+    {
+      "id": "746fd68fd8efab179fefd0b3",
+      "title": "Organizing from the Bottom: IBEW’s Fight for Sanitary Facilities",
+      "url": "https://medium.com/dsa-detroit-newspaper/organizing-from-the-bottom-ibews-fight-for-sanitary-facilities-341e832625d5?source=rss-160b7baee925------2",
+      "author": "Detroit DSA",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-09-04T19:38:39+00:00",
+      "content_excerpt": "Workers in high-visibility gear gather at a downtown Detroit worksite, with the city skyline visible in the background. By Kevin Szczesny To get clean Porta-johns in our workplace, construction workers at the Marriott site in downtown Detroit marched on the boss. Workers from at least seven unions of the building trades were represented, with zero union staffers or officers present. Many union halls were in support of the action, but the work and the application of leverage were entirely rank-and-file driven. As an active member of IBEW Local 58 (Electrical Workers), I often hear from sympathetic organizers who “can’t imagine how hard it must be” organizing in a largely conservative and obstinate workforce. Our campaign is a contribution to the death of that narrative, and an answer to the",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/746fd68fd8efab179fefd0b3.json"
+    },
+    {
+      "id": "8d632beca3baac633fca0c1e",
+      "title": "Ruth First’s Legacy Has Outlived the Regime That Killed Her",
+      "url": "https://www.inoreader.com/article/3a9c6e76061a366a",
+      "author": "Christopher J. Lee",
+      "source": "Jacobin",
+      "published_at": "2026-09-04T15:15:38+00:00",
+      "content_excerpt": "In August 1982, a parcel bomb went off at the Center for African Studies at Eduardo Mondlane University in Maputo, Mozambique. Sent by the South African government’s Special Branch, its target and victim was Ruth First, a lifelong member of the South African Communist Party (SACP), who was fifty-seven years old at the time. Her assassination has since become the stuff of legend, a symbol of the violent brutality of the apartheid government toward its critics in the last decades of its existence. The murder of First was part of a broader effort by the white minority state to eliminate its opponents following the Soweto Uprising of 1976, which resulted in a revival of (and a generational shift within) the anti-apartheid struggle. Inspired by the ideas of Steve Biko, the Black Consciousness M",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/8d632beca3baac633fca0c1e.json"
+    },
+    {
+      "id": "098b20263186f9def9f6034e",
+      "title": "Private Equity’s Pension Heist",
+      "url": "https://www.inoreader.com/article/3a9c6e76060dcbb6",
+      "author": "Clark Randall",
+      "source": "Jacobin",
+      "published_at": "2026-09-04T14:17:46+00:00",
+      "content_excerpt": "From 2024 to 2025, the two hundred largest pension funds in the United States increased their investment in private credit by 57 percent . It’s now gone up around 650 percent over the past five years. Private credit is the other side of the coin to private equity (PE) — among other things, it provides the loans for PE firms’ leveraged buyouts. The biggest PE firms have massive private credit arms that have, in recent years, overrun their private equity cores. They act as the unregulated winners of the postrecession economy, avoiding scrutiny and taking risks that commercial banks were foreclosed from under the Dodd–Frank Act. Our worker-funded public pensions have historically been the primary capital provider to private credit funds, amounting to around 30 percent of the total market. Man",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/098b20263186f9def9f6034e.json"
+    },
+    {
+      "id": "823d83b1ba64adf0cd5a7eac",
+      "title": "Francis Fukuyama: The American Right Has Gone Off the Deep End",
+      "url": "https://www.inoreader.com/article/3a9c6e7607f42ece",
+      "author": "Francis Fukuyama",
+      "source": "Jacobin",
+      "published_at": "2026-09-04T13:47:26+00:00",
+      "content_excerpt": "In 1989, Francis Fukuyama wrote a sweeping philosophical polemic in which he argued that liberal democratic capitalism was the only viable economic and political system. Countries would either converge on its model or drift into dysfunction. What prevented states and individuals from accepting this fate was a fear of being the Last Man, a Nietzschean term for the individual living without ideas worth dying for. A world in which liberal democracy was triumphant was, Fukuyama argued in “The End of History?,” one without the tragedy and pathos of the era of great ideologies — safe but boring.f When he expanded this essay three years later into The End of History and the Last Man , Fukuyama gave voice to a worry that this condition of placid stability may not be able to satisfy the drives of a",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/823d83b1ba64adf0cd5a7eac.json"
+    },
+    {
+      "id": "30dbf59e3497aa51695e6cc1",
+      "title": "In Serbia, Few Frankly Reckon With Ratko Mladić’s Crimes",
+      "url": "https://www.inoreader.com/article/3a9c6e7607fcbedc",
+      "author": "Lela Vujanić",
+      "source": "Jacobin",
+      "published_at": "2026-09-04T12:48:23+00:00",
+      "content_excerpt": "When residents of a block in Belgrade’s city center woke up to the news last week, they were confronted with a mural celebrating a war criminal, painted overnight. Furious, they plotted a “night action” to destroy this latest tribute to Ratko Mladić with improvised defacement tactics. While the war criminal’s face is ever present across the Serbian capital, this was the first time a mural several meters long and about one meter high had appeared on the building surrounding their park. The news of Mladić’s death, while in detention at The Hague, came in the middle of a campaign for parliamentary elections that have not yet been called but according to President Aleksandar Vučić are expected any day now. What a popular slogan calls the “students who are winning” (after a series of recent mas",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/30dbf59e3497aa51695e6cc1.json"
+    },
     {
       "id": "9e07cf8713cf05f732682ad5",
       "title": "With Anti-DSA Bill, Congress Is Red-Baiting Like It’s 1955",
@@ -36,142 +126,6 @@
       "priority": 1,
       "date_missing": false,
       "article_path": "articles/c9abaa84e2887786d3675688.json"
-    },
-    {
-      "id": "5af662fa403fbd19ed307195",
-      "title": "Decades of Growing Inequality Powered MAGA’s Rise",
-      "url": "https://www.inoreader.com/article/3a9c6e7607554363",
-      "author": "Thomas Ferguson",
-      "source": "Jacobin",
-      "published_at": "2026-09-03T14:26:54+00:00",
-      "content_excerpt": "What lies behind the ascendance of Donald Trump and his Make America Great Again movement? All sorts of demagogic political appeals — racism, sexism, anti-immigrant stereotyping — have played integral roles in the rise of the Right, of course. But a fundamental underlying driver is popular disillusionment with an economy that has for decades failed millions of people.That is the argument of our new working paper for the Institute for New Economic Thinking (INET), which analyzes the macroeconomic roots of the collapse of the political center in the United States. The affordability crisis hurting working- and middle-class US households is a long-term emergency that is rooted in inadequate pay and insecure jobs, not just (recently) rising prices, and has eroded the social underpinnings of Ame",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/5af662fa403fbd19ed307195.json"
-    },
-    {
-      "id": "27f3a51034d4de166a7d1018",
-      "title": "We Must Talk about Denuclearizing Israel",
-      "url": "https://socialistforum.dsausa.org/issues/spring-summer-2026/we-must-talk-about-denuclearizing-israel",
-      "author": "Socialist Forum",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-09-03T13:39:45+00:00",
-      "content_excerpt": "There is a simple action DSA can take to dramatically change the relationship between the United States and the genocidal regime in Israel. Start talking about their nukes. Openly, aggressively. Denounce Israel as a rogue nuclear state. Since Israel began developing its nuclear program in the 1950s, its nuclear capabilities have remained the subject of longstanding secrecy and diplomatic silence. The U.S. government has refused to acknowledge Israeli weapons for a variety of reasons; a big one is that a Presidential determination would trigger the stiff sanctions in Sec. 102(B) of the Arms Export Control Act. By acknowledging and denouncing Israel’s nuclear arsenal, DSA can force political recognition of these weapons and inspire action, such as imposing sanctions on Israel. Furthermore, t",
-      "source_folders": [
-        "00_毎日確認",
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/27f3a51034d4de166a7d1018.json"
-    },
-    {
-      "id": "824da325f9a9c3d676cb009b",
-      "title": "The Sewer Socialists Were Pragmatic Class Warriors",
-      "url": "https://www.inoreader.com/article/3a9c6e76075c419b",
-      "author": "Eric Blanc",
-      "source": "Jacobin",
-      "published_at": "2026-09-03T13:27:58+00:00",
-      "content_excerpt": "Milwaukee, Wisconsin, was a Socialist Party stronghold for much of the first half of the twentieth century. Socialists there built a strong presence in the labor movement and city council and held the mayor’s office for nearly forty years between 1910 and 1960. The Milwaukee socialists’ focus on good governance and municipal policy achievements like clean water earned them the ire of some fellow socialists, who derisively dubbed them “sewer socialists.” Yet New York City Mayor Zohran Mamdani has cited them as an inspiration for his own administration, and, as Jacobin contributor Eric Blanc argued in an essay for Catalyst earlier this year, the sewer socialists’ pragmatic approach to building working-class power has much to teach the Left today. David Griscom recently interviewed Blanc for ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/824da325f9a9c3d676cb009b.json"
-    },
-    {
-      "id": "e20770cd460683f070085a48",
-      "title": "In Defense of Victor Serge",
-      "url": "https://www.inoreader.com/article/3a9c6e76075feaa9",
-      "author": "Claudio Albertani",
-      "source": "Jacobin",
-      "published_at": "2026-09-03T12:58:07+00:00",
-      "content_excerpt": "For decades, anyone writing about Victor Serge had to begin by explaining who he was and why we should care. Despite an enormous literary legacy, he had been literally airbrushed from Soviet history, a forgotten figure even on much of the Left. History is rarely kind to the vanquished, and Serge stood on the side of the defeated, with those who refused to compromise with capitalism or surrender to Stalinism. The cost was high, but Serge’s eloquent voice and mighty pen could not prevent his being sidelined by history, ignored or poorly understood, consigned to a life of poverty. Four of his books were confiscated by the Soviet Censorship ( Glavlit ), and other writings were left unpublished, though they establish him as a man who belongs to our future. Who was Serge? A worker, a militant, a",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/e20770cd460683f070085a48.json"
-    },
-    {
-      "id": "fd41a5a133d868506295245c",
-      "title": "Tlaib responds to House Resolution Condemning Socialism",
-      "url": "https://democraticleft.dsausa.org/2026/09/02/tlaib-responds-to-house-resolution-condemning-socialism",
-      "author": "Democratic Left",
-      "source": "Democratic Left",
-      "published_at": "2026-09-03T00:00:47+00:00",
-      "content_excerpt": "In remarks on the House floor, U.S. Rep. Rashida Tlaib contrasted the goals of democratic socialists with Republican policies that immiserate Americans. The post Tlaib responds to House Resolution Condemning Socialism appeared first on Democratic Left .",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/fd41a5a133d868506295245c.json"
-    },
-    {
-      "id": "9422b977631902c1970d4c90",
-      "title": "Chapter Notes: September 2026",
-      "url": "https://dsa-pinellas.medium.com/chapter-notes-september-2026-e99b8d0848af?source=rss-fc02be9a55f0------2",
-      "author": "Pinellas DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-09-02T19:37:10+00:00",
-      "content_excerpt": "Hey, comrade! The latest edition of the Pinellas DSA newsletter is here! August was another exciting month of base building and growth for our chapter. In fact, we concluded the month with an exciting milestone: we’ve now officially had more than 100 new and prospective members of Pinellas DSA attend an orientation this year! Of course, that’s just one of the highlights we’ve got to talk about. Read on to learn more about what we’ve been keeping busy with! August Highlights As I’m sure you’re aware, our Dump Duke campaign has been steadily gaining traction for well over a year now. But, our members decided this month to launch two additional campaigns for our chapter to undertake — the DeFlock St. Pete initiative and the No On 3 campaign. We’ll provide more details about each of these new ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/9422b977631902c1970d4c90.json"
-    },
-    {
-      "id": "58435cdc7fc4ca8ea4c085df",
-      "title": "Coalitions Make the Left Stronger",
-      "url": "https://midwestsocialist.com/2026/09/02/coalitions-make-the-left-stronger",
-      "author": "Midwestern Socialist -- Chicago DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-09-02T19:37:10+00:00",
-      "content_excerpt": "DSA has had a string of spectacular electoral victories. With success comes greater media attention, growing membership, and new challenges. One of the most important questions is how to build broad unity that can achieve transformative policies. And how do we criticize each other and political allies without falling into sectarian purism where differences overshadow what we hold in common and disrupt working together? The specter haunting DSA seems to be the possibility of socialist congresswoman Alexandria Ocasio-Cortez (AOC) joining the presidential primary. Positions within the organization range from enthusiastic support, to begrudging inevitability, to outright opposition. But the debate over AOC is just the tip of the iceberg. As DSA grows and fields more and more candidates, the qu",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/58435cdc7fc4ca8ea4c085df.json"
-    },
-    {
-      "id": "37bd0e27b93c45a8ec8b66b5",
-      "title": "Under Israeli Settler Attacks, I Feel I Am Not Alive",
-      "url": "https://www.inoreader.com/article/3a9c6e7600b33a16",
-      "author": "Miriame Mazid",
-      "source": "Jacobin",
-      "published_at": "2026-09-02T16:26:09+00:00",
-      "content_excerpt": "In the West Bank village of At-Tuwani this July 19, Ruqayya Rabe’i, three months pregnant, lay in her room beside her four sleeping daughters. At 12:30 a.m., the first stones hit her home. She rushed to check the front door. There in the living room, she found her fifteen-year-old son, Usayd, sleeping directly below a window where, according to Ruqayya, several settlers were armed with guns and knives and trying to force their way in. She tried to shake her son awake, but he didn’t stir. When the settlers noticed her, she fled, certain that if they saw him, they would shoot. The window was shattered, a chemical compound poured through it, and the frame went up in flames, Ruqayya said. She called her husband, who was working in the nearby city of Yatta, frantic, believing at that moment tha",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/37bd0e27b93c45a8ec8b66b5.json"
-    },
-    {
-      "id": "78ca7f4c31d921c483abaf83",
-      "title": "Trump’s Oil Deal Is a Return to Venezuela’s Colonial Past",
-      "url": "https://www.inoreader.com/article/3a9c6e7600b33a0f",
-      "author": "Logan McMillen",
-      "source": "Jacobin",
-      "published_at": "2026-09-02T16:26:09+00:00",
-      "content_excerpt": "On Friday evening, US President Donald Trump announced — via Truth Social post — the “biggest oil deal in world history,” which would see the United States take partial control of a shocking sixty-five billion barrels of Venezuelan oil, more than doubling the United States’ current reserves. Secretary of State Marco Rubio, who negotiated the deal with interim Venezuelan President Delcy Rodríguez, hailed the agreement as “a huge win for both the American and Venezuelan people,” dangling the scintillating prospect of “nearly $100 billion in private investment” for Venezuela and the creation of “thousands of high-paying jobs.” Details of the deal were already leaking Thursday afternoon, with sources suggesting that it would take the form of a one hundred-year lease across seventeen oil fields",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/78ca7f4c31d921c483abaf83.json"
     }
   ]
 }

@@ -1,27 +1,281 @@
 {
-  "generated_at": "2026-09-03T21:49:52.099005+00:00",
-  "generated_at_jst": "2026-09-04T06:49:52.099005+09:00",
-  "period_start": "2026-09-02T15:49:52.099005+00:00",
+  "generated_at": "2026-09-04T21:40:29.004145+00:00",
+  "generated_at_jst": "2026-09-05T06:40:29.004145+09:00",
+  "period_start": "2026-09-03T15:40:29.004145+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
   "article_count": 20,
   "excerpt_chars": 800,
   "articles": [
     {
-      "id": "27f3a51034d4de166a7d1018",
-      "title": "We Must Talk about Denuclearizing Israel",
-      "url": "https://socialistforum.dsausa.org/issues/spring-summer-2026/we-must-talk-about-denuclearizing-israel",
-      "author": "Socialist Forum",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-09-03T13:39:45+00:00",
-      "content_excerpt": "There is a simple action DSA can take to dramatically change the relationship between the United States and the genocidal regime in Israel. Start talking about their nukes. Openly, aggressively. Denounce Israel as a rogue nuclear state. Since Israel began developing its nuclear program in the 1950s, its nuclear capabilities have remained the subject of longstanding secrecy and diplomatic silence. The U.S. government has refused to acknowledge Israeli weapons for a variety of reasons; a big one is that a Presidential determination would trigger the stiff sanctions in Sec. 102(B) of the Arms Export Control Act. By acknowledging and denouncing Israel’s nuclear arsenal, DSA can force political recognition of these weapons and inspire action, such as imposing sanctions on Israel. Furthermore, t",
+      "id": "de437f5f7736e18c2139294d",
+      "title": "Food has returned to Gaza’s markets, but most people still cannot afford to eat",
+      "url": "https://mondoweiss.net/2026/09/food-has-returned-to-gazas-markets-but-most-people-still-cannot-afford-to-eat",
+      "author": "Tareq S. Hajjaj",
+      "source": "Mondoweiss",
+      "published_at": "2026-09-04T20:45:40+00:00",
+      "content_excerpt": "Prices have fallen sharply since the famine of 2025, but with purchasing power destroyed by nearly three years of war and displacement, food on the shelves remains out of reach for the majority of Gaza's population.",
       "source_folders": [
-        "00_毎日確認",
         "06_左派ニュース・社会主義戦略"
       ],
-      "priority": 1,
+      "priority": 2,
       "date_missing": false,
-      "article_path": "articles/27f3a51034d4de166a7d1018.json"
+      "article_path": "articles/de437f5f7736e18c2139294d.json"
+    },
+    {
+      "id": "0843e35b838b43e102e40c26",
+      "title": "What the latest flare-up between the U.S and Iran means",
+      "url": "https://mondoweiss.net/2026/09/what-the-latest-flare-up-between-the-u-s-and-iran-means",
+      "author": "Mitchell Plitnick",
+      "source": "Mondoweiss",
+      "published_at": "2026-09-04T20:45:40+00:00",
+      "content_excerpt": "The U.S. and Iran are trading strikes while carefully avoiding all-out war, and both sides are hiding the damage they've suffered. The difference is Iran has more reason to end the stalemate, and less patience for Washington's forever-war strategy.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/0843e35b838b43e102e40c26.json"
+    },
+    {
+      "id": "8db4175f9f210b74b8b16281",
+      "title": "Healthy food is still out of reach for students and young people",
+      "url": "https://breakthroughnews.org/2026/09/04/healthy-food-is-still-out-of-reach-for-students-and-young-people",
+      "author": "Peoples Health Dispatch",
+      "source": "BT News",
+      "published_at": "2026-09-04T18:45:45+00:00",
+      "content_excerpt": "Students in secondary schools across England remain reliant on unhealthy food amid ongoing commercialization, weak accountability, and inaccessible prices. A recent report by the network Bite Back examines how these intersecting factors are affecting children’s nutrition, calling on the government to revise existing standards and ensure students can access real, nutritious food. Read more: Ultra-processed food dominates child nutrition in the UK The report found that a significant number of secondary school students still opt for “grab-and-go” items over full school meals. These predominantly carbohydrate-based options, such as pastries and chips, mostly fall short of existing nutritional standards. But while the food industry often argues that students reach for these items based on indiv",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/8db4175f9f210b74b8b16281.json"
+    },
+    {
+      "id": "6900828954117651b715e46b",
+      "title": "‘You won, Mr. President’: Press freedom under attack in Ecuador",
+      "url": "https://breakthroughnews.org/2026/09/04/you-won-mr-president-press-freedom-under-attack-in-ecuador",
+      "author": "BreakThrough News",
+      "source": "BT News",
+      "published_at": "2026-09-04T15:47:28+00:00",
+      "content_excerpt": "A few days ago, one of Ecuador’s most widely followed journalists, Gisella Bayona, announced that she would quit journalism due to pressure from the administration, led by right-wing President Daniel Noboa. “In recent hours, a pro-government media outlet has published serious accusations against me and my husband, attempting to link my questions about the lack of medicines in hospitals to personal interests.” Bayona was referring to the investigations she had conducted regarding the severe and chronic shortage of medicines and medical supplies in the public health system that has plagued the country for several years. Noboa has repeatedly promised to resolve this problem, but so far there has been no solution, while the number of deaths due to a lack of public health care continues to rise",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/6900828954117651b715e46b.json"
+    },
+    {
+      "id": "639bde76468a3b2c3e7a1d2c",
+      "title": "Stanford Student Newspaper Wins Suit over Trump’s Crackdown on Pro-Palestine Speech",
+      "url": "https://www.democracynow.org/2026/9/4/stanford_daily_lawsuit_free_speech_fire",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-09-04T15:03:03+00:00",
+      "content_excerpt": "This is a rush transcript. Copy may not be in its final form. AMY GOODMAN : A federal judge has ruled the Trump administration has violated the constitutional rights of international students in seeking to deport them for their pro-Palestinian activism and criticism of Israel. In her ruling, U.S. District Judge Noël Wise wrote, quote, “In the United States, free speech, including the freedom to criticize the government and its leaders, is not a sign of our democracy’s fragility. It is evidence of its strength. That strength is diminished when members of our society — citizens and noncitizens alike — must self-censor and 'behave' or suffer the government’s retaliation,” she said. The lawsuit was filed by The Stanford Daily , the student newspaper at Stanford University, which claimed some o",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/639bde76468a3b2c3e7a1d2c.json"
+    },
+    {
+      "id": "7650f76931f70691f6567f0a",
+      "title": "“They Got Zero Notice”: 2,500 Workers Laid Off as Tyson Foods Shutters Meatpacking Plant in Illinois",
+      "url": "https://www.democracynow.org/2026/9/4/tyson_foods_layoffs_illinois_utah_closures",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-09-04T15:03:03+00:00",
+      "content_excerpt": "This is a rush transcript. Copy may not be in its final form. AMY GOODMAN : This is Democracy Now! , democracynow.org. I’m Amy Goodman, with Juan González. As we head into this Labor Day weekend, we turn now to the abrupt closure of a Tyson Foods beef processing plant in Joslin, Illinois. Twenty-five hundred workers lost their jobs with almost no notice. Many had worked at the plant for decades. The plant closed August 14th. The United Food and Commercial Workers International Union, which represents more than 2,000 of the workers, said they received no advance notice from the company. On Thursday, dozens of laid-off workers protested at the Illinois state Capitol in Springfield, urging Illinois Governor JB Pritzker to reopen the plant under state ownership and provide relief to all affect",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/7650f76931f70691f6567f0a.json"
+    },
+    {
+      "id": "9189a97c2efc1886212100cf",
+      "title": "“Terrorizing Our City”: ICE Targets Immigrants in Danbury, CT, Including at School Bus Stops",
+      "url": "https://www.democracynow.org/2026/9/4/danbury_ct_ice_crackdown_resistance",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-09-04T15:03:03+00:00",
+      "content_excerpt": "We go to Danbury, Connecticut, where residents held a mass demonstration this week to protest recent immigration arrests and to support the city’s immigrant community. Danbury, like many other communities across the United States, has been the target of a spike in immigration enforcement under the Trump administration, including local reports of ICE arresting parents at school bus stops. “We really have been describing it as the administration terrorizing our city, because that is what it felt like. The streets were empty. Kids stayed home from practice. Kids stayed home from school,” says Juliana Soares, the lead organizer for Danbury Unites for Immigrants. “Masked agents often would shut down the street to just abduct people. … They just do a gross display of force and intimidation in a ",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/9189a97c2efc1886212100cf.json"
+    },
+    {
+      "id": "1cf517ab021386911dd56f27",
+      "title": "“Top of the World”: Remembering the Restaurant Workers Killed Atop World Trade Center in 9/11 Attack",
+      "url": "https://www.democracynow.org/2026/9/4/top_of_the_world_9_11",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-09-04T15:03:03+00:00",
+      "content_excerpt": "A new documentary titled Top of the World tells the story of Windows on the World, the legendary restaurant atop the World Trade Center, through the eyes of its former employees. Windows on the World served guests for 25 years, until the morning of September 11, 2001, when attacks on the World Trade Center destroyed the North Tower in which the restaurant was located. Seventy-nine workers and 91 diners were killed. We’re joined by Top of the World 's co-directors, Julie Cohen and Betsy West, and by Sekou Siby, a former line cook at Windows on the World. Siby, who immigrated to the United States from the Ivory Coast in 1996, was originally scheduled to work on the morning of September 11, but a co-worker asked him to switch shifts. “He didn't make it,” says Siby, who became an organizer and",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/1cf517ab021386911dd56f27.json"
+    },
+    {
+      "id": "0c74635c29e130091ff0ea8c",
+      "title": "Why the Global South needs an industrial policy: The Thirty-Sixth Newsletter (2026)",
+      "url": "https://mronline.org/2026/09/04/why-the-global-south-needs-an-industrial-policy-the-thirty-sixth-newsletter-2026",
+      "author": "Vijay Prashad",
+      "source": "MR Online",
+      "published_at": "2026-09-04T13:06:38+00:00",
+      "content_excerpt": "While capitalism confines the Global South to raw extraction and cheap exports, democratic planning can break dependence, claim technological control, and turn resources into collective economic power. The post Why the Global South needs an industrial policy: The Thirty-Sixth Newsletter (2026) appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/0c74635c29e130091ff0ea8c.json"
+    },
+    {
+      "id": "aa57e7d8eef9629b75c4cbe8",
+      "title": "Why the rushed Postal Service plan for mail-in voting has states in a panic",
+      "url": "https://mronline.org/2026/09/04/why-the-rushed-postal-service-plan-for-mail-in-voting-has-states-in-a-panic",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-09-04T12:08:07+00:00",
+      "content_excerpt": "President Donald Trump’s executive order placing new restrictions on mail-in voting would assign state officials a Herculean task to reach compliance before the crucial midterm elections. The post Why the rushed Postal Service plan for mail-in voting has states in a panic appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/aa57e7d8eef9629b75c4cbe8.json"
+    },
+    {
+      "id": "509aef43110a4611d745a76b",
+      "title": "This UAE-backed Fatah dissident is allying with Hamas and pushing a proposal to change Palestinian politics",
+      "url": "https://mondoweiss.net/2026/09/this-uae-backed-fatah-dissident-is-allying-with-hamas-and-pushing-a-proposal-to-change-palestinian-politics",
+      "author": "Qassam Muaddi",
+      "source": "Mondoweiss",
+      "published_at": "2026-09-04T12:06:55+00:00",
+      "content_excerpt": "A UAE-sponsored plan by exiled Fatah dissident Muhammad Dahlan to “end Palestinian division” has quietly become the working platform for an unlikely electoral alliance with Hamas. Here is what this could mean for the future of Palestinian politics.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/509aef43110a4611d745a76b.json"
+    },
+    {
+      "id": "ff418877526228d542163d19",
+      "title": "U.S. bombs a wedding in Iran",
+      "url": "https://mronline.org/2026/09/04/u-s-bombs-a-wedding-in-iran",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-09-04T11:09:49+00:00",
+      "content_excerpt": "The generals can change deployments, move ships and planes, and order another round of bombing. None of that solves Washington’s basic problem: the Iranian people have not surrendered. The post U.S. bombs a wedding in Iran appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/ff418877526228d542163d19.json"
+    },
+    {
+      "id": "d88526c83682e1bf69af64cc",
+      "title": "‘Medicare for all is a system that can absolutely be built in the U.S.’",
+      "url": "https://mronline.org/2026/09/04/medicare-for-all-is-a-system-that-can-absolutely-be-built-in-the-u-s",
+      "author": "Janine Jackson",
+      "source": "MR Online",
+      "published_at": "2026-09-04T10:10:45+00:00",
+      "content_excerpt": "CounterSpin interview with Abdullah Shihipar on Medicare for All. The post ‘Medicare for all is a system that can absolutely be built in the U.S.’ appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/d88526c83682e1bf69af64cc.json"
+    },
+    {
+      "id": "d430030f2b5ed0c227aa3322",
+      "title": "How to Install, Use, and Create Skills",
+      "url": "https://thetricontinental.org/how-to-install-use-and-create-skills",
+      "author": "",
+      "source": "[:en]THE TRICONTINENTAL[:es]TRICONTINENTAL[:]",
+      "published_at": "2026-09-04T09:22:38+00:00",
+      "content_excerpt": "A skill is a reusable workflow for an AI agent. Its main SKILL.md file explains when the skill should be used and what the agent should do. A skill may also contain scripts, templates, and other reference materials. The agent may select a skill automatically when a task matches its description, or you can invoke it directly. This guide demonstrates how to find, review, install, and use skills with an AI-agent extension in VS Code. If you have not yet set up this workspace, follow Set Up Your AI Workspace (macOS) or Set Up Your AI Workspace (Windows) before continuing. Although interfaces and installation methods may vary, the same basic workflow also applies to other AI agents that support skills. Installing Skills in VS Code Installing a Skill through a Skills Platform Numerous platforms ",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/d430030f2b5ed0c227aa3322.json"
+    },
+    {
+      "id": "09fb798de6f8855189586fda",
+      "title": "Artificial Intelligence in the Hands of the People: The Rongjiang Experiment",
+      "url": "https://thetricontinental.org/artificial-intelligence-in-the-hands-of-the-people-the-rongjiang-experiment",
+      "author": "Author and Editors",
+      "source": "[:en]THE TRICONTINENTAL[:es]TRICONTINENTAL[:]",
+      "published_at": "2026-09-04T09:22:38+00:00",
+      "content_excerpt": "A small county folded into the mountains of south-west Guizhou, Rongjiang was among the last counties in China to be lifted out of extreme poverty, crossing the line only on 23 November 2020, and as late as 2022 its per-capita output stood at about a third of the national average. ‘Eight parts mountain, one part water, one part field’ is how an old upland saying counted the land in Guizhou — the only province in China without a plain. Its valleys are terraced and narrow, its villages strung along the rivers and ridgelines beneath Moon Mountain. There was never much land here to produce wealth, and no easy road to carry the little produce out. The Red Army crossed these mountains in 1934, on the march that would take it north. Football arrived a decade later, brought by students of Guangxi ",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/09fb798de6f8855189586fda.json"
+    },
+    {
+      "id": "63ee71dcffdc7bad0ac52cf4",
+      "title": "The USS Lincoln’s ‘leisure trip’ to Thailand: a port call of U.S. neocolonialism and femicide",
+      "url": "https://mronline.org/2026/09/04/the-uss-lincolns-leisure-trip-to-thailand-a-port-call-of-u-s-neocolonialism-and-femicide",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-09-04T09:11:34+00:00",
+      "content_excerpt": "The system where women are systematically wrapped into sex work due to existing infrastructure and poverty, where U.S. military presence creates the demand, and where Western tourism perpetuates supply–this is femicide. The post The USS Lincoln’s ‘leisure trip’ to Thailand: a port call of U.S. neocolonialism and femicide appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/63ee71dcffdc7bad0ac52cf4.json"
+    },
+    {
+      "id": "5ad602b87e4ad994314df320",
+      "title": "India marches against US wars in West Asia",
+      "url": "https://breakthroughnews.org/2026/09/04/india-marches-against-us-wars-in-west-asia",
+      "author": "Abdul Rahman",
+      "source": "BT News",
+      "published_at": "2026-09-04T04:51:44+00:00",
+      "content_excerpt": "Thousands took to the streets of Kolkata and other cities in the eastern state of West Bengal in India to denounce ongoing wars in Gaza, Lebanon, and Iran, as a part of the celebration marking International Day for Peace and Solidarity against Imperialism and War. People marched from different points in Kolkata and later merged with the main procession which went through major streets. People carried banners saying “we want peace, not wars,” and expressed solidarity with people facing imperialist wars in West Asia. The protesters also criticized the government of India for failing to stand against imperialism, demanding immediate corrections in its approach towards rising geopolitical conflicts in the world. The march, held on Tuesday, September 1, was called by all major left parties in t",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/5ad602b87e4ad994314df320.json"
+    },
+    {
+      "id": "23a1e2e50ef79d29b0ed80dd",
+      "title": "As Israeli violence escalates, Palestinian youth increasingly identify as ‘martyrs-to-be’",
+      "url": "https://breakthroughnews.org/2026/09/04/as-israeli-violence-escalates-palestinian-youth-increasingly-identify-as-martyrs-to-be",
+      "author": "Aseel Saleh",
+      "source": "BT News",
+      "published_at": "2026-09-04T03:51:46+00:00",
+      "content_excerpt": "“I want you to drape me with the flags of Palestine and Egypt when I get martyred,” 19-year-old Omar Na’saan told his sister before his last will became a reality at the hands of Israeli forces and colonists on Wednesday, September 2. Na’ssan, who was born to an Egyptian mother, was not the only Palestinian to be shot dead in the settler attack that day in Al-Mughayyir village, northeast of the West Bank central governorate of Ramallah and Al-Bireh. Khalil Abu Alia , the same age as Na’ssan, was also killed in Israeli gunfire. According to media reports , Israeli soldiers not only escorted the settlers while attacking the village, but Israeli snipers were also deployed to the tops of buildings and opened fire on Palestinians who tried to confront the attack. The “martyr-to-be” The last wil",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/23a1e2e50ef79d29b0ed80dd.json"
     },
     {
       "id": "bead2bc68991ee3b8beadea9",
@@ -52,261 +306,6 @@
       "priority": 2,
       "date_missing": false,
       "article_path": "articles/cc9ba0d5b31f2b4613248bfa.json"
-    },
-    {
-      "id": "238ff6eb8ef7a9a59e7703b4",
-      "title": "Six Ways to Thrive in Zombie Times",
-      "url": "https://convergencemag.com/articles/six-ways-to-thrive-in-zombie-times",
-      "author": "Shilpa Jain",
-      "source": "Convergence",
-      "published_at": "2026-09-03T15:05:28+00:00",
-      "content_excerpt": "Making it through each day, especially since the 2024 election, has been unspeakably hard. We–Shilpa and Jodi–decided to write this piece to support ourselves and others with not just surviving these times, but also widening our perspectives, shoring up our personal and collective power, and feeding the mysterious yet essential creative fire. The systemic forces of oppression at play are not… Source",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/238ff6eb8ef7a9a59e7703b4.json"
-    },
-    {
-      "id": "4c86a178e54e12d791e53bdc",
-      "title": "Gloria Steinem, Feminist Icon & Ms. Magazine Co-Founder, Dies at 92",
-      "url": "https://www.democracynow.org/2026/9/3/gloria_steinem",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-09-03T14:59:13+00:00",
-      "content_excerpt": "Feminist icon Gloria Steinem has died at the age of 92. According to her Instagram page, she died Wednesday “at her home in New York City, surrounded by some of the many who loved her.” Steinem was a tireless advocate for the social, economic and political advancement of women. Steinem co-founded Ms. magazine, the first major publication to be owned, run and written by women. She also helped found the National Women’s Political Caucus with a group of women including Shirley Chisholm, Betty Friedan and Fannie Lou Hamer. Before becoming a feminist icon, she served as director of the Independent Research Service, a nonprofit educational foundation secretly funded by the CIA . In 2013, she received the Presidential Medal of Freedom from President Barack Obama. She spoke with Democracy Now! at ",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/4c86a178e54e12d791e53bdc.json"
-    },
-    {
-      "id": "3dbfe2a1e78308033ddd6206",
-      "title": "“Catastrophic Failure”: Postal Service Whistleblower Warns Mail-In Voting Rules Could Derail Election",
-      "url": "https://www.democracynow.org/2026/9/3/usps_whistleblower",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-09-03T14:59:13+00:00",
-      "content_excerpt": "An anonymous federal whistleblower has warned that the Trump administration’s new system for handling mail ballots through the U.S. Postal Service is untested, fatally flawed and likely to lead to a “catastrophic failure” if it’s implemented ahead of November’s midterm elections. This follows President Trump’s executive order in March directing his administration to create federal lists of citizens and to refuse delivery of mail-in ballots to people not on those lists. The legality of Trump’s executive order is being challenged. The new hurdles raised by the executive order for mail ballots and the rushed software system built to administer them “create this potential for grave, catastrophic failure,” says David Kligerman from Whistleblower Aid, the organization representing the whistleblo",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/3dbfe2a1e78308033ddd6206.json"
-    },
-    {
-      "id": "ee50fa671cd7b0cac5cef6ee",
-      "title": "“Modern-Day Poll Tax”: Dem. Texas Commissioner Slams GOP Vote to Close 92 Polling Sites",
-      "url": "https://www.democracynow.org/2026/9/3/voting_rights_tarrant_county_texas",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-09-03T14:59:13+00:00",
-      "content_excerpt": "Ahead of the November midterm elections, Republican officials in the third most populous county of Texas have voted to slash the number of polling sites by nearly one-third. Tarrant County, which includes Fort Worth, will have just 224 polling sites for 1.3 million voters. The change was approved in a party-line vote Tuesday, with all three of the county’s Republican commissioners voting in favor and the two Democrats opposing it. Civil rights groups including the ACLU and NAACP warn the changes will disproportionately affect voters of color. “The eyes of the nation are on Tarrant County,” says Roderick Miles Jr., a Democratic Tarrant County commissioner, who calls the voting restriction a “modern-day poll tax.”",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/ee50fa671cd7b0cac5cef6ee.json"
-    },
-    {
-      "id": "76abc901aa81c9a6d03fbcaf",
-      "title": "AI Could Revolutionize Medicine, But Humans Must Be in Charge: Researcher Shreya Johri",
-      "url": "https://www.democracynow.org/2026/9/3/ai_in_medicine",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-09-03T14:59:13+00:00",
-      "content_excerpt": "As part of our ongoing series on artificial intelligence, we speak with researcher Shreya Johri, who says AI has the power to revolutionize the field of medicine, particularly in diagnosing patients. Johri is a postdoctoral fellow at the Dana-Farber Cancer Institute and completed her Ph.D. at Harvard Medical School in 2025. She discusses ways that new technology is improving patient care, but she says AI must be treated like an additional tool and not be given control over patient care. “Doctors have to be responsible, have to take the responsibility of this, until we are more confident we have frameworks developed that can deploy these AI models in a more responsible way,” she says.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/76abc901aa81c9a6d03fbcaf.json"
-    },
-    {
-      "id": "8fb56583e15f3cd8192f25c8",
-      "title": "Germany escalates tensions with Russia, continues military exports to Israel",
-      "url": "https://breakthroughnews.org/2026/09/03/germany-escalates-tensions-with-russia-continues-military-exports-to-israel",
-      "author": "Ana Vračar",
-      "source": "BT News",
-      "published_at": "2026-09-03T14:58:21+00:00",
-      "content_excerpt": "German authorities have blamed Russia for a drone attack on a cargo plane at an airport in Leipzig in early August, marking a new escalation in tensions towards the Russian Federation. Chancellor Friedrich Merz’s administration summoned Russian diplomats and announced new sanctions following these accusations. Russia has denied involvement and responded by summoning the German chargé d’affaires in Moscow. “It was stressed that the German Government’s decision to use this contrived pretext to close the Russian Consulate General in Bonn and the Russian House of Science and Culture in Berlin is viewed as yet another step towards the complete dismantling of the bilateral relationship painstakingly built by generations of Russian and German politicians and diplomats,” the Russian Ministry of Fo",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/8fb56583e15f3cd8192f25c8.json"
-    },
-    {
-      "id": "5aaf98dffbb2609c9cf83140",
-      "title": "The long con of John Roberts",
-      "url": "https://mronline.org/2026/09/03/the-long-con-of-john-roberts",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-09-03T13:08:35+00:00",
-      "content_excerpt": "As a young attorney in the Reagan Administration, he aimed to destroy the Voting Rights Act and undermine democracy. Now the Chief Justice has finished the job. The post The long con of John Roberts appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/5aaf98dffbb2609c9cf83140.json"
-    },
-    {
-      "id": "987591996704c249600312da",
-      "title": "A summer of recalls exposes holes in the nation’s food safety net",
-      "url": "https://mronline.org/2026/09/03/a-summer-of-recalls-exposes-holes-in-the-nations-food-safety-net",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-09-03T12:10:04+00:00",
-      "content_excerpt": "The Trump administration has cut staff, funding at agencies that track foodborne illnesses. The post A summer of recalls exposes holes in the nation’s food safety net appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/987591996704c249600312da.json"
-    },
-    {
-      "id": "7ddb60238476bc5140857971",
-      "title": "The economics of Thomas Sankara: The Eighth Pan-Africa Newsletter (2026)",
-      "url": "https://mronline.org/2026/09/03/the-economics-of-thomas-sankara-the-eighth-pan-africa-newsletter-2026",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-09-03T11:12:07+00:00",
-      "content_excerpt": "What does liberation require when poverty has been engineered by history, dependency is sold as development, and dignity can only be won through collective discipline, popular power and self-reliance? The post The economics of Thomas Sankara: The Eighth Pan-Africa Newsletter (2026) appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/7ddb60238476bc5140857971.json"
-    },
-    {
-      "id": "f63fc3b43bc29ccf3c33ebf0",
-      "title": "Fascism-Forward: Into the shadows with Hindu Nationalism",
-      "url": "https://mronline.org/2026/09/03/fascism-forward-into-the-shadows-with-hindu-nationalism",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-09-03T10:13:18+00:00",
-      "content_excerpt": "Fascism-forward nationalism, held patriotic by Hindutva, portends the imaginary of India as a Hindu Nation. In its pursuit, a “deeper state” has been established whose malevolent operations polarise and religionise the body politic. The post Fascism-Forward: Into the shadows with Hindu Nationalism appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/f63fc3b43bc29ccf3c33ebf0.json"
-    },
-    {
-      "id": "2cd41318e65124a49851bb34",
-      "title": "Where did we come from? How did we get here?",
-      "url": "https://mronline.org/2026/09/03/where-did-we-come-from-how-did-we-get-here",
-      "author": "Marx Memorial Library",
-      "source": "MR Online",
-      "published_at": "2026-09-03T09:15:00+00:00",
-      "content_excerpt": "Humans are part of the ‘animal kingdom’–and of nature in general – but also distinct from it and labour (work) is part of what makes us unique, declared Engels. His insights 150 years ago into how our species came to be and how we differ from the rest of nature, are as important today as they were then, says the MARX MEMORIAL LIBRARY. The post Where did we come from? How did we get here? appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/2cd41318e65124a49851bb34.json"
-    },
-    {
-      "id": "1add7a2f2ff72bad7d2d4157",
-      "title": "BT LIVE: US Bombs Wedding – Again | ICE Terror Squads | China-Iran Partnership",
-      "url": "https://breakthroughnews.org/2026/09/02/september-3-2026",
-      "author": "BreakThrough News",
-      "source": "BT News",
-      "published_at": "2026-09-02T22:04:42+00:00",
-      "content_excerpt": "This content is for members only. Visit the site and log in/register to read.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/1add7a2f2ff72bad7d2d4157.json"
-    },
-    {
-      "id": "6c02f077380f4a0baaa55fad",
-      "title": "Uganda Communist League members arrested after inaugural congress",
-      "url": "https://breakthroughnews.org/2026/09/02/uganda-communist-league-members-arrested-after-inaugural-congress",
-      "author": "Nicholas Mwangi",
-      "source": "BT News",
-      "published_at": "2026-09-02T21:05:22+00:00",
-      "content_excerpt": "Members of the newly formed Communist League of Uganda were arrested and allegedly subjected to severe treatment by state security forces days after the organization concluded its inaugural National Congress, according to a statement issued by the League. The Communist League of Uganda said several of its members, including Vice Chairperson Habibu Twahala, Odeke Dan, and Namususwa Patricia, were arrested on August 29, 2026, while participating in a mobilization drive. The arrests came shortly after the League held its first National Congress, marking the organization’s formal effort to establish itself as a political organization representing working-class interests in Uganda. According to the League, however, its members were targeted for engaging in political mobilization. Their “crime,”",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/6c02f077380f4a0baaa55fad.json"
-    },
-    {
-      "id": "ed8af8519f0bdfb57d848fd1",
-      "title": "Operation Southern Spear: uncovering the CIA’s killing spree in Latin America",
-      "url": "https://breakthroughnews.org/2026/09/02/operation-southern-spear-uncovering-the-cias-killing-spree-in-latin-america",
-      "author": "Rania Khalek",
-      "source": "BT News",
-      "published_at": "2026-09-02T21:05:22+00:00",
-      "content_excerpt": "A drone hovering over a burning Ecuadorian fishing boat hours after it was bombed belonged to a San Diego-based defense contractor with an $800 million contract with the US Navy. Investigative journalist Camila Lourdes Galarza tells Zoe Alexandra and Rania Khalek that boat was one of three unarmed fishing vessels bombed in what the Washington Post later confirmed was part of a covert CIA program to kill “suspected drug traffickers” in the Pacific – without any oversight or public acknowledgment. As Operation Southern Spear marks its first year, Galarza breaks down how Ecuadorian President and Miami-born billionaire Daniel Noboa has turned his country into a testing ground for US military expansion under Trump’s Donroe Doctrine: from former Blackwater mercenaries at polling stations, to mar",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/ed8af8519f0bdfb57d848fd1.json"
-    },
-    {
-      "id": "382c2df73377629e52e0f578",
-      "title": "The Attention Economy Navigator, August 2026",
-      "url": "https://convergencemag.com/articles/the-attention-economy-navigator-august-2026",
-      "author": "Cayden Mak",
-      "source": "Convergence",
-      "published_at": "2026-09-02T20:13:05+00:00",
-      "content_excerpt": "This month on the Attention Economy Navigator, our guide to what you should be paying more attention to, and what you can probably pay less attention to. And why those stories might not be what you’d assume. You can also listen to the podcast episode featuring Akin Olla and Josh Elstro, or watch the panel plot these stories in real time on YouTube. Source",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/382c2df73377629e52e0f578.json"
-    },
-    {
-      "id": "1ab1b2c1be7230f00d47b7e9",
-      "title": "US strikes hit wedding in Iran as death toll from latest strikes crosses 18",
-      "url": "https://breakthroughnews.org/2026/09/02/us-strikes-hit-wedding-in-iran-as-death-toll-from-latest-strikes-crosses-18",
-      "author": "Abdul Rahman",
-      "source": "BT News",
-      "published_at": "2026-09-02T20:06:17+00:00",
-      "content_excerpt": "At least 18 Iranians, including children, were killed and around 80 others were injured in the latest US airstrikes in southern Iran’s Khuzestan, Bushehr, Baluchestan, and Hormozgan provinces late on the night of Tuesday, September 1, IRNA reported. Several Iranian media reports claimed one of the sites attacked on Tuesday night was a wedding celebration in Sirik in the southern Hormozgan province. At least four people, including a four years old child, were killed and around 70 others were wounded in that attack. Meanwhile, Iran rejected the claims made by the US Central Command that the overnight attacks only targeted locations belonging to Islamic Revolutionary Guard Corps (IRGC), in retaliation to attacks on commercial ships and US servicemen in the region. On Wednesday morning, Iran r",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/1ab1b2c1be7230f00d47b7e9.json"
-    },
-    {
-      "id": "adee3b62b29b73c155ce7ba4",
-      "title": "In South Korea, the US military is at war with nature",
-      "url": "https://breakthroughnews.org/2026/09/02/in-south-korea-the-us-military-is-at-war-with-nature",
-      "author": "Ju-Hyun Park",
-      "source": "BT News",
-      "published_at": "2026-09-02T18:07:45+00:00",
-      "content_excerpt": "This content is for members only. Visit the site and log in/register to read.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/adee3b62b29b73c155ce7ba4.json"
     }
   ]
 }
