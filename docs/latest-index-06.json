@@ -1,15 +1,120 @@
 {
-  "generated_at": "2026-09-04T21:40:29.004145+00:00",
-  "generated_at_jst": "2026-09-05T06:40:29.004145+09:00",
-  "period_start": "2026-09-03T15:40:29.004145+00:00",
+  "generated_at": "2026-09-05T21:32:04.746044+00:00",
+  "generated_at_jst": "2026-09-06T06:32:04.746044+09:00",
+  "period_start": "2026-09-04T15:32:04.746044+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
-  "article_count": 20,
+  "article_count": 11,
   "excerpt_chars": 800,
   "articles": [
     {
+      "id": "6d933ed701be19da2a540718",
+      "title": "‘We are not beggars’: UNRWA cuts off aid to six Palestinian refugee camps in northern Lebanon",
+      "url": "https://mondoweiss.net/2026/09/we-are-not-beggars-unrwa-cuts-off-aid-to-six-palestinian-refugee-camps-in-northern-lebanon",
+      "author": "Alaa Serhal",
+      "source": "Mondoweiss",
+      "published_at": "2026-09-05T13:53:01+00:00",
+      "content_excerpt": "The United Nations Relief and Works Agency has excluded six Palestinian refugee camps in Lebanon from emergency cash assistance, as Israeli attacks and Western donor cuts leave families choosing between food and medicine.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/6d933ed701be19da2a540718.json"
+    },
+    {
+      "id": "aa133b8f5301106e7301cb22",
+      "title": "Protesting farmers stall plans for India’s first AI-powered city",
+      "url": "https://breakthroughnews.org/2026/09/05/protesting-farmers-stall-plans-for-indias-first-ai-powered-city",
+      "author": "Pavan Kulkarni",
+      "source": "BT News",
+      "published_at": "2026-09-05T13:33:56+00:00",
+      "content_excerpt": "This content is for members only. Visit the site and log in/register to read.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/aa133b8f5301106e7301cb22.json"
+    },
+    {
+      "id": "4e9e7f009f25a80eef4e314c",
+      "title": "AI and the profits boom",
+      "url": "https://mronline.org/2026/09/05/ai-and-the-profits-boom",
+      "author": "Michael Roberts",
+      "source": "MR Online",
+      "published_at": "2026-09-05T12:12:02+00:00",
+      "content_excerpt": "As the central bankers of the world met at Jackson Hole, Wyoming for their annual get together to discuss issues affecting the world financial sector and monetary policy, U.S. statistics for corporate profits for the second quarter of 2026 were released. The post AI and the profits boom appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/4e9e7f009f25a80eef4e314c.json"
+    },
+    {
+      "id": "9d8f9a040f11409fdfc5e485",
+      "title": "Israeli military taps 30 U.S. universities for AI, drones, and robotics",
+      "url": "https://mronline.org/2026/09/05/israeli-military-taps-30-u-s-universities-for-ai-drones-and-robotics",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-09-05T11:14:31+00:00",
+      "content_excerpt": "Millions in U.S. defense funding are supporting university projects tied to Israeli military research, including surveillance technology, AI targeting systems, and drone development. The post Israeli military taps 30 U.S. universities for AI, drones, and robotics appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/9d8f9a040f11409fdfc5e485.json"
+    },
+    {
+      "id": "7890a9db53a36af8259b7104",
+      "title": "A theoretical sleight-of-hand",
+      "url": "https://mronline.org/2026/09/05/a-theoretical-sleight-of-hand",
+      "author": "Prabhat Patnaik",
+      "source": "MR Online",
+      "published_at": "2026-09-05T10:15:38+00:00",
+      "content_excerpt": "India was one of the countries studied, where the Nehru-Mahalanobis strategy of building heavy and capital goods industries was predictably the target of attack. The post A theoretical sleight-of-hand appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/7890a9db53a36af8259b7104.json"
+    },
+    {
+      "id": "3909c685db0f5e2d30abcccd",
+      "title": "Trump lifts sanctions on top Al Qaeda recruiters, financiers days before 9/11 anniversary",
+      "url": "https://mronline.org/2026/09/05/trump-lifts-sanctions-on-top-al-qaeda-recruiters-financiers-days-before-9-11-anniversary",
+      "author": "Max Blumenthal",
+      "source": "MR Online",
+      "published_at": "2026-09-05T09:16:45+00:00",
+      "content_excerpt": "As the U.S. prepares to mark 25 years since Sept. 11, 2001, Donald Trump has removed top Al Qaeda figures from the U.S. list of designated terrorists. Among those he delisted was Abdullah Muhaysini, a Saudi cleric who recruited child fighters and teen suicide bombers to wreak havoc across Syria. The post Trump lifts sanctions on top Al Qaeda recruiters, financiers days before 9/11 anniversary appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/3909c685db0f5e2d30abcccd.json"
+    },
+    {
+      "id": "055288e0702e314dba01aabc",
+      "title": "Manifesto of Arab Intellectuals Against Normalization with Israel and for the Affirmation of the Right of Arab Peoples to Self-Determination",
+      "url": "https://mronline.org/2026/09/04/manifesto-of-arab-intellectuals-against-normalization-with-israel-and-for-the-affirmation-of-the-right-of-arab-peoples-to-self-determination",
+      "author": "Webmaster",
+      "source": "MR Online",
+      "published_at": "2026-09-04T22:01:52+00:00",
+      "content_excerpt": "We refuse to allow a balance of power based on genocide and the crushing of all resistance to be celebrated as peace. The post Manifesto of Arab Intellectuals Against Normalization with Israel and for the Affirmation of the Right of Arab Peoples to Self-Determination appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/055288e0702e314dba01aabc.json"
+    },
+    {
       "id": "de437f5f7736e18c2139294d",
-      "title": "Food has returned to Gaza’s markets, but most people still cannot afford to eat",
+      "title": "Food has returned to Gaza’s markets, but most people still can’t afford to eat",
       "url": "https://mondoweiss.net/2026/09/food-has-returned-to-gazas-markets-but-most-people-still-cannot-afford-to-eat",
       "author": "Tareq S. Hajjaj",
       "source": "Mondoweiss",
@@ -66,246 +171,6 @@
       "priority": 2,
       "date_missing": false,
       "article_path": "articles/6900828954117651b715e46b.json"
-    },
-    {
-      "id": "639bde76468a3b2c3e7a1d2c",
-      "title": "Stanford Student Newspaper Wins Suit over Trump’s Crackdown on Pro-Palestine Speech",
-      "url": "https://www.democracynow.org/2026/9/4/stanford_daily_lawsuit_free_speech_fire",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-09-04T15:03:03+00:00",
-      "content_excerpt": "This is a rush transcript. Copy may not be in its final form. AMY GOODMAN : A federal judge has ruled the Trump administration has violated the constitutional rights of international students in seeking to deport them for their pro-Palestinian activism and criticism of Israel. In her ruling, U.S. District Judge Noël Wise wrote, quote, “In the United States, free speech, including the freedom to criticize the government and its leaders, is not a sign of our democracy’s fragility. It is evidence of its strength. That strength is diminished when members of our society — citizens and noncitizens alike — must self-censor and 'behave' or suffer the government’s retaliation,” she said. The lawsuit was filed by The Stanford Daily , the student newspaper at Stanford University, which claimed some o",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/639bde76468a3b2c3e7a1d2c.json"
-    },
-    {
-      "id": "7650f76931f70691f6567f0a",
-      "title": "“They Got Zero Notice”: 2,500 Workers Laid Off as Tyson Foods Shutters Meatpacking Plant in Illinois",
-      "url": "https://www.democracynow.org/2026/9/4/tyson_foods_layoffs_illinois_utah_closures",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-09-04T15:03:03+00:00",
-      "content_excerpt": "This is a rush transcript. Copy may not be in its final form. AMY GOODMAN : This is Democracy Now! , democracynow.org. I’m Amy Goodman, with Juan González. As we head into this Labor Day weekend, we turn now to the abrupt closure of a Tyson Foods beef processing plant in Joslin, Illinois. Twenty-five hundred workers lost their jobs with almost no notice. Many had worked at the plant for decades. The plant closed August 14th. The United Food and Commercial Workers International Union, which represents more than 2,000 of the workers, said they received no advance notice from the company. On Thursday, dozens of laid-off workers protested at the Illinois state Capitol in Springfield, urging Illinois Governor JB Pritzker to reopen the plant under state ownership and provide relief to all affect",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/7650f76931f70691f6567f0a.json"
-    },
-    {
-      "id": "9189a97c2efc1886212100cf",
-      "title": "“Terrorizing Our City”: ICE Targets Immigrants in Danbury, CT, Including at School Bus Stops",
-      "url": "https://www.democracynow.org/2026/9/4/danbury_ct_ice_crackdown_resistance",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-09-04T15:03:03+00:00",
-      "content_excerpt": "We go to Danbury, Connecticut, where residents held a mass demonstration this week to protest recent immigration arrests and to support the city’s immigrant community. Danbury, like many other communities across the United States, has been the target of a spike in immigration enforcement under the Trump administration, including local reports of ICE arresting parents at school bus stops. “We really have been describing it as the administration terrorizing our city, because that is what it felt like. The streets were empty. Kids stayed home from practice. Kids stayed home from school,” says Juliana Soares, the lead organizer for Danbury Unites for Immigrants. “Masked agents often would shut down the street to just abduct people. … They just do a gross display of force and intimidation in a ",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/9189a97c2efc1886212100cf.json"
-    },
-    {
-      "id": "1cf517ab021386911dd56f27",
-      "title": "“Top of the World”: Remembering the Restaurant Workers Killed Atop World Trade Center in 9/11 Attack",
-      "url": "https://www.democracynow.org/2026/9/4/top_of_the_world_9_11",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-09-04T15:03:03+00:00",
-      "content_excerpt": "A new documentary titled Top of the World tells the story of Windows on the World, the legendary restaurant atop the World Trade Center, through the eyes of its former employees. Windows on the World served guests for 25 years, until the morning of September 11, 2001, when attacks on the World Trade Center destroyed the North Tower in which the restaurant was located. Seventy-nine workers and 91 diners were killed. We’re joined by Top of the World 's co-directors, Julie Cohen and Betsy West, and by Sekou Siby, a former line cook at Windows on the World. Siby, who immigrated to the United States from the Ivory Coast in 1996, was originally scheduled to work on the morning of September 11, but a co-worker asked him to switch shifts. “He didn't make it,” says Siby, who became an organizer and",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/1cf517ab021386911dd56f27.json"
-    },
-    {
-      "id": "0c74635c29e130091ff0ea8c",
-      "title": "Why the Global South needs an industrial policy: The Thirty-Sixth Newsletter (2026)",
-      "url": "https://mronline.org/2026/09/04/why-the-global-south-needs-an-industrial-policy-the-thirty-sixth-newsletter-2026",
-      "author": "Vijay Prashad",
-      "source": "MR Online",
-      "published_at": "2026-09-04T13:06:38+00:00",
-      "content_excerpt": "While capitalism confines the Global South to raw extraction and cheap exports, democratic planning can break dependence, claim technological control, and turn resources into collective economic power. The post Why the Global South needs an industrial policy: The Thirty-Sixth Newsletter (2026) appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/0c74635c29e130091ff0ea8c.json"
-    },
-    {
-      "id": "aa57e7d8eef9629b75c4cbe8",
-      "title": "Why the rushed Postal Service plan for mail-in voting has states in a panic",
-      "url": "https://mronline.org/2026/09/04/why-the-rushed-postal-service-plan-for-mail-in-voting-has-states-in-a-panic",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-09-04T12:08:07+00:00",
-      "content_excerpt": "President Donald Trump’s executive order placing new restrictions on mail-in voting would assign state officials a Herculean task to reach compliance before the crucial midterm elections. The post Why the rushed Postal Service plan for mail-in voting has states in a panic appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/aa57e7d8eef9629b75c4cbe8.json"
-    },
-    {
-      "id": "509aef43110a4611d745a76b",
-      "title": "This UAE-backed Fatah dissident is allying with Hamas and pushing a proposal to change Palestinian politics",
-      "url": "https://mondoweiss.net/2026/09/this-uae-backed-fatah-dissident-is-allying-with-hamas-and-pushing-a-proposal-to-change-palestinian-politics",
-      "author": "Qassam Muaddi",
-      "source": "Mondoweiss",
-      "published_at": "2026-09-04T12:06:55+00:00",
-      "content_excerpt": "A UAE-sponsored plan by exiled Fatah dissident Muhammad Dahlan to “end Palestinian division” has quietly become the working platform for an unlikely electoral alliance with Hamas. Here is what this could mean for the future of Palestinian politics.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/509aef43110a4611d745a76b.json"
-    },
-    {
-      "id": "ff418877526228d542163d19",
-      "title": "U.S. bombs a wedding in Iran",
-      "url": "https://mronline.org/2026/09/04/u-s-bombs-a-wedding-in-iran",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-09-04T11:09:49+00:00",
-      "content_excerpt": "The generals can change deployments, move ships and planes, and order another round of bombing. None of that solves Washington’s basic problem: the Iranian people have not surrendered. The post U.S. bombs a wedding in Iran appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/ff418877526228d542163d19.json"
-    },
-    {
-      "id": "d88526c83682e1bf69af64cc",
-      "title": "‘Medicare for all is a system that can absolutely be built in the U.S.’",
-      "url": "https://mronline.org/2026/09/04/medicare-for-all-is-a-system-that-can-absolutely-be-built-in-the-u-s",
-      "author": "Janine Jackson",
-      "source": "MR Online",
-      "published_at": "2026-09-04T10:10:45+00:00",
-      "content_excerpt": "CounterSpin interview with Abdullah Shihipar on Medicare for All. The post ‘Medicare for all is a system that can absolutely be built in the U.S.’ appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/d88526c83682e1bf69af64cc.json"
-    },
-    {
-      "id": "d430030f2b5ed0c227aa3322",
-      "title": "How to Install, Use, and Create Skills",
-      "url": "https://thetricontinental.org/how-to-install-use-and-create-skills",
-      "author": "",
-      "source": "[:en]THE TRICONTINENTAL[:es]TRICONTINENTAL[:]",
-      "published_at": "2026-09-04T09:22:38+00:00",
-      "content_excerpt": "A skill is a reusable workflow for an AI agent. Its main SKILL.md file explains when the skill should be used and what the agent should do. A skill may also contain scripts, templates, and other reference materials. The agent may select a skill automatically when a task matches its description, or you can invoke it directly. This guide demonstrates how to find, review, install, and use skills with an AI-agent extension in VS Code. If you have not yet set up this workspace, follow Set Up Your AI Workspace (macOS) or Set Up Your AI Workspace (Windows) before continuing. Although interfaces and installation methods may vary, the same basic workflow also applies to other AI agents that support skills. Installing Skills in VS Code Installing a Skill through a Skills Platform Numerous platforms ",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/d430030f2b5ed0c227aa3322.json"
-    },
-    {
-      "id": "09fb798de6f8855189586fda",
-      "title": "Artificial Intelligence in the Hands of the People: The Rongjiang Experiment",
-      "url": "https://thetricontinental.org/artificial-intelligence-in-the-hands-of-the-people-the-rongjiang-experiment",
-      "author": "Author and Editors",
-      "source": "[:en]THE TRICONTINENTAL[:es]TRICONTINENTAL[:]",
-      "published_at": "2026-09-04T09:22:38+00:00",
-      "content_excerpt": "A small county folded into the mountains of south-west Guizhou, Rongjiang was among the last counties in China to be lifted out of extreme poverty, crossing the line only on 23 November 2020, and as late as 2022 its per-capita output stood at about a third of the national average. ‘Eight parts mountain, one part water, one part field’ is how an old upland saying counted the land in Guizhou — the only province in China without a plain. Its valleys are terraced and narrow, its villages strung along the rivers and ridgelines beneath Moon Mountain. There was never much land here to produce wealth, and no easy road to carry the little produce out. The Red Army crossed these mountains in 1934, on the march that would take it north. Football arrived a decade later, brought by students of Guangxi ",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/09fb798de6f8855189586fda.json"
-    },
-    {
-      "id": "63ee71dcffdc7bad0ac52cf4",
-      "title": "The USS Lincoln’s ‘leisure trip’ to Thailand: a port call of U.S. neocolonialism and femicide",
-      "url": "https://mronline.org/2026/09/04/the-uss-lincolns-leisure-trip-to-thailand-a-port-call-of-u-s-neocolonialism-and-femicide",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-09-04T09:11:34+00:00",
-      "content_excerpt": "The system where women are systematically wrapped into sex work due to existing infrastructure and poverty, where U.S. military presence creates the demand, and where Western tourism perpetuates supply–this is femicide. The post The USS Lincoln’s ‘leisure trip’ to Thailand: a port call of U.S. neocolonialism and femicide appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/63ee71dcffdc7bad0ac52cf4.json"
-    },
-    {
-      "id": "5ad602b87e4ad994314df320",
-      "title": "India marches against US wars in West Asia",
-      "url": "https://breakthroughnews.org/2026/09/04/india-marches-against-us-wars-in-west-asia",
-      "author": "Abdul Rahman",
-      "source": "BT News",
-      "published_at": "2026-09-04T04:51:44+00:00",
-      "content_excerpt": "Thousands took to the streets of Kolkata and other cities in the eastern state of West Bengal in India to denounce ongoing wars in Gaza, Lebanon, and Iran, as a part of the celebration marking International Day for Peace and Solidarity against Imperialism and War. People marched from different points in Kolkata and later merged with the main procession which went through major streets. People carried banners saying “we want peace, not wars,” and expressed solidarity with people facing imperialist wars in West Asia. The protesters also criticized the government of India for failing to stand against imperialism, demanding immediate corrections in its approach towards rising geopolitical conflicts in the world. The march, held on Tuesday, September 1, was called by all major left parties in t",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/5ad602b87e4ad994314df320.json"
-    },
-    {
-      "id": "23a1e2e50ef79d29b0ed80dd",
-      "title": "As Israeli violence escalates, Palestinian youth increasingly identify as ‘martyrs-to-be’",
-      "url": "https://breakthroughnews.org/2026/09/04/as-israeli-violence-escalates-palestinian-youth-increasingly-identify-as-martyrs-to-be",
-      "author": "Aseel Saleh",
-      "source": "BT News",
-      "published_at": "2026-09-04T03:51:46+00:00",
-      "content_excerpt": "“I want you to drape me with the flags of Palestine and Egypt when I get martyred,” 19-year-old Omar Na’saan told his sister before his last will became a reality at the hands of Israeli forces and colonists on Wednesday, September 2. Na’ssan, who was born to an Egyptian mother, was not the only Palestinian to be shot dead in the settler attack that day in Al-Mughayyir village, northeast of the West Bank central governorate of Ramallah and Al-Bireh. Khalil Abu Alia , the same age as Na’ssan, was also killed in Israeli gunfire. According to media reports , Israeli soldiers not only escorted the settlers while attacking the village, but Israeli snipers were also deployed to the tops of buildings and opened fire on Palestinians who tried to confront the attack. The “martyr-to-be” The last wil",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/23a1e2e50ef79d29b0ed80dd.json"
-    },
-    {
-      "id": "bead2bc68991ee3b8beadea9",
-      "title": "Iceland votes against joining EU",
-      "url": "https://breakthroughnews.org/2026/09/03/iceland-votes-against-joining-eu",
-      "author": "Ana Vračar",
-      "source": "BT News",
-      "published_at": "2026-09-03T20:55:17+00:00",
-      "content_excerpt": "On August 29, a majority of Icelanders voted against resuming accession negotiations with the European Union. In a high-turnout referendum , close to 53% of the 225,031 participants rejected the proposal, while 47% supported it. Mainstream reports emphasized that the campaign against negotiations focused on issues of agriculture and fishing. At first glance, this aligned the “No” campaign with far-right talking points in the region – reflected in congratulatory notes circulated by European right-wing leaders. According to the same reports, the “Yes” campaign centered on international policy and alignment, apparently suggesting the EU as a path to provide more stability in the face of an aggressive US administration with eyes on the Arctic’s mineral reserves. Read more: Greenland on the che",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/bead2bc68991ee3b8beadea9.json"
-    },
-    {
-      "id": "cc9ba0d5b31f2b4613248bfa",
-      "title": "Clashes reignite in Sweida between government forces and Druze groups",
-      "url": "https://breakthroughnews.org/2026/09/03/clashes-reignite-in-sweida-between-government-forces-and-druze-groups",
-      "author": "Aseel Saleh",
-      "source": "BT News",
-      "published_at": "2026-09-03T19:54:35+00:00",
-      "content_excerpt": "At least two civilians were killed, and 10 Syrian security personnel were wounded in renewed clashes between Druze armed groups and Syrian government forces in Syria’s southern governorate of Sweida. According to media reports , the conflict erupted again in Sweida on Saturday, August 29, and continued through Monday, August 31, after the Druze armed group the National Guard blocked roads, preventing students from traveling to government-controlled examination centers north of Sweida. The National Guard, which is affiliated with Druze spiritual leader Sheikh Hikmat al-Hijri (known for his alignment with Israel), accused the Syrian government forces of firing a number of mortar shells against civilians. The group further claimed that a child was injured as a result of the shelling. The deve",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/cc9ba0d5b31f2b4613248bfa.json"
     }
   ]
 }

@@ -1,12 +1,57 @@
 {
-  "generated_at": "2026-09-04T21:40:29.004145+00:00",
-  "generated_at_jst": "2026-09-05T06:40:29.004145+09:00",
-  "period_start": "2026-09-03T15:40:29.004145+00:00",
+  "generated_at": "2026-09-05T21:32:04.746044+00:00",
+  "generated_at_jst": "2026-09-06T06:32:04.746044+09:00",
+  "period_start": "2026-09-04T15:32:04.746044+00:00",
   "lookback_hours": 30,
   "folder": "00_毎日確認",
-  "article_count": 8,
+  "article_count": 5,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "8fd299aa3c8532ed1fb82b57",
+      "title": "Donald Trump’s Korea Diplomacy Is a Distraction Exercise",
+      "url": "https://www.inoreader.com/article/3a9c6e760695e9b8",
+      "author": "Kap Seol",
+      "source": "Jacobin",
+      "published_at": "2026-09-05T15:04:35+00:00",
+      "content_excerpt": "Donald Trump has made several recent overtures to North Korean leader Kim Jong-un for a new summit, seven years after their meeting in Hanoi ended inconclusively. Over the summer, he abruptly reduced the scale of the annual US–South Korea joint military exercises. Four times in the space of nine days, he posted pictures of Kim on his Truth Social account in an apparent wooing exercise. These efforts have so far failed to lure Kim to the negotiation table. Kim Yo-jong, his powerful sister who occupies the number-two position in the North Korean hierarchy, declared on August 19 that North Korea has no interest in a new summit with the United States. At the same time, she left a door slightly ajar by remarking that her brother retains good memories and feelings about Trump from their past sum",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/8fd299aa3c8532ed1fb82b57.json"
+    },
+    {
+      "id": "fdae6935a3b20f7836fd8327",
+      "title": "An Agenda for De-Alienating Work",
+      "url": "https://www.inoreader.com/article/3a9c6e760690d4ed",
+      "author": "Peter Dorman",
+      "source": "Jacobin",
+      "published_at": "2026-09-05T14:35:02+00:00",
+      "content_excerpt": "Wages have been bad for years, but the quality of work hasn’t fared much better. Gig work, with its insecurity and minimal protection from managerial whims, has proliferated. New technology has enabled a degree of workforce surveillance that previous generations would have regarded as unacceptable. The degradation of corporate work at all levels is an important aspect of enshittification . Unsurprisingly, you can now click across multiple websites advising you how to look like you’re doing your job when your brain is somewhere else. And now AI is poised to usher us — those who still have jobs — into a new era of management-by-slop. Where can we look for an agenda to fight back? There’s a branch of left-wing thought that focuses on exactly these kinds of problems: the theory of alienation. ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/fdae6935a3b20f7836fd8327.json"
+    },
+    {
+      "id": "7c87487d039e87ddc2ca071e",
+      "title": "Jean-Luc Mélenchon Thinks He Has a Path to Victory",
+      "url": "https://www.inoreader.com/article/3a9c6e7606997292",
+      "author": "Olly Haynes",
+      "source": "Jacobin",
+      "published_at": "2026-09-05T13:08:03+00:00",
+      "content_excerpt": "High above the waters of the Lac d’Aiguille in southeastern France, hundreds of drones formed the face of Maximilien Robespierre, the Jacobin deputy to the National Convention during the French Revolution. Then they shifted into a new form, as the face of Louise Michel, a key figure in the Paris Commune of 1871. The drones then split up again, only to regroup as the face of Thomas Sankara, the revolutionary leader of Burkina Faso. The music playing from the lakeside speakers sped up, and two drones dropped a banner, onto which was projected video from an accelerating series of rallies and speeches by France Insoumise (FI) and its presidential candidate Jean-Luc Mélenchon. Finally, as the thumping orchestral music, intercut with segments of the Marseillaise and the Internationale , reached ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/7c87487d039e87ddc2ca071e.json"
+    },
     {
       "id": "74833ee4bbf783b5bc2217a8",
       "title": "Gloria Steinem Was the Godmother of Neoliberal Feminism",
@@ -36,96 +81,6 @@
       "priority": 1,
       "date_missing": false,
       "article_path": "articles/746fd68fd8efab179fefd0b3.json"
-    },
-    {
-      "id": "8d632beca3baac633fca0c1e",
-      "title": "Ruth First’s Legacy Has Outlived the Regime That Killed Her",
-      "url": "https://www.inoreader.com/article/3a9c6e76061a366a",
-      "author": "Christopher J. Lee",
-      "source": "Jacobin",
-      "published_at": "2026-09-04T15:15:38+00:00",
-      "content_excerpt": "In August 1982, a parcel bomb went off at the Center for African Studies at Eduardo Mondlane University in Maputo, Mozambique. Sent by the South African government’s Special Branch, its target and victim was Ruth First, a lifelong member of the South African Communist Party (SACP), who was fifty-seven years old at the time. Her assassination has since become the stuff of legend, a symbol of the violent brutality of the apartheid government toward its critics in the last decades of its existence. The murder of First was part of a broader effort by the white minority state to eliminate its opponents following the Soweto Uprising of 1976, which resulted in a revival of (and a generational shift within) the anti-apartheid struggle. Inspired by the ideas of Steve Biko, the Black Consciousness M",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/8d632beca3baac633fca0c1e.json"
-    },
-    {
-      "id": "098b20263186f9def9f6034e",
-      "title": "Private Equity’s Pension Heist",
-      "url": "https://www.inoreader.com/article/3a9c6e76060dcbb6",
-      "author": "Clark Randall",
-      "source": "Jacobin",
-      "published_at": "2026-09-04T14:17:46+00:00",
-      "content_excerpt": "From 2024 to 2025, the two hundred largest pension funds in the United States increased their investment in private credit by 57 percent . It’s now gone up around 650 percent over the past five years. Private credit is the other side of the coin to private equity (PE) — among other things, it provides the loans for PE firms’ leveraged buyouts. The biggest PE firms have massive private credit arms that have, in recent years, overrun their private equity cores. They act as the unregulated winners of the postrecession economy, avoiding scrutiny and taking risks that commercial banks were foreclosed from under the Dodd–Frank Act. Our worker-funded public pensions have historically been the primary capital provider to private credit funds, amounting to around 30 percent of the total market. Man",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/098b20263186f9def9f6034e.json"
-    },
-    {
-      "id": "823d83b1ba64adf0cd5a7eac",
-      "title": "Francis Fukuyama: The American Right Has Gone Off the Deep End",
-      "url": "https://www.inoreader.com/article/3a9c6e7607f42ece",
-      "author": "Francis Fukuyama",
-      "source": "Jacobin",
-      "published_at": "2026-09-04T13:47:26+00:00",
-      "content_excerpt": "In 1989, Francis Fukuyama wrote a sweeping philosophical polemic in which he argued that liberal democratic capitalism was the only viable economic and political system. Countries would either converge on its model or drift into dysfunction. What prevented states and individuals from accepting this fate was a fear of being the Last Man, a Nietzschean term for the individual living without ideas worth dying for. A world in which liberal democracy was triumphant was, Fukuyama argued in “The End of History?,” one without the tragedy and pathos of the era of great ideologies — safe but boring.f When he expanded this essay three years later into The End of History and the Last Man , Fukuyama gave voice to a worry that this condition of placid stability may not be able to satisfy the drives of a",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/823d83b1ba64adf0cd5a7eac.json"
-    },
-    {
-      "id": "30dbf59e3497aa51695e6cc1",
-      "title": "In Serbia, Few Frankly Reckon With Ratko Mladić’s Crimes",
-      "url": "https://www.inoreader.com/article/3a9c6e7607fcbedc",
-      "author": "Lela Vujanić",
-      "source": "Jacobin",
-      "published_at": "2026-09-04T12:48:23+00:00",
-      "content_excerpt": "When residents of a block in Belgrade’s city center woke up to the news last week, they were confronted with a mural celebrating a war criminal, painted overnight. Furious, they plotted a “night action” to destroy this latest tribute to Ratko Mladić with improvised defacement tactics. While the war criminal’s face is ever present across the Serbian capital, this was the first time a mural several meters long and about one meter high had appeared on the building surrounding their park. The news of Mladić’s death, while in detention at The Hague, came in the middle of a campaign for parliamentary elections that have not yet been called but according to President Aleksandar Vučić are expected any day now. What a popular slogan calls the “students who are winning” (after a series of recent mas",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/30dbf59e3497aa51695e6cc1.json"
-    },
-    {
-      "id": "9e07cf8713cf05f732682ad5",
-      "title": "With Anti-DSA Bill, Congress Is Red-Baiting Like It’s 1955",
-      "url": "https://www.inoreader.com/article/3a9c6e760771626f",
-      "author": "Ben Burgis",
-      "source": "Jacobin",
-      "published_at": "2026-09-03T17:50:59+00:00",
-      "content_excerpt": "As summer turns into fall, the United States remains mired in a wildly unpopular war in Iran. On the home front, inflation is stubbornly persistent. All indications point to the president’s party suffering major losses in the November midterms — if, that is, the various Republican attempts to interfere with the integrity of the election fall short.Even with all this going on, though, the House found time on Tuesday to pass a resolution symbolically condemning the Democratic Socialists of America (DSA) and “all forms of socialism,” quite obviously inspired by Zohran Mamdani’s mayoralty and the primary victories of several DSA-backed congressional candidates.The anti-DSA bill is a strange document. It starts so similarly to the other congressional resolutions condemning socialism over the la",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/9e07cf8713cf05f732682ad5.json"
-    },
-    {
-      "id": "c9abaa84e2887786d3675688",
-      "title": "The Rise of the Billionaire Lobby",
-      "url": "https://www.inoreader.com/article/3a9c6e760765af89",
-      "author": "Ben Case",
-      "source": "Jacobin",
-      "published_at": "2026-09-03T16:24:02+00:00",
-      "content_excerpt": "You’ve heard of the oil lobby, the tobacco lobby, the Israel lobby, the charter school lobby. Behind all of these are billionaires who benefit from the underlying industries or sectors, and whose corporations use their resources to lobby the government for favorable policies. Now, in reaction to a California ballot initiative for the world’s first billionaire tax, we have an innovation: a lobby for billionaires themselves. Self-advocacy by wealthy people is nothing new, of course. But faced with the prospect of persuading voters to reject Proposition 40 — a temporary tax on roughly two hundred unfathomably rich individuals to fund health care for millions of people — billionaires must make the case to the public that forcing them to share a small amount of their fortunes would do more harm",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/c9abaa84e2887786d3675688.json"
     }
   ]
 }
