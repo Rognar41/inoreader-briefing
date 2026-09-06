@@ -1,176 +1,41 @@
 {
-  "generated_at": "2026-09-05T21:32:04.746044+00:00",
-  "generated_at_jst": "2026-09-06T06:32:04.746044+09:00",
-  "period_start": "2026-09-04T15:32:04.746044+00:00",
+  "generated_at": "2026-09-06T21:34:20.598571+00:00",
+  "generated_at_jst": "2026-09-07T06:34:20.598571+09:00",
+  "period_start": "2026-09-05T15:34:20.598571+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
-  "article_count": 11,
+  "article_count": 2,
   "excerpt_chars": 800,
   "articles": [
     {
-      "id": "6d933ed701be19da2a540718",
-      "title": "‘We are not beggars’: UNRWA cuts off aid to six Palestinian refugee camps in northern Lebanon",
-      "url": "https://mondoweiss.net/2026/09/we-are-not-beggars-unrwa-cuts-off-aid-to-six-palestinian-refugee-camps-in-northern-lebanon",
-      "author": "Alaa Serhal",
-      "source": "Mondoweiss",
-      "published_at": "2026-09-05T13:53:01+00:00",
-      "content_excerpt": "The United Nations Relief and Works Agency has excluded six Palestinian refugee camps in Lebanon from emergency cash assistance, as Israeli attacks and Western donor cuts leave families choosing between food and medicine.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/6d933ed701be19da2a540718.json"
-    },
-    {
-      "id": "aa133b8f5301106e7301cb22",
-      "title": "Protesting farmers stall plans for India’s first AI-powered city",
-      "url": "https://breakthroughnews.org/2026/09/05/protesting-farmers-stall-plans-for-indias-first-ai-powered-city",
-      "author": "Pavan Kulkarni",
+      "id": "429405f642749abdb5ef406f",
+      "title": "Guinea-Bissau approves new constitution as opposition calls referendum a fraud",
+      "url": "https://breakthroughnews.org/2026/09/06/guinea-bissau-approves-new-constitution-as-opposition-calls-referendum-a-fraud",
+      "author": "Nicholas Mwangi",
       "source": "BT News",
-      "published_at": "2026-09-05T13:33:56+00:00",
-      "content_excerpt": "This content is for members only. Visit the site and log in/register to read.",
+      "published_at": "2026-09-06T03:27:09+00:00",
+      "content_excerpt": "Guinea-Bissau has approved a new constitution that expands presidential powers, but the result has triggered a political dispute after opposition parties and groups rejected the referendum as illegitimate and accused the National Electoral Commission (CNE) of fabricating turnout figures. The constitutional referendum was held on August 30, less than a year after the military seized power following disputed presidential and legislative elections. According to provisional results announced by the CNE on September 1 , 70% of valid votes supported the new constitution, while 30% opposed it. Turnout was about 60%. The opposition, however, has strongly disputed those figures. The PAI-Terra Ranka and API-Cabas Garandi coalitions said the referendum was widely boycotted, claiming participation was",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/aa133b8f5301106e7301cb22.json"
+      "article_path": "articles/429405f642749abdb5ef406f.json"
     },
     {
-      "id": "4e9e7f009f25a80eef4e314c",
-      "title": "AI and the profits boom",
-      "url": "https://mronline.org/2026/09/05/ai-and-the-profits-boom",
-      "author": "Michael Roberts",
-      "source": "MR Online",
-      "published_at": "2026-09-05T12:12:02+00:00",
-      "content_excerpt": "As the central bankers of the world met at Jackson Hole, Wyoming for their annual get together to discuss issues affecting the world financial sector and monetary policy, U.S. statistics for corporate profits for the second quarter of 2026 were released. The post AI and the profits boom appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/4e9e7f009f25a80eef4e314c.json"
-    },
-    {
-      "id": "9d8f9a040f11409fdfc5e485",
-      "title": "Israeli military taps 30 U.S. universities for AI, drones, and robotics",
-      "url": "https://mronline.org/2026/09/05/israeli-military-taps-30-u-s-universities-for-ai-drones-and-robotics",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-09-05T11:14:31+00:00",
-      "content_excerpt": "Millions in U.S. defense funding are supporting university projects tied to Israeli military research, including surveillance technology, AI targeting systems, and drone development. The post Israeli military taps 30 U.S. universities for AI, drones, and robotics appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/9d8f9a040f11409fdfc5e485.json"
-    },
-    {
-      "id": "7890a9db53a36af8259b7104",
-      "title": "A theoretical sleight-of-hand",
-      "url": "https://mronline.org/2026/09/05/a-theoretical-sleight-of-hand",
-      "author": "Prabhat Patnaik",
-      "source": "MR Online",
-      "published_at": "2026-09-05T10:15:38+00:00",
-      "content_excerpt": "India was one of the countries studied, where the Nehru-Mahalanobis strategy of building heavy and capital goods industries was predictably the target of attack. The post A theoretical sleight-of-hand appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/7890a9db53a36af8259b7104.json"
-    },
-    {
-      "id": "3909c685db0f5e2d30abcccd",
-      "title": "Trump lifts sanctions on top Al Qaeda recruiters, financiers days before 9/11 anniversary",
-      "url": "https://mronline.org/2026/09/05/trump-lifts-sanctions-on-top-al-qaeda-recruiters-financiers-days-before-9-11-anniversary",
-      "author": "Max Blumenthal",
-      "source": "MR Online",
-      "published_at": "2026-09-05T09:16:45+00:00",
-      "content_excerpt": "As the U.S. prepares to mark 25 years since Sept. 11, 2001, Donald Trump has removed top Al Qaeda figures from the U.S. list of designated terrorists. Among those he delisted was Abdullah Muhaysini, a Saudi cleric who recruited child fighters and teen suicide bombers to wreak havoc across Syria. The post Trump lifts sanctions on top Al Qaeda recruiters, financiers days before 9/11 anniversary appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/3909c685db0f5e2d30abcccd.json"
-    },
-    {
-      "id": "055288e0702e314dba01aabc",
-      "title": "Manifesto of Arab Intellectuals Against Normalization with Israel and for the Affirmation of the Right of Arab Peoples to Self-Determination",
-      "url": "https://mronline.org/2026/09/04/manifesto-of-arab-intellectuals-against-normalization-with-israel-and-for-the-affirmation-of-the-right-of-arab-peoples-to-self-determination",
-      "author": "Webmaster",
-      "source": "MR Online",
-      "published_at": "2026-09-04T22:01:52+00:00",
-      "content_excerpt": "We refuse to allow a balance of power based on genocide and the crushing of all resistance to be celebrated as peace. The post Manifesto of Arab Intellectuals Against Normalization with Israel and for the Affirmation of the Right of Arab Peoples to Self-Determination appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/055288e0702e314dba01aabc.json"
-    },
-    {
-      "id": "de437f5f7736e18c2139294d",
-      "title": "Food has returned to Gaza’s markets, but most people still can’t afford to eat",
-      "url": "https://mondoweiss.net/2026/09/food-has-returned-to-gazas-markets-but-most-people-still-cannot-afford-to-eat",
-      "author": "Tareq S. Hajjaj",
-      "source": "Mondoweiss",
-      "published_at": "2026-09-04T20:45:40+00:00",
-      "content_excerpt": "Prices have fallen sharply since the famine of 2025, but with purchasing power destroyed by nearly three years of war and displacement, food on the shelves remains out of reach for the majority of Gaza's population.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/de437f5f7736e18c2139294d.json"
-    },
-    {
-      "id": "0843e35b838b43e102e40c26",
-      "title": "What the latest flare-up between the U.S and Iran means",
-      "url": "https://mondoweiss.net/2026/09/what-the-latest-flare-up-between-the-u-s-and-iran-means",
-      "author": "Mitchell Plitnick",
-      "source": "Mondoweiss",
-      "published_at": "2026-09-04T20:45:40+00:00",
-      "content_excerpt": "The U.S. and Iran are trading strikes while carefully avoiding all-out war, and both sides are hiding the damage they've suffered. The difference is Iran has more reason to end the stalemate, and less patience for Washington's forever-war strategy.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/0843e35b838b43e102e40c26.json"
-    },
-    {
-      "id": "8db4175f9f210b74b8b16281",
-      "title": "Healthy food is still out of reach for students and young people",
-      "url": "https://breakthroughnews.org/2026/09/04/healthy-food-is-still-out-of-reach-for-students-and-young-people",
-      "author": "Peoples Health Dispatch",
+      "id": "66724ae7442fd8d8c7aeabc2",
+      "title": "China is NOT abandoning Iran – Tehran journalist explains",
+      "url": "https://breakthroughnews.org/2026/09/04/china-is-not-abandoning-iran-tehran-journalist-explains",
+      "author": "Amanda Yee",
       "source": "BT News",
-      "published_at": "2026-09-04T18:45:45+00:00",
-      "content_excerpt": "Students in secondary schools across England remain reliant on unhealthy food amid ongoing commercialization, weak accountability, and inaccessible prices. A recent report by the network Bite Back examines how these intersecting factors are affecting children’s nutrition, calling on the government to revise existing standards and ensure students can access real, nutritious food. Read more: Ultra-processed food dominates child nutrition in the UK The report found that a significant number of secondary school students still opt for “grab-and-go” items over full school meals. These predominantly carbohydrate-based options, such as pastries and chips, mostly fall short of existing nutritional standards. But while the food industry often argues that students reach for these items based on indiv",
+      "published_at": "2026-09-06T00:29:32+00:00",
+      "content_excerpt": "Since the beginning of the US-Israeli war on Iran, some have claimed that Beijing’s support for Tehran is little more than empty rhetoric and symbolic statements. So what is the nature of the China-Iran alliance? Tehran-based journalist Navid Zarrinnal joins Amanda Yee to give a realistic breakdown of China-Iran relations, the significance of the Bishkek Declaration coming out of the Shanghai Cooperation Organization (SCO) summit, and why Beijing’s dismissal of Trump’s “economic D-day” sanctions represents a major defiance of the Washington-led order. Despite Beijing not meeting some critics’ expectations of a more direct role in supporting Iran during the war, Zarrinnal nevertheless bluntly states, “China did not bomb by neighborhood. Objectively if you have any sanity, you would understa",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/8db4175f9f210b74b8b16281.json"
-    },
-    {
-      "id": "6900828954117651b715e46b",
-      "title": "‘You won, Mr. President’: Press freedom under attack in Ecuador",
-      "url": "https://breakthroughnews.org/2026/09/04/you-won-mr-president-press-freedom-under-attack-in-ecuador",
-      "author": "BreakThrough News",
-      "source": "BT News",
-      "published_at": "2026-09-04T15:47:28+00:00",
-      "content_excerpt": "A few days ago, one of Ecuador’s most widely followed journalists, Gisella Bayona, announced that she would quit journalism due to pressure from the administration, led by right-wing President Daniel Noboa. “In recent hours, a pro-government media outlet has published serious accusations against me and my husband, attempting to link my questions about the lack of medicines in hospitals to personal interests.” Bayona was referring to the investigations she had conducted regarding the severe and chronic shortage of medicines and medical supplies in the public health system that has plagued the country for several years. Noboa has repeatedly promised to resolve this problem, but so far there has been no solution, while the number of deaths due to a lack of public health care continues to rise",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/6900828954117651b715e46b.json"
+      "article_path": "articles/66724ae7442fd8d8c7aeabc2.json"
     }
   ]
 }

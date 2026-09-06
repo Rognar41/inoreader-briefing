@@ -1,86 +1,71 @@
 {
-  "generated_at": "2026-09-05T21:32:04.746044+00:00",
-  "generated_at_jst": "2026-09-06T06:32:04.746044+09:00",
-  "period_start": "2026-09-04T15:32:04.746044+00:00",
+  "generated_at": "2026-09-06T21:34:20.598571+00:00",
+  "generated_at_jst": "2026-09-07T06:34:20.598571+09:00",
+  "period_start": "2026-09-05T15:34:20.598571+00:00",
   "lookback_hours": 30,
   "folder": "00_毎日確認",
-  "article_count": 5,
+  "article_count": 4,
   "excerpt_chars": 800,
   "articles": [
     {
-      "id": "8fd299aa3c8532ed1fb82b57",
-      "title": "Donald Trump’s Korea Diplomacy Is a Distraction Exercise",
-      "url": "https://www.inoreader.com/article/3a9c6e760695e9b8",
-      "author": "Kap Seol",
-      "source": "Jacobin",
-      "published_at": "2026-09-05T15:04:35+00:00",
-      "content_excerpt": "Donald Trump has made several recent overtures to North Korean leader Kim Jong-un for a new summit, seven years after their meeting in Hanoi ended inconclusively. Over the summer, he abruptly reduced the scale of the annual US–South Korea joint military exercises. Four times in the space of nine days, he posted pictures of Kim on his Truth Social account in an apparent wooing exercise. These efforts have so far failed to lure Kim to the negotiation table. Kim Yo-jong, his powerful sister who occupies the number-two position in the North Korean hierarchy, declared on August 19 that North Korea has no interest in a new summit with the United States. At the same time, she left a door slightly ajar by remarking that her brother retains good memories and feelings about Trump from their past sum",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/8fd299aa3c8532ed1fb82b57.json"
-    },
-    {
-      "id": "fdae6935a3b20f7836fd8327",
-      "title": "An Agenda for De-Alienating Work",
-      "url": "https://www.inoreader.com/article/3a9c6e760690d4ed",
-      "author": "Peter Dorman",
-      "source": "Jacobin",
-      "published_at": "2026-09-05T14:35:02+00:00",
-      "content_excerpt": "Wages have been bad for years, but the quality of work hasn’t fared much better. Gig work, with its insecurity and minimal protection from managerial whims, has proliferated. New technology has enabled a degree of workforce surveillance that previous generations would have regarded as unacceptable. The degradation of corporate work at all levels is an important aspect of enshittification . Unsurprisingly, you can now click across multiple websites advising you how to look like you’re doing your job when your brain is somewhere else. And now AI is poised to usher us — those who still have jobs — into a new era of management-by-slop. Where can we look for an agenda to fight back? There’s a branch of left-wing thought that focuses on exactly these kinds of problems: the theory of alienation. ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/fdae6935a3b20f7836fd8327.json"
-    },
-    {
-      "id": "7c87487d039e87ddc2ca071e",
-      "title": "Jean-Luc Mélenchon Thinks He Has a Path to Victory",
-      "url": "https://www.inoreader.com/article/3a9c6e7606997292",
-      "author": "Olly Haynes",
-      "source": "Jacobin",
-      "published_at": "2026-09-05T13:08:03+00:00",
-      "content_excerpt": "High above the waters of the Lac d’Aiguille in southeastern France, hundreds of drones formed the face of Maximilien Robespierre, the Jacobin deputy to the National Convention during the French Revolution. Then they shifted into a new form, as the face of Louise Michel, a key figure in the Paris Commune of 1871. The drones then split up again, only to regroup as the face of Thomas Sankara, the revolutionary leader of Burkina Faso. The music playing from the lakeside speakers sped up, and two drones dropped a banner, onto which was projected video from an accelerating series of rallies and speeches by France Insoumise (FI) and its presidential candidate Jean-Luc Mélenchon. Finally, as the thumping orchestral music, intercut with segments of the Marseillaise and the Internationale , reached ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/7c87487d039e87ddc2ca071e.json"
-    },
-    {
-      "id": "74833ee4bbf783b5bc2217a8",
-      "title": "Gloria Steinem Was the Godmother of Neoliberal Feminism",
-      "url": "https://www.inoreader.com/article/3a9c6e76064809ce",
-      "author": "Jenny Brown",
-      "source": "Jacobin",
-      "published_at": "2026-09-04T21:33:27+00:00",
-      "content_excerpt": "Gloria Steinem, the establishment’s favorite radical feminist, died on September 2. The mainstream media has gone all out in praising her, with the Wall Street Journal and The New York Times united in their adulation. The Times called her the “personification of the women’s movement” and credited her with helping to usher in “sweeping cultural transformations across virtually every facet of American life, from the boardroom to the courtroom to the bedroom.” They approvingly quote her self-description as an “entrepreneur of social change.” For many people, she is the only radical feminist they can name, eclipsing the extraordinary women who planned and launched the successful women’s liberation movement starting in 1967. Steinem did wield enormous influence. Ms . magazine and the Ms. Founda",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/74833ee4bbf783b5bc2217a8.json"
-    },
-    {
-      "id": "746fd68fd8efab179fefd0b3",
-      "title": "Organizing from the Bottom: IBEW’s Fight for Sanitary Facilities",
-      "url": "https://medium.com/dsa-detroit-newspaper/organizing-from-the-bottom-ibews-fight-for-sanitary-facilities-341e832625d5?source=rss-160b7baee925------2",
-      "author": "Detroit DSA",
+      "id": "91458672d16042df8f942801",
+      "title": "No, Seriously, Democratic Socialists Want to Abolish the Senate",
+      "url": "https://rocdsa.org/blog/no-seriously-democratic-socialists-want-to-abolish-the-senate",
+      "author": "Rochester Red Star: News from Rochester DSA",
       "source": "DSA Feed - Global",
-      "published_at": "2026-09-04T19:38:39+00:00",
-      "content_excerpt": "Workers in high-visibility gear gather at a downtown Detroit worksite, with the city skyline visible in the background. By Kevin Szczesny To get clean Porta-johns in our workplace, construction workers at the Marriott site in downtown Detroit marched on the boss. Workers from at least seven unions of the building trades were represented, with zero union staffers or officers present. Many union halls were in support of the action, but the work and the application of leverage were entirely rank-and-file driven. As an active member of IBEW Local 58 (Electrical Workers), I often hear from sympathetic organizers who “can’t imagine how hard it must be” organizing in a largely conservative and obstinate workforce. Our campaign is a contribution to the death of that narrative, and an answer to the",
+      "published_at": "2026-09-06T18:34:34+00:00",
+      "content_excerpt": "by Gregory Lebens-Higgins On July 14, 2026, the national body of the Democratic Socialists of America released Workers Deserve More, a program outlining the organization’s goals and values. Workers Deserve More was drafted by a committee consisting of members of the National Political Committee, leaders of other national committees, and rank and file members following a process outlined by a resolution passed at DSA’s 2025 National Convention . Upon its release, Workers Deserve More received significant attention in mainstream media. The coverage has provided free advertising for DSA’s popular demands such as universal healthcare, improved working conditions, and replacing the two-party system with a multi-party democracy. Appearing on Fox News , DSA Co-Chair Megan Romer was pressed on the",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/746fd68fd8efab179fefd0b3.json"
+      "article_path": "articles/91458672d16042df8f942801.json"
+    },
+    {
+      "id": "72c0e193c0289fe5d9c75e3f",
+      "title": "India’s Gen Z Protests Are Breaking the Grip of Fear",
+      "url": "https://www.inoreader.com/article/3a9c6e760504f2c6",
+      "author": "Ashok Kumbamu",
+      "source": "Jacobin",
+      "published_at": "2026-09-06T13:46:05+00:00",
+      "content_excerpt": "“I swear, I can die in peace now. I can die smiling.” Coming from the renowned writer and activist Arundhati Roy , these words are startling. For more than three decades, Roy has stood alongside people fighting to protect their land, their homes, and their rights from destructive development projects, state repression, and policies imposed in the name of national growth. She has seen movements rise and victories won, but she has also seen resistance criminalized, promises broken, dreams crushed, and hopes worn down. And yet watching India’s Gen Z take to the streets, Roy seemed to glimpse something she had almost stopped expecting: hope. Challenging Power The immediate trigger for the protests appears to have been the paper leak involving the National Eligibility cum Entrance Test (NEET), ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/72c0e193c0289fe5d9c75e3f.json"
+    },
+    {
+      "id": "28fcf5e4bacb5df968c82fdb",
+      "title": "Trump Family Prediction Market Conflicts Are a Good Bet",
+      "url": "https://www.inoreader.com/article/3a9c6e760504f2bb",
+      "author": "David Moscrop",
+      "source": "Jacobin",
+      "published_at": "2026-09-06T13:46:05+00:00",
+      "content_excerpt": "There’s nothing to see here, folks. Don’t believe your lying eyes. The eldest son of the president of the United States and his investment firm, 1789 Capital, are raising money in a funding round for Polymarket, the gambling website that styles itself a “prediction market” and which DonaldTrump Jr’s firm values at $21 billion. But it’s a nothingburger. Really. Except, if the relationship seems suspect on its face, that’s because it is. Trump Jr and his company stress that there’s a thick, heavy wall between his political connections — for instance, his father, the president — and his business activities. Never mind that, as the New York Times reports , the Trump family is invested in the “prediction market” business, and Trump Jr is an adviser for Polymarket and competitor Kalshi. Never mi",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/28fcf5e4bacb5df968c82fdb.json"
+    },
+    {
+      "id": "ab8c0bbd7d6f3f078ab9bba9",
+      "title": "Tyson Shuttered a Plant and Laid Off 2,500 Workers Overnight",
+      "url": "https://www.inoreader.com/article/3a9c6e760504f2b5",
+      "author": "Caitlyn Clark",
+      "source": "Jacobin",
+      "published_at": "2026-09-06T13:46:05+00:00",
+      "content_excerpt": "Ouano Tante worked the afternoon shift at the Tyson beef plant in Joslin, Illinois, for five years. But when she and hundreds of her coworkers arrived at work on August 14, they found the plant closed. They speculated that someone on the morning shift might have gotten injured. Then two mid-level supervisors came outside in tears. Plant supervisors told workers the plant was closing permanently, effective immediately. Inside, the early-morning shift had just ended when the workers were informed it would be their last. The cafeteria erupted into chaos . Plant supervisors stood guard by the doors, workers said, while everyone received their closure paperwork. “People were crying, shaking,” Tante said. “When we were leaving the parking lot, there were so many car accidents. People were so ups",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/ab8c0bbd7d6f3f078ab9bba9.json"
     }
   ]
 }
