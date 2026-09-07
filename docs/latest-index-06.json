@@ -1,41 +1,131 @@
 {
-  "generated_at": "2026-09-06T21:34:20.598571+00:00",
-  "generated_at_jst": "2026-09-07T06:34:20.598571+09:00",
-  "period_start": "2026-09-05T15:34:20.598571+00:00",
+  "generated_at": "2026-09-07T22:12:47.139829+00:00",
+  "generated_at_jst": "2026-09-08T07:12:47.139829+09:00",
+  "period_start": "2026-09-06T16:12:47.139829+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
-  "article_count": 2,
+  "article_count": 8,
   "excerpt_chars": 800,
   "articles": [
     {
-      "id": "429405f642749abdb5ef406f",
-      "title": "Guinea-Bissau approves new constitution as opposition calls referendum a fraud",
-      "url": "https://breakthroughnews.org/2026/09/06/guinea-bissau-approves-new-constitution-as-opposition-calls-referendum-a-fraud",
-      "author": "Nicholas Mwangi",
-      "source": "BT News",
-      "published_at": "2026-09-06T03:27:09+00:00",
-      "content_excerpt": "Guinea-Bissau has approved a new constitution that expands presidential powers, but the result has triggered a political dispute after opposition parties and groups rejected the referendum as illegitimate and accused the National Electoral Commission (CNE) of fabricating turnout figures. The constitutional referendum was held on August 30, less than a year after the military seized power following disputed presidential and legislative elections. According to provisional results announced by the CNE on September 1 , 70% of valid votes supported the new constitution, while 30% opposed it. Turnout was about 60%. The opposition, however, has strongly disputed those figures. The PAI-Terra Ranka and API-Cabas Garandi coalitions said the referendum was widely boycotted, claiming participation was",
+      "id": "0d7cf809e6bf1561c396fe09",
+      "title": "Inside the Australian Royal Commission turning anti-Zionism into a crime",
+      "url": "https://mondoweiss.net/2026/09/inside-the-australian-royal-commission-turning-anti-zionism-into-a-crime",
+      "author": "Lana Tatour and Noam Peleg",
+      "source": "Mondoweiss",
+      "published_at": "2026-09-07T20:41:03+00:00",
+      "content_excerpt": "Australia's Royal Commission into Antisemitism has spent months letting Zionist witnesses deny genocide and recast Palestine solidarity as hate, laying the groundwork to criminalize protest, speech, and scholarship on Palestine for years to come.",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/429405f642749abdb5ef406f.json"
+      "article_path": "articles/0d7cf809e6bf1561c396fe09.json"
     },
     {
-      "id": "66724ae7442fd8d8c7aeabc2",
-      "title": "China is NOT abandoning Iran – Tehran journalist explains",
-      "url": "https://breakthroughnews.org/2026/09/04/china-is-not-abandoning-iran-tehran-journalist-explains",
-      "author": "Amanda Yee",
-      "source": "BT News",
-      "published_at": "2026-09-06T00:29:32+00:00",
-      "content_excerpt": "Since the beginning of the US-Israeli war on Iran, some have claimed that Beijing’s support for Tehran is little more than empty rhetoric and symbolic statements. So what is the nature of the China-Iran alliance? Tehran-based journalist Navid Zarrinnal joins Amanda Yee to give a realistic breakdown of China-Iran relations, the significance of the Bishkek Declaration coming out of the Shanghai Cooperation Organization (SCO) summit, and why Beijing’s dismissal of Trump’s “economic D-day” sanctions represents a major defiance of the Washington-led order. Despite Beijing not meeting some critics’ expectations of a more direct role in supporting Iran during the war, Zarrinnal nevertheless bluntly states, “China did not bomb by neighborhood. Objectively if you have any sanity, you would understa",
+      "id": "c72303d24552ecb09795df20",
+      "title": "Cerimedo: MAGA comes to Latin America",
+      "url": "https://mronline.org/2026/09/07/cerimedo-maga-comes-to-latin-america",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-09-07T12:48:40+00:00",
+      "content_excerpt": "An investigation published by the Cubadebate Media Observatory on August 24, 2026, reconstructed a web of business, communication, and political relationships that connects Argentinian businessman Fernando Cerimedo with Miami and Washington. The post Cerimedo: MAGA comes to Latin America appeared first on MR Online .",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/66724ae7442fd8d8c7aeabc2.json"
+      "article_path": "articles/c72303d24552ecb09795df20.json"
+    },
+    {
+      "id": "b014621b60b8e025f482a274",
+      "title": "Keynes’s Unfinished Monetary Revolution",
+      "url": "https://mronline.org/2026/09/07/keyness-unfinished-monetary-revolution",
+      "author": "Michael Hudson",
+      "source": "MR Online",
+      "published_at": "2026-09-07T12:48:40+00:00",
+      "content_excerpt": "The Coming world depression requires a New International Economic Order led by Russia, China and Iran. The post Keynes’s Unfinished Monetary Revolution appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/b014621b60b8e025f482a274.json"
+    },
+    {
+      "id": "bba43f1f3901cf9cdb25933c",
+      "title": "Nonsense drones and Novichok",
+      "url": "https://mronline.org/2026/09/07/nonsense-drones-and-novichok",
+      "author": "Craig Murray",
+      "source": "MR Online",
+      "published_at": "2026-09-07T12:48:40+00:00",
+      "content_excerpt": "Europe urgently needs to re-establish access to Russian oil and gas. The post Nonsense drones and Novichok appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/bba43f1f3901cf9cdb25933c.json"
+    },
+    {
+      "id": "33beb2a74007f17ed33fa39c",
+      "title": "The extremism of moderates",
+      "url": "https://mronline.org/2026/09/07/the-extremism-of-moderates",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-09-07T12:48:40+00:00",
+      "content_excerpt": "As Donald Trump stirs up a fresh Red Scare by branding communism a “mortal threat” to the United States, corporate-backed “moderates” in the Democratic Party have launched their own moral crusade against a surging left flank. The post The extremism of moderates appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/33beb2a74007f17ed33fa39c.json"
+    },
+    {
+      "id": "f2c0512abfd93cfe6fd65fd4",
+      "title": "Why the IMF keeps returning",
+      "url": "https://mronline.org/2026/09/07/why-the-imf-keeps-returning",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-09-07T12:48:40+00:00",
+      "content_excerpt": "In 2022, Sri Lanka defaulted on its sovereign debt for the first time in its post-independence history. The post Why the IMF keeps returning appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/f2c0512abfd93cfe6fd65fd4.json"
+    },
+    {
+      "id": "e60aab65233f74f1beddc333",
+      "title": "Democracy Now! Marks 30 Years with Angela Davis, Bruce Springsteen, Patti Smith, Michael Stipe & More",
+      "url": "https://www.democracynow.org/2026/9/7/democracy_now_marks_30_years_with",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-09-07T12:32:16+00:00",
+      "content_excerpt": "This is a rush transcript. Copy may not be in its final form. AMY GOODMAN : In late March, over 2,000 people packed into the historic Riverside Church in New York to celebrate the 30th anniversary of Democracy Now! Today, in this special, we bring you highlights from the evening. Let’s go back to that night. AMY GOODMAN : It is our absolute honor to welcome you all here to Democracy Now! ’s 30th anniversary. It is hard to contemplate a celebration at this time, amidst the U.S.-Israeli war on Iran and other armed conflicts, rising authoritarianism, power-hungry billionaires and the worsening climate catastrophe, but gatherings like this are essential, to remind us that the gathering storm, despite the forces of oppression that threaten us all on the planet, there is a force more powerful. A",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/e60aab65233f74f1beddc333.json"
+    },
+    {
+      "id": "d37c5818f67c3ba7399e492d",
+      "title": "Inside Tacoma’s ICE detention center: worm-infested food, suicide, and neglect",
+      "url": "https://breakthroughnews.org/2026/09/07/inside-tacomas-ice-detention-center-worm-infested-food-suicide-and-neglect",
+      "author": "Sofie Villa",
+      "source": "BT News",
+      "published_at": "2026-09-07T11:28:23+00:00",
+      "content_excerpt": "At the Northwest ICE Processing Center in Tacoma, Washington, thousands of complaints have been lodged by immigrant detainees regarding dangerous living conditions: abuse, inedible food, prolonged isolation, and medical neglect. Despite more than 3,500 complaints being submitted to the Washington State Department of Health, GEO Group, operating the facility under a contract with ICE, has repeatedly refused to admit state inspectors. Opened in 2004 , the facility formerly known as the Northwest Detention Center (NWDC) has a stated bed space capacity of 1,575 people – one of the largest immigration prisons in the country. Its population hovered around 800 for a couple years before rising sharply after Trump’s second term began, with immigrant rights groups estimating that 1,400-1,500 people ",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/d37c5818f67c3ba7399e492d.json"
     }
   ]
 }
