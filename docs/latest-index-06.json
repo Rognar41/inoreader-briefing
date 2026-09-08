@@ -1,12 +1,192 @@
 {
-  "generated_at": "2026-09-07T22:12:47.139829+00:00",
-  "generated_at_jst": "2026-09-08T07:12:47.139829+09:00",
-  "period_start": "2026-09-06T16:12:47.139829+00:00",
+  "generated_at": "2026-09-08T21:57:52.805400+00:00",
+  "generated_at_jst": "2026-09-09T06:57:52.805400+09:00",
+  "period_start": "2026-09-07T15:57:52.805400+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
-  "article_count": 8,
+  "article_count": 13,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "ca3edf7b4f7ce7137257821a",
+      "title": "Somalia on the brink of mass starvation: a vortex of climate shocks, war, and aid cuts",
+      "url": "https://breakthroughnews.org/2026/09/08/somalia-on-the-brink-of-mass-starvation-a-vortex-of-climate-shocks-war-and-aid-cuts",
+      "author": "Pavan Kulkarni",
+      "source": "BT News",
+      "published_at": "2026-09-08T21:35:53+00:00",
+      "content_excerpt": "This content is for members only. Visit the site and log in/register to read.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/ca3edf7b4f7ce7137257821a.json"
+    },
+    {
+      "id": "c795742d0a25c2d6c48c9a0b",
+      "title": "Israel starved Gaza. Now doctors fear it has permanently damaged a generation.",
+      "url": "https://mondoweiss.net/2026/09/israel-starved-gaza-now-doctors-fear-it-has-permanently-damaged-a-generation",
+      "author": "Tareq S. Hajjaj",
+      "source": "Mondoweiss",
+      "published_at": "2026-09-08T20:54:29+00:00",
+      "content_excerpt": "In the pediatrics department at Nasser Hospital in Gaza, doctors are seeing a surge in stunted growth among children. This lasting mark of Israel's engineered famine may affect cognition, hormones, and health for generations to come.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/c795742d0a25c2d6c48c9a0b.json"
+    },
+    {
+      "id": "512b77a089abc6d61ac1b250",
+      "title": "Iran reverses the asymmetry",
+      "url": "https://breakthroughnews.org/2026/09/08/iran-reverses-the-asymmetry",
+      "author": "Vijay Prashad",
+      "source": "BT News",
+      "published_at": "2026-09-08T19:36:18+00:00",
+      "content_excerpt": "On September 2, fragments from a US missile tore through the roof of a wedding celebration in Kuhestak, in Iran’s southern county of Sirik. Four people were killed, including a child, and 68 were wounded. The United States has made a custom of bombing weddings – in Afghanistan, Iraq, Yemen, and now Iran. When US Vice-President JD Vance was asked about the dead, he shrugged: “Things happen.” The sentence should be entered into the record of this war. Imperialism turns other people’s catastrophes into the passive voice. The attack on the wedding was part of a new round of US strikes along Iran’s southern coast and around the Strait of Hormuz. Washington said that it had targeted missile and mine-laying capabilities. Tehran replied with missiles and drones against US facilities in Jordan, Bah",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/512b77a089abc6d61ac1b250.json"
+    },
+    {
+      "id": "cc4dec65db1385fe00a29d37",
+      "title": "“Toxic Nightmare”: 25 Years After 9/11, Juan González on His Predictions of Worker Illness & Death",
+      "url": "https://www.democracynow.org/2026/9/8/toxic_nightmare_25_years_after_9",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-09-08T15:22:51+00:00",
+      "content_excerpt": "Twenty-five years after September 11, 2001, more people are believed to have died from cancer, respiratory and other illnesses due to exposure to the airborne toxins than the nearly 3,000 people killed in the attacks on the World Trade Center. In the weeks and months that followed 9/11, former New York City Mayors Rudy Giuliani and Michael Bloomberg, as well as other city and federal officials, reassured residents and workers it was safe to return to the area surrounding ground zero, concealing the dangers of lingering toxins in the air after the collapse of the twin towers. Democracy Now! co-host Juan González reads from his book, Fallout , in which he extensively reported on the toxic nightmare around ground zero. “No one could guarantee the air around Ground Zero was safe because no one",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/cc4dec65db1385fe00a29d37.json"
+    },
+    {
+      "id": "2e4af411a2c4921cbcebca4c",
+      "title": "Firefighter, EMT, Stuyvesant High School Student Describe 9/11 Exposure & Long Fight for Healthcare",
+      "url": "https://www.democracynow.org/2026/9/8/firefighter_emt_stuyvesant_high_school_student",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-09-08T15:22:51+00:00",
+      "content_excerpt": "Twenty-five years after the 9/11 attacks, many New York City residents are still grappling with complicated health conditions related to exposure to the toxic air and debris around ground zero. “We were digging through the pile and using rakes to spread out all the debris to look for anyone’s remains,” says retired New York City firefighter Brenda Berkman. “We were working alongside really heavy equipment, as time went on, that picked up big loads of debris and dumped it, creating a cloud. This went on for 10 months. And at first, there was no proper decontamination at all.” “ EMS personnel were told, 'Oh, you couldn't be getting sick. You’re not a firefighter. So don’t worry. Just go back to work,’” says retired New York City EMT Marianne Pizzitola. “Moving into the years right after, … w",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/2e4af411a2c4921cbcebca4c.json"
+    },
+    {
+      "id": "ef6f6bb9ecf80873320bfc56",
+      "title": "“People I Flew with All the Time”: Flight Attendant Union Head Sara Nelson Remembers 9/11 Victims",
+      "url": "https://www.democracynow.org/2026/9/8/people_i_flew_with_all_the",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-09-08T15:22:51+00:00",
+      "content_excerpt": "We speak with Sara Nelson, the international president of the Association of Flight Attendants, about how flight attendants were affected by the 9/11 attacks. Nelson was working in Chicago that day, but she lost five of her friends, who were fellow flight attendants, in the attacks. “My handbook is in the 9/11 Memorial Museum, that gave us the exact wrong training for that day. We were told to keep everyone calm, appease the hijackers.” “Eighty-one billion dollars was given back by workers in the wake of 9/11, including transferring the cost of healthcare to us, destroying retiree healthcare, destroying pensions. And we’re still trying to fight to get that back,” adds Nelson.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/ef6f6bb9ecf80873320bfc56.json"
+    },
+    {
+      "id": "63bf5a29e7e61c430afd2dab",
+      "title": "25 Years After 9/11: Cover-Up of Air Quality Risk Proved to Be “Death Sentence” for Thousands",
+      "url": "https://www.democracynow.org/2026/9/8/25_years_after_9_11_cover",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-09-08T15:22:51+00:00",
+      "content_excerpt": "Bob Hennelly, general manager of WBAI Pacifica Radio in New York, broadcast live during the September 11 attacks in 2001 and has been covering developments ever since. He says officials rushed to reopen the city after the disaster, despite the health risks from toxic air and debris around ground zero. “There was no Zoom back then,” Hennelly says. “People were ordered back to their desks in Lower Manhattan, which turned out to be a death sentence.” Please check back later for full transcript.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/63bf5a29e7e61c430afd2dab.json"
+    },
+    {
+      "id": "8b6966c97808e9ea54066f54",
+      "title": "Walking on Two Legs: The Socialism of Chinese Modernisation",
+      "url": "https://thetricontinental.org/dossier-chinese-modernisation",
+      "author": "",
+      "source": "[:en]THE TRICONTINENTAL[:es]TRICONTINENTAL[:]",
+      "published_at": "2026-09-08T08:06:37+00:00",
+      "content_excerpt": "The artwork in this dossier was produced by Tricontinental: Institute for Social Research. Socialism is the path that the Chinese people chose to enter modernity. As President Xi Jinping stated at the 20th National Congress of the Communist Party of China, ‘Chinese modernisation is socialist modernisation pursued under the leadership of the Communist Party of China’. 1 In China, ‘modernisation’ (现代化) is understood in dialectical opposition to the ‘century of humiliation’ (百年国耻), the period of imperialist subjugation that extended from the First Opium War (1839–1842) until the victory of the Chinese Revolution in 1949. Chinese modernisation refers to a progressive historical process rooted in China’s particular conditions and directed towards socialism. The Chinese conception of modernisati",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/8b6966c97808e9ea54066f54.json"
+    },
+    {
+      "id": "c1979b97f086fb28c9229ec0",
+      "title": "BT LIVE: AfD Wins Big in Germany | Israel’s Gaza Mass Expulsion Plan | Meta Targets Teens",
+      "url": "https://breakthroughnews.org/2026/09/08/september-8-2026",
+      "author": "BreakThrough News",
+      "source": "BT News",
+      "published_at": "2026-09-08T01:32:29+00:00",
+      "content_excerpt": "This content is for members only. Visit the site and log in/register to read.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/c1979b97f086fb28c9229ec0.json"
+    },
+    {
+      "id": "254eb8949ede0dd28cd52390",
+      "title": "Iran warns South Korea against joining US military actions in Strait of Hormuz",
+      "url": "https://breakthroughnews.org/2026/09/08/iran-warns-south-korea-against-joining-us-military-actions-in-strait-of-hormuz",
+      "author": "Abdul Rahman",
+      "source": "BT News",
+      "published_at": "2026-09-08T01:32:29+00:00",
+      "content_excerpt": "Iran warned South Korea of serious consequences if it joins the US military efforts against it in the Strait of Hormuz and asked it to not yield to US pressure and threats to become “complicit in aggressive acts and horrific crimes” against the Iranian people. “Iranian people are defending themselves against America’s aggressive actions, and in a situation where they are resolutely responding to America’s war crimes against women and children” any country participating in its military activities in any way “can only be regarded as directly supporting the perpetrators of the aggression,” Baghaei said in the post on X on Monday, September 7. He underlined that the 64 years old friendly relationship between Iran and South Korea has “consistently developed on mutual respect” and his country “p",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/254eb8949ede0dd28cd52390.json"
+    },
+    {
+      "id": "4f0e3fc4da809a26a70a522a",
+      "title": "China says regional integration is the path to security in West Asia",
+      "url": "https://breakthroughnews.org/2026/09/07/china-says-regional-integration-is-the-path-to-security-in-west-asia",
+      "author": "Abdul Rahman",
+      "source": "BT News",
+      "published_at": "2026-09-07T23:31:53+00:00",
+      "content_excerpt": "Chinese President Xi Jinping underlined the need for stronger international coordination for common security in West Asia and a reaffirmation of the UN Charter and international law. Xi demanded external powers must respect sovereignty and territorial integrity of the countries in the region and stop interfering in their internal affairs. China is ready to work with the countries in the region to “safeguard the security of international shipping lanes, advance development cooperation, promote the convergence of interests of regional countries, gradually enhance mutual trust, and eliminate root causes of the conflict,” Xi proposed . Xi made the statement during his two day state visit to Egypt on Wednesday, September 2. This was his first state visit to the country in 10 years. Xi’s visit c",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/4f0e3fc4da809a26a70a522a.json"
+    },
+    {
+      "id": "77d6421bc32e24156d33643c",
+      "title": "Far-right victory in German state elections shocks the center",
+      "url": "https://breakthroughnews.org/2026/09/07/far-right-victory-in-german-state-elections-shocks-the-center",
+      "author": "Ana Vračar",
+      "source": "BT News",
+      "published_at": "2026-09-07T22:31:07+00:00",
+      "content_excerpt": "The far-right Alternative for Germany (AfD) secured a convincing victory in the Saxony-Anhalt state election on September 6, 2026. The election was marked by a high turnout of nearly 78% and took place amid a climate of widespread anger against federal policies implemented by the Merz administration – particularly attacks on social services and welfare, and ongoing militarization. The AfD won approximately 44% of the vote, more than double its result in the 2021 election. Chancellor Friedrich Merz’s Christian Democratic Union (CDU) saw its support halve to barely over 17%, followed by the Social Democrats (SPD), the Greens, and the progressive party Die Linke – all recording less than 10% of the vote. The Sahra Wagenknecht Alliance (BSW) crossed the 5% electoral threshold. Despite the resu",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/77d6421bc32e24156d33643c.json"
+    },
     {
       "id": "0d7cf809e6bf1561c396fe09",
       "title": "Inside the Australian Royal Commission turning anti-Zionism into a crime",
@@ -21,111 +201,6 @@
       "priority": 2,
       "date_missing": false,
       "article_path": "articles/0d7cf809e6bf1561c396fe09.json"
-    },
-    {
-      "id": "c72303d24552ecb09795df20",
-      "title": "Cerimedo: MAGA comes to Latin America",
-      "url": "https://mronline.org/2026/09/07/cerimedo-maga-comes-to-latin-america",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-09-07T12:48:40+00:00",
-      "content_excerpt": "An investigation published by the Cubadebate Media Observatory on August 24, 2026, reconstructed a web of business, communication, and political relationships that connects Argentinian businessman Fernando Cerimedo with Miami and Washington. The post Cerimedo: MAGA comes to Latin America appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/c72303d24552ecb09795df20.json"
-    },
-    {
-      "id": "b014621b60b8e025f482a274",
-      "title": "Keynes’s Unfinished Monetary Revolution",
-      "url": "https://mronline.org/2026/09/07/keyness-unfinished-monetary-revolution",
-      "author": "Michael Hudson",
-      "source": "MR Online",
-      "published_at": "2026-09-07T12:48:40+00:00",
-      "content_excerpt": "The Coming world depression requires a New International Economic Order led by Russia, China and Iran. The post Keynes’s Unfinished Monetary Revolution appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/b014621b60b8e025f482a274.json"
-    },
-    {
-      "id": "bba43f1f3901cf9cdb25933c",
-      "title": "Nonsense drones and Novichok",
-      "url": "https://mronline.org/2026/09/07/nonsense-drones-and-novichok",
-      "author": "Craig Murray",
-      "source": "MR Online",
-      "published_at": "2026-09-07T12:48:40+00:00",
-      "content_excerpt": "Europe urgently needs to re-establish access to Russian oil and gas. The post Nonsense drones and Novichok appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/bba43f1f3901cf9cdb25933c.json"
-    },
-    {
-      "id": "33beb2a74007f17ed33fa39c",
-      "title": "The extremism of moderates",
-      "url": "https://mronline.org/2026/09/07/the-extremism-of-moderates",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-09-07T12:48:40+00:00",
-      "content_excerpt": "As Donald Trump stirs up a fresh Red Scare by branding communism a “mortal threat” to the United States, corporate-backed “moderates” in the Democratic Party have launched their own moral crusade against a surging left flank. The post The extremism of moderates appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/33beb2a74007f17ed33fa39c.json"
-    },
-    {
-      "id": "f2c0512abfd93cfe6fd65fd4",
-      "title": "Why the IMF keeps returning",
-      "url": "https://mronline.org/2026/09/07/why-the-imf-keeps-returning",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-09-07T12:48:40+00:00",
-      "content_excerpt": "In 2022, Sri Lanka defaulted on its sovereign debt for the first time in its post-independence history. The post Why the IMF keeps returning appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/f2c0512abfd93cfe6fd65fd4.json"
-    },
-    {
-      "id": "e60aab65233f74f1beddc333",
-      "title": "Democracy Now! Marks 30 Years with Angela Davis, Bruce Springsteen, Patti Smith, Michael Stipe & More",
-      "url": "https://www.democracynow.org/2026/9/7/democracy_now_marks_30_years_with",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-09-07T12:32:16+00:00",
-      "content_excerpt": "This is a rush transcript. Copy may not be in its final form. AMY GOODMAN : In late March, over 2,000 people packed into the historic Riverside Church in New York to celebrate the 30th anniversary of Democracy Now! Today, in this special, we bring you highlights from the evening. Let’s go back to that night. AMY GOODMAN : It is our absolute honor to welcome you all here to Democracy Now! ’s 30th anniversary. It is hard to contemplate a celebration at this time, amidst the U.S.-Israeli war on Iran and other armed conflicts, rising authoritarianism, power-hungry billionaires and the worsening climate catastrophe, but gatherings like this are essential, to remind us that the gathering storm, despite the forces of oppression that threaten us all on the planet, there is a force more powerful. A",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/e60aab65233f74f1beddc333.json"
-    },
-    {
-      "id": "d37c5818f67c3ba7399e492d",
-      "title": "Inside Tacoma’s ICE detention center: worm-infested food, suicide, and neglect",
-      "url": "https://breakthroughnews.org/2026/09/07/inside-tacomas-ice-detention-center-worm-infested-food-suicide-and-neglect",
-      "author": "Sofie Villa",
-      "source": "BT News",
-      "published_at": "2026-09-07T11:28:23+00:00",
-      "content_excerpt": "At the Northwest ICE Processing Center in Tacoma, Washington, thousands of complaints have been lodged by immigrant detainees regarding dangerous living conditions: abuse, inedible food, prolonged isolation, and medical neglect. Despite more than 3,500 complaints being submitted to the Washington State Department of Health, GEO Group, operating the facility under a contract with ICE, has repeatedly refused to admit state inspectors. Opened in 2004 , the facility formerly known as the Northwest Detention Center (NWDC) has a stated bed space capacity of 1,575 people – one of the largest immigration prisons in the country. Its population hovered around 800 for a couple years before rising sharply after Trump’s second term began, with immigrant rights groups estimating that 1,400-1,500 people ",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/d37c5818f67c3ba7399e492d.json"
     }
   ]
 }

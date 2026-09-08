@@ -1,12 +1,162 @@
 {
-  "generated_at": "2026-09-07T22:12:47.139829+00:00",
-  "generated_at_jst": "2026-09-08T07:12:47.139829+09:00",
-  "period_start": "2026-09-06T16:12:47.139829+00:00",
+  "generated_at": "2026-09-08T21:57:52.805400+00:00",
+  "generated_at_jst": "2026-09-09T06:57:52.805400+09:00",
+  "period_start": "2026-09-07T15:57:52.805400+00:00",
   "lookback_hours": 30,
   "folder": "00_毎日確認",
-  "article_count": 9,
+  "article_count": 11,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "8a38e67029999a892bd67007",
+      "title": "Weekly Roundup: Sept 8, 2026",
+      "url": "https://dsasf.org/weekly-roundup-sept-8-2026",
+      "author": "San Francisco DSA",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-09-08T20:11:39+00:00",
+      "content_excerpt": "Events & Actions Tuesday September 8 (6:30 PM – 8:00 PM) Ecosocialism Working Group Bi-weekly Meeting (in person at 1916 McAllister St and on zoom) Wednesday September 9 (7:00 PM – 9:00 PM) DSA SF General Meeting (in person at Kelly Cullen Community 220 Golden Gate Ave and on zoom ) Sunday September 13 (1:00 PM – 2:30 PM) What Is DSA? (in person at 1916 McAllister St) Sunday September 13 (5:00 PM – 6:00 PM) Tenderloin Healing Circle Working Group (on zoom) Sunday September 13 (6:00 PM – 7:00 PM) Working Class Gender Liberation (Provisional) Working Group (in person at 1916 McAllister St, front room) Monday September 14 (6:00 PM – 8:00 PM) Tenderloin Healing Circle (in-person at Kelly Cullen Community 220 Golden Gate Ave) Monday September 14 (6:00 PM – 8:30 PM) Homelessness Working Group (i",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/8a38e67029999a892bd67007.json"
+    },
+    {
+      "id": "c16670678697af86f30e41b5",
+      "title": "Portland’s working waterfront is no place for professional soccer",
+      "url": "https://pineandroses.org/opinion/portlands-working-waterfront-is-no-place-for-professional-soccer",
+      "author": "Pine and Roses -- Maine DSA",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-09-08T20:11:39+00:00",
+      "content_excerpt": "I love the Hearts of Pine. Been to my share of games. Have spent hundreds of bucks on gear. I’m on a first name basis with one of the owners. And I appreciated the statement they made last month calling for accountability after ICE murdered Johan Sebastian Guerrero Duran. All that said, the city of Portland should not carve out an exception to our working waterfront zone in order to allow them to build a $50 million dollar soccer stadium on land protected for marine-based industries. Why? Well, soccer stadiums can operate anywhere. Cargo ships, barges, trawlers, and tugboats cannot. Nor can the longshoremen and women, stevedores, harbor pilots, and deckhands who service them. They need deep water ports, which is what the western waterfront provides. As background, a couple weeks ago, the H",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/c16670678697af86f30e41b5.json"
+    },
+    {
+      "id": "bdafbe219cc6855e28f10a8a",
+      "title": "Milwaukee Socialist Organizer Class – Register by October 4th!",
+      "url": "https://milwaukee.dsawi.org/milwaukee-socialist-organizer-class-register-by-october-4th",
+      "author": "Milwaukee DSA",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-09-08T20:11:39+00:00",
+      "content_excerpt": "Are you interested in becoming the best organizer you can be? Do you want to expand socialism here in Milwaukee, but are unsure of where and how to start? Have you been involved but feel like the project did not go anywhere? If you answered yes to any of these questions, the Milwaukee Socialist Organizer Class is for you! This eight week program will focus on holistically teaching you to be an unstoppable organizer who builds socialism, changes hearts and minds, and impacts our city. You will learn direct action organizing , as defined by Organizing for Social Change: Midwest Academy Manual for Activists, in which we organize actions, campaigns, and tactics to “1) win real, immediate, concrete improvement in people’s lives . . . 2) Give people a sense of their own power . . . 3) Alter the ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/bdafbe219cc6855e28f10a8a.json"
+    },
+    {
+      "id": "d194166f6d9b8187a989be47",
+      "title": "Gloria Steinem Was No Enemy of the Left",
+      "url": "https://www.inoreader.com/article/3a9c6e76048f7d5a",
+      "author": "Daniel Geary",
+      "source": "Jacobin",
+      "published_at": "2026-09-08T19:59:19+00:00",
+      "content_excerpt": "In 2016, Gloria Steinem backed Hillary Clinton and dismissed young women who supported Bernie Sanders as doing so only because “the boys are with Bernie.” (She later said she misspoke). After her death last week, Steinem has been extravagantly praised in the mainstream media. Is it any wonder, then, that some leftists see Gloria Steinem as the “godmother of neoliberal feminism”?Yet left-wing dismissals and establishment celebrations both have Steinem wrong.At the height of her influence in the 1960s and ’70s, when she was a leading spokesperson for women’s liberation, Steinem was very much on the Left. Far from representing feminism for the 1 percent, Steinem believed that feminism had to represent all women and fundamentally remake society. Like many other major figures of second-wave fem",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/d194166f6d9b8187a989be47.json"
+    },
+    {
+      "id": "22f5646759af9d257f28445d",
+      "title": "Is There a Way Out of AI Doomerism?",
+      "url": "https://www.inoreader.com/article/3a9c6e76047bd875",
+      "author": "Garrison Lovely",
+      "source": "Jacobin",
+      "published_at": "2026-09-08T17:24:08+00:00",
+      "content_excerpt": "Not long ago, a close friend of mine, a software engineer, was discussing how his job role had changed in recent months as his company had moved to adopt an “AI-first approach.” He explained that this approach had altered his team’s dynamics. He told me how he now dreads one question more than any other, one that has become a refrain around the office: “Why don’t you just give it to Claude?” ‘It’ is usually a difficult engineering problem to solve, one that has stumped the team for a little while, or longer than a few minutes at least, often during a technical discussion that only a few years ago might have lasted well over an hour. Invariably, he will give the problem to Claude who, invariably, will produce an impressive solution within a few minutes. He doesn’t mind that Claude has provi",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/22f5646759af9d257f28445d.json"
+    },
+    {
+      "id": "48662ca3cf0050a3d55e66db",
+      "title": "How the Left Can Win a Supermajority",
+      "url": "https://www.inoreader.com/article/3a9c6e760457cf18",
+      "author": "Jared Abbott",
+      "source": "Jacobin",
+      "published_at": "2026-09-08T15:21:57+00:00",
+      "content_excerpt": "Adam Jentleson’s Supermajority: How Democrats Can Build Lasting Power challenges us to think longer term about what it would take to halt the steady march of right-wing authoritarianism and deliver durable but long-overdue relief for working Americans. Its premise is simple: the only way to get from here to a basically social democratic future (not his words) is to consistently win supermajorities in Congress, and the only way to do that is for Democrats to become competitive again in more red states. Flipping a six-to-three Supreme Court means holding the Senate across multiple cycles, which means maintaining something near sixty seats. In 2009, Democrats held at least one Senate seat in thirty-six states, including Nebraska, Montana, Arkansas, West Virginia, and both Dakotas. Today they ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/48662ca3cf0050a3d55e66db.json"
+    },
+    {
+      "id": "fd8d58d1fb361a82cc0ab758",
+      "title": "Britain’s Health Crisis Is Becoming a Political Crisis",
+      "url": "https://www.inoreader.com/article/3a9c6e76045a2cc5",
+      "author": "Jatinder Hayre",
+      "source": "Jacobin",
+      "published_at": "2026-09-08T14:20:33+00:00",
+      "content_excerpt": "Britain is becoming a sicker country. A country in which millions of people can expect to spend an increasing share of their lives in poor health is not just a recipe for a social crisis but a political one too. The latest figures are extraordinary. Healthy life expectancy in the United Kingdom has fallen to its lowest level since the present Office for National Statistics series began in 2011 to 2013. A boy born today can expect around 60.7 years of good health; for a girl, the figure is 60.9. Yet even these averages conceal the more disturbing story. In the most deprived areas of England, healthy life expectancy is just 49.8 years for men and 48.2 for women. In the least deprived areas, it reaches 69.2 and 68.5 years, respectively. Measured across the deprivation gradient, the gap is 19.",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/fd8d58d1fb361a82cc0ab758.json"
+    },
+    {
+      "id": "dcee7539b2343e78beec0360",
+      "title": "Vermont Socialist: September 2026",
+      "url": "https://greenmountaindsa.org/blog/vermont-socialist-september-2026",
+      "author": "Green Mountain DSA",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-09-08T13:14:16+00:00",
+      "content_excerpt": "HAPPY LABOR DAY: A FESTIVAL OF RESISTANCE WITH VERMONT MAY DAY STRONG This Labor Day, join Vermont May Day Strong and your friends, neighbors, and fellow workers for a Festival of Resistance. We'll have free food, music, activities, tabling, and a few brief speeches from Vermont workers standing up against the Trump regime and the billionaire class. Whether it's healthcare workers fighting for safe staffing at UVM Medical Center, Healthy Living workers resisting anti-democratic union busting, or migrant workers organizing for their right to dignified work free from attacks by ICE and Border Patrol, Vermont's workers are standing up, pushing back, and doing so together. The Festival of Resistance is an opportunity for us to celebrate the organizing we have done, the power we continue to bui",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/dcee7539b2343e78beec0360.json"
+    },
+    {
+      "id": "e6c0a5754e384c523523cb48",
+      "title": "Germany’s Far Right Is Close to Power. Appeals to “Defend Democracy” Won’t Stop It.",
+      "url": "https://www.inoreader.com/article/3a9c6e7604369ef7",
+      "author": "Thomas Zimmermann",
+      "source": "Jacobin",
+      "published_at": "2026-09-08T12:14:59+00:00",
+      "content_excerpt": "In Sunday’s state election in Saxony-Anhalt, local Alternative für Deutschland (AfD) lead candidate Ulrich Siegmund ran on the slogan “Anything Is Possible.” Those same words could serve as the headline for political forecasts the day after the vote. For while the election produced a clear winner, it didn’t yield a definitive outcome. While the far-right AfD scored an impressive 43.8 percent of votes cast, it has not secured an absolute majority. Nor does the anti-AfD camp have a majority, as Sahra Wagenknecht’s party — Bündnis Sahra Wagenknecht (BW), a split from the socialist Die Linke — stands in between the two sides. If the AfD’s Siegmund is to be elected Saxony-Anhalt’s minister-president, he still needs three extra lawmakers in the state parliament on his side. One possibility is th",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/e6c0a5754e384c523523cb48.json"
+    },
+    {
+      "id": "e72c1b0b3bfd190c5f88a1cb",
+      "title": "Complicit Coverage",
+      "url": "https://democraticleft.dsausa.org/2026/09/08/gaza-review",
+      "author": "tfrasca@yahoo.com",
+      "source": "Democratic Left",
+      "published_at": "2026-09-08T11:31:45+00:00",
+      "content_excerpt": "Two new books document how U.S. media enable the Gaza genocide. The post Complicit Coverage appeared first on Democratic Left .",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/e72c1b0b3bfd190c5f88a1cb.json"
+    },
     {
       "id": "b94428ce313024d1fd5d78af",
       "title": "Rust Belt Rising",
@@ -21,126 +171,6 @@
       "priority": 1,
       "date_missing": false,
       "article_path": "articles/b94428ce313024d1fd5d78af.json"
-    },
-    {
-      "id": "36466cfe25f5f7e380abef00",
-      "title": "Reflecting on Willy Street",
-      "url": "https://redmadison.com/2026/09/06/reflecting-on-willy-street",
-      "author": "Red Madison -- Madison DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-09-07T14:25:24+00:00",
-      "content_excerpt": "Photos from the vigil and protests following the murder of Corey Ruiz, July 22–Aug. 4, 2026. If you’re in one of the photos and would like to be removed, you can contact us through the Submissions page.",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/36466cfe25f5f7e380abef00.json"
-    },
-    {
-      "id": "d395a923eec4be7599880cd9",
-      "title": "Disclosure Day and the Ultimate Other",
-      "url": "https://religioussocialism.org/disclosure-day-and-the-ultimate-other",
-      "author": "DSA Religion and Socialism Working Group",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-09-07T14:25:24+00:00",
-      "content_excerpt": "As someone with a space science background and a long-term interest in the search for extraterrestrial intelligence ( SETI ), I could not avoid the recent film on that topic, Disclosure Day . The film fits within the genre of UFO flicks dating back at least to the classic The Flying Saucer (1950) , the first film on the topic. The film’s release also coincides with recent testimonies of government officials claiming that the U.S. government is secretly studying and reverse-engineering extraterrestrial technology and the recent study by NASA on Unidentified Aerial Phenomena (UAPs). In Disclosure Day , the character Daniel Kellner (Josh O’Connor) goes rogue against his company, the Wardex Corporation, a government contractor that works with extraterrestrial technology and experiments on capt",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/d395a923eec4be7599880cd9.json"
-    },
-    {
-      "id": "7927b3152fe5b765ccf13240",
-      "title": "The Canton–Hong Kong Strike Changed China’s History",
-      "url": "https://www.inoreader.com/article/3a9c6e760596e0c3",
-      "author": "Promise Li",
-      "source": "Jacobin",
-      "published_at": "2026-09-07T13:01:26+00:00",
-      "content_excerpt": "A century ago, workers in Hong Kong and Guangzhou — then generally known in English as Canton — waged one of the longest continuous general strikes in history. At the time, foreign powers such as Britain and Japan had carved China into spheres of influence. Wave after wave of students’ and workers’ movements struggled against this imperialist control, especially the May Fourth Movement of 1919. This anti-imperialist upsurge reached a fever pitch on May 30, 1925. That day, the police opened fire on students who were marching toward the British-controlled part of Shanghai to protest the murder of a Chinese worker at a Japanese-owned cotton factory during a recent strike. The May 30 massacre spurred workers in Hong Kong, then under direct British colonial rule, to strike in June. The Canton–H",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/7927b3152fe5b765ccf13240.json"
-    },
-    {
-      "id": "56c36c25537e2e5fe725faeb",
-      "title": "Socialists Need Labor. And Labor Needs Socialists.",
-      "url": "https://www.inoreader.com/article/3a9c6e760596e0be",
-      "author": "Vivek Chibber",
-      "source": "Jacobin",
-      "published_at": "2026-09-07T13:01:26+00:00",
-      "content_excerpt": "Unions have more public support than just about anything else in the United States, and yet their membership has cratered. This poses an immense challenge to left-wing politicians who won’t be able to enact lasting change without a robust labor movement beside them. On this latest episode of the Jacobin Radio podcast Confronting Capitalism , Vivek Chibber addresses the age-old question of whether unions are inherently political, the importance (and limits) of internal democracy within unions, and why socialists have always been at the heart of the labor movement. Confronting Capitalism with Vivek Chibber is produced by Catalyst: A Journal of Theory and Strategy and published by Jacobin . You can listen to the full episode here . Cale Brooks Because this episode is coming out close to Labor",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/56c36c25537e2e5fe725faeb.json"
-    },
-    {
-      "id": "1d19c44f72225823298f642d",
-      "title": "Zohran Mamdani Just Created an Office of Worker Power",
-      "url": "https://www.inoreader.com/article/3a9c6e760596e0ae",
-      "author": "Zohran Mamdani",
-      "source": "Jacobin",
-      "published_at": "2026-09-07T13:01:26+00:00",
-      "content_excerpt": "On Thursday, Mayor Zohran Mamdani signed an executive order creating the Mayor’s Office of Worker Power (MOWP), the nation’s first municipal agency built to help workers organize. Tony Perlstein will run the MOWP, reporting to Deputy Mayor for Economic Justice Julie Su. A former longshoreman and union organizer born and raised in New York, Perlstein served as an organizing director for the United Auto Workers, where he helped lead a national campaign to lift pay and protect jobs from automation. As part of its mandate, the MOWP will regularly bring union leaders and rank-and-file members together to discuss worker issues and organizing drives. It also aims to reach unorganized workers, like immigrants and gig drivers, and connect them to worker centers and other resources. The office plans",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/1d19c44f72225823298f642d.json"
-    },
-    {
-      "id": "d4b42bd1439a059105e78930",
-      "title": "Curtain Closing on 2026 Primaries",
-      "url": "https://democraticleft.dsausa.org/2026/09/06/curtain-closing-on-2026-primaries",
-      "author": "Democratic Left",
-      "source": "Democratic Left",
-      "published_at": "2026-09-07T03:29:55+00:00",
-      "content_excerpt": "Plus a plan for universal healthcare in Pennsylvania, a stand with nurses in Boston, and two high-profile mayoral endorsements in this month’s edition of “Chapter and Verse.” The post Curtain Closing on 2026 Primaries appeared first on Democratic Left .",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/d4b42bd1439a059105e78930.json"
-    },
-    {
-      "id": "27aaf77465d3848e2fd03ac8",
-      "title": "For Labor Day, $20 Print Subscriptions Worldwide",
-      "url": "https://www.inoreader.com/article/3a9c6e76055f420c",
-      "author": "",
-      "source": "Jacobin",
-      "published_at": "2026-09-07T03:16:54+00:00",
-      "content_excerpt": "Labor Day isn’t the most exciting of holidays. It doesn’t quite have the verve or internationalism of May Day, and its meaning is overshadowed by important things like discounts on flat-screen TVs.But Labor Day was a real victory for the workers’ movement. As Tim Goulet writes in Jacobin, the holiday finds its roots in the most radical struggles of the nineteenth century. More than a decade before Grover Cleveland sanctioned a federal observance in 1894, Labor Day was marked by socialists and radical trade unionists.We might still prefer May Day, but hey, workers deserve at the very least two days to celebrate their contributions to society.Hopefully, we’re not mimicking the TV retailers too much, but we want to use the opportunity to share Jacobin with as many people as possible. We’re of",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/27aaf77465d3848e2fd03ac8.json"
-    },
-    {
-      "id": "91458672d16042df8f942801",
-      "title": "No, Seriously, Democratic Socialists Want to Abolish the Senate",
-      "url": "https://rocdsa.org/blog/no-seriously-democratic-socialists-want-to-abolish-the-senate",
-      "author": "Rochester Red Star: News from Rochester DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-09-06T18:34:34+00:00",
-      "content_excerpt": "by Gregory Lebens-Higgins On July 14, 2026, the national body of the Democratic Socialists of America released Workers Deserve More, a program outlining the organization’s goals and values. Workers Deserve More was drafted by a committee consisting of members of the National Political Committee, leaders of other national committees, and rank and file members following a process outlined by a resolution passed at DSA’s 2025 National Convention . Upon its release, Workers Deserve More received significant attention in mainstream media. The coverage has provided free advertising for DSA’s popular demands such as universal healthcare, improved working conditions, and replacing the two-party system with a multi-party democracy. Appearing on Fox News , DSA Co-Chair Megan Romer was pressed on the",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/91458672d16042df8f942801.json"
     }
   ]
 }
