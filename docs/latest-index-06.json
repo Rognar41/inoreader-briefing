@@ -1,12 +1,282 @@
 {
-  "generated_at": "2026-09-08T21:57:52.805400+00:00",
-  "generated_at_jst": "2026-09-09T06:57:52.805400+09:00",
-  "period_start": "2026-09-07T15:57:52.805400+00:00",
+  "generated_at": "2026-09-09T21:50:23.783496+00:00",
+  "generated_at_jst": "2026-09-10T06:50:23.783496+09:00",
+  "period_start": "2026-09-08T15:50:23.783496+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
-  "article_count": 13,
+  "article_count": 20,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "e17e9955d5b4c687a4446e99",
+      "title": "Trade unions in India say they should participate in determining minimum wage",
+      "url": "https://breakthroughnews.org/2026/09/09/trade-unions-in-india-say-they-should-participate-in-determining-minimum-wage",
+      "author": "Abdul Rahman",
+      "source": "BT News",
+      "published_at": "2026-09-09T21:47:17+00:00",
+      "content_excerpt": "Workers and leaders of the major trade unions in India came out to protest against the government’s decision to keep them out of the newly constructed Central Minimum Wage Advisory Board on Monday, September 7. The protest was called by the left-wing Center for Indian Trade Unions (CITU), the All India Trade Union Congress (AITUC), and the centrist Indian National Trade Union Congress (INTUC), for demanding proper representation in decisions related to salaries. The three are among India’s largest trade union federations with millions of members each, with AITUC being the oldest in the country. Protesters say that the central government led by ultra-right-wing Bharatiya Janata Party (BJP) is being vindictive towards them because they have been waging fierce struggles against the four new l",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/e17e9955d5b4c687a4446e99.json"
+    },
+    {
+      "id": "b64ac377ffad145ba13c4d7c",
+      "title": "Palestine Letter: Reporting our lives, not your ideology",
+      "url": "https://mondoweiss.net/2026/09/palestine-letter-reporting-our-lives-not-your-ideology",
+      "author": "Qassam Muaddi",
+      "source": "Mondoweiss",
+      "published_at": "2026-09-09T20:40:56+00:00",
+      "content_excerpt": "I didn't choose to make my identity political. But for Palestinian journalists, even naming our own grief and experiences gets branded as 'ideological'.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/b64ac377ffad145ba13c4d7c.json"
+    },
+    {
+      "id": "0ad127346bcbff045d7d5e42",
+      "title": "Confronting the ecological crisis",
+      "url": "https://tempestmag.org/2026/09/confronting-the-ecological-crisis",
+      "author": "Paul Fleckenstein",
+      "source": "Tempest",
+      "published_at": "2026-09-09T20:21:05+00:00",
+      "content_excerpt": "T he ecological crisis is upon us. It touches everywhere on the planet. Its character is complex, manifesting in floods, fires, disease, eradication of forests and fisheries. Interacting factors worsen globally connected catastrophes. Ian Angus’s Metabolic Rifts: Capitalism Assault on the Earth System makes an important contribution to understanding and guiding a socialist response to these compounding ecological crises. Angus is an ecological Marxist scholar and founding member of the Global Ecosocialist Network . Metabolic Rifts connects modern science, history, and Marxism’s metabolic rift theory. Angus says that our ecosocialist politics must be based on a concrete scientific understanding of how our world has evolved, how it is changing today, and where those changes may take us. The ",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/0ad127346bcbff045d7d5e42.json"
+    },
+    {
+      "id": "96a3621325be93a46edaeb21",
+      "title": "The UK was right to sanction Israeli settlements. Now it must do more to protect Palestinians under occupation.",
+      "url": "https://mondoweiss.net/2026/09/the-uk-was-right-to-sanction-israeli-settlements-now-it-must-do-more-to-protect-palestinians-under-occupation",
+      "author": "Rohan Talbot and Medical Aid for Palestinians",
+      "source": "Mondoweiss",
+      "published_at": "2026-09-09T19:08:34+00:00",
+      "content_excerpt": "In a historic move, the UK banned trade with Israeli settlements – a major step towards accountability for Israeli crimes. But it's not enough while Palestinians face daily state violence, harsh movement restrictions, and are still denied access to basic healthcare.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/96a3621325be93a46edaeb21.json"
+    },
+    {
+      "id": "ade8b5fbd2e19b669d4f90bf",
+      "title": "Meet 9/11 Health Watch, NYC Group Behind Mayor Mamdani’s Release of 170K Pages on Ground Zero Toxins",
+      "url": "https://www.democracynow.org/2026/9/9/9_11_records_release",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-09-09T15:19:04+00:00",
+      "content_excerpt": "Ahead of the 25th anniversary of the September 11 attacks, New York City Mayor Zohran Mamdani has unsealed more than 170,000 pages of records that offer new insights into how the city responded to the disaster. Some of the papers indicate that officials lied about the hazardous toxins that burned and remained near ground zero for months afterward, even as the government assured New Yorkers the air was safe to breathe and rushed to reopen Lower Manhattan for business. In addition to the nearly 3,000 people killed on 9/11, thousands more are believed to have died from illnesses related to the attacks, including from cancer, heart disease and respiratory conditions. “The Bush administration, the Giuliani administration all denied that there was an impact from these toxins,” says Benjamin Chev",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/ade8b5fbd2e19b669d4f90bf.json"
+    },
+    {
+      "id": "09aedd1b988593169eb6c5b6",
+      "title": "“Let’s Just Round Them Up”: The Rise of Islamophobia in the Post-9/11 Domestic War on Terror",
+      "url": "https://www.democracynow.org/2026/9/9/9_11_islamophobia",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-09-09T15:19:04+00:00",
+      "content_excerpt": "The attacks on September 11, 2001, unleashed a wave of Islamophobia in the United States that resulted in widespread harassment and persecution of Muslim Americans. In addition to vigilante attacks targeting Muslims or those perceived to be Muslim, there was also state repression including police roundups, community surveillance, prosecutions on often flimsy terrorism charges and mass deportations. Meanwhile, the wars launched by the United States in the aftermath of 9/11 have killed close to 1 million people in Afghanistan, Iraq, Pakistan, Yemen and elsewhere, according to the Costs of War Project at Brown University. “There were so many responses to 9/11. One was obviously fear and grief and shock, but another was rage. And so much of that rage was towards Muslims and those who looked li",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/09aedd1b988593169eb6c5b6.json"
+    },
+    {
+      "id": "2d6b3fb58e9d1028c1fec329",
+      "title": "Is Data Center Resistance a New Vehicle for Multiracial Democracy?",
+      "url": "https://convergencemag.com/articles/is-data-center-resistance-a-new-vehicle-for-multiracial-democracy",
+      "author": "Chandra Russo",
+      "source": "Convergence",
+      "published_at": "2026-09-09T14:31:45+00:00",
+      "content_excerpt": "When it comes to data centers, Americans are increasingly polling like a Dr. Seuss book. We would not like them here or there. We would not like them anywhere. Across partisan lines, politicians have gotten the message. Sure, Trump has called those who oppose data centers “backwards and poor.” Yet many other Republicans are warning that not taking a stronger stance against data centers will… Source",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/2d6b3fb58e9d1028c1fec329.json"
+    },
+    {
+      "id": "2ef704c7d12ff1a5fddb5a49",
+      "title": "Israel’s grip on American politics is finally being questioned",
+      "url": "https://mondoweiss.net/2026/09/israels-grip-on-american-politics-is-finally-being-questioned",
+      "author": "Philip Weiss",
+      "source": "Mondoweiss",
+      "published_at": "2026-09-09T13:26:54+00:00",
+      "content_excerpt": "From Iraq to Iran, the Israel lobby has, for decades, pushed America towards wars in the Middle East. But with Trump’s wildly unpopular Iran war, the unshakeable power of the Israel lobby is finally being called into question.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/2ef704c7d12ff1a5fddb5a49.json"
+    },
+    {
+      "id": "6e7422771e9885000f23676d",
+      "title": "Back-to-School Special: Students in many elite Universities will be taught a distorted history of the Vietnam War this year that recycles CIA talking points",
+      "url": "https://mronline.org/2026/09/09/back-to-school-special-students-in-many-elite-universities-will-be-taught-a-distorted-history-of-the-vietnam-war-this-year-that-recycles-cia-talking-points",
+      "author": "Jeremy Kuzmarov",
+      "source": "MR Online",
+      "published_at": "2026-09-09T13:22:56+00:00",
+      "content_excerpt": "The Vietnam War was a horrific war rooted in U.S. government lies that resulted in the deaths of some two million Vietnamese civilians. The post Back-to-School Special: Students in many elite Universities will be taught a distorted history of the Vietnam War this year that recycles CIA talking points appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/6e7422771e9885000f23676d.json"
+    },
+    {
+      "id": "a5a35c24c994552ca2f579e7",
+      "title": "Mamdani launches NYC Mayor’s Office of Worker Power",
+      "url": "https://mronline.org/2026/09/09/mamdani-launches-nyc-mayors-office-of-worker-power",
+      "author": "teleSUR Desk",
+      "source": "MR Online",
+      "published_at": "2026-09-09T12:22:25+00:00",
+      "content_excerpt": "New York City Mayor Zohran Mamdani has launched the Mayor’s Office of Worker Power to help workers organize, understand their rights and connect with unions and worker centers. The office will focus particularly on immigrants and undocumented workers vulnerable to workplace abuses. The post Mamdani launches NYC Mayor’s Office of Worker Power appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/a5a35c24c994552ca2f579e7.json"
+    },
+    {
+      "id": "810caaf0bd4fd374e91eeb69",
+      "title": "Newly created viruses are a warning. We still have a window to stop AI-enabled bioweapons",
+      "url": "https://mronline.org/2026/09/09/newly-created-viruses-are-a-warning-we-still-have-a-window-to-stop-ai-enabled-bioweapons",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-09-09T11:22:57+00:00",
+      "content_excerpt": "One prevention strategy is mandatory gene synthesis screening, an idea gaining traction among the highest levels of the AI industry and political leadership. The post Newly created viruses are a warning. We still have a window to stop AI-enabled bioweapons appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/810caaf0bd4fd374e91eeb69.json"
+    },
+    {
+      "id": "b33f8eb7066d7ac96e5a44f9",
+      "title": "Who was Wafaa Akila, the Gaza girl killed on her first day of school?",
+      "url": "https://mronline.org/2026/09/09/who-was-wafaa-akila-the-gaza-girl-killed-on-her-first-day-of-school",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-09-09T10:22:40+00:00",
+      "content_excerpt": "Nine-year-old Wafaa Akila was killed with her father in Gaza City after leaving school to buy supplies for the new year. The post Who was Wafaa Akila, the Gaza girl killed on her first day of school? appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/b33f8eb7066d7ac96e5a44f9.json"
+    },
+    {
+      "id": "d4401afe3ae4a54b0514bd7b",
+      "title": "The remarkable Starbucks uprising: Has the Labor Movement learned anything?",
+      "url": "https://mronline.org/2026/09/09/the-remarkable-starbucks-uprising-has-the-labor-movement-learned-anything",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-09-09T09:21:54+00:00",
+      "content_excerpt": "We are now well into the sixth year of the Starbucks Coffee organizing drive, certainly a remarkable movement by any measure. The post The remarkable Starbucks uprising: Has the Labor Movement learned anything? appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/d4401afe3ae4a54b0514bd7b.json"
+    },
+    {
+      "id": "022e0e3ac2e0f6e0cb3ffbbf",
+      "title": "US votes against UN resolution promoting maps reflecting Africa’s true size",
+      "url": "https://breakthroughnews.org/2026/09/09/us-votes-against-un-resolution-promoting-maps-reflecting-africas-true-size",
+      "author": "Nicholas Mwangi",
+      "source": "BT News",
+      "published_at": "2026-09-09T04:39:03+00:00",
+      "content_excerpt": "The United Nations General Assembly has backed an African-led initiative calling for a more accurate representation of the world’s continents, particularly Africa, in maps used in education, public communication, and other areas. On September 4, the General Assembly adopted the resolution titled “Correct the Map: Rebalancing Global Cartographic Representation and Promoting Equitable Representation of the World’s Regions, Particularly Africa.” The resolution was sponsored by Togo on behalf of the African Group and passed by an overwhelming 164 votes to one, with six countries, Estonia, Georgia, Lithuania, Moldova, Serbia, and Ukraine, abstaining. The United States was the only country to vote against it. Speaking before the vote, Yaryna Ferencevych, deputy US representative to the UN Econom",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/022e0e3ac2e0f6e0cb3ffbbf.json"
+    },
+    {
+      "id": "a7172308c9d5251795c3f16d",
+      "title": "Attempted murder accusations, troll farms, and presidential connections: the notorious case of Fernando Cerimedo",
+      "url": "https://breakthroughnews.org/2026/09/09/attempted-murder-accusations-troll-farms-and-presidential-connections-the-notorious-case-of-fernando-cerimedo",
+      "author": "Pablo Meriguet",
+      "source": "BT News",
+      "published_at": "2026-09-09T04:39:03+00:00",
+      "content_excerpt": "Several weeks ago, a video went viral in which Nadia Beller, speaking from a health clinic, accused her ex-partner, the Argentine Fernando Cerimedo, of ordering her murder in Santa Cruz, Bolivia. After undergoing surgery to remove two bullets from her body, Beller, who is pregnant, accused Cerimedo of being the mastermind behind the assassination attempt, but also warned that it was highly likely the justice system would be unable to act appropriately due to what she described as the close relationship between her ex-partner and Bolivia’s right-wing president, Rodrigo Paz. In addition, Beller accused Cerimedo of several acts of corruption linked to the Paz administration and the Bolivian president’s family, and posted photos on social media of wads of Bolivian currency allegedly linked to ",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/a7172308c9d5251795c3f16d.json"
+    },
+    {
+      "id": "938d1925b3be910e57fea88d",
+      "title": "Over 300 killed in Yemen in clashes between Ansar Allah and Saudi-backed forces",
+      "url": "https://breakthroughnews.org/2026/09/09/over-300-killed-in-yemen-in-clashes-between-ansar-allah-and-saudi-backed-forces",
+      "author": "Aseel Saleh",
+      "source": "BT News",
+      "published_at": "2026-09-09T03:39:26+00:00",
+      "content_excerpt": "Yemen once again emerged as a major flashpoint in West Asia after clashes between the Ansar Allah movement and Saudi-backed forces escalated in different parts of the country in early September. Media reports indicated that the Saudi-backed forces advanced across the provinces of Al-Jawf, Al-Bayda, Taiz, and Al-Hudaydah in a bid to dislodge Houthi positions. Meanwhile, the strategic Bab al-Mandeb Strait and the Red Sea remain key areas for clashes over territorial dominance. Moreover, the Saudi-backed forces revealed their intention to retake the capital Sanaa from Ansar Allah. Ansar Allah responded to the offensive with ground counter-attacks against the Saudi-backed forces, and launched long-range missile and drone strikes on infrastructure in southern Saudi Arabia. This includes facilit",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/938d1925b3be910e57fea88d.json"
+    },
+    {
+      "id": "b4b86dc5d74342c3ddfedb77",
+      "title": "Blueprints for Donor-Advised Funding w/ Beezer de Martelly and Fatema Ahmad",
+      "url": "https://convergencemag.com/podcast/blueprints-for-donor-advised-funding-w-beezer-de-martelly-and-fatema-ahmad",
+      "author": "Cayden Mak",
+      "source": "Convergence",
+      "published_at": "2026-09-08T23:35:25+00:00",
+      "content_excerpt": "Listeners may be familiar with stories from the past few years about left and movement organizations coming under legal attack. These include an indictment against the Southern Poverty Law Center on fraud charges, claiming their strategy of paying informants to expose extremist groups is fraud. Or bad faith accusations by Israel against UNWRA, a relief agency of the United Nations tasked with… Source",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/b4b86dc5d74342c3ddfedb77.json"
+    },
+    {
+      "id": "aa96de6db2f547f53d747317",
+      "title": "Croatians demand their government stop importing toxic waste",
+      "url": "https://breakthroughnews.org/2026/09/08/croatians-demand-their-government-stop-importing-toxic-waste",
+      "author": "Ana Vračar",
+      "source": "BT News",
+      "published_at": "2026-09-08T22:36:30+00:00",
+      "content_excerpt": "On Saturday, September 5, around 100,000 people took to the streets of Zagreb to protest against illegal toxic waste disposal in the Lika region. The mobilization, one of the most notable in recent years, brought together diverse networks from all over Croatia. Protesters demanded not only the clearing of the affected areas in Gospić, but also accountability from the government and a pledge to temporarily halt waste imports into the country. This final demand relates to the fact that tens of thousands of tons of illegal waste found at several dumping sites across the country originated from Slovenia, Italy, and Germany. Zagreb’s central square was filled with protesters on Saturday. Source: Gospić je naš dom/Facebook The protest built upon over a year of campaigning by local groups in Gosp",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/aa96de6db2f547f53d747317.json"
+    },
     {
       "id": "ca3edf7b4f7ce7137257821a",
       "title": "Somalia on the brink of mass starvation: a vortex of climate shocks, war, and aid cuts",
@@ -36,171 +306,6 @@
       "priority": 2,
       "date_missing": false,
       "article_path": "articles/c795742d0a25c2d6c48c9a0b.json"
-    },
-    {
-      "id": "512b77a089abc6d61ac1b250",
-      "title": "Iran reverses the asymmetry",
-      "url": "https://breakthroughnews.org/2026/09/08/iran-reverses-the-asymmetry",
-      "author": "Vijay Prashad",
-      "source": "BT News",
-      "published_at": "2026-09-08T19:36:18+00:00",
-      "content_excerpt": "On September 2, fragments from a US missile tore through the roof of a wedding celebration in Kuhestak, in Iran’s southern county of Sirik. Four people were killed, including a child, and 68 were wounded. The United States has made a custom of bombing weddings – in Afghanistan, Iraq, Yemen, and now Iran. When US Vice-President JD Vance was asked about the dead, he shrugged: “Things happen.” The sentence should be entered into the record of this war. Imperialism turns other people’s catastrophes into the passive voice. The attack on the wedding was part of a new round of US strikes along Iran’s southern coast and around the Strait of Hormuz. Washington said that it had targeted missile and mine-laying capabilities. Tehran replied with missiles and drones against US facilities in Jordan, Bah",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/512b77a089abc6d61ac1b250.json"
-    },
-    {
-      "id": "cc4dec65db1385fe00a29d37",
-      "title": "“Toxic Nightmare”: 25 Years After 9/11, Juan González on His Predictions of Worker Illness & Death",
-      "url": "https://www.democracynow.org/2026/9/8/toxic_nightmare_25_years_after_9",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-09-08T15:22:51+00:00",
-      "content_excerpt": "Twenty-five years after September 11, 2001, more people are believed to have died from cancer, respiratory and other illnesses due to exposure to the airborne toxins than the nearly 3,000 people killed in the attacks on the World Trade Center. In the weeks and months that followed 9/11, former New York City Mayors Rudy Giuliani and Michael Bloomberg, as well as other city and federal officials, reassured residents and workers it was safe to return to the area surrounding ground zero, concealing the dangers of lingering toxins in the air after the collapse of the twin towers. Democracy Now! co-host Juan González reads from his book, Fallout , in which he extensively reported on the toxic nightmare around ground zero. “No one could guarantee the air around Ground Zero was safe because no one",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/cc4dec65db1385fe00a29d37.json"
-    },
-    {
-      "id": "2e4af411a2c4921cbcebca4c",
-      "title": "Firefighter, EMT, Stuyvesant High School Student Describe 9/11 Exposure & Long Fight for Healthcare",
-      "url": "https://www.democracynow.org/2026/9/8/firefighter_emt_stuyvesant_high_school_student",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-09-08T15:22:51+00:00",
-      "content_excerpt": "Twenty-five years after the 9/11 attacks, many New York City residents are still grappling with complicated health conditions related to exposure to the toxic air and debris around ground zero. “We were digging through the pile and using rakes to spread out all the debris to look for anyone’s remains,” says retired New York City firefighter Brenda Berkman. “We were working alongside really heavy equipment, as time went on, that picked up big loads of debris and dumped it, creating a cloud. This went on for 10 months. And at first, there was no proper decontamination at all.” “ EMS personnel were told, 'Oh, you couldn't be getting sick. You’re not a firefighter. So don’t worry. Just go back to work,’” says retired New York City EMT Marianne Pizzitola. “Moving into the years right after, … w",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/2e4af411a2c4921cbcebca4c.json"
-    },
-    {
-      "id": "ef6f6bb9ecf80873320bfc56",
-      "title": "“People I Flew with All the Time”: Flight Attendant Union Head Sara Nelson Remembers 9/11 Victims",
-      "url": "https://www.democracynow.org/2026/9/8/people_i_flew_with_all_the",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-09-08T15:22:51+00:00",
-      "content_excerpt": "We speak with Sara Nelson, the international president of the Association of Flight Attendants, about how flight attendants were affected by the 9/11 attacks. Nelson was working in Chicago that day, but she lost five of her friends, who were fellow flight attendants, in the attacks. “My handbook is in the 9/11 Memorial Museum, that gave us the exact wrong training for that day. We were told to keep everyone calm, appease the hijackers.” “Eighty-one billion dollars was given back by workers in the wake of 9/11, including transferring the cost of healthcare to us, destroying retiree healthcare, destroying pensions. And we’re still trying to fight to get that back,” adds Nelson.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/ef6f6bb9ecf80873320bfc56.json"
-    },
-    {
-      "id": "63bf5a29e7e61c430afd2dab",
-      "title": "25 Years After 9/11: Cover-Up of Air Quality Risk Proved to Be “Death Sentence” for Thousands",
-      "url": "https://www.democracynow.org/2026/9/8/25_years_after_9_11_cover",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-09-08T15:22:51+00:00",
-      "content_excerpt": "Bob Hennelly, general manager of WBAI Pacifica Radio in New York, broadcast live during the September 11 attacks in 2001 and has been covering developments ever since. He says officials rushed to reopen the city after the disaster, despite the health risks from toxic air and debris around ground zero. “There was no Zoom back then,” Hennelly says. “People were ordered back to their desks in Lower Manhattan, which turned out to be a death sentence.” Please check back later for full transcript.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/63bf5a29e7e61c430afd2dab.json"
-    },
-    {
-      "id": "8b6966c97808e9ea54066f54",
-      "title": "Walking on Two Legs: The Socialism of Chinese Modernisation",
-      "url": "https://thetricontinental.org/dossier-chinese-modernisation",
-      "author": "",
-      "source": "[:en]THE TRICONTINENTAL[:es]TRICONTINENTAL[:]",
-      "published_at": "2026-09-08T08:06:37+00:00",
-      "content_excerpt": "The artwork in this dossier was produced by Tricontinental: Institute for Social Research. Socialism is the path that the Chinese people chose to enter modernity. As President Xi Jinping stated at the 20th National Congress of the Communist Party of China, ‘Chinese modernisation is socialist modernisation pursued under the leadership of the Communist Party of China’. 1 In China, ‘modernisation’ (现代化) is understood in dialectical opposition to the ‘century of humiliation’ (百年国耻), the period of imperialist subjugation that extended from the First Opium War (1839–1842) until the victory of the Chinese Revolution in 1949. Chinese modernisation refers to a progressive historical process rooted in China’s particular conditions and directed towards socialism. The Chinese conception of modernisati",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/8b6966c97808e9ea54066f54.json"
-    },
-    {
-      "id": "c1979b97f086fb28c9229ec0",
-      "title": "BT LIVE: AfD Wins Big in Germany | Israel’s Gaza Mass Expulsion Plan | Meta Targets Teens",
-      "url": "https://breakthroughnews.org/2026/09/08/september-8-2026",
-      "author": "BreakThrough News",
-      "source": "BT News",
-      "published_at": "2026-09-08T01:32:29+00:00",
-      "content_excerpt": "This content is for members only. Visit the site and log in/register to read.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/c1979b97f086fb28c9229ec0.json"
-    },
-    {
-      "id": "254eb8949ede0dd28cd52390",
-      "title": "Iran warns South Korea against joining US military actions in Strait of Hormuz",
-      "url": "https://breakthroughnews.org/2026/09/08/iran-warns-south-korea-against-joining-us-military-actions-in-strait-of-hormuz",
-      "author": "Abdul Rahman",
-      "source": "BT News",
-      "published_at": "2026-09-08T01:32:29+00:00",
-      "content_excerpt": "Iran warned South Korea of serious consequences if it joins the US military efforts against it in the Strait of Hormuz and asked it to not yield to US pressure and threats to become “complicit in aggressive acts and horrific crimes” against the Iranian people. “Iranian people are defending themselves against America’s aggressive actions, and in a situation where they are resolutely responding to America’s war crimes against women and children” any country participating in its military activities in any way “can only be regarded as directly supporting the perpetrators of the aggression,” Baghaei said in the post on X on Monday, September 7. He underlined that the 64 years old friendly relationship between Iran and South Korea has “consistently developed on mutual respect” and his country “p",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/254eb8949ede0dd28cd52390.json"
-    },
-    {
-      "id": "4f0e3fc4da809a26a70a522a",
-      "title": "China says regional integration is the path to security in West Asia",
-      "url": "https://breakthroughnews.org/2026/09/07/china-says-regional-integration-is-the-path-to-security-in-west-asia",
-      "author": "Abdul Rahman",
-      "source": "BT News",
-      "published_at": "2026-09-07T23:31:53+00:00",
-      "content_excerpt": "Chinese President Xi Jinping underlined the need for stronger international coordination for common security in West Asia and a reaffirmation of the UN Charter and international law. Xi demanded external powers must respect sovereignty and territorial integrity of the countries in the region and stop interfering in their internal affairs. China is ready to work with the countries in the region to “safeguard the security of international shipping lanes, advance development cooperation, promote the convergence of interests of regional countries, gradually enhance mutual trust, and eliminate root causes of the conflict,” Xi proposed . Xi made the statement during his two day state visit to Egypt on Wednesday, September 2. This was his first state visit to the country in 10 years. Xi’s visit c",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/4f0e3fc4da809a26a70a522a.json"
-    },
-    {
-      "id": "77d6421bc32e24156d33643c",
-      "title": "Far-right victory in German state elections shocks the center",
-      "url": "https://breakthroughnews.org/2026/09/07/far-right-victory-in-german-state-elections-shocks-the-center",
-      "author": "Ana Vračar",
-      "source": "BT News",
-      "published_at": "2026-09-07T22:31:07+00:00",
-      "content_excerpt": "The far-right Alternative for Germany (AfD) secured a convincing victory in the Saxony-Anhalt state election on September 6, 2026. The election was marked by a high turnout of nearly 78% and took place amid a climate of widespread anger against federal policies implemented by the Merz administration – particularly attacks on social services and welfare, and ongoing militarization. The AfD won approximately 44% of the vote, more than double its result in the 2021 election. Chancellor Friedrich Merz’s Christian Democratic Union (CDU) saw its support halve to barely over 17%, followed by the Social Democrats (SPD), the Greens, and the progressive party Die Linke – all recording less than 10% of the vote. The Sahra Wagenknecht Alliance (BSW) crossed the 5% electoral threshold. Despite the resu",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/77d6421bc32e24156d33643c.json"
-    },
-    {
-      "id": "0d7cf809e6bf1561c396fe09",
-      "title": "Inside the Australian Royal Commission turning anti-Zionism into a crime",
-      "url": "https://mondoweiss.net/2026/09/inside-the-australian-royal-commission-turning-anti-zionism-into-a-crime",
-      "author": "Lana Tatour and Noam Peleg",
-      "source": "Mondoweiss",
-      "published_at": "2026-09-07T20:41:03+00:00",
-      "content_excerpt": "Australia's Royal Commission into Antisemitism has spent months letting Zionist witnesses deny genocide and recast Palestine solidarity as hate, laying the groundwork to criminalize protest, speech, and scholarship on Palestine for years to come.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/0d7cf809e6bf1561c396fe09.json"
     }
   ]
 }

@@ -1,176 +1,311 @@
 {
-  "generated_at": "2026-09-08T21:57:52.805400+00:00",
-  "generated_at_jst": "2026-09-09T06:57:52.805400+09:00",
-  "period_start": "2026-09-07T15:57:52.805400+00:00",
+  "generated_at": "2026-09-09T21:50:23.783496+00:00",
+  "generated_at_jst": "2026-09-10T06:50:23.783496+09:00",
+  "period_start": "2026-09-08T15:50:23.783496+00:00",
   "lookback_hours": 30,
   "folder": "00_毎日確認",
-  "article_count": 11,
+  "article_count": 20,
   "excerpt_chars": 800,
   "articles": [
     {
-      "id": "8a38e67029999a892bd67007",
-      "title": "Weekly Roundup: Sept 8, 2026",
-      "url": "https://dsasf.org/weekly-roundup-sept-8-2026",
-      "author": "San Francisco DSA",
+      "id": "692ecc7c666bf1c95cc341a9",
+      "title": "OPINION: Where Does MA’s Movement for Affordable Housing Go From Here?",
+      "url": "https://bostondsa.org/2026/09/09/opinion-where-does-mas-movement-for-affordable-housing-go-from-here",
+      "author": "Boston DSA",
       "source": "DSA Feed - Global",
-      "published_at": "2026-09-08T20:11:39+00:00",
-      "content_excerpt": "Events & Actions Tuesday September 8 (6:30 PM – 8:00 PM) Ecosocialism Working Group Bi-weekly Meeting (in person at 1916 McAllister St and on zoom) Wednesday September 9 (7:00 PM – 9:00 PM) DSA SF General Meeting (in person at Kelly Cullen Community 220 Golden Gate Ave and on zoom ) Sunday September 13 (1:00 PM – 2:30 PM) What Is DSA? (in person at 1916 McAllister St) Sunday September 13 (5:00 PM – 6:00 PM) Tenderloin Healing Circle Working Group (on zoom) Sunday September 13 (6:00 PM – 7:00 PM) Working Class Gender Liberation (Provisional) Working Group (in person at 1916 McAllister St, front room) Monday September 14 (6:00 PM – 8:00 PM) Tenderloin Healing Circle (in-person at Kelly Cullen Community 220 Golden Gate Ave) Monday September 14 (6:00 PM – 8:30 PM) Homelessness Working Group (i",
+      "published_at": "2026-09-09T20:01:21+00:00",
+      "content_excerpt": "[[{“value”:” Dense housing in Massachusetts, all rented to tenants, all suffering from rent hikes (Working Mass) Released By: Central Massachusetts & Worcester DSA Program Committee WORCESTER – Massachusetts has some of the most rent-burdened tenants in a country where the crisis is ubiquitous . Every year in Massachusetts, thousands of working-class people are pushed onto the streets, three-quarters of which are families with children , while their landlords continue to raise rents higher and higher. This state of affairs has forced many to leave Massachusetts altogether, but the reality for those most threatened by rent gouging is that leaving their homes, jobs, and lives behind to look elsewhere simply isn’t an option. Even for those of us with a little extra in our paychecks, rent is i",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/8a38e67029999a892bd67007.json"
+      "article_path": "articles/692ecc7c666bf1c95cc341a9.json"
     },
     {
-      "id": "c16670678697af86f30e41b5",
-      "title": "Portland’s working waterfront is no place for professional soccer",
-      "url": "https://pineandroses.org/opinion/portlands-working-waterfront-is-no-place-for-professional-soccer",
-      "author": "Pine and Roses -- Maine DSA",
+      "id": "1f894bd84dd311746c738154",
+      "title": "The Amazonopticon and the Antiunion Arsenal",
+      "url": "https://bostondsa.org/2026/09/09/the-amazonopticon-and-the-antiunion-arsenal",
+      "author": "Boston DSA",
       "source": "DSA Feed - Global",
-      "published_at": "2026-09-08T20:11:39+00:00",
-      "content_excerpt": "I love the Hearts of Pine. Been to my share of games. Have spent hundreds of bucks on gear. I’m on a first name basis with one of the owners. And I appreciated the statement they made last month calling for accountability after ICE murdered Johan Sebastian Guerrero Duran. All that said, the city of Portland should not carve out an exception to our working waterfront zone in order to allow them to build a $50 million dollar soccer stadium on land protected for marine-based industries. Why? Well, soccer stadiums can operate anywhere. Cargo ships, barges, trawlers, and tugboats cannot. Nor can the longshoremen and women, stevedores, harbor pilots, and deckhands who service them. They need deep water ports, which is what the western waterfront provides. As background, a couple weeks ago, the H",
+      "published_at": "2026-09-09T20:01:21+00:00",
+      "content_excerpt": "[[{“value”:” By: Matt Wolfinger With Flock and Axon cameras on every corner, commuting to work for the average American means becoming an unwilling participant in a nationwide web of mass surveillance. Even clocking at work won’t protect them from the all-seeing AI – workplace surveillance systems can track them with even more precision, collecting data on the speed of their work, who they talk to and most importantly, if they’re planning to unionize. Labor organizing in the United States is growing more popular. A 2025 poll from Gallup found that nearly 70 percent of Americans approve of labor unions, while recent polling shows labor unions have reached a near-historic high of 72%. Despite their popularity, only 10 percent of workers in the U.S. are union members. This isn’t for lack of t",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/c16670678697af86f30e41b5.json"
+      "article_path": "articles/1f894bd84dd311746c738154.json"
     },
     {
-      "id": "bdafbe219cc6855e28f10a8a",
-      "title": "Milwaukee Socialist Organizer Class – Register by October 4th!",
-      "url": "https://milwaukee.dsawi.org/milwaukee-socialist-organizer-class-register-by-october-4th",
-      "author": "Milwaukee DSA",
+      "id": "b3dc587dd4c41ed5479fdc9d",
+      "title": "Build the Future of DSA – 9/12",
+      "url": "https://dsaventuracounty.org/2026/09/09/build-the-future-of-dsa-9-12",
+      "author": "DSA Ventura County",
       "source": "DSA Feed - Global",
-      "published_at": "2026-09-08T20:11:39+00:00",
-      "content_excerpt": "Are you interested in becoming the best organizer you can be? Do you want to expand socialism here in Milwaukee, but are unsure of where and how to start? Have you been involved but feel like the project did not go anywhere? If you answered yes to any of these questions, the Milwaukee Socialist Organizer Class is for you! This eight week program will focus on holistically teaching you to be an unstoppable organizer who builds socialism, changes hearts and minds, and impacts our city. You will learn direct action organizing , as defined by Organizing for Social Change: Midwest Academy Manual for Activists, in which we organize actions, campaigns, and tactics to “1) win real, immediate, concrete improvement in people’s lives . . . 2) Give people a sense of their own power . . . 3) Alter the ",
+      "published_at": "2026-09-09T20:01:21+00:00",
+      "content_excerpt": "DSA has announced its Workers Deserve More program to fight for a better world. Are you interested in DSA? Are you interested in building a better world? Then come to this meeting and help us launch our planning for our Solidarity Initiatives. We would like to hear from you on our planning process, considerations, and your early ideas about how we can strengthen our movement. Housing Justice, Healthcare for all, Educational for all, labor justice and more are all on the table. But we need your help to get it done. RSVP and join the movement. RSVP HERE",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/bdafbe219cc6855e28f10a8a.json"
+      "article_path": "articles/b3dc587dd4c41ed5479fdc9d.json"
     },
     {
-      "id": "d194166f6d9b8187a989be47",
-      "title": "Gloria Steinem Was No Enemy of the Left",
-      "url": "https://www.inoreader.com/article/3a9c6e76048f7d5a",
-      "author": "Daniel Geary",
-      "source": "Jacobin",
-      "published_at": "2026-09-08T19:59:19+00:00",
-      "content_excerpt": "In 2016, Gloria Steinem backed Hillary Clinton and dismissed young women who supported Bernie Sanders as doing so only because “the boys are with Bernie.” (She later said she misspoke). After her death last week, Steinem has been extravagantly praised in the mainstream media. Is it any wonder, then, that some leftists see Gloria Steinem as the “godmother of neoliberal feminism”?Yet left-wing dismissals and establishment celebrations both have Steinem wrong.At the height of her influence in the 1960s and ’70s, when she was a leading spokesperson for women’s liberation, Steinem was very much on the Left. Far from representing feminism for the 1 percent, Steinem believed that feminism had to represent all women and fundamentally remake society. Like many other major figures of second-wave fem",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/d194166f6d9b8187a989be47.json"
-    },
-    {
-      "id": "22f5646759af9d257f28445d",
-      "title": "Is There a Way Out of AI Doomerism?",
-      "url": "https://www.inoreader.com/article/3a9c6e76047bd875",
-      "author": "Garrison Lovely",
-      "source": "Jacobin",
-      "published_at": "2026-09-08T17:24:08+00:00",
-      "content_excerpt": "Not long ago, a close friend of mine, a software engineer, was discussing how his job role had changed in recent months as his company had moved to adopt an “AI-first approach.” He explained that this approach had altered his team’s dynamics. He told me how he now dreads one question more than any other, one that has become a refrain around the office: “Why don’t you just give it to Claude?” ‘It’ is usually a difficult engineering problem to solve, one that has stumped the team for a little while, or longer than a few minutes at least, often during a technical discussion that only a few years ago might have lasted well over an hour. Invariably, he will give the problem to Claude who, invariably, will produce an impressive solution within a few minutes. He doesn’t mind that Claude has provi",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/22f5646759af9d257f28445d.json"
-    },
-    {
-      "id": "48662ca3cf0050a3d55e66db",
-      "title": "How the Left Can Win a Supermajority",
-      "url": "https://www.inoreader.com/article/3a9c6e760457cf18",
-      "author": "Jared Abbott",
-      "source": "Jacobin",
-      "published_at": "2026-09-08T15:21:57+00:00",
-      "content_excerpt": "Adam Jentleson’s Supermajority: How Democrats Can Build Lasting Power challenges us to think longer term about what it would take to halt the steady march of right-wing authoritarianism and deliver durable but long-overdue relief for working Americans. Its premise is simple: the only way to get from here to a basically social democratic future (not his words) is to consistently win supermajorities in Congress, and the only way to do that is for Democrats to become competitive again in more red states. Flipping a six-to-three Supreme Court means holding the Senate across multiple cycles, which means maintaining something near sixty seats. In 2009, Democrats held at least one Senate seat in thirty-six states, including Nebraska, Montana, Arkansas, West Virginia, and both Dakotas. Today they ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/48662ca3cf0050a3d55e66db.json"
-    },
-    {
-      "id": "fd8d58d1fb361a82cc0ab758",
-      "title": "Britain’s Health Crisis Is Becoming a Political Crisis",
-      "url": "https://www.inoreader.com/article/3a9c6e76045a2cc5",
-      "author": "Jatinder Hayre",
-      "source": "Jacobin",
-      "published_at": "2026-09-08T14:20:33+00:00",
-      "content_excerpt": "Britain is becoming a sicker country. A country in which millions of people can expect to spend an increasing share of their lives in poor health is not just a recipe for a social crisis but a political one too. The latest figures are extraordinary. Healthy life expectancy in the United Kingdom has fallen to its lowest level since the present Office for National Statistics series began in 2011 to 2013. A boy born today can expect around 60.7 years of good health; for a girl, the figure is 60.9. Yet even these averages conceal the more disturbing story. In the most deprived areas of England, healthy life expectancy is just 49.8 years for men and 48.2 for women. In the least deprived areas, it reaches 69.2 and 68.5 years, respectively. Measured across the deprivation gradient, the gap is 19.",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/fd8d58d1fb361a82cc0ab758.json"
-    },
-    {
-      "id": "dcee7539b2343e78beec0360",
-      "title": "Vermont Socialist: September 2026",
-      "url": "https://greenmountaindsa.org/blog/vermont-socialist-september-2026",
-      "author": "Green Mountain DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-09-08T13:14:16+00:00",
-      "content_excerpt": "HAPPY LABOR DAY: A FESTIVAL OF RESISTANCE WITH VERMONT MAY DAY STRONG This Labor Day, join Vermont May Day Strong and your friends, neighbors, and fellow workers for a Festival of Resistance. We'll have free food, music, activities, tabling, and a few brief speeches from Vermont workers standing up against the Trump regime and the billionaire class. Whether it's healthcare workers fighting for safe staffing at UVM Medical Center, Healthy Living workers resisting anti-democratic union busting, or migrant workers organizing for their right to dignified work free from attacks by ICE and Border Patrol, Vermont's workers are standing up, pushing back, and doing so together. The Festival of Resistance is an opportunity for us to celebrate the organizing we have done, the power we continue to bui",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/dcee7539b2343e78beec0360.json"
-    },
-    {
-      "id": "e6c0a5754e384c523523cb48",
-      "title": "Germany’s Far Right Is Close to Power. Appeals to “Defend Democracy” Won’t Stop It.",
-      "url": "https://www.inoreader.com/article/3a9c6e7604369ef7",
-      "author": "Thomas Zimmermann",
-      "source": "Jacobin",
-      "published_at": "2026-09-08T12:14:59+00:00",
-      "content_excerpt": "In Sunday’s state election in Saxony-Anhalt, local Alternative für Deutschland (AfD) lead candidate Ulrich Siegmund ran on the slogan “Anything Is Possible.” Those same words could serve as the headline for political forecasts the day after the vote. For while the election produced a clear winner, it didn’t yield a definitive outcome. While the far-right AfD scored an impressive 43.8 percent of votes cast, it has not secured an absolute majority. Nor does the anti-AfD camp have a majority, as Sahra Wagenknecht’s party — Bündnis Sahra Wagenknecht (BW), a split from the socialist Die Linke — stands in between the two sides. If the AfD’s Siegmund is to be elected Saxony-Anhalt’s minister-president, he still needs three extra lawmakers in the state parliament on his side. One possibility is th",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/e6c0a5754e384c523523cb48.json"
-    },
-    {
-      "id": "e72c1b0b3bfd190c5f88a1cb",
-      "title": "Complicit Coverage",
-      "url": "https://democraticleft.dsausa.org/2026/09/08/gaza-review",
-      "author": "tfrasca@yahoo.com",
+      "id": "c51e6b183ecc8948027577fe",
+      "title": "The Left Contends for Leadership in Berlin",
+      "url": "https://democraticleft.dsausa.org/2026/09/09/the-left-contends-for-leadership-in-berlin",
+      "author": "Democratic Left",
       "source": "Democratic Left",
-      "published_at": "2026-09-08T11:31:45+00:00",
-      "content_excerpt": "Two new books document how U.S. media enable the Gaza genocide. The post Complicit Coverage appeared first on Democratic Left .",
+      "published_at": "2026-09-09T18:31:34+00:00",
+      "content_excerpt": "An interview with Die Linke’s Berlin vice-chair on the party’s growth, expropriating big landlords, and the developing art of German canvassing. The post The Left Contends for Leadership in Berlin appeared first on Democratic Left .",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/e72c1b0b3bfd190c5f88a1cb.json"
+      "article_path": "articles/c51e6b183ecc8948027577fe.json"
     },
     {
-      "id": "b94428ce313024d1fd5d78af",
-      "title": "Rust Belt Rising",
-      "url": "https://rocdsa.org/blog/rust-belt-rising",
-      "author": "Rochester Red Star: News from Rochester DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-09-07T20:21:52+00:00",
-      "content_excerpt": "by Hannah W. The first ever Rust Belt Rising conference was held on August 15th and 16th here in Rochester. This was organized by Workers Assembly of Rochester (WAR), an independent organization of local labor activists, including DSA members, union staffers and organizers. Local labor leaders, rank and file members and members of community organizations gathered to discuss and learn about the role of the labor movement in Rochester, and how we can move it to be more militant and left. Opening Keynote The opening keynote was a panel containing Colin, an organizer with the Teamsters Local 118, Christina, President of the Federation of Social Workers and Max from Buffalo DSA and Field Director for the Adam Bojak Campaign. The topic was How to Build an Independent Worker Program, which I thin",
+      "id": "35ed5c97090602448893ee19",
+      "title": "The Beatles Belong to Us",
+      "url": "https://www.inoreader.com/article/3a9c6e767b2f30ac",
+      "author": "Alex Niven",
+      "source": "Jacobin",
+      "published_at": "2026-09-09T16:55:25+00:00",
+      "content_excerpt": "As we enter the late 2020s, the legacy of the Beatles — history’s biggest band, by any measure — is facing a final reckoning. Paul McCartney and Ringo Starr, the group’s last surviving members, are now eighty-four and eighty-six, respectively. This should remind us that what might be called the “Beatles generation” is reaching the end of its natural lifespan, its icons departing the stage to become musty archival heritage. All things, as the late George Harrison once acknowledged, must pass.Partly as a result, the second half of the decade looks set to be a heyday of fabology (that is, critical appraisal of the Fab Four). But many of the retrospectives, gratingly, will seek to claim the Beatles for the cause of cultural liberalism. The last few years have seen a rash of books by “centrist ",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/b94428ce313024d1fd5d78af.json"
+      "article_path": "articles/35ed5c97090602448893ee19.json"
+    },
+    {
+      "id": "0d16307e6baa3700d21dd8e7",
+      "title": "Corporation Pop",
+      "url": "https://www.inoreader.com/article/3a9c6e767b2f30aa",
+      "author": "",
+      "source": "Jacobin",
+      "published_at": "2026-09-09T16:55:25+00:00",
+      "content_excerpt": "In 2012, South Korean rapper and singer-songwriter PSY released a K-pop track called “Gangnam Style.” A month after its release, the song was viral — it peaked at number two on the US’s Billboard Hot 100 and topped charts in 30 other countries around the world, while the accompanying music video snagged Best Video at the MTV Europe Music Awards and became the first YouTube video to clock one billion views, subsequently maintaining its record as the most viewed YouTube video for the next five years. And 14 years later, PSY was still breaking records: in July 2026, “Gangnam Style” became the first K-pop video to hit six billion views on YouTube.Though K-pop has been around since the 1990s, PSY’s hit single paved the way for a new era in Korean music — one of global influence, backed by an in",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/0d16307e6baa3700d21dd8e7.json"
+    },
+    {
+      "id": "95372108f5ea11884c5c3d7e",
+      "title": "Trump’s World Cup",
+      "url": "https://www.inoreader.com/article/3a9c6e767b2f30a2",
+      "author": "Juliet Jacques",
+      "source": "Jacobin",
+      "published_at": "2026-09-09T16:55:25+00:00",
+      "content_excerpt": "The 2026 World Cup was supposed to provide relief from the tournament’s bedevilment by autocratic regimes, following the outrage that greeted FIFA’s selection of Russia for 2018 host and Qatar for 2022. As it happened, hosting rights were awarded to the United States, Canada, and Mexico in 2018, during Donald Trump’s first term, in a process delayed by the scandal that forced FIFA president Sepp Blatter to resign and be replaced by Gianni Infantino. The tournament was intended to promote unity among the North American nations, even if most of it would happen in the United States. But hopes that it would prove less charged than recent World Cups were dashed when Trump returned to power in January 2025, threatening to attack Mexico and invade Canada. Months before kickoff, the United States ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/95372108f5ea11884c5c3d7e.json"
+    },
+    {
+      "id": "39b0256efabe1c81e2f0b0ea",
+      "title": "In North Korea, the Spurs Would’ve Won the Finals",
+      "url": "https://www.inoreader.com/article/3a9c6e767b2f30a0",
+      "author": "",
+      "source": "Jacobin",
+      "published_at": "2026-09-09T16:55:25+00:00",
+      "content_excerpt": "In October 1996, North Korean leader Kim Jong Il issued an order encouraging basketball in schools and government organs. The following January, he published a treatise called “We Must Put Efforts to Developing Basketball.” Over the next two years, he required every high school and military squad to field a team, and he ordered counties, cities, and provincial people’s committees to build basketball facilities, along with gymnasiums at military schools. Out of that campaign came an independent set of rules. The country’s basketball association said it was meant to promote the Democratic People’s Republic of Korea’s independence and the popularity of the game. The only documented use appears to have been at the Paektu Mountain Prize tournament in February 1997, though it was likely used at ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/39b0256efabe1c81e2f0b0ea.json"
+    },
+    {
+      "id": "cec5d2650ae7b4adb12784dd",
+      "title": "The Really, Really Short Twenty-First Century",
+      "url": "https://www.inoreader.com/article/3a9c6e767b2f309e",
+      "author": "David Broder",
+      "source": "Jacobin",
+      "published_at": "2026-09-09T16:55:25+00:00",
+      "content_excerpt": "A few months ago, my partner and I met a liberal, fortysomething history professor who told us that for his next book he’d been reading up on late-1990s alter-globalization movements. As the millennium neared, global capitalism seemingly stood unchallenged. Social democrats and ex-communists praised the free market, and groupings like the World Trade Organization (WTO) integrated Russian and Chinese leaders. Yet this, he had discovered, wasn’t the whole story. It turned out that each of these elite conferences had been confronted by mass protests calling for an alternative global community. This rainbow coalition hadn’t detailed exactly what it wanted. But it had, he said, a world-changing ambition hard to find on today’s Left. It was odd to hear him discuss this period like a lost Atlanti",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/cec5d2650ae7b4adb12784dd.json"
+    },
+    {
+      "id": "81437e10b9bb3fbe5f7a371a",
+      "title": "Issue 63: Letters",
+      "url": "https://www.inoreader.com/article/3a9c6e767b2f309b",
+      "author": "",
+      "source": "Jacobin",
+      "published_at": "2026-09-09T16:55:25+00:00",
+      "content_excerpt": "Finish the American Revolution Jacobin ’s latest print issue is a welcome addition to the growing conversation about the need for a new and democratic constitution. The constitutional system frustrates the working class’s struggle for freedom, equality, and self-rule. Democratic Socialists of America (DSA) also has a part to play in building that movement. I’m a member of the Marxist Unity Group, which places an emphasis on these demands and stands behind DSA’s Workers Deserve More program, which calls for the drafting of a new constitution that abolishes the Senate and subordinates the executive and Supreme Court to a unicameral legislature elected by universal and equal suffrage. Let’s keep pushing. ­ — Luke Pickrell, Richmond, CA Still in the Fight I very much enjoyed Bhaskar Sunkara’s ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/81437e10b9bb3fbe5f7a371a.json"
+    },
+    {
+      "id": "d5f2e8d11b88781c45b27e03",
+      "title": "Saudi Arabia, Turkey, and Pakistan Now Have Their Own NATO",
+      "url": "https://www.inoreader.com/article/3a9c6e767b2f309a",
+      "author": "Annelle Sheline",
+      "source": "Jacobin",
+      "published_at": "2026-09-09T16:55:25+00:00",
+      "content_excerpt": "On August 7, Pakistan, Saudi Arabia, and Turkey announced a mutual defense pact called the Mecca Joint Defence Agreement. Turkish Foreign Minister Hakan Fidan compared the arrangement to NATO, specifically citing Article 5’s collective defense clause. President Donald Trump lauded the pact as a “BIG, BOLD, IMPORTANT FIRST STEP” toward ensuring countries in the Middle East “will finally be able to defend themselves.” On this point, he’s largely right. What he failed to mention is that this shift reflects the growing realization that the United States and Israel are the most significant drivers of instability in the Middle East. Middle Eastern leaders were once able to ignore this, largely because they believed the US security umbrella would insulate them from the repercussions of American m",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/d5f2e8d11b88781c45b27e03.json"
+    },
+    {
+      "id": "a7e82ece8cd4bc41cab0442a",
+      "title": "Issue 63: The Internet Speaks",
+      "url": "https://www.inoreader.com/article/3a9c6e767b2f3098",
+      "author": "",
+      "source": "Jacobin",
+      "published_at": "2026-09-09T16:55:25+00:00",
+      "content_excerpt": "Our Line Is Left-Zinovievism With American CharacteristicsHonestly the fundamental problem with Jacobin is that it doesn’t seem willing to have an actual editorial line instead of credulously featuring everybody willing to talk about whatever beliefs they have in “left-wing” language lol. — @OttokarHochmanMan-to-Man Defense Is Bourgeois IndividualismJacobin magazine youth basketball camp. — @ydsTreyWe Actually Publish in Six, Soon to Be Seven, LanguagesWhy is Germany the only country with a dedicated Jacobin magazine? Is there no demand for French Jacobin? Polish Jacobin? Mexican Jacobin? — @DirteeerMartiniBrand Consistency MattersAre people really surprised a magazine called Jacobin would publish an article praising a bourgeois revolution? Do they know who the Jacobins were? — @secondbyfa",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/a7e82ece8cd4bc41cab0442a.json"
+    },
+    {
+      "id": "4f02ce4668130fec032ce8a5",
+      "title": "Issue 63: Dossier",
+      "url": "https://www.inoreader.com/article/3a9c6e767b2f3091",
+      "author": "",
+      "source": "Jacobin",
+      "published_at": "2026-09-09T16:55:25+00:00",
+      "content_excerpt": "Debt-trap diplomacyCoined in 2017 to describe Chinese lending in the Global South. A geopolitical strategy in which a creditor nation or institution extends loans to a borrowing nation to enhance the creditor’s political influence and economic interests in the developing world. The International Monetary Fund and World Bank are often accused of debt-trap diplomacy for lending programs that require borrowers to undergo structural adjustment or privatization, especially in sub-Saharan Africa and Latin America.Imperial boomerangCredited to Aimé Césaire, who wrote that “colonization works to decivilize the colonizer,” this is the theory that the techniques developed by governments to enforce imperial control abroad will eventually be turned on their own populations by those same governments. L",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/4f02ce4668130fec032ce8a5.json"
+    },
+    {
+      "id": "56ce93a4159de2ee71cccaeb",
+      "title": "West Indian Cricketers Refused to Grovel",
+      "url": "https://www.inoreader.com/article/3a9c6e767b2f3084",
+      "author": "Meagan Day",
+      "source": "Jacobin",
+      "published_at": "2026-09-09T16:55:25+00:00",
+      "content_excerpt": "The summer of 1976 was Britain’s hottest in 350 years. The West Indies cricket team was there all season long, playing England in city after city in the oppressive heat. There was a lot riding on its performance. To the cricketers and their fans back home in the Caribbean, the team’s mission went beyond athletics. Though the West Indies had produced some legendary international cricketers and won stirring victories, its players were often condescendingly referred to as “calypso cricketers,” meaning they were entertaining but not particularly serious. Now they intended to prove themselves a capable force in the sport. Under the leadership of new captain Clive Lloyd of Guyana, the “Windies” had been building skill and discipline and reimagining their approach to the game. Driving this projec",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/56ce93a4159de2ee71cccaeb.json"
+    },
+    {
+      "id": "7be81fd934ebbefc12b027a1",
+      "title": "US Empire Has Strangled Cuba",
+      "url": "https://www.inoreader.com/article/3a9c6e767b2f307c",
+      "author": "",
+      "source": "Jacobin",
+      "published_at": "2026-09-09T16:55:25+00:00",
+      "content_excerpt": "In 1950, as conservatives are keen to point out, Cuba was among the better-off societies in Latin America. Its income per person was ahead of the Dominican Republic’s. Today, by that same measure, the Dominican Republic is more than twice as rich as Cuba. However, something happened to Cuba that did not happen to its neighbors — not just a 1959 socialist revolution but a US blockade, in force since 1962.What makes Cuba’s trajectory remarkable is not simply the income gap with its peer nations but what the country achieved in spite of it. Cuban life expectancy, nine years behind that of the United States in 1950, drew level with it by the early 1980s. Infant mortality fell below the US rate around the turn of the century. On the Human Development Index, Cuba still led the Dominican Republic",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/7be81fd934ebbefc12b027a1.json"
+    },
+    {
+      "id": "831ca32630e04e1030efb61a",
+      "title": "Europe’s Far Right Kisses the Ring",
+      "url": "https://www.inoreader.com/article/3a9c6e767b2f3077",
+      "author": "Jacopo Custodi",
+      "source": "Jacobin",
+      "published_at": "2026-09-09T16:55:25+00:00",
+      "content_excerpt": "For years, Europe’s rising far-right parties have wrapped themselves in the language of sovereignty. Draped in their respective national flags, each has promised to put national interests and national identity above all else. France’s Rassemblement National deploys the slogan “Les Français d’abord,” meaning “the French first,” while Germany’s Alternative für Deutschland follows suit with “Deutschland zuerst.” In her first postelection speech, Giorgia Meloni, leader of Italy’s governing party, Fratelli d’Italia, promised to “start from national interests,” asserting it as a bedrock principle from which all other considerations must flow. The movement’s entire political vocabulary revolves around the claim that only the European far right can defend domestic priorities against pressures from",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/831ca32630e04e1030efb61a.json"
+    },
+    {
+      "id": "34e14476e23b50ce75191a65",
+      "title": "Reasons of Empire",
+      "url": "https://www.inoreader.com/article/3a9c6e767b2f3073",
+      "author": "Gilbert Achcar",
+      "source": "Jacobin",
+      "published_at": "2026-09-09T16:55:25+00:00",
+      "content_excerpt": "It happens every time now. The United States jumps headfirst into a Middle Eastern quagmire, and, like clockwork, voices start rising, blaming it all on Israel. The two most salient cases of this exercise unfolded around the 2003 invasion of Iraq, led by the George W. Bush administration, and the joint US-Israeli onslaught on Iran that began on February 28, 2026, led by the second Trump administration.The best-known “blame it on Israel” controversy remains the one touched off by John Mearsheimer and Stephen Walt. It began with an article of theirs published in the London Review of Books in 2006 before being developed the year after into a hefty book of close to five hundred pages, The Israel Lobby and U.S. Foreign Policy. The two authors began this work at a time when the Bush administrati",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/34e14476e23b50ce75191a65.json"
+    },
+    {
+      "id": "3cab9c7ccffab9107afe65f5",
+      "title": "David and Goliath",
+      "url": "https://www.inoreader.com/article/3a9c6e767b2f3071",
+      "author": "",
+      "source": "Jacobin",
+      "published_at": "2026-09-09T16:55:25+00:00",
+      "content_excerpt": "The motor of an Iranian Shahed-136 drone is little more powerful or complex than that of a motorcycle. But stopping one is no simple matter, as the United States and Israel found out after they launched a war on Iran in February. To protect Israel and the Gulf states from Iran’s cheap, mass-produced drones, the United States had to fire off thousands of sophisticated, scarce interceptors. Over the course of the conflict, some $26.1 billion worth of munitions disappeared into the sky, potentially leaving the United States with too few interceptors to sustain its security commitments around the world. Most sources estimate the cost of manufacturing a Shahed-136 at between $20,000 and $50,000. According to one Phenomenal World writer, the true number could be as low as $4,000 — roughly the co",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/3cab9c7ccffab9107afe65f5.json"
+    },
+    {
+      "id": "5e7a6a2f012e6f5a625c5f29",
+      "title": "Ibrahim Traoré Would Like to Be Thomas Sankara’s Heir",
+      "url": "https://www.inoreader.com/article/3a9c6e767b2f306d",
+      "author": "Bettina Engels",
+      "source": "Jacobin",
+      "published_at": "2026-09-09T16:55:25+00:00",
+      "content_excerpt": "Ibrahim Traoré, president of Burkina Faso since October 2022, polarizes opinion, to say the least. Some hail him as the hope for a new Pan-Africanism, the long-overdue end of French imperialism in West Africa, and resource sovereignty. Others point to the authoritarian traits of the regime and the repression of trade unionists, civil society activists, and journalists. The scope of Traoré’s political projects, and the pace at which they are being implemented, is striking. This has generated enthusiasm, particularly among a younger generation that vehemently rejects French neocolonial dominance and is deeply frustrated by a gerontocratic political system unable or unwilling to deliver reform. The question remains, though, whether a military government can be the alternative, and whether the",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/5e7a6a2f012e6f5a625c5f29.json"
+    },
+    {
+      "id": "8cf3f2c0644d085026c9c1e0",
+      "title": "From Solar Panels to State Terrorism",
+      "url": "https://www.inoreader.com/article/3a9c6e767b2f3069",
+      "author": "",
+      "source": "Jacobin",
+      "published_at": "2026-09-09T16:55:25+00:00",
+      "content_excerpt": "In 2022 and 2023, the United Arab Emirates (UAE) promised African nations $97 billion worth of investment in ports, energy, mining, agriculture, communications, manufacturing, real estate, and more. These commitments made the UAE the largest funder of new projects in Africa, and if it continues to invest at this rate, its portfolio on the continent will soon be larger than China’s.Not everyone has welcomed the Emirati largesse, however. In addition to cutting ribbons at Zambian solar fields and Egyptian tourist destinations, the UAE is flexing its muscles in war-torn Sudan and the breakaway state of Somali-land, two sites of proxy battles between rival African nations and Gulf states.When the Emiratis arrived in Berbera, Somaliland, in 2016, they brought $442 million for a state-of-the-art",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/8cf3f2c0644d085026c9c1e0.json"
     }
   ]
 }
