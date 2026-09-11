@@ -1,12 +1,267 @@
 {
-  "generated_at": "2026-09-10T21:45:33.893625+00:00",
-  "generated_at_jst": "2026-09-11T06:45:33.893625+09:00",
-  "period_start": "2026-09-09T15:45:33.893625+00:00",
+  "generated_at": "2026-09-11T21:51:03.022581+00:00",
+  "generated_at_jst": "2026-09-12T06:51:03.022581+09:00",
+  "period_start": "2026-09-10T15:51:03.022581+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
   "article_count": 20,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "c2fd3e5a00b1f1eea5dd9f76",
+      "title": "West Bank settler violence is Israeli apartheid working as designed | w/ Basil Farraj",
+      "url": "https://breakthroughnews.org/2026/09/11/west-bank-settler-violence-is-israeli-apartheid-working-as-designed-w-basil-farraj",
+      "author": "Zoe Alexandra",
+      "source": "BT News",
+      "published_at": "2026-09-11T19:16:43+00:00",
+      "content_excerpt": "Palestinians across the West Bank are facing at least six settler attacks per day – the highest rate ever documented – with nearly two dozen people killed, more than 1,000 injured, and more families displaced in the first months of 2026 than in all of last year. This is Israel’s apartheid carceral system working exactly as designed, Basil Farraj tells Zoe Alexandra and Rania Khalek. Farraj, an assistant professor of philosophy and cultural studies at Birzeit University, joins from the occupied West Bank to break down the surge in Israeli settler violence in cities like Hebron, Nablus, Ramallah, and increasingly Birzeit, connecting it to a decades-long Israeli displacement policy he says is finally becoming impossible for the world to ignore. This week, the UK, France, Canada, and nine othe",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/c2fd3e5a00b1f1eea5dd9f76.json"
+    },
+    {
+      "id": "c9b696b072aa0cb201d040a6",
+      "title": "AI could kill us all by 2030. So why are they still building it?",
+      "url": "https://breakthroughnews.org/2026/09/10/ai-could-kill-us-all-by-2030-so-why-are-they-still-building-it",
+      "author": "Rania Khalek",
+      "source": "BT News",
+      "published_at": "2026-09-11T19:16:43+00:00",
+      "content_excerpt": "AI could kill every human on Earth by the end of the decade. If it sounds like a sci-fi headline, that’s the point, says Dr. Thejas Wesley, postdoctoral associate at MIT. He joins Rania Khalek and Zoe Alexandra to unpack why Anthropic researchers Evan Hubinger, Samuel Marks, and Jacob Coxon – who resigned this week to go public – are sounding the alarm now, as competition from Chinese open-weight models like Kimi K3 heats up and Anthropic heads into its IPO. Wesley argues the “rogue AI agents” framing coming out of both Anthropic and OpenAI (last week from CEO Sam Altman himself) is less a scientific warning than a coordinated business strategy, recasting corporate recklessness and unregulated competition as an alien invasion, rather than what it actually is: a series of choices made by ex",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/c9b696b072aa0cb201d040a6.json"
+    },
+    {
+      "id": "5244cfb66353eb71a470160e",
+      "title": "Meta wants to build a $50 billion data center in Louisiana",
+      "url": "https://breakthroughnews.org/2026/09/11/meta-wants-to-build-a-50-billion-data-center-in-louisiana",
+      "author": "Kieran Spencer",
+      "source": "BT News",
+      "published_at": "2026-09-11T18:15:11+00:00",
+      "content_excerpt": "Meta wants to build one of the largest data centers in the world in rural Louisiana. The facility, known as Hyperion, is being built to train and operate the artificial intelligence systems behind Meta’s products. What began as a $10 billion proposal has since ballooned into a more than $50 billion development spanning nearly 10 million square feet and roughly 3,650 acres. At full scale, Hyperion is expected to require 5 gigawatts of computing capacity, making it the largest data center in Meta’s global fleet and one of the largest ever built. According to Meta, the project is expected to employ around 7,500 workers during peak construction and support 1,000 permanent jobs once operational. For residents of Richland Parish, the arrival of Meta has brought both desperately needed jobs and p",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/5244cfb66353eb71a470160e.json"
+    },
+    {
+      "id": "16bbe06d18af765d41c417ae",
+      "title": "Democrats are in a ‘death match’ with the Left over Israel. How will it impact the midterms?",
+      "url": "https://mondoweiss.net/2026/09/democrats-are-in-a-death-match-with-the-left-over-israel-how-will-it-impact-the-midterms",
+      "author": "Michael Arria",
+      "source": "Mondoweiss",
+      "published_at": "2026-09-11T16:52:45+00:00",
+      "content_excerpt": "Political consultant Peter Feld breaks down the primaries, AIPAC’s losses (and wins), the attacks on Hasan Piker, and why a demoralized GOP and Democratic infighting could both shape the midterms in unexpected ways.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/16bbe06d18af765d41c417ae.json"
+    },
+    {
+      "id": "1716dfaaf9fcc7d12ae7df03",
+      "title": "Russia, China, and Niger oppose US-backed anti-Iran resolution in the IAEA",
+      "url": "https://breakthroughnews.org/2026/09/11/russia-china-and-niger-oppose-us-backed-anti-iran-resolution-in-the-iaea",
+      "author": "Abdul Rahman",
+      "source": "BT News",
+      "published_at": "2026-09-11T16:13:16+00:00",
+      "content_excerpt": "Iran accused the US and its European allies of misusing the International Atomic Energy Agency (IAEA) for their own narrow geopolitical objectives, eroding its credibility and paving the way for the ultimate collapse of the international non-proliferation regime. The Islamic Republic’s response on Wednesday, September 9, followed the adoption of a resolution by the IAEA Board of Governors, which accused it of non-compliance with its safeguard regulations and referred Iran to the UN Security Council for further action. The resolution, drafted jointly by the US, the UK, France, and Germany was adopted. A majority of 23 countries voted in favor and eight others abstained. China, Russia, and Niger voted against the resolution. Thanks to the resolution, for which the US and its European allies ",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/1716dfaaf9fcc7d12ae7df03.json"
+    },
+    {
+      "id": "c4c1c3822c42d89f288981c8",
+      "title": "US ambassador’s visit to the West Bank considered largely ‘symbolic’",
+      "url": "https://breakthroughnews.org/2026/09/11/us-ambassadors-visit-to-the-west-bank-considered-largely-symbolic",
+      "author": "Aseel Saleh",
+      "source": "BT News",
+      "published_at": "2026-09-11T16:13:16+00:00",
+      "content_excerpt": "On Saturday, September 5, US Ambassador to Israel Mike Huckabee visited Turmus Ayya village northeast of the West Bank central governorate of Ramallah and Al-Bireh. The purpose of the visit was apparently to meet the residents of Turmus Ayya, the majority of whom hold US citizenship, and hear about the spike in Israeli settler violence against them in recent years that resulted in deaths and damages to their properties. Read more: Family of Palestinian-American man killed by settlers in West Bank demands US take action A symbolic and contradictory visit While the unusual visit was seen by some as an important diplomatic engagement, commentators and analysts slammed the move as “largely symbolic,” doubting its ability to put an end to these ongoing crimes against Palestinian-Americans in th",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/c4c1c3822c42d89f288981c8.json"
+    },
+    {
+      "id": "d076930b3c16166f3032bac6",
+      "title": "“Horror to Last a Lifetime”: Juan González on Covering 9/11 Attacks in NYC 25 Years Ago Today",
+      "url": "https://www.democracynow.org/2026/9/11/juan_daily_news_911",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-09-11T14:13:00+00:00",
+      "content_excerpt": "Friday marks 25 years since the September 11 attacks on the World Trade Center and the Pentagon, and the crash of Flight 93 in Shanksville, Pennsylvania. Around 3,000 people were killed that day, and nearly 10,000 more have died in the years since from 9/11-related illnesses connected to the collapse of the twin towers. In 2001, Democracy Now! was a radio show broadcasting from the attic of Downtown Community Television in Chinatown, just blocks away from ground zero. We were the closest national broadcast to the World Trade Center site. We were on the air when the second plane hit the south tower. Today, we reair a clip of that broadcast and hear Democracy Now! co-host Juan González read the column he wrote for the New York Daily News in the hours after the attack, “A Horror to Last a Lif",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/d076930b3c16166f3032bac6.json"
+    },
+    {
+      "id": "4bf8181c3be407bbdf1d76be",
+      "title": "Forever War: How 9/11 Unleashed U.S. Violence on Civilians Abroad & Attacks on Rights at Home",
+      "url": "https://www.democracynow.org/2026/9/11/jameel_jaffer_azmat_khan",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-09-11T14:13:00+00:00",
+      "content_excerpt": "We look at how post-9/11 policies and the so-called war on terror reshaped the country and the world with two Columbia faculty members who convened a two-day symposium on “The Forever War and the First Amendment.” The symposium brought together journalists, scholars, lawyers and activists to explore the legacy of the “war on terror,” specifically focused on the impact on democratic rights, including the freedoms of speech and the press. First Amendment freedoms “were tested right away in the days and weeks after 9/11,” says Jameel Jaffer, legal expert and director of the Knight First Amendment Institute at Columbia University. “All of the surveillance authorities that were put in place after 9/11,” says Jaffer, “their use was initially justified by reference to foreign threats. And now, in",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/4bf8181c3be407bbdf1d76be.json"
+    },
+    {
+      "id": "76d60774add7e8c86fec5543",
+      "title": "Democratic voters are clear: they want an arms embargo on Israel, not more rhetoric",
+      "url": "https://mondoweiss.net/2026/09/democratic-voters-are-clear-they-want-an-arms-embargo-on-israel-not-more-rhetoric",
+      "author": "Michael Arria",
+      "source": "Mondoweiss",
+      "published_at": "2026-09-11T13:45:19+00:00",
+      "content_excerpt": "Progressive candidates won Democratic primaries by centering Palestine. Now, advocates warn that without a firm demand like an arms embargo, politicians can co-opt 'pro-Palestine' rhetoric without real accountability.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/76d60774add7e8c86fec5543.json"
+    },
+    {
+      "id": "0515a790e2b2b281d7d48428",
+      "title": "We all came here from somewhere: The Thirty-Seventh Newsletter (2026)",
+      "url": "https://mronline.org/2026/09/11/we-all-came-here-from-somewhere-the-thirty-seventh-newsletter-2026",
+      "author": "Vijay Prashad",
+      "source": "MR Online",
+      "published_at": "2026-09-11T13:25:45+00:00",
+      "content_excerpt": "Capitalism depends on precarious migrant labour to discipline workers, deepen division, and extract wealth while weaponising anti-immigrant rhetoric to obscure the neoliberal destruction of public services and social welfare. The post We all came here from somewhere: The Thirty-Seventh Newsletter (2026) appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/0515a790e2b2b281d7d48428.json"
+    },
+    {
+      "id": "3afe6adceeb60d791dfbfb6a",
+      "title": "African migrant workers who cannot return",
+      "url": "https://mronline.org/2026/09/11/african-migrant-workers-who-cannot-return",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-09-11T12:24:39+00:00",
+      "content_excerpt": "The scale is global, not exclusively African. The post African migrant workers who cannot return appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/3afe6adceeb60d791dfbfb6a.json"
+    },
+    {
+      "id": "45fb68e07ecbbe0dffc76027",
+      "title": "El Niño is being supersized before our eyes",
+      "url": "https://mronline.org/2026/09/11/el-nino-is-being-supersized-before-our-eyes",
+      "author": "Ian Angus",
+      "source": "MR Online",
+      "published_at": "2026-09-11T11:23:39+00:00",
+      "content_excerpt": "El Niño is firmly established and will intensify into a very strong event in the coming months, with big impacts on rainfall and temperature patterns and associated risks of floods, drought and extreme heat, according to a new update from the World Meteorological Organization (WMO). The post El Niño is being supersized before our eyes appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/45fb68e07ecbbe0dffc76027.json"
+    },
+    {
+      "id": "72099d548f8423d58bd68280",
+      "title": "Three major revelations about the Gaza holocaust in the Israeli Press",
+      "url": "https://mronline.org/2026/09/11/three-major-revelations-about-the-gaza-holocaust-in-the-israeli-press",
+      "author": "Caitlin A. Johnstone",
+      "source": "MR Online",
+      "published_at": "2026-09-11T10:22:50+00:00",
+      "content_excerpt": "The world was lied to about the Gaza holocaust, just like it was lied to about every other act of mass military slaughter that the U.S. involves itself in. The post Three major revelations about the Gaza holocaust in the Israeli Press appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/72099d548f8423d58bd68280.json"
+    },
+    {
+      "id": "a3afc7b2509087c52ed0918d",
+      "title": "25 years ago, 9/11 triggered a U.S. crusade of torture",
+      "url": "https://mronline.org/2026/09/11/25-years-ago-9-11-triggered-a-u-s-crusade-of-torture",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-09-11T09:20:21+00:00",
+      "content_excerpt": "A quarter-century has passed since the terrorist attack that killed almost 3,000 people in the United States on Sept. 11, 2001. The post 25 years ago, 9/11 triggered a U.S. crusade of torture appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/a3afc7b2509087c52ed0918d.json"
+    },
+    {
+      "id": "0f745abb72fac60248feb5ff",
+      "title": "Ansar Allah seizes strategic Red Sea port city and liberates prisoners held by Saudi-backed forces",
+      "url": "https://breakthroughnews.org/2026/09/10/ansar-allah-seizes-strategic-red-sea-port-city-and-liberates-prisoners-held-by-saudi-backed-forces",
+      "author": "Aseel Saleh",
+      "source": "BT News",
+      "published_at": "2026-09-10T22:02:20+00:00",
+      "content_excerpt": "The Ansar Allah-led Yemeni Armed Forces seized the strategic Red Sea port city of Mokha on Yemen’s western coast on Thursday, September 10, pushing back Saudi-backed forces. The development came one week after clashes over territorial dominance between the two sides escalated on September 3 and continued on the subsequent days. Ansar Allah’s control of Mokha seaport represents a critical military and economic development, because of its close proximity to Bab al-Mandeb strait and due to serving as a key coastal staging ground along the Red Sea coast. Because the Bab el-Mandeb Strait handles roughly 12% of global trade and vital energy supplies, the development would reshape regional and global geopolitics, particularly with maritime traffic in the Strait of Hormuz already restrained by the",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/0f745abb72fac60248feb5ff.json"
+    },
+    {
+      "id": "af330415ed5a0f525894f0c2",
+      "title": "25 years later, survivors still struggle with health impacts of 9/11",
+      "url": "https://breakthroughnews.org/2026/09/10/25-years-later-survivors-still-struggle-with-health-impacts-of-9-11",
+      "author": "Ana Vračar",
+      "source": "BT News",
+      "published_at": "2026-09-10T22:02:20+00:00",
+      "content_excerpt": "On September 11, 2001, attacks on the World Trade Center towers released a dust cloud containing pulverized cement, glass fiber, and asbestos, among other toxins – marking the health of thousands of community members and first responders. Twenty-five years later, New York City has announced it will finally release the full records on the day’s health impact. In a statement released by the city administration, Manhattan Borough officials emphasized the dust and smoke to which first responders were exposed to contained over 2,500 contaminants and faced long-term health consequences, including respiratory illnesses and cancers. “For 25 years, four different Mayoral administrations kept from the public, the US Congress, and the City Council documents showing what the City actually knew about t",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/af330415ed5a0f525894f0c2.json"
+    },
+    {
+      "id": "5ddb6d84cb0f19dd7431a18d",
+      "title": "Iran targets US ships in the Persian Gulf in retaliation for US attacks on oil tankers",
+      "url": "https://breakthroughnews.org/2026/09/10/iran-targets-us-ships-in-the-persian-gulf-in-retaliation-for-us-attacks-on-oil-tankers",
+      "author": "Abdul Rahman",
+      "source": "BT News",
+      "published_at": "2026-09-10T22:02:20+00:00",
+      "content_excerpt": "Iran “targeted two US vessels and eight oil tankers in the Strait of Hormuz, inflicting heavy damages to them,” the Islamic Revolutionary Guard Corps (IRGC) said in a statement issued on Wednesday, September 9. The IRGC claimed the attacks were carried out in retaliation to US attacks on five of its oil tankers in the Persian Gulf hours before. On Tuesday, the US Central Command had claimed that it destroyed five Iranian oil tankers after Iran “targeted a US Navy warship with ballistic missiles twice over the past two days.” It also claimed that the Iranian attacks had failed to cause any harm to the warship or US personnel. The IRGC claimed that 10 ships trying to cross the Strait of Hormuz through the “unauthorized” US-sponsored route near Oman were also attacked for violating its restri",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/5ddb6d84cb0f19dd7431a18d.json"
+    },
     {
       "id": "86624d88fdf5c1db447f84df",
       "title": "Who is Nathan Cofnas, the pro-eugenics academic who hounded Jason Arday?",
@@ -51,261 +306,6 @@
       "priority": 2,
       "date_missing": false,
       "article_path": "articles/62ca539c175dd080017f6317.json"
-    },
-    {
-      "id": "eb8126817526a460ce321258",
-      "title": "25 Years Later: Afghan New Yorker Masuda Sultan Remembers 9/11 & 19 Relatives Killed in U.S. Bombing",
-      "url": "https://www.democracynow.org/2026/9/10/masuda_sultan_afghanistan",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-09-10T15:18:10+00:00",
-      "content_excerpt": "Almost 25 years ago, just days after the September 11 attacks on the World Trade Center, President George W. Bush addressed the nation, making the case for war against al-Qaeda, whose leader, Osama bin Laden, was based in Afghanistan. “I sensed that something like this was not going to go unpunished,” Afghan American New Yorker and women’s rights activist Masuda Sultan told Democracy Now! at the time. Within a few weeks, the U.S. invasion began. Sultan would lose 19 members of her family when the U.S. military bombed their village outside of Kandahar. We revisit our coverage of the initial U.S. invasion, including our first interviews with Sultan in 2002, and speak to Sultan again today. She reflects on her experience, including working with Rita Lasar, the sister of a 9/11 victim, to advo",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/eb8126817526a460ce321258.json"
-    },
-    {
-      "id": "611e139248e1a6a1ef2d62f1",
-      "title": "Report from Kabul: NRC Head Jan Egeland on Global Aid Cuts, Poverty & Taliban Repression of Women",
-      "url": "https://www.democracynow.org/2026/9/10/jan_egeland_afghanistan",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-09-10T15:18:10+00:00",
-      "content_excerpt": "In the five years since the Taliban regained control of Afghanistan following the complete withdrawal of U.S. troops from the country, millions of Afghan refugees have been forced out of neighboring Iran and Pakistan, where they had been living and “dumped at the border” without immediate access to food, water or shelter. At the same time, conditions for women and girls in Afghanistan continue to deteriorate, as basic rights to education, freedom of movement and access to services are increasingly curtailed under the Taliban’s authoritarian rule. “It’s a crisis for humanity,” says Jan Egeland, secretary general of the Norwegian Refugee Council, speaking to Democracy Now! from Kabul. “We’re so overstretched and underfunded. … We’re too alone on the ground here in Afghanistan,” explains Egel",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/611e139248e1a6a1ef2d62f1.json"
-    },
-    {
-      "id": "30ba2076ba4ea1b470fdb56d",
-      "title": "“Reign of Terror: How the 9/11 Era Destabilized America and Produced Trump”: Spencer Ackerman",
-      "url": "https://www.democracynow.org/2026/9/10/spencer_ackerman_911_war_on_terror",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-09-10T15:18:10+00:00",
-      "content_excerpt": "“The 'war on terror' was always a construct to be waged, never quite to be ended.” We discuss the origins and impacts of the global “war on terror,” launched by the U.S. government in the aftermath of the September 11 attacks on New York City and Washington, D.C., with Spencer Ackerman, author of Reign of Terror: How the 9/11 Era Destabilized America and Produced Trump . “We saw, beginning at the very outset of the 'war on terror,' our leaders told us to understand 9/11 as an assault of a foreign civilization, one that had nothing to do with the consequences of American extractive and exploitative foreign policy in the Muslim world or its support for Israel.” Ackerman says the “war on terror” and its repercussions have extended past U.S. ground wars in Iraq and Afghanistan, to its current ",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/30ba2076ba4ea1b470fdb56d.json"
-    },
-    {
-      "id": "63b6cead2f7fce5c0a3acf84",
-      "title": "4.7 Million Dead, $8 Trillion: Counting the Devastating Human & Economic Costs of the Post‑9/11 Wars",
-      "url": "https://www.democracynow.org/2026/9/10/9_11_25th_anniversary_costs_of",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-09-10T15:18:10+00:00",
-      "content_excerpt": "As part of our weeklong coverage marking the 25th anniversary of the September 11 attacks and the launch of the United States’ so-called war on terror, we take a look at the human, financial and environmental costs of U.S. military intervention around the world with Neta Crawford, co-founder of Brown University’s Costs of War Project. Researchers at the Costs of War Project estimate that nearly a million people have been killed as a direct result of U.S. military violence in the Middle East since 2001. At least half are estimated to be civilians. An additional 3.8 million deaths can be attributed to the indirect effects of war, including injuries, famine and long-term health conditions. And the wars have also increased the U.S. debt, military footprint, greenhouse gas emissions, destructio",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/63b6cead2f7fce5c0a3acf84.json"
-    },
-    {
-      "id": "0d786928a2896e1ad89261b2",
-      "title": "Israel has cut off water to 47 Palestinian families in the northern West Bank",
-      "url": "https://mondoweiss.net/2026/09/israel-has-cut-off-water-to-47-palestinian-families-in-the-northern-west-bank",
-      "author": "Qassam Muaddi",
-      "source": "Mondoweiss",
-      "published_at": "2026-09-10T13:40:02+00:00",
-      "content_excerpt": "Since Israel severed the water lines feeding Ras al-Ahmar over a month ago, its 47 farming families have been rationing what little they have and weighing whether to sell their livestock and leave.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/0d786928a2896e1ad89261b2.json"
-    },
-    {
-      "id": "bc252da1ccddcbd0ce41b0fc",
-      "title": "UK rejects Jamaica’s historic demand for reparations for slavery",
-      "url": "https://mronline.org/2026/09/10/uk-rejects-jamaicas-historic-demand-for-reparations-for-slavery",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-09-10T13:08:17+00:00",
-      "content_excerpt": "The UK government has firmly rejected this Monday Jamaica’s demand for financial reparations for its role in the transatlantic slave trade, as a Jamaican delegation formally requested £10 billion in compensation from King Charles III. The post UK rejects Jamaica’s historic demand for reparations for slavery appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/bc252da1ccddcbd0ce41b0fc.json"
-    },
-    {
-      "id": "66de9fe7e39e2e1453494cdd",
-      "title": "In defense of abolition",
-      "url": "https://tempestmag.org/2026/09/in-defense-of-abolition",
-      "author": "Tempest National Committee",
-      "source": "Tempest",
-      "published_at": "2026-09-10T12:24:11+00:00",
-      "content_excerpt": "Years ago I recognized my kinship with all living beings, and I made up my mind that I was not one bit better than the meanest on earth. I said then, and I say now, that while there is a lower class, I am in it, and while there is a criminal element I am of it, and while there is a soul in prison, I am not free. –Eugene V. Debs S ix years ago, the racist police murder of George Floyd sparked the biggest uprising in the history of the United States. Across the country, over 26 million people poured into the streets for months in a mass multiracial movement against the police and jails that enforce U.S. capitalism’s class and social inequalities. Calls to defund and abolish the police emerged as organic demands of the movement. The burning down of a Minneapolis police precinct proved more po",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/66de9fe7e39e2e1453494cdd.json"
-    },
-    {
-      "id": "592b4d361fb38198f6dee5ce",
-      "title": "Big Tech wants to build a data center in your city. Is it worth it?",
-      "url": "https://mronline.org/2026/09/10/big-tech-wants-to-build-a-data-center-in-your-city-is-it-worth-it",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-09-10T12:07:33+00:00",
-      "content_excerpt": "A closer look at costs and benefits. The post Big Tech wants to build a data center in your city. Is it worth it? appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/592b4d361fb38198f6dee5ce.json"
-    },
-    {
-      "id": "e3703084d09cb6f45484c1ab",
-      "title": "Bond bust",
-      "url": "https://mronline.org/2026/09/10/bond-bust",
-      "author": "Michael Roberts",
-      "source": "MR Online",
-      "published_at": "2026-09-10T11:05:59+00:00",
-      "content_excerpt": "If and when inflation subsides, so will bond yields. The post Bond bust appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/e3703084d09cb6f45484c1ab.json"
-    },
-    {
-      "id": "1a70f52676168c3ca6cbfa61",
-      "title": "The ‘longstanding tradition’ of defense corruption in Ukraine",
-      "url": "https://mronline.org/2026/09/10/the-longstanding-tradition-of-defense-corruption-in-ukraine",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-09-10T10:05:31+00:00",
-      "content_excerpt": "Western media mostly ignore the issue. It only comes up when it is needed to interfere in favor of this or that faction within Ukraine. The post The ‘longstanding tradition’ of defense corruption in Ukraine appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/1a70f52676168c3ca6cbfa61.json"
-    },
-    {
-      "id": "3a750cdfb39545e444d4b47d",
-      "title": "AfD victory: Heads explode in Magdeburg and Berlin",
-      "url": "https://mronline.org/2026/09/10/afd-victory-heads-explode-in-magdeburg-and-berlin",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-09-10T09:07:08+00:00",
-      "content_excerpt": "Robert Dale analyses the massive vote for the far right in the eastern German state which has rocked European politics. The post AfD victory: Heads explode in Magdeburg and Berlin appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/3a750cdfb39545e444d4b47d.json"
-    },
-    {
-      "id": "2c16797c466c357e21edb436",
-      "title": "BT LIVE: West Bank Escalation | Is Türkiye Next? | AI Workers Blow the Whistle",
-      "url": "https://breakthroughnews.org/2026/09/10/sep-10-2026",
-      "author": "BreakThrough News",
-      "source": "BT News",
-      "published_at": "2026-09-10T06:57:29+00:00",
-      "content_excerpt": "This content is for members only. Visit the site and log in/register to read.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/2c16797c466c357e21edb436.json"
-    },
-    {
-      "id": "2d442e240018aecc36dd6fc3",
-      "title": "How the AfD is using Israel to rebrand Germany’s far right",
-      "url": "https://breakthroughnews.org/2026/09/10/how-the-afd-is-using-israel-to-rebrand-germanys-far-right",
-      "author": "Rania Khalek",
-      "source": "BT News",
-      "published_at": "2026-09-10T06:57:29+00:00",
-      "content_excerpt": "“A far-right party with roots in Holocaust complicity is now Germany’s most pro-Israel political force, with AfD winning nearly half the vote in Saxony-Anhalt’s state election. Germany’s political establishment is calling it a shock; anti-fascist activist Phillipp Slanina says it isn’t one. Support for Chancellor Friedrich Merz’s Christian Democratic Union (CDU) was roughly halved in what analysts are calling an AfD testing ground for more state elections this fall. Slanina argues the party isn’t the anti-establishment political outsider it styles itself as. It was built from inside the center, founded by both conservatives and liberals before neo-Nazi factions moved in and took over its core, and its rise has been fueled by CDU and SPD’s commitment to neoliberalism. Slanina says the same ",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/2d442e240018aecc36dd6fc3.json"
-    },
-    {
-      "id": "798ee4405ffe5acb31d77217",
-      "title": "‘Israel has turned South Lebanon into Gaza’ with Rania Khalek",
-      "url": "https://breakthroughnews.org/2026/09/10/israel-has-turned-south-lebanon-into-gaza-with-rania-khalek",
-      "author": "Rania Khalek",
-      "source": "BT News",
-      "published_at": "2026-09-10T05:56:36+00:00",
-      "content_excerpt": "“South Lebanon has become Gaza.” Breakthrough News’s Rania Khalek tears apart Netanyahu’s “security” strategy that’s killed 27 people in Lebanon over the last three days, with relentless Israeli attacks on the country’s south designed to render entire villages unreturnable – paving the way for future annexation and “Greater Israel” expansion. Lebanon’s government provides the political cover, with President Joseph Aoun condemning Israel’s strikes while remaining committed to the US-brokered framework that cements its occupation. The so-called November 2024 “ceasefire” has never functioned as one: Israel violated it more than 15,000 times before Hezbollah entered the US-Israeli war on Iran in March, at which point Israel ramped up its attacks, killing over 4,300 people in Lebanon since then",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/798ee4405ffe5acb31d77217.json"
-    },
-    {
-      "id": "bf61bd9fcb64618f2c33c436",
-      "title": "Israel’s plan to expel two million from Gaza with Mouin Rabbani",
-      "url": "https://breakthroughnews.org/2026/09/10/israels-plan-to-expel-two-million-from-gaza-with-mouin-rabbani",
-      "author": "Rania Khalek",
-      "source": "BT News",
-      "published_at": "2026-09-10T05:56:36+00:00",
-      "content_excerpt": "As Israeli plans emerge to expel all two million Palestinians from Gaza and Itamar Ben-Gvir shares what can only be described as genocidal AI fantasy videos on X, Mouin Rabbani, non-resident fellow at the Center for Conflict and Humanitarian Studies, says Israeli election season means everyone from Ben-Gvir to Israel Katz to Bezalel Smotrich to Benjamin Netanyahu is trying to one-up the other, with the most extreme proposals for the mass forcible transfer of Palestinians from their homeland, all to score points with voters. Rabbani says the global impunity Tel Aviv has enjoyed for decades has taught Israel there’s no cost and no accountability for war crimes against humanity, all with unflinching US support. Without ruling out Trump greenlighting Israel to “march into Gaza City to load fam",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/bf61bd9fcb64618f2c33c436.json"
-    },
-    {
-      "id": "39540bc59b1527bfbc72cdfa",
-      "title": "Meta’s $18 billion teen safety settlement isn’t what it seems with Amanda Getty",
-      "url": "https://breakthroughnews.org/2026/09/10/metas-18-billion-teen-safety-settlement-isnt-what-it-seems-with-amanda-getty",
-      "author": "Rania Khalek",
-      "source": "BT News",
-      "published_at": "2026-09-10T05:56:36+00:00",
-      "content_excerpt": "Meta would rather pay out billions to teen mental health programs than risk losing teen addicts on Instagram. The day before running full-page ads across the New York Times, Washington Post and LA Times calling on competitors TikTok and YouTube to adopt tougher child safety standards, Meta settled a landmark lawsuit brought by 52 state attorneys general accusing Instagram of intentionally addictive design. Community organizer and parent advocate Amanda Getty says Meta’s efforts to spin its predatory business model as a responsible parenting issue are meant to distract users: Big Tech’s bottom line depends on hooking teens as young as possible. Meta denied knowingly exposing minors to serious harm and misleading the public, but agreed to pay up to $18 billion over 10 years – workable for a ",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/39540bc59b1527bfbc72cdfa.json"
-    },
-    {
-      "id": "9619285a58bc141bd40ae570",
-      "title": "Kenya’s crackdown on foreign traders raises fears of xenophobia and strains East African solidarity",
-      "url": "https://breakthroughnews.org/2026/09/10/kenyas-crackdown-on-foreign-traders-raises-fears-of-xenophobia-and-strains-east-african-solidarity",
-      "author": "Nicholas Mwangi",
-      "source": "BT News",
-      "published_at": "2026-09-10T05:56:36+00:00",
-      "content_excerpt": "Fear and uncertainty spread among foreign traders in Kenya after President William Ruto directed authorities to move against small businesses operated by foreign nationals. The move triggered a scramble among some immigrant communities to seek protection, regularize their status, or leave the country. The directive, announced earlier this month, has particularly unsettled Burundian traders, many of whom operate small informal businesses in Nairobi and other urban centers. Hundreds of Burundians sought assistance and travel documentation from their embassy in Nairobi in fear that the government’s new policy could lead to deportations or further harassment. The government has since moved to soften the impact of the initial announcement by providing a 90-day window for undocumented foreign na",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/9619285a58bc141bd40ae570.json"
     }
   ]
 }

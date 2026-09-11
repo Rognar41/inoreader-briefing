@@ -1,0 +1,20 @@
+{
+  "generated_at": "2026-09-11T21:51:03.022581+00:00",
+  "generated_at_jst": "2026-09-12T06:51:03.022581+09:00",
+  "period_start": "2026-09-10T15:51:03.022581+00:00",
+  "lookback_hours": 30,
+  "article": {
+    "id": "c9b696b072aa0cb201d040a6",
+    "title": "AI could kill us all by 2030. So why are they still building it?",
+    "url": "https://breakthroughnews.org/2026/09/10/ai-could-kill-us-all-by-2030-so-why-are-they-still-building-it",
+    "author": "Rania Khalek",
+    "source": "BT News",
+    "published_at": "2026-09-11T19:16:43+00:00",
+    "content": "AI could kill every human on Earth by the end of the decade. If it sounds like a sci-fi headline, that’s the point, says Dr. Thejas Wesley, postdoctoral associate at MIT. He joins Rania Khalek and Zoe Alexandra to unpack why Anthropic researchers Evan Hubinger, Samuel Marks, and Jacob Coxon – who resigned this week to go public – are sounding the alarm now, as competition from Chinese open-weight models like Kimi K3 heats up and Anthropic heads into its IPO. Wesley argues the “rogue AI agents” framing coming out of both Anthropic and OpenAI (last week from CEO Sam Altman himself) is less a scientific warning than a coordinated business strategy, recasting corporate recklessness and unregulated competition as an alien invasion, rather than what it actually is: a series of choices made by executives chasing profits. He points to OpenAI’s Hugging Face incident earlier this summer: rather than nascent digital consciousness breaking free, this was OpenAI shipping software without basic safety guardrails, following the same corporate cost-cutting logic behind disasters like the East Palestine, Ohio train derailment or the BP Deepwater Horizon spill. As polling shows 71% of Americans oppose new data centers, and 68% support stricter AI regulation, Wesley outlines Bernie Sanders’s proposed sovereign wealth fund plan and ban on AI superintelligence, versus Elon Musk’s counter: letting a small “cabal of technofascists” govern AI development themselves. Wesley says the real fix isn’t billionaires regulating themselves; it’s public, democratic control over a technology with very real life or death consequences for humanity. Watch full episodes of BT Live, join breakthroughnews.org as a member today!",
+    "source_folders": [
+      "06_左派ニュース・社会主義戦略"
+    ],
+    "priority": 2,
+    "date_missing": false
+  }
+}
