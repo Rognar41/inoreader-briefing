@@ -1,12 +1,132 @@
 {
-  "generated_at": "2026-09-11T21:51:03.022581+00:00",
-  "generated_at_jst": "2026-09-12T06:51:03.022581+09:00",
-  "period_start": "2026-09-10T15:51:03.022581+00:00",
+  "generated_at": "2026-09-12T21:33:39.662854+00:00",
+  "generated_at_jst": "2026-09-13T06:33:39.662854+09:00",
+  "period_start": "2026-09-11T15:33:39.662854+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
-  "article_count": 20,
+  "article_count": 14,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "46daeba313a2101a7e2946a9",
+      "title": "Are the UK sanctions on Israel real progress, or more illusion?",
+      "url": "https://mondoweiss.net/2026/09/are-the-uk-sanctions-on-israel-real-progress-or-more-illusion",
+      "author": "Mitchell Plitnick",
+      "source": "Mondoweiss",
+      "published_at": "2026-09-12T13:37:24+00:00",
+      "content_excerpt": "The UK's new sanctions on Israeli settlements may be groundbreaking, but they're also full of loopholes. F-35 parts are exempt, the state itself is untouched, and enforcement won't start for months. Real progress, but far from enough.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/46daeba313a2101a7e2946a9.json"
+    },
+    {
+      "id": "8dda2291fb8c3e8fae6fe401",
+      "title": "Historicising enshittification",
+      "url": "https://mronline.org/2026/09/12/historicising-enshittification",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-09-12T13:10:27+00:00",
+      "content_excerpt": "Lineages of the bad internet The post Historicising enshittification appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/8dda2291fb8c3e8fae6fe401.json"
+    },
+    {
+      "id": "869d00e2bcf72b4e6abd0657",
+      "title": "OpenAI admits ‘wiki incident’ as AI safety concerns grow",
+      "url": "https://mronline.org/2026/09/12/openai-admits-wiki-incident-as-ai-safety-concerns-grow",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-09-12T12:09:57+00:00",
+      "content_excerpt": "OpenAI acknowledges its agents misused a German wiki as a message board, renewing scrutiny over AI safety, transparency, and oversight of autonomous systems. The post OpenAI admits ‘wiki incident’ as AI safety concerns grow appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/869d00e2bcf72b4e6abd0657.json"
+    },
+    {
+      "id": "a635f9fe40e000ddf39285d0",
+      "title": "Why Pentagon is the central axis of the U.S.-Venezuela oil deal",
+      "url": "https://mronline.org/2026/09/12/why-pentagon-is-the-central-axis-of-the-u-s-venezuela-oil-deal",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-09-12T11:09:19+00:00",
+      "content_excerpt": "According to the fact sheet published by the White House on August 31, the Office of Strategic Capital of the Pentagon (renamed the Department of War) will own 35% of the shares of the company North American Blue Energy Partners (NABEP), selected by the Trump administration to lead oil extraction projects in Venezuelan fields with a proven potential of 65 billion barrels. The post Why Pentagon is the central axis of the U.S.-Venezuela oil deal appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/a635f9fe40e000ddf39285d0.json"
+    },
+    {
+      "id": "f60bf50b4257a31057c517e6",
+      "title": "How Minnesota Unions and community groups stood up to an ICE occupation",
+      "url": "https://mronline.org/2026/09/12/how-minnesota-unions-and-community-groups-stood-up-to-an-ice-occupation",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-09-12T10:08:56+00:00",
+      "content_excerpt": "Trump’s Operation Metro Surge was a direct attack on our union. The post How Minnesota Unions and community groups stood up to an ICE occupation appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/f60bf50b4257a31057c517e6.json"
+    },
+    {
+      "id": "965f7963fee2ce1efab0ba9a",
+      "title": "As criticism grows over landslide inaction, leaks show Nepal’s new leaders groomed by U.S. regime change outfit",
+      "url": "https://mronline.org/2026/09/12/as-criticism-grows-over-landslide-inaction-leaks-show-nepals-new-leaders-groomed-by-u-s-regime-change-outfit",
+      "author": "Kit Klarenberg",
+      "source": "MR Online",
+      "published_at": "2026-09-12T09:07:23+00:00",
+      "content_excerpt": "As public anger against the Nepalese government mounts after deadly landslides in Nepal, files show the country’s new prime minister and several of his colleagues came to power thanks in part to a covert program sponsored by the U.S. government. The post As criticism grows over landslide inaction, leaks show Nepal’s new leaders groomed by U.S. regime change outfit appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/965f7963fee2ce1efab0ba9a.json"
+    },
+    {
+      "id": "e1538fc7ec35453f6d2fc4d6",
+      "title": "Israel destroys Hezbollah’s strategic base under Ali Al-Taher ridge",
+      "url": "https://breakthroughnews.org/2026/09/11/israel-destroys-hezbollahs-strategic-base-under-ali-al-taher-ridge",
+      "author": "Aseel Saleh",
+      "source": "BT News",
+      "published_at": "2026-09-11T23:20:36+00:00",
+      "content_excerpt": "The Israeli army announced on Thursday, September 10, that it dismantled Hezbollah’s underground infrastructure beneath Ali al-Taher ridge in southern Lebanon. The army claimed that the strategic facility contained scores of Iranian-made rockets, missiles, unmanned aerial vehicles (UAVs), machine guns, and hundreds of mines and explosive devices. It added that a central command complex of Hezbollah’s Badr Unit was located within the infrastructure, and included command centers, weapon storage rooms, and living quarters, which enabled the group’s fighters to operate underground for long periods of time. The Israeli forces used 1,100 tons of explosives in the operation to demolish the two-kilometer tunnel network beneath Ali al-Taher, triggering a 4.1-magnitude tremor. Israeli media outlets ",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/e1538fc7ec35453f6d2fc4d6.json"
+    },
+    {
+      "id": "3966e4a60cfe2a3893d63b2b",
+      "title": "Shield of the Americas, military operations, and decorations: Rubio’s fruitful visit to South America",
+      "url": "https://breakthroughnews.org/2026/09/11/shield-of-the-americas-military-operations-and-decorations-rubios-fruitful-visit-to-south-america",
+      "author": "BreakThrough News",
+      "source": "BT News",
+      "published_at": "2026-09-11T22:18:57+00:00",
+      "content_excerpt": "This content is for members only. Visit the site and log in/register to read.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/3966e4a60cfe2a3893d63b2b.json"
+    },
     {
       "id": "c2fd3e5a00b1f1eea5dd9f76",
       "title": "West Bank settler violence is Israeli apartheid working as designed | w/ Basil Farraj",
@@ -96,216 +216,6 @@
       "priority": 2,
       "date_missing": false,
       "article_path": "articles/c4c1c3822c42d89f288981c8.json"
-    },
-    {
-      "id": "d076930b3c16166f3032bac6",
-      "title": "“Horror to Last a Lifetime”: Juan González on Covering 9/11 Attacks in NYC 25 Years Ago Today",
-      "url": "https://www.democracynow.org/2026/9/11/juan_daily_news_911",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-09-11T14:13:00+00:00",
-      "content_excerpt": "Friday marks 25 years since the September 11 attacks on the World Trade Center and the Pentagon, and the crash of Flight 93 in Shanksville, Pennsylvania. Around 3,000 people were killed that day, and nearly 10,000 more have died in the years since from 9/11-related illnesses connected to the collapse of the twin towers. In 2001, Democracy Now! was a radio show broadcasting from the attic of Downtown Community Television in Chinatown, just blocks away from ground zero. We were the closest national broadcast to the World Trade Center site. We were on the air when the second plane hit the south tower. Today, we reair a clip of that broadcast and hear Democracy Now! co-host Juan González read the column he wrote for the New York Daily News in the hours after the attack, “A Horror to Last a Lif",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/d076930b3c16166f3032bac6.json"
-    },
-    {
-      "id": "4bf8181c3be407bbdf1d76be",
-      "title": "Forever War: How 9/11 Unleashed U.S. Violence on Civilians Abroad & Attacks on Rights at Home",
-      "url": "https://www.democracynow.org/2026/9/11/jameel_jaffer_azmat_khan",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-09-11T14:13:00+00:00",
-      "content_excerpt": "We look at how post-9/11 policies and the so-called war on terror reshaped the country and the world with two Columbia faculty members who convened a two-day symposium on “The Forever War and the First Amendment.” The symposium brought together journalists, scholars, lawyers and activists to explore the legacy of the “war on terror,” specifically focused on the impact on democratic rights, including the freedoms of speech and the press. First Amendment freedoms “were tested right away in the days and weeks after 9/11,” says Jameel Jaffer, legal expert and director of the Knight First Amendment Institute at Columbia University. “All of the surveillance authorities that were put in place after 9/11,” says Jaffer, “their use was initially justified by reference to foreign threats. And now, in",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/4bf8181c3be407bbdf1d76be.json"
-    },
-    {
-      "id": "76d60774add7e8c86fec5543",
-      "title": "Democratic voters are clear: they want an arms embargo on Israel, not more rhetoric",
-      "url": "https://mondoweiss.net/2026/09/democratic-voters-are-clear-they-want-an-arms-embargo-on-israel-not-more-rhetoric",
-      "author": "Michael Arria",
-      "source": "Mondoweiss",
-      "published_at": "2026-09-11T13:45:19+00:00",
-      "content_excerpt": "Progressive candidates won Democratic primaries by centering Palestine. Now, advocates warn that without a firm demand like an arms embargo, politicians can co-opt 'pro-Palestine' rhetoric without real accountability.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/76d60774add7e8c86fec5543.json"
-    },
-    {
-      "id": "0515a790e2b2b281d7d48428",
-      "title": "We all came here from somewhere: The Thirty-Seventh Newsletter (2026)",
-      "url": "https://mronline.org/2026/09/11/we-all-came-here-from-somewhere-the-thirty-seventh-newsletter-2026",
-      "author": "Vijay Prashad",
-      "source": "MR Online",
-      "published_at": "2026-09-11T13:25:45+00:00",
-      "content_excerpt": "Capitalism depends on precarious migrant labour to discipline workers, deepen division, and extract wealth while weaponising anti-immigrant rhetoric to obscure the neoliberal destruction of public services and social welfare. The post We all came here from somewhere: The Thirty-Seventh Newsletter (2026) appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/0515a790e2b2b281d7d48428.json"
-    },
-    {
-      "id": "3afe6adceeb60d791dfbfb6a",
-      "title": "African migrant workers who cannot return",
-      "url": "https://mronline.org/2026/09/11/african-migrant-workers-who-cannot-return",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-09-11T12:24:39+00:00",
-      "content_excerpt": "The scale is global, not exclusively African. The post African migrant workers who cannot return appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/3afe6adceeb60d791dfbfb6a.json"
-    },
-    {
-      "id": "45fb68e07ecbbe0dffc76027",
-      "title": "El Niño is being supersized before our eyes",
-      "url": "https://mronline.org/2026/09/11/el-nino-is-being-supersized-before-our-eyes",
-      "author": "Ian Angus",
-      "source": "MR Online",
-      "published_at": "2026-09-11T11:23:39+00:00",
-      "content_excerpt": "El Niño is firmly established and will intensify into a very strong event in the coming months, with big impacts on rainfall and temperature patterns and associated risks of floods, drought and extreme heat, according to a new update from the World Meteorological Organization (WMO). The post El Niño is being supersized before our eyes appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/45fb68e07ecbbe0dffc76027.json"
-    },
-    {
-      "id": "72099d548f8423d58bd68280",
-      "title": "Three major revelations about the Gaza holocaust in the Israeli Press",
-      "url": "https://mronline.org/2026/09/11/three-major-revelations-about-the-gaza-holocaust-in-the-israeli-press",
-      "author": "Caitlin A. Johnstone",
-      "source": "MR Online",
-      "published_at": "2026-09-11T10:22:50+00:00",
-      "content_excerpt": "The world was lied to about the Gaza holocaust, just like it was lied to about every other act of mass military slaughter that the U.S. involves itself in. The post Three major revelations about the Gaza holocaust in the Israeli Press appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/72099d548f8423d58bd68280.json"
-    },
-    {
-      "id": "a3afc7b2509087c52ed0918d",
-      "title": "25 years ago, 9/11 triggered a U.S. crusade of torture",
-      "url": "https://mronline.org/2026/09/11/25-years-ago-9-11-triggered-a-u-s-crusade-of-torture",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-09-11T09:20:21+00:00",
-      "content_excerpt": "A quarter-century has passed since the terrorist attack that killed almost 3,000 people in the United States on Sept. 11, 2001. The post 25 years ago, 9/11 triggered a U.S. crusade of torture appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/a3afc7b2509087c52ed0918d.json"
-    },
-    {
-      "id": "0f745abb72fac60248feb5ff",
-      "title": "Ansar Allah seizes strategic Red Sea port city and liberates prisoners held by Saudi-backed forces",
-      "url": "https://breakthroughnews.org/2026/09/10/ansar-allah-seizes-strategic-red-sea-port-city-and-liberates-prisoners-held-by-saudi-backed-forces",
-      "author": "Aseel Saleh",
-      "source": "BT News",
-      "published_at": "2026-09-10T22:02:20+00:00",
-      "content_excerpt": "The Ansar Allah-led Yemeni Armed Forces seized the strategic Red Sea port city of Mokha on Yemen’s western coast on Thursday, September 10, pushing back Saudi-backed forces. The development came one week after clashes over territorial dominance between the two sides escalated on September 3 and continued on the subsequent days. Ansar Allah’s control of Mokha seaport represents a critical military and economic development, because of its close proximity to Bab al-Mandeb strait and due to serving as a key coastal staging ground along the Red Sea coast. Because the Bab el-Mandeb Strait handles roughly 12% of global trade and vital energy supplies, the development would reshape regional and global geopolitics, particularly with maritime traffic in the Strait of Hormuz already restrained by the",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/0f745abb72fac60248feb5ff.json"
-    },
-    {
-      "id": "af330415ed5a0f525894f0c2",
-      "title": "25 years later, survivors still struggle with health impacts of 9/11",
-      "url": "https://breakthroughnews.org/2026/09/10/25-years-later-survivors-still-struggle-with-health-impacts-of-9-11",
-      "author": "Ana Vračar",
-      "source": "BT News",
-      "published_at": "2026-09-10T22:02:20+00:00",
-      "content_excerpt": "On September 11, 2001, attacks on the World Trade Center towers released a dust cloud containing pulverized cement, glass fiber, and asbestos, among other toxins – marking the health of thousands of community members and first responders. Twenty-five years later, New York City has announced it will finally release the full records on the day’s health impact. In a statement released by the city administration, Manhattan Borough officials emphasized the dust and smoke to which first responders were exposed to contained over 2,500 contaminants and faced long-term health consequences, including respiratory illnesses and cancers. “For 25 years, four different Mayoral administrations kept from the public, the US Congress, and the City Council documents showing what the City actually knew about t",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/af330415ed5a0f525894f0c2.json"
-    },
-    {
-      "id": "5ddb6d84cb0f19dd7431a18d",
-      "title": "Iran targets US ships in the Persian Gulf in retaliation for US attacks on oil tankers",
-      "url": "https://breakthroughnews.org/2026/09/10/iran-targets-us-ships-in-the-persian-gulf-in-retaliation-for-us-attacks-on-oil-tankers",
-      "author": "Abdul Rahman",
-      "source": "BT News",
-      "published_at": "2026-09-10T22:02:20+00:00",
-      "content_excerpt": "Iran “targeted two US vessels and eight oil tankers in the Strait of Hormuz, inflicting heavy damages to them,” the Islamic Revolutionary Guard Corps (IRGC) said in a statement issued on Wednesday, September 9. The IRGC claimed the attacks were carried out in retaliation to US attacks on five of its oil tankers in the Persian Gulf hours before. On Tuesday, the US Central Command had claimed that it destroyed five Iranian oil tankers after Iran “targeted a US Navy warship with ballistic missiles twice over the past two days.” It also claimed that the Iranian attacks had failed to cause any harm to the warship or US personnel. The IRGC claimed that 10 ships trying to cross the Strait of Hormuz through the “unauthorized” US-sponsored route near Oman were also attacked for violating its restri",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/5ddb6d84cb0f19dd7431a18d.json"
-    },
-    {
-      "id": "86624d88fdf5c1db447f84df",
-      "title": "Who is Nathan Cofnas, the pro-eugenics academic who hounded Jason Arday?",
-      "url": "https://breakthroughnews.org/2026/09/10/who-is-nathan-cofnas-the-pro-eugenics-academic-who-hounded-jason-arday",
-      "author": "Meher Vepari",
-      "source": "BT News",
-      "published_at": "2026-09-10T18:03:57+00:00",
-      "content_excerpt": "This content is for members only. Visit the site and log in/register to read.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/86624d88fdf5c1db447f84df.json"
-    },
-    {
-      "id": "73df59fa9977734edfd5a386",
-      "title": "The U.S. government is going after a Michigan labor union over its Palestine activism",
-      "url": "https://mondoweiss.net/2026/09/the-u-s-government-is-going-after-a-michigan-labor-union-over-its-palestine-activism",
-      "author": "Adi Saleem and Yarden Azoulay Katz",
-      "source": "Mondoweiss",
-      "published_at": "2026-09-10T17:38:18+00:00",
-      "content_excerpt": "The U.S. government is criminalizing a campus labor union at the University of Michigan for supporting Palestine. We are calling on fellow labor organizers to resist this dangerous act of repression",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/73df59fa9977734edfd5a386.json"
-    },
-    {
-      "id": "62ca539c175dd080017f6317",
-      "title": "Arms Embargo as Class Struggle",
-      "url": "https://socialistforum.dsausa.org/issues/spring-summer-2026/arms-embargo-as-class-struggle",
-      "author": "samuel.dibella",
-      "source": "Socialist Forum",
-      "published_at": "2026-09-10T17:25:28+00:00",
-      "content_excerpt": "On October 16, 2023, just weeks after the beginning of Israel’s intensified genocidal assault on the Gaza strip, the Palestinian General Federation of Trade Unions issued a historic call . The federation asked workers across the world to refuse to build and transport weapons for Israel, as well as to take action against complicit companies and pressure their governments to end military trade. On October 31, Belgian transport workers’ unions answered, announcing that they would not handle arms shipments to Israel . “The loading and unloading of these weapons,” they wrote , “helps to provide organisations to kill innocent people… As trade unions, we declare our solidarity with those who are campaigning for peace.” The Belgian unions have since been joined by dockworkers in Italy, France, Spa",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/62ca539c175dd080017f6317.json"
     }
   ]
 }

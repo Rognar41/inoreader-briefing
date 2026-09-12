@@ -1,12 +1,72 @@
 {
-  "generated_at": "2026-09-11T21:51:03.022581+00:00",
-  "generated_at_jst": "2026-09-12T06:51:03.022581+09:00",
-  "period_start": "2026-09-10T15:51:03.022581+00:00",
+  "generated_at": "2026-09-12T21:33:39.662854+00:00",
+  "generated_at_jst": "2026-09-13T06:33:39.662854+09:00",
+  "period_start": "2026-09-11T15:33:39.662854+00:00",
   "lookback_hours": 30,
   "folder": "00_毎日確認",
-  "article_count": 20,
+  "article_count": 12,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "d841650ca1d42031884291c2",
+      "title": "The Socialist Labor Unionists Who Took On Samuel Gompers",
+      "url": "https://www.inoreader.com/article/3a9c6e76791f40a3",
+      "author": "Philipp Corfman",
+      "source": "Jacobin",
+      "published_at": "2026-09-12T16:10:57+00:00",
+      "content_excerpt": "“We have started on a great big national fight with the union movement at stake!” Max Hayes, socialist newspaper editor and union leader, thundered to the assembled representatives of Cleveland, Ohio’s labor movement in the fall of 1909. “The American Federation of Labor will stand or fall as events issue.” The delegates roared their approval, setting in motion a decisive battle for the soul of organized labor. On one side were Cleveland’s radical left-wing workers, led by Hayes; on the other, the AFL, led by archconservative President Samuel Gompers. At stake was the meaning of solidarity, union democracy, and the future of labor politics — whether the American labor movement would continue to be dominated by conservative business unionists or embark on a revolutionary anti-capitalist pat",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/d841650ca1d42031884291c2.json"
+    },
+    {
+      "id": "3b0ab234878654b0cceea09d",
+      "title": "Swing Voters Want Kitchen-Table Populism, Not a Sermon",
+      "url": "https://www.inoreader.com/article/3a9c6e767900d35b",
+      "author": "Ned Rust",
+      "source": "Jacobin",
+      "published_at": "2026-09-12T14:39:16+00:00",
+      "content_excerpt": "“Affordability” has now been embraced even by politicians who haven’t pushed a shopping cart since the Clinton administration. A record 89 percent of Americans say government corruption is widespread. And even mainstream liberal media is declaring that populism is dominating politics right now — so much so that Politico has an entire section devoted to the topic. But when it comes to winning swing voters, it’s not enough to speak like an elite-hating, anti-corruption populist whose number one priority is household costs. A key new study concludes that if you want to reach past your base, it will also behoove you to speak in concrete terms, to avoid sermonizing, and to steer clear of words you wouldn’t use in polite company. Kicking the Tires Based on a survey of 6,100 respondents, the stud",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/3b0ab234878654b0cceea09d.json"
+    },
+    {
+      "id": "0af27466967942480b60aa22",
+      "title": "We Rely on Cleaners’ Work, So Cleaners Should Be Paid More",
+      "url": "https://www.inoreader.com/article/3a9c6e76790ee422",
+      "author": "Hayat Elhore",
+      "source": "Jacobin",
+      "published_at": "2026-09-12T13:37:40+00:00",
+      "content_excerpt": "Starting from the late 1970s, neoliberalism’s outsourcing revolution changed the lives of millions of low-wage service workers like cleaners. Once formerly employed by municipalities, national governments, or other public authorities to clean schools, hospitals, or airports, they now found themselves working for private companies contracted in competitive procurement markets. These workers have experienced job insecurity, rising workloads, draining shift work, and increasing isolation in the workplace. As procurement markets were designed to drive down prices, employers in labor-intensive sectors such as cleaning pressured fewer workers to deliver more. It was often at the expense of their health and of service quality itself. The European Union is a prime example of this development. Toda",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/0af27466967942480b60aa22.json"
+    },
+    {
+      "id": "d02246f36a6df3d0ec16a65a",
+      "title": "There’s Always A Red Scare Somewhere",
+      "url": "https://democraticleft.dsausa.org/2026/09/12/theres-always-a-red-scare-somewhere",
+      "author": "tfrasca@yahoo.com",
+      "source": "Democratic Left",
+      "published_at": "2026-09-12T13:35:25+00:00",
+      "content_excerpt": "\"Red All Over\" — an occasional round-up of media coverage of DSA The post There’s Always A Red Scare Somewhere appeared first on Democratic Left .",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/d02246f36a6df3d0ec16a65a.json"
+    },
     {
       "id": "967ac27d1608f5b4b5f9d5db",
       "title": "In Photos: On Labor Day 2026, Boston Labor Has Never Been Louder",
@@ -126,186 +186,6 @@
       "priority": 1,
       "date_missing": false,
       "article_path": "articles/6d5d3ecb1f001f7b4bcb16fa.json"
-    },
-    {
-      "id": "4850b6b432c8c21215ab02ee",
-      "title": "25 Years After 9/11, the Zombie War on Terror Stumbles On",
-      "url": "https://www.inoreader.com/article/3a9c6e767a77933a",
-      "author": "Branko Marcetic",
-      "source": "Jacobin",
-      "published_at": "2026-09-11T14:26:02+00:00",
-      "content_excerpt": "What does it mean to “Never Forget,” as we’re often asked to do when it comes to the September 11 attacks that killed nearly three thousand people? After all, few people who witnessed the crime in real time could ever forget it or the horrors in its wake: the bodies falling, the survivors crushed beneath rubble and dust, the people riddled with disease years later.Certainly, “Never Forget” means keeping alive the memory of those whose lives were tragically lost. It could also be to remember and hold accountable those who perpetrated the crime. Or maybe, it’s to remember how and why it happened and the immense suffering that followed, to avoid repeating the disastrous choices that led to it all.One thing’s for certain, twenty-five years after the attacks: if we’re talking about the last two",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/4850b6b432c8c21215ab02ee.json"
-    },
-    {
-      "id": "89e4df1ae32221e80452b023",
-      "title": "Why Is It So Hard to Imagine the End of American Empire?",
-      "url": "https://www.inoreader.com/article/3a9c6e767a78f2da",
-      "author": "Daniel Bessner",
-      "source": "Jacobin",
-      "published_at": "2026-09-11T13:24:50+00:00",
-      "content_excerpt": "The September 11, 2001, attacks on New York City and Washington, DC, as the saying goes, “changed everything.” After the Soviet Union collapsed in 1991, the global American empire, created in the 1940s to combat communism, was left without a raison d’être . While foreign policymakers spent the 1990s searching for one, the best they could come up with — use the military power of the United States to stop humanitarian abuses abroad — was quixotic at best, catastrophic at worst. For a time, the empire lost its juice. The attacks changed all that. After 9/11, the United States identified a new global mission: fight “jihadist terrorism” wherever it might be found. We all know how that turned out. The United States lurched from disaster to disaster, killing and deracinating millions of people ab",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/89e4df1ae32221e80452b023.json"
-    },
-    {
-      "id": "5678ec3ad35bcb1650d187ad",
-      "title": "How The War on Terror Continues To Terrorize Communities 25 Years Later",
-      "url": "https://inthesetimes.com/article/war-on-terror-9-11-trump-nspm-7",
-      "author": "",
-      "source": "In These Times",
-      "published_at": "2026-09-10T23:19:35+00:00",
-      "content_excerpt": "In early 2025 , the world watched as masked federal agents abducted Pro-Palestinian activists across the country based on the premise that they were promoting or supporting terrorism. Having tested various legal boundaries through these cases, the Trump administration became further emboldened later that year, issuing the National Security Presidential Memorandum (NSPM- 7 ) in September 2025 . The memorandum effectively equated certain political and ideological beliefs with terrorism, and a slew of politically motivated attacks quickly followed. In June 2026 , the Justice Department indicted two Cop City activists in Georgia on arson charges. Within the same week, charges were brought against eight pro-Palestine activists in Michigan and 15 anti-Immigration and Customs Enforcement (ICE) ac",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/5678ec3ad35bcb1650d187ad.json"
-    },
-    {
-      "id": "fd31b2506eb5b51ac445cd7d",
-      "title": "25 Years After 9/11, How Do We Build a Movement To Stop Forever Wars?",
-      "url": "https://inthesetimes.com/article/9-11-war-on-terror-iraq-bush-25-anniversary",
-      "author": "",
-      "source": "In These Times",
-      "published_at": "2026-09-10T23:19:35+00:00",
-      "content_excerpt": "The Twin Towers of the World Trade Center emit smoke on Sept. 11, 2001. (WIKIMEDIA) Twenty-five years after the terrorist attacks on Sept. 11 , 2001 , on the surface it may seem that American foreign policy has followed a course filled with continuity. A quarter century ago, the United States launched the ​ “ War on Terror” in response to 9 / 11 . Today, President Donald Trump’s attacks on Iran have embroiled the country in another conflict in the Middle East. Yet while the War on Terror gave rise to a disastrous wave of military intervention, it also produced a historic surge of antiwar activism, which played a critical role in discrediting ​ “ forever wars” across the political spectrum. Whereas the Iraq War began with 70 % public approval, Trump’s war in Iran has been widely opposed fro",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/fd31b2506eb5b51ac445cd7d.json"
-    },
-    {
-      "id": "8e061b6c60fff30a279cc015",
-      "title": "The GOP’s Enemy #1 for the Midterms: Socialism",
-      "url": "https://www.inoreader.com/article/3a9c6e767bf3ccac",
-      "author": "Ben Burgis",
-      "source": "Jacobin",
-      "published_at": "2026-09-10T19:47:51+00:00",
-      "content_excerpt": "A very old joke imagines two elderly Jewish men sitting on a park bench. The first reads the local Yiddish-language newspaper. The second reads an antisemitic, pro-fascist paper. After a few minutes, the first turns to the second and asks, “How can you read that garbage?” The second replies, “When I read your paper, it’s nothing but bad news. It depresses me! When I read this paper, I hear that we run banks, the media, Hollywood. . . . It cheers me up!” I kept thinking of that yesterday as I watched the first night of the Republicans’ midterm “ convention ” (where no one was nominated, and no official business of any kind was conducted). When I read Jacobin , I get a (sadly realistic) view of reality where the Democratic establishment remains powerful and opposed to even basic reforms like",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/8e061b6c60fff30a279cc015.json"
-    },
-    {
-      "id": "02454109d7c612fef445f8a6",
-      "title": "Found, But Not Rescued",
-      "url": "https://inthesetimes.com/article/migrant-deaths-mediterranean-sea-europe",
-      "author": "",
-      "source": "In These Times",
-      "published_at": "2026-09-10T17:20:41+00:00",
-      "content_excerpt": "In the middle of the ocean, a man was drowning. He could not hold fast to the ropes dangling from the bow and stern of the bulk carrier that stopped to help. Below, a small, blue wooden boat crammed with people was tossed by a raging storm. As high winds sloshed water over the deck, the passengers — who had sailed for a day and a night without drinking water — rushed toward the swaying ropes. But the lines slipped through their hands. The children lacked the strength to climb. Even for the strong, a single slip could mean being crushed beneath the swaying hull of the massive ship. “ We were all very scared in the moment and drove away from [the] big ship,” Daniel, a survivor from Eritrea, reportedly told rescuers, describing how the migrant boat he was on powered away from the larger vesse",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/02454109d7c612fef445f8a6.json"
-    },
-    {
-      "id": "ad2fe3e85d4288b035db9425",
-      "title": "Train Crashes Destroyed Their Towns. Will Yours Be Next?",
-      "url": "https://inthesetimes.com/article/train-crashes-destroyed-towns-working-people-podcast-east-palestine",
-      "author": "",
-      "source": "In These Times",
-      "published_at": "2026-09-10T17:20:41+00:00",
-      "content_excerpt": "Nearly 10 years before the train derailment and subsequent chemical disaster in East Palestine, Ohio, the town of Lac-Mégantic, Quebec experienced one of the deadliest rail disasters in North America. On July 6 , 2013 , a runaway train derailed in the center of town, leveling buildings and dumping millions of tons of crude oil onto the surrounding area. 47 people were killed in the explosion. In July , Maximillian Alvarez and Dr. Nicole Fabricant sat down with a panel of guests from East Palestine and Lac-Mégantic to discuss what happens when your town becomes a sacrifice zone and how residents can join together to fight back against the corporations responsible. This conversation has been edited for length and clarity. Maximillian Alvarez: Welcome, everyone, to Working People, a podcast a",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/ad2fe3e85d4288b035db9425.json"
-    },
-    {
-      "id": "2fc1e78d385dd2241d7a8627",
-      "title": "Did We Really Vote a Poop-Flinging Baboon Into the Highest Political Office?",
-      "url": "https://inthesetimes.com/article/political-cartoons-satire-tom-tomorrow-trump-poop-flinging-baboon-president-maga",
-      "author": "",
-      "source": "In These Times",
-      "published_at": "2026-09-10T17:20:41+00:00",
-      "content_excerpt": "Free for any DSA or Union member Get 10 print issues of our award-winning, worker-first journalism here!",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/2fc1e78d385dd2241d7a8627.json"
-    },
-    {
-      "id": "00e7c90ff72577bd2d52ecc4",
-      "title": "The Big Idea: Winning",
-      "url": "https://inthesetimes.com/article/big-idea-winning-progressives-democratic-socialists-of-america-elections-midterms",
-      "author": "",
-      "source": "In These Times",
-      "published_at": "2026-09-10T17:20:41+00:00",
-      "content_excerpt": "In These Times is proud to be independent, pro-labor and anti-fascist. Support our work today and help left-wing journalism thrive. verb 1 . to obtain by work 2 . to be the victor Winning elections has, historically, been difficult for socialists in the United States. Less than 1 % of Congress identifies as democratic socialists. Just two years ago, the Left suffered high-profile losses after a consortium of corporations and pro-Israel donors spent an unprecedented amount of money in congressional primaries to unseat former Reps. Cori Bush (D-Mo.) and Jamaal Bowman (D-N.Y.). So when on June 23 , just six months into Zohran Mamdani’s tenure as mayor of New York City, his entire endorsed slate of democratic socialist candidates, including two now-likely congresswomen, won their New York prim",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/00e7c90ff72577bd2d52ecc4.json"
-    },
-    {
-      "id": "daaafee3de9606199de9aa49",
-      "title": "In the Name of Security",
-      "url": "https://inthesetimes.com/article/investigation-prison-abolition-invasive-humiliating-routine-violence-incarceration-women-strip-searches",
-      "author": "",
-      "source": "In These Times",
-      "published_at": "2026-09-10T17:20:41+00:00",
-      "content_excerpt": "When Karla Padilla started her sentence at the federal correctional institution in Dublin, Calif., in 2023 , a guard singled her out. Over the next 15 months, the guard strip-searched Padilla so frequently that anyone near her risked being searched too, and other inmates began keeping their distance whenever that guard was on shift. Most prisons across the country conduct strip searches under a federal policy that requires women officers to inspect incarcerated women. The officer instructs them to remove their clothes, shake their hair, open their mouths, lift their breasts or genital area and then bend, squat and cough. On one particularly cold day in November 2023 , while Padilla was cleaning the chapel, the guard demanded that Padilla strip for a search in full view of four male guards ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/daaafee3de9606199de9aa49.json"
-    },
-    {
-      "id": "89ac154a956bcc1300ab76cc",
-      "title": "ICE Is Conducting a Reign of Terror",
-      "url": "https://inthesetimes.com/article/immigration-customs-enforcement-ice-trump-lorenzo-araujo-sebastian-guerrero",
-      "author": "",
-      "source": "In These Times",
-      "published_at": "2026-09-10T17:20:41+00:00",
-      "content_excerpt": "In These Times is proud to be independent, pro-labor and anti-fascist. Support our work today and help left-wing journalism thrive. — — — In less than one week, ICE agents killed twice. Neither victim was the man they were looking for. And each time their excuses made no sense. But the killings served a purpose: terrorizing immigrant communities, in pursuit of Trump’s white nationalist agenda. On July 7 in Houston, masked ICE agents who did not identify themselves stopped and shot to death Lorenzo Salgado Araujo , a 52 -year-old Mexican national and father of three. Araujo had lived in the United States for 35 years and had applied to obtain legal status. He was on his way to work in construction. Using its by-now familiar excuse, Department of Homeland Security (DHS) officials claimed tha",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/89ac154a956bcc1300ab76cc.json"
-    },
-    {
-      "id": "d57a3274447abbd74a8ae077",
-      "title": "Universities Are Teaching the Virtue of Overwork",
-      "url": "https://www.inoreader.com/article/3a9c6e767bebcad2",
-      "author": "Nicholas Liu",
-      "source": "Jacobin",
-      "published_at": "2026-09-10T16:51:33+00:00",
-      "content_excerpt": "Although the University of Chicago bears “Let knowledge grow from more to more; and so be human life enriched” as its official motto, a different slogan entirely has attained much wider fame. Thanks to long-cemented campus lore, the university is best known instead by the refrain of its student body: “Where fun goes to die.” The slogan is spoken in weary, ironic tones, suggesting a strange marriage of acceptance and self-congratulation. Yes, life can be miserable, and yes, the vigor of UChicago’s curriculum is exactly what I came here for, and it will not break me . Stanford University and the University of Pennsylvania (Penn) have their own versions — “ Duck syndrome ” and “ Penn Face ,” respectively — the brave demeanor a student puts on to hide their stress. To suffer is a mark of virtu",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/d57a3274447abbd74a8ae077.json"
     }
   ]
 }
