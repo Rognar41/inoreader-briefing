@@ -1,12 +1,73 @@
 {
-  "generated_at": "2026-09-12T21:33:39.662854+00:00",
-  "generated_at_jst": "2026-09-13T06:33:39.662854+09:00",
-  "period_start": "2026-09-11T15:33:39.662854+00:00",
+  "generated_at": "2026-09-13T21:34:11.813455+00:00",
+  "generated_at_jst": "2026-09-14T06:34:11.813455+09:00",
+  "period_start": "2026-09-12T15:34:11.813455+00:00",
   "lookback_hours": 30,
   "folder": "00_毎日確認",
-  "article_count": 12,
+  "article_count": 5,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "a35d6aeef29215a6231661c8",
+      "title": "In Defense of Abolition",
+      "url": "https://socialistforum.dsausa.org/issues/spring-summer-2026/in-defense-of-abolition",
+      "author": "Socialist Forum",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-09-13T19:33:54+00:00",
+      "content_excerpt": "At the July DSA National Political Committee (NPC) meeting, I proposed adding abolition to the Workers Deserve More program because I believe that abolishing capitalist policing and prisons is a fundamental demand of the socialist movement. I crafted the language carefully to clarify that we mean abolishing policing and prisons as institutions of capitalist rule, not conflating the abolition of capitalist policing and prisons with the abolition of every future social capacity for accountability and safety. The specific language we added is in italics: “Demilitarize police departments, disempower police unions, and redirect police and prison funding to public services, as steps towards abolishing the carceral forces of the capitalist state. ” This phrasing was eventually simplified to “towa",
+      "source_folders": [
+        "00_毎日確認",
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/a35d6aeef29215a6231661c8.json"
+    },
+    {
+      "id": "63686c38d5af593d9d47cfcd",
+      "title": "Americans Are Turning Against School Vouchers",
+      "url": "https://www.inoreader.com/article/3a9c6e7679770e28",
+      "author": "Jennifer C. Berkshire",
+      "source": "Jacobin",
+      "published_at": "2026-09-13T13:16:43+00:00",
+      "content_excerpt": "Ten percent. That’s how many Arizonans support that state’s Wild West voucher scheme. If the figure seems surprising given the ardency of the sales pitch for “education freedom,” its source should send your eyebrows skyward. This bleak view of Arizona public opinion about the state’s $1-billion-plus Education Savings Account (ESA) program comes not from voucher haters but from their superfans: the American Federation for Children (AFC), the deep-pocketed and highly influential school-choice lobbying firm started by Betsy DeVos. To understand why AFC is decidedly downcast even as vouchers are on the move, we need to make a trip to the Grand Canyon State, where last month, the state Supreme Court deprived voters of the opportunity to weigh in on whether the famously fraud-ridden voucher prog",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/63686c38d5af593d9d47cfcd.json"
+    },
+    {
+      "id": "f578693ef7e069009e1a7df5",
+      "title": "Economics Needs a New Approach to Inflation",
+      "url": "https://www.inoreader.com/article/3a9c6e7679770e25",
+      "author": "Andrew Elrod",
+      "source": "Jacobin",
+      "published_at": "2026-09-13T13:16:43+00:00",
+      "content_excerpt": "Four years have passed since the COVID-19 pandemic’s inflation in the wake of the American economy’s reopening hit its peak, and the American business cycle is today in a strange way. Wanting to slow the rise in prices that accompanied the reopening and construction boom, the Biden administration and the Federal Reserve cut social spending and raised interest rates. Nonresidential construction has been falling since late 2023. Residential construction investment collapsed in early 2023, then rose briefly in 2024, but has been falling for over a year now. As the unemployment rate crept up slowly throughout the second half of the Biden administration, economists and journalists consistently warned of the risk of a recession. Yet despite falling construction spending and creeping unemployment",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/f578693ef7e069009e1a7df5.json"
+    },
+    {
+      "id": "6ea2564000b71e2347e21965",
+      "title": "Stories from the Chilean Coup: Part 1",
+      "url": "https://redfault.com/stories-from-the-chilean-coup-part-1",
+      "author": "Red Fault -- Austin DSA",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-09-12T22:42:44+00:00",
+      "content_excerpt": "By Bridget T First published on Substack here . 9-11-2025 was the 52 nd anniversary of the Chilean coup. Twelve years before that, on the 40th anniversary, 9-11-2013, I walked into a room at the top of Anabel Taylor Hall on the Cornell University campus to take part in an interview that would alter my view of the world forever. Presidential Palace, Chile 1973 In the summer of 2013, I was a Politics student at Ithaca College ready to start an internship with CUSLAR (Committee on U.S. – Latin American Relations) in the fall. I volunteered first for the summer to help organize the CUSLAR Spanish Camp for Activists where we improved our Spanish and empowered each other with good food, music, and political speakers. It was there that I heard live Chilean music for the first time around the camp",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/6ea2564000b71e2347e21965.json"
+    },
     {
       "id": "d841650ca1d42031884291c2",
       "title": "The Socialist Labor Unionists Who Took On Samuel Gompers",
@@ -21,171 +82,6 @@
       "priority": 1,
       "date_missing": false,
       "article_path": "articles/d841650ca1d42031884291c2.json"
-    },
-    {
-      "id": "3b0ab234878654b0cceea09d",
-      "title": "Swing Voters Want Kitchen-Table Populism, Not a Sermon",
-      "url": "https://www.inoreader.com/article/3a9c6e767900d35b",
-      "author": "Ned Rust",
-      "source": "Jacobin",
-      "published_at": "2026-09-12T14:39:16+00:00",
-      "content_excerpt": "“Affordability” has now been embraced even by politicians who haven’t pushed a shopping cart since the Clinton administration. A record 89 percent of Americans say government corruption is widespread. And even mainstream liberal media is declaring that populism is dominating politics right now — so much so that Politico has an entire section devoted to the topic. But when it comes to winning swing voters, it’s not enough to speak like an elite-hating, anti-corruption populist whose number one priority is household costs. A key new study concludes that if you want to reach past your base, it will also behoove you to speak in concrete terms, to avoid sermonizing, and to steer clear of words you wouldn’t use in polite company. Kicking the Tires Based on a survey of 6,100 respondents, the stud",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/3b0ab234878654b0cceea09d.json"
-    },
-    {
-      "id": "0af27466967942480b60aa22",
-      "title": "We Rely on Cleaners’ Work, So Cleaners Should Be Paid More",
-      "url": "https://www.inoreader.com/article/3a9c6e76790ee422",
-      "author": "Hayat Elhore",
-      "source": "Jacobin",
-      "published_at": "2026-09-12T13:37:40+00:00",
-      "content_excerpt": "Starting from the late 1970s, neoliberalism’s outsourcing revolution changed the lives of millions of low-wage service workers like cleaners. Once formerly employed by municipalities, national governments, or other public authorities to clean schools, hospitals, or airports, they now found themselves working for private companies contracted in competitive procurement markets. These workers have experienced job insecurity, rising workloads, draining shift work, and increasing isolation in the workplace. As procurement markets were designed to drive down prices, employers in labor-intensive sectors such as cleaning pressured fewer workers to deliver more. It was often at the expense of their health and of service quality itself. The European Union is a prime example of this development. Toda",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/0af27466967942480b60aa22.json"
-    },
-    {
-      "id": "d02246f36a6df3d0ec16a65a",
-      "title": "There’s Always A Red Scare Somewhere",
-      "url": "https://democraticleft.dsausa.org/2026/09/12/theres-always-a-red-scare-somewhere",
-      "author": "tfrasca@yahoo.com",
-      "source": "Democratic Left",
-      "published_at": "2026-09-12T13:35:25+00:00",
-      "content_excerpt": "\"Red All Over\" — an occasional round-up of media coverage of DSA The post There’s Always A Red Scare Somewhere appeared first on Democratic Left .",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/d02246f36a6df3d0ec16a65a.json"
-    },
-    {
-      "id": "967ac27d1608f5b4b5f9d5db",
-      "title": "In Photos: On Labor Day 2026, Boston Labor Has Never Been Louder",
-      "url": "https://working-mass.com/2026/09/11/in-photos-on-labor-day-2026-boston-labor-has-never-been-louder",
-      "author": "Working Mass: The Massachusetts DSA Labor Outlet",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-09-11T19:43:26+00:00",
-      "content_excerpt": "DSA contingent stands with the crowd at Copley for Labor Day (Liam N) By: Reid Jackson COPLEY SQUARE – The voices and shouts of labor were audible approaching the square on September 7. Starting in the morning, the Greater Boston Labor Council (GBLC) led workers gathering between Trinity Church and the Boston Public Library. At the parade were all the ranks: the Service Employees International Union (SEIU), Boston Teachers Union (BTU), SAG-AFTRA, and the United Auto Workers (UAW). At the heart of the march was DSA: red signs, each blazened with “Socialism Beats Fascism.” DSA marches with the Starbucks Workers United (SBWU) in the same contingent (Fiona) Recent Electoral Results Labor Day 2026 in Boston is colored by the results of the midterm primaries for Massachusetts, with winners and l",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/967ac27d1608f5b4b5f9d5db.json"
-    },
-    {
-      "id": "6d84a076e9853099eb7faa8b",
-      "title": "Impressions",
-      "url": "https://rocdsa.org/blog/impressions",
-      "author": "Rochester Red Star: News from Rochester DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-09-11T19:43:26+00:00",
-      "content_excerpt": "Impressions is where ROC DSA members can share what they’re reading, listening to, viewing, or otherwise experiencing. If you have two hundred words about the culture at large you’d like to share with your comrades, submit to Rich J on Slack or to the Red Star at steering@rocdsa.org . History from Below Isabella D read: A People’s History of the United States (1980), by Howard Zinn A People’s History of the United States should be required reading not just for those on the left, but for all Americans. Zinn delivers a clear, incisive chronicle of US history from the conventionally neglected perspective of the marginalized working class – the indentured servants, immigrants, indigenous peoples, and laborers that generate a “quiet revolution.” Its accessible dialectics serve as a springboard ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/6d84a076e9853099eb7faa8b.json"
-    },
-    {
-      "id": "46bb28fdf22e141ccdeebb72",
-      "title": "What do we joke about when we joke about 9/11",
-      "url": "https://rocdsa.org/blog/what-do-we-joke-about-when-we-joke-about-9-11",
-      "author": "Rochester Red Star: News from Rochester DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-09-11T19:43:26+00:00",
-      "content_excerpt": "by Jean Allen On August 9th, Michael Larosa, Democratic strategist and former spokesperson to the Biden administration, answered a question about why he opposed Abdul El-Sayed. “The problem with ‘Vote Blue No Matter Who’, the who still matters. At least it matters to me. I come from a time when I watched people jumping out of windows on 9/11, 70 miles from where the towers were falling and burning for 3 months, we could smell it where I was from in Pennsylvania where the wind blew.” This is a part of a long-running denial of the humanity of Arab and Muslim peoples and has come up more and more as leftist Muslims run for and attain office. This language, which seemingly blames a man who would be 16 at the time for an oddly personal trauma narrative, is as sanctimonious as it is ridiculous a",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/46bb28fdf22e141ccdeebb72.json"
-    },
-    {
-      "id": "c7656993f46b4ea2023c5c7a",
-      "title": "When the Market Destroys a Community",
-      "url": "https://www.inoreader.com/article/3a9c6e767aad59a6",
-      "author": "Evelina Johansson Wilén",
-      "source": "Jacobin",
-      "published_at": "2026-09-11T19:29:57+00:00",
-      "content_excerpt": "In 1985, when I was four months old, my family moved from Kiruna to Luleå, a city in northern Sweden. My father had found a job with the Swedish State Railways, and we were given a firsthand rental contract for a four-room apartment in Hertsön, one of the city’s largest housing estates. Hertsön had been built as part of Sweden’s massive public housing program of the 1960s and ’70s. But there was another reason for its construction. It was meant to house workers for a vast new industrial project: Steelworks 80 (Stålverk 80). Steelworks 80 was conceived in the early 1970s by Sweden’s Social Democratic government as an expansion of the country’s steel industry. It was supposed to transform the economy of northern Sweden, create thousands of jobs, and reverse decades of depopulation. Instead, ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/c7656993f46b4ea2023c5c7a.json"
-    },
-    {
-      "id": "9b49cdbb024ddc2a3ce92f0d",
-      "title": "Film Workers Should Fight for Good Movies, Not Just Jobs",
-      "url": "https://www.inoreader.com/article/3a9c6e767a93d567",
-      "author": "Alex McCarron",
-      "source": "Jacobin",
-      "published_at": "2026-09-11T17:28:44+00:00",
-      "content_excerpt": "It’s hard getting normal people to care about the politics of the film industry. Our demands always have to be hitched to some other kind of politics. California Senator Adam Schiff recently tried national security: “We have a lot of our influence around the world as a result of American film and TV,” as he put it. “We don’t want to lose that soft power.” Presumably he’s not talking about the enduring influence of John Huston and Robert Altman films, but rather Top Gun and Transformers movies made in collaboration with the Pentagon. What matters to someone like Schiff is the economic health of the industry — not whether American films are any good. The unions aren’t exactly interested in the question either. Last year, I went to the quadrennial convention of the International Alliance of T",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/9b49cdbb024ddc2a3ce92f0d.json"
-    },
-    {
-      "id": "4305d390fc28e3556533a438",
-      "title": "9/11/2001: I Was a Freshman in Alabama, I Wore a Hijab",
-      "url": "https://inthesetimes.com/article/9-11-2001-i-was-a-freshman-in-high-school-in-alabama-i-wore-a-hijab",
-      "author": "",
-      "source": "In These Times",
-      "published_at": "2026-09-11T16:23:58+00:00",
-      "content_excerpt": "I was a freshman in high school in Alabama, I wore a hijab. In gym class my teacher wheeled in a screen. Something horrible was happening. I watched, mouth agape as the second tower hit. We were silent. Smoke pours from the World Trade Center after it was hit by two hijacked passenger planes September 11, 2001. (Photo by Robert Giroux/Getty Images) As that period reached an end, my name was announced on the loudspeaker. I went to the office to see someone who worked with my father there to check me out. I was sick to my stomach — had something happened to a family member? Did I know anyone in New York? Why was he there to pick me up? My father’s colleague did not answer me. I got home to my parents sitting at the dining room table. I asked frantically if everyone was okay. Yes, my father a",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/4305d390fc28e3556533a438.json"
-    },
-    {
-      "id": "b1ccbbec8f39fdbc386308f0",
-      "title": "How U.S. Muslims Have Transformed in the 20 Years Since 9/11—and What It Means in the Wake of 10/7",
-      "url": "https://inthesetimes.com/article/muslims-palestine-islamophobia-palestine-israel-gaza",
-      "author": "",
-      "source": "In These Times",
-      "published_at": "2026-09-11T16:23:58+00:00",
-      "content_excerpt": "To read this story in Arabic (العربية), click here . Zeynab Muhammad, a Palestinian college student in Illinois in her early twenties, has been changing her routine since Israel began its assault on Gaza. She no longer goes to the library to study or roams campus to hang out with friends. She says it’s tough to complete schoolwork or get other tasks done. Fearing physical violence, she spends most of her time in her apartment. “ I’m constantly on edge,” she says about being on campus. ​ “ I feel like, when people look at me, all that comes to mind are the negative stereotypes associated with Arabs and Muslims. My name and actual character is irrelevant.” Two years ago, when Muhammad (who asked to use a pseudonym because she fears attacks) first started wearing the hijab, she noticed her he",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/b1ccbbec8f39fdbc386308f0.json"
-    },
-    {
-      "id": "6d5d3ecb1f001f7b4bcb16fa",
-      "title": "The AfD's Economic Populism Could Hardly Be Shallower",
-      "url": "https://www.inoreader.com/article/3a9c6e767a8117b3",
-      "author": "Alexander Görlach",
-      "source": "Jacobin",
-      "published_at": "2026-09-11T15:58:31+00:00",
-      "content_excerpt": "It took less than an hour. No sooner had it become clear, this Sunday, that the Alternative für Deutschland (AfD) was by far the strongest party in Saxony-Anhalt than Elon Musk offered his congratulations on X. The nationalist party’s lead candidate, Ulrich Siegmund, replied immediately, in English, offering “strong and constructive cooperation” and promising that, under AfD leadership, Germany would once again become “a place worth investing in.”This is the first time that a state chapter of the party, which the Office for the Protection of the Constitution classifies as “confirmed far-right extremist,” has actually won a state. The exchange on X marked the latest in a string of public overtures between the world’s richest man and the AfD.This episode warrants closer examination, because ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/6d5d3ecb1f001f7b4bcb16fa.json"
     }
   ]
 }

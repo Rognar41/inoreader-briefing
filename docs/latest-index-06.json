@@ -1,221 +1,102 @@
 {
-  "generated_at": "2026-09-12T21:33:39.662854+00:00",
-  "generated_at_jst": "2026-09-13T06:33:39.662854+09:00",
-  "period_start": "2026-09-11T15:33:39.662854+00:00",
+  "generated_at": "2026-09-13T21:34:11.813455+00:00",
+  "generated_at_jst": "2026-09-14T06:34:11.813455+09:00",
+  "period_start": "2026-09-12T15:34:11.813455+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
-  "article_count": 14,
+  "article_count": 6,
   "excerpt_chars": 800,
   "articles": [
     {
-      "id": "46daeba313a2101a7e2946a9",
-      "title": "Are the UK sanctions on Israel real progress, or more illusion?",
-      "url": "https://mondoweiss.net/2026/09/are-the-uk-sanctions-on-israel-real-progress-or-more-illusion",
-      "author": "Mitchell Plitnick",
+      "id": "a35d6aeef29215a6231661c8",
+      "title": "In Defense of Abolition",
+      "url": "https://socialistforum.dsausa.org/issues/spring-summer-2026/in-defense-of-abolition",
+      "author": "Socialist Forum",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-09-13T19:33:54+00:00",
+      "content_excerpt": "At the July DSA National Political Committee (NPC) meeting, I proposed adding abolition to the Workers Deserve More program because I believe that abolishing capitalist policing and prisons is a fundamental demand of the socialist movement. I crafted the language carefully to clarify that we mean abolishing policing and prisons as institutions of capitalist rule, not conflating the abolition of capitalist policing and prisons with the abolition of every future social capacity for accountability and safety. The specific language we added is in italics: “Demilitarize police departments, disempower police unions, and redirect police and prison funding to public services, as steps towards abolishing the carceral forces of the capitalist state. ” This phrasing was eventually simplified to “towa",
+      "source_folders": [
+        "00_毎日確認",
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/a35d6aeef29215a6231661c8.json"
+    },
+    {
+      "id": "d910c21967550204de93227c",
+      "title": "Norman Finkelstein’s latest book indicts those ‘in high places’ for genocide in Gaza",
+      "url": "https://mondoweiss.net/2026/09/norman-finkelsteins-latest-book-indicts-those-in-high-places-for-genocide-in-gaza",
+      "author": "James North",
       "source": "Mondoweiss",
-      "published_at": "2026-09-12T13:37:24+00:00",
-      "content_excerpt": "The UK's new sanctions on Israeli settlements may be groundbreaking, but they're also full of loopholes. F-35 parts are exempt, the state itself is untouched, and enforcement won't start for months. Real progress, but far from enough.",
+      "published_at": "2026-09-13T13:41:03+00:00",
+      "content_excerpt": "A review of Norman Finkelstein's 'Gaza's Gravediggers,' which indicts not Israel's military, but the global officials and institutions, such as the UN, the ICJ, and the media, who enabled and legitimized the genocide.",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/46daeba313a2101a7e2946a9.json"
+      "article_path": "articles/d910c21967550204de93227c.json"
     },
     {
-      "id": "8dda2291fb8c3e8fae6fe401",
-      "title": "Historicising enshittification",
-      "url": "https://mronline.org/2026/09/12/historicising-enshittification",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-09-12T13:10:27+00:00",
-      "content_excerpt": "Lineages of the bad internet The post Historicising enshittification appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/8dda2291fb8c3e8fae6fe401.json"
-    },
-    {
-      "id": "869d00e2bcf72b4e6abd0657",
-      "title": "OpenAI admits ‘wiki incident’ as AI safety concerns grow",
-      "url": "https://mronline.org/2026/09/12/openai-admits-wiki-incident-as-ai-safety-concerns-grow",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-09-12T12:09:57+00:00",
-      "content_excerpt": "OpenAI acknowledges its agents misused a German wiki as a message board, renewing scrutiny over AI safety, transparency, and oversight of autonomous systems. The post OpenAI admits ‘wiki incident’ as AI safety concerns grow appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/869d00e2bcf72b4e6abd0657.json"
-    },
-    {
-      "id": "a635f9fe40e000ddf39285d0",
-      "title": "Why Pentagon is the central axis of the U.S.-Venezuela oil deal",
-      "url": "https://mronline.org/2026/09/12/why-pentagon-is-the-central-axis-of-the-u-s-venezuela-oil-deal",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-09-12T11:09:19+00:00",
-      "content_excerpt": "According to the fact sheet published by the White House on August 31, the Office of Strategic Capital of the Pentagon (renamed the Department of War) will own 35% of the shares of the company North American Blue Energy Partners (NABEP), selected by the Trump administration to lead oil extraction projects in Venezuelan fields with a proven potential of 65 billion barrels. The post Why Pentagon is the central axis of the U.S.-Venezuela oil deal appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/a635f9fe40e000ddf39285d0.json"
-    },
-    {
-      "id": "f60bf50b4257a31057c517e6",
-      "title": "How Minnesota Unions and community groups stood up to an ICE occupation",
-      "url": "https://mronline.org/2026/09/12/how-minnesota-unions-and-community-groups-stood-up-to-an-ice-occupation",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-09-12T10:08:56+00:00",
-      "content_excerpt": "Trump’s Operation Metro Surge was a direct attack on our union. The post How Minnesota Unions and community groups stood up to an ICE occupation appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/f60bf50b4257a31057c517e6.json"
-    },
-    {
-      "id": "965f7963fee2ce1efab0ba9a",
-      "title": "As criticism grows over landslide inaction, leaks show Nepal’s new leaders groomed by U.S. regime change outfit",
-      "url": "https://mronline.org/2026/09/12/as-criticism-grows-over-landslide-inaction-leaks-show-nepals-new-leaders-groomed-by-u-s-regime-change-outfit",
-      "author": "Kit Klarenberg",
-      "source": "MR Online",
-      "published_at": "2026-09-12T09:07:23+00:00",
-      "content_excerpt": "As public anger against the Nepalese government mounts after deadly landslides in Nepal, files show the country’s new prime minister and several of his colleagues came to power thanks in part to a covert program sponsored by the U.S. government. The post As criticism grows over landslide inaction, leaks show Nepal’s new leaders groomed by U.S. regime change outfit appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/965f7963fee2ce1efab0ba9a.json"
-    },
-    {
-      "id": "e1538fc7ec35453f6d2fc4d6",
-      "title": "Israel destroys Hezbollah’s strategic base under Ali Al-Taher ridge",
-      "url": "https://breakthroughnews.org/2026/09/11/israel-destroys-hezbollahs-strategic-base-under-ali-al-taher-ridge",
-      "author": "Aseel Saleh",
+      "id": "6a17a2959ae6130671ea1fc8",
+      "title": "‘Wherever they set foot, blood flows’: Algeria severs diplomatic ties with UAE",
+      "url": "https://breakthroughnews.org/2026/09/13/wherever-they-set-foot-blood-flows-algeria-severs-diplomatic-ties-with-uae",
+      "author": "Pavan Kulkarni",
       "source": "BT News",
-      "published_at": "2026-09-11T23:20:36+00:00",
-      "content_excerpt": "The Israeli army announced on Thursday, September 10, that it dismantled Hezbollah’s underground infrastructure beneath Ali al-Taher ridge in southern Lebanon. The army claimed that the strategic facility contained scores of Iranian-made rockets, missiles, unmanned aerial vehicles (UAVs), machine guns, and hundreds of mines and explosive devices. It added that a central command complex of Hezbollah’s Badr Unit was located within the infrastructure, and included command centers, weapon storage rooms, and living quarters, which enabled the group’s fighters to operate underground for long periods of time. The Israeli forces used 1,100 tons of explosives in the operation to demolish the two-kilometer tunnel network beneath Ali al-Taher, triggering a 4.1-magnitude tremor. Israeli media outlets ",
+      "published_at": "2026-09-13T08:49:36+00:00",
+      "content_excerpt": "Announcing the severing of diplomatic ties with the United Arab Emirates (UAE) on Thursday, September 10, Algeria summoned the Emirati envoy and gave him 48 hours to leave the country.​ “Algeria has exercised a great deal of restraint and a high sense of responsibility,” despite the increasingly “provocative or hostile actions emanating from” the Gulf power, the North African country’s foreign ministry said in a statement .​ “Despite these numerous warnings, the United Arab Emirates continued to persist in these actions, which have reached limits where they can no longer be considered acceptable or tolerable within the framework of relations between two sovereign states, nor remain without a response.”​ Later that day, its defense ministry announced that the UAE’s military and civilian air",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/e1538fc7ec35453f6d2fc4d6.json"
+      "article_path": "articles/6a17a2959ae6130671ea1fc8.json"
     },
     {
-      "id": "3966e4a60cfe2a3893d63b2b",
-      "title": "Shield of the Americas, military operations, and decorations: Rubio’s fruitful visit to South America",
-      "url": "https://breakthroughnews.org/2026/09/11/shield-of-the-americas-military-operations-and-decorations-rubios-fruitful-visit-to-south-america",
+      "id": "69a6436254acfb2c20a520b5",
+      "title": "‘Achilles Shield’ marks new step in Greece-Israel military cooperation",
+      "url": "https://breakthroughnews.org/2026/09/13/achilles-shield-marks-new-step-in-greece-israel-military-cooperation",
+      "author": "Ana Vračar",
+      "source": "BT News",
+      "published_at": "2026-09-13T08:49:36+00:00",
+      "content_excerpt": "At the end of August, the Greek government signed the “Achilles Shield” agreement – a €3 billion “defense” deal with Israel. Under the terms, Israeli companies including Rafael Advanced Defense Systems and Israel Aerospace Industries (IAI) will develop and build anti-aircraft and anti-ballistic systems for Greece. “This is the largest defense export deal in the history of Israel-Greece relations, and one of the largest in the history of the State of Israel,” the occupation’s Ministry of Defense stated . “Greece’s choice of Israeli technology as the backbone of its most ambitious air defense buildup program in the past decade reflects the depth of trust built between the two countries.” “Under the deal, Israel will build Greece a comprehensive, multi-layered air defense array, drawing entir",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/69a6436254acfb2c20a520b5.json"
+    },
+    {
+      "id": "ff9a8b32830058749029fe18",
+      "title": "One month of De la Espriella’s administration in Colombia",
+      "url": "https://breakthroughnews.org/2026/09/13/one-month-of-de-la-espriellas-administration-in-colombia",
       "author": "BreakThrough News",
       "source": "BT News",
-      "published_at": "2026-09-11T22:18:57+00:00",
-      "content_excerpt": "This content is for members only. Visit the site and log in/register to read.",
+      "published_at": "2026-09-13T08:49:36+00:00",
+      "content_excerpt": "Abelardo de la Espriella has now been in office for one month. The far-right president won the election by a narrow margin over leftist Iván Cepeda (less than 1% of valid votes), despite allegations of irregularities made by then-President Gustavo Petro. However, De la Espriella dismissed the allegations of irregularities and began his administration by attempting to demonstrate military strength, an overt religious faith (for which he had to issue a public apology), and a clear alignment with Washington’s political doctrine. The earthquake and the return to a state policy of war However, just three days after he took office, a powerful earthquake struck the western part of the country, leaving more than 300 dead and nearly 5,000 injured. The government’s actions drew controversy. His supp",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/3966e4a60cfe2a3893d63b2b.json"
+      "article_path": "articles/ff9a8b32830058749029fe18.json"
     },
     {
-      "id": "c2fd3e5a00b1f1eea5dd9f76",
-      "title": "West Bank settler violence is Israeli apartheid working as designed | w/ Basil Farraj",
-      "url": "https://breakthroughnews.org/2026/09/11/west-bank-settler-violence-is-israeli-apartheid-working-as-designed-w-basil-farraj",
-      "author": "Zoe Alexandra",
-      "source": "BT News",
-      "published_at": "2026-09-11T19:16:43+00:00",
-      "content_excerpt": "Palestinians across the West Bank are facing at least six settler attacks per day – the highest rate ever documented – with nearly two dozen people killed, more than 1,000 injured, and more families displaced in the first months of 2026 than in all of last year. This is Israel’s apartheid carceral system working exactly as designed, Basil Farraj tells Zoe Alexandra and Rania Khalek. Farraj, an assistant professor of philosophy and cultural studies at Birzeit University, joins from the occupied West Bank to break down the surge in Israeli settler violence in cities like Hebron, Nablus, Ramallah, and increasingly Birzeit, connecting it to a decades-long Israeli displacement policy he says is finally becoming impossible for the world to ignore. This week, the UK, France, Canada, and nine othe",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/c2fd3e5a00b1f1eea5dd9f76.json"
-    },
-    {
-      "id": "c9b696b072aa0cb201d040a6",
-      "title": "AI could kill us all by 2030. So why are they still building it?",
-      "url": "https://breakthroughnews.org/2026/09/10/ai-could-kill-us-all-by-2030-so-why-are-they-still-building-it",
-      "author": "Rania Khalek",
-      "source": "BT News",
-      "published_at": "2026-09-11T19:16:43+00:00",
-      "content_excerpt": "AI could kill every human on Earth by the end of the decade. If it sounds like a sci-fi headline, that’s the point, says Dr. Thejas Wesley, postdoctoral associate at MIT. He joins Rania Khalek and Zoe Alexandra to unpack why Anthropic researchers Evan Hubinger, Samuel Marks, and Jacob Coxon – who resigned this week to go public – are sounding the alarm now, as competition from Chinese open-weight models like Kimi K3 heats up and Anthropic heads into its IPO. Wesley argues the “rogue AI agents” framing coming out of both Anthropic and OpenAI (last week from CEO Sam Altman himself) is less a scientific warning than a coordinated business strategy, recasting corporate recklessness and unregulated competition as an alien invasion, rather than what it actually is: a series of choices made by ex",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/c9b696b072aa0cb201d040a6.json"
-    },
-    {
-      "id": "5244cfb66353eb71a470160e",
-      "title": "Meta wants to build a $50 billion data center in Louisiana",
-      "url": "https://breakthroughnews.org/2026/09/11/meta-wants-to-build-a-50-billion-data-center-in-louisiana",
-      "author": "Kieran Spencer",
-      "source": "BT News",
-      "published_at": "2026-09-11T18:15:11+00:00",
-      "content_excerpt": "Meta wants to build one of the largest data centers in the world in rural Louisiana. The facility, known as Hyperion, is being built to train and operate the artificial intelligence systems behind Meta’s products. What began as a $10 billion proposal has since ballooned into a more than $50 billion development spanning nearly 10 million square feet and roughly 3,650 acres. At full scale, Hyperion is expected to require 5 gigawatts of computing capacity, making it the largest data center in Meta’s global fleet and one of the largest ever built. According to Meta, the project is expected to employ around 7,500 workers during peak construction and support 1,000 permanent jobs once operational. For residents of Richland Parish, the arrival of Meta has brought both desperately needed jobs and p",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/5244cfb66353eb71a470160e.json"
-    },
-    {
-      "id": "16bbe06d18af765d41c417ae",
-      "title": "Democrats are in a ‘death match’ with the Left over Israel. How will it impact the midterms?",
-      "url": "https://mondoweiss.net/2026/09/democrats-are-in-a-death-match-with-the-left-over-israel-how-will-it-impact-the-midterms",
-      "author": "Michael Arria",
-      "source": "Mondoweiss",
-      "published_at": "2026-09-11T16:52:45+00:00",
-      "content_excerpt": "Political consultant Peter Feld breaks down the primaries, AIPAC’s losses (and wins), the attacks on Hasan Piker, and why a demoralized GOP and Democratic infighting could both shape the midterms in unexpected ways.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/16bbe06d18af765d41c417ae.json"
-    },
-    {
-      "id": "1716dfaaf9fcc7d12ae7df03",
-      "title": "Russia, China, and Niger oppose US-backed anti-Iran resolution in the IAEA",
-      "url": "https://breakthroughnews.org/2026/09/11/russia-china-and-niger-oppose-us-backed-anti-iran-resolution-in-the-iaea",
+      "id": "d4a8f77262e874b824ca4423",
+      "title": "Iran calls for the end of all forms of external interference in Yemen after reports of US military involvement",
+      "url": "https://breakthroughnews.org/2026/09/13/iran-calls-for-the-end-of-all-forms-of-external-interference-in-yemen-after-reports-of-us-military-involvement",
       "author": "Abdul Rahman",
       "source": "BT News",
-      "published_at": "2026-09-11T16:13:16+00:00",
-      "content_excerpt": "Iran accused the US and its European allies of misusing the International Atomic Energy Agency (IAEA) for their own narrow geopolitical objectives, eroding its credibility and paving the way for the ultimate collapse of the international non-proliferation regime. The Islamic Republic’s response on Wednesday, September 9, followed the adoption of a resolution by the IAEA Board of Governors, which accused it of non-compliance with its safeguard regulations and referred Iran to the UN Security Council for further action. The resolution, drafted jointly by the US, the UK, France, and Germany was adopted. A majority of 23 countries voted in favor and eight others abstained. China, Russia, and Niger voted against the resolution. Thanks to the resolution, for which the US and its European allies ",
+      "published_at": "2026-09-13T07:47:54+00:00",
+      "content_excerpt": "Following a fresh escalation in the war in Yemen over the last few days and reports of possible US involvement, Iran called for an end to all forms of external interference in the country and reiterated the need for the resumption of Yemeni-Saudi dialogue to end the decade-long conflict. Iran “reiterates its principled and steadfast position regarding the necessity of respecting Yemen’s independence, national sovereignty and territorial integrity, and the need to end the illegal and inhuman blockade of the country,” its Ministry of Foreign Affairs said in a statement on Friday, September 11. The statement followed the news of Saudi Arabia seeking fresh assistance from the US against the Ansar Allah-led Yemeni forces, who captured various strategic locations around the country’s Red Sea coa",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/1716dfaaf9fcc7d12ae7df03.json"
-    },
-    {
-      "id": "c4c1c3822c42d89f288981c8",
-      "title": "US ambassador’s visit to the West Bank considered largely ‘symbolic’",
-      "url": "https://breakthroughnews.org/2026/09/11/us-ambassadors-visit-to-the-west-bank-considered-largely-symbolic",
-      "author": "Aseel Saleh",
-      "source": "BT News",
-      "published_at": "2026-09-11T16:13:16+00:00",
-      "content_excerpt": "On Saturday, September 5, US Ambassador to Israel Mike Huckabee visited Turmus Ayya village northeast of the West Bank central governorate of Ramallah and Al-Bireh. The purpose of the visit was apparently to meet the residents of Turmus Ayya, the majority of whom hold US citizenship, and hear about the spike in Israeli settler violence against them in recent years that resulted in deaths and damages to their properties. Read more: Family of Palestinian-American man killed by settlers in West Bank demands US take action A symbolic and contradictory visit While the unusual visit was seen by some as an important diplomatic engagement, commentators and analysts slammed the move as “largely symbolic,” doubting its ability to put an end to these ongoing crimes against Palestinian-Americans in th",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/c4c1c3822c42d89f288981c8.json"
+      "article_path": "articles/d4a8f77262e874b824ca4423.json"
     }
   ]
 }
