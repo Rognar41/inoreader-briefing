@@ -1,12 +1,162 @@
 {
-  "generated_at": "2026-09-13T21:34:11.813455+00:00",
-  "generated_at_jst": "2026-09-14T06:34:11.813455+09:00",
-  "period_start": "2026-09-12T15:34:11.813455+00:00",
+  "generated_at": "2026-09-14T22:39:06.409493+00:00",
+  "generated_at_jst": "2026-09-15T07:39:06.409493+09:00",
+  "period_start": "2026-09-13T16:39:06.409493+00:00",
   "lookback_hours": 30,
   "folder": "00_毎日確認",
-  "article_count": 5,
+  "article_count": 11,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "7b868c4c2459ea260784958f",
+      "title": "How Amazon Busts Unions, in Its Own Words",
+      "url": "https://www.inoreader.com/article/3a9c6e76785fa5c5",
+      "author": "Benjamin Y. Fong",
+      "source": "Jacobin",
+      "published_at": "2026-09-14T20:56:01+00:00",
+      "content_excerpt": "Nearly ninety years ago, Ford kept its own private security force on the payroll for whenever they needed to beat up union supporters. Having traded in the brass knuckles and baseball bats of the early twentieth century for the empathetic listening and fine-grained surveillance of the early twenty-first, Amazon today employs an entirely different set of tactics to ward off union drives — tactics that may well be more effective precisely because they are so systematic. Amazon is, of course, a notoriously anti-union employer. Though workers at the JFK8 Fulfillment Center in Staten Island voted to form a union in 2022, Amazon has refused to bargain with them, even after the National Labor Relations Board ordered it to do so this past April. When workers at Cornucopia Logistics , a delivery se",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/7b868c4c2459ea260784958f.json"
+    },
+    {
+      "id": "565705d00f420dcb98477035",
+      "title": "Raise Your Hand if You’re Here: Why CDSA Must Intervene in the Board of Education Races",
+      "url": "https://midwestsocialist.com/2026/09/14/raise-your-hand-if-youre-here-why-cdsa-must-intervene-in-the-board-of-education-races",
+      "author": "Midwestern Socialist -- Chicago DSA",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-09-14T20:26:02+00:00",
+      "content_excerpt": "As CDSA forges ahead into a busy and demanding aldermanic cycle, membership is set to consider a new slate of potential endorsees at September’s General Chapter Meeting: four candidates for Chicago’s first fully-elected school board. Before those votes take place, I’d like to make the case for why lending our chapter’s endorsement of all four candidates is critical to amplifying our “ Workers Deserve More ” program and furthering the class-struggle messaging that will help build out our movement and propel us to victory in February’s municipal elections. All four school board candidates under consideration ( Hilario Dominguez , Jason Dones , Karen Zaccor , and Debby Pope ) are self-identified socialists who have a clear-eyed vision for what it means to bring socialism to the Board of Educa",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/565705d00f420dcb98477035.json"
+    },
+    {
+      "id": "761e138058372743c43007e8",
+      "title": "Russian Elites Are Fighting for Unchecked Power",
+      "url": "https://www.inoreader.com/article/3a9c6e76784df4df",
+      "author": "Georgy Birger",
+      "source": "Jacobin",
+      "published_at": "2026-09-14T18:53:14+00:00",
+      "content_excerpt": "Ignoring a problem is rarely enough to make it go away. Take civilizationism , an approach based on shared culture taken to the level of civilizational identity. Also called civilization al ism, the idea has been around for centuries and has quietly inspired many conflicts. Overshadowed briefly by Cold War ideological conflict, it resurfaced in the 1990s when political scientist Samuel Huntington famously proposed a coming “clash of civilizations,” in contrast to his student Francis Fukuyama’s suggestion of the “end of history.” Huntington’s thesis was heavily criticized in mainstream academia, partly due to his Orientalism and racialized stereotyping . Still, it had its political impact, even beyond Huntington’s own homeland. After Russia’s conservative turn in 2012, President Vladimir Pu",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/761e138058372743c43007e8.json"
+    },
+    {
+      "id": "6b8650d3dc32180c0b7e534c",
+      "title": "Cleveland DSA & “The Groups”",
+      "url": "https://www.dsacleveland.org/cleveland-dsa-the-groups",
+      "author": "Cleveland DSA",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-09-14T15:27:05+00:00",
+      "content_excerpt": "by Martin O. One of the critical questions, if not the most critical and contentious in Cleveland DSA, is our strategic and tactical orientation toward “The Groups.” As we pursue our objectives, where do the many NGOs and activist groups in the metro area fit in? This debate encompasses a variety of political perspectives that have been represented historically for hundreds of years. In fostering healthy discussion of this issue, it’s important to recognize that these positions represent a place in this broader historical political debate rather than simply a particular moral or ethical viewpoint about the value of particular causes. None of the information I’m going to convey here is new; there are no new insights, it’s all available in other places. However, as I’ve been in the middle of",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/6b8650d3dc32180c0b7e534c.json"
+    },
+    {
+      "id": "b422991f471cbef3179f6f4c",
+      "title": "PAC-MEN: The Web of Political Action Committees Pushing Portland To The Right",
+      "url": "https://portlanddsa.org/pac-men-the-web-of-political-action-committees-pushing-portland-to-the-right",
+      "author": "Portland DSA",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-09-14T15:27:05+00:00",
+      "content_excerpt": "Portland’s capitalist class animates an opaque network of political action committees & non-profits tasked with pushing Portland politics to the Right. In a post- Citizens United world, this incestuous network of wealthy donors and corporations relies on weak campaign finance rules, splashy websites, and endless permutations of the words progressive, Portland, and action! (from Left to Right) Racist real estate developer Brian Owendoff, Andrew Hoan and Jon Isaacs (CEO and Chief Lobbyist, respectively, of the Portland Metro Chamber), and Vadim Mozyrsky of Partnership for Progress/Go, Portland, Go. The Portland Metro Chamber of Secrets The OG lobby of the capitalist class. The Portland Metro Chamber executive committee is helmed by giant multinationals like Bank of America, Amazon, Google, N",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/b422991f471cbef3179f6f4c.json"
+    },
+    {
+      "id": "f3b5d6216fe1d1bbbfcfeeb9",
+      "title": "Getting Grounded: The Rochester Community Food System Plan",
+      "url": "https://rocdsa.org/blog/getting-grounded-the-rochester-community-food-system-plan",
+      "author": "Rochester Red Star: News from Rochester DSA",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-09-14T15:27:05+00:00",
+      "content_excerpt": "by Elizabeth Henderson First a couple of farm food-related events: “Feeding Tomorrow” – film screening September 23 at 6 pm at The Little , sponsored by the Rochester Food Policy Council. After the one-hour documentary, there will be a panel of local people whose work parallels the inspiring examples in the film. Here is the eventbrite link to purchase tickets – $5, but no one turned away for lack of funds: https://www.eventbrite.com/e/film-screening-feeding-tomorrow-tickets-1994986387990 Tour Mud Creek Farm, a small-scale organically managed vegetable farm in Victor, NY on Tuesday, September 29 at 10:45 am. The Abundance Food Coop, along with NOFA-NY and the Food Policy Council, will be holding a field day to tour Mud Creek Farm to learn about community supported agriculture, and highly d",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/f3b5d6216fe1d1bbbfcfeeb9.json"
+    },
+    {
+      "id": "b22885bb695b13333759ae24",
+      "title": "Sweden’s Far Right: Faltering but Not Defeated",
+      "url": "https://www.inoreader.com/article/3a9c6e76782bbe4e",
+      "author": "Nicola Quondamatteo",
+      "source": "Jacobin",
+      "published_at": "2026-09-14T14:47:23+00:00",
+      "content_excerpt": "For the far-right Sweden Democrats, Sunday’s parliamentary elections may have looked like the final step toward full “detoxification.” Success in the election for the Riksdag promised to crown the party’s integration into the Swedish political system — a formality by this point, but a significant step nonetheless. That integration had substantially taken place already four years ago, when a government coalition deal was agreed on at the Tidö Castle. The Sweden Democrats had previously been subject to a cordon sanitaire excluding them from office: the Moderate Party leader, Ulf Kristersson, even solemnly promised a Holocaust survivor that he would never cooperate with the far right. But after the 2022 elections, this pledge was ditched. Kristersson soon formed a coalition of traditional cen",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/b22885bb695b13333759ae24.json"
+    },
+    {
+      "id": "72b6a109fb7b265c02e13e2e",
+      "title": "Report: The Working-Class Vote Is Not Lost",
+      "url": "https://www.inoreader.com/article/3a9c6e767819a040",
+      "author": "Editors",
+      "source": "Jacobin",
+      "published_at": "2026-09-14T13:15:59+00:00",
+      "content_excerpt": "A new survey experiment from the Center for Working-Class Politics and Joan C. Williams finds that a six-part formula can lift Democrats’ working-class vote share by nearly 11 points. It also adds nearly 8 points among the party’s affluent, college-educated base. More than 40,000 respondents evaluated nearly 800,000 hypothetical candidate profiles, making the study one of the largest of its kind. The project was supported by Jacobin and the Rosa Luxemburg Stiftung. The formula boils down to two imperatives: lead with working-class economics and connect with working-class values. Earlier this summer, Jared Abbott of the Center for Working-Class Politics (CWCP) and Joan C. Williams of the Equality Action Center (EAC) released “ The Left’s Coalition Crisis ,” a study of working-class and coll",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/72b6a109fb7b265c02e13e2e.json"
+    },
+    {
+      "id": "82d3e98d259084e29b8e280d",
+      "title": "Meet Me in St. Louis",
+      "url": "https://democraticleft.dsausa.org/2026/09/13/meet-me-in-st-louis",
+      "author": "Democratic Left",
+      "source": "Democratic Left",
+      "published_at": "2026-09-14T01:19:52+00:00",
+      "content_excerpt": "Devin Thomas O’Shea’s The Veiled Prophet profiles a not-so-secret secret society that presided over a troubled and troubling metropolis. The post Meet Me in St. Louis appeared first on Democratic Left .",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/82d3e98d259084e29b8e280d.json"
+    },
+    {
+      "id": "8092e7179430793385dedfe4",
+      "title": "UNITE HERE 26 and Teamsters 25 Hotel Workers On Simultaneous Strike At Encore Boston Harbor",
+      "url": "https://working-mass.com/2026/09/13/hotel-workers-with-unite-here-26-and-teamsters-25-on-simultaneous-strike-at-encore",
+      "author": "Working Mass: The Massachusetts DSA Labor Outlet",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-09-13T22:32:59+00:00",
+      "content_excerpt": "On strike at Encore Boston Harbor (Working Mass) By: Vanessa Bartlett EVERETT – Workers at the Encore Boston Harbor, organized in bargaining units affiliated with the International Brotherhood of Teamsters Local 25 and UNITE HERE Local 26, went on strike September 4 in advance of Labor Day following the expiration of their contract on August 31. These 1350 hospitality workers have made the hotel-casino located at the juncture between Everett and Boston run since 2019, when Wynn Resorts opened the hotel on one of the three territories designated by the 2011 Expanded Gaming Act as legal gaming sites. While profits have risen, workers report that neither wages nor healthcare has kept up with company profits. Picketers marched back and forth in front of the main entrance and exit to the casino",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/8092e7179430793385dedfe4.json"
+    },
     {
       "id": "a35d6aeef29215a6231661c8",
       "title": "In Defense of Abolition",
@@ -22,66 +172,6 @@
       "priority": 1,
       "date_missing": false,
       "article_path": "articles/a35d6aeef29215a6231661c8.json"
-    },
-    {
-      "id": "63686c38d5af593d9d47cfcd",
-      "title": "Americans Are Turning Against School Vouchers",
-      "url": "https://www.inoreader.com/article/3a9c6e7679770e28",
-      "author": "Jennifer C. Berkshire",
-      "source": "Jacobin",
-      "published_at": "2026-09-13T13:16:43+00:00",
-      "content_excerpt": "Ten percent. That’s how many Arizonans support that state’s Wild West voucher scheme. If the figure seems surprising given the ardency of the sales pitch for “education freedom,” its source should send your eyebrows skyward. This bleak view of Arizona public opinion about the state’s $1-billion-plus Education Savings Account (ESA) program comes not from voucher haters but from their superfans: the American Federation for Children (AFC), the deep-pocketed and highly influential school-choice lobbying firm started by Betsy DeVos. To understand why AFC is decidedly downcast even as vouchers are on the move, we need to make a trip to the Grand Canyon State, where last month, the state Supreme Court deprived voters of the opportunity to weigh in on whether the famously fraud-ridden voucher prog",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/63686c38d5af593d9d47cfcd.json"
-    },
-    {
-      "id": "f578693ef7e069009e1a7df5",
-      "title": "Economics Needs a New Approach to Inflation",
-      "url": "https://www.inoreader.com/article/3a9c6e7679770e25",
-      "author": "Andrew Elrod",
-      "source": "Jacobin",
-      "published_at": "2026-09-13T13:16:43+00:00",
-      "content_excerpt": "Four years have passed since the COVID-19 pandemic’s inflation in the wake of the American economy’s reopening hit its peak, and the American business cycle is today in a strange way. Wanting to slow the rise in prices that accompanied the reopening and construction boom, the Biden administration and the Federal Reserve cut social spending and raised interest rates. Nonresidential construction has been falling since late 2023. Residential construction investment collapsed in early 2023, then rose briefly in 2024, but has been falling for over a year now. As the unemployment rate crept up slowly throughout the second half of the Biden administration, economists and journalists consistently warned of the risk of a recession. Yet despite falling construction spending and creeping unemployment",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/f578693ef7e069009e1a7df5.json"
-    },
-    {
-      "id": "6ea2564000b71e2347e21965",
-      "title": "Stories from the Chilean Coup: Part 1",
-      "url": "https://redfault.com/stories-from-the-chilean-coup-part-1",
-      "author": "Red Fault -- Austin DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-09-12T22:42:44+00:00",
-      "content_excerpt": "By Bridget T First published on Substack here . 9-11-2025 was the 52 nd anniversary of the Chilean coup. Twelve years before that, on the 40th anniversary, 9-11-2013, I walked into a room at the top of Anabel Taylor Hall on the Cornell University campus to take part in an interview that would alter my view of the world forever. Presidential Palace, Chile 1973 In the summer of 2013, I was a Politics student at Ithaca College ready to start an internship with CUSLAR (Committee on U.S. – Latin American Relations) in the fall. I volunteered first for the summer to help organize the CUSLAR Spanish Camp for Activists where we improved our Spanish and empowered each other with good food, music, and political speakers. It was there that I heard live Chilean music for the first time around the camp",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/6ea2564000b71e2347e21965.json"
-    },
-    {
-      "id": "d841650ca1d42031884291c2",
-      "title": "The Socialist Labor Unionists Who Took On Samuel Gompers",
-      "url": "https://www.inoreader.com/article/3a9c6e76791f40a3",
-      "author": "Philipp Corfman",
-      "source": "Jacobin",
-      "published_at": "2026-09-12T16:10:57+00:00",
-      "content_excerpt": "“We have started on a great big national fight with the union movement at stake!” Max Hayes, socialist newspaper editor and union leader, thundered to the assembled representatives of Cleveland, Ohio’s labor movement in the fall of 1909. “The American Federation of Labor will stand or fall as events issue.” The delegates roared their approval, setting in motion a decisive battle for the soul of organized labor. On one side were Cleveland’s radical left-wing workers, led by Hayes; on the other, the AFL, led by archconservative President Samuel Gompers. At stake was the meaning of solidarity, union democracy, and the future of labor politics — whether the American labor movement would continue to be dominated by conservative business unionists or embark on a revolutionary anti-capitalist pat",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/d841650ca1d42031884291c2.json"
     }
   ]
 }

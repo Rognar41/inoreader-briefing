@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-13T21:34:11.813455+00:00",
-  "generated_at_jst": "2026-09-14T06:34:11.813455+09:00",
-  "period_start": "2026-09-12T15:34:11.813455+00:00",
+  "generated_at": "2026-09-14T22:39:06.409493+00:00",
+  "generated_at_jst": "2026-09-15T07:39:06.409493+09:00",
+  "period_start": "2026-09-13T16:39:06.409493+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
-  "article_count": 6,
+  "article_count": 16,
   "excerpt_chars": 800,
   "articles": [
     {
@@ -24,79 +24,229 @@
       "article_path": "articles/a35d6aeef29215a6231661c8.json"
     },
     {
-      "id": "d910c21967550204de93227c",
-      "title": "Norman Finkelstein’s latest book indicts those ‘in high places’ for genocide in Gaza",
-      "url": "https://mondoweiss.net/2026/09/norman-finkelsteins-latest-book-indicts-those-in-high-places-for-genocide-in-gaza",
-      "author": "James North",
-      "source": "Mondoweiss",
-      "published_at": "2026-09-13T13:41:03+00:00",
-      "content_excerpt": "A review of Norman Finkelstein's 'Gaza's Gravediggers,' which indicts not Israel's military, but the global officials and institutions, such as the UN, the ICJ, and the media, who enabled and legitimized the genocide.",
+      "id": "512d6f78e791da38ea70333b",
+      "title": "Africa’s BRICS opportunity: from resources to productive power",
+      "url": "https://breakthroughnews.org/2026/09/14/africas-brics-opportunity-from-resources-to-productive-power",
+      "author": "Busani Ngcaweni",
+      "source": "BT News",
+      "published_at": "2026-09-14T22:32:38+00:00",
+      "content_excerpt": "The enlargement of BRICS presents Africa with a wider field of economic possibilities by bringing the continent into closer relationship with some of the world’s largest markets, important sources of development finance and countries possessing substantial capabilities in manufacturing, energy, infrastructure, pharmaceuticals, agriculture, and advanced technologies. At a time when international economic relations are becoming increasingly fragmented, this wider range of relationships gives African countries greater room for maneuver. But a wider choice of trading partners, financiers, and technological partners will mean considerably less if Africa continues to export raw materials, import sophisticated technologies, and occupy the lower reaches of global value chains, because the destinat",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/d910c21967550204de93227c.json"
+      "article_path": "articles/512d6f78e791da38ea70333b.json"
     },
     {
-      "id": "6a17a2959ae6130671ea1fc8",
-      "title": "‘Wherever they set foot, blood flows’: Algeria severs diplomatic ties with UAE",
-      "url": "https://breakthroughnews.org/2026/09/13/wherever-they-set-foot-blood-flows-algeria-severs-diplomatic-ties-with-uae",
+      "id": "218a076ece62e9e4960161f5",
+      "title": "After 43-day strike, Kenyan nurses force government to fulfill nine-year-old commitments",
+      "url": "https://breakthroughnews.org/2026/09/14/after-43-day-strike-kenyan-nurses-force-government-to-fulfill-nine-year-old-commitments",
       "author": "Pavan Kulkarni",
       "source": "BT News",
-      "published_at": "2026-09-13T08:49:36+00:00",
-      "content_excerpt": "Announcing the severing of diplomatic ties with the United Arab Emirates (UAE) on Thursday, September 10, Algeria summoned the Emirati envoy and gave him 48 hours to leave the country.​ “Algeria has exercised a great deal of restraint and a high sense of responsibility,” despite the increasingly “provocative or hostile actions emanating from” the Gulf power, the North African country’s foreign ministry said in a statement .​ “Despite these numerous warnings, the United Arab Emirates continued to persist in these actions, which have reached limits where they can no longer be considered acceptable or tolerable within the framework of relations between two sovereign states, nor remain without a response.”​ Later that day, its defense ministry announced that the UAE’s military and civilian air",
+      "published_at": "2026-09-14T22:32:38+00:00",
+      "content_excerpt": "After a 43-day nationwide strike, nurses in Kenya returned to work on Thursday, September 10. Their union finally secured an agreement from the government on September 9, a day after thousands of nurses and midwives from all of Kenya’s 47 counties converged at the Greenpark in the national capital, Nairobi.​ From there, they marched to Delta House, headquarters of the Council of Governors (CoG), demanding the implementation of an agreement the government signed nearly a decade ago.​ A decade-long struggle ​ The nearly five-month-long strike in 2017 had ended with both the national and county governments signing a return-to-work agreement, committing to finalize the draft of the agreed Collective Bargaining Agreement (CBA) and implement it within a month.​ It was to incorporate measures to ",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/6a17a2959ae6130671ea1fc8.json"
+      "article_path": "articles/218a076ece62e9e4960161f5.json"
     },
     {
-      "id": "69a6436254acfb2c20a520b5",
-      "title": "‘Achilles Shield’ marks new step in Greece-Israel military cooperation",
-      "url": "https://breakthroughnews.org/2026/09/13/achilles-shield-marks-new-step-in-greece-israel-military-cooperation",
-      "author": "Ana Vračar",
-      "source": "BT News",
-      "published_at": "2026-09-13T08:49:36+00:00",
-      "content_excerpt": "At the end of August, the Greek government signed the “Achilles Shield” agreement – a €3 billion “defense” deal with Israel. Under the terms, Israeli companies including Rafael Advanced Defense Systems and Israel Aerospace Industries (IAI) will develop and build anti-aircraft and anti-ballistic systems for Greece. “This is the largest defense export deal in the history of Israel-Greece relations, and one of the largest in the history of the State of Israel,” the occupation’s Ministry of Defense stated . “Greece’s choice of Israeli technology as the backbone of its most ambitious air defense buildup program in the past decade reflects the depth of trust built between the two countries.” “Under the deal, Israel will build Greece a comprehensive, multi-layered air defense array, drawing entir",
+      "id": "4bfad4e09b9b0290fd7d5f65",
+      "title": "Honor the Vietnamese, Not Those Who Killed Them",
+      "url": "https://mronline.org/2026/09/14/honor-the-vietnamese-not-those-who-killed-them",
+      "author": "Michael D. Yates",
+      "source": "MR Online",
+      "published_at": "2026-09-14T17:51:54+00:00",
+      "content_excerpt": "Only the courage of those who opposed the war, including the soldiers who did so at great risk, should be respected. The post Honor the Vietnamese, Not Those Who Killed Them appeared first on MR Online .",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/69a6436254acfb2c20a520b5.json"
+      "article_path": "articles/4bfad4e09b9b0290fd7d5f65.json"
     },
     {
-      "id": "ff9a8b32830058749029fe18",
-      "title": "One month of De la Espriella’s administration in Colombia",
-      "url": "https://breakthroughnews.org/2026/09/13/one-month-of-de-la-espriellas-administration-in-colombia",
-      "author": "BreakThrough News",
-      "source": "BT News",
-      "published_at": "2026-09-13T08:49:36+00:00",
-      "content_excerpt": "Abelardo de la Espriella has now been in office for one month. The far-right president won the election by a narrow margin over leftist Iván Cepeda (less than 1% of valid votes), despite allegations of irregularities made by then-President Gustavo Petro. However, De la Espriella dismissed the allegations of irregularities and began his administration by attempting to demonstrate military strength, an overt religious faith (for which he had to issue a public apology), and a clear alignment with Washington’s political doctrine. The earthquake and the return to a state policy of war However, just three days after he took office, a powerful earthquake struck the western part of the country, leaving more than 300 dead and nearly 5,000 injured. The government’s actions drew controversy. His supp",
+      "id": "7fee0d7a23351540d3fec2b7",
+      "title": "Israel merges two settler outposts near Jerusalem, furthering the fragmentation of the West Bank",
+      "url": "https://mondoweiss.net/2026/09/israel-merges-two-settler-outposts-near-jerusalem-furthering-the-fragmentation-of-the-west-bank",
+      "author": "Qassam Muaddi",
+      "source": "Mondoweiss",
+      "published_at": "2026-09-14T16:47:49+00:00",
+      "content_excerpt": "Announced days after UK and European sanctions on settlements, Israel’s expansion of Mishmar Yehuda folds an illegal outpost into a planned city between Jerusalem and Bethlehem, advancing Israel’s decades-old plan to cut the West Bank in half.",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/ff9a8b32830058749029fe18.json"
+      "article_path": "articles/7fee0d7a23351540d3fec2b7.json"
     },
     {
-      "id": "d4a8f77262e874b824ca4423",
-      "title": "Iran calls for the end of all forms of external interference in Yemen after reports of US military involvement",
-      "url": "https://breakthroughnews.org/2026/09/13/iran-calls-for-the-end-of-all-forms-of-external-interference-in-yemen-after-reports-of-us-military-involvement",
-      "author": "Abdul Rahman",
+      "id": "f6212e2bb38c4d9449ef796c",
+      "title": "Why Israel fears a powerful Türkiye | w/ Giorgio Cafiero",
+      "url": "https://breakthroughnews.org/2026/09/14/why-israel-fears-a-powerful-turkiye-w-giorgio-cafiero",
+      "author": "Zoe Alexandra",
       "source": "BT News",
-      "published_at": "2026-09-13T07:47:54+00:00",
-      "content_excerpt": "Following a fresh escalation in the war in Yemen over the last few days and reports of possible US involvement, Iran called for an end to all forms of external interference in the country and reiterated the need for the resumption of Yemeni-Saudi dialogue to end the decade-long conflict. Iran “reiterates its principled and steadfast position regarding the necessity of respecting Yemen’s independence, national sovereignty and territorial integrity, and the need to end the illegal and inhuman blockade of the country,” its Ministry of Foreign Affairs said in a statement on Friday, September 11. The statement followed the news of Saudi Arabia seeking fresh assistance from the US against the Ansar Allah-led Yemeni forces, who captured various strategic locations around the country’s Red Sea coa",
+      "published_at": "2026-09-14T16:35:23+00:00",
+      "content_excerpt": "Is Türkiye next? That question is dominating Israeli airwaves as Ankara – a NATO ally that’s suspended trade with Tel Aviv but not Tehran – may be running out of room to stay neutral in the US-Israeli war on Iran. Giorgio Cafiero, CEO of Gulf State Analytics, joins Rania Khalek and Zoe Alexandra to break down what’s really driving Israel’s growing antagonism toward Erdogan’s Türkiye: no longer just a difficult diplomatic counterpart, but a country that may hold the power to reshape the region’s entire security architecture in ways that threaten Netanyahu’s “freedom of action” – Israel’s ambition for total dominance. Cafiero lays out why, after the fall of the Assad government in 2024 and the start of the genocide in Gaza, Israel fears a strong, centralized Syrian state aligned with Ankara.",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/d4a8f77262e874b824ca4423.json"
+      "article_path": "articles/f6212e2bb38c4d9449ef796c.json"
+    },
+    {
+      "id": "efdddb419a162d74beb0f937",
+      "title": "Israel Threatens to Revoke Citizenship of Yuval Abraham & Rachel Szor for ”NAZA” Film on Gaza Genocide",
+      "url": "https://www.democracynow.org/2026/9/14/naza_film",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-09-14T14:11:09+00:00",
+      "content_excerpt": "The film NAZA , which documents the Israeli military’s use of secret AI-powered systems to deliberately and systematically target and massacre civilians in Gaza, won the Special Jury Prize at the Venice Film Festival Saturday. The film was directed by Israeli journalist Yuval Abraham and filmmaker Rachel Szor, both of whom won an Oscar for the documentary No Other Land in 2025 along with Palestinian co-directors Basel Adra and Hamdan Ballal. NAZA was shot in secret on rooftops in Tel Aviv over three years and builds on testimony from Israeli military and intelligence sources who spoke on the condition their identities be concealed. The film’s title refers to an acronym used by the Israeli military as a shorthand for civilian killings in Gaza. The film’s reception in Venice, where it receiv",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/efdddb419a162d74beb0f937.json"
+    },
+    {
+      "id": "c0b3a14ad33a846d6b503fe3",
+      "title": "“One Betrayal After Another”: 9/11 Widow Blasts U.S. Cover-Up of Saudi Role in Attacks",
+      "url": "https://www.democracynow.org/2026/9/14/9_11_memorial",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-09-14T14:11:09+00:00",
+      "content_excerpt": "A quarter-century after the September 11 attacks that killed nearly 3,000 people in the United States, a group of victims’ families is continuing a lawsuit against Saudi Arabia to hold the kingdom accountable for any role it played in the planning and execution of the plot. While the Saudi government has always denied advance knowledge of the 9/11 attacks, 15 of the 19 plane hijackers were Saudi citizens, including some with connections to Saudi officials and intelligence assets in the United States. Terry Strada, the national chair of 9/11 Families United, raised the issue during an official commemoration on Friday in New York while paying tribute to her husband Tom, who was killed in the World Trade Center. With Vice President JD Vance and all four living ex-presidents in the audience, S",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/c0b3a14ad33a846d6b503fe3.json"
+    },
+    {
+      "id": "fc4bb0d2a948bdb5f87d804b",
+      "title": "Trove of Evidence Sheds New Light on How Saudi Intelligence Asset Helped 9/11 Hijackers Before Attack",
+      "url": "https://www.democracynow.org/2026/9/14/saudi_9_11_investigation",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-09-14T14:11:09+00:00",
+      "content_excerpt": "Did Saudi Arabia play a role in the planning and execution of the September 11 attacks of 2001? That question was raised immediately after the attack, when 15 of the 19 hijackers were revealed to be Saudi citizens, and it has only grown louder in the 25 years since as more evidence emerged of the attackers’ connections to Saudi figures inside the United States. We speak with ProPublica journalist Tim Golden, who reports that the FBI failed to fully investigate Omar al-Bayoumi, a Saudi intelligence asset who helped two of the hijackers as they arrived in California in early 2000. Key evidence, including a handwritten note by al-Bayoumi calculating an airplane’s trajectory to a point on the horizon, was not fully disclosed to investigators. “Al-Bayoumi was incredibly important, but this evid",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/fc4bb0d2a948bdb5f87d804b.json"
+    },
+    {
+      "id": "48e0a6a0cc198bd78d34f0e1",
+      "title": "Is Yemen Heading Back to All-Out War? Saudis Launch Strikes as Houthis Take Control of Red Sea Coast",
+      "url": "https://www.democracynow.org/2026/9/14/houthi_expansion",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-09-14T14:11:09+00:00",
+      "content_excerpt": "Yemen is at risk of spiraling back into all-out war as Houthi forces and Saudi Arabia exchange new strikes amid a fight over control of the key Bab el-Mandeb strait through which much of Saudi oil passes on its way to world markets. The Houthis, the Iran-allied force also known as Ansarallah, has seized Yemen’s entire Red Sea coastline from the Saudi-backed Yemeni government. The United Nations says the latest escalation has displaced 86,000 people in Yemen as the U.S. war on Iran continues to wrack the Middle East and raise oil prices around the world. “What’s happening right now is essentially a break in the ceasefire between Ansarallah … and Saudi Arabia,” says Shireen Al-Adeimi, a Yemeni American associate professor at Michigan State University. “This ceasefire has been in place since ",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/48e0a6a0cc198bd78d34f0e1.json"
+    },
+    {
+      "id": "4daa870d7632af5bf61a61a8",
+      "title": "‘This counter-terrorism framework situates people outside of rights’",
+      "url": "https://mronline.org/2026/09/14/this-counter-terrorism-framework-situates-people-outside-of-rights",
+      "author": "Janine Jackson",
+      "source": "MR Online",
+      "published_at": "2026-09-14T13:10:40+00:00",
+      "content_excerpt": "CounterSpin interview with Samer Araabi on dissent as 'terrorism' The post ‘This counter-terrorism framework situates people outside of rights’ appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/4daa870d7632af5bf61a61a8.json"
+    },
+    {
+      "id": "7d3d934ac79f472ad13247cf",
+      "title": "Why don’t systemic crises always lead to revolutions?",
+      "url": "https://mronline.org/2026/09/14/why-dont-systemic-crises-always-lead-to-revolutions",
+      "author": "Álvaro García Linera",
+      "source": "MR Online",
+      "published_at": "2026-09-14T12:09:43+00:00",
+      "content_excerpt": "For a long time, it was believed that a structural economic crisis, like the one the world is experiencing today, would be followed by a general political crisis and then social unrest and revolutions. However, these are exceptional cases. The post Why don’t systemic crises always lead to revolutions? appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/7d3d934ac79f472ad13247cf.json"
+    },
+    {
+      "id": "9d02eb5153aab13f661de81a",
+      "title": "War On Iran: Ansar Allah goes on the offensive",
+      "url": "https://mronline.org/2026/09/14/war-on-iran-ansar-allah-goes-on-the-offensive",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-09-14T11:06:49+00:00",
+      "content_excerpt": "Bombing Ansar Allah has been tried for years with little results. The Saudis do not have the manpower for an invasion. The post War On Iran: Ansar Allah goes on the offensive appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/9d02eb5153aab13f661de81a.json"
+    },
+    {
+      "id": "a8a3fb4d5ee8e82eee793073",
+      "title": "Apropos GDP estimates",
+      "url": "https://mronline.org/2026/09/14/apropos-gdp-estimates",
+      "author": "Prabhat Patnaik",
+      "source": "MR Online",
+      "published_at": "2026-09-14T10:05:30+00:00",
+      "content_excerpt": "The first GDP estimate for India was made by Dadabhai Naoroji for the year 1867-68, though his estimate was extremely rough. The post Apropos GDP estimates appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/a8a3fb4d5ee8e82eee793073.json"
+    },
+    {
+      "id": "68a68a03b10ecc18c8d0d266",
+      "title": "‘Failure of epic proportions’: Yemen’s lightning assault fractures Saudi-led coalition",
+      "url": "https://mronline.org/2026/09/14/failure-of-epic-proportions-yemens-lightning-assault-fractures-saudi-led-coalition",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-09-14T09:02:58+00:00",
+      "content_excerpt": "Sources told U.S. media that the Ansarallah-led Yemeni army’s opponents, already weakened in recent days, faced ‘waves and waves’ of Sanaa’s forces in the latest battle. The post ‘Failure of epic proportions’: Yemen’s lightning assault fractures Saudi-led coalition appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/68a68a03b10ecc18c8d0d266.json"
+    },
+    {
+      "id": "4200811b752f725a7334ee0b",
+      "title": "Nicolás Maduro is not guilty",
+      "url": "https://breakthroughnews.org/2026/09/13/nicolas-maduro-is-not-guilty",
+      "author": "Stephanie Weatherbee Brito",
+      "source": "BT News",
+      "published_at": "2026-09-13T22:42:09+00:00",
+      "content_excerpt": "Venezuelan President Nicolás Maduro is not guilty. This is a statement of law and fact, since Maduro has not been convicted of any crime. He has pleaded not guilty to every charge brought against him, and the accusations made by the United States remain precisely that: accusations. Under the presumption of innocence – recognized in the United States Constitution and in Article 14 of the International Covenant on Civil and Political Rights – the burden rests entirely upon the prosecution to prove guilt. It is not Maduro who must prove his innocence, but it is the United States government that must prove his guilt. On January 3, 2026, United States forces illegally entered Venezuela, attacked targets in and around Caracas, seized President Maduro and his wife and an elected official, Cilia F",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/4200811b752f725a7334ee0b.json"
     }
   ]
 }
