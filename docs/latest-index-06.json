@@ -1,27 +1,176 @@
 {
-  "generated_at": "2026-09-14T22:39:06.409493+00:00",
-  "generated_at_jst": "2026-09-15T07:39:06.409493+09:00",
-  "period_start": "2026-09-13T16:39:06.409493+00:00",
+  "generated_at": "2026-09-15T22:24:01.491393+00:00",
+  "generated_at_jst": "2026-09-16T07:24:01.491393+09:00",
+  "period_start": "2026-09-14T16:24:01.491393+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
   "article_count": 16,
   "excerpt_chars": 800,
   "articles": [
     {
-      "id": "a35d6aeef29215a6231661c8",
-      "title": "In Defense of Abolition",
-      "url": "https://socialistforum.dsausa.org/issues/spring-summer-2026/in-defense-of-abolition",
-      "author": "Socialist Forum",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-09-13T19:33:54+00:00",
-      "content_excerpt": "At the July DSA National Political Committee (NPC) meeting, I proposed adding abolition to the Workers Deserve More program because I believe that abolishing capitalist policing and prisons is a fundamental demand of the socialist movement. I crafted the language carefully to clarify that we mean abolishing policing and prisons as institutions of capitalist rule, not conflating the abolition of capitalist policing and prisons with the abolition of every future social capacity for accountability and safety. The specific language we added is in italics: “Demilitarize police departments, disempower police unions, and redirect police and prison funding to public services, as steps towards abolishing the carceral forces of the capitalist state. ” This phrasing was eventually simplified to “towa",
+      "id": "916b5221ef7160f7630f9da7",
+      "title": "“The Common Good Economy”: Mariana Mazzucato on Fixing Capitalism",
+      "url": "https://www.democracynow.org/2026/9/15/mariana_mazzucato_capitalism",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-09-15T16:06:56+00:00",
+      "content_excerpt": "This is a rush transcript. Copy may not be in its final form. AMY GOODMAN : This is Democracy Now! , democracynow.org. I’m Amy Goodman, with Anjali Kamat. NERMEEN SHAIKH : We’re joined now by the Italian American economist Mariana Mazzucato. She has advised governments, policymakers and even the pope on economic policy. AMY GOODMAN : Mariana Mazzucato is a professor in the economics of innovation and public value at UCL . That’s University College London. She’s founding director of the UCL Institute for Innovation and Public Purpose. She’s in New York to launch her new book, The Common Good Economy , joining us here in our studio. You present a new theory of economics here that should be based in the common good. Can you characterize American capitalism and how it — how close it is to the ",
       "source_folders": [
-        "00_毎日確認",
         "06_左派ニュース・社会主義戦略"
       ],
-      "priority": 1,
+      "priority": 2,
       "date_missing": false,
-      "article_path": "articles/a35d6aeef29215a6231661c8.json"
+      "article_path": "articles/916b5221ef7160f7630f9da7.json"
+    },
+    {
+      "id": "11fcf550a2fef07aea27da12",
+      "title": "USA votes against entire world, opposing equal representation of Africa, as it pushes to revive colonialism",
+      "url": "https://mronline.org/2026/09/15/usa-votes-against-entire-world-opposing-equal-representation-of-africa-as-it-pushes-to-revive-colonialism",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-09-15T16:03:03+00:00",
+      "content_excerpt": "The U.S. was the only country to oppose a UN resolution replacing a colonial world map from year 1569, which misrepresents Africa’s size. This is part of the Trump admin’s overt attempt to revive colonialism. The post USA votes against entire world, opposing equal representation of Africa, as it pushes to revive colonialism appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/11fcf550a2fef07aea27da12.json"
+    },
+    {
+      "id": "09bb6cabf01198ba03bc1203",
+      "title": "Reading ‘Capital’… slowly",
+      "url": "https://mronline.org/2026/09/15/reading-capital-slowly",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-09-15T12:31:32+00:00",
+      "content_excerpt": "Chapter 1: The Commodity, Section 1: The Two Factors of the Commodity: Use-Value and Value (substance of value, magnitude of value) The post Reading ‘Capital’… slowly appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/09bb6cabf01198ba03bc1203.json"
+    },
+    {
+      "id": "4e9ab30a7bba6dad8319407a",
+      "title": "Norman Finkelstein’s latest book indicts those ‘in high places’ for genocide in Gaza",
+      "url": "https://mronline.org/2026/09/15/norman-finkelsteins-latest-book-indicts-those-in-high-places-for-genocide-in-gaza",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-09-15T11:28:23+00:00",
+      "content_excerpt": "A review of Norman Finkelstein's 'Gaza's Gravediggers,' which indicts not Israel's military, but the global officials and institutions, such as the UN, the ICJ, and the media, who enabled and legitimized the genocide. The post Norman Finkelstein’s latest book indicts those ‘in high places’ for genocide in Gaza appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/4e9ab30a7bba6dad8319407a.json"
+    },
+    {
+      "id": "574102600928ef5c10df177c",
+      "title": "International trade theory not developmental",
+      "url": "https://mronline.org/2026/09/15/international-trade-theory-not-developmental",
+      "author": "Jomo Kwame Sundaram",
+      "source": "MR Online",
+      "published_at": "2026-09-15T10:25:45+00:00",
+      "content_excerpt": "Most free trade advocates falsely claim comparative advantage ensures developmental gains for all from trade liberalisation. But even mainstream theory doesn’t promise partial liberalisation is better. The post International trade theory not developmental appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/574102600928ef5c10df177c.json"
+    },
+    {
+      "id": "f34da501af4946f666b66ee2",
+      "title": "Faith-Labor Organizing: Why Building Permanent Infrastructure is the Intervention This Moment Demands",
+      "url": "https://convergencemag.com/articles/faith-labor-organizing-why-building-permanent-infrastructure-is-the-intervention-this-moment-demands",
+      "author": "Kenneth Nixon",
+      "source": "Convergence",
+      "published_at": "2026-09-15T09:33:21+00:00",
+      "content_excerpt": "Our congregations and our unions each have a measure of power. None of it is enough. The change we seek requires building power together; prioritizing building that power together in parallel with the work we are already doing alone. Our faith communities and labor unions share geographies, serve many of the same families, and claim a common commitment to human dignity. We rarely build power… Source",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/f34da501af4946f666b66ee2.json"
+    },
+    {
+      "id": "a652534b3473dacee29e2c9b",
+      "title": "Big firms spent at least $1.7B on union-busting last year",
+      "url": "https://mronline.org/2026/09/15/big-firms-spent-at-least-1-7b-on-union-busting-last-year",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-09-15T09:23:41+00:00",
+      "content_excerpt": "The nation’s corporations spent $1.7 billion on union-busters last year—and that figure actually is an understatement. The post Big firms spent at least $1.7B on union-busting last year appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/a652534b3473dacee29e2c9b.json"
+    },
+    {
+      "id": "8ddd2067591b1ad5c8ee7ffa",
+      "title": "BRICS nations call for end of US blockade on Cuba, condemn Israeli and US violations in Iran",
+      "url": "https://breakthroughnews.org/2026/09/15/brics-nations-call-for-end-of-us-blockade-on-cuba-condemn-israeli-and-us-violations-in-iran",
+      "author": "Abdul Rahman",
+      "source": "BT News",
+      "published_at": "2026-09-15T08:28:23+00:00",
+      "content_excerpt": "The 18th BRICS summit concluded in New Delhi on Sunday, September 13, with the unanimous adoption of the New Delhi declaration condemning wars in West Asia and reiterating calls for a more democratic and multilateral world order. This year marks the 20th anniversary of the formation of the grouping with the core objective of democratizing global governance and promoting multilateralism and cooperation among the countries of the Global South. This years’ summit was held around the theme of “Building for Resilience, Innovation, Cooperation and Sustainability.” The summit, hosted by Indian Prime Minister Narendra Modi, was also attended by Chinese President Xi Jinping, Russian President Vladimir Putin, Iranian President Masoud Pezeshkian, South African President Cyril Ramaphosa, Indonesian Pr",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/8ddd2067591b1ad5c8ee7ffa.json"
+    },
+    {
+      "id": "9d1f626d455cd0d7e4a27c89",
+      "title": "Global oil trade in jeopardy after drone attacks on strategic Saudi pipeline",
+      "url": "https://breakthroughnews.org/2026/09/15/global-oil-trade-in-jeopardy-after-drone-attacks-on-strategic-saudi-pipeline",
+      "author": "Aseel Saleh",
+      "source": "BT News",
+      "published_at": "2026-09-15T08:28:23+00:00",
+      "content_excerpt": "The Saudi Ministry of Energy announced on Friday, September 11, that the East–West Pipeline across the Riyadh and Madinah regions was subjected to multiple attacks a day earlier, leading to its closure as a precautionary measure. According to media reports , the strategic pipeline carries roughly 4 to 5 million barrels of oil per day, which equals 4% to 5% of the total global oil supply. The Saudi Foreign Ministry clarified in a statement issued on Saturday, September 12 that the attacks were launched from Iraq by multiple drones, adding that they resulted in injuries and some damage to the pipeline. No groups have claimed responsibility for the attacks yet. The ministry also confirmed that Saudi Arabia will not respond to the attacks at this stage, allowing the Iraqi government to take th",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/9d1f626d455cd0d7e4a27c89.json"
+    },
+    {
+      "id": "993d010538fb0f0211ef91dd",
+      "title": "MVIWATA seeks stronger farmers’ rights in proposed EAC seed bill",
+      "url": "https://breakthroughnews.org/2026/09/15/mviwata-seeks-stronger-farmers-rights-in-proposed-eac-seed-bill",
+      "author": "Nicholas Mwangi",
+      "source": "BT News",
+      "published_at": "2026-09-15T08:28:23+00:00",
+      "content_excerpt": "Tanzanian small-scale farmers’ organizations and civil society groups are raising concerns over the proposed East African Community (EAC) Seed and Plant Varieties Bill of 2025 , warning that the legislation could marginalize farmer-managed seed systems unless specific protections and exemptions are introduced. In a submission to public hearings on the proposed bill, the Mtandao wa Vikundi vya Wakulima (MVIWATA) called for the legislation to explicitly recognize and protect farmer-managed seed systems (FMSS), arguing that the current draft is largely designed around commercial and certified seed systems. MVIWATA, established in 1993, which has more than 500,000 smallholder farmer members across Tanzania, has previously participated in discussions on seed legislation and harmonization at bot",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/993d010538fb0f0211ef91dd.json"
+    },
+    {
+      "id": "dcca55059ac9521f992b3730",
+      "title": "25 Years of the “War on Terror” w/ Silky Shah & Darakshan Raja",
+      "url": "https://convergencemag.com/podcast/25-years-of-war-on-terror-w-silky-shah-darakshan-raja",
+      "author": "Cayden Mak",
+      "source": "Convergence",
+      "published_at": "2026-09-14T23:40:06+00:00",
+      "content_excerpt": "In the aftermath of the September 11th, 2001 attacks, the US government enjoyed broad, bipartisan support for mounting what President George W. Bush termed a “War on Terror.” We were told that “war” required new tools, new techniques, and new resources to fight a global, asymmetric foe–one that maybe was lurking inside the United States, and that was driven by a supposedly civilizational grudge… Source",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/dcca55059ac9521f992b3730.json"
     },
     {
       "id": "512d6f78e791da38ea70333b",
@@ -97,156 +246,6 @@
       "priority": 2,
       "date_missing": false,
       "article_path": "articles/f6212e2bb38c4d9449ef796c.json"
-    },
-    {
-      "id": "efdddb419a162d74beb0f937",
-      "title": "Israel Threatens to Revoke Citizenship of Yuval Abraham & Rachel Szor for ”NAZA” Film on Gaza Genocide",
-      "url": "https://www.democracynow.org/2026/9/14/naza_film",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-09-14T14:11:09+00:00",
-      "content_excerpt": "The film NAZA , which documents the Israeli military’s use of secret AI-powered systems to deliberately and systematically target and massacre civilians in Gaza, won the Special Jury Prize at the Venice Film Festival Saturday. The film was directed by Israeli journalist Yuval Abraham and filmmaker Rachel Szor, both of whom won an Oscar for the documentary No Other Land in 2025 along with Palestinian co-directors Basel Adra and Hamdan Ballal. NAZA was shot in secret on rooftops in Tel Aviv over three years and builds on testimony from Israeli military and intelligence sources who spoke on the condition their identities be concealed. The film’s title refers to an acronym used by the Israeli military as a shorthand for civilian killings in Gaza. The film’s reception in Venice, where it receiv",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/efdddb419a162d74beb0f937.json"
-    },
-    {
-      "id": "c0b3a14ad33a846d6b503fe3",
-      "title": "“One Betrayal After Another”: 9/11 Widow Blasts U.S. Cover-Up of Saudi Role in Attacks",
-      "url": "https://www.democracynow.org/2026/9/14/9_11_memorial",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-09-14T14:11:09+00:00",
-      "content_excerpt": "A quarter-century after the September 11 attacks that killed nearly 3,000 people in the United States, a group of victims’ families is continuing a lawsuit against Saudi Arabia to hold the kingdom accountable for any role it played in the planning and execution of the plot. While the Saudi government has always denied advance knowledge of the 9/11 attacks, 15 of the 19 plane hijackers were Saudi citizens, including some with connections to Saudi officials and intelligence assets in the United States. Terry Strada, the national chair of 9/11 Families United, raised the issue during an official commemoration on Friday in New York while paying tribute to her husband Tom, who was killed in the World Trade Center. With Vice President JD Vance and all four living ex-presidents in the audience, S",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/c0b3a14ad33a846d6b503fe3.json"
-    },
-    {
-      "id": "fc4bb0d2a948bdb5f87d804b",
-      "title": "Trove of Evidence Sheds New Light on How Saudi Intelligence Asset Helped 9/11 Hijackers Before Attack",
-      "url": "https://www.democracynow.org/2026/9/14/saudi_9_11_investigation",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-09-14T14:11:09+00:00",
-      "content_excerpt": "Did Saudi Arabia play a role in the planning and execution of the September 11 attacks of 2001? That question was raised immediately after the attack, when 15 of the 19 hijackers were revealed to be Saudi citizens, and it has only grown louder in the 25 years since as more evidence emerged of the attackers’ connections to Saudi figures inside the United States. We speak with ProPublica journalist Tim Golden, who reports that the FBI failed to fully investigate Omar al-Bayoumi, a Saudi intelligence asset who helped two of the hijackers as they arrived in California in early 2000. Key evidence, including a handwritten note by al-Bayoumi calculating an airplane’s trajectory to a point on the horizon, was not fully disclosed to investigators. “Al-Bayoumi was incredibly important, but this evid",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/fc4bb0d2a948bdb5f87d804b.json"
-    },
-    {
-      "id": "48e0a6a0cc198bd78d34f0e1",
-      "title": "Is Yemen Heading Back to All-Out War? Saudis Launch Strikes as Houthis Take Control of Red Sea Coast",
-      "url": "https://www.democracynow.org/2026/9/14/houthi_expansion",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-09-14T14:11:09+00:00",
-      "content_excerpt": "Yemen is at risk of spiraling back into all-out war as Houthi forces and Saudi Arabia exchange new strikes amid a fight over control of the key Bab el-Mandeb strait through which much of Saudi oil passes on its way to world markets. The Houthis, the Iran-allied force also known as Ansarallah, has seized Yemen’s entire Red Sea coastline from the Saudi-backed Yemeni government. The United Nations says the latest escalation has displaced 86,000 people in Yemen as the U.S. war on Iran continues to wrack the Middle East and raise oil prices around the world. “What’s happening right now is essentially a break in the ceasefire between Ansarallah … and Saudi Arabia,” says Shireen Al-Adeimi, a Yemeni American associate professor at Michigan State University. “This ceasefire has been in place since ",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/48e0a6a0cc198bd78d34f0e1.json"
-    },
-    {
-      "id": "4daa870d7632af5bf61a61a8",
-      "title": "‘This counter-terrorism framework situates people outside of rights’",
-      "url": "https://mronline.org/2026/09/14/this-counter-terrorism-framework-situates-people-outside-of-rights",
-      "author": "Janine Jackson",
-      "source": "MR Online",
-      "published_at": "2026-09-14T13:10:40+00:00",
-      "content_excerpt": "CounterSpin interview with Samer Araabi on dissent as 'terrorism' The post ‘This counter-terrorism framework situates people outside of rights’ appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/4daa870d7632af5bf61a61a8.json"
-    },
-    {
-      "id": "7d3d934ac79f472ad13247cf",
-      "title": "Why don’t systemic crises always lead to revolutions?",
-      "url": "https://mronline.org/2026/09/14/why-dont-systemic-crises-always-lead-to-revolutions",
-      "author": "Álvaro García Linera",
-      "source": "MR Online",
-      "published_at": "2026-09-14T12:09:43+00:00",
-      "content_excerpt": "For a long time, it was believed that a structural economic crisis, like the one the world is experiencing today, would be followed by a general political crisis and then social unrest and revolutions. However, these are exceptional cases. The post Why don’t systemic crises always lead to revolutions? appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/7d3d934ac79f472ad13247cf.json"
-    },
-    {
-      "id": "9d02eb5153aab13f661de81a",
-      "title": "War On Iran: Ansar Allah goes on the offensive",
-      "url": "https://mronline.org/2026/09/14/war-on-iran-ansar-allah-goes-on-the-offensive",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-09-14T11:06:49+00:00",
-      "content_excerpt": "Bombing Ansar Allah has been tried for years with little results. The Saudis do not have the manpower for an invasion. The post War On Iran: Ansar Allah goes on the offensive appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/9d02eb5153aab13f661de81a.json"
-    },
-    {
-      "id": "a8a3fb4d5ee8e82eee793073",
-      "title": "Apropos GDP estimates",
-      "url": "https://mronline.org/2026/09/14/apropos-gdp-estimates",
-      "author": "Prabhat Patnaik",
-      "source": "MR Online",
-      "published_at": "2026-09-14T10:05:30+00:00",
-      "content_excerpt": "The first GDP estimate for India was made by Dadabhai Naoroji for the year 1867-68, though his estimate was extremely rough. The post Apropos GDP estimates appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/a8a3fb4d5ee8e82eee793073.json"
-    },
-    {
-      "id": "68a68a03b10ecc18c8d0d266",
-      "title": "‘Failure of epic proportions’: Yemen’s lightning assault fractures Saudi-led coalition",
-      "url": "https://mronline.org/2026/09/14/failure-of-epic-proportions-yemens-lightning-assault-fractures-saudi-led-coalition",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-09-14T09:02:58+00:00",
-      "content_excerpt": "Sources told U.S. media that the Ansarallah-led Yemeni army’s opponents, already weakened in recent days, faced ‘waves and waves’ of Sanaa’s forces in the latest battle. The post ‘Failure of epic proportions’: Yemen’s lightning assault fractures Saudi-led coalition appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/68a68a03b10ecc18c8d0d266.json"
-    },
-    {
-      "id": "4200811b752f725a7334ee0b",
-      "title": "Nicolás Maduro is not guilty",
-      "url": "https://breakthroughnews.org/2026/09/13/nicolas-maduro-is-not-guilty",
-      "author": "Stephanie Weatherbee Brito",
-      "source": "BT News",
-      "published_at": "2026-09-13T22:42:09+00:00",
-      "content_excerpt": "Venezuelan President Nicolás Maduro is not guilty. This is a statement of law and fact, since Maduro has not been convicted of any crime. He has pleaded not guilty to every charge brought against him, and the accusations made by the United States remain precisely that: accusations. Under the presumption of innocence – recognized in the United States Constitution and in Article 14 of the International Covenant on Civil and Political Rights – the burden rests entirely upon the prosecution to prove guilt. It is not Maduro who must prove his innocence, but it is the United States government that must prove his guilt. On January 3, 2026, United States forces illegally entered Venezuela, attacked targets in and around Caracas, seized President Maduro and his wife and an elected official, Cilia F",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/4200811b752f725a7334ee0b.json"
     }
   ]
 }

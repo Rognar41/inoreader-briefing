@@ -1,177 +1,311 @@
 {
-  "generated_at": "2026-09-14T22:39:06.409493+00:00",
-  "generated_at_jst": "2026-09-15T07:39:06.409493+09:00",
-  "period_start": "2026-09-13T16:39:06.409493+00:00",
+  "generated_at": "2026-09-15T22:24:01.491393+00:00",
+  "generated_at_jst": "2026-09-16T07:24:01.491393+09:00",
+  "period_start": "2026-09-14T16:24:01.491393+00:00",
   "lookback_hours": 30,
   "folder": "00_毎日確認",
-  "article_count": 11,
+  "article_count": 20,
   "excerpt_chars": 800,
   "articles": [
     {
-      "id": "7b868c4c2459ea260784958f",
-      "title": "How Amazon Busts Unions, in Its Own Words",
-      "url": "https://www.inoreader.com/article/3a9c6e76785fa5c5",
-      "author": "Benjamin Y. Fong",
-      "source": "Jacobin",
-      "published_at": "2026-09-14T20:56:01+00:00",
-      "content_excerpt": "Nearly ninety years ago, Ford kept its own private security force on the payroll for whenever they needed to beat up union supporters. Having traded in the brass knuckles and baseball bats of the early twentieth century for the empathetic listening and fine-grained surveillance of the early twenty-first, Amazon today employs an entirely different set of tactics to ward off union drives — tactics that may well be more effective precisely because they are so systematic. Amazon is, of course, a notoriously anti-union employer. Though workers at the JFK8 Fulfillment Center in Staten Island voted to form a union in 2022, Amazon has refused to bargain with them, even after the National Labor Relations Board ordered it to do so this past April. When workers at Cornucopia Logistics , a delivery se",
+      "id": "f330d672af0a91adf24e3f5a",
+      "title": "Elected Officials Are Facing a Reckoning Over Their Collusion with Big AI",
+      "url": "https://inthesetimes.com/article/big-tech-artificial-intelligence-ai-data-center-protests",
+      "author": "",
+      "source": "In These Times",
+      "published_at": "2026-09-15T22:08:33+00:00",
+      "content_excerpt": "A majority of Americans want to put a stop to the profit-driven artificial intelligence (AI) agenda being pushed onto all of us by a handful of powerful tech corporations. Across the country, people are building a movement to protect our water, our air, our children, our schools and our jobs from Big Tech. We are not afraid of AI or technology, we’re just not buying the version of AI these corporations are peddling. We come to this fight from different places and perspectives. Stephanie is fighting against the construction of a nuclear weapons data center in Michigan that will reshape her community. Mary is a high school student watching AI hijack her classroom and her peers’ mental health. Our experiences are different, but we share a common conviction: we must stop Big Tech. In order to ",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/7b868c4c2459ea260784958f.json"
+      "article_path": "articles/f330d672af0a91adf24e3f5a.json"
     },
     {
-      "id": "565705d00f420dcb98477035",
-      "title": "Raise Your Hand if You’re Here: Why CDSA Must Intervene in the Board of Education Races",
-      "url": "https://midwestsocialist.com/2026/09/14/raise-your-hand-if-youre-here-why-cdsa-must-intervene-in-the-board-of-education-races",
+      "id": "a375051c80a5645c21d4e949",
+      "title": "What Teamsters Class Solidarity Looks Like",
+      "url": "https://inthesetimes.com/article/teamsters-class-solidarity-ups-who-moves-america",
+      "author": "",
+      "source": "In These Times",
+      "published_at": "2026-09-15T22:08:33+00:00",
+      "content_excerpt": "(Who Moves America) I was at a Crotona Park barbecue in the South Bronx to celebrate my wife’s nephew, who was going off to a trade school after graduating high school. The family barbecue included a cross section of union members, among them electricians, hotel workers, Teamsters — not a strange amalgam, thanks to New York’s high union density . It’s often only in TV shows that you see a tight-knit group of friends from vastly different class backgrounds hanging out together. In real life, we can’t curate a social circle of people from disparate backgrounds with the same ease you assemble an eclectic wardrobe from a thrift store. Social life determines more than consciousness; it also structures our deepest relationships. Class is a socially embodied relationship, rooted in the divisions ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/a375051c80a5645c21d4e949.json"
+    },
+    {
+      "id": "8900095a984d3c7e413aa77e",
+      "title": "The Jewish Socialists Who Fought the Tsar and Zionism",
+      "url": "https://www.inoreader.com/article/3a9c6e767f01b394",
+      "author": "Molly Crabapple",
+      "source": "Jacobin",
+      "published_at": "2026-09-15T20:39:34+00:00",
+      "content_excerpt": "Jewish socialist intellectuals founded the Bund in the Russian Empire in 1897, and it soon became a mass organization of the Jewish working class — a working class confined by law to the Pale of Settlement. From its inception, the Bund and the socialist politics it represented struggled against capitalists and autocrats alongside non-Jewish socialist comrades. It also competed bitterly with its Jewish rivals: Orthodox traditionalists, Zionists, and Bolsheviks. Amid repression and revolution, the story of the Jews of the western Russian Empire diverges. Huge numbers emigrated to the Americas, and more than anywhere to New York City, where they built a Yiddish-speaking socialist world whose inheritors are in many ways today’s anti-Zionist socialist Jews. Most of the many Bundists who remaine",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/8900095a984d3c7e413aa77e.json"
+    },
+    {
+      "id": "0600731e477ba4ae1f077bf0",
+      "title": "M*A*S*H is an Antiwar Masterpiece",
+      "url": "https://midwestsocialist.com/2026/09/15/mash-is-an-antiwar-masterpiece",
       "author": "Midwestern Socialist -- Chicago DSA",
       "source": "DSA Feed - Global",
-      "published_at": "2026-09-14T20:26:02+00:00",
-      "content_excerpt": "As CDSA forges ahead into a busy and demanding aldermanic cycle, membership is set to consider a new slate of potential endorsees at September’s General Chapter Meeting: four candidates for Chicago’s first fully-elected school board. Before those votes take place, I’d like to make the case for why lending our chapter’s endorsement of all four candidates is critical to amplifying our “ Workers Deserve More ” program and furthering the class-struggle messaging that will help build out our movement and propel us to victory in February’s municipal elections. All four school board candidates under consideration ( Hilario Dominguez , Jason Dones , Karen Zaccor , and Debby Pope ) are self-identified socialists who have a clear-eyed vision for what it means to bring socialism to the Board of Educa",
+      "published_at": "2026-09-15T20:13:21+00:00",
+      "content_excerpt": "In December of last year, I started watching the television show M*A*S*H , which ran on CBS from 1972 to 1983. As a history nerd with a penchant for old TV shows I quickly became obsessed, watching every single episode in under six months. For those unfamiliar, the show is a comedy-drama following the exploits of the personnel serving at the 4077th Mobile Army Surgical Hospital (M*A*S*H) during the Korean War (1950-1953). Intended as an allegory for the Vietnam War, the show tapped into the intense anti-war and anti-institutional sentiment of broad swaths of the American public of the time. The show is unapologetically anti-war and progressive, unrelenting in its insistence that basic human dignity be upheld in the most horrific circumstances. It is extremely well-written and enjoyable to ",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/565705d00f420dcb98477035.json"
+      "article_path": "articles/0600731e477ba4ae1f077bf0.json"
     },
     {
-      "id": "761e138058372743c43007e8",
-      "title": "Russian Elites Are Fighting for Unchecked Power",
-      "url": "https://www.inoreader.com/article/3a9c6e76784df4df",
-      "author": "Georgy Birger",
+      "id": "12f0ec2b998cee7b373761c9",
+      "title": "The Call for Working-Class Liberalism Is Coming From Inside the House",
+      "url": "https://www.inoreader.com/article/3a9c6e767f0d64a1",
+      "author": "Gerard Di Trolio",
       "source": "Jacobin",
-      "published_at": "2026-09-14T18:53:14+00:00",
-      "content_excerpt": "Ignoring a problem is rarely enough to make it go away. Take civilizationism , an approach based on shared culture taken to the level of civilizational identity. Also called civilization al ism, the idea has been around for centuries and has quietly inspired many conflicts. Overshadowed briefly by Cold War ideological conflict, it resurfaced in the 1990s when political scientist Samuel Huntington famously proposed a coming “clash of civilizations,” in contrast to his student Francis Fukuyama’s suggestion of the “end of history.” Huntington’s thesis was heavily criticized in mainstream academia, partly due to his Orientalism and racialized stereotyping . Still, it had its political impact, even beyond Huntington’s own homeland. After Russia’s conservative turn in 2012, President Vladimir Pu",
+      "published_at": "2026-09-15T20:08:42+00:00",
+      "content_excerpt": "The socialist left has a vexed relationship with major economists. This is a problem, because it sometimes leaves the Left on the outside of contemporary economic debates. Daron Acemoglu is precisely the sort of economist that the Left should not ignore. Alongside his frequent collaborators Simon Johnson and James A. Robinson, he is a 2024 Nobel laureate in economics. He is also among the world’s most cited economists. His new book, What Happened to Liberal Democracy? , has already received lot of attention, as his recent spat with The Economist shows. Acemoglu’s work can be summed up in the proposition that institutions matter for economic growth. He identifies two types of institutions. Inclusive political and economic institutions constrain power, protect rights, and broaden access to o",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/761e138058372743c43007e8.json"
+      "article_path": "articles/12f0ec2b998cee7b373761c9.json"
     },
     {
-      "id": "6b8650d3dc32180c0b7e534c",
-      "title": "Cleveland DSA & “The Groups”",
-      "url": "https://www.dsacleveland.org/cleveland-dsa-the-groups",
-      "author": "Cleveland DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-09-14T15:27:05+00:00",
-      "content_excerpt": "by Martin O. One of the critical questions, if not the most critical and contentious in Cleveland DSA, is our strategic and tactical orientation toward “The Groups.” As we pursue our objectives, where do the many NGOs and activist groups in the metro area fit in? This debate encompasses a variety of political perspectives that have been represented historically for hundreds of years. In fostering healthy discussion of this issue, it’s important to recognize that these positions represent a place in this broader historical political debate rather than simply a particular moral or ethical viewpoint about the value of particular causes. None of the information I’m going to convey here is new; there are no new insights, it’s all available in other places. However, as I’ve been in the middle of",
+      "id": "2ad897abfe5630ec03cb8580",
+      "title": "Tech Authoritarian Doomsayers",
+      "url": "https://inthesetimes.com/article/tech-trump-vance-crypto-artificial-intelligence-silicon-valley",
+      "author": "",
+      "source": "In These Times",
+      "published_at": "2026-09-15T18:11:05+00:00",
+      "content_excerpt": "In June 2024 , investor David Sacks hosted a high-dollar fundraiser for then presidential candidate Donald Trump at his Pacific Heights mansion in San Francisco, bringing together the titans of Silicon Valley and venture capitalism to pledge their allegiance — and financial support — to the candidate promising to make their wildest tech-authoritarian dreams come true. The dinner party was orchestrated by then Ohio Sen. J.D. Vance, who served as a point of contact between Sacks and Trump, the former real estate tycoon who had notoriously been less than friendly to Big Tech during his first term. This time, however, Trump reportedly struck a different tone, criticizing Bidenera regulations on the ascendant industries of crypto and artificial intelligence (AI), promising to lift them if elect",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/6b8650d3dc32180c0b7e534c.json"
+      "article_path": "articles/2ad897abfe5630ec03cb8580.json"
     },
     {
-      "id": "b422991f471cbef3179f6f4c",
-      "title": "PAC-MEN: The Web of Political Action Committees Pushing Portland To The Right",
-      "url": "https://portlanddsa.org/pac-men-the-web-of-political-action-committees-pushing-portland-to-the-right",
-      "author": "Portland DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-09-14T15:27:05+00:00",
-      "content_excerpt": "Portland’s capitalist class animates an opaque network of political action committees & non-profits tasked with pushing Portland politics to the Right. In a post- Citizens United world, this incestuous network of wealthy donors and corporations relies on weak campaign finance rules, splashy websites, and endless permutations of the words progressive, Portland, and action! (from Left to Right) Racist real estate developer Brian Owendoff, Andrew Hoan and Jon Isaacs (CEO and Chief Lobbyist, respectively, of the Portland Metro Chamber), and Vadim Mozyrsky of Partnership for Progress/Go, Portland, Go. The Portland Metro Chamber of Secrets The OG lobby of the capitalist class. The Portland Metro Chamber executive committee is helmed by giant multinationals like Bank of America, Amazon, Google, N",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/b422991f471cbef3179f6f4c.json"
-    },
-    {
-      "id": "f3b5d6216fe1d1bbbfcfeeb9",
-      "title": "Getting Grounded: The Rochester Community Food System Plan",
-      "url": "https://rocdsa.org/blog/getting-grounded-the-rochester-community-food-system-plan",
-      "author": "Rochester Red Star: News from Rochester DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-09-14T15:27:05+00:00",
-      "content_excerpt": "by Elizabeth Henderson First a couple of farm food-related events: “Feeding Tomorrow” – film screening September 23 at 6 pm at The Little , sponsored by the Rochester Food Policy Council. After the one-hour documentary, there will be a panel of local people whose work parallels the inspiring examples in the film. Here is the eventbrite link to purchase tickets – $5, but no one turned away for lack of funds: https://www.eventbrite.com/e/film-screening-feeding-tomorrow-tickets-1994986387990 Tour Mud Creek Farm, a small-scale organically managed vegetable farm in Victor, NY on Tuesday, September 29 at 10:45 am. The Abundance Food Coop, along with NOFA-NY and the Food Policy Council, will be holding a field day to tour Mud Creek Farm to learn about community supported agriculture, and highly d",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/f3b5d6216fe1d1bbbfcfeeb9.json"
-    },
-    {
-      "id": "b22885bb695b13333759ae24",
-      "title": "Sweden’s Far Right: Faltering but Not Defeated",
-      "url": "https://www.inoreader.com/article/3a9c6e76782bbe4e",
-      "author": "Nicola Quondamatteo",
+      "id": "bfb13b4fd1a333ceefb1924b",
+      "title": "Donald Trump’s Imperialism of Decline Is a Global Menace",
+      "url": "https://www.inoreader.com/article/3a9c6e7678d533ce",
+      "author": "Atul Kohli",
       "source": "Jacobin",
-      "published_at": "2026-09-14T14:47:23+00:00",
-      "content_excerpt": "For the far-right Sweden Democrats, Sunday’s parliamentary elections may have looked like the final step toward full “detoxification.” Success in the election for the Riksdag promised to crown the party’s integration into the Swedish political system — a formality by this point, but a significant step nonetheless. That integration had substantially taken place already four years ago, when a government coalition deal was agreed on at the Tidö Castle. The Sweden Democrats had previously been subject to a cordon sanitaire excluding them from office: the Moderate Party leader, Ulf Kristersson, even solemnly promised a Holocaust survivor that he would never cooperate with the far right. But after the 2022 elections, this pledge was ditched. Kristersson soon formed a coalition of traditional cen",
+      "published_at": "2026-09-15T15:31:26+00:00",
+      "content_excerpt": "To make sense of US foreign policy under Donald Trump, we need to see it against the long-term historical background. Trump’s approach to world affairs may be erratic, but that does not mean it is completely without precedent. The United States has long been an imperial power. While not establishing formal colonies, the US has instead created an informal empire in which obsequious governments in the Global South enable the pursuit of American political and economic interests. Throughout its history, American imperialism has come in three varieties: hard militarism, covert regime change, and multilateral coercion. Trump’s brand of imperialism continues along these pathways, albeit with some significant changes, especially its brazenness. America’s Militarist Tradition Recent US intervention",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/b22885bb695b13333759ae24.json"
+      "article_path": "articles/bfb13b4fd1a333ceefb1924b.json"
     },
     {
-      "id": "72b6a109fb7b265c02e13e2e",
-      "title": "Report: The Working-Class Vote Is Not Lost",
-      "url": "https://www.inoreader.com/article/3a9c6e767819a040",
-      "author": "Editors",
+      "id": "e1c335a170c94e41bccbe7e8",
+      "title": "The Fate of the Rohingyas Is Crucial for Myanmar’s Future",
+      "url": "https://www.inoreader.com/article/3a9c6e7678df59f1",
+      "author": "Sushovan Dhar",
       "source": "Jacobin",
-      "published_at": "2026-09-14T13:15:59+00:00",
-      "content_excerpt": "A new survey experiment from the Center for Working-Class Politics and Joan C. Williams finds that a six-part formula can lift Democrats’ working-class vote share by nearly 11 points. It also adds nearly 8 points among the party’s affluent, college-educated base. More than 40,000 respondents evaluated nearly 800,000 hypothetical candidate profiles, making the study one of the largest of its kind. The project was supported by Jacobin and the Rosa Luxemburg Stiftung. The formula boils down to two imperatives: lead with working-class economics and connect with working-class values. Earlier this summer, Jared Abbott of the Center for Working-Class Politics (CWCP) and Joan C. Williams of the Equality Action Center (EAC) released “ The Left’s Coalition Crisis ,” a study of working-class and coll",
+      "published_at": "2026-09-15T14:29:13+00:00",
+      "content_excerpt": "In August 2024, Rohingya families gathered on the banks of the Naf River in Maungdaw, waiting to cross into Bangladesh as the fighting closed in. Drones and mortars found them there. Roughly two hundred people were killed , another entry in a catalogue of atrocity the Rohingya have been forced to keep for decades. What made this massacre different was who stood accused of it. The killing was attributed not to the Myanmar military, the army that drove three-quarters of a million Rohingya into exile in 2017, but to the Arakan Army , the ethnic Rakhine force that has spent the past two years dismantling that same military’s grip on the state. The genocidaire was in retreat but the Rohingya were dying anyway. That is the contradiction at the heart of Myanmar today, and it is why we should mark",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/72b6a109fb7b265c02e13e2e.json"
+      "article_path": "articles/e1c335a170c94e41bccbe7e8.json"
     },
     {
-      "id": "82d3e98d259084e29b8e280d",
-      "title": "Meet Me in St. Louis",
-      "url": "https://democraticleft.dsausa.org/2026/09/13/meet-me-in-st-louis",
-      "author": "Democratic Left",
+      "id": "12e8229734e80474dcea12ff",
+      "title": "The Rise of Germany’s Far Right Reflects a Systemic Crisis",
+      "url": "https://www.inoreader.com/article/3a9c6e7678c13e7b",
+      "author": "Gábor Scheiring",
+      "source": "Jacobin",
+      "published_at": "2026-09-15T13:28:43+00:00",
+      "content_excerpt": "After the Alternative für Deutschland (AfD) scored 44 percent of the vote in the September 6 state election in Saxony-Anhalt, many analysts sought some single, clearly identifiable reason. The interest in the AfD’s success is well justified: what happens in Germany shapes Europe and even world politics, and most mainstream accounts seek tools with which the center can disarm the far right. In this vein, the AfD’s success is said to owe to a sluggish bureaucracy, the peculiar political culture of the former East Germany, or more simply to immigration. Yet the reliance on a single explanatory factor yields single-variable strategies in response, and such strategies are bound to fail. The rise of the far right is a symptom of a systemic crisis that has merely become more visible in eastern Ge",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/12e8229734e80474dcea12ff.json"
+    },
+    {
+      "id": "de8c0b43e1ef45a577af5978",
+      "title": "A Right to Bargain",
+      "url": "https://democraticleft.dsausa.org/2026/09/15/a-right-to-bargain",
+      "author": "cbottego",
       "source": "Democratic Left",
-      "published_at": "2026-09-14T01:19:52+00:00",
-      "content_excerpt": "Devin Thomas O’Shea’s The Veiled Prophet profiles a not-so-secret secret society that presided over a troubled and troubling metropolis. The post Meet Me in St. Louis appeared first on Democratic Left .",
+      "published_at": "2026-09-15T13:06:49+00:00",
+      "content_excerpt": "A universal right to bargain would turn Simone Weil's philosophy into a concrete tool for building economic democracy in the American workplace. The post A Right to Bargain appeared first on Democratic Left .",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/82d3e98d259084e29b8e280d.json"
+      "article_path": "articles/de8c0b43e1ef45a577af5978.json"
     },
     {
-      "id": "8092e7179430793385dedfe4",
-      "title": "UNITE HERE 26 and Teamsters 25 Hotel Workers On Simultaneous Strike At Encore Boston Harbor",
-      "url": "https://working-mass.com/2026/09/13/hotel-workers-with-unite-here-26-and-teamsters-25-on-simultaneous-strike-at-encore",
-      "author": "Working Mass: The Massachusetts DSA Labor Outlet",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-09-13T22:32:59+00:00",
-      "content_excerpt": "On strike at Encore Boston Harbor (Working Mass) By: Vanessa Bartlett EVERETT – Workers at the Encore Boston Harbor, organized in bargaining units affiliated with the International Brotherhood of Teamsters Local 25 and UNITE HERE Local 26, went on strike September 4 in advance of Labor Day following the expiration of their contract on August 31. These 1350 hospitality workers have made the hotel-casino located at the juncture between Everett and Boston run since 2019, when Wynn Resorts opened the hotel on one of the three territories designated by the 2011 Expanded Gaming Act as legal gaming sites. While profits have risen, workers report that neither wages nor healthcare has kept up with company profits. Picketers marched back and forth in front of the main entrance and exit to the casino",
+      "id": "ab196c300441a71a5c2187d3",
+      "title": "Securing Public Education’s Future w/ Cecily Myart-Cruz",
+      "url": "https://convergencemag.com/podcast/securing-public-educations-future-w-cecily-myart-cruz",
+      "author": "",
+      "source": "Tag: Labor",
+      "published_at": "2026-09-15T09:28:57+00:00",
+      "content_excerpt": "Block & Build is a weekly newsmagazine podcast from Convergence Magazine that examines the balance of political forces in the US from a movement perspective. Every week, host Cayden Mak explores what's… Leading a union can be difficult. Even more difficult? Leading the educators union in the second-largest school district in the country, United Teachers Los Angeles , through the early months of the COVID-19 pandemic. Today, we talk to the woman who did just that: immediate Past President of UTLA, Cecily Myart-Cruz. She was also the first woman of color to be elected to the position. During her tenure, she made strides in racial justice and protections for immigrants. She helped secure more financial protections for the district, its workers, and more. Under her leadership, UTLA was able to",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/8092e7179430793385dedfe4.json"
+      "article_path": "articles/ab196c300441a71a5c2187d3.json"
     },
     {
-      "id": "a35d6aeef29215a6231661c8",
-      "title": "In Defense of Abolition",
-      "url": "https://socialistforum.dsausa.org/issues/spring-summer-2026/in-defense-of-abolition",
-      "author": "Socialist Forum",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-09-13T19:33:54+00:00",
-      "content_excerpt": "At the July DSA National Political Committee (NPC) meeting, I proposed adding abolition to the Workers Deserve More program because I believe that abolishing capitalist policing and prisons is a fundamental demand of the socialist movement. I crafted the language carefully to clarify that we mean abolishing policing and prisons as institutions of capitalist rule, not conflating the abolition of capitalist policing and prisons with the abolition of every future social capacity for accountability and safety. The specific language we added is in italics: “Demilitarize police departments, disempower police unions, and redirect police and prison funding to public services, as steps towards abolishing the carceral forces of the capitalist state. ” This phrasing was eventually simplified to “towa",
+      "id": "bbe3ae79bbb11c70e5f045b0",
+      "title": "WFTU Statement on the 26th of July 2026 On the 73rd Anniversary of the Attack on the Moncada Barracks",
+      "url": "https://www.theoryandpraxis.eu/wftu-statement-on-the-26th-of-july-2026-on-the-73rd-anniversary-of-the-attack-on-the-moncada-barracks",
+      "author": "admin",
+      "source": "theory and praxis",
+      "published_at": "2026-09-15T02:34:29+00:00",
+      "content_excerpt": "The World Federation of Trade Unions (WFTU) salutes the heroic Cuban people on the occasion of the 73rd anniversary of the attack on the Moncada Barracks. The 26th of July remains a historic milestone in the struggle of the peoples against exploitation and imperialist domination. The heroic action led by Fidel Castro and his comrades in Santiago de Cuba marked the beginning of the revolutionary process that culminated in the triumph of the Cuban Revolution and inspired generations of workers and peoples throughout the world. The ideals of sovereignty, social justice, internationalism and workers’ dignity that emerged from Moncada continue to illuminate the struggles of the international working class today. This year’s anniversary takes place under conditions of intensified imperialist agg",
       "source_folders": [
-        "00_毎日確認",
-        "06_左派ニュース・社会主義戦略"
+        "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/a35d6aeef29215a6231661c8.json"
+      "article_path": "articles/bbe3ae79bbb11c70e5f045b0.json"
+    },
+    {
+      "id": "f6173fe96d0878f44463117a",
+      "title": "The Mummification of the AFL-CIO",
+      "url": "https://www.theoryandpraxis.eu/the-mummification-of-the-afl-cio",
+      "author": "admin",
+      "source": "theory and praxis",
+      "published_at": "2026-09-15T02:34:29+00:00",
+      "content_excerpt": "We republish below an article by EC member of the International Workers’ Institute (IWI), Chris Townsend. The American Federation of Labor – Congress of Industrial Organizations, (AFL-CIO) 30 th Convention met in Minneapolis, Minnesota, from June 6 th to 10 th . The proceedings were predictable, scripted, uneventful, and barely noticed by most union members. The working class more broadly were oblivious to this meeting of the top leaders of the nation’s only labor center – representing nearly 70% of the organized workforce here in the United Sates. All preparations for the shortened Convention had been geared towards maintaining a low profile, and it succeeded in that goal. The very well-paid union officialdom came and went, with no controversy or drama in evidence. Total attendance contin",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/f6173fe96d0878f44463117a.json"
+    },
+    {
+      "id": "5572ba3ba646751d30fe70bd",
+      "title": "Esteban Muñoz’s Address at the WFTU Event “35 Hour Workweek: A Necessary, Mature, and Feasible Demand”",
+      "url": "https://www.theoryandpraxis.eu/intervention-desteban-munoz-a-levenement-de-la-fsm-sur-la-semaine-de-35-heures",
+      "author": "admin",
+      "source": "theory and praxis",
+      "published_at": "2026-09-15T02:34:29+00:00",
+      "content_excerpt": "Below we share the address of c. Esteban Muñoz, representative of the International Workers’ Institute (IWI), at the joint IWI-WFTU event held within the framework of the 114th International Labour Conference on June 9 in Geneva, Switzerland. Dear colleagues of the WFTU and its affiliated organisations, dear friends of the WFTU, We are pleased to present this contribution, made as a member of the International Workers’ Institute, on the demand for a 35-hour working week – a necessary, mature and feasible measure. We shall begin with some introductory remarks on the history of struggles over working hours, before addressing the issue of the 35-hour week and the contemporary strategic framework. Within the worker-popular movement, the demand for a set daily and weekly working time is a histo",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/5572ba3ba646751d30fe70bd.json"
+    },
+    {
+      "id": "ae202f841b36bed4db03e7cd",
+      "title": "West Asia: 2nd IWI Webinar on the reasons of War in Iran, Lebanon, Palestine",
+      "url": "https://www.theoryandpraxis.eu/west-asia-2nd-iwi-webinar-on-the-reasons-of-war-in-iran-lebanon-palestine",
+      "author": "admin",
+      "source": "theory and praxis",
+      "published_at": "2026-09-15T02:34:29+00:00",
+      "content_excerpt": "The virtual seminar was held on May 18th, 2026, focusing on the consequences of the imperialist war on the workers lives. At the beginning of the session, Mohseni Kabir, referring to the experience of Iranian workers during the recent imposed war, said: “We are happy that you, our friends in prominent global organizations like the WFTU and IWI, support Iranian workers. Today we are discussing the military attack of the US and Israel on Iran.” He added: “The US, as a superpower, wants to tell countries what to do and what not to do, and otherwise punishes them. This is our view of recent history. Look at Iran’s case. Iran is located in a sensitive geographical position, bordering the Persian Gulf, the Strait of Hormuz, Turkey, Pakistan, Russia, Iraq, and other important countries. We are on",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/ae202f841b36bed4db03e7cd.json"
+    },
+    {
+      "id": "221d6d444e9a197ca9956f34",
+      "title": "Campaña Global por Cuba: 10 Razones yo firmo por Cuba",
+      "url": "https://www.theoryandpraxis.eu/campana-global-por-cuba-10-razones-yo-firmo-por-cuba",
+      "author": "admin",
+      "source": "theory and praxis",
+      "published_at": "2026-09-15T02:34:29+00:00",
+      "content_excerpt": "Firma ahora la Campaña Global: www.firmoporcuba.com O descarga el formulario para organizar una campaña nacional. The post Campaña Global por Cuba: 10 Razones yo firmo por Cuba appeared first on theory and praxis .",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/221d6d444e9a197ca9956f34.json"
+    },
+    {
+      "id": "137dd070a823f99913213611",
+      "title": "Global Solidarity Campaign: 10 Reasons to Sign for Cuba",
+      "url": "https://www.theoryandpraxis.eu/global-solidarity-campaign-10-reasons-to-sign-for-cuba",
+      "author": "admin",
+      "source": "theory and praxis",
+      "published_at": "2026-09-15T02:34:29+00:00",
+      "content_excerpt": "Sign now at www.firmoporcuba.com OR Download the form and organize a campaign in your country! The post Global Solidarity Campaign: 10 Reasons to Sign for Cuba appeared first on theory and praxis .",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/137dd070a823f99913213611.json"
+    },
+    {
+      "id": "182db23d9d4175787bc1be2d",
+      "title": "IWI: Lecture II Iran, Lebanon, Palestine, the reasons of war",
+      "url": "https://www.theoryandpraxis.eu/iwi-lecture-ii-iran-lebanon-palestine-the-reasons-of-war",
+      "author": "admin",
+      "source": "theory and praxis",
+      "published_at": "2026-09-15T02:34:29+00:00",
+      "content_excerpt": "International Workers’ Institute IWI is inviting you to a scheduled Zoom meeting. Topic: International Workers’ Institute IWI’s Personal Meeting Room Join Zoom Meeting https://us06web.zoom.us/j/3829786062?pwd=RXUwUEljN0JvT0plWFlZcFRqY0NxQT09&omn=89464178317 Meeting ID: 382 978 6062 Passcode: yg7QPD MONDAY 18 MAY 6PM GREEK TIME Keynote speakers: Mohammad Kabir, Iran Workers House Ali Yasin, Lebanon Al Wafaa Mohammad Yahya, Palestine Workers Coalition The post IWI: Lecture II Iran, Lebanon, Palestine, the reasons of war appeared first on theory and praxis .",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/182db23d9d4175787bc1be2d.json"
+    },
+    {
+      "id": "8eccf1057968159f6cfd35c6",
+      "title": "Firmo Por Cuba: Global Campaign of Signature Collection",
+      "url": "https://www.theoryandpraxis.eu/firmo-por-cuba-global-campaign-of-signature-collection",
+      "author": "admin",
+      "source": "theory and praxis",
+      "published_at": "2026-09-15T02:34:29+00:00",
+      "content_excerpt": "We invite every trade union and mass organization, every activist and friend of Cuba in every country of the world to take part and organize the Global Campaign for Signature collection: “Cuba is not alone! No to new war!” #firmoporcuba #cubanoestasola Steps for the Global Campaign “Firmo Por Cuba – Sign for Cuba”: 1. Download and print the form! 2. Collect signatures in your workplace, your community, your country! 3. Deliver them at the Embassy of Cuba! 4. Send an email with the number of the signatures you collected at: contact@firmoporcuba.com 5. Share the global online form: https://www.firmoporcuba.com/ The post Firmo Por Cuba: Global Campaign of Signature Collection appeared first on theory and praxis .",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/8eccf1057968159f6cfd35c6.json"
+    },
+    {
+      "id": "da5d973227d77a066e666158",
+      "title": "CTC-IWI Conference: Presentation by IWI President, G. Mavrikos",
+      "url": "https://www.theoryandpraxis.eu/ctc-iwi-conference-presentation-by-iwi-president-g-mavrikos",
+      "author": "admin",
+      "source": "theory and praxis",
+      "published_at": "2026-09-15T02:34:29+00:00",
+      "content_excerpt": "Trump called Cuba a dictatorship. What we saw here in Cuba yesterday is that almost 7 million Cubans put their signature to defend their homeland and filled the streets in a glorious May Day Demonstration. We saw millions of Dictators in Cuba who are determined to dictate their own future against the US intervention and blockade! Our enemies are strong and they have guns, but we have a nuclear weapon and this is our Internationalism! Now it is time we put our signature for Cuba. The post CTC-IWI Conference: Presentation by IWI President, G. Mavrikos appeared first on theory and praxis .",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/da5d973227d77a066e666158.json"
     }
   ]
 }
