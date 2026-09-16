@@ -1,12 +1,102 @@
 {
-  "generated_at": "2026-09-15T22:24:01.491393+00:00",
-  "generated_at_jst": "2026-09-16T07:24:01.491393+09:00",
-  "period_start": "2026-09-14T16:24:01.491393+00:00",
+  "generated_at": "2026-09-16T22:15:42.647647+00:00",
+  "generated_at_jst": "2026-09-17T07:15:42.647647+09:00",
+  "period_start": "2026-09-15T16:15:42.647647+00:00",
   "lookback_hours": 30,
   "folder": "00_毎日確認",
-  "article_count": 20,
+  "article_count": 12,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "1369aaba9ae53f1cf1bc3195",
+      "title": "Deregulation, Not Data Centers, Broke the Grid",
+      "url": "https://www.inoreader.com/article/3a9c6e767fbd318f",
+      "author": "Edgardo Sepulveda",
+      "source": "Jacobin",
+      "published_at": "2026-09-16T18:52:49+00:00",
+      "content_excerpt": "The public attribution of blame for rising electricity costs is half right. Data centers are indeed driving the first sustained surge in American electricity demand in more than a generation. But the historical record shows that electricity demand — what the industry calls “load” — has grown this quickly before without pushing prices up. What is different this time is not the load itself but the fact that it is landing on deregulated electricity markets that were never built to absorb growth. Today, about a third of US retail electricity sales are in deregulated markets; the rest are served by traditional regulated utilities. That institutional variation — the same load growth running through two different market structures at the same time — is why economists can compare the bills. A Cent",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/1369aaba9ae53f1cf1bc3195.json"
+    },
+    {
+      "id": "53fe23c92d956fc5db3ce0dd",
+      "title": "Ansar Allah’s Red Sea Advance Has Exposed Saudi Weakness",
+      "url": "https://www.inoreader.com/article/3a9c6e767faf4329",
+      "author": "Arron Reza Merat",
+      "source": "Jacobin",
+      "published_at": "2026-09-16T16:48:56+00:00",
+      "content_excerpt": "On September 9, Yemen’s Ansar Allah, or “Houthis” as they are also known, descended from the highlands down roads and riverbeds to the Tihamah coastal plain and captured the port of Mokha from the Saudi-based government the following day. By September 11, they had taken Perim Island in the Bab al-Mandeb Strait. Since then, they have used that position to blockade Israel and exercise leverage over the Saudi kingdom.Ansar Allah went on to shut down the 745-mile-long East–West pipeline that transports four to five million barrels per day from Saudi Arabia’s eastern oil fields to its Red Sea export terminals, possibly with the assistance of Iraqi militias. In response, the price of global Brent crude rose to $108 a barrel; it is now hovering at $102. For comparison, the figure in January, befo",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/53fe23c92d956fc5db3ce0dd.json"
+    },
+    {
+      "id": "92909565962b445f7ae87b40",
+      "title": "A Portrait of How Workers Build a Strike",
+      "url": "https://www.inoreader.com/article/3a9c6e767f9f4c3b",
+      "author": "Luis Feliz Leon",
+      "source": "Jacobin",
+      "published_at": "2026-09-16T15:14:20+00:00",
+      "content_excerpt": "I was at a Crotona Park barbecue in the South Bronx to celebrate my wife’s nephew, who was going off to a trade school after graduating high school. The family barbecue included a cross section of union members, among them electricians, hotel workers, Teamsters — not a strange amalgam, thanks to New York’s high union density . It’s often only in TV shows that you see a tight-knit group of friends from vastly different class backgrounds hanging out together. In real life, we can’t curate a social circle of people from disparate backgrounds with the same ease you assemble an eclectic wardrobe from a thrift store. But social segregation can be overcome through political and civic institutions that turn strangers into comrades, offering an antidote to loneliness and atomization . In 1947, Life",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/92909565962b445f7ae87b40.json"
+    },
+    {
+      "id": "89a18f31fa2349c6e2dc787a",
+      "title": "AI Doomsaying Is an Aggressive Sales Pitch",
+      "url": "https://www.inoreader.com/article/3a9c6e767f8172a8",
+      "author": "Richard Seymour",
+      "source": "Jacobin",
+      "published_at": "2026-09-16T14:10:50+00:00",
+      "content_excerpt": "It seems a strange publicity gambit for an industry to assert that its own product could wipe out humanity. In the lingo of our evolving tech empire, though, this is exactly what is meant by “criti-hype.” The term was coined by Lee Vinsel at Virginia Tech, who defined it as “criticism that both feeds and feeds on hype.” When Jacob Coxon resigned from Anthropic recently, he claimed that there is a high chance that AI could develop into a superintelligence that escapes human control, triggering a sequence that causes human extinction. Evan Hubinger, who remains with the company, backed him up , saying that Anthropic is trying to prevent this but hasn’t dealt with the problem yet. Hubinger put the likelihood of AI-driven human extinction at greater than 10 percent in the next decade. Why woul",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/89a18f31fa2349c6e2dc787a.json"
+    },
+    {
+      "id": "4fabd24254a801c502dc4e92",
+      "title": "Does Dollar Supremacy Help Americans?",
+      "url": "https://www.inoreader.com/article/3a9c6e767f8b3bff",
+      "author": "Dominik A. Leusder",
+      "source": "Jacobin",
+      "published_at": "2026-09-16T13:08:44+00:00",
+      "content_excerpt": "It is scarcely possible to explain the convulsions of the twenty-first century without accounting for the pivotal role of the global dollar system. The financial crisis, the emergence of a new global monied elite, and the rise of China are inseparable from the dollar’s status as the world’s preeminent currency and the benefits and burdens it confers on different actors. The Trump administration has made maintaining the dollar’s primacy a central plank of its policy ambitions. “If we lost the world standard dollar,” said the president last year, “that would be like losing a war, a major world war.” Donald Trump’s fears about the dollar have proven unfounded. The United States is experiencing undeniable geopolitical decline. Its ability to economically and militarily coerce both its allies a",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/4fabd24254a801c502dc4e92.json"
+    },
+    {
+      "id": "22af69ba05f87b0a6f01f95b",
+      "title": "Out of the Bunker",
+      "url": "https://democraticleft.dsausa.org/2026/09/15/out-of-the-bunker",
+      "author": "Democratic Left",
+      "source": "Democratic Left",
+      "published_at": "2026-09-16T03:03:05+00:00",
+      "content_excerpt": "Naomi Klein and Astra Taylor launched their book tour for “End Time Fascism: and the Fight for the Living World” on a DSA mass call on Thursday. The post Out of the Bunker appeared first on Democratic Left .",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/22af69ba05f87b0a6f01f95b.json"
+    },
     {
       "id": "f330d672af0a91adf24e3f5a",
       "title": "Elected Officials Are Facing a Reckoning Over Their Collusion with Big AI",
@@ -96,216 +186,6 @@
       "priority": 1,
       "date_missing": false,
       "article_path": "articles/2ad897abfe5630ec03cb8580.json"
-    },
-    {
-      "id": "bfb13b4fd1a333ceefb1924b",
-      "title": "Donald Trump’s Imperialism of Decline Is a Global Menace",
-      "url": "https://www.inoreader.com/article/3a9c6e7678d533ce",
-      "author": "Atul Kohli",
-      "source": "Jacobin",
-      "published_at": "2026-09-15T15:31:26+00:00",
-      "content_excerpt": "To make sense of US foreign policy under Donald Trump, we need to see it against the long-term historical background. Trump’s approach to world affairs may be erratic, but that does not mean it is completely without precedent. The United States has long been an imperial power. While not establishing formal colonies, the US has instead created an informal empire in which obsequious governments in the Global South enable the pursuit of American political and economic interests. Throughout its history, American imperialism has come in three varieties: hard militarism, covert regime change, and multilateral coercion. Trump’s brand of imperialism continues along these pathways, albeit with some significant changes, especially its brazenness. America’s Militarist Tradition Recent US intervention",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/bfb13b4fd1a333ceefb1924b.json"
-    },
-    {
-      "id": "e1c335a170c94e41bccbe7e8",
-      "title": "The Fate of the Rohingyas Is Crucial for Myanmar’s Future",
-      "url": "https://www.inoreader.com/article/3a9c6e7678df59f1",
-      "author": "Sushovan Dhar",
-      "source": "Jacobin",
-      "published_at": "2026-09-15T14:29:13+00:00",
-      "content_excerpt": "In August 2024, Rohingya families gathered on the banks of the Naf River in Maungdaw, waiting to cross into Bangladesh as the fighting closed in. Drones and mortars found them there. Roughly two hundred people were killed , another entry in a catalogue of atrocity the Rohingya have been forced to keep for decades. What made this massacre different was who stood accused of it. The killing was attributed not to the Myanmar military, the army that drove three-quarters of a million Rohingya into exile in 2017, but to the Arakan Army , the ethnic Rakhine force that has spent the past two years dismantling that same military’s grip on the state. The genocidaire was in retreat but the Rohingya were dying anyway. That is the contradiction at the heart of Myanmar today, and it is why we should mark",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/e1c335a170c94e41bccbe7e8.json"
-    },
-    {
-      "id": "12e8229734e80474dcea12ff",
-      "title": "The Rise of Germany’s Far Right Reflects a Systemic Crisis",
-      "url": "https://www.inoreader.com/article/3a9c6e7678c13e7b",
-      "author": "Gábor Scheiring",
-      "source": "Jacobin",
-      "published_at": "2026-09-15T13:28:43+00:00",
-      "content_excerpt": "After the Alternative für Deutschland (AfD) scored 44 percent of the vote in the September 6 state election in Saxony-Anhalt, many analysts sought some single, clearly identifiable reason. The interest in the AfD’s success is well justified: what happens in Germany shapes Europe and even world politics, and most mainstream accounts seek tools with which the center can disarm the far right. In this vein, the AfD’s success is said to owe to a sluggish bureaucracy, the peculiar political culture of the former East Germany, or more simply to immigration. Yet the reliance on a single explanatory factor yields single-variable strategies in response, and such strategies are bound to fail. The rise of the far right is a symptom of a systemic crisis that has merely become more visible in eastern Ge",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/12e8229734e80474dcea12ff.json"
-    },
-    {
-      "id": "de8c0b43e1ef45a577af5978",
-      "title": "A Right to Bargain",
-      "url": "https://democraticleft.dsausa.org/2026/09/15/a-right-to-bargain",
-      "author": "cbottego",
-      "source": "Democratic Left",
-      "published_at": "2026-09-15T13:06:49+00:00",
-      "content_excerpt": "A universal right to bargain would turn Simone Weil's philosophy into a concrete tool for building economic democracy in the American workplace. The post A Right to Bargain appeared first on Democratic Left .",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/de8c0b43e1ef45a577af5978.json"
-    },
-    {
-      "id": "ab196c300441a71a5c2187d3",
-      "title": "Securing Public Education’s Future w/ Cecily Myart-Cruz",
-      "url": "https://convergencemag.com/podcast/securing-public-educations-future-w-cecily-myart-cruz",
-      "author": "",
-      "source": "Tag: Labor",
-      "published_at": "2026-09-15T09:28:57+00:00",
-      "content_excerpt": "Block & Build is a weekly newsmagazine podcast from Convergence Magazine that examines the balance of political forces in the US from a movement perspective. Every week, host Cayden Mak explores what's… Leading a union can be difficult. Even more difficult? Leading the educators union in the second-largest school district in the country, United Teachers Los Angeles , through the early months of the COVID-19 pandemic. Today, we talk to the woman who did just that: immediate Past President of UTLA, Cecily Myart-Cruz. She was also the first woman of color to be elected to the position. During her tenure, she made strides in racial justice and protections for immigrants. She helped secure more financial protections for the district, its workers, and more. Under her leadership, UTLA was able to",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/ab196c300441a71a5c2187d3.json"
-    },
-    {
-      "id": "bbe3ae79bbb11c70e5f045b0",
-      "title": "WFTU Statement on the 26th of July 2026 On the 73rd Anniversary of the Attack on the Moncada Barracks",
-      "url": "https://www.theoryandpraxis.eu/wftu-statement-on-the-26th-of-july-2026-on-the-73rd-anniversary-of-the-attack-on-the-moncada-barracks",
-      "author": "admin",
-      "source": "theory and praxis",
-      "published_at": "2026-09-15T02:34:29+00:00",
-      "content_excerpt": "The World Federation of Trade Unions (WFTU) salutes the heroic Cuban people on the occasion of the 73rd anniversary of the attack on the Moncada Barracks. The 26th of July remains a historic milestone in the struggle of the peoples against exploitation and imperialist domination. The heroic action led by Fidel Castro and his comrades in Santiago de Cuba marked the beginning of the revolutionary process that culminated in the triumph of the Cuban Revolution and inspired generations of workers and peoples throughout the world. The ideals of sovereignty, social justice, internationalism and workers’ dignity that emerged from Moncada continue to illuminate the struggles of the international working class today. This year’s anniversary takes place under conditions of intensified imperialist agg",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/bbe3ae79bbb11c70e5f045b0.json"
-    },
-    {
-      "id": "f6173fe96d0878f44463117a",
-      "title": "The Mummification of the AFL-CIO",
-      "url": "https://www.theoryandpraxis.eu/the-mummification-of-the-afl-cio",
-      "author": "admin",
-      "source": "theory and praxis",
-      "published_at": "2026-09-15T02:34:29+00:00",
-      "content_excerpt": "We republish below an article by EC member of the International Workers’ Institute (IWI), Chris Townsend. The American Federation of Labor – Congress of Industrial Organizations, (AFL-CIO) 30 th Convention met in Minneapolis, Minnesota, from June 6 th to 10 th . The proceedings were predictable, scripted, uneventful, and barely noticed by most union members. The working class more broadly were oblivious to this meeting of the top leaders of the nation’s only labor center – representing nearly 70% of the organized workforce here in the United Sates. All preparations for the shortened Convention had been geared towards maintaining a low profile, and it succeeded in that goal. The very well-paid union officialdom came and went, with no controversy or drama in evidence. Total attendance contin",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/f6173fe96d0878f44463117a.json"
-    },
-    {
-      "id": "5572ba3ba646751d30fe70bd",
-      "title": "Esteban Muñoz’s Address at the WFTU Event “35 Hour Workweek: A Necessary, Mature, and Feasible Demand”",
-      "url": "https://www.theoryandpraxis.eu/intervention-desteban-munoz-a-levenement-de-la-fsm-sur-la-semaine-de-35-heures",
-      "author": "admin",
-      "source": "theory and praxis",
-      "published_at": "2026-09-15T02:34:29+00:00",
-      "content_excerpt": "Below we share the address of c. Esteban Muñoz, representative of the International Workers’ Institute (IWI), at the joint IWI-WFTU event held within the framework of the 114th International Labour Conference on June 9 in Geneva, Switzerland. Dear colleagues of the WFTU and its affiliated organisations, dear friends of the WFTU, We are pleased to present this contribution, made as a member of the International Workers’ Institute, on the demand for a 35-hour working week – a necessary, mature and feasible measure. We shall begin with some introductory remarks on the history of struggles over working hours, before addressing the issue of the 35-hour week and the contemporary strategic framework. Within the worker-popular movement, the demand for a set daily and weekly working time is a histo",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/5572ba3ba646751d30fe70bd.json"
-    },
-    {
-      "id": "ae202f841b36bed4db03e7cd",
-      "title": "West Asia: 2nd IWI Webinar on the reasons of War in Iran, Lebanon, Palestine",
-      "url": "https://www.theoryandpraxis.eu/west-asia-2nd-iwi-webinar-on-the-reasons-of-war-in-iran-lebanon-palestine",
-      "author": "admin",
-      "source": "theory and praxis",
-      "published_at": "2026-09-15T02:34:29+00:00",
-      "content_excerpt": "The virtual seminar was held on May 18th, 2026, focusing on the consequences of the imperialist war on the workers lives. At the beginning of the session, Mohseni Kabir, referring to the experience of Iranian workers during the recent imposed war, said: “We are happy that you, our friends in prominent global organizations like the WFTU and IWI, support Iranian workers. Today we are discussing the military attack of the US and Israel on Iran.” He added: “The US, as a superpower, wants to tell countries what to do and what not to do, and otherwise punishes them. This is our view of recent history. Look at Iran’s case. Iran is located in a sensitive geographical position, bordering the Persian Gulf, the Strait of Hormuz, Turkey, Pakistan, Russia, Iraq, and other important countries. We are on",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/ae202f841b36bed4db03e7cd.json"
-    },
-    {
-      "id": "221d6d444e9a197ca9956f34",
-      "title": "Campaña Global por Cuba: 10 Razones yo firmo por Cuba",
-      "url": "https://www.theoryandpraxis.eu/campana-global-por-cuba-10-razones-yo-firmo-por-cuba",
-      "author": "admin",
-      "source": "theory and praxis",
-      "published_at": "2026-09-15T02:34:29+00:00",
-      "content_excerpt": "Firma ahora la Campaña Global: www.firmoporcuba.com O descarga el formulario para organizar una campaña nacional. The post Campaña Global por Cuba: 10 Razones yo firmo por Cuba appeared first on theory and praxis .",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/221d6d444e9a197ca9956f34.json"
-    },
-    {
-      "id": "137dd070a823f99913213611",
-      "title": "Global Solidarity Campaign: 10 Reasons to Sign for Cuba",
-      "url": "https://www.theoryandpraxis.eu/global-solidarity-campaign-10-reasons-to-sign-for-cuba",
-      "author": "admin",
-      "source": "theory and praxis",
-      "published_at": "2026-09-15T02:34:29+00:00",
-      "content_excerpt": "Sign now at www.firmoporcuba.com OR Download the form and organize a campaign in your country! The post Global Solidarity Campaign: 10 Reasons to Sign for Cuba appeared first on theory and praxis .",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/137dd070a823f99913213611.json"
-    },
-    {
-      "id": "182db23d9d4175787bc1be2d",
-      "title": "IWI: Lecture II Iran, Lebanon, Palestine, the reasons of war",
-      "url": "https://www.theoryandpraxis.eu/iwi-lecture-ii-iran-lebanon-palestine-the-reasons-of-war",
-      "author": "admin",
-      "source": "theory and praxis",
-      "published_at": "2026-09-15T02:34:29+00:00",
-      "content_excerpt": "International Workers’ Institute IWI is inviting you to a scheduled Zoom meeting. Topic: International Workers’ Institute IWI’s Personal Meeting Room Join Zoom Meeting https://us06web.zoom.us/j/3829786062?pwd=RXUwUEljN0JvT0plWFlZcFRqY0NxQT09&omn=89464178317 Meeting ID: 382 978 6062 Passcode: yg7QPD MONDAY 18 MAY 6PM GREEK TIME Keynote speakers: Mohammad Kabir, Iran Workers House Ali Yasin, Lebanon Al Wafaa Mohammad Yahya, Palestine Workers Coalition The post IWI: Lecture II Iran, Lebanon, Palestine, the reasons of war appeared first on theory and praxis .",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/182db23d9d4175787bc1be2d.json"
-    },
-    {
-      "id": "8eccf1057968159f6cfd35c6",
-      "title": "Firmo Por Cuba: Global Campaign of Signature Collection",
-      "url": "https://www.theoryandpraxis.eu/firmo-por-cuba-global-campaign-of-signature-collection",
-      "author": "admin",
-      "source": "theory and praxis",
-      "published_at": "2026-09-15T02:34:29+00:00",
-      "content_excerpt": "We invite every trade union and mass organization, every activist and friend of Cuba in every country of the world to take part and organize the Global Campaign for Signature collection: “Cuba is not alone! No to new war!” #firmoporcuba #cubanoestasola Steps for the Global Campaign “Firmo Por Cuba – Sign for Cuba”: 1. Download and print the form! 2. Collect signatures in your workplace, your community, your country! 3. Deliver them at the Embassy of Cuba! 4. Send an email with the number of the signatures you collected at: contact@firmoporcuba.com 5. Share the global online form: https://www.firmoporcuba.com/ The post Firmo Por Cuba: Global Campaign of Signature Collection appeared first on theory and praxis .",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/8eccf1057968159f6cfd35c6.json"
-    },
-    {
-      "id": "da5d973227d77a066e666158",
-      "title": "CTC-IWI Conference: Presentation by IWI President, G. Mavrikos",
-      "url": "https://www.theoryandpraxis.eu/ctc-iwi-conference-presentation-by-iwi-president-g-mavrikos",
-      "author": "admin",
-      "source": "theory and praxis",
-      "published_at": "2026-09-15T02:34:29+00:00",
-      "content_excerpt": "Trump called Cuba a dictatorship. What we saw here in Cuba yesterday is that almost 7 million Cubans put their signature to defend their homeland and filled the streets in a glorious May Day Demonstration. We saw millions of Dictators in Cuba who are determined to dictate their own future against the US intervention and blockade! Our enemies are strong and they have guns, but we have a nuclear weapon and this is our Internationalism! Now it is time we put our signature for Cuba. The post CTC-IWI Conference: Presentation by IWI President, G. Mavrikos appeared first on theory and praxis .",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/da5d973227d77a066e666158.json"
     }
   ]
 }
