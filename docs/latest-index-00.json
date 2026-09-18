@@ -1,191 +1,221 @@
 {
-  "generated_at": "2026-09-16T22:15:42.647647+00:00",
-  "generated_at_jst": "2026-09-17T07:15:42.647647+09:00",
-  "period_start": "2026-09-15T16:15:42.647647+00:00",
+  "generated_at": "2026-09-18T21:46:36.430509+00:00",
+  "generated_at_jst": "2026-09-19T06:46:36.430509+09:00",
+  "period_start": "2026-09-17T15:46:36.430509+00:00",
   "lookback_hours": 30,
   "folder": "00_毎日確認",
-  "article_count": 12,
+  "article_count": 14,
   "excerpt_chars": 800,
   "articles": [
     {
-      "id": "1369aaba9ae53f1cf1bc3195",
-      "title": "Deregulation, Not Data Centers, Broke the Grid",
-      "url": "https://www.inoreader.com/article/3a9c6e767fbd318f",
-      "author": "Edgardo Sepulveda",
+      "id": "ba58a899635197870ea20b30",
+      "title": "Debating Victor Serge",
+      "url": "https://www.inoreader.com/article/3a9c6e767d2d59eb",
+      "author": "Mitchell Abidor",
       "source": "Jacobin",
-      "published_at": "2026-09-16T18:52:49+00:00",
-      "content_excerpt": "The public attribution of blame for rising electricity costs is half right. Data centers are indeed driving the first sustained surge in American electricity demand in more than a generation. But the historical record shows that electricity demand — what the industry calls “load” — has grown this quickly before without pushing prices up. What is different this time is not the load itself but the fact that it is landing on deregulated electricity markets that were never built to absorb growth. Today, about a third of US retail electricity sales are in deregulated markets; the rest are served by traditional regulated utilities. That institutional variation — the same load growth running through two different market structures at the same time — is why economists can compare the bills. A Cent",
+      "published_at": "2026-09-18T20:14:25+00:00",
+      "content_excerpt": "When I began writing Victor Serge: Unruly Revolutionary , I expected to write a biography in keeping with the image common on the left of Serge as an uncompromising enemy of Stalinism who never fell into anti-communism and fought all his life for revolutionary socialism. This is what we find in the many writings of Richard Greeman, who single-handedly rescued Serge from oblivion by translating his novels and tirelessly writing about him. In fact, my biography began as a collaboration between me and Richard, one we abandoned due to differences in interpretation. Suzi Weissman presents that image as well in her biography of Serge, The Course Is Set on Hope . A fuller account of this Serge was what I thought I was going to write. Things did not turn out that way. I worked mainly from primary ",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/1369aaba9ae53f1cf1bc3195.json"
+      "article_path": "articles/ba58a899635197870ea20b30.json"
     },
     {
-      "id": "53fe23c92d956fc5db3ce0dd",
-      "title": "Ansar Allah’s Red Sea Advance Has Exposed Saudi Weakness",
-      "url": "https://www.inoreader.com/article/3a9c6e767faf4329",
-      "author": "Arron Reza Merat",
-      "source": "Jacobin",
-      "published_at": "2026-09-16T16:48:56+00:00",
-      "content_excerpt": "On September 9, Yemen’s Ansar Allah, or “Houthis” as they are also known, descended from the highlands down roads and riverbeds to the Tihamah coastal plain and captured the port of Mokha from the Saudi-based government the following day. By September 11, they had taken Perim Island in the Bab al-Mandeb Strait. Since then, they have used that position to blockade Israel and exercise leverage over the Saudi kingdom.Ansar Allah went on to shut down the 745-mile-long East–West pipeline that transports four to five million barrels per day from Saudi Arabia’s eastern oil fields to its Red Sea export terminals, possibly with the assistance of Iraqi militias. In response, the price of global Brent crude rose to $108 a barrel; it is now hovering at $102. For comparison, the figure in January, befo",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/53fe23c92d956fc5db3ce0dd.json"
-    },
-    {
-      "id": "92909565962b445f7ae87b40",
-      "title": "A Portrait of How Workers Build a Strike",
-      "url": "https://www.inoreader.com/article/3a9c6e767f9f4c3b",
-      "author": "Luis Feliz Leon",
-      "source": "Jacobin",
-      "published_at": "2026-09-16T15:14:20+00:00",
-      "content_excerpt": "I was at a Crotona Park barbecue in the South Bronx to celebrate my wife’s nephew, who was going off to a trade school after graduating high school. The family barbecue included a cross section of union members, among them electricians, hotel workers, Teamsters — not a strange amalgam, thanks to New York’s high union density . It’s often only in TV shows that you see a tight-knit group of friends from vastly different class backgrounds hanging out together. In real life, we can’t curate a social circle of people from disparate backgrounds with the same ease you assemble an eclectic wardrobe from a thrift store. But social segregation can be overcome through political and civic institutions that turn strangers into comrades, offering an antidote to loneliness and atomization . In 1947, Life",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/92909565962b445f7ae87b40.json"
-    },
-    {
-      "id": "89a18f31fa2349c6e2dc787a",
-      "title": "AI Doomsaying Is an Aggressive Sales Pitch",
-      "url": "https://www.inoreader.com/article/3a9c6e767f8172a8",
-      "author": "Richard Seymour",
-      "source": "Jacobin",
-      "published_at": "2026-09-16T14:10:50+00:00",
-      "content_excerpt": "It seems a strange publicity gambit for an industry to assert that its own product could wipe out humanity. In the lingo of our evolving tech empire, though, this is exactly what is meant by “criti-hype.” The term was coined by Lee Vinsel at Virginia Tech, who defined it as “criticism that both feeds and feeds on hype.” When Jacob Coxon resigned from Anthropic recently, he claimed that there is a high chance that AI could develop into a superintelligence that escapes human control, triggering a sequence that causes human extinction. Evan Hubinger, who remains with the company, backed him up , saying that Anthropic is trying to prevent this but hasn’t dealt with the problem yet. Hubinger put the likelihood of AI-driven human extinction at greater than 10 percent in the next decade. Why woul",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/89a18f31fa2349c6e2dc787a.json"
-    },
-    {
-      "id": "4fabd24254a801c502dc4e92",
-      "title": "Does Dollar Supremacy Help Americans?",
-      "url": "https://www.inoreader.com/article/3a9c6e767f8b3bff",
-      "author": "Dominik A. Leusder",
-      "source": "Jacobin",
-      "published_at": "2026-09-16T13:08:44+00:00",
-      "content_excerpt": "It is scarcely possible to explain the convulsions of the twenty-first century without accounting for the pivotal role of the global dollar system. The financial crisis, the emergence of a new global monied elite, and the rise of China are inseparable from the dollar’s status as the world’s preeminent currency and the benefits and burdens it confers on different actors. The Trump administration has made maintaining the dollar’s primacy a central plank of its policy ambitions. “If we lost the world standard dollar,” said the president last year, “that would be like losing a war, a major world war.” Donald Trump’s fears about the dollar have proven unfounded. The United States is experiencing undeniable geopolitical decline. Its ability to economically and militarily coerce both its allies a",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/4fabd24254a801c502dc4e92.json"
-    },
-    {
-      "id": "22af69ba05f87b0a6f01f95b",
-      "title": "Out of the Bunker",
-      "url": "https://democraticleft.dsausa.org/2026/09/15/out-of-the-bunker",
-      "author": "Democratic Left",
-      "source": "Democratic Left",
-      "published_at": "2026-09-16T03:03:05+00:00",
-      "content_excerpt": "Naomi Klein and Astra Taylor launched their book tour for “End Time Fascism: and the Fight for the Living World” on a DSA mass call on Thursday. The post Out of the Bunker appeared first on Democratic Left .",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/22af69ba05f87b0a6f01f95b.json"
-    },
-    {
-      "id": "f330d672af0a91adf24e3f5a",
-      "title": "Elected Officials Are Facing a Reckoning Over Their Collusion with Big AI",
-      "url": "https://inthesetimes.com/article/big-tech-artificial-intelligence-ai-data-center-protests",
-      "author": "",
-      "source": "In These Times",
-      "published_at": "2026-09-15T22:08:33+00:00",
-      "content_excerpt": "A majority of Americans want to put a stop to the profit-driven artificial intelligence (AI) agenda being pushed onto all of us by a handful of powerful tech corporations. Across the country, people are building a movement to protect our water, our air, our children, our schools and our jobs from Big Tech. We are not afraid of AI or technology, we’re just not buying the version of AI these corporations are peddling. We come to this fight from different places and perspectives. Stephanie is fighting against the construction of a nuclear weapons data center in Michigan that will reshape her community. Mary is a high school student watching AI hijack her classroom and her peers’ mental health. Our experiences are different, but we share a common conviction: we must stop Big Tech. In order to ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/f330d672af0a91adf24e3f5a.json"
-    },
-    {
-      "id": "a375051c80a5645c21d4e949",
-      "title": "What Teamsters Class Solidarity Looks Like",
-      "url": "https://inthesetimes.com/article/teamsters-class-solidarity-ups-who-moves-america",
-      "author": "",
-      "source": "In These Times",
-      "published_at": "2026-09-15T22:08:33+00:00",
-      "content_excerpt": "(Who Moves America) I was at a Crotona Park barbecue in the South Bronx to celebrate my wife’s nephew, who was going off to a trade school after graduating high school. The family barbecue included a cross section of union members, among them electricians, hotel workers, Teamsters — not a strange amalgam, thanks to New York’s high union density . It’s often only in TV shows that you see a tight-knit group of friends from vastly different class backgrounds hanging out together. In real life, we can’t curate a social circle of people from disparate backgrounds with the same ease you assemble an eclectic wardrobe from a thrift store. Social life determines more than consciousness; it also structures our deepest relationships. Class is a socially embodied relationship, rooted in the divisions ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/a375051c80a5645c21d4e949.json"
-    },
-    {
-      "id": "8900095a984d3c7e413aa77e",
-      "title": "The Jewish Socialists Who Fought the Tsar and Zionism",
-      "url": "https://www.inoreader.com/article/3a9c6e767f01b394",
-      "author": "Molly Crabapple",
-      "source": "Jacobin",
-      "published_at": "2026-09-15T20:39:34+00:00",
-      "content_excerpt": "Jewish socialist intellectuals founded the Bund in the Russian Empire in 1897, and it soon became a mass organization of the Jewish working class — a working class confined by law to the Pale of Settlement. From its inception, the Bund and the socialist politics it represented struggled against capitalists and autocrats alongside non-Jewish socialist comrades. It also competed bitterly with its Jewish rivals: Orthodox traditionalists, Zionists, and Bolsheviks. Amid repression and revolution, the story of the Jews of the western Russian Empire diverges. Huge numbers emigrated to the Americas, and more than anywhere to New York City, where they built a Yiddish-speaking socialist world whose inheritors are in many ways today’s anti-Zionist socialist Jews. Most of the many Bundists who remaine",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/8900095a984d3c7e413aa77e.json"
-    },
-    {
-      "id": "0600731e477ba4ae1f077bf0",
-      "title": "M*A*S*H is an Antiwar Masterpiece",
-      "url": "https://midwestsocialist.com/2026/09/15/mash-is-an-antiwar-masterpiece",
-      "author": "Midwestern Socialist -- Chicago DSA",
+      "id": "e26c1487d167e3ae9a75267c",
+      "title": "Flock Off: How Westland DSA Members Pushed Flock Cameras Out of Their City",
+      "url": "https://medium.com/dsa-detroit-newspaper/flock-off-how-westland-dsa-members-pushed-flock-cameras-out-of-their-city-87d4f2f4793e?source=rss-160b7baee925------2",
+      "author": "Detroit DSA",
       "source": "DSA Feed - Global",
-      "published_at": "2026-09-15T20:13:21+00:00",
-      "content_excerpt": "In December of last year, I started watching the television show M*A*S*H , which ran on CBS from 1972 to 1983. As a history nerd with a penchant for old TV shows I quickly became obsessed, watching every single episode in under six months. For those unfamiliar, the show is a comedy-drama following the exploits of the personnel serving at the 4077th Mobile Army Surgical Hospital (M*A*S*H) during the Korean War (1950-1953). Intended as an allegory for the Vietnam War, the show tapped into the intense anti-war and anti-institutional sentiment of broad swaths of the American public of the time. The show is unapologetically anti-war and progressive, unrelenting in its insistence that basic human dignity be upheld in the most horrific circumstances. It is extremely well-written and enjoyable to ",
+      "published_at": "2026-09-18T19:21:10+00:00",
+      "content_excerpt": "By filling city council meetings, educating the public on mass surveillance, and cooperating with like-minded allies, DSA members in Westland shot down a Flock contract renewal. By Dave N. and Kathy E. In July 2024 the city of Westland signed up for a trial run with Flock Safety that would last until August 2026. Flock’s cameras are Automated License Plate Readers (ALPR) that mark the date, time, and location where a vehicle passes. Flock claims that its technology does not scan human faces, but its cameras are able to fingerprint cars based on minute details like rust or bumper stickers. The technology is similar to that used in facial recognition software. These services are sold to law enforcement and advertised to cities as a tool for safety (e.g. tracking stolen vehicles or resolving ",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/0600731e477ba4ae1f077bf0.json"
+      "article_path": "articles/e26c1487d167e3ae9a75267c.json"
     },
     {
-      "id": "12f0ec2b998cee7b373761c9",
-      "title": "The Call for Working-Class Liberalism Is Coming From Inside the House",
-      "url": "https://www.inoreader.com/article/3a9c6e767f0d64a1",
-      "author": "Gerard Di Trolio",
+      "id": "f06e5e9ca56f871b53efb331",
+      "title": "Stiffing Workers, Rationing Toilet Paper: Who Really Makes WPI Run?",
+      "url": "https://working-mass.com/2026/09/18/stiffing-workers-rationing-toilet-paper-who-really-makes-wpi-run",
+      "author": "Working Mass: The Massachusetts DSA Labor Outlet",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-09-18T19:21:10+00:00",
+      "content_excerpt": "Resident Advisors on strike in 2024 take their picket line to Earle Bridge. Worcester DSA members join with a banner that reads: “Workers on strike, unite and fight!” By: Julia Z & Jake S WORCESTER – Students have returned to Worcester Polytechnic Institute (WPI). Freshmen are being shuttled through new student orientation, professors are dusting off their syllabi, and returning students have long soaked in their remaining days of freedom. Many new students were no doubt won over by WPI’s aggressive promotion of its cutting-edge Robotics Engineering, Computer Science, and AI undergraduate programs along with its highly-celebrated R1 Research University status. Many are surely excited for the “project-based learning” described by eager campus tour guides, ready to sell them a vision of high",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/f06e5e9ca56f871b53efb331.json"
+    },
+    {
+      "id": "06aedab3fa4a79e65c02229e",
+      "title": "Six Hail Marys: Thoughts of an ICU RN",
+      "url": "https://redfault.com/six-hail-marys",
+      "author": "Red Fault -- Austin DSA",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-09-18T19:21:10+00:00",
+      "content_excerpt": "By Asanti M. The conversation surrounding healthcare access is more than an abstraction of cost and risk, it’s life and death, and people are dying. I know because I’ve pronounced them. I know because I’ve cleaned their lifeless bodies. The burdens of the ailing are only compounded by the general disservice of our institutional frameworks. The nebulous jargon tossed around boardrooms and between pundits materializes in the financial reality that confronts the humanity of the unfortunate and the ailing. I’ve seen eyes full of pain, the walls of life crumbling around them, forced to discuss the finances of death, because let me be clear, dying is a very expensive endeavor hear in the States, and God forbid you attempt to hold on to life! The junction of societal divides is never so transpare",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/06aedab3fa4a79e65c02229e.json"
+    },
+    {
+      "id": "4f15159dc9a679a726be040e",
+      "title": "Socialists Can Never Win — Until We Do",
+      "url": "https://redfault.com/socialists-can-never-win-until-we-do",
+      "author": "Red Fault -- Austin DSA",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-09-18T19:21:10+00:00",
+      "content_excerpt": "By Nolan R. This article was originally published in Democratic Left: Find it here We all know the narrative by now: socialists are too radical, fringe, and unpopular to win any kind of lasting power. “Enjoy your time in the sun, lefties, because any moment now the hammer of reasonable, moderate thought will come crashing down and send you back to the depths of political obscurity with your collective tail tucked between your legs.” Variations of this line are repeated constantly across the country by national media and prominent members of both parties. They repeat it like a mantra, both because they need it to be true and because they would rather eat glass than honestly engage with our ideas. Unfortunately for them, the recent streak of socialist victories has proven there is immense hu",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/4f15159dc9a679a726be040e.json"
+    },
+    {
+      "id": "a43e83c0d923b530c8f9ada7",
+      "title": "Texas Wasn’t Always a Right-Wing Evangelical Powerhouse",
+      "url": "https://www.inoreader.com/article/3a9c6e767d00a9f8",
+      "author": "David Griscom",
       "source": "Jacobin",
-      "published_at": "2026-09-15T20:08:42+00:00",
-      "content_excerpt": "The socialist left has a vexed relationship with major economists. This is a problem, because it sometimes leaves the Left on the outside of contemporary economic debates. Daron Acemoglu is precisely the sort of economist that the Left should not ignore. Alongside his frequent collaborators Simon Johnson and James A. Robinson, he is a 2024 Nobel laureate in economics. He is also among the world’s most cited economists. His new book, What Happened to Liberal Democracy? , has already received lot of attention, as his recent spat with The Economist shows. Acemoglu’s work can be summed up in the proposition that institutions matter for economic growth. He identifies two types of institutions. Inclusive political and economic institutions constrain power, protect rights, and broaden access to o",
+      "published_at": "2026-09-18T16:44:06+00:00",
+      "content_excerpt": "There’s a common view of religious history that holds that the further back you go, the stronger the smell of brimstone and the more conservative the beliefs. It isn’t true, and it obscures how much the human hand makes the world, including our ideas of the sacred. Joseph L. Locke’s new book One State Under God: A History of Religion in Texas is an important reminder that the conservative evangelical Christianity that dominates Texas, and through it has consolidated its influence over the country, was not a natural outgrowth of Christianity itself, but a product of historical developments. Texas today is at the forefront of the campaign to tear down the wall between church and state. The Bible has been reintroduced in Texas classrooms, along with a new law requiring classrooms to display t",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/12f0ec2b998cee7b373761c9.json"
+      "article_path": "articles/a43e83c0d923b530c8f9ada7.json"
     },
     {
-      "id": "2ad897abfe5630ec03cb8580",
-      "title": "Tech Authoritarian Doomsayers",
-      "url": "https://inthesetimes.com/article/tech-trump-vance-crypto-artificial-intelligence-silicon-valley",
-      "author": "",
-      "source": "In These Times",
-      "published_at": "2026-09-15T18:11:05+00:00",
-      "content_excerpt": "In June 2024 , investor David Sacks hosted a high-dollar fundraiser for then presidential candidate Donald Trump at his Pacific Heights mansion in San Francisco, bringing together the titans of Silicon Valley and venture capitalism to pledge their allegiance — and financial support — to the candidate promising to make their wildest tech-authoritarian dreams come true. The dinner party was orchestrated by then Ohio Sen. J.D. Vance, who served as a point of contact between Sacks and Trump, the former real estate tycoon who had notoriously been less than friendly to Big Tech during his first term. This time, however, Trump reportedly struck a different tone, criticizing Bidenera regulations on the ascendant industries of crypto and artificial intelligence (AI), promising to lift them if elect",
+      "id": "31278e7a522e946e9c2fea4c",
+      "title": "Frances Stonor Saunders Exposed the Cultural Cold War",
+      "url": "https://www.inoreader.com/article/3a9c6e767ef732a5",
+      "author": "Joel Whitney",
+      "source": "Jacobin",
+      "published_at": "2026-09-18T15:13:40+00:00",
+      "content_excerpt": "With her landmark 1999 debut, Who Paid the Piper? The CIA and the Cultural Cold War , Frances Stonor Saunders “single-handedly established a new branch of sub-history,” as novelist Ian McEwan observed. The book won many accolades, though sympathizers of Western anti-communism clamored to downplay its revelations: that between 1950 and 1967, intelligence agencies partnered in a covert front, launched by the Central Intelligence Agency (CIA), to manipulate Cold War intellectuals in a program whose basis was propaganda and censorship. With abstract art exhibits and classical music tours, the CIA’s Congress for Cultural Freedom also founded dozens of intellectual magazines (most famously Encounter in London) while its associated fronts funded press agencies, anti-communist student activists an",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/2ad897abfe5630ec03cb8580.json"
+      "article_path": "articles/31278e7a522e946e9c2fea4c.json"
+    },
+    {
+      "id": "810cc394c98ff26688a0a7de",
+      "title": "Is Trump Crashing the Dollar Empire?",
+      "url": "https://www.inoreader.com/article/3a9c6e767ee4b6a7",
+      "author": "Mona Ali",
+      "source": "Jacobin",
+      "published_at": "2026-09-18T13:42:38+00:00",
+      "content_excerpt": "With more than half of global trade conducted in dollars, the United States is still the world’s largest economy as well as its dominant military and political power. But Donald Trump, in his second presidential term, has put both these facts at unprecedented risk, using America’s global position for political gain and personal enrichment all while undermining the pillars of the nation’s financial dominance, such as the rule of law and the security of global trade flows. Yet according to economist Mona Ali, little of this behavior is truly new. The global financial system is, at its core, a political system, though Trump and his advisers are admittedly wielding this system more carelessly than any administration has in a generation. In a wide-ranging discussion, Ali explains who benefits f",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/810cc394c98ff26688a0a7de.json"
+    },
+    {
+      "id": "00bd74b2143c2089d910eb07",
+      "title": "Narratives of Imperfection: Revisiting Harper Lee’s To Kill a Mockingbird (1960) and Go Set a Watchman (2015)",
+      "url": "https://rocdsa.org/blog/narratives-of-imperfection-revisiting-harper-lees-to-kill-a-mockingbird-1960-and-go-set-a-watchman-2015",
+      "author": "Rochester Red Star: News from Rochester DSA",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-09-18T13:17:07+00:00",
+      "content_excerpt": "by Travis Covitz This month, I re-read To Kill A Mockingbird by Harper Lee for the first time since my freshman year of high school (which overlapped with the first wave of Black Lives Matter uprisings). Mockingbird was written by Lee (a Southern white woman) in the early 1960s; it follows the girlhood of Jean Louise “Scout” Finch, who is white and the daughter of a lawyer, in Depression-era Alabama. A major plot point of the book is Scout’s father, Atticus Finch, defending a local Black man who has been charged with rape of a white woman. Atticus is posed as a noble white hero in contrast with the ‘backwards’ racists in the countryside. Reading in 2026, the juxtaposition of the police brutality in Ferguson and the lawfare in Mockingbird seems like it was just begging for commentary. But a",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/00bd74b2143c2089d910eb07.json"
+    },
+    {
+      "id": "d7114fb52be2de205e1a294d",
+      "title": "Social Democracy Won the Century and Lost the Future",
+      "url": "https://www.inoreader.com/article/3a9c6e767ee13a1f",
+      "author": "Bhaskar Sunkara",
+      "source": "Jacobin",
+      "published_at": "2026-09-18T13:12:04+00:00",
+      "content_excerpt": "On Sunday, Sweden’s Social Democratic Party (SAP) emerged as the largest party in an election that will be remembered for all the wrong reasons. Magdalena Andersson is poised to return as prime minister, with her four-party bloc holding a one-seat majority in a 349-seat Riksdag. The SAP won just 28 percent of the vote, its worst showing in more than 110 years. This is what victory looks like today for the most electorally successful left-of-center party in history. The SAP went from pioneering social democratic governance, ruling almost uninterruptedly for nearly half a century, and even debating the transfer of large firms to worker ownership to serving as a fading bulwark against the far right, with little more than a quarter of the electorate behind it. The Swedish “model” can only be d",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/d7114fb52be2de205e1a294d.json"
+    },
+    {
+      "id": "03c393fc6532848a1e80cf39",
+      "title": "Hold Your Nose And Vote",
+      "url": "https://democraticleft.dsausa.org/2026/09/18/hold-your-nose-and-vote",
+      "author": "tfrasca@yahoo.com",
+      "source": "Democratic Left",
+      "published_at": "2026-09-18T12:51:40+00:00",
+      "content_excerpt": "“Red All Over” — an occasional roundup of media coverage of DSA The post Hold Your Nose And Vote appeared first on Democratic Left .",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/03c393fc6532848a1e80cf39.json"
+    },
+    {
+      "id": "4db798fcea78a834b81430ce",
+      "title": "Your National Political Committee newsletter — Cool Fall Organizing",
+      "url": "https://www.dsausa.org/news/sep2026_npc_newsletter",
+      "author": "DSA National: NPC Dispatch and Newsletter",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-09-17T20:08:15+00:00",
+      "content_excerpt": "Enjoy your September National Political Committee (NPC) newsletter! Our NPC is an elected 27-person body (including both YDSA Co-Chairs) which functions as the board of directors of DSA. This month, hear about hot labor updates, organizing trainings, volunteer opportunities, and more! And to make sure you get our newsletters in your inbox, sign up here! Each one features action alerts, upcoming events, political education, and more. From the National Political Committee — Cool Fall Organizing Sunday 9/27 — How Should DSA Respond to Data Centers? RSVP for our DSA Labor Call! Work for DSA! Application Deadlines Begin Friday 9/18 Sign Up for Fall 2026 Emergency Tenant Organizing Committee Training Series! Classes Begin Saturday 10/24 Mutual Aid Working Group Reforms Disaster Relief Committee ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/4db798fcea78a834b81430ce.json"
+    },
+    {
+      "id": "3cce10b3fe0db32221b6f98e",
+      "title": "Why Black Socialists Opposed Marcus Garvey",
+      "url": "https://www.inoreader.com/article/3a9c6e767e59d265",
+      "author": "Paul Prescod",
+      "source": "Jacobin",
+      "published_at": "2026-09-17T16:01:18+00:00",
+      "content_excerpt": "Africa loomed large in the vision of Marcus Garvey and his followers. In May 1920, the Universal Negro Improvement Association (UNIA) Executive Council decided to send a delegation to Liberia to explore the prospects for settlement and development. UNIA Resident Secretary in Liberia Elie Garcia wrote to President Charles D. B. King that they wanted to “establish trade routes, through a line of steamships, etc., to encourage emigration to build up the country, to transfer its Headquarters to Liberia, to bring with it medical and scientific units, etc.” He asked for “written assurance that every facility will be given it to procure lands for business, agriculture, and industrial purposes. In return the Organization with its vast membership will lend financial and moral support to the Governm",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/3cce10b3fe0db32221b6f98e.json"
+    },
+    {
+      "id": "87c762deadb7ce04fc1a4e5f",
+      "title": "Southern Gothic Films Take On the Horrors of the Past",
+      "url": "https://www.inoreader.com/article/3a9c6e767e59d257",
+      "author": "Eileen Jones",
+      "source": "Jacobin",
+      "published_at": "2026-09-17T16:01:18+00:00",
+      "content_excerpt": "One of the films featured in the Criterion Channel’s “Southern Gothic” series is Baby Doll (1956). It’s based on Tennessee Williams’s one-act plays 27 Wagons Full of Cotton and The Unsatisfactory Supper , which Williams adapted for the screen in collaboration with the most famous interpreter of his work, director Elia Kazan. It begins with the lurid, sexed-up horns of Kenyon Hopkins’s score vamping as if in accompaniment to a strip show as we approach a grimly dilapidated Mississippi plantation house with grimy pillars like the post–Civil War plantation in Gone with the Wind . And there we have in a single film moment a perfect summation of the Southern Gothic. It’s a subgenre that takes a sensationalistic, yet critical and modern, revisionist approach to the culture of the contemporary Am",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/87c762deadb7ce04fc1a4e5f.json"
     }
   ]
 }

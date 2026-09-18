@@ -1,311 +1,311 @@
 {
-  "generated_at": "2026-09-16T22:15:42.647647+00:00",
-  "generated_at_jst": "2026-09-17T07:15:42.647647+09:00",
-  "period_start": "2026-09-15T16:15:42.647647+00:00",
+  "generated_at": "2026-09-18T21:46:36.430509+00:00",
+  "generated_at_jst": "2026-09-19T06:46:36.430509+09:00",
+  "period_start": "2026-09-17T15:46:36.430509+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
   "article_count": 20,
   "excerpt_chars": 800,
   "articles": [
     {
-      "id": "09d2ee95204fc92728f77958",
-      "title": "China and Russia oppose deployment of US weapons to space",
-      "url": "https://breakthroughnews.org/2026/09/16/china-and-russia-oppose-deployment-of-us-weapons-to-space",
-      "author": "Abdul Rahman",
+      "id": "6a8976ec339d1c43dfe67d03",
+      "title": "Saudi Arabia just lost big in Yemen — Will Trump intervene?",
+      "url": "https://breakthroughnews.org/2026/09/18/saudi-arabia-just-lost-big-in-yemen-will-trump-intervene",
+      "author": "Zoe Alexandra",
       "source": "BT News",
-      "published_at": "2026-09-16T20:47:14+00:00",
-      "content_excerpt": "After the US officially admitted it deployed weapons into outer space earlier this week, Russia and China expressed concerns, calling it a threat to international peace and demanding the immediate stoppage of all such activities. During a regular press conference on Tuesday, September 15, Guo Jiakun, official spokesperson of China’s Ministry of Foreign Affairs, said that “China opposes any arms race in outer space or any attempt to weaponize it and turn it into a warzone.” He further said that “China stands for the peaceful use of outer space and keeping it safe” and urged the US to “stop expanding military build-up in outer space, and uphold global strategic stability with concrete actions.” Russia’s Foreign Ministry Spokesperson Maria Zakharova said that the US weapons deployment is a th",
+      "published_at": "2026-09-18T20:05:25+00:00",
+      "content_excerpt": "Ansar Allah’s Red Sea wins last week torched Saudi’s decade-long strategy in Yemen – and the tens of billions it poured into trying to hold one of the world’s most vital shipping chokepoints. Shireen Al-Adeimi, Yemeni-born anti-war activist and Michigan State University professor, joins Zoe Alexandra to unpack what the seizure of Mokha and control of the Bab al-Mandeb Strait means for a global economy already brought to its knees by record $6/gallon diesel prices. With the Strait of Hormuz still slowed to a trickle by the US-Israeli war on Iran and Riyadh’s East-West pipeline offline, Al-Adeimi says it’s in the whole world’s interest to “push the Saudis to just end this war. Admit that you’ve lost, cut your losses, and move on.” She breaks down how Riyadh’s violation of the 2022 ceasefire ",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/09d2ee95204fc92728f77958.json"
+      "article_path": "articles/6a8976ec339d1c43dfe67d03.json"
     },
     {
-      "id": "8dbd2fa4910b39d19975f6ce",
-      "title": "Venezuela’s Asymmetric Negotiation with the United States: A Conversation with William Castillo",
-      "url": "https://mronline.org/2026/09/16/venezuelas-asymmetric-negotiation-with-the-united-states-a-conversation-with-william-castillo",
-      "author": "Cira Pascual Marquina",
+      "id": "64d46ada00cc49e71a973f05",
+      "title": "Una pequeña victoria frente a los mapas que sitúan al Norte Global en el centro y empequeñecen a África.",
+      "url": "https://breakthroughnews.org/2026/09/18/guerras-de-mapas-la-victoria-de-una-tierra-equitativa-sobre-una-desigual",
+      "author": "Prabir Purkayastha",
+      "source": "BT News",
+      "published_at": "2026-09-18T19:05:02+00:00",
+      "content_excerpt": "Read in English here La semana pasada, el 4 de septiembre, la Asamblea General de las Naciones Unidas aprobó una propuesta africana para un nuevo mapa mundial, que muestra el tamaño real de los países en relación con los demás. Su objetivo es corregir la visión del mundo moldeada por el mapa mundial ampliamente utilizado basado en la proyección de Mercator, creada por Gerardus Mercator, un cartógrafo flamenco del siglo XVI. El problema con el mapa de Mercator es bien conocido; por ejemplo, muestra a la isla de Groenlandia con el mismo tamaño que el continente africano, ¡a pesar de que África es 14 veces más grande que Groenlandia! En pocas palabras, los mapas de Mercator exageran enormemente el norte del mundo —los Estados Unidos y Europa— mientras que reducen África y la mayor parte de As",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/64d46ada00cc49e71a973f05.json"
+    },
+    {
+      "id": "adaecde673748630ccdc9815",
+      "title": "A small victory against the maps which center the global north and shrink Africa",
+      "url": "https://breakthroughnews.org/2026/09/18/a-small-victory-against-the-maps-which-center-the-global-north-and-shrink-africa",
+      "author": "Prabir Purkayastha",
+      "source": "BT News",
+      "published_at": "2026-09-18T19:05:02+00:00",
+      "content_excerpt": "Lee en español aquí On September 4, the United Nations General Assembly adopted an African proposal for a new world map, which shows countries’ true size relative to one another. It aims to correct the view of the world shaped by the widely used world map based on the Mercator Projection, created by Gerardus Mercator, a 16th-century Flemish cartographer. The problem with the Mercator Map is well known; for example, it shows the island of Greenland as the same size as the African continent, even though Africa is 14 times the size of Greenland! Simply put, Mercator maps greatly exaggerate the global north – the US and Europe – while shrinking Africa and most of Asia. Nor does it treat the rest of the Southern Hemisphere kindly. South America, nearly three times the size of Europe, looks comp",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/adaecde673748630ccdc9815.json"
+    },
+    {
+      "id": "583afa7a06bcf73787ec8511",
+      "title": "A Predatory State: Excavating the Architecture of Zionist Depravity",
+      "url": "https://mronline.org/2026/09/18/a-predatory-state-excavating-the-architecture-of-zionist-depravity",
+      "author": "Diana Block",
       "source": "MR Online",
-      "published_at": "2026-09-16T19:14:50+00:00",
-      "content_excerpt": "\"Many look at this too much from outside, from the Global North, without really trying to understand our reasoning, what's actually at stake for Venezuela, and why Venezuela is doing what it's doing.\" The post Venezuela’s Asymmetric Negotiation with the United States: A Conversation with William Castillo appeared first on MR Online .",
+      "published_at": "2026-09-18T18:10:43+00:00",
+      "content_excerpt": "The Report makes clear that sexualized violence is not an episodic add-on to occupation and genocide. Rather, it is a foundational, legalized aspect of the Zionist project. The post A Predatory State: Excavating the Architecture of Zionist Depravity appeared first on MR Online .",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/8dbd2fa4910b39d19975f6ce.json"
+      "article_path": "articles/583afa7a06bcf73787ec8511.json"
     },
     {
-      "id": "7591289640fd3d102c922c66",
-      "title": "Colombian president ends university autonomy policy, granting police access to campuses",
-      "url": "https://breakthroughnews.org/2026/09/16/colombian-president-ends-university-autonomy-policy-granting-police-access-to-campuses",
-      "author": "BreakThrough News",
+      "id": "7d86780519679cd2d040bb3c",
+      "title": "Cumbre del BRICS+: entre promesas y contradicciones",
+      "url": "https://breakthroughnews.org/2026/09/18/cumbre-del-brics-entre-promesas-y-contradicciones",
+      "author": "Vijay Prashad",
       "source": "BT News",
-      "published_at": "2026-09-16T18:44:39+00:00",
-      "content_excerpt": "A little over a month into his term, far-right President Abelardo de la Espriella continues to advance a security agenda that often conflicts with certain rights historically won by Colombians. This time, De la Espriella has signed a decree allowing police access to university campuses. In several Latin American countries, the prohibition of police access to universities has been established through student struggle to prevent abuses by authorities against student movements. Thus, universities have historically become places where students seek refuge from repression, arrest, and regroup during times of intense social mobilization. This was evident during the 2021 protests, known as the “National Strike,” in which students, workers, left-wing political parties, young people, and others too",
+      "published_at": "2026-09-18T18:05:20+00:00",
+      "content_excerpt": "Read in English here La 18va Cumbre del BRICS, celebrada en Nueva Delhi del 12 al 13 de septiembre, tuvo lugar en medio de una intensificación excepcional de las contradicciones internacionales. Las guerras en Asia Occidental, las sanciones unilaterales, las barreras arancelarias y el uso de las finanzas y la tecnología como armas han puesto de manifiesto el carácter fundamentalmente desigual del orden internacional dominado por el imperialismo. En este contexto, la continua expansión del BRICS refleja el deseo de los países en desarrollo de alcanzar una mayor autonomía estratégica y un sistema más democrático de gobernanza global. Al mismo tiempo, la cumbre demostró que el BRICS+ sigue siendo una agrupación heterogénea cuyos miembros difieren sustancialmente en sus alineamientos políticos",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/7591289640fd3d102c922c66.json"
+      "article_path": "articles/7d86780519679cd2d040bb3c.json"
     },
     {
-      "id": "52ce5b34c0292f2ac6a5e583",
-      "title": "Anti-militarism unites progressives across Europe",
-      "url": "https://breakthroughnews.org/2026/09/16/anti-militarism-unites-progressives-across-europe",
-      "author": "Ana Vračar",
+      "id": "6e4a2885410e7849943c6082",
+      "title": "India debe volver a sus raíces y recuperar su voz",
+      "url": "https://breakthroughnews.org/2026/09/17/india-debe-volver-a-sus-raices-y-recuperar-su-voz",
+      "author": "Atul Chandra",
       "source": "BT News",
-      "published_at": "2026-09-16T18:44:39+00:00",
-      "content_excerpt": "The left’s capacity to build knowledge, organization, and struggle was a central theme at this year’s ManiFiesta , introduced during a discussion of Peter Mertens’ new book, “ The Last Days of the Old Normal “. In the context of Europe’s ongoing armament, these questions are crucial not only for progressive movements in core countries but also for those building alternatives in Central and Eastern Europe. The festival featured several sessions examining developments in Central and Eastern Europe, including an intervention by Ukrainian sociologist Volodymyr Ishchenko on the class character of the Ukraine war. Another session – “ East of the former wall: the AfD, the industrial crisis, and the war economy ” – brought together Markéta Juřicová of the Czech party Levice, Orsolya Haboczki from ",
+      "published_at": "2026-09-18T18:05:20+00:00",
+      "content_excerpt": "Read in English here En el Foro Empresarial del BRICS celebrado el viernes en Bharat Mandapam, el presidente ruso, Vladimir Putin, dio a conocer las cifras. Los once miembros de este grupo producen actualmente más del 40% de la producción mundial. El G7 produce el 29%. En los últimos cinco años, los países del BRICS generaron más de la mitad de todo el crecimiento mundial . El G7 alcanzó el 18%. Narendra Modi, al intervenir en el mismo evento, agregó que el bloque alberga a la mitad de la humanidad y representa una cuarta parte del comercio mundial. Esto no es retórica. El centro de gravedad de la economía mundial se ha desplazado, y la India ocupa el puesto de liderazgo mientras esto ocurre. Ahora recuerden algo más que ocurrió en ese mismo salón. El 24 de mayo de este año, el secretario ",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/52ce5b34c0292f2ac6a5e583.json"
+      "article_path": "articles/6e4a2885410e7849943c6082.json"
     },
     {
-      "id": "f06dbfb6000b593947fc0d60",
-      "title": "Inside a Palestinian family’s agonizing decision to abandon their home under threat of Israeli settler violence",
-      "url": "https://mondoweiss.net/2026/09/inside-a-palestinian-familys-agonizing-decision-to-abandon-their-home-under-threat-of-israeli-settler-violence",
+      "id": "cf970f33378b8d8ed0db73fa",
+      "title": "Palestinians are responding to Israel’s stranglehold on the West Bank’s economy by forgiving each other’s debts en masse",
+      "url": "https://mondoweiss.net/2026/09/palestinians-are-responding-to-israels-stranglehold-on-the-west-banks-economy-by-forgiving-each-others-debts-en-masse",
       "author": "Qassam Muaddi",
       "source": "Mondoweiss",
-      "published_at": "2026-09-16T18:29:01+00:00",
-      "content_excerpt": "For three generations, Ali Abu Khdeir's family lived in the home his grandfather built in Deir Jarir until Israeli settlers made staying too dangerous. Now residents fear that their families are next.",
+      "published_at": "2026-09-18T17:46:39+00:00",
+      "content_excerpt": "As Israel's financial strangulation of the Palestinian economy enters its third year, Palestinians are turning to each other — forgiving debts worth millions of shekels in a viral solidarity campaign that began with a schoolteacher's bounced check.",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/f06dbfb6000b593947fc0d60.json"
+      "article_path": "articles/cf970f33378b8d8ed0db73fa.json"
     },
     {
-      "id": "64fedd393216bbfe1ccb6b40",
-      "title": "A Russian Oligarch Secretly Funded Donald Trump Jr.’s Bahamas Wedding; Democrats Demand Probe",
-      "url": "https://www.democracynow.org/2026/9/16/djt_jr_wedding",
+      "id": "b66dbaa3b783b80e3976b793",
+      "title": "Inside Gaza’s death trap of collapsing, bombed-out buildings",
+      "url": "https://mondoweiss.net/2026/09/inside-gazas-death-trap-of-collapsing-bombed-buildings",
+      "author": "Mohamed Al-Astal",
+      "source": "Mondoweiss",
+      "published_at": "2026-09-18T17:17:45+00:00",
+      "content_excerpt": "With more than 40,000 Palestinians sheltering in collapse-prone buildings and a “nightmare” winter approaching, Gaza’s Civil Defense warns of a preventable catastrophe unfolding in plain sight.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/b66dbaa3b783b80e3976b793.json"
+    },
+    {
+      "id": "780d2e1136227f0609657d58",
+      "title": "BRICS+ Summit: between promises and contradictions",
+      "url": "https://breakthroughnews.org/2026/09/18/brics-summit-between-promises-and-contradictions",
+      "author": "Vijay Prashad",
+      "source": "BT News",
+      "published_at": "2026-09-18T17:05:27+00:00",
+      "content_excerpt": "Lee en español aquí The 18th BRICS Summit, held in New Delhi on September 12–13, occurred amid an exceptional intensification of international contradictions. Wars in West Asia, unilateral sanctions, tariff barriers, and the weaponization of finance and technology have exposed the fundamentally unequal character of the imperialist-dominated international order. Against this background, the continued expansion of BRICS reflects the desire of developing countries for greater strategic autonomy and a more democratic system of global governance. At the same time, the summit demonstrated that BRICS+ remains a heterogeneous grouping whose members differ substantially in their political alignments and economic interests. The New Delhi Declaration, the outcome of the summit, reiterated the demand ",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/780d2e1136227f0609657d58.json"
+    },
+    {
+      "id": "106801436295c24b877337d5",
+      "title": "21 displaced people killed in Gaza building collapse",
+      "url": "https://breakthroughnews.org/2026/09/18/21-displaced-people-killed-in-gaza-building-collapse",
+      "author": "Aseel Saleh",
+      "source": "BT News",
+      "published_at": "2026-09-18T16:04:15+00:00",
+      "content_excerpt": "The lethal repercussions of Israel’s three-year genocidal aggression on Gaza continue to unfold. Aside from Israel’s ongoing military assaults after the nominal ceasefire deal, the humanitarian crisis inflicted by the genocide – affecting food, sanitation, medication, and shelter – has become another driver of persistent fatalities. At least 21 Palestinians , including 12 children, died in the collapse of the Al-Saadah building in Gaza City on Wednesday, September 16, while 45 people were rescued from under the rubble. According to media reports , the building, already damaged by Israeli airstrikes, was housing 100 displaced people, amid a deepening shelter crisis caused by Israel’s ongoing restrictions on reconstruction materials and humanitarian aid. Read more: Israel escalates aggressio",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/106801436295c24b877337d5.json"
+    },
+    {
+      "id": "dbf96c573b8389289017e343",
+      "title": "“Inequality Emergency”: Ahead of U.N. General Assembly, Oxfam Urges Action on Climate, AI & Gaza",
+      "url": "https://www.democracynow.org/2026/9/18/amitabh_behar_unga",
       "author": "",
       "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-09-16T15:07:47+00:00",
-      "content_excerpt": "Congressional Democrats have opened an investigation after ProPublica revealed on Monday that a Russian oligarch close to Vladimir Putin bankrolled part of Donald Trump Jr.’s Bahamas wedding in May. ProPublica reports that Umar Kremlev paid hundreds of thousands of dollars on wedding expenses, including the rental of a private island. Just weeks before the wedding, Putin awarded Kremlev the Order of Friendship. Trump Jr. and his wife, Bettina Anderson, confirmed _ProPublica_’s findings in a social media post, specifying that Kremlev only paid for an afterparty. “The most important thing to understand about Kremlev is the level of his connection with the Russian government. Right before the wedding … he was reportedly traveling in China as part of Putin’s delegation,” says Joshua Kaplan, th",
+      "published_at": "2026-09-18T15:05:52+00:00",
+      "content_excerpt": "As world leaders prepare to head to New York for the United Nations General Assembly and Climate Week, Democracy Now! speaks with Amitabh Behar, executive director of Oxfam International. “We live in a very different world from 1945,” when the U.N. was formed, says Behar. “You cannot continue with the veto power.” And with António Guterres soon stepping down, Behar stresses that the United Nations’ next secretary-general must be a woman — “a fundamental shift we need to make.” He also argues that while the world is “torn apart” by inequality, “there are real possibilities of change.” Behar cites the G20’s International Panel on Inequality and “movements across the world” aimed at “changing regimes,” including in Sri Lanka, Nepal, Bangladesh and India.",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/64fedd393216bbfe1ccb6b40.json"
+      "article_path": "articles/dbf96c573b8389289017e343.json"
     },
     {
-      "id": "2ecdf384298be0b7280a8eb4",
-      "title": "“The Elimination Project”: Israel’s Systematic Dismantling of Palestinian Life in West Bank: B’Tselem",
-      "url": "https://www.democracynow.org/2026/9/16/btselem",
+      "id": "6b00750ec3905ea92602793f",
+      "title": "“Hope Is the Thing with Feathers”: Rhiannon Giddens on New Album, AI, Ed Sheeran, Macklemore & Trump",
+      "url": "https://www.democracynow.org/2026/9/18/hope_is_the_thing_with_feathers",
       "author": "",
       "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-09-16T15:07:47+00:00",
-      "content_excerpt": "A major new report by the Israeli human rights group B’Tselem titled “The Elimination Project” accuses Israel of “dramatically intensifying its attacks on every aspect of Palestinian life in the West Bank.” “For too long, Israel’s policies in the West Bank have been treated or looked at as isolated events,” says Ori Givati, director of international relations at B’Tselem. “We actually find that there is one very coherent logic behind all of them, and this is the logic of elimination of Palestinian collective life in the West Bank.” Givati says tactics against Palestinians intensified with Israel’s 2022 election and again after October 7, 2023, adding that “we are definitely seeing a lot of the mechanisms, the tools that were used and are used still … in Gaza, being implemented in the West ",
+      "published_at": "2026-09-18T15:05:52+00:00",
+      "content_excerpt": "“If we don’t connect those dots between the struggles, we’re never going to get anywhere,” says Pulitzer Prize- and Grammy-winning multi-instrumentalist Rhiannon Giddens. “That’s what music is for. … We have to make music with people from different backgrounds because then we have that conversation.” Giddens has had a wide-spanning career, including her time with the Carolina Chocolate Drops, an old-time Black string band, and her work as a musical consultant on Ryan Coogler’s landmark film Sinners . She won a Pulitzer Prize for music in 2023 for her opera Omar about Omar ibn Said, a Muslim scholar in Africa who was sold into slavery in the 1800s. Her new album, Hope Is the Thing with Feathers , comes out on Friday.",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/2ecdf384298be0b7280a8eb4.json"
+      "article_path": "articles/6b00750ec3905ea92602793f.json"
     },
     {
-      "id": "4e4a45ed7c59c2bb6253617a",
-      "title": "“Architects of Atrocities”: Amnesty Says Iran Committed Crimes Against Humanity in 2022 Crackdown",
-      "url": "https://www.democracynow.org/2026/9/16/amnesty_women_life_freedom",
+      "id": "ba1d7fd8e24dd28eb4c2a313",
+      "title": "“We Are the 99%”: 15 Years Later, Occupy Wall Street’s Impact Is Still Being Felt",
+      "url": "https://www.democracynow.org/2026/9/18/yotam_marom",
       "author": "",
       "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-09-16T15:07:47+00:00",
-      "content_excerpt": "Four years ago today, the Woman, Life, Freedom uprising erupted in Iran after the death in custody of Zhina Mahsa Amini, a 22-year-old Kurdish woman who had been arrested by Iran’s “morality police.” Over the next three months, hundreds of thousands of people took to the streets protesting against Iran’s discriminatory compulsory veiling laws. Amnesty International has released a new report concluding that the repressive measures used by Iranian authorities to crush the Woman, Life, Freedom protests in 2022 constitute crimes against humanity. Investigating the killings of 377 protesters and bystanders in 2022, Amnesty International’s report calls for international criminal investigations into 87 Iranian officials. “Crimes against humanity are system crimes. This means that they require res",
+      "published_at": "2026-09-18T15:05:52+00:00",
+      "content_excerpt": "Fifteen years ago this week, thousands of activists marched on the Financial District in New York City. They formed the Occupy Wall Street encampment in Zuccotti Park, launching a movement focused on economic inequality that spread across the nation and globe under the slogan, “We are the 99%.” Protesters would go on to sleep in Zuccotti Park for nearly two months before police raided the encampment. “Occupy Wall Street changed the public’s common sense about class and class struggle and inequality in this country,” says Yotam Marom, who helped organize the Occupy protests in New York City. “It’s hard to see how you get a Bernie Sanders 2016 run without the public shifting its relationship to that story.” Marom says Occupy participants were inspired by mass protests happening around the wo",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/4e4a45ed7c59c2bb6253617a.json"
+      "article_path": "articles/ba1d7fd8e24dd28eb4c2a313.json"
     },
     {
-      "id": "9f07be431ffa6c184626bcdb",
+      "id": "804e4a3fce1a9a676cebfda9",
       "title": "“End Times Fascism”: Naomi Klein & Astra Taylor on Billionaires, Bunkers, AI, Gaza & the Far Right",
-      "url": "https://www.democracynow.org/2026/9/15/klein_taylor_end_times_fascism",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-09-16T15:07:47+00:00",
+      "url": "https://mronline.org/2026/09/18/end-times-fascism-naomi-klein-astra-taylor-on-billionaires-bunkers-ai-gaza-the-far-right",
+      "author": "Amy Goodman",
+      "source": "MR Online",
+      "published_at": "2026-09-18T13:05:02+00:00",
       "content_excerpt": "Naomi Klein and Astra Taylor launch their new book, End Times Fascism: And the Fight for the Living World on Democracy Now! It examines how wealthy elites are preparing for “the end of the world,” even as they contribute to growing inequality, political instability and the climate crisis. The rise of modern-day fascism is “not simply a rerun,” explains Klein. “We don’t believe that history repeats on a loop. We believe that we’re in something more like a sequel, where the logics of fascism, which are the logics of dehumanization, of othering, of racial supremacy and hierarchy, are now being applied in a time of global existential crisis.” In response, says Taylor, the growing movement seeking to resist this fatalistic vision “fundamentally needs to be grounded in a desire to stay here on E",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/9f07be431ffa6c184626bcdb.json"
+      "article_path": "articles/804e4a3fce1a9a676cebfda9.json"
     },
     {
-      "id": "e348afd71da0ae0ed695e6ed",
-      "title": "Trump EPA to strip greenhouse gas limits for power plants, a key Biden climate policy",
-      "url": "https://mronline.org/2026/09/16/trump-epa-to-strip-greenhouse-gas-limits-for-power-plants-a-key-biden-climate-policy",
+      "id": "bfda526ebdfb1cc443c6c828",
+      "title": "The university’s deportable workers",
+      "url": "https://mronline.org/2026/09/18/the-universitys-deportable-workers",
       "author": "Editor",
       "source": "MR Online",
-      "published_at": "2026-09-16T13:13:01+00:00",
-      "content_excerpt": "The U.S. Environmental Protection Agency will revoke limits on greenhouse gas emissions from power plants that run on coal and natural gas, according to regulatory documents Administrator Lee Zeldin signed Monday. The post Trump EPA to strip greenhouse gas limits for power plants, a key Biden climate policy appeared first on MR Online .",
+      "published_at": "2026-09-18T12:04:50+00:00",
+      "content_excerpt": "International students occupy a peculiar position within the contemporary university. The post The university’s deportable workers appeared first on MR Online .",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/e348afd71da0ae0ed695e6ed.json"
+      "article_path": "articles/bfda526ebdfb1cc443c6c828.json"
     },
     {
-      "id": "375e0f8d25e4dad0a594337f",
-      "title": "Global Democracy Defense w/Pedro Telles",
-      "url": "https://convergencemag.com/podcast/global-democracy-defense-w-pedro-telles",
-      "author": "Scot Nakagawa",
-      "source": "Convergence",
-      "published_at": "2026-09-16T12:21:11+00:00",
-      "content_excerpt": "Authoritarianism is a global project, coordinated, cross-border, and learning from itself in real time. The resistance has to be, too. In this episode, Scot talks with Pedro Telles, Director and founding board member of D-Hub, about what democratic defense looks like from a transnational vantage point. They cover how authoritarianism takes hold, what civil society can do to stop it… Source",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/375e0f8d25e4dad0a594337f.json"
-    },
-    {
-      "id": "0e9d3e23ecb71e89f68ed6c8",
-      "title": "NAZA: How a film became an ‘eighth front’ shaking ‘Israel’ from within",
-      "url": "https://mronline.org/2026/09/16/naza-how-a-film-became-an-eighth-front-shaking-israel-from-within",
+      "id": "e6cbf09b1045b342b491635c",
+      "title": "Pentagon’s secret plan: Reviving Cold War doctrines to lower the threshold for nuclear war",
+      "url": "https://mronline.org/2026/09/18/pentagons-secret-plan-reviving-cold-war-doctrines-to-lower-the-threshold-for-nuclear-war",
       "author": "Editor",
       "source": "MR Online",
-      "published_at": "2026-09-16T12:12:03+00:00",
-      "content_excerpt": "Built on testimonies from Israeli military personnel, NAZA has triggered a political and security uproar over how Gaza’s war was conducted. The post NAZA: How a film became an ‘eighth front’ shaking ‘Israel’ from within appeared first on MR Online .",
+      "published_at": "2026-09-18T11:04:46+00:00",
+      "content_excerpt": "The American public will need many more voices and new collective efforts to erect more barriers to nuclear war, not give a president more options for starting one. The post Pentagon’s secret plan: Reviving Cold War doctrines to lower the threshold for nuclear war appeared first on MR Online .",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/0e9d3e23ecb71e89f68ed6c8.json"
+      "article_path": "articles/e6cbf09b1045b342b491635c.json"
     },
     {
-      "id": "5d3d162ab2c59f6b46cba366",
-      "title": "Palestinian youth may soon get to vote for the first time. Few believe it actually matters.",
-      "url": "https://mondoweiss.net/2026/09/palestinian-youth-may-soon-get-to-vote-for-the-first-time-few-believe-it-actually-matters",
-      "author": "Qassam Muaddi",
-      "source": "Mondoweiss",
-      "published_at": "2026-09-16T11:22:17+00:00",
-      "content_excerpt": "With 64 percent of Palestinians under 30 and elections announced for November, a generation that has never voted is being asked to trust a political system that has failed them — before, during, and after the genocide in Gaza.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/5d3d162ab2c59f6b46cba366.json"
-    },
-    {
-      "id": "3842aee57a014f74f8b098b2",
-      "title": "From Allende to Chávez: 2 popular models, same imperialist and oligarchic conspiracy",
-      "url": "https://mronline.org/2026/09/16/from-allende-to-chavez-2-popular-models-same-imperialist-and-oligarchic-conspiracy",
+      "id": "002a7af1dffd3f6614edccac",
+      "title": "Riyadh phones Tel Aviv: From petro-power to palace panic",
+      "url": "https://mronline.org/2026/09/18/riyadh-phones-tel-aviv-from-petro-power-to-palace-panic",
       "author": "Editor",
       "source": "MR Online",
-      "published_at": "2026-09-16T11:10:01+00:00",
-      "content_excerpt": "As Chile commemorates the 1973 coup, the kidnapping of Venezuelan President Nicolás Maduro confirms that the U.S. conspiracy against popular projects in Latin America has not stopped, it has merely changed its name. The post From Allende to Chávez: 2 popular models, same imperialist and oligarchic conspiracy appeared first on MR Online .",
+      "published_at": "2026-09-18T10:03:49+00:00",
+      "content_excerpt": "For decades, the Saudi state cultivated the mythology of sovereignty while constructing one of the most elaborate systems of strategic dependency in modern history. The post Riyadh phones Tel Aviv: From petro-power to palace panic appeared first on MR Online .",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/3842aee57a014f74f8b098b2.json"
+      "article_path": "articles/002a7af1dffd3f6614edccac.json"
     },
     {
-      "id": "9eda35ffab1dd1f1747c39b5",
-      "title": "Macklemore’s tour cancellation shows why celebrities don’t criticize Israel",
-      "url": "https://mronline.org/2026/09/16/macklemores-tour-cancellation-shows-why-celebrities-dont-criticize-israel",
+      "id": "51097e692e86ab6f3d25dc6a",
+      "title": "How to Understand Key Terms in Large Language Models",
+      "url": "https://thetricontinental.org/how-to-understand-key-terms-in-large-language-models",
+      "author": "",
+      "source": "[:en]THE TRICONTINENTAL[:es]TRICONTINENTAL[:]",
+      "published_at": "2026-09-18T09:44:48+00:00",
+      "content_excerpt": "When you use AI to write, read reports, or work with files, you may encounter terms such as token , context , and agent . These terms help explain what happens when you give an AI application a task: what information it can use, how it produces a response, and whether it can take actions such as searching for sources or saving a document. This guide introduces the main terms related to large language models (LLMs) through practical examples. It begins with how models process information, then explains how to give them instructions and reference material, how tools and agents carry out tasks, and how to organise ongoing work. It also introduces ways to access models through other software or run them on your own equipment. 1. How Language Models Work Large Language Models A large language m",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/51097e692e86ab6f3d25dc6a.json"
+    },
+    {
+      "id": "203b9dd55459652b73fe9556",
+      "title": "‘You can pay off many, you can’t pay off me’: How solidarity brought Ed Sheeran low",
+      "url": "https://mronline.org/2026/09/18/you-can-pay-off-many-you-cant-pay-off-me-how-solidarity-brought-ed-sheeran-low",
       "author": "Editor",
       "source": "MR Online",
-      "published_at": "2026-09-16T10:10:33+00:00",
-      "content_excerpt": "American oligarchs kicking an artist off a tour for supporting Palestine is a very in-your-face illustration of why mainstream culture is so vapid and fake these days. The post Macklemore’s tour cancellation shows why celebrities don’t criticize Israel appeared first on MR Online .",
+      "published_at": "2026-09-18T09:03:37+00:00",
+      "content_excerpt": "The axing of Macklemore from Ed Sheeran’s tour is the latest attempt by pro-Israel pressure to push back on an argument that’s lost, but solidarity wins over fear, argues Dave Randall The post ‘You can pay off many, you can’t pay off me’: How solidarity brought Ed Sheeran low appeared first on MR Online .",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/9eda35ffab1dd1f1747c39b5.json"
+      "article_path": "articles/203b9dd55459652b73fe9556.json"
     },
     {
-      "id": "ff7fec78362c5cbea3639793",
-      "title": "Canada’s role in the disastrous ‘War on Terror’ should not be celebrated",
-      "url": "https://mronline.org/2026/09/16/canadas-role-in-the-disastrous-war-on-terror-should-not-be-celebrated",
-      "author": "Owen Schalk",
-      "source": "MR Online",
-      "published_at": "2026-09-16T09:09:50+00:00",
-      "content_excerpt": "The wrong lessons from the war in Afghanistan. The post Canada’s role in the disastrous ‘War on Terror’ should not be celebrated appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/ff7fec78362c5cbea3639793.json"
-    },
-    {
-      "id": "169345c6faf8ac9e0ebef8a9",
-      "title": "Ireland, Scotland, and Wales independence parties pledge cooperation toward self-determination",
-      "url": "https://breakthroughnews.org/2026/09/16/ireland-scotland-and-wales-independence-parties-pledge-cooperation-toward-self-determination",
-      "author": "Ana Vračar",
+      "id": "fd9d153e292fe6c033ac864f",
+      "title": "Robert Kraft: the Zionist billionaire who tried to cancel Macklemore",
+      "url": "https://breakthroughnews.org/2026/09/17/robert-kraft-the-zionist-billionaire-who-tried-to-cancel-macklemore",
+      "author": "Zoe Alexandra",
       "source": "BT News",
-      "published_at": "2026-09-16T01:39:20+00:00",
-      "content_excerpt": "Leaders of pro-independence parties in Ireland, Scotland, and Wales met in Cardiff on Monday to sign a memorandum of understanding laying out a plan for strengthened cooperation. The document commits Sinn Féin, the Scottish National Party (SNP), and Plaid Cymru to deepen exchanges on renewable energy, economic policy, and, notably, “supporting the right of each nation to determine its own future.” “For the first time ever, people across these islands have First Ministers in Scotland, in Wales, and in the North of Ireland who are all committed to independence from the United Kingdom,” the memorandum states. “For people watching across these islands – for people watching around the world – there could be no clearer sign that Westminster’s time is coming to an end.” Read more: Welsh by-electi",
+      "published_at": "2026-09-18T02:00:37+00:00",
+      "content_excerpt": "Robert Kraft tapped friend Jeffrey Epstein for legal advice after he was charged in a Florida police sting targeting suspected human trafficking. Zoe Alexandra traces the legacy of scandals and crimes behind the billionaire Zionist and owner of Gillette Stadium – and ostensible destroyer of Ed Sheeran’s career – after Kraft pushed NFL stadium owners to drop Macklemore from the Loop Tour for speaking out on Gaza at MetLife Stadium. From an alleged AI surveillance command center at Gillette, to winning Israel’s Genesis Prize, to the Blue Square Alliance/Foundation to Combat Antisemitism and his ties with Friends of the IDF — this is the story of the American billionaire who bankrolled a decades-long “Speak Out for Israel” campaign to silence criticism, and how his latest attempt has backfire",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/169345c6faf8ac9e0ebef8a9.json"
-    },
-    {
-      "id": "b2f93f27860c771ffe1f9509",
-      "title": "A pro-neoliberal security strategy returns to Latin America",
-      "url": "https://breakthroughnews.org/2026/09/16/a-pro-neoliberal-security-strategy-returns-to-latin-america",
-      "author": "Pablo Meriguet",
-      "source": "BT News",
-      "published_at": "2026-09-16T01:39:20+00:00",
-      "content_excerpt": "Right-wing and far-right governments in Latin America have adopted a very similar discourse regarding insecurity. The leaders share a narrative that describes how in the 1980s and 1990s, a sort of neoliberal panacea reigned supreme, but then, as if speaking of a biblical plague, the progressive governments of the early 21st century arrived. Then, their story goes, through rampant corruption, they destroyed paradise on earth and brought about various evils such as insecurity, migration, and the destruction of traditional values. Thus, several of these new – and not-so-new – right-wing governments have won the presidency, almost always in elections where they prevailed by a narrow margin, asserting that the solution to the “disaster” is to return to radical neoliberalism and implement a secu",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/b2f93f27860c771ffe1f9509.json"
-    },
-    {
-      "id": "2d222d889608db4a98c842af",
-      "title": "Buffalo Nichols: A revolutionary blues man in the belly of the beast",
-      "url": "https://breakthroughnews.org/2026/09/16/buffalo-nichols-a-revolutionary-blues-man-in-the-belly-of-the-beast",
-      "author": "Phill Campbell",
-      "source": "BT News",
-      "published_at": "2026-09-16T00:38:57+00:00",
-      "content_excerpt": "In the year of the 250th anniversary of US independence, the bipartisan US Semiquincentennial Commission released “America’s Soundtrack: The Sound of 250 Years.” Perhaps unsurprisingly – because the initiative was planned over the course of a decade with the support of corporations like Amazon, Oracle, and Palantir – the playlist is a romantic ode to the most paternalistic and militaristic sides of the United States. However, activists have pointed out that there are “Two Americas at 250.” In other words, there is a working-class history and culture that directly contradicts the imperialist project of the billionaire class. Therefore, we must study another soundtrack: one based on the struggles, desires, and traditions of the people. One person that represents this soundtrack is “America’s",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/2d222d889608db4a98c842af.json"
-    },
-    {
-      "id": "67f861c05447529b4b461a7d",
-      "title": "India must return to its roots and recover its voice",
-      "url": "https://breakthroughnews.org/2026/09/16/india-must-return-to-its-roots-and-recover-its-voice",
-      "author": "Atul Chandra",
-      "source": "BT News",
-      "published_at": "2026-09-16T00:38:57+00:00",
-      "content_excerpt": "At the BRICS Business Forum in Bharat Mandapam on Friday, Russian President Vladimir Putin read out the numbers. The eleven members of this grouping now produce more than 40% of the world’s output. The G7 produces 29. Over the last five years, BRICS countries generated more than half of all global growth . The G7 managed 18%. Narendra Modi, speaking at the same event, added that the bloc is home to half of humanity and a quarter of world trade. This is not rhetoric. The center of gravity of the world economy has moved, and India is in the chair while it happens. Now recall something else that took place in that same hall. On May 24 of this year, US Secretary of State Marco Rubio sat down in Bharat Mandapam for an interview with India Today . Asked about Iran’s closure of the Strait of Horm",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/67f861c05447529b4b461a7d.json"
+      "article_path": "articles/fd9d153e292fe6c033ac864f.json"
     }
   ]
 }
