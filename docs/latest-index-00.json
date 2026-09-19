@@ -1,12 +1,72 @@
 {
-  "generated_at": "2026-09-18T21:46:36.430509+00:00",
-  "generated_at_jst": "2026-09-19T06:46:36.430509+09:00",
-  "period_start": "2026-09-17T15:46:36.430509+00:00",
+  "generated_at": "2026-09-19T21:36:51.469216+00:00",
+  "generated_at_jst": "2026-09-20T06:36:51.469216+09:00",
+  "period_start": "2026-09-18T15:36:51.469216+00:00",
   "lookback_hours": 30,
   "folder": "00_毎日確認",
-  "article_count": 14,
+  "article_count": 10,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "06d08993b7d8600f845b5f53",
+      "title": "The Uprising Wastes a Good Class-Struggle Story",
+      "url": "https://www.inoreader.com/article/3a9c6e767d9372f9",
+      "author": "Jeremy Gong",
+      "source": "Jacobin",
+      "published_at": "2026-09-19T17:00:45+00:00",
+      "content_excerpt": "In 1381, more than a hundred thousand poor English people rose up demanding an end to serfdom. During the uprising, they killed a coterie of hated government officials, and, in turn, the fourteen-year-old King Richard II massacred thousands of them. The best-remembered figure of the English Peasants’ Revolt is one of its leaders, John Ball, whose speeches and sermons captured the spirit of what would eventually, centuries later, develop into socialism. “When Adam delved and Eve span, who was then the gentleman?” he famously asked, meaning that in the Garden of Eden, the Bible’s first people labored only for their own sustenance, with no concepts of lords and serfs. As a socialist and fan of medieval period pieces, I was excited to see the new film The Uprising , which dramatizes the Englis",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/06d08993b7d8600f845b5f53.json"
+    },
+    {
+      "id": "483fb460d6de685c03e56fbc",
+      "title": "The Prospects for a 2028 May Day Mass Strike",
+      "url": "https://www.inoreader.com/article/3a9c6e767d9a272d",
+      "author": "Luis Feliz Leon",
+      "source": "Jacobin",
+      "published_at": "2026-09-19T15:59:38+00:00",
+      "content_excerpt": "Three years ago, the United Auto Workers (UAW), glowing with confidence after a successful strike at the Big Three and pledging ambitious new organizing drives, put out a call for a national strike on May 1, 2028. UAW President Shawn Fain called for unions to align their contracts with the Big Three to build leverage and create a crisis for the billionaire class. It was a new day in the UAW, and a wider labor renewal felt possible. May 2028 is now only a year and a half away. Are unions getting in gear for a season of strikes and labor action around then, as contracts expire in manufacturing, education, logistics, grocery, and the building trades? Some are. Labor Notes has found 830,000 workers with contracts planned or expected to expire from March to July 2028 (see illustration below). T",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/483fb460d6de685c03e56fbc.json"
+    },
+    {
+      "id": "6b7150aa7ef24870e289848d",
+      "title": "American Reality Is Beyond Parody, but Satire Isn’t Dead",
+      "url": "https://www.inoreader.com/article/3a9c6e767d806537",
+      "author": "Michael G. Vann",
+      "source": "Jacobin",
+      "published_at": "2026-09-19T14:59:17+00:00",
+      "content_excerpt": "A specter is haunting contemporary American satire: the specter of reality. This specter poses an existential threat to comedy as social critique. How do you make jokes in this era of hyperabsurdity? Donald Trump’s two administrations sandwiched four years of Joe Biden mumbling incoherently as he stumbling around. Corporations speak in the language of therapy, and airlines charge passengers for micro-comforts while advertising travel as an expression of personal freedom. Billionaires promise to colonize Mars while American cities see their bridges collapse. Streamers make a career out of broadcasting themselves gambling, eating, fighting, shopping, hurling insults, and slowly losing their minds. Kash Patel exists. The late Roman spectacle of a physically repulsive imperial leader planning ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/6b7150aa7ef24870e289848d.json"
+    },
+    {
+      "id": "cd027c0b1a83ad026b52be54",
+      "title": "France’s Left Faces the 2027 Election Divided",
+      "url": "https://www.inoreader.com/article/3a9c6e767d749445",
+      "author": "Marlon Ettinger",
+      "source": "Jacobin",
+      "published_at": "2026-09-19T12:56:32+00:00",
+      "content_excerpt": "Over Christmastime 2018, Jean-Luc Mélenchon met for lunch with Raphaël Glucksmann in France’s National Assembly. Mélenchon was an MP at the time, fresh off his strong 2017 presidential run for France Insoumise. Glucksmann was a liberal essayist with a murky background advising sometimes-dubious politicians in countries like Ukraine and Georgia, producing documentaries about human rights issues while looking to get into politics himself. The conversation stayed light and nonconfrontational, and they were joined by the former Socialist Emmanuel Maurel (at that time supportive of France Insoumise), and Thomas Porcher, an economist who’d voted for Mélenchon the year before. Porcher would go on to cofound Glucksmann’s new electoral outfit, called Place Publique, later that year. This new format",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/cd027c0b1a83ad026b52be54.json"
+    },
     {
       "id": "ba58a899635197870ea20b30",
       "title": "Debating Victor Serge",
@@ -96,126 +156,6 @@
       "priority": 1,
       "date_missing": false,
       "article_path": "articles/a43e83c0d923b530c8f9ada7.json"
-    },
-    {
-      "id": "31278e7a522e946e9c2fea4c",
-      "title": "Frances Stonor Saunders Exposed the Cultural Cold War",
-      "url": "https://www.inoreader.com/article/3a9c6e767ef732a5",
-      "author": "Joel Whitney",
-      "source": "Jacobin",
-      "published_at": "2026-09-18T15:13:40+00:00",
-      "content_excerpt": "With her landmark 1999 debut, Who Paid the Piper? The CIA and the Cultural Cold War , Frances Stonor Saunders “single-handedly established a new branch of sub-history,” as novelist Ian McEwan observed. The book won many accolades, though sympathizers of Western anti-communism clamored to downplay its revelations: that between 1950 and 1967, intelligence agencies partnered in a covert front, launched by the Central Intelligence Agency (CIA), to manipulate Cold War intellectuals in a program whose basis was propaganda and censorship. With abstract art exhibits and classical music tours, the CIA’s Congress for Cultural Freedom also founded dozens of intellectual magazines (most famously Encounter in London) while its associated fronts funded press agencies, anti-communist student activists an",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/31278e7a522e946e9c2fea4c.json"
-    },
-    {
-      "id": "810cc394c98ff26688a0a7de",
-      "title": "Is Trump Crashing the Dollar Empire?",
-      "url": "https://www.inoreader.com/article/3a9c6e767ee4b6a7",
-      "author": "Mona Ali",
-      "source": "Jacobin",
-      "published_at": "2026-09-18T13:42:38+00:00",
-      "content_excerpt": "With more than half of global trade conducted in dollars, the United States is still the world’s largest economy as well as its dominant military and political power. But Donald Trump, in his second presidential term, has put both these facts at unprecedented risk, using America’s global position for political gain and personal enrichment all while undermining the pillars of the nation’s financial dominance, such as the rule of law and the security of global trade flows. Yet according to economist Mona Ali, little of this behavior is truly new. The global financial system is, at its core, a political system, though Trump and his advisers are admittedly wielding this system more carelessly than any administration has in a generation. In a wide-ranging discussion, Ali explains who benefits f",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/810cc394c98ff26688a0a7de.json"
-    },
-    {
-      "id": "00bd74b2143c2089d910eb07",
-      "title": "Narratives of Imperfection: Revisiting Harper Lee’s To Kill a Mockingbird (1960) and Go Set a Watchman (2015)",
-      "url": "https://rocdsa.org/blog/narratives-of-imperfection-revisiting-harper-lees-to-kill-a-mockingbird-1960-and-go-set-a-watchman-2015",
-      "author": "Rochester Red Star: News from Rochester DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-09-18T13:17:07+00:00",
-      "content_excerpt": "by Travis Covitz This month, I re-read To Kill A Mockingbird by Harper Lee for the first time since my freshman year of high school (which overlapped with the first wave of Black Lives Matter uprisings). Mockingbird was written by Lee (a Southern white woman) in the early 1960s; it follows the girlhood of Jean Louise “Scout” Finch, who is white and the daughter of a lawyer, in Depression-era Alabama. A major plot point of the book is Scout’s father, Atticus Finch, defending a local Black man who has been charged with rape of a white woman. Atticus is posed as a noble white hero in contrast with the ‘backwards’ racists in the countryside. Reading in 2026, the juxtaposition of the police brutality in Ferguson and the lawfare in Mockingbird seems like it was just begging for commentary. But a",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/00bd74b2143c2089d910eb07.json"
-    },
-    {
-      "id": "d7114fb52be2de205e1a294d",
-      "title": "Social Democracy Won the Century and Lost the Future",
-      "url": "https://www.inoreader.com/article/3a9c6e767ee13a1f",
-      "author": "Bhaskar Sunkara",
-      "source": "Jacobin",
-      "published_at": "2026-09-18T13:12:04+00:00",
-      "content_excerpt": "On Sunday, Sweden’s Social Democratic Party (SAP) emerged as the largest party in an election that will be remembered for all the wrong reasons. Magdalena Andersson is poised to return as prime minister, with her four-party bloc holding a one-seat majority in a 349-seat Riksdag. The SAP won just 28 percent of the vote, its worst showing in more than 110 years. This is what victory looks like today for the most electorally successful left-of-center party in history. The SAP went from pioneering social democratic governance, ruling almost uninterruptedly for nearly half a century, and even debating the transfer of large firms to worker ownership to serving as a fading bulwark against the far right, with little more than a quarter of the electorate behind it. The Swedish “model” can only be d",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/d7114fb52be2de205e1a294d.json"
-    },
-    {
-      "id": "03c393fc6532848a1e80cf39",
-      "title": "Hold Your Nose And Vote",
-      "url": "https://democraticleft.dsausa.org/2026/09/18/hold-your-nose-and-vote",
-      "author": "tfrasca@yahoo.com",
-      "source": "Democratic Left",
-      "published_at": "2026-09-18T12:51:40+00:00",
-      "content_excerpt": "“Red All Over” — an occasional roundup of media coverage of DSA The post Hold Your Nose And Vote appeared first on Democratic Left .",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/03c393fc6532848a1e80cf39.json"
-    },
-    {
-      "id": "4db798fcea78a834b81430ce",
-      "title": "Your National Political Committee newsletter — Cool Fall Organizing",
-      "url": "https://www.dsausa.org/news/sep2026_npc_newsletter",
-      "author": "DSA National: NPC Dispatch and Newsletter",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-09-17T20:08:15+00:00",
-      "content_excerpt": "Enjoy your September National Political Committee (NPC) newsletter! Our NPC is an elected 27-person body (including both YDSA Co-Chairs) which functions as the board of directors of DSA. This month, hear about hot labor updates, organizing trainings, volunteer opportunities, and more! And to make sure you get our newsletters in your inbox, sign up here! Each one features action alerts, upcoming events, political education, and more. From the National Political Committee — Cool Fall Organizing Sunday 9/27 — How Should DSA Respond to Data Centers? RSVP for our DSA Labor Call! Work for DSA! Application Deadlines Begin Friday 9/18 Sign Up for Fall 2026 Emergency Tenant Organizing Committee Training Series! Classes Begin Saturday 10/24 Mutual Aid Working Group Reforms Disaster Relief Committee ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/4db798fcea78a834b81430ce.json"
-    },
-    {
-      "id": "3cce10b3fe0db32221b6f98e",
-      "title": "Why Black Socialists Opposed Marcus Garvey",
-      "url": "https://www.inoreader.com/article/3a9c6e767e59d265",
-      "author": "Paul Prescod",
-      "source": "Jacobin",
-      "published_at": "2026-09-17T16:01:18+00:00",
-      "content_excerpt": "Africa loomed large in the vision of Marcus Garvey and his followers. In May 1920, the Universal Negro Improvement Association (UNIA) Executive Council decided to send a delegation to Liberia to explore the prospects for settlement and development. UNIA Resident Secretary in Liberia Elie Garcia wrote to President Charles D. B. King that they wanted to “establish trade routes, through a line of steamships, etc., to encourage emigration to build up the country, to transfer its Headquarters to Liberia, to bring with it medical and scientific units, etc.” He asked for “written assurance that every facility will be given it to procure lands for business, agriculture, and industrial purposes. In return the Organization with its vast membership will lend financial and moral support to the Governm",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/3cce10b3fe0db32221b6f98e.json"
-    },
-    {
-      "id": "87c762deadb7ce04fc1a4e5f",
-      "title": "Southern Gothic Films Take On the Horrors of the Past",
-      "url": "https://www.inoreader.com/article/3a9c6e767e59d257",
-      "author": "Eileen Jones",
-      "source": "Jacobin",
-      "published_at": "2026-09-17T16:01:18+00:00",
-      "content_excerpt": "One of the films featured in the Criterion Channel’s “Southern Gothic” series is Baby Doll (1956). It’s based on Tennessee Williams’s one-act plays 27 Wagons Full of Cotton and The Unsatisfactory Supper , which Williams adapted for the screen in collaboration with the most famous interpreter of his work, director Elia Kazan. It begins with the lurid, sexed-up horns of Kenyon Hopkins’s score vamping as if in accompaniment to a strip show as we approach a grimly dilapidated Mississippi plantation house with grimy pillars like the post–Civil War plantation in Gone with the Wind . And there we have in a single film moment a perfect summation of the Southern Gothic. It’s a subgenre that takes a sensationalistic, yet critical and modern, revisionist approach to the culture of the contemporary Am",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/87c762deadb7ce04fc1a4e5f.json"
     }
   ]
 }

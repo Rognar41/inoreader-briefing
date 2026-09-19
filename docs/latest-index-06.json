@@ -1,12 +1,117 @@
 {
-  "generated_at": "2026-09-18T21:46:36.430509+00:00",
-  "generated_at_jst": "2026-09-19T06:46:36.430509+09:00",
-  "period_start": "2026-09-17T15:46:36.430509+00:00",
+  "generated_at": "2026-09-19T21:36:51.469216+00:00",
+  "generated_at_jst": "2026-09-20T06:36:51.469216+09:00",
+  "period_start": "2026-09-18T15:36:51.469216+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
-  "article_count": 20,
+  "article_count": 17,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "f1c194d2466146348aa5b6d5",
+      "title": "A Rhetorical History of Modern Money Theory with John T. Harvey",
+      "url": "https://mronline.org/2026/09/19/170410",
+      "author": "Scott Ferguson",
+      "source": "MR Online",
+      "published_at": "2026-09-19T18:38:03+00:00",
+      "content_excerpt": "We speak with John T. Harvey about a new article he co-wrote with Billy Saas titled, “A Rhetorical History of Modern Money Theory,” out this month in the September 2026 issue of the Journal of Economic Issues. Harvey is Hal Wright Professor of Economics at Texas Christian University. We discuss his recent publication in the context of his broader career in heterodox economics. The post A Rhetorical History of Modern Money Theory with John T. Harvey appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/f1c194d2466146348aa5b6d5.json"
+    },
+    {
+      "id": "8c14ced21dfc540ad96d004a",
+      "title": "Modernisation does not mean capitalism: The Thirty-Eighth Newsletter (2026)",
+      "url": "https://mronline.org/2026/09/19/modernisation-does-not-mean-capitalism-the-thirty-eighth-newsletter-2026",
+      "author": "Vijay Prashad",
+      "source": "MR Online",
+      "published_at": "2026-09-19T13:01:47+00:00",
+      "content_excerpt": "For the Global South, development cannot be achieved by imitating the capitalist West; it requires breaking imperialist dependency through the defence of sovereignty, socialist planning, and the transformation of social relations. The post Modernisation does not mean capitalism: The Thirty-Eighth Newsletter (2026) appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/8c14ced21dfc540ad96d004a.json"
+    },
+    {
+      "id": "aa6321353562c830304b078e",
+      "title": "How China cracks down on billionaires w/ Ben Norton",
+      "url": "https://breakthroughnews.org/2026/09/18/how-china-cracks-down-on-billionaires-w-ben-norton",
+      "author": "Amanda Yee",
+      "source": "BT News",
+      "published_at": "2026-09-19T12:15:02+00:00",
+      "content_excerpt": "China is cracking down on billionaires and corruption. Following the landmark sentencing of Evergrande founder Hui Ka Yan (Xu Jiayin) to life in prison and the seizure of his assets, independent journalist Ben Norton joins Amanda Yee to break down President Xi Jinping’s ongoing anti-corruption campaign and how a socialist government disciplines capital. Norton explains how in China, capital may create wealth, but the Communist Party maintains control over the steering wheel of the economy. And while Western regulatory systems often protect private oligarchy and corporate impunity, Xi Jinping since 2012 has taken aggressive action against high-profile tycoons and corrupt Party officials alike. Norton is a Beijing-based journalist and the founder and editor of Geopolitical Economy Report.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/aa6321353562c830304b078e.json"
+    },
+    {
+      "id": "79d37806b80261ff404bb71a",
+      "title": "Antarctic, Greenland Sheets have melted enough since the ‘70s to cover U.S. in 5 feet of ice",
+      "url": "https://mronline.org/2026/09/19/antarctic-greenland-sheets-have-melted-enough-since-the-70s-to-cover-u-s-in-5-feet-of-ice",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-09-19T12:01:09+00:00",
+      "content_excerpt": "“With every additional centimeter of sea-level rise,” the lead author noted, “about 2 to 3 million people are put at risk of annual coastal flooding.” The post Antarctic, Greenland Sheets have melted enough since the ‘70s to cover U.S. in 5 feet of ice appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/79d37806b80261ff404bb71a.json"
+    },
+    {
+      "id": "93d230bc44e1d63c6a0348c5",
+      "title": "Cars out, weapons in at Volkswagen’s Osnabrück factory",
+      "url": "https://mronline.org/2026/09/19/cars-out-weapons-in-at-volkswagens-osnabruck-factory",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-09-19T11:00:30+00:00",
+      "content_excerpt": "Volkswagen’s plant in Osnabrück, Germany, is running out of cars. Weapons production is moving in. The post Cars out, weapons in at Volkswagen’s Osnabrück factory appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/93d230bc44e1d63c6a0348c5.json"
+    },
+    {
+      "id": "c2494876b52dcc373685e9e6",
+      "title": "Ecuador: Criminal submission",
+      "url": "https://mronline.org/2026/09/19/ecuador-criminal-submission",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-09-19T10:30:30+00:00",
+      "content_excerpt": "A chilling aspect of the assault on the people of Ecuador is that it is led by an individual against whom there is strong evidence of links to large-scale drug trafficking: between 2020 and 2025, at least eight large shipments of cocaine—camouflaged in banana crates belonging to the Noboa family and destined for Europe—were seized. The post Ecuador: Criminal submission appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/c2494876b52dcc373685e9e6.json"
+    },
+    {
+      "id": "d38013f04aa739b0374461ff",
+      "title": "Displaced Chagossians are among victims of Iran war",
+      "url": "https://mronline.org/2026/09/19/displaced-chagossians-are-among-victims-of-iran-war",
+      "author": "Jeremy Kuzmarov",
+      "source": "MR Online",
+      "published_at": "2026-09-19T09:28:24+00:00",
+      "content_excerpt": "The Trump administration is blocking an agreement that would allow Chagossians who were displaced 60 years ago to return to their homeland. The post Displaced Chagossians are among victims of Iran war appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/d38013f04aa739b0374461ff.json"
+    },
     {
       "id": "6a8976ec339d1c43dfe67d03",
       "title": "Saudi Arabia just lost big in Yemen — Will Trump intervene?",
@@ -156,156 +261,6 @@
       "priority": 2,
       "date_missing": false,
       "article_path": "articles/106801436295c24b877337d5.json"
-    },
-    {
-      "id": "dbf96c573b8389289017e343",
-      "title": "“Inequality Emergency”: Ahead of U.N. General Assembly, Oxfam Urges Action on Climate, AI & Gaza",
-      "url": "https://www.democracynow.org/2026/9/18/amitabh_behar_unga",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-09-18T15:05:52+00:00",
-      "content_excerpt": "As world leaders prepare to head to New York for the United Nations General Assembly and Climate Week, Democracy Now! speaks with Amitabh Behar, executive director of Oxfam International. “We live in a very different world from 1945,” when the U.N. was formed, says Behar. “You cannot continue with the veto power.” And with António Guterres soon stepping down, Behar stresses that the United Nations’ next secretary-general must be a woman — “a fundamental shift we need to make.” He also argues that while the world is “torn apart” by inequality, “there are real possibilities of change.” Behar cites the G20’s International Panel on Inequality and “movements across the world” aimed at “changing regimes,” including in Sri Lanka, Nepal, Bangladesh and India.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/dbf96c573b8389289017e343.json"
-    },
-    {
-      "id": "6b00750ec3905ea92602793f",
-      "title": "“Hope Is the Thing with Feathers”: Rhiannon Giddens on New Album, AI, Ed Sheeran, Macklemore & Trump",
-      "url": "https://www.democracynow.org/2026/9/18/hope_is_the_thing_with_feathers",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-09-18T15:05:52+00:00",
-      "content_excerpt": "“If we don’t connect those dots between the struggles, we’re never going to get anywhere,” says Pulitzer Prize- and Grammy-winning multi-instrumentalist Rhiannon Giddens. “That’s what music is for. … We have to make music with people from different backgrounds because then we have that conversation.” Giddens has had a wide-spanning career, including her time with the Carolina Chocolate Drops, an old-time Black string band, and her work as a musical consultant on Ryan Coogler’s landmark film Sinners . She won a Pulitzer Prize for music in 2023 for her opera Omar about Omar ibn Said, a Muslim scholar in Africa who was sold into slavery in the 1800s. Her new album, Hope Is the Thing with Feathers , comes out on Friday.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/6b00750ec3905ea92602793f.json"
-    },
-    {
-      "id": "ba1d7fd8e24dd28eb4c2a313",
-      "title": "“We Are the 99%”: 15 Years Later, Occupy Wall Street’s Impact Is Still Being Felt",
-      "url": "https://www.democracynow.org/2026/9/18/yotam_marom",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-09-18T15:05:52+00:00",
-      "content_excerpt": "Fifteen years ago this week, thousands of activists marched on the Financial District in New York City. They formed the Occupy Wall Street encampment in Zuccotti Park, launching a movement focused on economic inequality that spread across the nation and globe under the slogan, “We are the 99%.” Protesters would go on to sleep in Zuccotti Park for nearly two months before police raided the encampment. “Occupy Wall Street changed the public’s common sense about class and class struggle and inequality in this country,” says Yotam Marom, who helped organize the Occupy protests in New York City. “It’s hard to see how you get a Bernie Sanders 2016 run without the public shifting its relationship to that story.” Marom says Occupy participants were inspired by mass protests happening around the wo",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/ba1d7fd8e24dd28eb4c2a313.json"
-    },
-    {
-      "id": "804e4a3fce1a9a676cebfda9",
-      "title": "“End Times Fascism”: Naomi Klein & Astra Taylor on Billionaires, Bunkers, AI, Gaza & the Far Right",
-      "url": "https://mronline.org/2026/09/18/end-times-fascism-naomi-klein-astra-taylor-on-billionaires-bunkers-ai-gaza-the-far-right",
-      "author": "Amy Goodman",
-      "source": "MR Online",
-      "published_at": "2026-09-18T13:05:02+00:00",
-      "content_excerpt": "Naomi Klein and Astra Taylor launch their new book, End Times Fascism: And the Fight for the Living World on Democracy Now! It examines how wealthy elites are preparing for “the end of the world,” even as they contribute to growing inequality, political instability and the climate crisis. The rise of modern-day fascism is “not simply a rerun,” explains Klein. “We don’t believe that history repeats on a loop. We believe that we’re in something more like a sequel, where the logics of fascism, which are the logics of dehumanization, of othering, of racial supremacy and hierarchy, are now being applied in a time of global existential crisis.” In response, says Taylor, the growing movement seeking to resist this fatalistic vision “fundamentally needs to be grounded in a desire to stay here on E",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/804e4a3fce1a9a676cebfda9.json"
-    },
-    {
-      "id": "bfda526ebdfb1cc443c6c828",
-      "title": "The university’s deportable workers",
-      "url": "https://mronline.org/2026/09/18/the-universitys-deportable-workers",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-09-18T12:04:50+00:00",
-      "content_excerpt": "International students occupy a peculiar position within the contemporary university. The post The university’s deportable workers appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/bfda526ebdfb1cc443c6c828.json"
-    },
-    {
-      "id": "e6cbf09b1045b342b491635c",
-      "title": "Pentagon’s secret plan: Reviving Cold War doctrines to lower the threshold for nuclear war",
-      "url": "https://mronline.org/2026/09/18/pentagons-secret-plan-reviving-cold-war-doctrines-to-lower-the-threshold-for-nuclear-war",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-09-18T11:04:46+00:00",
-      "content_excerpt": "The American public will need many more voices and new collective efforts to erect more barriers to nuclear war, not give a president more options for starting one. The post Pentagon’s secret plan: Reviving Cold War doctrines to lower the threshold for nuclear war appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/e6cbf09b1045b342b491635c.json"
-    },
-    {
-      "id": "002a7af1dffd3f6614edccac",
-      "title": "Riyadh phones Tel Aviv: From petro-power to palace panic",
-      "url": "https://mronline.org/2026/09/18/riyadh-phones-tel-aviv-from-petro-power-to-palace-panic",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-09-18T10:03:49+00:00",
-      "content_excerpt": "For decades, the Saudi state cultivated the mythology of sovereignty while constructing one of the most elaborate systems of strategic dependency in modern history. The post Riyadh phones Tel Aviv: From petro-power to palace panic appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/002a7af1dffd3f6614edccac.json"
-    },
-    {
-      "id": "51097e692e86ab6f3d25dc6a",
-      "title": "How to Understand Key Terms in Large Language Models",
-      "url": "https://thetricontinental.org/how-to-understand-key-terms-in-large-language-models",
-      "author": "",
-      "source": "[:en]THE TRICONTINENTAL[:es]TRICONTINENTAL[:]",
-      "published_at": "2026-09-18T09:44:48+00:00",
-      "content_excerpt": "When you use AI to write, read reports, or work with files, you may encounter terms such as token , context , and agent . These terms help explain what happens when you give an AI application a task: what information it can use, how it produces a response, and whether it can take actions such as searching for sources or saving a document. This guide introduces the main terms related to large language models (LLMs) through practical examples. It begins with how models process information, then explains how to give them instructions and reference material, how tools and agents carry out tasks, and how to organise ongoing work. It also introduces ways to access models through other software or run them on your own equipment. 1. How Language Models Work Large Language Models A large language m",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/51097e692e86ab6f3d25dc6a.json"
-    },
-    {
-      "id": "203b9dd55459652b73fe9556",
-      "title": "‘You can pay off many, you can’t pay off me’: How solidarity brought Ed Sheeran low",
-      "url": "https://mronline.org/2026/09/18/you-can-pay-off-many-you-cant-pay-off-me-how-solidarity-brought-ed-sheeran-low",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-09-18T09:03:37+00:00",
-      "content_excerpt": "The axing of Macklemore from Ed Sheeran’s tour is the latest attempt by pro-Israel pressure to push back on an argument that’s lost, but solidarity wins over fear, argues Dave Randall The post ‘You can pay off many, you can’t pay off me’: How solidarity brought Ed Sheeran low appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/203b9dd55459652b73fe9556.json"
-    },
-    {
-      "id": "fd9d153e292fe6c033ac864f",
-      "title": "Robert Kraft: the Zionist billionaire who tried to cancel Macklemore",
-      "url": "https://breakthroughnews.org/2026/09/17/robert-kraft-the-zionist-billionaire-who-tried-to-cancel-macklemore",
-      "author": "Zoe Alexandra",
-      "source": "BT News",
-      "published_at": "2026-09-18T02:00:37+00:00",
-      "content_excerpt": "Robert Kraft tapped friend Jeffrey Epstein for legal advice after he was charged in a Florida police sting targeting suspected human trafficking. Zoe Alexandra traces the legacy of scandals and crimes behind the billionaire Zionist and owner of Gillette Stadium – and ostensible destroyer of Ed Sheeran’s career – after Kraft pushed NFL stadium owners to drop Macklemore from the Loop Tour for speaking out on Gaza at MetLife Stadium. From an alleged AI surveillance command center at Gillette, to winning Israel’s Genesis Prize, to the Blue Square Alliance/Foundation to Combat Antisemitism and his ties with Friends of the IDF — this is the story of the American billionaire who bankrolled a decades-long “Speak Out for Israel” campaign to silence criticism, and how his latest attempt has backfire",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/fd9d153e292fe6c033ac864f.json"
     }
   ]
 }
