@@ -1,12 +1,72 @@
 {
-  "generated_at": "2026-09-19T21:36:51.469216+00:00",
-  "generated_at_jst": "2026-09-20T06:36:51.469216+09:00",
-  "period_start": "2026-09-18T15:36:51.469216+00:00",
+  "generated_at": "2026-09-20T21:44:37.183627+00:00",
+  "generated_at_jst": "2026-09-21T06:44:37.183627+09:00",
+  "period_start": "2026-09-19T15:44:37.183627+00:00",
   "lookback_hours": 30,
   "folder": "00_毎日確認",
-  "article_count": 10,
+  "article_count": 6,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "6831752cd871a6cc11a30d3d",
+      "title": "How Intelligence Agencies Bend Universities to Their Will",
+      "url": "https://www.inoreader.com/article/3a9c6e767df7a493",
+      "author": "Hager Ben Jaffel",
+      "source": "Jacobin",
+      "published_at": "2026-09-20T13:10:26+00:00",
+      "content_excerpt": "With a series of US military operations underway over the past year, intelligence agencies have come under the spotlight again. Media coverage has tended to offer flattering narratives of their exploits, recounting the “ critical role ” played by the Central Intelligence Agency (CIA) in Nicolás Maduro’s kidnapping that makes it seem like a spy thriller . This fits into a wider tendency during the Trump era to repackage US power as a form of entertainment, drawing on action movies and video games to turn imperialist ventures into thrilling adventures. At the same time, former intelligence practitioners and professional associations have lamented the politicization of intelligence under the Trump administration, warning of its disastrous consequences for US national security. Taken together,",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/6831752cd871a6cc11a30d3d.json"
+    },
+    {
+      "id": "972cce4afd710fa816ca00ea",
+      "title": "Americans Are Turning to GoFundMe Just to Get By",
+      "url": "https://www.inoreader.com/article/3a9c6e767df7a486",
+      "author": "Branko Marcetic",
+      "source": "Jacobin",
+      "published_at": "2026-09-20T13:10:26+00:00",
+      "content_excerpt": "At this point, you have to have been trapped in space for the last two years not to notice that the cost of living is onerously high. Or you could just be the Treasury secretary . In any case, there’s no shortage of metrics that show Americans are struggling: rising credit card delinquencies , a spike in foreclosure filings , surging demand for food banks, or the growing number of high-income Americans deciding to shop at budget stores like Dollar Tree. Alternatively, you could just look at GoFundMe. In October last year, GoFundMe CEO Tim Cadogan disclosed that the category the company calls “essentials,” which he defined as “things like rent, utility bills, car payments, sort of your basic things you need to get through life,” had “gone up significantly in the last three years” virtually ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/972cce4afd710fa816ca00ea.json"
+    },
+    {
+      "id": "61809c6186af59f1026d291b",
+      "title": "The Killer AI Robots Are Already Here",
+      "url": "https://www.inoreader.com/article/3a9c6e767df7a475",
+      "author": "Robert Sparrow",
+      "source": "Jacobin",
+      "published_at": "2026-09-20T13:10:26+00:00",
+      "content_excerpt": "Over the last few weeks, panic about artificial intelligence has reached a fever pitch. AI industry whistleblowers as well as politicians like Bernie Sanders are sounding the alarm about the potential for an AI-driven apocalypse and the need to slow down or pause further development of the technology. But lest we forget, AI is in fact already killing human beings, thanks to the increasing deployment of autonomous weapons systems in warfare. A recent high-profile incident, covered by the New York Times last month, saw three Ukrainian civilians killed by an AI-guided drone. An AI system has also infamously been used to select targets in Israel’s genocidal assault on Gaza. Robert Sparrow is a professor of philosophy at Monash University who has written extensively on the ethics of warfare and",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/61809c6186af59f1026d291b.json"
+    },
+    {
+      "id": "54cf22189d91e5ebf10f445b",
+      "title": "Duck! A Call for Submissions",
+      "url": "https://reformandrevolution.org/2026/09/19/duck-a-call-for-submissions",
+      "author": "",
+      "source": "Reform & Revolution",
+      "published_at": "2026-09-19T21:39:30+00:00",
+      "content_excerpt": "\"Stormtroopers Advance Under a Gas Attack\", Otto Dix, 1924. Debates & Interviews / DSA / History & Theory Submission Call: 9/19/2026 Submission Due Date: 10/15/2026 Contact and Submission Address: reformandrevolutiondsa@gmail.com Introduction Reform & Revolution’s (R&R) publication, Reform & Revolution , requests submissions to its 24 th issue, tentatively titled Duck! . Since the end of 2025, the periodical Geese – self-described as a ‘daily review of American Communism’ – has released articles and editorials spanning myriad practical and theoretical issues facing America’s left. In Geese’s July 9 th , 2026, piece “Towards Active Revolution: Where to Begin? The Permanent Campaign,” writer P.K. Gandakin implores interested activists to ‘start putting [your ideas] down on paper’; this issue",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/54cf22189d91e5ebf10f445b.json"
+    },
     {
       "id": "06d08993b7d8600f845b5f53",
       "title": "The Uprising Wastes a Good Class-Struggle Story",
@@ -36,126 +96,6 @@
       "priority": 1,
       "date_missing": false,
       "article_path": "articles/483fb460d6de685c03e56fbc.json"
-    },
-    {
-      "id": "6b7150aa7ef24870e289848d",
-      "title": "American Reality Is Beyond Parody, but Satire Isn’t Dead",
-      "url": "https://www.inoreader.com/article/3a9c6e767d806537",
-      "author": "Michael G. Vann",
-      "source": "Jacobin",
-      "published_at": "2026-09-19T14:59:17+00:00",
-      "content_excerpt": "A specter is haunting contemporary American satire: the specter of reality. This specter poses an existential threat to comedy as social critique. How do you make jokes in this era of hyperabsurdity? Donald Trump’s two administrations sandwiched four years of Joe Biden mumbling incoherently as he stumbling around. Corporations speak in the language of therapy, and airlines charge passengers for micro-comforts while advertising travel as an expression of personal freedom. Billionaires promise to colonize Mars while American cities see their bridges collapse. Streamers make a career out of broadcasting themselves gambling, eating, fighting, shopping, hurling insults, and slowly losing their minds. Kash Patel exists. The late Roman spectacle of a physically repulsive imperial leader planning ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/6b7150aa7ef24870e289848d.json"
-    },
-    {
-      "id": "cd027c0b1a83ad026b52be54",
-      "title": "France’s Left Faces the 2027 Election Divided",
-      "url": "https://www.inoreader.com/article/3a9c6e767d749445",
-      "author": "Marlon Ettinger",
-      "source": "Jacobin",
-      "published_at": "2026-09-19T12:56:32+00:00",
-      "content_excerpt": "Over Christmastime 2018, Jean-Luc Mélenchon met for lunch with Raphaël Glucksmann in France’s National Assembly. Mélenchon was an MP at the time, fresh off his strong 2017 presidential run for France Insoumise. Glucksmann was a liberal essayist with a murky background advising sometimes-dubious politicians in countries like Ukraine and Georgia, producing documentaries about human rights issues while looking to get into politics himself. The conversation stayed light and nonconfrontational, and they were joined by the former Socialist Emmanuel Maurel (at that time supportive of France Insoumise), and Thomas Porcher, an economist who’d voted for Mélenchon the year before. Porcher would go on to cofound Glucksmann’s new electoral outfit, called Place Publique, later that year. This new format",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/cd027c0b1a83ad026b52be54.json"
-    },
-    {
-      "id": "ba58a899635197870ea20b30",
-      "title": "Debating Victor Serge",
-      "url": "https://www.inoreader.com/article/3a9c6e767d2d59eb",
-      "author": "Mitchell Abidor",
-      "source": "Jacobin",
-      "published_at": "2026-09-18T20:14:25+00:00",
-      "content_excerpt": "When I began writing Victor Serge: Unruly Revolutionary , I expected to write a biography in keeping with the image common on the left of Serge as an uncompromising enemy of Stalinism who never fell into anti-communism and fought all his life for revolutionary socialism. This is what we find in the many writings of Richard Greeman, who single-handedly rescued Serge from oblivion by translating his novels and tirelessly writing about him. In fact, my biography began as a collaboration between me and Richard, one we abandoned due to differences in interpretation. Suzi Weissman presents that image as well in her biography of Serge, The Course Is Set on Hope . A fuller account of this Serge was what I thought I was going to write. Things did not turn out that way. I worked mainly from primary ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/ba58a899635197870ea20b30.json"
-    },
-    {
-      "id": "e26c1487d167e3ae9a75267c",
-      "title": "Flock Off: How Westland DSA Members Pushed Flock Cameras Out of Their City",
-      "url": "https://medium.com/dsa-detroit-newspaper/flock-off-how-westland-dsa-members-pushed-flock-cameras-out-of-their-city-87d4f2f4793e?source=rss-160b7baee925------2",
-      "author": "Detroit DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-09-18T19:21:10+00:00",
-      "content_excerpt": "By filling city council meetings, educating the public on mass surveillance, and cooperating with like-minded allies, DSA members in Westland shot down a Flock contract renewal. By Dave N. and Kathy E. In July 2024 the city of Westland signed up for a trial run with Flock Safety that would last until August 2026. Flock’s cameras are Automated License Plate Readers (ALPR) that mark the date, time, and location where a vehicle passes. Flock claims that its technology does not scan human faces, but its cameras are able to fingerprint cars based on minute details like rust or bumper stickers. The technology is similar to that used in facial recognition software. These services are sold to law enforcement and advertised to cities as a tool for safety (e.g. tracking stolen vehicles or resolving ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/e26c1487d167e3ae9a75267c.json"
-    },
-    {
-      "id": "f06e5e9ca56f871b53efb331",
-      "title": "Stiffing Workers, Rationing Toilet Paper: Who Really Makes WPI Run?",
-      "url": "https://working-mass.com/2026/09/18/stiffing-workers-rationing-toilet-paper-who-really-makes-wpi-run",
-      "author": "Working Mass: The Massachusetts DSA Labor Outlet",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-09-18T19:21:10+00:00",
-      "content_excerpt": "Resident Advisors on strike in 2024 take their picket line to Earle Bridge. Worcester DSA members join with a banner that reads: “Workers on strike, unite and fight!” By: Julia Z & Jake S WORCESTER – Students have returned to Worcester Polytechnic Institute (WPI). Freshmen are being shuttled through new student orientation, professors are dusting off their syllabi, and returning students have long soaked in their remaining days of freedom. Many new students were no doubt won over by WPI’s aggressive promotion of its cutting-edge Robotics Engineering, Computer Science, and AI undergraduate programs along with its highly-celebrated R1 Research University status. Many are surely excited for the “project-based learning” described by eager campus tour guides, ready to sell them a vision of high",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/f06e5e9ca56f871b53efb331.json"
-    },
-    {
-      "id": "06aedab3fa4a79e65c02229e",
-      "title": "Six Hail Marys: Thoughts of an ICU RN",
-      "url": "https://redfault.com/six-hail-marys",
-      "author": "Red Fault -- Austin DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-09-18T19:21:10+00:00",
-      "content_excerpt": "By Asanti M. The conversation surrounding healthcare access is more than an abstraction of cost and risk, it’s life and death, and people are dying. I know because I’ve pronounced them. I know because I’ve cleaned their lifeless bodies. The burdens of the ailing are only compounded by the general disservice of our institutional frameworks. The nebulous jargon tossed around boardrooms and between pundits materializes in the financial reality that confronts the humanity of the unfortunate and the ailing. I’ve seen eyes full of pain, the walls of life crumbling around them, forced to discuss the finances of death, because let me be clear, dying is a very expensive endeavor hear in the States, and God forbid you attempt to hold on to life! The junction of societal divides is never so transpare",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/06aedab3fa4a79e65c02229e.json"
-    },
-    {
-      "id": "4f15159dc9a679a726be040e",
-      "title": "Socialists Can Never Win — Until We Do",
-      "url": "https://redfault.com/socialists-can-never-win-until-we-do",
-      "author": "Red Fault -- Austin DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-09-18T19:21:10+00:00",
-      "content_excerpt": "By Nolan R. This article was originally published in Democratic Left: Find it here We all know the narrative by now: socialists are too radical, fringe, and unpopular to win any kind of lasting power. “Enjoy your time in the sun, lefties, because any moment now the hammer of reasonable, moderate thought will come crashing down and send you back to the depths of political obscurity with your collective tail tucked between your legs.” Variations of this line are repeated constantly across the country by national media and prominent members of both parties. They repeat it like a mantra, both because they need it to be true and because they would rather eat glass than honestly engage with our ideas. Unfortunately for them, the recent streak of socialist victories has proven there is immense hu",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/4f15159dc9a679a726be040e.json"
-    },
-    {
-      "id": "a43e83c0d923b530c8f9ada7",
-      "title": "Texas Wasn’t Always a Right-Wing Evangelical Powerhouse",
-      "url": "https://www.inoreader.com/article/3a9c6e767d00a9f8",
-      "author": "David Griscom",
-      "source": "Jacobin",
-      "published_at": "2026-09-18T16:44:06+00:00",
-      "content_excerpt": "There’s a common view of religious history that holds that the further back you go, the stronger the smell of brimstone and the more conservative the beliefs. It isn’t true, and it obscures how much the human hand makes the world, including our ideas of the sacred. Joseph L. Locke’s new book One State Under God: A History of Religion in Texas is an important reminder that the conservative evangelical Christianity that dominates Texas, and through it has consolidated its influence over the country, was not a natural outgrowth of Christianity itself, but a product of historical developments. Texas today is at the forefront of the campaign to tear down the wall between church and state. The Bible has been reintroduced in Texas classrooms, along with a new law requiring classrooms to display t",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/a43e83c0d923b530c8f9ada7.json"
     }
   ]
 }

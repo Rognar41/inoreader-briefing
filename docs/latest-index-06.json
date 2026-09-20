@@ -1,12 +1,72 @@
 {
-  "generated_at": "2026-09-19T21:36:51.469216+00:00",
-  "generated_at_jst": "2026-09-20T06:36:51.469216+09:00",
-  "period_start": "2026-09-18T15:36:51.469216+00:00",
+  "generated_at": "2026-09-20T21:44:37.183627+00:00",
+  "generated_at_jst": "2026-09-21T06:44:37.183627+09:00",
+  "period_start": "2026-09-19T15:44:37.183627+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
-  "article_count": 17,
+  "article_count": 5,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "2dd62f35737010520ea61e23",
+      "title": "Sudan gold mine collapse leaves more than 80 dead",
+      "url": "https://breakthroughnews.org/2026/09/20/sudan-gold-mine-collapse-leaves-more-than-80-dead",
+      "author": "Nicholas Mwangi",
+      "source": "BT News",
+      "published_at": "2026-09-20T15:26:08+00:00",
+      "content_excerpt": "At least 82 bodies had been recovered, according to local officials and activists, while dozens of other miners were feared trapped or missing. The latest figure represents an increase from the 67 deaths earlier reported by the Sudan Doctors Network as rescue operations continued. The collapse occurred in an area controlled by the paramilitary Rapid Support Forces (RSF), which has been fighting Sudan’s military since April 2023. The continuing war has severely weakened state institutions and access to basic services across large parts of the country. Limited rescue efforts In a statement , the Sudan Doctors Network said they lacked basic safety and protective measures required at mining sites. It said search and rescue operations were continuing to locate survivors and people trapped benea",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/2dd62f35737010520ea61e23.json"
+    },
+    {
+      "id": "6b26241725f5471f005caf66",
+      "title": "Press TV condemns Israeli abduction of West Bank correspondent Naqaa Hamed",
+      "url": "https://breakthroughnews.org/2026/09/20/press-tv-condemns-israeli-abduction-of-west-bank-correspondent-naqaa-hamed",
+      "author": "Abdul Rahman",
+      "source": "BT News",
+      "published_at": "2026-09-20T15:26:08+00:00",
+      "content_excerpt": "Iranian news outlet Press TV called the detention of its West Bank correspondent Naqaa Hamed by the Israeli forces an “aggressive terrorist operation” aimed at silencing the truth about its occupation and genocide of Palestinians. It demanded the immediate intervention of the international community for her release. “The desperate attempt by the Zionist war and security machine to block the flow of free news and boycott structured crimes in the West Bank is clear evidence of the occupier’s fear of independent” reporters “who expose widespread human right violations,” the Press TV statement , published on Thursday, September 17, said. Naqaa Hamed was abducted by the Israeli armed forces from a checkpoint at Tuqu, near Bethlehem, in the occupied Palestinian territory on September 15. She, al",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/6b26241725f5471f005caf66.json"
+    },
+    {
+      "id": "a68690104f6b5b6a45e29299",
+      "title": "Health workers demand action against genocide and militarization at ManiFiesta 2026",
+      "url": "https://breakthroughnews.org/2026/09/20/health-workers-demand-action-against-genocide-and-militarization-at-manifiesta-2026",
+      "author": "Peoples Health Dispatch",
+      "source": "BT News",
+      "published_at": "2026-09-20T15:26:08+00:00",
+      "content_excerpt": "Health is always a prominent topic at Belgium’s ManiFiesta, a two-day festival organized by the Workers’ Party of Belgium (PTB) in the beginning of September. Discussions range from the organization of health services or workshops led by progressive health organizations like Medics for the People (MPLP-GVHV) and Viva Salud. This September, the program covered local priorities such as health coverage and hospital reform – along with Israel’s ongoing assault on Gaza’s healthcare system and the threat of militarization across Europe. Health workers should oppose rearmament Addressing the question of why health workers should be concerned by Europe’s armament drive, Juliette Mattijsen of the People’s Health Movement (PHM), Nadja Rakowitz of the Association of Democratic Doctors (vdää*) in Germ",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/a68690104f6b5b6a45e29299.json"
+    },
+    {
+      "id": "afbb21a6eac2a1782936347e",
+      "title": "Recolonization is taking place, says Guyana’s former president",
+      "url": "https://breakthroughnews.org/2026/09/20/recolonization-is-taking-place-says-guyanas-former-president",
+      "author": "BreakThrough News",
+      "source": "BT News",
+      "published_at": "2026-09-20T15:26:08+00:00",
+      "content_excerpt": "Latin America and the Caribbean countries are being re-colonized. This time it is not by Britain, the Netherlands, Spain, France, and Portugal, but by the United States. At a period of time the United States had an anti-colonial position and had advocated for the ending of colonialism. That was one of the features of the Monroe Doctrine that has become somewhat obscured since the US became so bellicose. Today, in a de facto way it has become a super colonial power. It is imposing its will on regions and countries. Those that stand up for their rights are sanctioned, destabilized and sometimes physically removed. The fact that it used its military might to kidnap a sitting president, President Maduro of Venezuela , is a clear indication that the United States has decided to ignore internati",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/afbb21a6eac2a1782936347e.json"
+    },
     {
       "id": "f1c194d2466146348aa5b6d5",
       "title": "A Rhetorical History of Modern Money Theory with John T. Harvey",
@@ -21,246 +81,6 @@
       "priority": 2,
       "date_missing": false,
       "article_path": "articles/f1c194d2466146348aa5b6d5.json"
-    },
-    {
-      "id": "8c14ced21dfc540ad96d004a",
-      "title": "Modernisation does not mean capitalism: The Thirty-Eighth Newsletter (2026)",
-      "url": "https://mronline.org/2026/09/19/modernisation-does-not-mean-capitalism-the-thirty-eighth-newsletter-2026",
-      "author": "Vijay Prashad",
-      "source": "MR Online",
-      "published_at": "2026-09-19T13:01:47+00:00",
-      "content_excerpt": "For the Global South, development cannot be achieved by imitating the capitalist West; it requires breaking imperialist dependency through the defence of sovereignty, socialist planning, and the transformation of social relations. The post Modernisation does not mean capitalism: The Thirty-Eighth Newsletter (2026) appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/8c14ced21dfc540ad96d004a.json"
-    },
-    {
-      "id": "aa6321353562c830304b078e",
-      "title": "How China cracks down on billionaires w/ Ben Norton",
-      "url": "https://breakthroughnews.org/2026/09/18/how-china-cracks-down-on-billionaires-w-ben-norton",
-      "author": "Amanda Yee",
-      "source": "BT News",
-      "published_at": "2026-09-19T12:15:02+00:00",
-      "content_excerpt": "China is cracking down on billionaires and corruption. Following the landmark sentencing of Evergrande founder Hui Ka Yan (Xu Jiayin) to life in prison and the seizure of his assets, independent journalist Ben Norton joins Amanda Yee to break down President Xi Jinping’s ongoing anti-corruption campaign and how a socialist government disciplines capital. Norton explains how in China, capital may create wealth, but the Communist Party maintains control over the steering wheel of the economy. And while Western regulatory systems often protect private oligarchy and corporate impunity, Xi Jinping since 2012 has taken aggressive action against high-profile tycoons and corrupt Party officials alike. Norton is a Beijing-based journalist and the founder and editor of Geopolitical Economy Report.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/aa6321353562c830304b078e.json"
-    },
-    {
-      "id": "79d37806b80261ff404bb71a",
-      "title": "Antarctic, Greenland Sheets have melted enough since the ‘70s to cover U.S. in 5 feet of ice",
-      "url": "https://mronline.org/2026/09/19/antarctic-greenland-sheets-have-melted-enough-since-the-70s-to-cover-u-s-in-5-feet-of-ice",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-09-19T12:01:09+00:00",
-      "content_excerpt": "“With every additional centimeter of sea-level rise,” the lead author noted, “about 2 to 3 million people are put at risk of annual coastal flooding.” The post Antarctic, Greenland Sheets have melted enough since the ‘70s to cover U.S. in 5 feet of ice appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/79d37806b80261ff404bb71a.json"
-    },
-    {
-      "id": "93d230bc44e1d63c6a0348c5",
-      "title": "Cars out, weapons in at Volkswagen’s Osnabrück factory",
-      "url": "https://mronline.org/2026/09/19/cars-out-weapons-in-at-volkswagens-osnabruck-factory",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-09-19T11:00:30+00:00",
-      "content_excerpt": "Volkswagen’s plant in Osnabrück, Germany, is running out of cars. Weapons production is moving in. The post Cars out, weapons in at Volkswagen’s Osnabrück factory appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/93d230bc44e1d63c6a0348c5.json"
-    },
-    {
-      "id": "c2494876b52dcc373685e9e6",
-      "title": "Ecuador: Criminal submission",
-      "url": "https://mronline.org/2026/09/19/ecuador-criminal-submission",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-09-19T10:30:30+00:00",
-      "content_excerpt": "A chilling aspect of the assault on the people of Ecuador is that it is led by an individual against whom there is strong evidence of links to large-scale drug trafficking: between 2020 and 2025, at least eight large shipments of cocaine—camouflaged in banana crates belonging to the Noboa family and destined for Europe—were seized. The post Ecuador: Criminal submission appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/c2494876b52dcc373685e9e6.json"
-    },
-    {
-      "id": "d38013f04aa739b0374461ff",
-      "title": "Displaced Chagossians are among victims of Iran war",
-      "url": "https://mronline.org/2026/09/19/displaced-chagossians-are-among-victims-of-iran-war",
-      "author": "Jeremy Kuzmarov",
-      "source": "MR Online",
-      "published_at": "2026-09-19T09:28:24+00:00",
-      "content_excerpt": "The Trump administration is blocking an agreement that would allow Chagossians who were displaced 60 years ago to return to their homeland. The post Displaced Chagossians are among victims of Iran war appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/d38013f04aa739b0374461ff.json"
-    },
-    {
-      "id": "6a8976ec339d1c43dfe67d03",
-      "title": "Saudi Arabia just lost big in Yemen — Will Trump intervene?",
-      "url": "https://breakthroughnews.org/2026/09/18/saudi-arabia-just-lost-big-in-yemen-will-trump-intervene",
-      "author": "Zoe Alexandra",
-      "source": "BT News",
-      "published_at": "2026-09-18T20:05:25+00:00",
-      "content_excerpt": "Ansar Allah’s Red Sea wins last week torched Saudi’s decade-long strategy in Yemen – and the tens of billions it poured into trying to hold one of the world’s most vital shipping chokepoints. Shireen Al-Adeimi, Yemeni-born anti-war activist and Michigan State University professor, joins Zoe Alexandra to unpack what the seizure of Mokha and control of the Bab al-Mandeb Strait means for a global economy already brought to its knees by record $6/gallon diesel prices. With the Strait of Hormuz still slowed to a trickle by the US-Israeli war on Iran and Riyadh’s East-West pipeline offline, Al-Adeimi says it’s in the whole world’s interest to “push the Saudis to just end this war. Admit that you’ve lost, cut your losses, and move on.” She breaks down how Riyadh’s violation of the 2022 ceasefire ",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/6a8976ec339d1c43dfe67d03.json"
-    },
-    {
-      "id": "64d46ada00cc49e71a973f05",
-      "title": "Una pequeña victoria frente a los mapas que sitúan al Norte Global en el centro y empequeñecen a África.",
-      "url": "https://breakthroughnews.org/2026/09/18/guerras-de-mapas-la-victoria-de-una-tierra-equitativa-sobre-una-desigual",
-      "author": "Prabir Purkayastha",
-      "source": "BT News",
-      "published_at": "2026-09-18T19:05:02+00:00",
-      "content_excerpt": "Read in English here La semana pasada, el 4 de septiembre, la Asamblea General de las Naciones Unidas aprobó una propuesta africana para un nuevo mapa mundial, que muestra el tamaño real de los países en relación con los demás. Su objetivo es corregir la visión del mundo moldeada por el mapa mundial ampliamente utilizado basado en la proyección de Mercator, creada por Gerardus Mercator, un cartógrafo flamenco del siglo XVI. El problema con el mapa de Mercator es bien conocido; por ejemplo, muestra a la isla de Groenlandia con el mismo tamaño que el continente africano, ¡a pesar de que África es 14 veces más grande que Groenlandia! En pocas palabras, los mapas de Mercator exageran enormemente el norte del mundo —los Estados Unidos y Europa— mientras que reducen África y la mayor parte de As",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/64d46ada00cc49e71a973f05.json"
-    },
-    {
-      "id": "adaecde673748630ccdc9815",
-      "title": "A small victory against the maps which center the global north and shrink Africa",
-      "url": "https://breakthroughnews.org/2026/09/18/a-small-victory-against-the-maps-which-center-the-global-north-and-shrink-africa",
-      "author": "Prabir Purkayastha",
-      "source": "BT News",
-      "published_at": "2026-09-18T19:05:02+00:00",
-      "content_excerpt": "Lee en español aquí On September 4, the United Nations General Assembly adopted an African proposal for a new world map, which shows countries’ true size relative to one another. It aims to correct the view of the world shaped by the widely used world map based on the Mercator Projection, created by Gerardus Mercator, a 16th-century Flemish cartographer. The problem with the Mercator Map is well known; for example, it shows the island of Greenland as the same size as the African continent, even though Africa is 14 times the size of Greenland! Simply put, Mercator maps greatly exaggerate the global north – the US and Europe – while shrinking Africa and most of Asia. Nor does it treat the rest of the Southern Hemisphere kindly. South America, nearly three times the size of Europe, looks comp",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/adaecde673748630ccdc9815.json"
-    },
-    {
-      "id": "583afa7a06bcf73787ec8511",
-      "title": "A Predatory State: Excavating the Architecture of Zionist Depravity",
-      "url": "https://mronline.org/2026/09/18/a-predatory-state-excavating-the-architecture-of-zionist-depravity",
-      "author": "Diana Block",
-      "source": "MR Online",
-      "published_at": "2026-09-18T18:10:43+00:00",
-      "content_excerpt": "The Report makes clear that sexualized violence is not an episodic add-on to occupation and genocide. Rather, it is a foundational, legalized aspect of the Zionist project. The post A Predatory State: Excavating the Architecture of Zionist Depravity appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/583afa7a06bcf73787ec8511.json"
-    },
-    {
-      "id": "7d86780519679cd2d040bb3c",
-      "title": "Cumbre del BRICS+: entre promesas y contradicciones",
-      "url": "https://breakthroughnews.org/2026/09/18/cumbre-del-brics-entre-promesas-y-contradicciones",
-      "author": "Vijay Prashad",
-      "source": "BT News",
-      "published_at": "2026-09-18T18:05:20+00:00",
-      "content_excerpt": "Read in English here La 18va Cumbre del BRICS, celebrada en Nueva Delhi del 12 al 13 de septiembre, tuvo lugar en medio de una intensificación excepcional de las contradicciones internacionales. Las guerras en Asia Occidental, las sanciones unilaterales, las barreras arancelarias y el uso de las finanzas y la tecnología como armas han puesto de manifiesto el carácter fundamentalmente desigual del orden internacional dominado por el imperialismo. En este contexto, la continua expansión del BRICS refleja el deseo de los países en desarrollo de alcanzar una mayor autonomía estratégica y un sistema más democrático de gobernanza global. Al mismo tiempo, la cumbre demostró que el BRICS+ sigue siendo una agrupación heterogénea cuyos miembros difieren sustancialmente en sus alineamientos políticos",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/7d86780519679cd2d040bb3c.json"
-    },
-    {
-      "id": "6e4a2885410e7849943c6082",
-      "title": "India debe volver a sus raíces y recuperar su voz",
-      "url": "https://breakthroughnews.org/2026/09/17/india-debe-volver-a-sus-raices-y-recuperar-su-voz",
-      "author": "Atul Chandra",
-      "source": "BT News",
-      "published_at": "2026-09-18T18:05:20+00:00",
-      "content_excerpt": "Read in English here En el Foro Empresarial del BRICS celebrado el viernes en Bharat Mandapam, el presidente ruso, Vladimir Putin, dio a conocer las cifras. Los once miembros de este grupo producen actualmente más del 40% de la producción mundial. El G7 produce el 29%. En los últimos cinco años, los países del BRICS generaron más de la mitad de todo el crecimiento mundial . El G7 alcanzó el 18%. Narendra Modi, al intervenir en el mismo evento, agregó que el bloque alberga a la mitad de la humanidad y representa una cuarta parte del comercio mundial. Esto no es retórica. El centro de gravedad de la economía mundial se ha desplazado, y la India ocupa el puesto de liderazgo mientras esto ocurre. Ahora recuerden algo más que ocurrió en ese mismo salón. El 24 de mayo de este año, el secretario ",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/6e4a2885410e7849943c6082.json"
-    },
-    {
-      "id": "cf970f33378b8d8ed0db73fa",
-      "title": "Palestinians are responding to Israel’s stranglehold on the West Bank’s economy by forgiving each other’s debts en masse",
-      "url": "https://mondoweiss.net/2026/09/palestinians-are-responding-to-israels-stranglehold-on-the-west-banks-economy-by-forgiving-each-others-debts-en-masse",
-      "author": "Qassam Muaddi",
-      "source": "Mondoweiss",
-      "published_at": "2026-09-18T17:46:39+00:00",
-      "content_excerpt": "As Israel's financial strangulation of the Palestinian economy enters its third year, Palestinians are turning to each other — forgiving debts worth millions of shekels in a viral solidarity campaign that began with a schoolteacher's bounced check.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/cf970f33378b8d8ed0db73fa.json"
-    },
-    {
-      "id": "b66dbaa3b783b80e3976b793",
-      "title": "Inside Gaza’s death trap of collapsing, bombed-out buildings",
-      "url": "https://mondoweiss.net/2026/09/inside-gazas-death-trap-of-collapsing-bombed-buildings",
-      "author": "Mohamed Al-Astal",
-      "source": "Mondoweiss",
-      "published_at": "2026-09-18T17:17:45+00:00",
-      "content_excerpt": "With more than 40,000 Palestinians sheltering in collapse-prone buildings and a “nightmare” winter approaching, Gaza’s Civil Defense warns of a preventable catastrophe unfolding in plain sight.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/b66dbaa3b783b80e3976b793.json"
-    },
-    {
-      "id": "780d2e1136227f0609657d58",
-      "title": "BRICS+ Summit: between promises and contradictions",
-      "url": "https://breakthroughnews.org/2026/09/18/brics-summit-between-promises-and-contradictions",
-      "author": "Vijay Prashad",
-      "source": "BT News",
-      "published_at": "2026-09-18T17:05:27+00:00",
-      "content_excerpt": "Lee en español aquí The 18th BRICS Summit, held in New Delhi on September 12–13, occurred amid an exceptional intensification of international contradictions. Wars in West Asia, unilateral sanctions, tariff barriers, and the weaponization of finance and technology have exposed the fundamentally unequal character of the imperialist-dominated international order. Against this background, the continued expansion of BRICS reflects the desire of developing countries for greater strategic autonomy and a more democratic system of global governance. At the same time, the summit demonstrated that BRICS+ remains a heterogeneous grouping whose members differ substantially in their political alignments and economic interests. The New Delhi Declaration, the outcome of the summit, reiterated the demand ",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/780d2e1136227f0609657d58.json"
-    },
-    {
-      "id": "106801436295c24b877337d5",
-      "title": "21 displaced people killed in Gaza building collapse",
-      "url": "https://breakthroughnews.org/2026/09/18/21-displaced-people-killed-in-gaza-building-collapse",
-      "author": "Aseel Saleh",
-      "source": "BT News",
-      "published_at": "2026-09-18T16:04:15+00:00",
-      "content_excerpt": "The lethal repercussions of Israel’s three-year genocidal aggression on Gaza continue to unfold. Aside from Israel’s ongoing military assaults after the nominal ceasefire deal, the humanitarian crisis inflicted by the genocide – affecting food, sanitation, medication, and shelter – has become another driver of persistent fatalities. At least 21 Palestinians , including 12 children, died in the collapse of the Al-Saadah building in Gaza City on Wednesday, September 16, while 45 people were rescued from under the rubble. According to media reports , the building, already damaged by Israeli airstrikes, was housing 100 displaced people, amid a deepening shelter crisis caused by Israel’s ongoing restrictions on reconstruction materials and humanitarian aid. Read more: Israel escalates aggressio",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/106801436295c24b877337d5.json"
     }
   ]
 }
