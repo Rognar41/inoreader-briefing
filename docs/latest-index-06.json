@@ -1,86 +1,251 @@
 {
-  "generated_at": "2026-09-20T21:44:37.183627+00:00",
-  "generated_at_jst": "2026-09-21T06:44:37.183627+09:00",
-  "period_start": "2026-09-19T15:44:37.183627+00:00",
+  "generated_at": "2026-09-21T22:44:04.286279+00:00",
+  "generated_at_jst": "2026-09-22T07:44:04.286279+09:00",
+  "period_start": "2026-09-20T16:44:04.286279+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
-  "article_count": 5,
+  "article_count": 16,
   "excerpt_chars": 800,
   "articles": [
     {
-      "id": "2dd62f35737010520ea61e23",
-      "title": "Sudan gold mine collapse leaves more than 80 dead",
-      "url": "https://breakthroughnews.org/2026/09/20/sudan-gold-mine-collapse-leaves-more-than-80-dead",
-      "author": "Nicholas Mwangi",
+      "id": "e72e72e0f6469578041abbd1",
+      "title": "The AI frontier asks to be paced: anatomy of a panic",
+      "url": "https://breakthroughnews.org/2026/09/21/the-ai-frontier-asks-to-be-paced-anatomy-of-a-panic",
+      "author": "Bappa Sinha",
       "source": "BT News",
-      "published_at": "2026-09-20T15:26:08+00:00",
-      "content_excerpt": "At least 82 bodies had been recovered, according to local officials and activists, while dozens of other miners were feared trapped or missing. The latest figure represents an increase from the 67 deaths earlier reported by the Sudan Doctors Network as rescue operations continued. The collapse occurred in an area controlled by the paramilitary Rapid Support Forces (RSF), which has been fighting Sudan’s military since April 2023. The continuing war has severely weakened state institutions and access to basic services across large parts of the country. Limited rescue efforts In a statement , the Sudan Doctors Network said they lacked basic safety and protective measures required at mining sites. It said search and rescue operations were continuing to locate survivors and people trapped benea",
+      "published_at": "2026-09-21T21:34:03+00:00",
+      "content_excerpt": "On September 8, a 27-year-old researcher named Jacob Coxon, a few months into a job at Anthropic (a leading US AI company) after three years at OpenAI, announced his resignation on X . “Neither company is acting responsibly,” he wrote. “They are racing straight to self-improving superintelligence and gambling with our lives.” Within a day, the post had been read more than 100 million times. Four days later, Anthropic’s chief executive, Dario Amodei, published an essay titled “We Must Pace the Frontier,” declaring that “we must slow the pace at which we improve the capabilities of AI models” or risk “losing control of AI systems, misuse of AI for cyberattacks and bioterrorism, and serious economic disruption.” Within hours, Sam Altman of OpenAI agreed, Elon Musk posted “Dario is right,” and",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/2dd62f35737010520ea61e23.json"
+      "article_path": "articles/e72e72e0f6469578041abbd1.json"
     },
     {
-      "id": "6b26241725f5471f005caf66",
-      "title": "Press TV condemns Israeli abduction of West Bank correspondent Naqaa Hamed",
-      "url": "https://breakthroughnews.org/2026/09/20/press-tv-condemns-israeli-abduction-of-west-bank-correspondent-naqaa-hamed",
-      "author": "Abdul Rahman",
-      "source": "BT News",
-      "published_at": "2026-09-20T15:26:08+00:00",
-      "content_excerpt": "Iranian news outlet Press TV called the detention of its West Bank correspondent Naqaa Hamed by the Israeli forces an “aggressive terrorist operation” aimed at silencing the truth about its occupation and genocide of Palestinians. It demanded the immediate intervention of the international community for her release. “The desperate attempt by the Zionist war and security machine to block the flow of free news and boycott structured crimes in the West Bank is clear evidence of the occupier’s fear of independent” reporters “who expose widespread human right violations,” the Press TV statement , published on Thursday, September 17, said. Naqaa Hamed was abducted by the Israeli armed forces from a checkpoint at Tuqu, near Bethlehem, in the occupied Palestinian territory on September 15. She, al",
+      "id": "99ffc19bf8234499a44075fc",
+      "title": "No body, no death certificate: the bureaucratic limbo trapping the widows of Gaza’s missing men",
+      "url": "https://mondoweiss.net/2026/09/no-body-no-death-certificate-the-bureaucratic-limbo-trapping-the-widows-of-gazas-missing-men",
+      "author": "Enas Abu Ghayad",
+      "source": "Mondoweiss",
+      "published_at": "2026-09-21T20:49:25+00:00",
+      "content_excerpt": "In Gaza, women whose husbands are missing or buried under the rubble are facing a little-known crisis. Without death certificates for their husbands, they're locked out of bank accounts, aid, and custody rights, trapped in bureaucratic limbo amid genocide.",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/6b26241725f5471f005caf66.json"
+      "article_path": "articles/99ffc19bf8234499a44075fc.json"
     },
     {
-      "id": "a68690104f6b5b6a45e29299",
-      "title": "Health workers demand action against genocide and militarization at ManiFiesta 2026",
-      "url": "https://breakthroughnews.org/2026/09/20/health-workers-demand-action-against-genocide-and-militarization-at-manifiesta-2026",
-      "author": "Peoples Health Dispatch",
-      "source": "BT News",
-      "published_at": "2026-09-20T15:26:08+00:00",
-      "content_excerpt": "Health is always a prominent topic at Belgium’s ManiFiesta, a two-day festival organized by the Workers’ Party of Belgium (PTB) in the beginning of September. Discussions range from the organization of health services or workshops led by progressive health organizations like Medics for the People (MPLP-GVHV) and Viva Salud. This September, the program covered local priorities such as health coverage and hospital reform – along with Israel’s ongoing assault on Gaza’s healthcare system and the threat of militarization across Europe. Health workers should oppose rearmament Addressing the question of why health workers should be concerned by Europe’s armament drive, Juliette Mattijsen of the People’s Health Movement (PHM), Nadja Rakowitz of the Association of Democratic Doctors (vdää*) in Germ",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/a68690104f6b5b6a45e29299.json"
-    },
-    {
-      "id": "afbb21a6eac2a1782936347e",
-      "title": "Recolonization is taking place, says Guyana’s former president",
-      "url": "https://breakthroughnews.org/2026/09/20/recolonization-is-taking-place-says-guyanas-former-president",
-      "author": "BreakThrough News",
-      "source": "BT News",
-      "published_at": "2026-09-20T15:26:08+00:00",
-      "content_excerpt": "Latin America and the Caribbean countries are being re-colonized. This time it is not by Britain, the Netherlands, Spain, France, and Portugal, but by the United States. At a period of time the United States had an anti-colonial position and had advocated for the ending of colonialism. That was one of the features of the Monroe Doctrine that has become somewhat obscured since the US became so bellicose. Today, in a de facto way it has become a super colonial power. It is imposing its will on regions and countries. Those that stand up for their rights are sanctioned, destabilized and sometimes physically removed. The fact that it used its military might to kidnap a sitting president, President Maduro of Venezuela , is a clear indication that the United States has decided to ignore internati",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/afbb21a6eac2a1782936347e.json"
-    },
-    {
-      "id": "f1c194d2466146348aa5b6d5",
-      "title": "A Rhetorical History of Modern Money Theory with John T. Harvey",
-      "url": "https://mronline.org/2026/09/19/170410",
-      "author": "Scott Ferguson",
+      "id": "747186be9718ff50b124e280",
+      "title": "Where Do Superprofits Come From? On the Nature of Digital Capitalism",
+      "url": "https://mronline.org/2026/09/21/where-do-superprofits-come-from-on-the-nature-of-digital-capitalism",
+      "author": "Tony Andréani",
       "source": "MR Online",
-      "published_at": "2026-09-19T18:38:03+00:00",
-      "content_excerpt": "We speak with John T. Harvey about a new article he co-wrote with Billy Saas titled, “A Rhetorical History of Modern Money Theory,” out this month in the September 2026 issue of the Journal of Economic Issues. Harvey is Hal Wright Professor of Economics at Texas Christian University. We discuss his recent publication in the context of his broader career in heterodox economics. The post A Rhetorical History of Modern Money Theory with John T. Harvey appeared first on MR Online .",
+      "published_at": "2026-09-21T20:42:48+00:00",
+      "content_excerpt": "Digital capitalism is merely a new form of exploitation that has become widespread by spilling out of the company itself to encompass the mass of its users or customers. The post Where Do Superprofits Come From? On the Nature of Digital Capitalism appeared first on MR Online .",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/f1c194d2466146348aa5b6d5.json"
+      "article_path": "articles/747186be9718ff50b124e280.json"
+    },
+    {
+      "id": "40ec90d23835c8d458fed209",
+      "title": "Collaboration, not confrontation: Xi Jinping’s visit to the United States",
+      "url": "https://breakthroughnews.org/2026/09/21/collaboration-not-confrontation-xi-jinpings-visit-to-the-united-states",
+      "author": "Vijay Prashad",
+      "source": "BT News",
+      "published_at": "2026-09-21T19:34:29+00:00",
+      "content_excerpt": "President Xi Jinping is set to visit to the United States from September 23-25. His visit must be understood as more than an encounter between two heads of state, but it must be seen as an encounter between two possible futures. In one future, the United States imposes a spiral of confrontation against China. Trade disputes harden into economic warfare, then economic warfare intensifies into technological blockades, technological blockades produce military encirclement, and finally military encirclement creates incidents, and incidents the danger of becoming an unimaginable war. In the other future, the two countries accept that neither can destroy the other without destroying much of humanity. They recognize that coexistence is not an act of charity and collaboration is not a concession. ",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/40ec90d23835c8d458fed209.json"
+    },
+    {
+      "id": "e7c44977399ac6c33faf1573",
+      "title": "Brazil’s presidential campaign heats up",
+      "url": "https://breakthroughnews.org/2026/09/21/brazils-presidential-campaign-heats-up",
+      "author": "Pablo Meriguet",
+      "source": "BT News",
+      "published_at": "2026-09-21T18:35:06+00:00",
+      "content_excerpt": "On October 4, nearly 160 million Brazilians will go to the polls to elect their next president, vice president, members of Congress, governors, and state legislators from the country’s various states. If no presidential candidate receives more than 50% of the valid votes, a runoff election will be held on October 25. At this time, 13 presidential candidates are vying for the presidency in Brasília, although polls clearly point to two candidates vying for the presidency of Latin America’s most economically powerful country. On one side is Brazil’s current president, the former union leader and progressive Luis Inácio Lula da Silva. Lula served as president from 2003 to 2011 with very high approval ratings, although following corruption allegations, he was imprisoned and sentenced to nine ye",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/e7c44977399ac6c33faf1573.json"
+    },
+    {
+      "id": "9659347e74bf31cee28c7b44",
+      "title": "Walking on Two Legs: The Socialism of Chinese Modernisation",
+      "url": "https://thetricontinental.org/dossier-chinese-modernisation",
+      "author": "",
+      "source": "[:en]THE TRICONTINENTAL[:es]TRICONTINENTAL[:]",
+      "published_at": "2026-09-21T14:56:06+00:00",
+      "content_excerpt": "The artwork in this dossier was produced by Tricontinental: Institute for Social Research. Socialism is the path that the Chinese people chose to enter modernity. As President Xi Jinping stated at the 20th National Congress of the Communist Party of China, ‘Chinese modernisation is socialist modernisation pursued under the leadership of the Communist Party of China’. 1 In China, ‘modernisation’ (现代化) is understood in dialectical opposition to the ‘century of humiliation’ (百年国耻), the period of imperialist subjugation that extended from the First Opium War (1839–1842) until the victory of the Chinese Revolution in 1949. Chinese modernisation refers to a progressive historical process rooted in China’s particular conditions and directed towards socialism. The Chinese conception of modernisati",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/9659347e74bf31cee28c7b44.json"
+    },
+    {
+      "id": "80be3817dc1c1b59d287b4b8",
+      "title": "“War on the Press”: Trump Bans CNN, MS NOW & Politico from White House over Critical Coverage",
+      "url": "https://www.democracynow.org/2026/9/21/white_house_press",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-09-21T14:13:04+00:00",
+      "content_excerpt": "News organizations CNN , MS NOW and Politico are suing the Trump administration over the banning of their reporters from the White House on Friday. Their credentials were confiscated or deactivated when they attempted to enter White House grounds over the weekend. Trump’s decision is “sending the message that if you write stories that are critical of the president, you’re going to lose your access,” says Katie Fallow, a deputy litigation director at Columbia University’s Knight First Amendment Institute, where she focuses on threats to freedom of speech and of the press. “The real victims of this war on the press are members of the public, which are entitled to know about what their government is doing.” Fallow says the White House press briefing room is a “public forum” and that “the cour",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/80be3817dc1c1b59d287b4b8.json"
+    },
+    {
+      "id": "0803331d07bec5321e7448ee",
+      "title": "“Extraordinary Rendition All Over Again”: U.S. Deportees Sent to Equatorial Guinea Beaten, Imprisoned",
+      "url": "https://www.democracynow.org/2026/9/21/equatorial_guinea_deportation",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-09-21T14:13:04+00:00",
+      "content_excerpt": "Two men deported from the United States to Equatorial Guinea were arrested by local police forces and transferred to a prison earlier this month, in apparent retaliation for speaking out about conditions they faced in the Central African country. Samson Birhane, who is from Eritrea, and Ahmed Soliman, a gay asylum seeker from Egypt, were both deported by the Trump administration despite U.S. immigration courts granting them protections. On September 11, police forces arrived at Hotel Bamy in the city of Malabo, where more than two dozen people have been confined after their deportation from the United States to Equatorial Guinea, a country they have no ties to, as part of President Trump’s secretive “third-country” agreements . Birhane and Soliman say they were arrested and taken to prison",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/0803331d07bec5321e7448ee.json"
+    },
+    {
+      "id": "87f40cd4edfe6813cc1cc3fa",
+      "title": "“America, Who Hurt You?”: Emmy-Winning Performer Sarah Jones on New NY Solo Show & Art as Resistance",
+      "url": "https://www.democracynow.org/2026/9/21/america_who_hurt_you",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-09-21T14:13:04+00:00",
+      "content_excerpt": "Sarah Jones has been described as “a one-woman global village” for her remarkable one-person, multi-character shows. The Tony- and Obie Award-winning writer and performer is best known for her Broadway hit Bridge and Tunnel . She is back in New York with her latest solo performance, America, Who Hurt You? , which is being presented by the National Black Theatre and the Theatre for a New Audience at Polonsky Shakespeare Center in Brooklyn. America, Who Hurt You? “starts with our history of genocide as a country, our history of enslaving African people, our history of indentured servitude,” says Jones. “This show … is about restoring the history that has intentionally been erased.”",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/87f40cd4edfe6813cc1cc3fa.json"
+    },
+    {
+      "id": "8865da4a1dfd7855fba0fde6",
+      "title": "U.S. Court to review Venezuela’s First Lady Cilia Flores’ pretrial release request on October 8 (+CODEPINK)",
+      "url": "https://mronline.org/2026/09/21/u-s-court-to-review-venezuelas-first-lady-cilia-flores-pretrial-release-request-on-october-8-codepink",
+      "author": "Orinoco Tribune",
+      "source": "MR Online",
+      "published_at": "2026-09-21T13:09:23+00:00",
+      "content_excerpt": "Flores filed her application on September 9, requesting permission to await trial under strict home detention because of what her lawyers describe as a serious and continuously deteriorating cardiac condition. The post U.S. Court to review Venezuela’s First Lady Cilia Flores’ pretrial release request on October 8 (+CODEPINK) appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/8865da4a1dfd7855fba0fde6.json"
+    },
+    {
+      "id": "10f644e74db96b98fae9304c",
+      "title": "Inside Israel’s ‘soft’ ethnic cleansing plan for Gaza through the eyes of its victims",
+      "url": "https://mondoweiss.net/2026/09/inside-israels-soft-ethnic-cleansing-plan-for-gaza-through-the-eyes-of-its-victims",
+      "author": "Tareq S. Hajjaj",
+      "source": "Mondoweiss",
+      "published_at": "2026-09-21T13:08:41+00:00",
+      "content_excerpt": "Through embassy evacuations, academic fellowships, and WHO medical corridors, Palestinians are leaving Gaza in small but steady numbers. Israeli officials call it \"voluntary migration,\" but the Gazans forced to leave know it's part of Israel's plan.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/10f644e74db96b98fae9304c.json"
+    },
+    {
+      "id": "ab1b4650d75112451b48033d",
+      "title": "Climate change for capitalists",
+      "url": "https://mronline.org/2026/09/21/climate-change-for-capitalists",
+      "author": "John Clarke",
+      "source": "MR Online",
+      "published_at": "2026-09-21T12:08:47+00:00",
+      "content_excerpt": "Capitalists have long been aware of the consequences of fossil-fuel use, but the profit system requires them to seek to benefit from it, or escape it as individuals, explains John Clarke. The post Climate change for capitalists appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/ab1b4650d75112451b48033d.json"
+    },
+    {
+      "id": "db3f28612446a7c828e52d97",
+      "title": "Black radicalism and the return of the “subversive negro”",
+      "url": "https://mronline.org/2026/09/21/black-radicalism-and-the-return-of-the-subversive-negro",
+      "author": "Ajamu Baraka",
+      "source": "MR Online",
+      "published_at": "2026-09-21T11:07:13+00:00",
+      "content_excerpt": "NSPM-7 and the State Department's international campaign against \"far-left political terrorism\" represent new and more dangerous forms of domestic repression in the 21st century, while reconstructing the historical figure of the \"subversive Negro\" as a national security threat. The post Black radicalism and the return of the “subversive negro” appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/db3f28612446a7c828e52d97.json"
+    },
+    {
+      "id": "a289848a753af9a5f6aaadd2",
+      "title": "The weaponisation of the dollar",
+      "url": "https://mronline.org/2026/09/21/the-weaponisation-of-the-dollar",
+      "author": "Prabhat Patnaik",
+      "source": "MR Online",
+      "published_at": "2026-09-21T10:06:34+00:00",
+      "content_excerpt": "The Bretton Woods system institutionalized the U.S. dollar as a global reserve currency, with the U.S. pledging to buy and sell gold from foreign governments and central banks at a fixed price of $35 per ounce of gold. The post The weaponisation of the dollar appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/a289848a753af9a5f6aaadd2.json"
+    },
+    {
+      "id": "7f99d4793c0332429161ae18",
+      "title": "Letters from the American empire",
+      "url": "https://mronline.org/2026/09/21/letters-from-the-american-empire-september-17-2026",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-09-21T09:06:12+00:00",
+      "content_excerpt": "The attacks on the United States precipitated what the Indian Marxist Aijaz Ahmad called in an eponymous essay and book, “the imperialism of our time.” The post Letters from the American empire appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/7f99d4793c0332429161ae18.json"
+    },
+    {
+      "id": "5b338402dabd8aa045dbe90c",
+      "title": "Troops for Gaza, bases near the Red Sea: Somaliland’s bid for recognition",
+      "url": "https://breakthroughnews.org/2026/09/21/troops-for-gaza-bases-near-the-red-sea-somalilands-bid-for-recognition",
+      "author": "Pavan Kulkarni",
+      "source": "BT News",
+      "published_at": "2026-09-21T02:33:17+00:00",
+      "content_excerpt": "This content is for members only. Visit the site and log in/register to read.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/5b338402dabd8aa045dbe90c.json"
     }
   ]
 }

@@ -1,101 +1,311 @@
 {
-  "generated_at": "2026-09-20T21:44:37.183627+00:00",
-  "generated_at_jst": "2026-09-21T06:44:37.183627+09:00",
-  "period_start": "2026-09-19T15:44:37.183627+00:00",
+  "generated_at": "2026-09-21T22:44:04.286279+00:00",
+  "generated_at_jst": "2026-09-22T07:44:04.286279+09:00",
+  "period_start": "2026-09-20T16:44:04.286279+00:00",
   "lookback_hours": 30,
   "folder": "00_毎日確認",
-  "article_count": 6,
+  "article_count": 20,
   "excerpt_chars": 800,
   "articles": [
     {
-      "id": "6831752cd871a6cc11a30d3d",
-      "title": "How Intelligence Agencies Bend Universities to Their Will",
-      "url": "https://www.inoreader.com/article/3a9c6e767df7a493",
-      "author": "Hager Ben Jaffel",
-      "source": "Jacobin",
-      "published_at": "2026-09-20T13:10:26+00:00",
-      "content_excerpt": "With a series of US military operations underway over the past year, intelligence agencies have come under the spotlight again. Media coverage has tended to offer flattering narratives of their exploits, recounting the “ critical role ” played by the Central Intelligence Agency (CIA) in Nicolás Maduro’s kidnapping that makes it seem like a spy thriller . This fits into a wider tendency during the Trump era to repackage US power as a form of entertainment, drawing on action movies and video games to turn imperialist ventures into thrilling adventures. At the same time, former intelligence practitioners and professional associations have lamented the politicization of intelligence under the Trump administration, warning of its disastrous consequences for US national security. Taken together,",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/6831752cd871a6cc11a30d3d.json"
-    },
-    {
-      "id": "972cce4afd710fa816ca00ea",
-      "title": "Americans Are Turning to GoFundMe Just to Get By",
-      "url": "https://www.inoreader.com/article/3a9c6e767df7a486",
-      "author": "Branko Marcetic",
-      "source": "Jacobin",
-      "published_at": "2026-09-20T13:10:26+00:00",
-      "content_excerpt": "At this point, you have to have been trapped in space for the last two years not to notice that the cost of living is onerously high. Or you could just be the Treasury secretary . In any case, there’s no shortage of metrics that show Americans are struggling: rising credit card delinquencies , a spike in foreclosure filings , surging demand for food banks, or the growing number of high-income Americans deciding to shop at budget stores like Dollar Tree. Alternatively, you could just look at GoFundMe. In October last year, GoFundMe CEO Tim Cadogan disclosed that the category the company calls “essentials,” which he defined as “things like rent, utility bills, car payments, sort of your basic things you need to get through life,” had “gone up significantly in the last three years” virtually ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/972cce4afd710fa816ca00ea.json"
-    },
-    {
-      "id": "61809c6186af59f1026d291b",
-      "title": "The Killer AI Robots Are Already Here",
-      "url": "https://www.inoreader.com/article/3a9c6e767df7a475",
-      "author": "Robert Sparrow",
-      "source": "Jacobin",
-      "published_at": "2026-09-20T13:10:26+00:00",
-      "content_excerpt": "Over the last few weeks, panic about artificial intelligence has reached a fever pitch. AI industry whistleblowers as well as politicians like Bernie Sanders are sounding the alarm about the potential for an AI-driven apocalypse and the need to slow down or pause further development of the technology. But lest we forget, AI is in fact already killing human beings, thanks to the increasing deployment of autonomous weapons systems in warfare. A recent high-profile incident, covered by the New York Times last month, saw three Ukrainian civilians killed by an AI-guided drone. An AI system has also infamously been used to select targets in Israel’s genocidal assault on Gaza. Robert Sparrow is a professor of philosophy at Monash University who has written extensively on the ethics of warfare and",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/61809c6186af59f1026d291b.json"
-    },
-    {
-      "id": "54cf22189d91e5ebf10f445b",
-      "title": "Duck! A Call for Submissions",
-      "url": "https://reformandrevolution.org/2026/09/19/duck-a-call-for-submissions",
+      "id": "7b956d26d4bb8bf0104e7f17",
+      "title": "Our Experiences are Interconnected, Regardless of Citizenship - The Forge",
+      "url": "https://forgeorganizing.org/article/our-experiences-are-interconnected-regardless-of-citizenship",
       "author": "",
-      "source": "Reform & Revolution",
-      "published_at": "2026-09-19T21:39:30+00:00",
-      "content_excerpt": "\"Stormtroopers Advance Under a Gas Attack\", Otto Dix, 1924. Debates & Interviews / DSA / History & Theory Submission Call: 9/19/2026 Submission Due Date: 10/15/2026 Contact and Submission Address: reformandrevolutiondsa@gmail.com Introduction Reform & Revolution’s (R&R) publication, Reform & Revolution , requests submissions to its 24 th issue, tentatively titled Duck! . Since the end of 2025, the periodical Geese – self-described as a ‘daily review of American Communism’ – has released articles and editorials spanning myriad practical and theoretical issues facing America’s left. In Geese’s July 9 th , 2026, piece “Towards Active Revolution: Where to Begin? The Permanent Campaign,” writer P.K. Gandakin implores interested activists to ‘start putting [your ideas] down on paper’; this issue",
+      "source": "The Forge",
+      "published_at": "2026-09-21T20:33:49+00:00",
+      "content_excerpt": "The politics of divide and conquer are as present as ever, and so how do we gather all that has happened already and take that technology that we have developed — that comes from our creativity, that comes from our hearts, that comes from our spiritual spaces, that comes from our learnings of being in community, and being on these battlefields together — and sharpen those tools? Miski Noor: Nana, I want to start with the fact that your organizing experience is both deep and wide. And so, I’d like to just start with grounding us there. Please tell us what brings you to this work. Nana Gyamfi: I come to this work because it’s part of the work of Black liberation, which is really important to me. It’s been my life’s work in different ways and forms, whether it has been as an organizer coming ",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/54cf22189d91e5ebf10f445b.json"
+      "article_path": "articles/7b956d26d4bb8bf0104e7f17.json"
     },
     {
-      "id": "06d08993b7d8600f845b5f53",
-      "title": "The Uprising Wastes a Good Class-Struggle Story",
-      "url": "https://www.inoreader.com/article/3a9c6e767d9372f9",
-      "author": "Jeremy Gong",
+      "id": "373bc2c707d9d64e8cbeb36d",
+      "title": "Zach Cregger Made a Resident Evil Movie With Bite",
+      "url": "https://www.inoreader.com/article/3a9c6e767cb379ea",
+      "author": "Eileen Jones",
       "source": "Jacobin",
-      "published_at": "2026-09-19T17:00:45+00:00",
-      "content_excerpt": "In 1381, more than a hundred thousand poor English people rose up demanding an end to serfdom. During the uprising, they killed a coterie of hated government officials, and, in turn, the fourteen-year-old King Richard II massacred thousands of them. The best-remembered figure of the English Peasants’ Revolt is one of its leaders, John Ball, whose speeches and sermons captured the spirit of what would eventually, centuries later, develop into socialism. “When Adam delved and Eve span, who was then the gentleman?” he famously asked, meaning that in the Garden of Eden, the Bible’s first people labored only for their own sustenance, with no concepts of lords and serfs. As a socialist and fan of medieval period pieces, I was excited to see the new film The Uprising , which dramatizes the Englis",
+      "published_at": "2026-09-21T17:27:54+00:00",
+      "content_excerpt": "Zach Cregger’s horror-comedy Resident Evil is a real blast of a movie, fast, funny, scary, and inspired. Only an exuberant film lover could come up with such a gleefully inventive ninety-five-minute thrill ride as this one. I gather that Cregger is a fan of the Resident Evil video game franchise. That seems like the only possible explanation for why the acclaimed director of highly praised non-IP horror hits Weapons (2025) and Barbarian (2022), who presumably has a blank check to make any horror-related movie he wants, would choose to make the eighth Resident Evil entry in the twenty-four-year-old franchise. The reason certainly isn’t his love for the previous films. In an interview, he was unable to define what his version of Resident Evil is in relation to the rest of the movies — “A seq",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/06d08993b7d8600f845b5f53.json"
+      "article_path": "articles/373bc2c707d9d64e8cbeb36d.json"
     },
     {
-      "id": "483fb460d6de685c03e56fbc",
-      "title": "The Prospects for a 2028 May Day Mass Strike",
-      "url": "https://www.inoreader.com/article/3a9c6e767d9a272d",
-      "author": "Luis Feliz Leon",
+      "id": "54bbe811980a9650f5a4a9f8",
+      "title": "German Centrists Are Smearing Die Linke as Antisemites",
+      "url": "https://www.inoreader.com/article/3a9c6e767cb379e9",
+      "author": "Nimrod Flaschenberg",
       "source": "Jacobin",
-      "published_at": "2026-09-19T15:59:38+00:00",
-      "content_excerpt": "Three years ago, the United Auto Workers (UAW), glowing with confidence after a successful strike at the Big Three and pledging ambitious new organizing drives, put out a call for a national strike on May 1, 2028. UAW President Shawn Fain called for unions to align their contracts with the Big Three to build leverage and create a crisis for the billionaire class. It was a new day in the UAW, and a wider labor renewal felt possible. May 2028 is now only a year and a half away. Are unions getting in gear for a season of strikes and labor action around then, as contracts expire in manufacturing, education, logistics, grocery, and the building trades? Some are. Labor Notes has found 830,000 workers with contracts planned or expected to expire from March to July 2028 (see illustration below). T",
+      "published_at": "2026-09-21T17:27:54+00:00",
+      "content_excerpt": "Let’s be clear: Die Linke, Germany’s leading left-wing force, which resoundingly won Sunday’s elections in Berlin, is not an antisemitic party. It does not have an “antisemitism problem,” nor is it a menace to Jews in Germany or Berlin. While some Jews in the city perceive the Left as a threat, this perception is fueled by a false media narrative lacking a factual basis.That Die Linke is not a hotbed of antisemitism is obvious to anyone taking an honest look at the party: its leaders, its campaign methods, and the deep, sometimes overcharged embrace of Germany’s anti-antisemitism discourse which governs its rhetoric. Die Linke is committed to protecting Jewish life alongside a broader anti-racist vision. In this respect, it differs from mainstream German approaches to Jewish protection, wh",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/483fb460d6de685c03e56fbc.json"
+      "article_path": "articles/54bbe811980a9650f5a4a9f8.json"
+    },
+    {
+      "id": "77ed42ff67ffa97262e2affd",
+      "title": "On Canadian Militarism",
+      "url": "https://rocdsa.org/blog/on-canadian-militarism",
+      "author": "Rochester Red Star: News from Rochester DSA",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-09-21T15:48:39+00:00",
+      "content_excerpt": "by Douglas Dollinger I thought my friends in ROC DSA might appreciate a bit of an update on your northern neighbour. What follows deals with the astounding rise of militarism in Canada under the Liberal prime minister Mark Carney. My American friends – I am myself half-American – will doubtless note some similarities between the rhetorical approaches of the Canadian and American governments, despite recent disagreements between the two countries and a flurry of ill-tempered threats by the American president against Canada. Mark Carney would have Canadians believe military spending is good for the economy. He is on track to move military spending from $70B this year (2026) to $150B in 2035, an astronomical increase. This, he has argued, will create all sorts of economic benefits for the Can",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/77ed42ff67ffa97262e2affd.json"
+    },
+    {
+      "id": "8c01956cb8462ab5a47bb54e",
+      "title": "The US Gives Impunity to Israel and Sanctions Its Critics",
+      "url": "https://www.inoreader.com/article/3a9c6e767cae129a",
+      "author": "L. Canciello",
+      "source": "Jacobin",
+      "published_at": "2026-09-21T15:28:31+00:00",
+      "content_excerpt": "“It’s the first time, as a lawyer, I’m about to defend myself, not the people I work for.” Speaking as the United Nations’ Human Rights Council in Geneva discussed Palestine this March, Raji Sourani complained of attacks on human rights defenders’ most basic duties. Sourani, who is the director of the Palestinian Centre for Human Rights (PCHR), made these comments just after UN Special Rapporteur Francesca Albanese had presented her report on systematic torture against Palestinians. For Albanese, torture is “the symbol of this genocide”: it devastates people’s bodies and dignity, while everything that makes Palestinians’ lives possible is being destroyed all around them. In a meeting on the sidelines of the session, Sourani, along with Issam Younis, who is executive director of Al Mezan, a",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/8c01956cb8462ab5a47bb54e.json"
+    },
+    {
+      "id": "62c3530632c000c85dc1c70b",
+      "title": "The Left Should Start Using the Word “Evil”",
+      "url": "https://www.inoreader.com/article/3a9c6e767cae1292",
+      "author": "Susan Neiman",
+      "source": "Jacobin",
+      "published_at": "2026-09-21T15:28:31+00:00",
+      "content_excerpt": "Follow the news out of Washington for a week, and the usual vocabulary of political criticism starts to feel insufficient. Words like “authoritarian” and “illiberal” describe styles of governance. They say much less about what it is like to watch an administration indulge shameless sadism, pursuing cruelty for its own apparent enjoyment. The word that fits better is one many on the Left have trained ourselves not to use: “evil.” Our reluctance is not without reason. Evil calls to mind a Sunday school admonition or George W. Bush’s “axis of evil,” a phrase that helped sell the immoral and disastrous war on terror. A long materialist tradition treats moral ideas as downstream of economic realities and cautions against idealism that overly concerns itself with the questions of values and cult",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/62c3530632c000c85dc1c70b.json"
+    },
+    {
+      "id": "ff0d3e27612246049b4593bc",
+      "title": "Far-right Victory in German State Elections Shocks the Center",
+      "url": "https://mltoday.com/far-right-victory-in-german-state-elections-shocks-the-center",
+      "author": "MLToday",
+      "source": "MLToday",
+      "published_at": "2026-09-21T15:15:30+00:00",
+      "content_excerpt": "By Ana Vracar, Breakthrough News September 7, 2026 The far-right AfD won Saxony-Anhalt’s state election on September 6. Progressive analysts link results to mainstream neoliberal policy failures. The far-right Alternative for Germany (AfD) secured a convincing victory in the Saxony-Anhalt state election on September 6, 2026. The election was marked by a high turnout of nearly 78% and took place amid a climate of widespread anger against federal policies implemented by the Merz administration – particularly attacks on social services and welfare, and ongoing militarization. The AfD won approximately 44% of the vote, more than double its result in the 2021 election. Chancellor Friedrich Merz’s Christian Democratic Union (CDU) saw its support halve to barely over 17%, followed by the Social D",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/ff0d3e27612246049b4593bc.json"
+    },
+    {
+      "id": "7e590570673a43d4a23b3493",
+      "title": "Middle Class or Working Class?",
+      "url": "https://mltoday.com/middle-class-or-working-class",
+      "author": "MLToday",
+      "source": "MLToday",
+      "published_at": "2026-09-21T14:14:50+00:00",
+      "content_excerpt": "By Greg Godels September 16, 2026 The Pew Research Center provides a vast amount of information on US citizens through polling and surveys. Of course, it is imperative that those of us digesting that information understand the biases and misrepresentations that can distort or slant their findings. It is essential that the wording of queries, the choice of descriptions, and the connotations of words and phrases be carefully weighed before accepting Pew’s findings. Among the more useful and telling surveys are those that show how people change their self-description over time– how they see themselves differently under different circumstances. And likely one of the most interesting of those many possible self-descriptions is membership in a social class. Now social classes are notoriously dif",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/7e590570673a43d4a23b3493.json"
+    },
+    {
+      "id": "f1ff67dbde5b7d0a99cd86e2",
+      "title": "CP Venezuela Denounces Rodriguez Government’s Handover of Oil Wealth to the US",
+      "url": "https://mltoday.com/cp-venezuela-denounces-rodriguez-governments-handover-of-oil-wealth-to-the-us",
+      "author": "MLToday",
+      "source": "MLToday",
+      "published_at": "2026-09-21T14:14:50+00:00",
+      "content_excerpt": "September 2, 2026 Statement by the Political Bureau of the Central Committee of the Communist Party of Venezuela (PCV) concerning the Venezuela-U.S oil deal: “The Political Bureau of the Central Committee of the Communist Party of Venezuela (PCV) categorically rejects this latest and serious transfer of national assets carried out by the illegitimate and illegal triumvirate that holds de facto power in Venezuela. Information that has come to light in recent days confirms the transfer of one-fifth of Venezuela’s oil reserves to U.S. companies through agreements negotiated behind the backs of the Venezuelan people, without transparency, and outside the constitutional controls that must govern any operation involving the Republic’s strategic interests. Delcy Rodríguez confirmed the transfer o",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/f1ff67dbde5b7d0a99cd86e2.json"
+    },
+    {
+      "id": "88c828d27d9dfbe41665e698",
+      "title": "Macklemore Controversy Creates an Uproar on Social Media",
+      "url": "https://mltoday.com/macklemore-controversy-creates-an-uproar-on-social-media",
+      "author": "MLToday",
+      "source": "MLToday",
+      "published_at": "2026-09-21T14:14:50+00:00",
+      "content_excerpt": "By Michael Scheinberg and Walter Tillow September 20, 2026 The banning of the hip hop artist Macklemore from Ed Sheeran’s The Loop musical tour at the insistence of billionaire Robert Kraft, and the pushback and criticism this gross act of censorship has engendered show the growing strength of the movement in solidarity with Palestine. Below we post Macklemore’s statement. To us, it calls to mind a statement made by Paul Robeson in the 1950s during the worst days of McCarthyism about the artist’s responsibility . Robeson said: “Every artist, every scientist, every writer must decide now where he stands. The artist must take sides. He must elect to fight for freedom or for slavery. I have made my choice. I had no alternative.” The Macklemore statement: “I’m not sure how to start this. So I’",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/88c828d27d9dfbe41665e698.json"
+    },
+    {
+      "id": "8f6719037b2e4efb8caa4128",
+      "title": "Hakeem Jeffries, “Monkeys”, “Errand Boys”, and Black Misleadership",
+      "url": "https://mltoday.com/hakeem-jeffries-monkeys-errand-boys-and-black-misleadership",
+      "author": "MLToday",
+      "source": "MLToday",
+      "published_at": "2026-09-21T14:14:50+00:00",
+      "content_excerpt": "By Margaret Kimberley, Black Agenda Report September 9, 2026 Hakeem Jeffries climbs the political ladder because he engages in dirty deeds with the world’s worst people. Being called a monkey gives him an easy out. The presence of a Black face in a high place is still rarely worth celebrating or defending. “He [Hakeem Jeffries] is a bought and paid AIPAC monkey. With all due respect, I don’t mean it in a racist way. He is basically just an errand boy.” – Rula Jebreal Should a racial slur be viewed differently if the target is a lackey for the oligarchs and therefore an enemy of Black people and indeed all of humanity? That is the question in the wake of Palestinian journalist Rula Jebreal’s unfortunate use of the word “monkey” to describe House Minority Leader Hakeem Jeffries while appeari",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/8f6719037b2e4efb8caa4128.json"
+    },
+    {
+      "id": "ed76fa6752975727044b5998",
+      "title": "Portugal: Communists Celebrate Five Decades of Democracy and Struggle",
+      "url": "https://mltoday.com/portugal-communists-celebrate-five-decades-of-democracy-and-struggle",
+      "author": "MLToday",
+      "source": "MLToday",
+      "published_at": "2026-09-21T13:45:40+00:00",
+      "content_excerpt": "By Luke Rotello and Moth Wisnewski, People’s World September 11, 2026 Above photo: The crowd was tens-of-thousands’strong at the Avante! Festival in Seixal, Portugal this past weekend. Photo via Avante! Seixal, Portugal—Hundreds of thousands of Communists, workers, youth, and their allies joined the 50th anniversary of the Avante! Festival (Festa do Avante!) from Sept. 4 to 6 in Seixal, Portugal, a suburb just outside the capital, Lisbon. The event is named for Avante! , or Forward! in English, the newspaper of the Portuguese Communist Party, which organizes the massive gathering. Held annually, the festival celebrates Portugal’s struggle for democracy after the 1974 Carnation Revolution, a bloodless coup orchestrated by left- and Communist-aligned sections of the Portuguese military. It b",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/ed76fa6752975727044b5998.json"
+    },
+    {
+      "id": "ee2b95af8e30921395a57c12",
+      "title": "NPR Blames Cuba for What the Blockade Did",
+      "url": "https://mltoday.com/npr-blames-cuba-for-what-the-blockade-did",
+      "author": "MLToday",
+      "source": "MLToday",
+      "published_at": "2026-09-21T13:45:40+00:00",
+      "content_excerpt": "By Lea Aschkenas September 5, 2026 Resumen English Recently, while listening to an NPR (National Public Radio) interview with Cuban-American musician Arturo Sandoval, I was reminded of the late political scientist Michael Parenti’s classic text, Inventing Reality: The Politics of the Mass Media . In his 1986 book, Parenti described a situation that is still relevant forty years later— when the US fears that another country’s non-capitalistic political model (and its attendant advances in social justice and quality of life) could cause US citizens to question their own system, it regularly imposes an embargo and sanctions against the country. Next, the news media reports on the suffering caused by these policies while, at the same time, avoiding any mention of the embargo and sanctions. Fin",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/ee2b95af8e30921395a57c12.json"
+    },
+    {
+      "id": "00e30bdefe0f257a6fcb4d84",
+      "title": "The Struggle against Industrial Expansion in Cancer Alley",
+      "url": "https://mltoday.com/the-struggle-against-industrial-expansion-in-cancer-alley",
+      "author": "MLToday",
+      "source": "MLToday",
+      "published_at": "2026-09-21T13:45:40+00:00",
+      "content_excerpt": "By Kennith RaShaun Woods II, Inequality.org Communities in Louisiana are fighting, including against their own governments, to block new polluting projects. Residents of Cancer Alley are deeply familiar with disease and death. Many of them, especially the region’s Black communities, have witnessed their loved ones suffer from asthma, diabetes and cancer. They have watched them die. Sprawling chemical plants spewing waste into the air sit just down the street. The smell of toxins never quite goes away. This region is the 85-mile corridor between Baton Rouge and New Orleans, Louisiana. This stretch of southern Louisiana contains nine parishes that sit along the Mississippi River. There are around 200 gas and chemical plants in Cancer Alley, and most of these plants were built on or near form",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/00e30bdefe0f257a6fcb4d84.json"
+    },
+    {
+      "id": "bb90f064de2b0286642f2d4f",
+      "title": "IMCWP 24 Contribution of CP Mexico (PCM)",
+      "url": "https://mltoday.com/imcwp-24-contribution-of-cp-mexico-pcm",
+      "author": "MLToday",
+      "source": "MLToday",
+      "published_at": "2026-09-21T13:45:40+00:00",
+      "content_excerpt": "Comrades, We thank the Central Committee of the Communist Party of Cuba for organizing this IMCWP —the 24th since this initiative began [in 1998] as part of the 150th anniversary of the Communist Manifesto, at the call of the Communist Party of Greece—despite the very difficult conditions. This forum has now been in existence for more than a quarter of a century and has become a fundamental platform for the exchange of opinions and information under the new conditions in which the international communist movement has had to operate, after the predominance of market relations—incompatible with socialist construction—led to the temporary triumph of the counterrevolution in the USSR and other countries.. We have come to pay tribute to Commander Fidel Castro Ruz on the occasion of the centenar",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/bb90f064de2b0286642f2d4f.json"
+    },
+    {
+      "id": "efbab711b7ef37926f035616",
+      "title": "IMCWP 24: Contribution of the CP of the Workers of Spain",
+      "url": "https://mltoday.com/imcwp-24-contribution-of-the-cp-of-the-workers-of-spain",
+      "author": "MLToday",
+      "source": "MLToday",
+      "published_at": "2026-09-21T13:45:40+00:00",
+      "content_excerpt": "Havana, August 2026 The Communist Party of the Workers of Spain thanks the organisers for convening this meeting and extends fraternal greetings to all the participating organisations and, most especially, to the Communist Party of Cuba, the Cuban people, and all the individuals and organisations that keep solidarity with the Cuban Revolution alive. The commemoration of the centenary of Fidel Castro’s birth is an occasion of particular importance to recall his life and work, assess the historical significance of the Cuban Revolution, and renew our commitment to solidarity with Cuba. Fidel is part of the contemporary history of Cuba, Latin America, and the international communist and revolutionary movement. His figure is synonymous with an entire life devoted to socialism-communism and to t",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/efbab711b7ef37926f035616.json"
+    },
+    {
+      "id": "9558414bc25379918c2c7c23",
+      "title": "IMCWP 24: Contribution of the CP Canada",
+      "url": "https://mltoday.com/imcwp-24-contribution-of-the-cp-canada",
+      "author": "MLToday",
+      "source": "MLToday",
+      "published_at": "2026-09-21T13:45:40+00:00",
+      "content_excerpt": "The contribution of the Communist Party of Canada to the 24th International Meeting of Communist and Workers’ Parties (IMCWP) held in Havana from August 7 to 8, 2026. On behalf of the Central Executive Committee of the Communist Party of Canada, I bring fraternal greetings to the 24th International Meeting of Communist and Workers’ Parties. We thank the Communist Party of Cuba for hosting this important gathering in Havana. We salute the heroic Cuban people and their socialist revolution, which for over six decades has stood as a beacon of dignity, resistance and proletarian internationalism in the face of the most brutal imperialist siege. The Communist Party of Canada vehemently condemns the ongoing United States blockade against Cuba, an act of collective punishment and economic warfare",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/9558414bc25379918c2c7c23.json"
+    },
+    {
+      "id": "a1044c642c7d829992c52077",
+      "title": "IMCWP 24: Contribution of the German Communist Party (DKP)",
+      "url": "https://mltoday.com/imcwp-24-contribution-of-the-german-communist-party-dkp",
+      "author": "MLToday",
+      "source": "MLToday",
+      "published_at": "2026-09-21T13:45:40+00:00",
+      "content_excerpt": "Contribution of the German Communist Party (DKP) The Cuban people and the Communist Party of Cuba are waging a heroic struggle against imperialism’s murderous blockade. They wage it for humanity, for humanity’s future, for socialism. To hold our international meeting under these conditions deserves gratitude and places on us the responsibility to do everything for Cuba’s victory, for its people, for the defense of socialism. Cuba will win! Imperialism, having been forced onto the defensive, is trying to preserve its hegemony by violent means — economic, political, or military. This includes the war against Russia through Ukraine, which also aims at confrontation with socialist China, whose development of the productive forces now appears impossible to catch up with. It includes the enforce",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/a1044c642c7d829992c52077.json"
+    },
+    {
+      "id": "b0cdc6f4cef864b7bd54857f",
+      "title": "IMCWP 24: Contribution of the Palestinian CP",
+      "url": "https://mltoday.com/imcwp-24-contribution-of-the-palestinian-cp",
+      "author": "MLToday",
+      "source": "MLToday",
+      "published_at": "2026-09-21T13:45:40+00:00",
+      "content_excerpt": "Contribution of the Palestinian Communist Party at the 24th International Meeting of Communist and Workers’ Parties in the Cuban Capital, Havana Comrades, General Secretary of the Communist Party of Cuba, leaders and representatives of the Communist and Workers’ Parties, honorable attendees, On behalf of the Palestinian Communist Party, the party of the Palestinian working class, we extend to you our highest militant greetings. We hope that this 24th International Meeting will be crowned with success in its struggle to unite the ranks of our communist movement in the face of the fierce imperialist assault on our peoples. We also extend a special tribute of reverence and admiration to the revolutionary people of Cuba and their Communist Party. We meet today on the land of the steadfast Cuba",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/b0cdc6f4cef864b7bd54857f.json"
+    },
+    {
+      "id": "330d8a56cb36386a934bf2f9",
+      "title": "Somalia on the Brink of Mass Starvation: A Vortex of Climate Shocks, War and Aid Cuts",
+      "url": "https://mltoday.com/somalia-on-the-brink-of-mass-starvation-a-vortex-of-climate-shocks-war-and-aid-cuts",
+      "author": "MLToday",
+      "source": "MLToday",
+      "published_at": "2026-09-21T13:45:40+00:00",
+      "content_excerpt": "Somalia is already reeling from repeated droughts and floods, with millions facing acute hunger. Now economic shocks from the war on Iran compound US cuts to humanitarian aid, as El Niño’s peak portends devastating floods once again. By Pavan Kulkarni September 8, 2026 Breakthrough News Somali women displaced by drought sit at Feynuus Nutrition Centre on the outskirts of the capital, Mogadishu, Somalia Wednesday, Aug. 19, 2026. Photo: AP With floods forecast to follow on the heels of a prolonged drought amid rising malnutrition and displacement, “Somalia is right on the cusp of something much worse,” Jeremy Konyndyk, president of Refugees International, said on September 3. Following a fact-finding visit to the East African country, ranked 123rd among the 123 countries in the 2025 Global H",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/330d8a56cb36386a934bf2f9.json"
     }
   ]
 }
