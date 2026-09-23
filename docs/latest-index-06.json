@@ -1,12 +1,297 @@
 {
-  "generated_at": "2026-09-22T22:22:13.901318+00:00",
-  "generated_at_jst": "2026-09-23T07:22:13.901318+09:00",
-  "period_start": "2026-09-21T16:22:13.901318+00:00",
+  "generated_at": "2026-09-23T22:25:15.111880+00:00",
+  "generated_at_jst": "2026-09-24T07:25:15.111880+09:00",
+  "period_start": "2026-09-22T16:25:15.111880+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
   "article_count": 20,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "666f60eb2835979fc9ad982a",
+      "title": "Israel kills son of Gaza health official in latest atrocities",
+      "url": "https://breakthroughnews.org/2026/09/23/israel-kills-son-of-gaza-health-official-in-latest-atrocities",
+      "author": "Aseel Saleh",
+      "source": "BT News",
+      "published_at": "2026-09-23T22:01:21+00:00",
+      "content_excerpt": "Footage flooded the internet on Saturday, September 19, showing Gaza Health Ministry Director General Dr. Munir al-Bursh asking young men to bring the rest of his son’s body as they carried his remains. “Bring me his other half!” the grief-stricken father said. “We were supposed to go to heaven together today, but you got there before me, son.” According to media reports , Dr. Munir’s son, Bashir (28), was struck by a drone shortly after leaving his family’s tent in the al-Zahra neighborhood, near the Civil Defense headquarters, west of the Jabalia refugee camp in northern Gaza Strip. Bashir was targeted while helping people fill their water containers, just meters away from his father. For many, the proximity of Dr. Munir implies that he, too, may have been a target of the attack. Israel’",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/666f60eb2835979fc9ad982a.json"
+    },
+    {
+      "id": "2193f7480daefcab12ba0ea0",
+      "title": "Iran and US officials meet in New York while Trump threatens further escalation",
+      "url": "https://breakthroughnews.org/2026/09/23/iran-and-us-officials-meet-in-new-york-while-trump-threatens-further-escalation",
+      "author": "Abdul Rahman",
+      "source": "BT News",
+      "published_at": "2026-09-23T22:01:21+00:00",
+      "content_excerpt": "This content is for members only. Visit the site and log in/register to read.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/2193f7480daefcab12ba0ea0.json"
+    },
+    {
+      "id": "539471a658460a5c2a9dc731",
+      "title": "Law imposing stricter sanctions on Russia threatens to reignite tariff war and upend global economy",
+      "url": "https://breakthroughnews.org/2026/09/23/law-imposing-stricter-sanctions-on-russia-threatens-to-reignite-tariff-war-and-upend-global-economy",
+      "author": "Abdul Rahman",
+      "source": "BT News",
+      "published_at": "2026-09-23T22:01:21+00:00",
+      "content_excerpt": "This content is for members only. Visit the site and log in/register to read.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/539471a658460a5c2a9dc731.json"
+    },
+    {
+      "id": "a5d567eb221edb7f55d6adf9",
+      "title": "What’s behind the French ‘License to Kill’ bill?",
+      "url": "https://breakthroughnews.org/2026/09/23/whats-behind-the-french-license-to-kill-bill",
+      "author": "Ana Vračar",
+      "source": "BT News",
+      "published_at": "2026-09-23T22:01:21+00:00",
+      "content_excerpt": "This content is for members only. Visit the site and log in/register to read.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/a5d567eb221edb7f55d6adf9.json"
+    },
+    {
+      "id": "8d4886f524cdce3aba11412b",
+      "title": "‘He’s running away’: why Netanyahu is rushing his NYC visit",
+      "url": "https://breakthroughnews.org/2026/09/22/hes-running-away-why-netanyahu-is-rushing-his-nyc-visit",
+      "author": "elevation",
+      "source": "BT News",
+      "published_at": "2026-09-23T22:01:21+00:00",
+      "content_excerpt": "ICC fugitive Benjamin Netanyahu is scheduled to arrive in New York on Thursday to address the UN General Assembly – under an active arrest warrant for war crimes and crimes against humanity that the US has vowed not to enforce. Taher Dahleh, an organizer with the Palestinian Youth Movement, joins Rania Khalek and Zoe Alexandra ahead of the mass protests that have forced Netanyahu to reroute his flight through New Jersey. Dahleh says the world is waking up to the fact that the architects of the Gaza genocide aren’t the outlier, but the mainstream norm for Israeli politics. He points to the irony of a fugitive war criminal speaking on ‘Restoring Trust’ at the United Nations. And he lays out the stakes of Democrats failing to respond to the cultural sea change on Palestine – as evidenced by E",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/8d4886f524cdce3aba11412b.json"
+    },
+    {
+      "id": "db4af1fd29e11442065b79b9",
+      "title": "What you need to know about Robert Kraft, the pro-Israel billionaire who pressured Ed Sheeran to drop Macklemore",
+      "url": "https://mondoweiss.net/2026/09/what-you-need-to-know-about-robert-kraft-the-pro-israel-billionaire-who-pressured-ed-sheeran-to-drop-macklemore",
+      "author": "Michael Arria",
+      "source": "Mondoweiss",
+      "published_at": "2026-09-23T17:55:37+00:00",
+      "content_excerpt": "Robert Kraft got Macklemore ousted from Ed Sheeran's tour over \"Free Palestine.\" A look at the NFL owner's record makes it clear why: funding the IDF, fighting BDS, courting Netanyahu, and bringing football legends on tours of Israel.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/db4af1fd29e11442065b79b9.json"
+    },
+    {
+      "id": "54ea03670780d9540c11623f",
+      "title": "“New Low in U.N. History”: Trita Parsi on Trump’s Threat to Annihilate Iran at General Assembly",
+      "url": "https://www.democracynow.org/2026/9/23/trita_parsi_trump_un_iran_war",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-09-23T14:41:58+00:00",
+      "content_excerpt": "This is a rush transcript. Copy may not be in its final form. ANJALI KAMAT : At the United Nations General Assembly on Tuesday, Secretary-General António Guterres reiterated his call for peace in the Middle East. SECRETARY - GENERAL ANTÓNIO GUTERRES : Across the Middle East, conflicts are cascading. So-called ceasefires have amounted to little more than lesser fires, with civilians continuing to pay the price. Enough is enough. I appeal to the leaders in this chamber to maximize this high-level week for deescalation and dialogue. And together, let’s send a clear message from this hall: The fighting must stop. AMY GOODMAN : Shortly after the secretary-general spoke before the United Nations General Assembly, President Trump took to the stage and openly threatened to annihilate Iran. PRESIDE",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/54ea03670780d9540c11623f.json"
+    },
+    {
+      "id": "95f0863a8d3016453e758503",
+      "title": "Bernie Sanders: The World Is “Moving in the Wrong Direction” on War, Climate, Inequality & AI Tech",
+      "url": "https://www.democracynow.org/2026/9/23/bernie_sanders_riverside_church_foreign_policy",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-09-23T14:41:58+00:00",
+      "content_excerpt": "This is a rush transcript. Copy may not be in its final form. AMY GOODMAN : This is Democracy Now! , democracynow.org, The War and Peace Report . I’m Amy Goodman, with Anjali Kamat. ANJALI KAMAT : As world leaders are gathering in New York this week for the United Nations General Assembly, Senator Bernie Sanders gave a major address in New York on Monday. He spoke at the historic Riverside Church, where Martin Luther King gave his “Beyond Vietnam” speech on April 4th, 1967, exactly one year before he was assassinated. In that speech, King spoke against racism, militarism and materialism. AMY GOODMAN : These are some of the excerpts from Senator Bernie Sanders’ speech. SEN . BERNIE SANDERS : What Dr. King said was true nearly 60 years ago, and it is even truer today, as our country, the Uni",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/95f0863a8d3016453e758503.json"
+    },
+    {
+      "id": "1899183b06182d47e8937132",
+      "title": "Nepali Activist at U.N. Rally Calls for Climate Justice After Deadly Glacier Floods Kill Thousands",
+      "url": "https://www.democracynow.org/2026/9/23/nepal_climate_justice",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-09-23T14:41:58+00:00",
+      "content_excerpt": "In the wake of devastating flash floods triggered by glacial collapse in the Himalayas, Nepal is demanding climate reparations from polluter countries as it embarks upon the grueling process of rebuilding. Over 1,400 bodies have been recovered from the disaster, with around 6,000 others still missing. Nepal’s government estimates that the cost of infrastructure reconstruction is likely to exceed $4 billion. Nepal contributes less than 0.1% of global carbon emissions, yet as a mountainous country surrounded by glaciers, continues to be vulnerable to the effects of climate change. Recent studies estimate that global surface temperatures will likely exceed 1.5°C above preindustrial levels by the end of the decade. We go to a rally outside of United Nations headquarters, where Nepali activists",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/1899183b06182d47e8937132.json"
+    },
+    {
+      "id": "297e36643f19508daea8d1bf",
+      "title": "“Secretary of Measlesland”: Dr. Paul Offit Slams RFK Jr.’s Handling of Deadly Measles Outbreak",
+      "url": "https://www.democracynow.org/2026/9/23/dr_paul_offit_vaccines_measles",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-09-23T14:41:58+00:00",
+      "content_excerpt": "2026 is already the deadliest year for measles in the United States since the virus was declared eliminated in 2000. Four people died over the last month in Pennsylvania amid an ongoing outbreak in the state, which had not seen a measles-related death in at least 35 years. All four victims, including two infants, were unvaccinated (children do not receive their first dose of the measles vaccine until they have reached a year old). The deaths come as President Trump and Health and Human Services Secretary Robert F. Kennedy Jr. continue to defund public vaccination programs and push debunked claims that vaccines cause autism. Pediatrician and vaccine expert Dr. Paul Offit warns that the four reported measles deaths — which were reported by Pennsylvania health officials but have not yet been ",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/297e36643f19508daea8d1bf.json"
+    },
+    {
+      "id": "98983808344d6bf106c7ebac",
+      "title": "America loves free speech, except when it comes to Palestine",
+      "url": "https://mondoweiss.net/2026/09/america-loves-free-speech-except-when-it-comes-to-palestine",
+      "author": "Mitchell Plitnick",
+      "source": "Mondoweiss",
+      "published_at": "2026-09-23T13:16:27+00:00",
+      "content_excerpt": "Whether it’s Macklemore, Hasan Piker, or your neighborhood activist, this is a fight to make sure billionaires and politicians cannot stop free speech and will have to hear the calls to “Free Palestine” whether they like it or not.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/98983808344d6bf106c7ebac.json"
+    },
+    {
+      "id": "123bb8a6b89f7f334d18e530",
+      "title": "Die Linke score stunning election victory in Berlin",
+      "url": "https://mronline.org/2026/09/23/die-linke-score-stunning-election-victory-in-berlin",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-09-23T13:11:01+00:00",
+      "content_excerpt": "GERMANY’S Left party (DL) has scored a stunning victory in Berlin, winning a state election for the first time on a campaign to nationalise housing owned by corporate landlords and cap rents. The post Die Linke score stunning election victory in Berlin appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/123bb8a6b89f7f334d18e530.json"
+    },
+    {
+      "id": "481fdd3745560c04b9d9f944",
+      "title": "A useless attack on Yemen, ordered by Trump, was called off",
+      "url": "https://mronline.org/2026/09/23/a-useless-attack-on-yemen-ordered-by-trump-was-called-off",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-09-23T12:07:34+00:00",
+      "content_excerpt": "Ansar Allah can not be beaten by air attacks. Ground campaigns in the mountainous western Yemen, where the majority of the population lives, are extremely difficult. Ansar Allah has modern means—missiles, drones and air defenses—which allow it to retaliate. It was sheer stupidity that led the Saudis into provoking another war with them by bombing Sanaa airport in July of this year. The post A useless attack on Yemen, ordered by Trump, was called off appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/481fdd3745560c04b9d9f944.json"
+    },
+    {
+      "id": "4a69fee996705883df4f69b1",
+      "title": "Who owns the world map?",
+      "url": "https://mronline.org/2026/09/23/who-owns-the-world-map",
+      "author": "Prabir Purkayastha",
+      "source": "MR Online",
+      "published_at": "2026-09-23T11:05:45+00:00",
+      "content_excerpt": "Cartography, Colonial Power, and the Strategic Politics of Geography. The post Who owns the world map? appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/4a69fee996705883df4f69b1.json"
+    },
+    {
+      "id": "7747741f1d7af9cb6935e065",
+      "title": "The real danger of AI is that it is run by evil warmongers",
+      "url": "https://mronline.org/2026/09/23/the-real-danger-of-ai-is-that-it-is-run-by-evil-warmongers",
+      "author": "Caitlin A. Johnstone",
+      "source": "MR Online",
+      "published_at": "2026-09-23T10:06:08+00:00",
+      "content_excerpt": "The most obvious and imminent threat right now is not that artificial intelligence will outsmart us and escape our control, it’s that it is being fully controlled by humans who are stupid and evil. The post The real danger of AI is that it is run by evil warmongers appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/7747741f1d7af9cb6935e065.json"
+    },
+    {
+      "id": "34b6c88efbe4569fb8d3efae",
+      "title": "Analysis: ‘Super El Niño’ reaches ‘remarkable’ all-time record",
+      "url": "https://mronline.org/2026/09/23/analysis-super-el-nino-reaches-remarkable-all-time-record",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-09-23T09:05:59+00:00",
+      "content_excerpt": "This year’s so-called “super El Niño” is entering into record-breaking territory. The post Analysis: ‘Super El Niño’ reaches ‘remarkable’ all-time record appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/34b6c88efbe4569fb8d3efae.json"
+    },
+    {
+      "id": "ba298e60744ec8791735bdac",
+      "title": "ICE shoots Texas delivery driver, then detains him with bullet lodged in his back",
+      "url": "https://breakthroughnews.org/2026/09/23/ice-shoots-texas-delivery-driver-then-detains-him-with-bullet-lodged-in-his-back",
+      "author": "Devin B. Martinez",
+      "source": "BT News",
+      "published_at": "2026-09-23T05:52:17+00:00",
+      "content_excerpt": "Wilber Rafael Garces Perez, a food delivery driver in North Austin, Texas, was shot by Immigration and Customs Enforcement (ICE) agents while he was making a delivery on Sunday, September 20. Garces Perez, who survived the shooting but is now partially paralyzed, says his car was rammed by a large black unmarked truck. ICE claimed they attempted a traffic stop and that Garces Perez fled, but the DoorDash driver and his lawyers’ account contradict this report, saying after he tried to U-turn and pullover, ICE agents rammed his vehicle again, and then an agent got out and aimed his weapon through the passenger side of the car and shot Garces Perez in the back of his neck. CBP revealed on Tuesday, September 22, that the officer that fired the shot was not wearing a body camera, despite the ag",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/ba298e60744ec8791735bdac.json"
+    },
+    {
+      "id": "9defb5f344bbedb51287b1ce",
+      "title": "Israel tightens restrictions around Ramallah following attack near settlement",
+      "url": "https://breakthroughnews.org/2026/09/23/israel-tightens-restrictions-around-ramallah-following-attack-near-settlement",
+      "author": "Aseel Saleh",
+      "source": "BT News",
+      "published_at": "2026-09-23T05:52:17+00:00",
+      "content_excerpt": "For the last several days, Israeli forces have blocked the main entrances and exits to the central West Bank governorate of Ramallah and Al-Bireh, further restricting Palestinian movement. The punitive measure was taken after a Palestinian man carried out a shooting attack near the illegal settlement of Halamish, located to the northwest of Ramallah in the Occupied West Bank, on Sunday, September 20. The attack resulted in the killing of an Israeli settler. The assailant was also injured and later identified as Qadri Samara (37). Samara was shot at by Israeli soldiers stationed at an army post near the site of the attack. Although Samara managed to withdraw from the scene, later in the day Israeli forces carried out a raid at the HClinic Hospital in Ramallah and arrested him . Following hi",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/9defb5f344bbedb51287b1ce.json"
+    },
+    {
+      "id": "49f0282a53f4aa1d9d7c1610",
+      "title": "It still smells of sulphur: 20 years since Chávez’s speech at the UN",
+      "url": "https://breakthroughnews.org/2026/09/22/it-still-smells-of-sulphur-20-years-since-chavezs-speech-at-the-un",
+      "author": "Carlos Ron",
+      "source": "BT News",
+      "published_at": "2026-09-22T23:50:47+00:00",
+      "content_excerpt": "On September 20, 2006, Hugo Chávez stepped up to the granite podium of the United Nations General Assembly. A day earlier, from that exact same spot, the President of the United States, George W. Bush, had spoken. Chávez crossed himself, said that the room still smelled of sulphur, and the hall burst into laughter and applause. It was not the speech Chávez had originally intended to give, but rather the direct result of the deep indignation caused by hearing Bush speak as if he owned the world. The major media of the North latched onto the sulphur phrase and have tried to caricature it. But it is the rest of his intervention that remains fully relevant, 20 years later. Chávez arrived at the General Assembly with a book in hand, “Hegemony or Survival” by Noam Chomsky. His warning was simple",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/49f0282a53f4aa1d9d7c1610.json"
+    },
     {
       "id": "43acd69d6e86e43fe43aa6db",
       "title": "Greenland is not for sale: Trump’s Donroe Doctrine and US imperialism",
@@ -21,291 +306,6 @@
       "priority": 2,
       "date_missing": false,
       "article_path": "articles/43acd69d6e86e43fe43aa6db.json"
-    },
-    {
-      "id": "3b18039b46e606fb48df4cbe",
-      "title": "Workers will fight for their self-interest",
-      "url": "https://tempestmag.org/2026/09/workers-will-fight-for-their-self-interest",
-      "author": "Kim Moody",
-      "source": "Tempest",
-      "published_at": "2026-09-22T21:01:46+00:00",
-      "content_excerpt": "T here aren’t very many Marxists around today who would defend central planning as practiced in the Soviet Union from the late 1920s through the 1980s. But there are many who still think some form of central planning is essential to socialism. Marxist Sociology Professor, Catalyst editor and podcaster Vivek Chibber isn’t one of them. In an aptly titled recent interview , “Socialism Has a Future. Central Planning Doesn’t”, he explained his position. Chibber’s critique is based on the top-down, bureaucratic planning as it was practiced in the Soviet Union. As he notes, aside from its clones in Eastern Europe, North Korea, and, for a time China, there is no other actual existing model of central planning to examine. His argument is complex but boils down to the proposition that in an economy ",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/3b18039b46e606fb48df4cbe.json"
-    },
-    {
-      "id": "426e5c7f116f1f3a31ef0d4e",
-      "title": "Afro-Indigenous community in Honduras resists forced evictions",
-      "url": "https://breakthroughnews.org/2026/09/22/afro-indigenous-community-in-honduras-resists-forced-evictions",
-      "author": "Pablo Meriguet",
-      "source": "BT News",
-      "published_at": "2026-09-22T20:49:09+00:00",
-      "content_excerpt": "Spanish reality show “Survivor” (Supervivientes) has been filming on the land of the Afro-Indigenous Garífuna peoples in Honduras since 2006. The filming of “Supervivientes,” as well as other versions of the “Survivor” show, have sparked intense local protests over land, human rights, restrictions to fishing access, and forced evictions. In 2025, the Inter-American Court of Human Rights (IACHR) found that the filming of the reality show violated several rights of the members of the Garífuna community. But it wasn’t the first time the Honduran government has been found in violation for its treatment of the Afro-Indigenous people of Central America. In total, the Inter-American Court has issued warnings four times regarding the mistreatment suffered by this community. This story, though not ",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/426e5c7f116f1f3a31ef0d4e.json"
-    },
-    {
-      "id": "14fda19ed3aedd83b912b2e0",
-      "title": "Always the Victim, Never the Bigot: the Zionist campaign against Abdul El-Sayed doubles down",
-      "url": "https://mondoweiss.net/2026/09/always-the-victim-never-the-bigot-the-zionist-campaign-against-abdul-el-sayed-doubles-down",
-      "author": "Donald Johnson",
-      "source": "Mondoweiss",
-      "published_at": "2026-09-22T19:13:52+00:00",
-      "content_excerpt": "A Michigan rabbis' 'nonnegotiable' petition demanding El-Sayed disown Hasan Piker reveals a harsh truth for El-Sayed: that no amount of pandering will satisfy critics who want anti-Zionism expelled from the Democratic party outright.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/14fda19ed3aedd83b912b2e0.json"
-    },
-    {
-      "id": "09c641f8655e42b4f415b9e7",
-      "title": "Die Linke wins Berlin election with focus on socialization of housing",
-      "url": "https://breakthroughnews.org/2026/09/22/die-linke-wins-berlin-election-with-focus-on-socialization-of-housing",
-      "author": "Ana VR",
-      "source": "BT News",
-      "published_at": "2026-09-22T18:48:45+00:00",
-      "content_excerpt": "The Christian Democratic Union (CDU) has continued its downward spiral after suffering significant losses in state elections in Berlin and Mecklenburg-Western Pomerania on Sunday, September 20. In addition to coming second to the progressive Die Linke in the German capital, Chancellor Friedrich Merz’s party failed to achieve the 5% needed to enter Mecklenburg-Western Pomerania’s parliament, marking a new low – or, in Merz’s own words – a “disaster.” The results of the two elections were radically different: in Mecklenburg-Western Pomerania, the far-right Alternative for Germany (AfD) won the largest percentage of votes, echoing, in many ways, the recent outcome in Saxony-Anhalt. In Berlin, Die Linke emerged as the winner, claiming a quarter of the vote after a campaign focusing on housing,",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/09c641f8655e42b4f415b9e7.json"
-    },
-    {
-      "id": "a736e6de2c4bd127e93875e6",
-      "title": "Israel just pardoned a soldier who executed a wounded Palestinian",
-      "url": "https://mondoweiss.net/2026/09/israel-just-pardoned-a-soldier-who-executed-a-wounded-palestinian",
-      "author": "Jonathan Ofir",
-      "source": "Mondoweiss",
-      "published_at": "2026-09-22T18:11:36+00:00",
-      "content_excerpt": "The judge who sentenced Elor Azaria, the soldier who shot Abdel Fattah al-Sharif in 2016 as he lay unconscious on the ground, called him a “normal” person, because Azaria's genocidal views were never an aberration in Israeli society.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/a736e6de2c4bd127e93875e6.json"
-    },
-    {
-      "id": "a88c6656df113a64984f703f",
-      "title": "Bodies of 10 women found dead in South Africa, sparking societal debate on GBV",
-      "url": "https://breakthroughnews.org/2026/09/22/bodies-of-10-women-found-dead-in-south-africa-sparking-societal-debate-on-gbv",
-      "author": "Nicholas Mwangi",
-      "source": "BT News",
-      "published_at": "2026-09-22T15:48:19+00:00",
-      "content_excerpt": "Fear and anger are growing in South Africa after the bodies of nine women were discovered across the Ekurhuleni municipality, east of Johannesburg, over the past two months, with police investigating whether the deaths are connected, a 10th body was confirmed this week. Three suspects have been arrested, and police have acknowledged a possible connection between some of the killings. What is not in dispute is the scale of the crisis the discovery has exposed, and the outrage it has provoked, protests against femicide have been held in the country in the weeks since. Four of the nine women have so far been publicly identified, Elizabeth “Tsontso” Moselakgomo, 38, a mother who vanished during her regular afternoon run and was found days later behind a hotel in Rhodesfield; Itumeleng Kekana, ",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/a88c6656df113a64984f703f.json"
-    },
-    {
-      "id": "bce986c4db08c61680e58973",
-      "title": "Climate Activists Target AI Data Centers & Amazon’s Plan to Build Largest U.S. Gas Power Plant",
-      "url": "https://www.democracynow.org/2026/9/22/un_climate_week",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-09-22T14:26:17+00:00",
-      "content_excerpt": "World leaders are in New York this week for the United Nations General Assembly, which coincides with Climate Week. It comes after months of climate-fueled extreme weather around the world, including heat waves in North America and Europe, wildfires in Africa, flash flooding in Asia and a record-breaking El Niño. Climate campaigner Bill McKibben says that while it’s too late to prevent the climate crisis from unfolding, solar and wind energy are now cheap enough “to blunt its worst excesses.” We also speak with Kavita Sthanumurthy, a former software engineer at Amazon and a member of Amazon Employees for Climate Justice. She says the artificial intelligence boom is largely being powered by dirty fossil fuel, even as companies like Amazon claim they use 100% renewable energy. “We did our ow",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/bce986c4db08c61680e58973.json"
-    },
-    {
-      "id": "940c38d9c362f6363735690c",
-      "title": "“Politics Are Desperately Important at the Moment”: Bill McKibben on Midterms, Trump & Climate Crisis",
-      "url": "https://www.democracynow.org/2026/9/22/bill_mckibben",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-09-22T14:26:17+00:00",
-      "content_excerpt": "Ahead of the midterm elections, activist and writer Bill McKibben says he has been traveling across the United States with Third Act, the environmental group he founded to harness the power of seniors who care about the climate and democracy. “These elections are also starting to set the groundwork for 2028,” says McKibben, who calls the next U.S. presidential vote “maybe the last election that happens in a timeframe when we still really have an opportunity to affect some of the outcomes of these things.” Please check back later for full transcript. Page 2 As the United Nations General Assembly opens in New York, we speak with senior Cuban diplomat Carlos Fernández de Cossío, who says the Trump administration is seeking to “asphyxiate the people of Cuba into submission.” On Friday, million",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/940c38d9c362f6363735690c.json"
-    },
-    {
-      "id": "21a5bdc9ec2241051bdcf103",
-      "title": "Could Cuba Become a “Silent Gaza”? U.S. Fuel Blockade Aims to “Asphyxiate” Island: Top Cuban Diplomat",
-      "url": "https://www.democracynow.org/2026/9/22/cuba_in_crisis",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-09-22T14:26:17+00:00",
-      "content_excerpt": "As the United Nations General Assembly opens in New York, we speak with senior Cuban diplomat Carlos Fernández de Cossío, who says the Trump administration is seeking to “asphyxiate the people of Cuba into submission.” On Friday, millions in Cuba lost power in what was at least the sixth major blackout since President Trump cut off fuel shipments to the island in January. The fuel blockade comes on top of the six-decade-long U.S. economic embargo and countless attempts to topple the communist government. “We will do all we can to stop any nation, the U.S. or any nation, from taking over Cuba,” says Fernández de Cossío, who has served as deputy Cuban foreign minister since 2022.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/21a5bdc9ec2241051bdcf103.json"
-    },
-    {
-      "id": "cfad5715369c86c136e9c036",
-      "title": "“Pedagogy of the Oppressed” Brazilian Educator Paulo Freire Profiled in Film, “Reading the World”",
-      "url": "https://www.democracynow.org/2026/9/22/reading_the_world_paolo_freire",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-09-22T14:26:17+00:00",
-      "content_excerpt": "Reading the World is a remarkable new documentary about Paulo Freire, the acclaimed Brazilian educator whose revolutionary approach to teaching connected literacy to critical thinking and democratic participation. It draws on rare archival footage of 1960s Brazil and weaves together the memories of farmers, students and educators who took part in Freire’s culture circles, his method of teaching adults to read in as little as 40 hours by drawing on their own lives, communities and experiences. At the time, Brazil’s illiterate population was barred from voting, so education also opened the door to political participation. The experiment was abruptly halted in 1964 when Brazil’s military overthrew President João Goulart in a U.S.-backed coup that led to Freire’s imprisonment and exile. “Paulo",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/cfad5715369c86c136e9c036.json"
-    },
-    {
-      "id": "ab0fe049722e7f3ac6c24b07",
-      "title": "Italy moves to ban burqas, cap foreign students in schools",
-      "url": "https://mronline.org/2026/09/22/italy-moves-to-ban-burqas-cap-foreign-students-in-schools",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-09-22T13:27:04+00:00",
-      "content_excerpt": "The policy targets a small minority, as Muslims make up under 5 percent of Italy's population, a figure most Italians drastically overestimate. The post Italy moves to ban burqas, cap foreign students in schools appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/ab0fe049722e7f3ac6c24b07.json"
-    },
-    {
-      "id": "c46585deecd82adddb9260cd",
-      "title": "Trump readies 40,000 bombs for Israel, wider war after Nov. 3",
-      "url": "https://mronline.org/2026/09/22/trump-readies-40000-bombs-for-israel-wider-war-after-nov-3",
-      "author": "Gary Wilson",
-      "source": "MR Online",
-      "published_at": "2026-09-22T12:24:48+00:00",
-      "content_excerpt": "The White House is drafting plans for West Asia after the present stage of the war. They center on containing Iran and pushing more Arab governments into formal relations with Israel. The post Trump readies 40,000 bombs for Israel, wider war after Nov. 3 appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/c46585deecd82adddb9260cd.json"
-    },
-    {
-      "id": "f864baa6683a397600b16ece",
-      "title": "Food security or seed capture? The colonial potato and Africa’s seed wars",
-      "url": "https://mronline.org/2026/09/22/food-security-or-seed-capture-the-colonial-potato-and-africas-seed-wars",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-09-22T11:24:34+00:00",
-      "content_excerpt": "It all begins with a potato. The post Food security or seed capture? The colonial potato and Africa’s seed wars appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/f864baa6683a397600b16ece.json"
-    },
-    {
-      "id": "e98da6a3a1d654dc89f79c5a",
-      "title": "Cuba, Gaza, and the human cost of imperial thirst",
-      "url": "https://mronline.org/2026/09/22/cuba-gaza-and-the-human-cost-of-imperial-thirst",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-09-22T10:23:26+00:00",
-      "content_excerpt": "In Gaza, thousands of children have been killed amid the genocide that’s being imposed by Israel with total impunity. Thousands of them are unaccounted for and buried beneath the rubble. In Cuba, millions of people have survived for years amid blackouts, shortages, difficulties accessing medicines, fuel scarcity, and a profound economic crisis imposed upon them by the United States. The post Cuba, Gaza, and the human cost of imperial thirst appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/e98da6a3a1d654dc89f79c5a.json"
-    },
-    {
-      "id": "59bbdca861b99bc635e92667",
-      "title": "Public ownership and booze: Raise a glass to the LCBO",
-      "url": "https://mronline.org/2026/09/22/public-ownership-and-booze-raise-a-glass-to-the-lcbo",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-09-22T09:22:00+00:00",
-      "content_excerpt": "The LCBO makes the inconvenient case that public ownership can be efficient, profitable, and serve the public interest. The post Public ownership and booze: Raise a glass to the LCBO appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/59bbdca861b99bc635e92667.json"
-    },
-    {
-      "id": "587a68f32a16198aee7484b8",
-      "title": "BT LIVE: Trump’s Diesel Crisis | United Kingdom Unraveling? | Netanyahu in NYC",
-      "url": "https://breakthroughnews.org/2026/09/22/september-22-2026",
-      "author": "BreakThrough News",
-      "source": "BT News",
-      "published_at": "2026-09-22T03:35:22+00:00",
-      "content_excerpt": "This content is for members only. Visit the site and log in/register to read.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/587a68f32a16198aee7484b8.json"
-    },
-    {
-      "id": "3bcebaea09dbafc41d43e6b7",
-      "title": "Morocco cracks down on activists as calls for election boycott grow",
-      "url": "https://breakthroughnews.org/2026/09/22/morocco-cracks-down-on-activists-as-calls-for-election-boycott-grow",
-      "author": "Aseel Saleh",
-      "source": "BT News",
-      "published_at": "2026-09-22T03:35:22+00:00",
-      "content_excerpt": "Over the past two weeks, Moroccan authorities have intensified their crackdown on political activists calling for a boycott of the September 23 legislative elections . Opposition parties , including left-wing Workers’ Democratic Way Party and islamist Justice and Charity Association, have announced that they are boycotting the upcoming elections, urging Moroccan people to join the boycott campaign. The Workers’ Democratic Way Party believes that the existing political system falls short of meeting the basic standards of a genuine democracy, and therefore would not “allow for fair and competitive elections capable of bringing about real change.” Meanwhile, the Justice and Charity Association argues that the reason for boycotting the electoral process is the lack of “conditions for free and ",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/3bcebaea09dbafc41d43e6b7.json"
-    },
-    {
-      "id": "e72e72e0f6469578041abbd1",
-      "title": "The AI frontier asks to be paced: anatomy of a panic",
-      "url": "https://breakthroughnews.org/2026/09/21/the-ai-frontier-asks-to-be-paced-anatomy-of-a-panic",
-      "author": "Bappa Sinha",
-      "source": "BT News",
-      "published_at": "2026-09-21T21:34:03+00:00",
-      "content_excerpt": "On September 8, a 27-year-old researcher named Jacob Coxon, a few months into a job at Anthropic (a leading US AI company) after three years at OpenAI, announced his resignation on X . “Neither company is acting responsibly,” he wrote. “They are racing straight to self-improving superintelligence and gambling with our lives.” Within a day, the post had been read more than 100 million times. Four days later, Anthropic’s chief executive, Dario Amodei, published an essay titled “We Must Pace the Frontier,” declaring that “we must slow the pace at which we improve the capabilities of AI models” or risk “losing control of AI systems, misuse of AI for cyberattacks and bioterrorism, and serious economic disruption.” Within hours, Sam Altman of OpenAI agreed, Elon Musk posted “Dario is right,” and",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/e72e72e0f6469578041abbd1.json"
-    },
-    {
-      "id": "99ffc19bf8234499a44075fc",
-      "title": "No body, no death certificate: the bureaucratic limbo trapping the widows of Gaza’s missing men",
-      "url": "https://mondoweiss.net/2026/09/no-body-no-death-certificate-the-bureaucratic-limbo-trapping-the-widows-of-gazas-missing-men",
-      "author": "Enas Abu Ghayad",
-      "source": "Mondoweiss",
-      "published_at": "2026-09-21T20:49:25+00:00",
-      "content_excerpt": "In Gaza, women whose husbands are missing or buried under the rubble are facing a little-known crisis. Without death certificates for their husbands, they're locked out of bank accounts, aid, and custody rights, trapped in bureaucratic limbo amid genocide.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/99ffc19bf8234499a44075fc.json"
     }
   ]
 }
