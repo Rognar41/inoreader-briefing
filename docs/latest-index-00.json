@@ -1,12 +1,117 @@
 {
-  "generated_at": "2026-09-23T22:25:15.111880+00:00",
-  "generated_at_jst": "2026-09-24T07:25:15.111880+09:00",
-  "period_start": "2026-09-22T16:25:15.111880+00:00",
+  "generated_at": "2026-09-24T22:39:08.210094+00:00",
+  "generated_at_jst": "2026-09-25T07:39:08.210094+09:00",
+  "period_start": "2026-09-23T16:39:08.210094+00:00",
   "lookback_hours": 30,
   "folder": "00_毎日確認",
-  "article_count": 19,
+  "article_count": 11,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "b7bd7d7cb76c90c29bd3b209",
+      "title": "AI Destruction Isn’t Hypothetical. It’s Already Here.",
+      "url": "https://www.inoreader.com/article/3a9c6e7672ebbe12",
+      "author": "Branko Marcetic",
+      "source": "Jacobin",
+      "published_at": "2026-09-24T18:38:48+00:00",
+      "content_excerpt": "We’re several weeks into a fierce debate over whether artificial intelligence (AI) will kill us all. Triggered by a spate of former workers at major AI firms coming forward to warn that a future superintelligent AI could lead to human extinction, the debate has inspired a kaleidoscopic array of views that don’t break down along neat ideological lines. Some think it’s all hogwash, either the product of ignorant hype or part of a cynical hype campaign by the industry itself. For others, convinced that the tech’s potential capabilities are no joke, they’re warnings that need to be taken deadly seriously.In many ways, though, the debate is besides the point. It’s not that we shouldn’t try to get to the bottom of what exactly happened with the HuggingFace hacking incident, and that we shouldn’t",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/b7bd7d7cb76c90c29bd3b209.json"
+    },
+    {
+      "id": "85248fd6529efad891ed40a7",
+      "title": "Francis Fukuyama Is Welcoming History Back",
+      "url": "https://www.inoreader.com/article/3a9c6e7672c24274",
+      "author": "Matt McManus",
+      "source": "Jacobin",
+      "published_at": "2026-09-24T16:08:19+00:00",
+      "content_excerpt": "In his new autobiography, Francis Fukuyama boasts that for decades “students in introductory classes in international relations all over the world were required to read [Samuel Huntington’s The Clash of Civilizations ] alongside The End of History .” The flex is warranted; during my undergrad we were assigned both essays in one of my classes on international law. Many intellectuals dream about reaching this level of notoriety. But for Fukuyama, fame came at a heavy price. Namely, he became the kind of thinker whose ideas everyone has an opinion on even while they resolutely avoid reading him (see 99 percent of recent conservative commentary on Karl Marx and Marxism for an example). For years, Fukuyama’s problematic but provocative thesis about reaching the “end of history” was subjected to",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/85248fd6529efad891ed40a7.json"
+    },
+    {
+      "id": "292f9202bbcb064608ecf350",
+      "title": "Cuba Under Siege",
+      "url": "https://inthesetimes.com/article/cuba-under-siege-blockade-trump-sanctions-marco-rubio",
+      "author": "",
+      "source": "In These Times",
+      "published_at": "2026-09-24T16:03:57+00:00",
+      "content_excerpt": "A ​ “ silent Gaza.” That is how a Cuban citizen summed up the impact of the U.S. decades-long blockade that the Trump administration has aggressively ratcheted up since the beginning of the year. In January, weeks after the military assault on Venezuela and the kidnapping of President Nicolás Maduro, Trump, invoking a ​ “ national emergency,” signed an executive order establishing punitive tariffs against any country that would provide Cuba with oil. Cuba depended on Venezuela for the largest share of its energy needs, in an ​ “ oil-for-doctors” agreement established in 2000 by Hugo Chávez and Fidel Castro. The country received 100 , 000 barrels of oil per day in exchange for tens of thousands of Cuban doctors, sports trainers and other professionals who provided Venezuelans with care and ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/292f9202bbcb064608ecf350.json"
+    },
+    {
+      "id": "4a3f28261c4934af844b6f2d",
+      "title": "Immigrants Aren't Taking Away Our Healthcare—ICE Is",
+      "url": "https://inthesetimes.com/article/immigrants-healthcare-ice-medicaid-medicare-snap-cuts-obbb",
+      "author": "",
+      "source": "In These Times",
+      "published_at": "2026-09-24T16:03:57+00:00",
+      "content_excerpt": "The cost of healthcare just keeps going up — and millions of Americans are set to lose coverage. Under the GOP’s so-called ​ “ Big Beautiful Bill,” around 17 million people in this country will lose health care thanks to the law’s Medicaid cuts, failure to renew Affordable Care Act subsidies and other changes. Those cuts accelerate after this year’s midterms. Instead, that money is going toward tax cuts for the rich plus record budgets for Immigrations and Customs Enforcement (ICE) and the Pentagon. Immigrants — including well over 1 million residents who are lawfully present — will be especially hard hit. Rosa Maria Carranza fled El Salvador’s civil war for the United States decades ago, working here and sending money home to support her three children. She missed their milestones as she ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/4a3f28261c4934af844b6f2d.json"
+    },
+    {
+      "id": "e95cb64343eb29d5ecd4128a",
+      "title": "The Rising Left Can’t Ignore Labor’s Ongoing Crisis",
+      "url": "https://www.inoreader.com/article/3a9c6e7672be26ce",
+      "author": "Sam Gindin",
+      "source": "Jacobin",
+      "published_at": "2026-09-24T14:06:36+00:00",
+      "content_excerpt": "As the Trump administration stumbles from scandal to scandal and worries over artificial intelligence reach a fever pitch, there seems to be little relief in sight for working-class Americans confronting a stubborn cost-of-living crisis. The failure of both Republicans and Democrats to advance real solutions to the affordability crunch has opened the door to hopeful socialist election victories, including Zohran Mamdani’s triumph in New York last year and several left-wing wins in congressional primaries this summer. Yet organized labor by and large has continued its long retreat, and the prospects of significant national policy change still look remote. Sam Gindin is one of the most exacting and capacious thinkers on the socialist left today. With decades of experience in the labor moveme",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/e95cb64343eb29d5ecd4128a.json"
+    },
+    {
+      "id": "7cb498471dc0040f52adfb9e",
+      "title": "A New Leader Wants to Move Bulgaria Left",
+      "url": "https://www.inoreader.com/article/3a9c6e7672bb206d",
+      "author": "Krum Zarkov",
+      "source": "Jacobin",
+      "published_at": "2026-09-24T13:37:01+00:00",
+      "content_excerpt": "Bulgaria might not be the first country you associate with the socialist movement. But left-wingers have played an outsize role in the southeastern European country, ever since some twenty activists founded the Bulgarian Social Democratic Workers’ Party at a clandestine mountain rendezvous in 1891. After the Russian Revolution, the newly formed Bulgarian Communist Party (BCP) launched a failed uprising in 1923, and, after playing a decisive role in the antifascist partisan resistance during World War II, took power with Soviet backing. Lasting from 1944 to 1990 and combining Soviet-style planning with nationalist policies that, over time, grew increasingly hostile toward the country’s Turkish minority, the BCP’s rule nevertheless fundamentally transformed Bulgaria. Starting from an overwhe",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/7cb498471dc0040f52adfb9e.json"
+    },
+    {
+      "id": "6846ac8a96d7bb3b2fd37c65",
+      "title": "“You Can’t Have an Inclusive and Diverse City When the Police Engage in Racist Practices”",
+      "url": "https://democraticleft.dsausa.org/2026/09/24/you-cant-have-an-inclusive-and-diverse-city-when-the-police-engage-in-racist-practices",
+      "author": "Democratic Left",
+      "source": "Democratic Left",
+      "published_at": "2026-09-24T13:07:13+00:00",
+      "content_excerpt": "Democratic Left interviews Police Reform Organizing Project Director Robert Gangi about Zohran Mamdani and the NYPD. The post “You Can’t Have an Inclusive and Diverse City When the Police Engage in Racist Practices” appeared first on Democratic Left .",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/6846ac8a96d7bb3b2fd37c65.json"
+    },
     {
       "id": "f37d5678eebfdb934975bf14",
       "title": "What Cedric Robinson’s Black Marxism Gets Wrong",
@@ -66,231 +171,6 @@
       "priority": 1,
       "date_missing": false,
       "article_path": "articles/f73a6349bb76e28bb436cdb3.json"
-    },
-    {
-      "id": "d7908c06ff8a907d6515c28c",
-      "title": "The Uprising We Got vs. the One We Need",
-      "url": "https://www.inoreader.com/article/3a9c6e76721fa852",
-      "author": "Eileen Jones",
-      "source": "Jacobin",
-      "published_at": "2026-09-23T16:27:10+00:00",
-      "content_excerpt": "How do you make a boring film about a peasant revolt? Writer-director Paul Greengrass ( The Bourne Supremacy , Captain Phillips , United 93 ) has found a way. His new film, The Uprising , is about the English Peasants’ Revolt of 1381, and it’s such a glum plod I should’ve forgotten it immediately after seeing it. But somehow it haunts me. Maybe it’s the dismal blue-lit cinematography, so typical of our spiritless era. And on top of that, Greengrass’s tendency to favor in intense scenes his wobbling, uncertain handheld-camera work that has so little impact, you want to yell at the screen, “Pick a shot, man! You’re the director!” But mostly, it’s the way the film disapproves of peasant revolts, which you might say is surely impossible. If there’s a peasant revolt, you side with the peasants,",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/d7908c06ff8a907d6515c28c.json"
-    },
-    {
-      "id": "bbc820f7a9b825f19c6b074c",
-      "title": "How Should Socialists Relate to the Market?",
-      "url": "https://www.inoreader.com/article/3a9c6e767202296b",
-      "author": "Vivek Chibber",
-      "source": "Jacobin",
-      "published_at": "2026-09-23T15:25:57+00:00",
-      "content_excerpt": "It’s all too common for people to associate the existence of markets with capitalism. But because we know markets had a life before capitalism, we can also imagine them having a life after. On this latest episode of the Jacobin Radio podcast Confronting Capitalism , Vivek Chibber and Melissa Naschek compare how markets operated in precapitalist economies versus modern capitalist economies to see if markets may prove useful in future socialist societies. Confronting Capitalism with Vivek Chibber is produced by Catalyst: A Journal of Theory and Strategy and published by Jacobin . You can listen to the full episode here . Melissa Naschek In our episode on market socialism , you talked about why markets are not inherently capitalist and why the socialist movement should think seriously about h",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/bbc820f7a9b825f19c6b074c.json"
-    },
-    {
-      "id": "4efa9a110a97b50a86176d28",
-      "title": "Democratic Socialism in the 2026 California Elections: Local Chapter Reports",
-      "url": "https://www.californiadsa.org/news/0we87mn67kqp7xb7dy9tlp9x3wkhd0",
-      "author": "California DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-09-23T14:17:44+00:00",
-      "content_excerpt": "DSA chapters across the golden state from San Diego to Humboldt have endorsed candidates and ballot measures and are mobilizing to support them. Here our contributors lay out what we are up to in promoting a democratic socialist political agenda. Santa Barbara DSA Santa Barbara has decided to endorse candidates for local city council, including a mayoral candidate. As of 2024, Santa Barbara has enjoyed a slight 4-3 progressive majority on City Council, allowing for such policies as a local Rent Stabilization Ordinance and the non-renewal of a contract with Flock. However, this majority hangs in the balance in the upcoming election with four seats on council being up for grabs. The current mayor, a conservative man who has hurt progress in the city, has decided not to run for reelection, an",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/4efa9a110a97b50a86176d28.json"
-    },
-    {
-      "id": "99f415f0915dbcec21372a5a",
-      "title": "Tax California Billionaires Now!",
-      "url": "https://www.californiadsa.org/news/pgx974zoodskr6erpt2yevrkpadkvr",
-      "author": "California DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-09-23T14:17:44+00:00",
-      "content_excerpt": "[reprinted by permission from The Press Democrat ] This Labor Day (weekend), it’s essential to highlight that reducing inequality is the main purpose of labor unions through collective bargaining for living wages, comprehensive benefits, and improved workplace health and safety conditions. Moreover, unions provide a political voice for their members and lobby for legislation, such as restrictions on child labor, a minimum wage, the forty-hour week, and Social Security, that benefit all working people. Recently, the California Federation of Labor Unions, representing 1300 affiliated unions with 2.3 million members, endorsed Proposition 40, the California Billionaire Tax Act on the November ballot. Prop 40 is a one-time 5% wealth tax spread over five years on California’s 250 billionaires wh",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/99f415f0915dbcec21372a5a.json"
-    },
-    {
-      "id": "9e31a26ac6a9246ba16a0577",
-      "title": "NONONO on Propositions 41, 42, 43",
-      "url": "https://www.californiadsa.org/news/d7ipsryb2okp70zz1lxhnz8ehmbbgy",
-      "author": "California DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-09-23T14:17:44+00:00",
-      "content_excerpt": "Most of the attention on the California state ballot has been focused on the Billionaire Tax, Prop 40, thanks to heavy-handed spending by a dozen superrich reactionaries who are horrified at the idea that any part of their beyond-Gilded Age-level wealth might get redirected to health care for people who desperately need it. But there are four related measures that require the attention of voters who care about economic inequality and want to address it fairly, since these measures also relate to appropriate taxes for rich people in the Golden State. One, the Education and Health Care Act of 2026 (Prop 3) is a currently existing but temporary income tax on the top two percent of income earners—individuals who make at least $370 thousand, or joint filers who make $740 thousand a year. This t",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/9e31a26ac6a9246ba16a0577.json"
-    },
-    {
-      "id": "88eb60cd36067a6056bd5e54",
-      "title": "After the Party: Dorothy Healey, Radio Days, and the Reinvention of the Los Angeles Left",
-      "url": "https://www.californiadsa.org/news/c1e4khffhotjlkz8xy3hemgun24tc0",
-      "author": "California DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-09-23T14:17:44+00:00",
-      "content_excerpt": "Dorothy Healey (third from right) and other Communists arrested by U.S. Marshals for violating the Smith Act, 1951 (L-R): Unknown, Henry Steinberg, Philip Connelly, Healey, Unknown, Rose Chernin . PART ONE OF TWO On July 9, 1973, Dorothy Healey sat behind a microphone at KPFK in Los Angeles and ended a political commitment that had consumed nearly her entire adult life. She had joined the Young Communist League at 14, organized farmworkers and cannery workers, gone to jail, rose through the ranks of Communist Party leadership, and for two decades led its Southern California district. Now, at 58, she told her radio audience that she was resigning from the party. The immediate cause was almost painfully characteristic of the organization she was leaving. The national party had denounced Al R",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/88eb60cd36067a6056bd5e54.json"
-    },
-    {
-      "id": "4b933a8d517db9705c24f6af",
-      "title": "What is MAC? (A: “A Vehicle for Socialist Change”)",
-      "url": "https://www.californiadsa.org/news/u8fzbs5zx3h6dzw2ha6gff6amu0ovu",
-      "author": "California DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-09-23T14:17:44+00:00",
-      "content_excerpt": "OCDSA’s Mutual Aid Committee, affectionately abbreviated to “MAC”, has been one of the chapter’s longest operating undertakings. Following the Marxist ideal of a society sharing goods and services according to ability and need, MAC’s work, directly within the chapter and with members of the community at large, has long been the focus of the group, even before our formal establishment as a committee in 2026. MAC works with community partners to provide meals and groceries to the county’s at-risk and unhoused populations. What does MAC do? In the pandemic years, MAC provided taillight services for free to the community in the wake of George Floyd’s murder, and helped provide groceries to low-income community members directly at their doors during lockdown. Following the easing of social dist",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/4b933a8d517db9705c24f6af.json"
-    },
-    {
-      "id": "beb0542fc4065867945bd3e2",
-      "title": "The Revolutionary Cocktail: Why DSA Needs Electoralism, Direct Action, and Mutual Aid to Win",
-      "url": "https://www.californiadsa.org/news/uz3pfzfmkbyzzr2up6rk11zw9lfyox",
-      "author": "California DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-09-23T14:17:44+00:00",
-      "content_excerpt": "PART ONE OF TWO [Reprinted from Geese ] Too often, mutual aid, direct action, and electoralism are treated as exclusive contrasts. Reflecting on his work in the San Diego chapter of DSA, Aldo B. argues that each tactic is part of a necessary whole and that any of them, taken individually, are ineffective as a revolutionary strategy. Abolish ICE May Day 2026. Edgar Ramirez photo A colleague of mine once said that his revolutionary cocktail for the systemic change we needed as a movement entailed three key elements; direct action, mutual aid, and electoralism. This concoction has stuck with me and rolled around in my head since he said it over a year ago in his millennial-style car vlog that he posted on Instagram. I've since expanded these three components into conceptualized processes: Dir",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/beb0542fc4065867945bd3e2.json"
-    },
-    {
-      "id": "ee1e82dca7301de4e8a05b65",
-      "title": "Starbucks' Corporate War on Reality",
-      "url": "https://www.californiadsa.org/news/e20k339ih3y619d1o9plax9v265c7b",
-      "author": "California DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-09-23T14:17:44+00:00",
-      "content_excerpt": "“…people believe, 'Well this is a really affordable premium experience.' Because they're saying like, 'Well it's less than $10 and I get a really premium experience'.\" —Starbucks CEO Brian Niccol, Wall Street Journal interview, April 2026. The unionization movement will drag Starbucks and companies like it kicking and screaming into a world where “good business” means treating workers and customers fairly. Being ordered by your boss to do the impossible is nothing new. Nearly everyone has multiple stories of a boss holding them to an unreasonable standard. But those managers may not just be one-off cranks whose demands of their employees don't ultimately affect the overall business model and instead are a symptom of a much deeper problem. My argument is that this phenomenon has not only be",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/ee1e82dca7301de4e8a05b65.json"
-    },
-    {
-      "id": "83b519bf5bd79a9bbba3a0ce",
-      "title": "October 10: Make a Difference, Tax the Rich",
-      "url": "https://www.californiadsa.org/news/6equ4hktostw0wu3osdcegxzynct85",
-      "author": "California DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-09-23T14:17:44+00:00",
-      "content_excerpt": "Every so often we have an opportunity to do something transformative. I’m not talking about “changing the narrative”, although that’s important and part of the picture. I’m talking about changing the world. Easy to say, hard to do. But on October 10 we will have that opportunity by countering right wing billionaire lies with a simple truth: education and health care are rights, not privileges reserved for the wealthy few. East Bay DSA and the Alameda Labor Council joined forces to launch the first Tax the Rich canvass in Oakland September 19, two days after the chapter’s art build created the signage. What’s at stake On the November 3 state ballot there are two initiatives—Prop 3 and Prop 40—that together give us the chance to help the richest Californians part with a significant amount of",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/83b519bf5bd79a9bbba3a0ce.json"
-    },
-    {
-      "id": "6642b1e2da7ab8e48db79a6a",
-      "title": "Workers Deserve Education",
-      "url": "https://democraticleft.dsausa.org/2026/09/23/workers-deserve-education",
-      "author": "cale_t",
-      "source": "Democratic Left",
-      "published_at": "2026-09-23T09:01:11+00:00",
-      "content_excerpt": "Public schools returning to democratic civic education can help save public education and working class politics The post Workers Deserve Education appeared first on Democratic Left .",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/6642b1e2da7ab8e48db79a6a.json"
-    },
-    {
-      "id": "09ae44fd1836a81347c5c95a",
-      "title": "Weekly Roundup: Sept 22, 2026",
-      "url": "https://dsasf.org/weekly-roundup-sept-22-2026",
-      "author": "San Francisco DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-09-22T20:08:50+00:00",
-      "content_excerpt": "Events & Actions Tuesday, September 22 (6:30 PM – 8:00 PM) Ecosocialist Bi-Weekly Meeting (in person at 1916 McAllister St and zoom) Wednesday, September 23 (6:00 PM – 7:30 PM) What Is DSA? (in person at Latino Community Room A of the San Francisco Main Public Library, 100 Larkin) Thursday, September 24 (5:30 PM – 8:00 PM) Phonebank for Prop I (in person at 1916 McAllister) Thursday, September 24 (7:00 PM – 8:30 PM) Organizing Mindset Training Series (in person at 1916 McAllister) Friday, September 25 (5:30 PM – 8:00 PM) Movie night: The Battle of Chile Part Two (in person at 1916 McAllister) Saturday, September 26 (11:00 AM – 2:00 PM) Yes on I Lit Drop (in person at 1916 McAllister) Saturday, September 26 (11:00 AM – 12:00 PM) No on Prop D Lit Drop (in person at McCoppin Square Park, 1200",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/09ae44fd1836a81347c5c95a.json"
-    },
-    {
-      "id": "487eda9aadc4a126bbfe97fc",
-      "title": "Bernie Sanders on Why Superintelligent AI Is an Existential Threat That Needs To Be Banned",
-      "url": "https://inthesetimes.com/article/bernie-sanders-artificial-intelligence-ai-openai-ban",
-      "author": "",
-      "source": "In These Times",
-      "published_at": "2026-09-22T17:52:40+00:00",
-      "content_excerpt": "At what was hailed as a ​ “ pro-human assembly” in Washington, D.C., on September 15 , Sen. Bernie Sanders (I-Vt.) delivered the following response to the growing threats of artificial intelligence and pushed for Big Tech companies to end any meddling in the midterm elections. ________ Let’s be clear. Artificial intelligence (AI) and robotics are the most transformational technologies in the history of the world — impacting the lives of every man, woman and child in our country. AI experts have told us that, within a few years, AI may be able to do anything we can do better than we can do it. The economic impact of that is that AI has the potential to eliminate tens of millions of jobs, wiping out entire professions and making it harder for young people to enter into the workforce. But it’",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/487eda9aadc4a126bbfe97fc.json"
-    },
-    {
-      "id": "8e05150a0770c2a7174b7a3b",
-      "title": "Kingston’s Quiet Rent Revolution",
-      "url": "https://inthesetimes.com/article/kingston-rent-tenants-landlords-organizing-housing-dispatch",
-      "author": "",
-      "source": "In These Times",
-      "published_at": "2026-09-22T17:52:40+00:00",
-      "content_excerpt": "KINGSTON, N.Y. — On September 1 , John and Gail Bechtold tore open their monthly rent statement, hoping their landlord had finally given in and fixed it. But those same four numbers stared back at them: $ 1 , 700 . It was the 39 th month in a row that Opus Management Group overcharged the Bechtolds by $ 221 . 74 for their apartment in the Dutch Village (or, as Gail calls it, Dump Village) complex in Kingston. According to a state housing agency ruling, Opus owes the Bechtolds, both retirees in their 80 s, well over $ 10 , 000 . Whether they can get that money back, however, is a question whose answer will likely reverberate throughout the tenant movement. “ They’re not going to pay back,” Gail told In These Times , laughing. ​ “ I don’t trust these people for anything.” The Bechtolds repre",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/8e05150a0770c2a7174b7a3b.json"
-    },
-    {
-      "id": "a66c7baf06f8b28d511f276b",
-      "title": "The Foundations of Turkey’s Peace With the Kurds Are Shaky",
-      "url": "https://www.inoreader.com/article/3a9c6e7673680546",
-      "author": "Ertuğrul Kürkçü",
-      "source": "Jacobin",
-      "published_at": "2026-09-22T17:03:51+00:00",
-      "content_excerpt": "Turkey’s political scene is moving. The recently passed Framework Law redirects the Kurdish question — the principal fault line in the country’s imagined national unity — from armed confrontation to regulated pacification. This has political consequences far beyond its narrow legal scope. More than bringing one period of the Kurdish conflict to a close, it opens a new phase in Turkey’s class struggles by reshaping the balance between the state, the Kurdish movement, and the political opposition. The August 10 Framework Law — officially the Law on Strengthening National Solidarity and Social Cohesion — is a genuine rupture in Turkey’s handling of the Kurdish conflict. More than an administratively dressed-up executive concession, it crowns a parliamentary process initiated by an all-party c",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/a66c7baf06f8b28d511f276b.json"
     }
   ]
 }

@@ -1,12 +1,297 @@
 {
-  "generated_at": "2026-09-23T22:25:15.111880+00:00",
-  "generated_at_jst": "2026-09-24T07:25:15.111880+09:00",
-  "period_start": "2026-09-22T16:25:15.111880+00:00",
+  "generated_at": "2026-09-24T22:39:08.210094+00:00",
+  "generated_at_jst": "2026-09-25T07:39:08.210094+09:00",
+  "period_start": "2026-09-23T16:39:08.210094+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
   "article_count": 20,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "da85275c111df51bd07b573c",
+      "title": "US rolls out sanctions against Iranian airlines",
+      "url": "https://breakthroughnews.org/2026/09/24/us-rolls-out-sanctions-against-iranian-airlines",
+      "author": "Abdul Rahman",
+      "source": "BT News",
+      "published_at": "2026-09-24T20:46:18+00:00",
+      "content_excerpt": "China called the latest US threats of secondary sanctions on airline service-providing companies across the world an illegal unilateral measure without any basis in international law. The US said the sanctions would be applied if these companies do not stop providing services to Iranian airlines. China said they “firmly oppose illicit unilateral sanctions that have no basis in international law and lack UN Security Council mandate,” Guo Jiakun, official spokesperson of its Ministry of Foreign Affairs said during a regular press conference on Wednesday, September 23. China’s reaction came on the same day the latest US sanctions against Iran went into effect. The US Treasury Secretary Scott Bessent has asked companies across the world who are involved in providing services such as refuelling",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/da85275c111df51bd07b573c.json"
+    },
+    {
+      "id": "8eedbcf62a1b2e36cfd60fa6",
+      "title": "Bolivia’s right-wing government eliminates diesel subsidy",
+      "url": "https://breakthroughnews.org/2026/09/24/bolivias-right-wing-government-eliminates-diesel-subsidy",
+      "author": "Pablo Meriguet",
+      "source": "BT News",
+      "published_at": "2026-09-24T19:47:11+00:00",
+      "content_excerpt": "“Nothing in life is free,” goes an old Latin American saying, and Bolivia’s right-wing President Rodrigo Paz has proven this once again. The International Monetary Fund confirmed that it will disburse $1.9 billion to Bolivia, which will naturally have to repay the loan. A few hours later, as part of the agreement with the neoliberal-leaning international financial institution, Paz announced that he would eliminate the subsidy on diesel, the fuel typically used by transporters and farmers for production. According to reports from La Paz, the price will increase by 100% (for now), as it will be adjusted to international market rates. Several experts assert that the government’s decision will lead to an imminent increase in the price of food, mining, and transportation, thereby negatively imp",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/8eedbcf62a1b2e36cfd60fa6.json"
+    },
+    {
+      "id": "3d4130771661e94abd47bd8a",
+      "title": "Groenlandia no está en venta: la ‘Doctrina Donroe’ de Trump y el imperialismo estadounidense",
+      "url": "https://breakthroughnews.org/2026/09/23/groenlandia-no-esta-en-venta-la-doctrina-donroe-de-trump-y-el-imperialismo-estadounidense",
+      "author": "Vijay Prashad",
+      "source": "BT News",
+      "published_at": "2026-09-24T19:47:11+00:00",
+      "content_excerpt": "Read in English here La campaña de Donald Trump para poner a Groenlandia bajo el control de los Estados Unidos a menudo se ha descartado como pura fanfarronería. Eso es un error. Detrás del lenguaje de un acuerdo inmobiliario se esconde un intento serio de revivir un antiguo principio imperial: que Washington pueda decidir el futuro político y económico de todo el hemisferio occidental. Groenlandia, estratégicamente ubicada entre América del Norte y Europa, se ha convertido en una prueba de esa afirmación – y de si la soberanía de una pequeña nación indígena cuenta cuando entra en conflicto con las ambiciones de una gran potencia. Trump planteó la idea de comprar Groenlandia durante su primer mandato presidencial en 2019. Tras su reelección, la propuesta se volvió más agresiva. En diciembr",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/3d4130771661e94abd47bd8a.json"
+    },
+    {
+      "id": "813487492b7bbbf8516e1390",
+      "title": "European leaders fixate on Russia, avoid criticizing US at UNGA",
+      "url": "https://breakthroughnews.org/2026/09/24/european-leaders-fixate-on-russia-avoid-criticizing-us-at-unga",
+      "author": "Ana Vračar",
+      "source": "BT News",
+      "published_at": "2026-09-24T18:48:06+00:00",
+      "content_excerpt": "Artificial intelligence was the concept of choice among European speakers during the first days of the United Nations General Assembly (UNGA). Prime ministers and presidents recognized opportunities and invoked stronger regulation – then returned to advocating for more military spending, planning deterrence, and avoiding harsh words for the Trump administration. Read more: The AI frontier asks to be paced: anatomy of a panic “I’m afraid I may lack originality in describing it [the situation in the world],” French President Emmanuel Macron remarked, referring to the overlaps between interventions. For once , he was not wrong. Most European speeches described the world in terms of crisis, yet failed to spell out the connections between that situation and the behavior of the United States. Ma",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/813487492b7bbbf8516e1390.json"
+    },
+    {
+      "id": "b480af8fdcec5e080c3e04b5",
+      "title": "Nobel Laureate Maria Ressa on Trump’s Media Ban, Regulating AI & the “Tech Coup in Plain Sight”",
+      "url": "https://www.democracynow.org/2026/9/24/un_maria_ressa",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-09-24T14:56:27+00:00",
+      "content_excerpt": "A federal judge has temporarily blocked President Trump’s ban on CNN , MS NOW and Politico , ordering the administration to restore their White House access for two weeks. CBS , Fox News and NBC had suspended their coverage of President Trump Monday after he expelled CNN from the White House TV press pool. “People are standing up for press freedom,” says Filipino American journalist Maria Ressa, who won the 2021 Nobel Peace Prize. “There are costs to standing up, but there are greater costs to giving up.” Ressa is also co-chair of the United Nations Independent International Scientific Panel on Artificial Intelligence. “A small group of countries and companies should not be determining the fate of the world,” says Ressa about the current state of AI. Page 2 Leaders of top artificial intell",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/b480af8fdcec5e080c3e04b5.json"
+    },
+    {
+      "id": "6692de3cdce4f70b352ec189",
+      "title": "Should U.N. Help Set Global AI Rules? AI Tech Billionaires Address Security Council",
+      "url": "https://www.democracynow.org/2026/9/24/un_ai",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-09-24T14:56:27+00:00",
+      "content_excerpt": "Leaders of top artificial intelligence firms, including OpenAI CEO Sam Altman and Anthropic CEO Dario Amodei, testified to the U.N. Security Council on Wednesday, urging nations to adopt international standards on the development of AI. This comes after AI agents at OpenAI, Anthropic, Meta and Google have gone rogue in recent months, hacking into other companies’ corporate systems and, in the case of OpenAI, into the portal of Australia’s public health insurance program. “I think we’re headed in the right direction,” says Malo Bourgon, CEO of the Machine Intelligence Research Institute, who has participated in several AI-related meetings on the sidelines of the U.N. General Assembly this week. “I do think that the CEOs, while there’s a bunch of reason to be cynical about them, are sincere ",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/6692de3cdce4f70b352ec189.json"
+    },
+    {
+      "id": "4c836568b32f7ce3f035791a",
+      "title": "“Colonial AI”: African Countries Seek Tech Sovereignty But Fear a New Digital Colonialism",
+      "url": "https://www.democracynow.org/2026/9/24/africa_ai",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-09-24T14:56:27+00:00",
+      "content_excerpt": "Seydina Moussa Ndiaye is a member of the Global Partnership on Artificial Intelligence, working on a strategy with the African Union to address the risks and benefits of AI for the continent. African countries face the threat of “colonial AI,” says Ndiaye. “When we talk about colonialism historically, that involves the control of resources, the control of knowledge and the control of terms of exchange, and we see that in Africa when we talk about AI.” Please check back later for full transcript. Page 2 “One of the features we see in … a lot of the billionaire tech elites is a real kind of anger,” says Jacob Silverman, author of Gilded Rage: Elon Musk and the Radicalization of Silicon Valley . “They’re angry at what they see as the excesses of woke culture and liberal and lefty politics. … ",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/4c836568b32f7ce3f035791a.json"
+    },
+    {
+      "id": "efb67be2d0fb02de0355710e",
+      "title": "“Gilded Rage”: Jacob Silverman on How a Radicalized Silicon Valley Shapes Trump’s AI Policies",
+      "url": "https://www.democracynow.org/2026/9/24/gilded_rage",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-09-24T14:56:27+00:00",
+      "content_excerpt": "“One of the features we see in … a lot of the billionaire tech elites is a real kind of anger,” says Jacob Silverman, author of Gilded Rage: Elon Musk and the Radicalization of Silicon Valley . “They’re angry at what they see as the excesses of woke culture and liberal and lefty politics. … And they’re angry that they don’t have free rein to enact the world they want to enact, and that includes areas like AI.” Silverman also discusses how tech elites like Peter Thiel and David Sacks are shaping the Trump administration’s approach to technology. Please check back later for full transcript.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/efb67be2d0fb02de0355710e.json"
+    },
+    {
+      "id": "7a078f1f88c1522e63a3fba5",
+      "title": "Palestinian Elections: Gaza & West Bank youth launch independent list in rejection of factional politics",
+      "url": "https://mondoweiss.net/2026/09/palestinian-elections-gaza-west-bank-youth-launch-independent-list-in-rejection-of-factional-politics",
+      "author": "Tareq S. Hajjaj",
+      "source": "Mondoweiss",
+      "published_at": "2026-09-24T13:26:56+00:00",
+      "content_excerpt": "For the second time, a self-funded civil society list led by young Gazans is seeking a seat in the Palestinian Legislative Council, focusing on immediate hardships, like unemployment, healthcare, and shelter, rather than political ideology.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/7a078f1f88c1522e63a3fba5.json"
+    },
+    {
+      "id": "7624d1e9ce861d162b8a2847",
+      "title": "Trump TV launched after major U.S. networks suspend presidential coverage",
+      "url": "https://mronline.org/2026/09/24/trump-tv-launched-after-major-u-s-networks-suspend-presidential-coverage",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-09-24T13:07:47+00:00",
+      "content_excerpt": "The White House began broadcasting on its new media platform, Trump TV, this week, streaming government content, announcements and archived speeches on a continuous basis, days after the country’s major television networks suspended coverage of presidential events. The post Trump TV launched after major U.S. networks suspend presidential coverage appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/7624d1e9ce861d162b8a2847.json"
+    },
+    {
+      "id": "f1775cfef045253c33d2b4b5",
+      "title": "The Leadership Pendulum: How to Avoid the Extremes of Organizational Management",
+      "url": "https://convergencemag.com/articles/the-leadership-pendulum-how-to-avoid-the-extremes-of-organizational-management",
+      "author": "Guiding Threads Collective",
+      "source": "Convergence",
+      "published_at": "2026-09-24T12:23:22+00:00",
+      "content_excerpt": "“It’s funny to say this because I’m the leader of this organization, but the reality is I’m actually very uncomfortable being in charge.” Eve and I are in our regularly scheduled monthly coaching calls. Eve is a white woman in her mid-40s, a mother of three, and has been the Executive Director of a legal non-profit for the last 4 years.* She goes on to explain that having and wielding power… Source",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/f1775cfef045253c33d2b4b5.json"
+    },
+    {
+      "id": "6ae617d7e0a4c422eecf438d",
+      "title": "Mamdani hails landmark DoorDash deal as ‘largest settlement for food delivery workers ever’",
+      "url": "https://mronline.org/2026/09/24/mamdani-hails-landmark-doordash-deal-as-largest-settlement-for-food-delivery-workers-ever",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-09-24T12:06:16+00:00",
+      "content_excerpt": "“After years of corporate greed and impunity, we are holding DoorDash to account.” The post Mamdani hails landmark DoorDash deal as ‘largest settlement for food delivery workers ever’ appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/6ae617d7e0a4c422eecf438d.json"
+    },
+    {
+      "id": "429f22a74f9886d70df31ca9",
+      "title": "A climate “movement” homonym: (or, how the Big Apple’s annual environmental gathering surfaces an imperative inquiry, climate week or climate weak?)",
+      "url": "https://mronline.org/2026/09/24/a-climate-movement-homonym-or-how-the-big-apples-annual-environmental-gathering-surfaces-an-imperative-inquiry-climate-week-or-climate-weak",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-09-24T11:04:40+00:00",
+      "content_excerpt": "Some years ago, when I attended my first NYC Climate Week, I remember leaving one of the many panels I attended that day extremely frustrated and consumed by a feeling of despondency... The post A climate “movement” homonym: (or, how the Big Apple’s annual environmental gathering surfaces an imperative inquiry, climate week or climate weak?) appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/429f22a74f9886d70df31ca9.json"
+    },
+    {
+      "id": "76404c5c571a5a7a2b810a52",
+      "title": "What are ‘space weapons’, which U.S. says it has deployed into orbit?",
+      "url": "https://mronline.org/2026/09/24/what-are-space-weapons-which-u-s-says-it-has-deployed-into-orbit",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-09-24T10:02:15+00:00",
+      "content_excerpt": "The rare announcement from Washington is expected to raise alarm among allies and adversaries alike, experts say. The post What are ‘space weapons’, which U.S. says it has deployed into orbit? appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/76404c5c571a5a7a2b810a52.json"
+    },
+    {
+      "id": "ca5f566ffd5fa07c9404aa53",
+      "title": "At the UN Trump threatens to use “unmatched military power” in Latin America",
+      "url": "https://mronline.org/2026/09/24/at-the-un-trump-threatens-to-use-unmatched-military-power-in-latin-america",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-09-24T09:31:35+00:00",
+      "content_excerpt": "“The United States will no longer allow threats against the Americas to gain ground anywhere in the Western Hemisphere. And, if necessary, we will use our unmatched military might to secure the vital national interests of the United States,” Trump said. The post At the UN Trump threatens to use “unmatched military power” in Latin America appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/ca5f566ffd5fa07c9404aa53.json"
+    },
+    {
+      "id": "48635a06da063b001aefbd82",
+      "title": "How to Install, Use, and Create Skills",
+      "url": "https://thetricontinental.org/how-to-install-use-and-create-skills",
+      "author": "",
+      "source": "[:en]THE TRICONTINENTAL[:es]TRICONTINENTAL[:]",
+      "published_at": "2026-09-24T07:29:45+00:00",
+      "content_excerpt": "A skill is a reusable workflow for an AI agent. Its main SKILL.md file explains when the skill should be used and what the agent should do. A skill may also contain scripts, templates, and other reference materials. The agent may select a skill automatically when a task matches its description, or you can invoke it directly. This guide demonstrates how to find, review, install, and use skills with an AI-agent extension in VS Code. If you have not yet set up this workspace, follow Set Up Your AI Workspace (macOS) or Set Up Your AI Workspace (Windows) before continuing. Although interfaces and installation methods may vary, the same basic workflow also applies to other AI agents that support skills. Installing Skills in VS Code Installing a Skill through a Skills Platform Numerous platforms ",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/48635a06da063b001aefbd82.json"
+    },
+    {
+      "id": "3939385b1557068cc0bcc324",
+      "title": "BT LIVE: UN General Assembly 2026 | Xi-Trump DC Summit | Pakistan Crackdown",
+      "url": "https://breakthroughnews.org/2026/09/23/september-24-2026",
+      "author": "BreakThrough News",
+      "source": "BT News",
+      "published_at": "2026-09-23T23:59:36+00:00",
+      "content_excerpt": "This content is for members only. Visit the site and log in/register to read.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/3939385b1557068cc0bcc324.json"
+    },
+    {
+      "id": "d7925634027920787a5b3f3c",
+      "title": "Prof. Wolff: the US debt crisis is coming for you",
+      "url": "https://breakthroughnews.org/2026/09/23/prof-wolff-the-us-debt-crisis-is-coming-for-you",
+      "author": "Zoe Alexandra",
+      "source": "BT News",
+      "published_at": "2026-09-23T23:00:39+00:00",
+      "content_excerpt": "Diesel is approaching $9 a gallon in California, the Federal Reserve just raised interest rates for the first time since 2023, and Americans have lost roughly 30% of their purchasing power in just six years. That’s not the economy malfunctioning – it’s proof of the American empire in decline, says Dr. Richard Wolff, economics professor and founder of Democracy at Work. He tells Zoe Alexandra and Rania Khalek the Strait of Hormuz is where Washington’s unchecked economic conquest finally hit a wall, and the costs are being offloaded onto working families. From Washington’s “lucky” inheritance of a global empire after World War II, to Trump’s war on Iran choking the world’s oil supply, to a $40 trillion national debt now costing more in interest than the entire Pentagon defense budget, Wolff ",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/d7925634027920787a5b3f3c.json"
+    },
+    {
+      "id": "88c35b04ff4788f5dc037f37",
+      "title": "Is the UK breaking up? Ireland, Scotland & Wales unite for independence | w/ Declan Kearney",
+      "url": "https://breakthroughnews.org/2026/09/23/is-the-uk-breaking-up-ireland-scotland-wales-unite-for-independence-w-declan-kearney",
+      "author": "Zoe Alexandra",
+      "source": "BT News",
+      "published_at": "2026-09-23T23:00:39+00:00",
+      "content_excerpt": "Is the UK about to break apart? For the first time ever, Scotland, Wales, and the north of Ireland are led by pro-independence parties committed to “the right of each nation to determine its own future.” Declan Kearney, Sinn Féin’s national chairperson and a Member of the Legislative Assembly in the north of Ireland, joins Zoe Alexandra and Rania Khalek to break down the historic Cardiff agreement, and why he says the United Kingdom is truly on the edge of becoming “disunited.” Kearney digs into how Brexit set off a populist realignment across British politics that’s still reshaping the map, and why Westminster’s refusal to set a date for an Irish reunification referendum may violate the very terms of the Good Friday Agreement – a treaty that still hasn’t delivered the vote it promised the",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/88c35b04ff4788f5dc037f37.json"
+    },
     {
       "id": "666f60eb2835979fc9ad982a",
       "title": "Israel kills son of Gaza health official in latest atrocities",
@@ -21,291 +306,6 @@
       "priority": 2,
       "date_missing": false,
       "article_path": "articles/666f60eb2835979fc9ad982a.json"
-    },
-    {
-      "id": "2193f7480daefcab12ba0ea0",
-      "title": "Iran and US officials meet in New York while Trump threatens further escalation",
-      "url": "https://breakthroughnews.org/2026/09/23/iran-and-us-officials-meet-in-new-york-while-trump-threatens-further-escalation",
-      "author": "Abdul Rahman",
-      "source": "BT News",
-      "published_at": "2026-09-23T22:01:21+00:00",
-      "content_excerpt": "This content is for members only. Visit the site and log in/register to read.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/2193f7480daefcab12ba0ea0.json"
-    },
-    {
-      "id": "539471a658460a5c2a9dc731",
-      "title": "Law imposing stricter sanctions on Russia threatens to reignite tariff war and upend global economy",
-      "url": "https://breakthroughnews.org/2026/09/23/law-imposing-stricter-sanctions-on-russia-threatens-to-reignite-tariff-war-and-upend-global-economy",
-      "author": "Abdul Rahman",
-      "source": "BT News",
-      "published_at": "2026-09-23T22:01:21+00:00",
-      "content_excerpt": "This content is for members only. Visit the site and log in/register to read.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/539471a658460a5c2a9dc731.json"
-    },
-    {
-      "id": "a5d567eb221edb7f55d6adf9",
-      "title": "What’s behind the French ‘License to Kill’ bill?",
-      "url": "https://breakthroughnews.org/2026/09/23/whats-behind-the-french-license-to-kill-bill",
-      "author": "Ana Vračar",
-      "source": "BT News",
-      "published_at": "2026-09-23T22:01:21+00:00",
-      "content_excerpt": "This content is for members only. Visit the site and log in/register to read.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/a5d567eb221edb7f55d6adf9.json"
-    },
-    {
-      "id": "8d4886f524cdce3aba11412b",
-      "title": "‘He’s running away’: why Netanyahu is rushing his NYC visit",
-      "url": "https://breakthroughnews.org/2026/09/22/hes-running-away-why-netanyahu-is-rushing-his-nyc-visit",
-      "author": "elevation",
-      "source": "BT News",
-      "published_at": "2026-09-23T22:01:21+00:00",
-      "content_excerpt": "ICC fugitive Benjamin Netanyahu is scheduled to arrive in New York on Thursday to address the UN General Assembly – under an active arrest warrant for war crimes and crimes against humanity that the US has vowed not to enforce. Taher Dahleh, an organizer with the Palestinian Youth Movement, joins Rania Khalek and Zoe Alexandra ahead of the mass protests that have forced Netanyahu to reroute his flight through New Jersey. Dahleh says the world is waking up to the fact that the architects of the Gaza genocide aren’t the outlier, but the mainstream norm for Israeli politics. He points to the irony of a fugitive war criminal speaking on ‘Restoring Trust’ at the United Nations. And he lays out the stakes of Democrats failing to respond to the cultural sea change on Palestine – as evidenced by E",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/8d4886f524cdce3aba11412b.json"
-    },
-    {
-      "id": "db4af1fd29e11442065b79b9",
-      "title": "What you need to know about Robert Kraft, the pro-Israel billionaire who pressured Ed Sheeran to drop Macklemore",
-      "url": "https://mondoweiss.net/2026/09/what-you-need-to-know-about-robert-kraft-the-pro-israel-billionaire-who-pressured-ed-sheeran-to-drop-macklemore",
-      "author": "Michael Arria",
-      "source": "Mondoweiss",
-      "published_at": "2026-09-23T17:55:37+00:00",
-      "content_excerpt": "Robert Kraft got Macklemore ousted from Ed Sheeran's tour over \"Free Palestine.\" A look at the NFL owner's record makes it clear why: funding the IDF, fighting BDS, courting Netanyahu, and bringing football legends on tours of Israel.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/db4af1fd29e11442065b79b9.json"
-    },
-    {
-      "id": "54ea03670780d9540c11623f",
-      "title": "“New Low in U.N. History”: Trita Parsi on Trump’s Threat to Annihilate Iran at General Assembly",
-      "url": "https://www.democracynow.org/2026/9/23/trita_parsi_trump_un_iran_war",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-09-23T14:41:58+00:00",
-      "content_excerpt": "This is a rush transcript. Copy may not be in its final form. ANJALI KAMAT : At the United Nations General Assembly on Tuesday, Secretary-General António Guterres reiterated his call for peace in the Middle East. SECRETARY - GENERAL ANTÓNIO GUTERRES : Across the Middle East, conflicts are cascading. So-called ceasefires have amounted to little more than lesser fires, with civilians continuing to pay the price. Enough is enough. I appeal to the leaders in this chamber to maximize this high-level week for deescalation and dialogue. And together, let’s send a clear message from this hall: The fighting must stop. AMY GOODMAN : Shortly after the secretary-general spoke before the United Nations General Assembly, President Trump took to the stage and openly threatened to annihilate Iran. PRESIDE",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/54ea03670780d9540c11623f.json"
-    },
-    {
-      "id": "95f0863a8d3016453e758503",
-      "title": "Bernie Sanders: The World Is “Moving in the Wrong Direction” on War, Climate, Inequality & AI Tech",
-      "url": "https://www.democracynow.org/2026/9/23/bernie_sanders_riverside_church_foreign_policy",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-09-23T14:41:58+00:00",
-      "content_excerpt": "This is a rush transcript. Copy may not be in its final form. AMY GOODMAN : This is Democracy Now! , democracynow.org, The War and Peace Report . I’m Amy Goodman, with Anjali Kamat. ANJALI KAMAT : As world leaders are gathering in New York this week for the United Nations General Assembly, Senator Bernie Sanders gave a major address in New York on Monday. He spoke at the historic Riverside Church, where Martin Luther King gave his “Beyond Vietnam” speech on April 4th, 1967, exactly one year before he was assassinated. In that speech, King spoke against racism, militarism and materialism. AMY GOODMAN : These are some of the excerpts from Senator Bernie Sanders’ speech. SEN . BERNIE SANDERS : What Dr. King said was true nearly 60 years ago, and it is even truer today, as our country, the Uni",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/95f0863a8d3016453e758503.json"
-    },
-    {
-      "id": "1899183b06182d47e8937132",
-      "title": "Nepali Activist at U.N. Rally Calls for Climate Justice After Deadly Glacier Floods Kill Thousands",
-      "url": "https://www.democracynow.org/2026/9/23/nepal_climate_justice",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-09-23T14:41:58+00:00",
-      "content_excerpt": "In the wake of devastating flash floods triggered by glacial collapse in the Himalayas, Nepal is demanding climate reparations from polluter countries as it embarks upon the grueling process of rebuilding. Over 1,400 bodies have been recovered from the disaster, with around 6,000 others still missing. Nepal’s government estimates that the cost of infrastructure reconstruction is likely to exceed $4 billion. Nepal contributes less than 0.1% of global carbon emissions, yet as a mountainous country surrounded by glaciers, continues to be vulnerable to the effects of climate change. Recent studies estimate that global surface temperatures will likely exceed 1.5°C above preindustrial levels by the end of the decade. We go to a rally outside of United Nations headquarters, where Nepali activists",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/1899183b06182d47e8937132.json"
-    },
-    {
-      "id": "297e36643f19508daea8d1bf",
-      "title": "“Secretary of Measlesland”: Dr. Paul Offit Slams RFK Jr.’s Handling of Deadly Measles Outbreak",
-      "url": "https://www.democracynow.org/2026/9/23/dr_paul_offit_vaccines_measles",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-09-23T14:41:58+00:00",
-      "content_excerpt": "2026 is already the deadliest year for measles in the United States since the virus was declared eliminated in 2000. Four people died over the last month in Pennsylvania amid an ongoing outbreak in the state, which had not seen a measles-related death in at least 35 years. All four victims, including two infants, were unvaccinated (children do not receive their first dose of the measles vaccine until they have reached a year old). The deaths come as President Trump and Health and Human Services Secretary Robert F. Kennedy Jr. continue to defund public vaccination programs and push debunked claims that vaccines cause autism. Pediatrician and vaccine expert Dr. Paul Offit warns that the four reported measles deaths — which were reported by Pennsylvania health officials but have not yet been ",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/297e36643f19508daea8d1bf.json"
-    },
-    {
-      "id": "98983808344d6bf106c7ebac",
-      "title": "America loves free speech, except when it comes to Palestine",
-      "url": "https://mondoweiss.net/2026/09/america-loves-free-speech-except-when-it-comes-to-palestine",
-      "author": "Mitchell Plitnick",
-      "source": "Mondoweiss",
-      "published_at": "2026-09-23T13:16:27+00:00",
-      "content_excerpt": "Whether it’s Macklemore, Hasan Piker, or your neighborhood activist, this is a fight to make sure billionaires and politicians cannot stop free speech and will have to hear the calls to “Free Palestine” whether they like it or not.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/98983808344d6bf106c7ebac.json"
-    },
-    {
-      "id": "123bb8a6b89f7f334d18e530",
-      "title": "Die Linke score stunning election victory in Berlin",
-      "url": "https://mronline.org/2026/09/23/die-linke-score-stunning-election-victory-in-berlin",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-09-23T13:11:01+00:00",
-      "content_excerpt": "GERMANY’S Left party (DL) has scored a stunning victory in Berlin, winning a state election for the first time on a campaign to nationalise housing owned by corporate landlords and cap rents. The post Die Linke score stunning election victory in Berlin appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/123bb8a6b89f7f334d18e530.json"
-    },
-    {
-      "id": "481fdd3745560c04b9d9f944",
-      "title": "A useless attack on Yemen, ordered by Trump, was called off",
-      "url": "https://mronline.org/2026/09/23/a-useless-attack-on-yemen-ordered-by-trump-was-called-off",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-09-23T12:07:34+00:00",
-      "content_excerpt": "Ansar Allah can not be beaten by air attacks. Ground campaigns in the mountainous western Yemen, where the majority of the population lives, are extremely difficult. Ansar Allah has modern means—missiles, drones and air defenses—which allow it to retaliate. It was sheer stupidity that led the Saudis into provoking another war with them by bombing Sanaa airport in July of this year. The post A useless attack on Yemen, ordered by Trump, was called off appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/481fdd3745560c04b9d9f944.json"
-    },
-    {
-      "id": "4a69fee996705883df4f69b1",
-      "title": "Who owns the world map?",
-      "url": "https://mronline.org/2026/09/23/who-owns-the-world-map",
-      "author": "Prabir Purkayastha",
-      "source": "MR Online",
-      "published_at": "2026-09-23T11:05:45+00:00",
-      "content_excerpt": "Cartography, Colonial Power, and the Strategic Politics of Geography. The post Who owns the world map? appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/4a69fee996705883df4f69b1.json"
-    },
-    {
-      "id": "7747741f1d7af9cb6935e065",
-      "title": "The real danger of AI is that it is run by evil warmongers",
-      "url": "https://mronline.org/2026/09/23/the-real-danger-of-ai-is-that-it-is-run-by-evil-warmongers",
-      "author": "Caitlin A. Johnstone",
-      "source": "MR Online",
-      "published_at": "2026-09-23T10:06:08+00:00",
-      "content_excerpt": "The most obvious and imminent threat right now is not that artificial intelligence will outsmart us and escape our control, it’s that it is being fully controlled by humans who are stupid and evil. The post The real danger of AI is that it is run by evil warmongers appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/7747741f1d7af9cb6935e065.json"
-    },
-    {
-      "id": "34b6c88efbe4569fb8d3efae",
-      "title": "Analysis: ‘Super El Niño’ reaches ‘remarkable’ all-time record",
-      "url": "https://mronline.org/2026/09/23/analysis-super-el-nino-reaches-remarkable-all-time-record",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-09-23T09:05:59+00:00",
-      "content_excerpt": "This year’s so-called “super El Niño” is entering into record-breaking territory. The post Analysis: ‘Super El Niño’ reaches ‘remarkable’ all-time record appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/34b6c88efbe4569fb8d3efae.json"
-    },
-    {
-      "id": "ba298e60744ec8791735bdac",
-      "title": "ICE shoots Texas delivery driver, then detains him with bullet lodged in his back",
-      "url": "https://breakthroughnews.org/2026/09/23/ice-shoots-texas-delivery-driver-then-detains-him-with-bullet-lodged-in-his-back",
-      "author": "Devin B. Martinez",
-      "source": "BT News",
-      "published_at": "2026-09-23T05:52:17+00:00",
-      "content_excerpt": "Wilber Rafael Garces Perez, a food delivery driver in North Austin, Texas, was shot by Immigration and Customs Enforcement (ICE) agents while he was making a delivery on Sunday, September 20. Garces Perez, who survived the shooting but is now partially paralyzed, says his car was rammed by a large black unmarked truck. ICE claimed they attempted a traffic stop and that Garces Perez fled, but the DoorDash driver and his lawyers’ account contradict this report, saying after he tried to U-turn and pullover, ICE agents rammed his vehicle again, and then an agent got out and aimed his weapon through the passenger side of the car and shot Garces Perez in the back of his neck. CBP revealed on Tuesday, September 22, that the officer that fired the shot was not wearing a body camera, despite the ag",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/ba298e60744ec8791735bdac.json"
-    },
-    {
-      "id": "9defb5f344bbedb51287b1ce",
-      "title": "Israel tightens restrictions around Ramallah following attack near settlement",
-      "url": "https://breakthroughnews.org/2026/09/23/israel-tightens-restrictions-around-ramallah-following-attack-near-settlement",
-      "author": "Aseel Saleh",
-      "source": "BT News",
-      "published_at": "2026-09-23T05:52:17+00:00",
-      "content_excerpt": "For the last several days, Israeli forces have blocked the main entrances and exits to the central West Bank governorate of Ramallah and Al-Bireh, further restricting Palestinian movement. The punitive measure was taken after a Palestinian man carried out a shooting attack near the illegal settlement of Halamish, located to the northwest of Ramallah in the Occupied West Bank, on Sunday, September 20. The attack resulted in the killing of an Israeli settler. The assailant was also injured and later identified as Qadri Samara (37). Samara was shot at by Israeli soldiers stationed at an army post near the site of the attack. Although Samara managed to withdraw from the scene, later in the day Israeli forces carried out a raid at the HClinic Hospital in Ramallah and arrested him . Following hi",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/9defb5f344bbedb51287b1ce.json"
-    },
-    {
-      "id": "49f0282a53f4aa1d9d7c1610",
-      "title": "It still smells of sulphur: 20 years since Chávez’s speech at the UN",
-      "url": "https://breakthroughnews.org/2026/09/22/it-still-smells-of-sulphur-20-years-since-chavezs-speech-at-the-un",
-      "author": "Carlos Ron",
-      "source": "BT News",
-      "published_at": "2026-09-22T23:50:47+00:00",
-      "content_excerpt": "On September 20, 2006, Hugo Chávez stepped up to the granite podium of the United Nations General Assembly. A day earlier, from that exact same spot, the President of the United States, George W. Bush, had spoken. Chávez crossed himself, said that the room still smelled of sulphur, and the hall burst into laughter and applause. It was not the speech Chávez had originally intended to give, but rather the direct result of the deep indignation caused by hearing Bush speak as if he owned the world. The major media of the North latched onto the sulphur phrase and have tried to caricature it. But it is the rest of his intervention that remains fully relevant, 20 years later. Chávez arrived at the General Assembly with a book in hand, “Hegemony or Survival” by Noam Chomsky. His warning was simple",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/49f0282a53f4aa1d9d7c1610.json"
-    },
-    {
-      "id": "43acd69d6e86e43fe43aa6db",
-      "title": "Greenland is not for sale: Trump’s Donroe Doctrine and US imperialism",
-      "url": "https://breakthroughnews.org/2026/09/22/greenland-is-not-for-sale-trumps-donroe-doctrine-and-us-imperialism",
-      "author": "Vijay Prashad",
-      "source": "BT News",
-      "published_at": "2026-09-22T21:49:32+00:00",
-      "content_excerpt": "Donald Trump’s campaign to bring Greenland under United States control has often been dismissed as bluster. That is a mistake. Behind the language of a property deal lies a serious attempt to revive an old imperial principle: that Washington may decide the political and economic future of the entire Western Hemisphere. Greenland, strategically placed between North America and Europe, has become a test of that claim – and of whether the sovereignty of a small Indigenous nation counts when it conflicts with the ambitions of a great power. Trump floated buying Greenland during his first presidency in 2019. After his re-election, the proposal became more aggressive. In December 2024 he declared US “ownership and control” of Greenland as an “absolute necessity.” On January 7, 2025, he refused t",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/43acd69d6e86e43fe43aa6db.json"
     }
   ]
 }
