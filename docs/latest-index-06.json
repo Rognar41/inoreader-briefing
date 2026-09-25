@@ -1,311 +1,311 @@
 {
-  "generated_at": "2026-09-24T22:39:08.210094+00:00",
-  "generated_at_jst": "2026-09-25T07:39:08.210094+09:00",
-  "period_start": "2026-09-23T16:39:08.210094+00:00",
+  "generated_at": "2026-09-25T22:40:22.631440+00:00",
+  "generated_at_jst": "2026-09-26T07:40:22.631440+09:00",
+  "period_start": "2026-09-24T16:40:22.631440+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
   "article_count": 20,
   "excerpt_chars": 800,
   "articles": [
     {
-      "id": "da85275c111df51bd07b573c",
-      "title": "US rolls out sanctions against Iranian airlines",
-      "url": "https://breakthroughnews.org/2026/09/24/us-rolls-out-sanctions-against-iranian-airlines",
-      "author": "Abdul Rahman",
-      "source": "BT News",
-      "published_at": "2026-09-24T20:46:18+00:00",
-      "content_excerpt": "China called the latest US threats of secondary sanctions on airline service-providing companies across the world an illegal unilateral measure without any basis in international law. The US said the sanctions would be applied if these companies do not stop providing services to Iranian airlines. China said they “firmly oppose illicit unilateral sanctions that have no basis in international law and lack UN Security Council mandate,” Guo Jiakun, official spokesperson of its Ministry of Foreign Affairs said during a regular press conference on Wednesday, September 23. China’s reaction came on the same day the latest US sanctions against Iran went into effect. The US Treasury Secretary Scott Bessent has asked companies across the world who are involved in providing services such as refuelling",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/da85275c111df51bd07b573c.json"
-    },
-    {
-      "id": "8eedbcf62a1b2e36cfd60fa6",
-      "title": "Bolivia’s right-wing government eliminates diesel subsidy",
-      "url": "https://breakthroughnews.org/2026/09/24/bolivias-right-wing-government-eliminates-diesel-subsidy",
+      "id": "0c9cabf06e7553ca59fe06b7",
+      "title": "‘Cuba is not a threat; the blockade is’: Díaz-Canel replies to Trump",
+      "url": "https://breakthroughnews.org/2026/09/25/cuba-is-not-a-threat-the-blockade-is-diaz-canel-replies-to-trump",
       "author": "Pablo Meriguet",
       "source": "BT News",
-      "published_at": "2026-09-24T19:47:11+00:00",
-      "content_excerpt": "“Nothing in life is free,” goes an old Latin American saying, and Bolivia’s right-wing President Rodrigo Paz has proven this once again. The International Monetary Fund confirmed that it will disburse $1.9 billion to Bolivia, which will naturally have to repay the loan. A few hours later, as part of the agreement with the neoliberal-leaning international financial institution, Paz announced that he would eliminate the subsidy on diesel, the fuel typically used by transporters and farmers for production. According to reports from La Paz, the price will increase by 100% (for now), as it will be adjusted to international market rates. Several experts assert that the government’s decision will lead to an imminent increase in the price of food, mining, and transportation, thereby negatively imp",
+      "published_at": "2026-09-25T22:29:42+00:00",
+      "content_excerpt": "In his address to the UN General Assembly, US President Donald Trump said that the Cuban government is a failed state currently under enormous pressure: “My administration seeks a fundamental change in the situation in Cuba… It is an absolute failed state… and it will fall. Marco Rubio is leading the negotiations.” In response, the Cuban delegation stood up and walked out of the plenary session in protest. Trump continued : “Cuba is a haven for foreign adversaries who threaten America right on our doorstep… The Cuban regime has also spent decades coordinating with left-wing radicals and communist networks here in the United States… They have cultivated ties with subversive and radical groups.” The remarks did not go over well in Havana, where the government has categorically rejected the U",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/8eedbcf62a1b2e36cfd60fa6.json"
+      "article_path": "articles/0c9cabf06e7553ca59fe06b7.json"
     },
     {
-      "id": "3d4130771661e94abd47bd8a",
-      "title": "Groenlandia no está en venta: la ‘Doctrina Donroe’ de Trump y el imperialismo estadounidense",
-      "url": "https://breakthroughnews.org/2026/09/23/groenlandia-no-esta-en-venta-la-doctrina-donroe-de-trump-y-el-imperialismo-estadounidense",
-      "author": "Vijay Prashad",
-      "source": "BT News",
-      "published_at": "2026-09-24T19:47:11+00:00",
-      "content_excerpt": "Read in English here La campaña de Donald Trump para poner a Groenlandia bajo el control de los Estados Unidos a menudo se ha descartado como pura fanfarronería. Eso es un error. Detrás del lenguaje de un acuerdo inmobiliario se esconde un intento serio de revivir un antiguo principio imperial: que Washington pueda decidir el futuro político y económico de todo el hemisferio occidental. Groenlandia, estratégicamente ubicada entre América del Norte y Europa, se ha convertido en una prueba de esa afirmación – y de si la soberanía de una pequeña nación indígena cuenta cuando entra en conflicto con las ambiciones de una gran potencia. Trump planteó la idea de comprar Groenlandia durante su primer mandato presidencial en 2019. Tras su reelección, la propuesta se volvió más agresiva. En diciembr",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/3d4130771661e94abd47bd8a.json"
-    },
-    {
-      "id": "813487492b7bbbf8516e1390",
-      "title": "European leaders fixate on Russia, avoid criticizing US at UNGA",
-      "url": "https://breakthroughnews.org/2026/09/24/european-leaders-fixate-on-russia-avoid-criticizing-us-at-unga",
-      "author": "Ana Vračar",
-      "source": "BT News",
-      "published_at": "2026-09-24T18:48:06+00:00",
-      "content_excerpt": "Artificial intelligence was the concept of choice among European speakers during the first days of the United Nations General Assembly (UNGA). Prime ministers and presidents recognized opportunities and invoked stronger regulation – then returned to advocating for more military spending, planning deterrence, and avoiding harsh words for the Trump administration. Read more: The AI frontier asks to be paced: anatomy of a panic “I’m afraid I may lack originality in describing it [the situation in the world],” French President Emmanuel Macron remarked, referring to the overlaps between interventions. For once , he was not wrong. Most European speeches described the world in terms of crisis, yet failed to spell out the connections between that situation and the behavior of the United States. Ma",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/813487492b7bbbf8516e1390.json"
-    },
-    {
-      "id": "b480af8fdcec5e080c3e04b5",
-      "title": "Nobel Laureate Maria Ressa on Trump’s Media Ban, Regulating AI & the “Tech Coup in Plain Sight”",
-      "url": "https://www.democracynow.org/2026/9/24/un_maria_ressa",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-09-24T14:56:27+00:00",
-      "content_excerpt": "A federal judge has temporarily blocked President Trump’s ban on CNN , MS NOW and Politico , ordering the administration to restore their White House access for two weeks. CBS , Fox News and NBC had suspended their coverage of President Trump Monday after he expelled CNN from the White House TV press pool. “People are standing up for press freedom,” says Filipino American journalist Maria Ressa, who won the 2021 Nobel Peace Prize. “There are costs to standing up, but there are greater costs to giving up.” Ressa is also co-chair of the United Nations Independent International Scientific Panel on Artificial Intelligence. “A small group of countries and companies should not be determining the fate of the world,” says Ressa about the current state of AI. Page 2 Leaders of top artificial intell",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/b480af8fdcec5e080c3e04b5.json"
-    },
-    {
-      "id": "6692de3cdce4f70b352ec189",
-      "title": "Should U.N. Help Set Global AI Rules? AI Tech Billionaires Address Security Council",
-      "url": "https://www.democracynow.org/2026/9/24/un_ai",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-09-24T14:56:27+00:00",
-      "content_excerpt": "Leaders of top artificial intelligence firms, including OpenAI CEO Sam Altman and Anthropic CEO Dario Amodei, testified to the U.N. Security Council on Wednesday, urging nations to adopt international standards on the development of AI. This comes after AI agents at OpenAI, Anthropic, Meta and Google have gone rogue in recent months, hacking into other companies’ corporate systems and, in the case of OpenAI, into the portal of Australia’s public health insurance program. “I think we’re headed in the right direction,” says Malo Bourgon, CEO of the Machine Intelligence Research Institute, who has participated in several AI-related meetings on the sidelines of the U.N. General Assembly this week. “I do think that the CEOs, while there’s a bunch of reason to be cynical about them, are sincere ",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/6692de3cdce4f70b352ec189.json"
-    },
-    {
-      "id": "4c836568b32f7ce3f035791a",
-      "title": "“Colonial AI”: African Countries Seek Tech Sovereignty But Fear a New Digital Colonialism",
-      "url": "https://www.democracynow.org/2026/9/24/africa_ai",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-09-24T14:56:27+00:00",
-      "content_excerpt": "Seydina Moussa Ndiaye is a member of the Global Partnership on Artificial Intelligence, working on a strategy with the African Union to address the risks and benefits of AI for the continent. African countries face the threat of “colonial AI,” says Ndiaye. “When we talk about colonialism historically, that involves the control of resources, the control of knowledge and the control of terms of exchange, and we see that in Africa when we talk about AI.” Please check back later for full transcript. Page 2 “One of the features we see in … a lot of the billionaire tech elites is a real kind of anger,” says Jacob Silverman, author of Gilded Rage: Elon Musk and the Radicalization of Silicon Valley . “They’re angry at what they see as the excesses of woke culture and liberal and lefty politics. … ",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/4c836568b32f7ce3f035791a.json"
-    },
-    {
-      "id": "efb67be2d0fb02de0355710e",
-      "title": "“Gilded Rage”: Jacob Silverman on How a Radicalized Silicon Valley Shapes Trump’s AI Policies",
-      "url": "https://www.democracynow.org/2026/9/24/gilded_rage",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-09-24T14:56:27+00:00",
-      "content_excerpt": "“One of the features we see in … a lot of the billionaire tech elites is a real kind of anger,” says Jacob Silverman, author of Gilded Rage: Elon Musk and the Radicalization of Silicon Valley . “They’re angry at what they see as the excesses of woke culture and liberal and lefty politics. … And they’re angry that they don’t have free rein to enact the world they want to enact, and that includes areas like AI.” Silverman also discusses how tech elites like Peter Thiel and David Sacks are shaping the Trump administration’s approach to technology. Please check back later for full transcript.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/efb67be2d0fb02de0355710e.json"
-    },
-    {
-      "id": "7a078f1f88c1522e63a3fba5",
-      "title": "Palestinian Elections: Gaza & West Bank youth launch independent list in rejection of factional politics",
-      "url": "https://mondoweiss.net/2026/09/palestinian-elections-gaza-west-bank-youth-launch-independent-list-in-rejection-of-factional-politics",
+      "id": "4b5ded3f28c1ddc3c527cb0e",
+      "title": "Inside Gaza’s ‘widows camp,’ where women now support their families alone",
+      "url": "https://mondoweiss.net/2026/09/in-gazas-widows-camp-where-women-now-carry-their-families-alone",
       "author": "Tareq S. Hajjaj",
       "source": "Mondoweiss",
-      "published_at": "2026-09-24T13:26:56+00:00",
-      "content_excerpt": "For the second time, a self-funded civil society list led by young Gazans is seeking a seat in the Palestinian Legislative Council, focusing on immediate hardships, like unemployment, healthcare, and shelter, rather than political ideology.",
+      "published_at": "2026-09-25T19:56:53+00:00",
+      "content_excerpt": "Women in Gaza who lost their husbands in the genocide are caught between the need to work and the pain of leaving their children alone, susceptible to Israeli violence. According to the UN, these women now represent 1 in 4 households in Gaza.",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/7a078f1f88c1522e63a3fba5.json"
+      "article_path": "articles/4b5ded3f28c1ddc3c527cb0e.json"
     },
     {
-      "id": "7624d1e9ce861d162b8a2847",
-      "title": "Trump TV launched after major U.S. networks suspend presidential coverage",
-      "url": "https://mronline.org/2026/09/24/trump-tv-launched-after-major-u-s-networks-suspend-presidential-coverage",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-09-24T13:07:47+00:00",
-      "content_excerpt": "The White House began broadcasting on its new media platform, Trump TV, this week, streaming government content, announcements and archived speeches on a continuous basis, days after the country’s major television networks suspended coverage of presidential events. The post Trump TV launched after major U.S. networks suspend presidential coverage appeared first on MR Online .",
+      "id": "32ffed365ffac0ac70a06b64",
+      "title": "German students say ‘we don’t want to go to war’",
+      "url": "https://breakthroughnews.org/2026/09/25/german-students-say-we-dont-want-to-go-to-war",
+      "author": "Ana Vračar",
+      "source": "BT News",
+      "published_at": "2026-09-25T19:32:01+00:00",
+      "content_excerpt": "Thousands of students across Germany were once again on strike against conscription and militarization on Friday, September 25. Actions took place in at least 100 localities as young people demanded a sharp turn from the government’s chosen path. “We don’t want to be forced into military service and we don’t want to go to war,” the students wrote in declaration after their last strike in May. Read more: German students expand their strike against conscription and militarization to 150 cities This is the fourth time students have exchanged classrooms for streets since the end of 2025 . The mobilization has strengthened in resistance to the Merz administration’s plans to build the “strongest conventional army in Europe” – including by drawing more people into the Bundeswehr, the German armed",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/7624d1e9ce861d162b8a2847.json"
+      "article_path": "articles/32ffed365ffac0ac70a06b64.json"
     },
     {
-      "id": "f1775cfef045253c33d2b4b5",
-      "title": "The Leadership Pendulum: How to Avoid the Extremes of Organizational Management",
-      "url": "https://convergencemag.com/articles/the-leadership-pendulum-how-to-avoid-the-extremes-of-organizational-management",
-      "author": "Guiding Threads Collective",
-      "source": "Convergence",
-      "published_at": "2026-09-24T12:23:22+00:00",
-      "content_excerpt": "“It’s funny to say this because I’m the leader of this organization, but the reality is I’m actually very uncomfortable being in charge.” Eve and I are in our regularly scheduled monthly coaching calls. Eve is a white woman in her mid-40s, a mother of three, and has been the Executive Director of a legal non-profit for the last 4 years.* She goes on to explain that having and wielding power… Source",
+      "id": "f99dd1277e84820a1d72f60c",
+      "title": "Trump’s war on the ICC is bigger than Netanyahu, with Noura Erakat",
+      "url": "https://breakthroughnews.org/2026/09/25/trumps-war-on-the-icc-is-bigger-than-netanyahu-with-noura-erakat",
+      "author": "Zoe Alexandra",
+      "source": "BT News",
+      "published_at": "2026-09-25T18:33:40+00:00",
+      "content_excerpt": "The Trump administration’s assault on the ICC isn’t just about protecting Netanyahu from war crimes prosecution. It’s about preserving “imperial impunity” – Israel’s just “the smokescreen,” says Noura Erakat, professor of criminal justice and Africana studies at Rutgers University and human rights attorney. She traces Washington’s bipartisan refusal to ratify the Rome Statute to explain why the International Criminal Court has spent two decades indicting mostly African and Arab leaders. The 2024 warrants for Netanyahu and former Israeli defense minister Yoav Gallant just show the court “between a rock and a hard place”: finally give up its legitimacy entirely, or face destruction by the US. Now more than a dozen ICC judges, prosecutors, and the court’s president have been sanctioned, as Wa",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/f1775cfef045253c33d2b4b5.json"
+      "article_path": "articles/f99dd1277e84820a1d72f60c.json"
     },
     {
-      "id": "6ae617d7e0a4c422eecf438d",
-      "title": "Mamdani hails landmark DoorDash deal as ‘largest settlement for food delivery workers ever’",
-      "url": "https://mronline.org/2026/09/24/mamdani-hails-landmark-doordash-deal-as-largest-settlement-for-food-delivery-workers-ever",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-09-24T12:06:16+00:00",
-      "content_excerpt": "“After years of corporate greed and impunity, we are holding DoorDash to account.” The post Mamdani hails landmark DoorDash deal as ‘largest settlement for food delivery workers ever’ appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/6ae617d7e0a4c422eecf438d.json"
-    },
-    {
-      "id": "429f22a74f9886d70df31ca9",
-      "title": "A climate “movement” homonym: (or, how the Big Apple’s annual environmental gathering surfaces an imperative inquiry, climate week or climate weak?)",
-      "url": "https://mronline.org/2026/09/24/a-climate-movement-homonym-or-how-the-big-apples-annual-environmental-gathering-surfaces-an-imperative-inquiry-climate-week-or-climate-weak",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-09-24T11:04:40+00:00",
-      "content_excerpt": "Some years ago, when I attended my first NYC Climate Week, I remember leaving one of the many panels I attended that day extremely frustrated and consumed by a feeling of despondency... The post A climate “movement” homonym: (or, how the Big Apple’s annual environmental gathering surfaces an imperative inquiry, climate week or climate weak?) appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/429f22a74f9886d70df31ca9.json"
-    },
-    {
-      "id": "76404c5c571a5a7a2b810a52",
-      "title": "What are ‘space weapons’, which U.S. says it has deployed into orbit?",
-      "url": "https://mronline.org/2026/09/24/what-are-space-weapons-which-u-s-says-it-has-deployed-into-orbit",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-09-24T10:02:15+00:00",
-      "content_excerpt": "The rare announcement from Washington is expected to raise alarm among allies and adversaries alike, experts say. The post What are ‘space weapons’, which U.S. says it has deployed into orbit? appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/76404c5c571a5a7a2b810a52.json"
-    },
-    {
-      "id": "ca5f566ffd5fa07c9404aa53",
-      "title": "At the UN Trump threatens to use “unmatched military power” in Latin America",
-      "url": "https://mronline.org/2026/09/24/at-the-un-trump-threatens-to-use-unmatched-military-power-in-latin-america",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-09-24T09:31:35+00:00",
-      "content_excerpt": "“The United States will no longer allow threats against the Americas to gain ground anywhere in the Western Hemisphere. And, if necessary, we will use our unmatched military might to secure the vital national interests of the United States,” Trump said. The post At the UN Trump threatens to use “unmatched military power” in Latin America appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/ca5f566ffd5fa07c9404aa53.json"
-    },
-    {
-      "id": "48635a06da063b001aefbd82",
-      "title": "How to Install, Use, and Create Skills",
-      "url": "https://thetricontinental.org/how-to-install-use-and-create-skills",
+      "id": "2cb482fda44e893e680b3e98",
+      "title": "Bernie Sanders and US Democrats Accuse Trump of Trying to Interfere in Brazil’s Elections",
+      "url": "https://www.brasildefato.com.br/2026/09/25/bernie-sanders-and-us-democrats-accuse-trump-of-trying-to-interfere-in-brazils-elections",
       "author": "",
-      "source": "[:en]THE TRICONTINENTAL[:es]TRICONTINENTAL[:]",
-      "published_at": "2026-09-24T07:29:45+00:00",
-      "content_excerpt": "A skill is a reusable workflow for an AI agent. Its main SKILL.md file explains when the skill should be used and what the agent should do. A skill may also contain scripts, templates, and other reference materials. The agent may select a skill automatically when a task matches its description, or you can invoke it directly. This guide demonstrates how to find, review, install, and use skills with an AI-agent extension in VS Code. If you have not yet set up this workspace, follow Set Up Your AI Workspace (macOS) or Set Up Your AI Workspace (Windows) before continuing. Although interfaces and installation methods may vary, the same basic workflow also applies to other AI agents that support skills. Installing Skills in VS Code Installing a Skill through a Skills Platform Numerous platforms ",
+      "source": "Brasil de Fato",
+      "published_at": "2026-09-25T18:11:50+00:00",
+      "content_excerpt": "Imagem do presidente Donald Trump projetada no ato bolsonarista no dia 7 de setembro, na Avenida Paulista, em São Paulo. | Crédito: Miguel Schincariol / AFP Senator Bernie Sanders and 30 Democratic members of the U.S. House of Representatives sent a letter to Secretary of State Marco Rubio accusing the Donald Trump administration of waging a pressure campaign against Brazil ahead of the first round of vote on October 4. The letter was sent Thursday, September 24. Illinois Congresswoman Delia C. Ramirez led the congressional effort. In it, the lawmakers say that recent actions from the White House “point toward an apparent effort to interfere with, and potentially undermine, Brazil’s general election in October.” They demand that Washington commit to recognizing the certified election resul",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/48635a06da063b001aefbd82.json"
+      "article_path": "articles/2cb482fda44e893e680b3e98.json"
     },
     {
-      "id": "3939385b1557068cc0bcc324",
-      "title": "BT LIVE: UN General Assembly 2026 | Xi-Trump DC Summit | Pakistan Crackdown",
-      "url": "https://breakthroughnews.org/2026/09/23/september-24-2026",
-      "author": "BreakThrough News",
-      "source": "BT News",
-      "published_at": "2026-09-23T23:59:36+00:00",
-      "content_excerpt": "This content is for members only. Visit the site and log in/register to read.",
+      "id": "8578e3aec7735a0b670a15af",
+      "title": "Netanyahu just incited genocide in his UN speech. Here’s what you missed.",
+      "url": "https://mondoweiss.net/2026/09/netanyahu-just-incited-genocide-in-his-un-speech-heres-what-you-missed",
+      "author": "Jonathan Ofir",
+      "source": "Mondoweiss",
+      "published_at": "2026-09-25T18:00:51+00:00",
+      "content_excerpt": "At the end of Israeli Prime Minister Benjamin Netanyahu’s unhinged rant at the UN, he recited a seemingly obscure Bible verse. But it’s actually a dog whistle for genocide.",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/3939385b1557068cc0bcc324.json"
+      "article_path": "articles/8578e3aec7735a0b670a15af.json"
     },
     {
-      "id": "d7925634027920787a5b3f3c",
-      "title": "Prof. Wolff: the US debt crisis is coming for you",
-      "url": "https://breakthroughnews.org/2026/09/23/prof-wolff-the-us-debt-crisis-is-coming-for-you",
+      "id": "d7fed2481590604e74472744",
+      "title": "What is the UN actually good for? with Vijay Prashad",
+      "url": "https://breakthroughnews.org/2026/09/25/what-is-the-un-actually-good-for-with-vijay-prashad",
       "author": "Zoe Alexandra",
       "source": "BT News",
-      "published_at": "2026-09-23T23:00:39+00:00",
-      "content_excerpt": "Diesel is approaching $9 a gallon in California, the Federal Reserve just raised interest rates for the first time since 2023, and Americans have lost roughly 30% of their purchasing power in just six years. That’s not the economy malfunctioning – it’s proof of the American empire in decline, says Dr. Richard Wolff, economics professor and founder of Democracy at Work. He tells Zoe Alexandra and Rania Khalek the Strait of Hormuz is where Washington’s unchecked economic conquest finally hit a wall, and the costs are being offloaded onto working families. From Washington’s “lucky” inheritance of a global empire after World War II, to Trump’s war on Iran choking the world’s oil supply, to a $40 trillion national debt now costing more in interest than the entire Pentagon defense budget, Wolff ",
+      "published_at": "2026-09-25T17:33:50+00:00",
+      "content_excerpt": "Can the United Nations be saved? Should it be? As world leaders and war criminals gather for the 81st session of the UN General Assembly in New York, Vijay Prashad, executive director of the Tricontinental Institute for Social Research, says that despite today’s gangster rule by the likes of Donald Trump and Benjamin Netanyahu, the UN Charter still sets the standard for judging powerful states, making it “the most important treaty document that the world has ever had” – even with the institution built on it in shambles. Prashad slams Secretary-General António Guterres’s failure to get “creative” to end the genocide in Gaza or to stand up to Trump on Iran, instead opening a free lane for the US president who has “put a loaded gun on the table and has threatened the world.” After the US deni",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/d7925634027920787a5b3f3c.json"
+      "article_path": "articles/d7fed2481590604e74472744.json"
     },
     {
-      "id": "88c35b04ff4788f5dc037f37",
-      "title": "Is the UK breaking up? Ireland, Scotland & Wales unite for independence | w/ Declan Kearney",
-      "url": "https://breakthroughnews.org/2026/09/23/is-the-uk-breaking-up-ireland-scotland-wales-unite-for-independence-w-declan-kearney",
-      "author": "Zoe Alexandra",
+      "id": "fa55be6b7b22aa97be1cc5f4",
+      "title": "Trump needs China, Xi is playing the long game, with Amanda Yee",
+      "url": "https://breakthroughnews.org/2026/09/25/trump-needs-china-xi-is-playing-the-long-game-with-amanda-yee",
+      "author": "Rania Khalek",
       "source": "BT News",
-      "published_at": "2026-09-23T23:00:39+00:00",
-      "content_excerpt": "Is the UK about to break apart? For the first time ever, Scotland, Wales, and the north of Ireland are led by pro-independence parties committed to “the right of each nation to determine its own future.” Declan Kearney, Sinn Féin’s national chairperson and a Member of the Legislative Assembly in the north of Ireland, joins Zoe Alexandra and Rania Khalek to break down the historic Cardiff agreement, and why he says the United Kingdom is truly on the edge of becoming “disunited.” Kearney digs into how Brexit set off a populist realignment across British politics that’s still reshaping the map, and why Westminster’s refusal to set a date for an Irish reunification referendum may violate the very terms of the Good Friday Agreement – a treaty that still hasn’t delivered the vote it promised the",
+      "published_at": "2026-09-25T16:33:46+00:00",
+      "content_excerpt": "Chinese President Xi Jinping “holds all the cards” as he meets with Trump on Thursday, says Amanda Yee, host of BreakThrough News’ The China Report. She joins Zoe Alexandra and Rania Khalek to break down Xi’s first White House visit in 11 years. With Trump facing a massively unpopular war on Iran, surging inflation, growing resistance to ICE terror – and with US midterms weeks away – Washington wants quick deals it can sell as big wins. But Yee says Beijing is playing a longer game, with massive implications for the global future. Take AI: Washington’s Pax Silica forces allies to pick sides, while Beijing’s open model is available to all and centered on the Global South. Two systems, representing “the choice that’s in front of the world right now.” Despite a stated pivot away from China as",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/88c35b04ff4788f5dc037f37.json"
+      "article_path": "articles/fa55be6b7b22aa97be1cc5f4.json"
     },
     {
-      "id": "666f60eb2835979fc9ad982a",
-      "title": "Israel kills son of Gaza health official in latest atrocities",
-      "url": "https://breakthroughnews.org/2026/09/23/israel-kills-son-of-gaza-health-official-in-latest-atrocities",
-      "author": "Aseel Saleh",
+      "id": "0c67ffd90aa7422931049a91",
+      "title": "Pakistan’s Imran Khan crackdown: hospitals brace for ‘mass casualties’",
+      "url": "https://breakthroughnews.org/2026/09/25/pakistans-imran-khan-crackdown-hospitals-brace-for-mass-casualties",
+      "author": "Rania Khalek",
       "source": "BT News",
-      "published_at": "2026-09-23T22:01:21+00:00",
-      "content_excerpt": "Footage flooded the internet on Saturday, September 19, showing Gaza Health Ministry Director General Dr. Munir al-Bursh asking young men to bring the rest of his son’s body as they carried his remains. “Bring me his other half!” the grief-stricken father said. “We were supposed to go to heaven together today, but you got there before me, son.” According to media reports , Dr. Munir’s son, Bashir (28), was struck by a drone shortly after leaving his family’s tent in the al-Zahra neighborhood, near the Civil Defense headquarters, west of the Jabalia refugee camp in northern Gaza Strip. Bashir was targeted while helping people fill their water containers, just meters away from his father. For many, the proximity of Dr. Munir implies that he, too, may have been a target of the attack. Israel’",
+      "published_at": "2026-09-25T16:33:46+00:00",
+      "content_excerpt": "Why is Pakistan’s military so afraid of Imran Khan? With Islamabad on lockdown and 35,000 additional troops deployed to stop the September 27 march in support of the imprisoned ex-prime minister. Junaid S. Ahmad, professor of religion and world politics and director of the Center for Study of Islam and Decoloniality, tells Rania Khalek and Zoe Alexandra the 2022 US-backed regime-change operation meant to neutralize the country’s most popular politician instead gave rise to a movement bigger than Khan himself: a new opposition coalition, TTAP, including the left-wing Awami Workers Party, as Khan’s PTI party has shattered the army’s legitimacy in Punjab. Ahmad says Pakistan, under military rule in all but name, has become “nothing less than a police state.” Its only legitimacy, he says, come",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/666f60eb2835979fc9ad982a.json"
+      "article_path": "articles/0c67ffd90aa7422931049a91.json"
+    },
+    {
+      "id": "c5f9544a657d32d976bafb16",
+      "title": "“Stop Arming Israel”: 100+ Arrested at Jewish Voice for Peace Sit-In Outside Netanyahu U.N. Speech",
+      "url": "https://www.democracynow.org/2026/9/25/jewish_voice_for_peace_protests_netanyahu",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-09-25T15:03:39+00:00",
+      "content_excerpt": "Over 100 protesters were arrested near the United Nations in New York on Thursday ahead of Israeli Prime Minister Benjamin Netanyahu’s speech to the General Assembly. The sit-in, organized by Jewish Voice for Peace, denounced Netanyahu for perpetrating a genocide against Palestinians in Gaza, building more illegal settlements in the West Bank, occupying parts of Lebanon and bombing Iran alongside the United States. Democracy Now! spoke with participants, including some congressional candidates and other prominent figures. Please check back later for full transcript.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/c5f9544a657d32d976bafb16.json"
+    },
+    {
+      "id": "ccfd07323e08b72f5768347f",
+      "title": "“Grotesque”: Ex-Israeli Negotiator Daniel Levy on Netanyahu’s U.N. Speech & Israel’s Impunity",
+      "url": "https://www.democracynow.org/2026/9/25/netanyahu_at_unga",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-09-25T15:03:39+00:00",
+      "content_excerpt": "Israeli Prime Minister Benjamin Netanyahu addressed a half-empty chamber at the United Nations General Assembly on Thursday, after dozens of delegations walked out in protest at the start of his speech. Netanyahu assailed his critics as “antisemites,” defended his country’s conduct in Gaza, the West Bank, Lebanon and Syria, and lavished praise on President Trump for joining Israel’s strikes on Iran. Daniel Levy, a former Israeli peace negotiator under Prime Ministers Ehud Barak and Yitzhak Rabin, says Israel’s growing diplomatic isolation “needs to be translated into action” like sanctions, arms embargoes and other forms of accountability. Page 2 At the United Nations this week, President Trump repeated his attacks on the International Criminal Court and urged other nations to pull out of ",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/ccfd07323e08b72f5768347f.json"
+    },
+    {
+      "id": "7684159328a863380385f265",
+      "title": "The Hague Group: South Africa Leads Coalition Against U.S./Israel’s “Unilateral Bullying” of the ICC",
+      "url": "https://www.democracynow.org/2026/9/25/trump_attacks_icc",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-09-25T15:03:39+00:00",
+      "content_excerpt": "At the United Nations this week, President Trump repeated his attacks on the International Criminal Court and urged other nations to pull out of the global tribunal. The United States earlier this year imposed sanctions on the president of the ICC and a senior prosecutor who was part of the team that issued an arrest warrant for Israeli Prime Minister Benjamin Netanyahu for crimes against humanity in Gaza, and the Trump administration is reportedly preparing more sanctions against the institution itself. Meanwhile, a coalition of nations has formed to defend international law in solidarity with the people of Palestine under the banner of the Hague Group, which was established last year by Bolivia, Colombia, Cuba, Honduras, Malaysia, Namibia, Senegal and South Africa. “It’s an absolute low ",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/7684159328a863380385f265.json"
+    },
+    {
+      "id": "68056cb22340d11f23c7534a",
+      "title": "“Crossing the Red Line”: Akbar Shahid Ahmed on Biden, His Advisers, Harris & Israel’s War in Gaza",
+      "url": "https://www.democracynow.org/2026/9/25/crossing_the_red_line",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-09-25T15:03:39+00:00",
+      "content_excerpt": "We speak with journalist Akbar Shahid Ahmed, whose new book, Crossing the Red Line , looks at how President Joe Biden and top figures in his administration supported Israel’s brutal war in Gaza despite the soaring death toll and growing alarm over widespread war crimes committed by the Israeli military. “The policies that we’ve seen entrenched and, frankly, worsened and become more dangerous and deadly under Donald Trump were really established by Biden’s team,” says Ahmed, who says there is “bipartisan continuity” on Israel-Palestine between the two presidents.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/68056cb22340d11f23c7534a.json"
+    },
+    {
+      "id": "ef8f554669d615c563c54e76",
+      "title": "Cotton Specters| Depleting the earth and its children",
+      "url": "https://mronline.org/2026/09/25/cotton-specters-depleting-the-earth-and-its-children",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-09-25T13:25:54+00:00",
+      "content_excerpt": "When British economist David Ricardo put forward his theory of the international division of labor and specialization based on comparative advantage in the early nineteenth century, it was seen as a formula for raising global output. The post Cotton Specters| Depleting the earth and its children appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/ef8f554669d615c563c54e76.json"
+    },
+    {
+      "id": "cc7aead991ad57f371c80f5a",
+      "title": "IAEA inspections found no case of non-compliance in Iran nuclear sites",
+      "url": "https://mronline.org/2026/09/25/iaea-inspections-found-no-case-of-non-compliance-in-iran-nuclear-sites",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-09-25T12:25:12+00:00",
+      "content_excerpt": "Iranian nuclear chief Mohammad Eslami says the IAEA had access to all Iranian facilities. The post IAEA inspections found no case of non-compliance in Iran nuclear sites appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/cc7aead991ad57f371c80f5a.json"
+    },
+    {
+      "id": "4a05255d4f79d8d7ef751847",
+      "title": "Palestinians in Masafer Yatta are surviving without water after Israeli settlers cut off a lifeline",
+      "url": "https://mondoweiss.net/2026/09/palestinians-in-masafer-yatta-are-surviving-without-water-after-israeli-settlers-cut-off-a-lifeline",
+      "author": "Qassam Muaddi",
+      "source": "Mondoweiss",
+      "published_at": "2026-09-25T11:40:49+00:00",
+      "content_excerpt": "In Masafer Yatta in the southern occupied West Bank, Israeli settlers are accelerating their attacks on Palestinian farmers and herders in the area by cutting off their water supply.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/4a05255d4f79d8d7ef751847.json"
+    },
+    {
+      "id": "ac82155dbc028e45e74af20a",
+      "title": "The struggle to be gay in Jamaica, for example",
+      "url": "https://mronline.org/2026/09/25/the-struggle-to-be-gay-in-jamaica-for-example",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-09-25T11:23:55+00:00",
+      "content_excerpt": "ALISON DONNELL extols a virtuoso literary performance that primes the imagination for justice and transformation to come. The post The struggle to be gay in Jamaica, for example appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/ac82155dbc028e45e74af20a.json"
+    },
+    {
+      "id": "df911ef09cb693399df9a88f",
+      "title": "America loves free speech, except when it comes to Palestine",
+      "url": "https://mronline.org/2026/09/25/america-loves-free-speech-except-when-it-comes-to-palestine",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-09-25T10:23:56+00:00",
+      "content_excerpt": "Whether it’s Macklemore, Hasan Piker, or your neighborhood activist, this is a fight to make sure billionaires and politicians cannot stop free speech and will have to hear the calls to “Free Palestine” whether they like it or not. The post America loves free speech, except when it comes to Palestine appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/df911ef09cb693399df9a88f.json"
+    },
+    {
+      "id": "242366c137f1d523c5894e64",
+      "title": "The youth want a future: The Thirty-Ninth Newsletter (2026)",
+      "url": "https://mronline.org/2026/09/25/the-youth-want-a-future-the-thirty-ninth-newsletter-2026",
+      "author": "Vijay Prashad",
+      "source": "MR Online",
+      "published_at": "2026-09-25T09:23:31+00:00",
+      "content_excerpt": "Behind widespread youth uprisings lies a stark contradiction: an economic system that protects capital while stripping young people of dignified work, community, and the confidence that tomorrow can be different. The post The youth want a future: The Thirty-Ninth Newsletter (2026) appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/242366c137f1d523c5894e64.json"
+    },
+    {
+      "id": "07e5bfb6e8df9f45c6846db5",
+      "title": "Milei at the UN: Argentina as the ‘promised land’ for capital, AI, and Israel",
+      "url": "https://breakthroughnews.org/2026/09/25/milei-at-the-un-argentina-as-the-promised-land-for-capital-ai-and-israel",
+      "author": "Pablo Meriguet",
+      "source": "BT News",
+      "published_at": "2026-09-25T05:39:19+00:00",
+      "content_excerpt": "Far-right Argentine President Javier Milei addressed the 81st session of the United Nations General Assembly on September 23, giving a speech which provoked strong reactions. The South American head of state also participated in a series of high-level meetings. One of his most quoted lines from his New York City trip has been: “Argentina is the new promised land.” This is not the first time Milei has used religious concepts and ideas from the Judeo-Christian tradition to explain his political stance, but it is the first time the Argentine president has equated his country, in economic and political terms, with the land of Abraham and his descendants. This is even more telling when one considers Milei’s extremely close relationship with Israel and ardent defense of its policies of war and g",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/07e5bfb6e8df9f45c6846db5.json"
     }
   ]
 }

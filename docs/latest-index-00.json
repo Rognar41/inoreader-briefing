@@ -1,12 +1,102 @@
 {
-  "generated_at": "2026-09-24T22:39:08.210094+00:00",
-  "generated_at_jst": "2026-09-25T07:39:08.210094+09:00",
-  "period_start": "2026-09-23T16:39:08.210094+00:00",
+  "generated_at": "2026-09-25T22:40:22.631440+00:00",
+  "generated_at_jst": "2026-09-26T07:40:22.631440+09:00",
+  "period_start": "2026-09-24T16:40:22.631440+00:00",
   "lookback_hours": 30,
   "folder": "00_毎日確認",
-  "article_count": 11,
+  "article_count": 7,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "3299d36b43837acab26b87ac",
+      "title": "What The Flock: Prison Populists and Palantyranny",
+      "url": "https://pineandroses.org/opinion/what-the-flock-prison-populists-and-palantyranny",
+      "author": "Pine and Roses -- Maine DSA",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-09-25T20:03:27+00:00",
+      "content_excerpt": "There is a peculiar American humiliation in having to explain why you would like to buy groceries without helping populate a police database. You needed eggs. Apparently, you also owed somebody a record of the trip. Flock Safety’s roadside cameras collect license plates, vehicle characteristics, locations, and timestamps. Pass one and your car can become a searchable observation, available to an investigator with access. The company describes these as snapshots of public vehicle information . Such a modest word, snapshot. A birthday. A beach. Your car passing an intersection while you are trying to get through a Tuesday. A collection of those observations has a different character. It lets an institution ask questions about where you have been. The public road supplies the material. You su",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/3299d36b43837acab26b87ac.json"
+    },
+    {
+      "id": "0e9ca5b3b3f3c7948fff8c55",
+      "title": "Saudi Arabia’s Yemen Strategy Has Fallen to Pieces",
+      "url": "https://www.inoreader.com/article/3a9c6e7671836816",
+      "author": "Helen Lackner",
+      "source": "Jacobin",
+      "published_at": "2026-09-25T17:52:54+00:00",
+      "content_excerpt": "Over the past few weeks, Yemen’s Ansar Allah movement, also known as the Huthis, has launched an offensive and made big territorial gains. The latest turn in the Yemeni civil war could have major implications for the world economy, as it involves one of its most important trade routes through the Red Sea. It certainly poses a big challenge for Yemen’s neighbor Saudi Arabia. Helen Lackner is a leading expert on the politics of Yemen and the author of several books about the country. She spoke to Jacobin about the background to the latest developments and what is likely to happen next. This is an edited transcript from Jacobin’s Long Reads podcast. You can listen to the interview here . Daniel Finn What was the impact of the military campaign against Ansar Allah by the United States and Isra",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/0e9ca5b3b3f3c7948fff8c55.json"
+    },
+    {
+      "id": "18ddb6c57aef3d3ec9598655",
+      "title": "Greed and Economic Desperation Are Fueling Sudan’s Civil War",
+      "url": "https://www.inoreader.com/article/3a9c6e767170c9b9",
+      "author": "Ahmed Ismat Ahmed",
+      "source": "Jacobin",
+      "published_at": "2026-09-25T16:20:10+00:00",
+      "content_excerpt": "I used to pass the biscuit factory in Soba without going in. People I knew went in for a twelve-hour shift on a line that smelled of sugar and oil. In 2021, the number that stuck was 1,500 pounds for the shift. In Haj Yousif, where Iqbal lived, the rent for a single room was 30,000 pounds a month. You had to work twenty factory days just to cover rent. Meanwhile, the Rapid Support Forces were offering people 15,000 a day, a uniform, and a phone. Those three numbers explain more about Sudan’s war than any map I have been shown since. What happened in Sudan was not primarily a story of people choosing violence. It was a story of people choosing the wage that was available. A Bus That Does Not Come Iqbal sold tea in front of the medical campus at the University of Khartoum, setting up with th",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/18ddb6c57aef3d3ec9598655.json"
+    },
+    {
+      "id": "c0b5f9fc49192ad5f1039497",
+      "title": "A Union Feud Shouldn’t Sink California’s Billionaire Tax",
+      "url": "https://www.inoreader.com/article/3a9c6e7671672f29",
+      "author": "Christie Offenbacher",
+      "source": "Jacobin",
+      "published_at": "2026-09-25T14:46:49+00:00",
+      "content_excerpt": "America’s already threadbare welfare state is on the brink of total collapse. Over the next ten years, national funding for Medicaid, whose benefits 81 million Americans rely upon, will be cut by about $1 trillion . States that expanded Medicaid access under the Affordable Care Act will be hit especially hard. More immediately, in just a few days, on October 1, and again on January 1, various new requirements for Medicaid eligibility will be instituted. This means that receiving and maintaining insurance will suddenly become much more difficult for millions of Americans. The result of all of these changes, enacted by H. R. 1, or the One Big Beautiful Bill Act, will be to throw states across the country into health and budget crises as their Medicaid funding falls off a cliff, with some of ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/c0b5f9fc49192ad5f1039497.json"
+    },
+    {
+      "id": "6c1cac7b221fb6571f7cabd7",
+      "title": "The First Walmart Union Contract in North America",
+      "url": "https://www.inoreader.com/article/3a9c6e7671682e1f",
+      "author": "Kari Thompson",
+      "source": "Jacobin",
+      "published_at": "2026-09-25T13:45:45+00:00",
+      "content_excerpt": "Eight hundred workers at a Walmart distribution center in Mississauga, Ontario, succeeded where others have not: they are now working under a two-year contract with North America’s largest logistics giant. The landmark collective bargaining agreement went into effect on July 1, nearly two years after workers won union representation , joining Unifor Local 252, motivated by low wages and unsafe working conditions. As punishment two years ago, Walmart bumped the pay of every logistics worker in Canada — except those who unionized. This was an effective maneuver to halt further union drives. “Walmart gave all the wage increases to all the nonunion folks, and everything fell apart,” said Angela Drew Kimelman, a Unifor organizer who worked on organizing campaigns at multiple warehouses, includi",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/6c1cac7b221fb6571f7cabd7.json"
+    },
+    {
+      "id": "6e752b0156974f8b7d7e289d",
+      "title": "Texas DSA Statement on ICE Shooting of Wilber Rafael Garces Perez",
+      "url": "https://redfault.com/texas-dsa-statement-on-ice-shooting-of-wilber-rafael-garces-perez",
+      "author": "Red Fault -- Austin DSA",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-09-24T23:47:04+00:00",
+      "content_excerpt": "En español/In Spanish: Declaración de DSA de Texas sobre el tiroteo de ICE contra Wilber Rafael Garces Perez El domingo 20 de septiembre de 2026, agentes de ICE embistieron dos veces el auto de Wilber Rafael Garces Perez , residente de Austin, y luego le dispararon por la espalda mientras aún se encontraba dentro del vehículo. Los agentes de ICE, junto con oficiales del Departamento de Seguridad Pública de Texas (DPS) y de la Policía de Austin (APD), lo esposaron y trasladaron al Centro Médico Dell Seton, donde ni recibió atención médica integral ni se le extrajo la bala alojada cerca de su columna vertebral, antes de ser devuelto a la custodia de ICE apenas unas horas después de haber sido disparado. El personal de seguridad del hospital se negó a permitir que la esposa o el abogado del S",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/6e752b0156974f8b7d7e289d.json"
+    },
     {
       "id": "b7bd7d7cb76c90c29bd3b209",
       "title": "AI Destruction Isn’t Hypothetical. It’s Already Here.",
@@ -21,156 +111,6 @@
       "priority": 1,
       "date_missing": false,
       "article_path": "articles/b7bd7d7cb76c90c29bd3b209.json"
-    },
-    {
-      "id": "85248fd6529efad891ed40a7",
-      "title": "Francis Fukuyama Is Welcoming History Back",
-      "url": "https://www.inoreader.com/article/3a9c6e7672c24274",
-      "author": "Matt McManus",
-      "source": "Jacobin",
-      "published_at": "2026-09-24T16:08:19+00:00",
-      "content_excerpt": "In his new autobiography, Francis Fukuyama boasts that for decades “students in introductory classes in international relations all over the world were required to read [Samuel Huntington’s The Clash of Civilizations ] alongside The End of History .” The flex is warranted; during my undergrad we were assigned both essays in one of my classes on international law. Many intellectuals dream about reaching this level of notoriety. But for Fukuyama, fame came at a heavy price. Namely, he became the kind of thinker whose ideas everyone has an opinion on even while they resolutely avoid reading him (see 99 percent of recent conservative commentary on Karl Marx and Marxism for an example). For years, Fukuyama’s problematic but provocative thesis about reaching the “end of history” was subjected to",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/85248fd6529efad891ed40a7.json"
-    },
-    {
-      "id": "292f9202bbcb064608ecf350",
-      "title": "Cuba Under Siege",
-      "url": "https://inthesetimes.com/article/cuba-under-siege-blockade-trump-sanctions-marco-rubio",
-      "author": "",
-      "source": "In These Times",
-      "published_at": "2026-09-24T16:03:57+00:00",
-      "content_excerpt": "A ​ “ silent Gaza.” That is how a Cuban citizen summed up the impact of the U.S. decades-long blockade that the Trump administration has aggressively ratcheted up since the beginning of the year. In January, weeks after the military assault on Venezuela and the kidnapping of President Nicolás Maduro, Trump, invoking a ​ “ national emergency,” signed an executive order establishing punitive tariffs against any country that would provide Cuba with oil. Cuba depended on Venezuela for the largest share of its energy needs, in an ​ “ oil-for-doctors” agreement established in 2000 by Hugo Chávez and Fidel Castro. The country received 100 , 000 barrels of oil per day in exchange for tens of thousands of Cuban doctors, sports trainers and other professionals who provided Venezuelans with care and ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/292f9202bbcb064608ecf350.json"
-    },
-    {
-      "id": "4a3f28261c4934af844b6f2d",
-      "title": "Immigrants Aren't Taking Away Our Healthcare—ICE Is",
-      "url": "https://inthesetimes.com/article/immigrants-healthcare-ice-medicaid-medicare-snap-cuts-obbb",
-      "author": "",
-      "source": "In These Times",
-      "published_at": "2026-09-24T16:03:57+00:00",
-      "content_excerpt": "The cost of healthcare just keeps going up — and millions of Americans are set to lose coverage. Under the GOP’s so-called ​ “ Big Beautiful Bill,” around 17 million people in this country will lose health care thanks to the law’s Medicaid cuts, failure to renew Affordable Care Act subsidies and other changes. Those cuts accelerate after this year’s midterms. Instead, that money is going toward tax cuts for the rich plus record budgets for Immigrations and Customs Enforcement (ICE) and the Pentagon. Immigrants — including well over 1 million residents who are lawfully present — will be especially hard hit. Rosa Maria Carranza fled El Salvador’s civil war for the United States decades ago, working here and sending money home to support her three children. She missed their milestones as she ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/4a3f28261c4934af844b6f2d.json"
-    },
-    {
-      "id": "e95cb64343eb29d5ecd4128a",
-      "title": "The Rising Left Can’t Ignore Labor’s Ongoing Crisis",
-      "url": "https://www.inoreader.com/article/3a9c6e7672be26ce",
-      "author": "Sam Gindin",
-      "source": "Jacobin",
-      "published_at": "2026-09-24T14:06:36+00:00",
-      "content_excerpt": "As the Trump administration stumbles from scandal to scandal and worries over artificial intelligence reach a fever pitch, there seems to be little relief in sight for working-class Americans confronting a stubborn cost-of-living crisis. The failure of both Republicans and Democrats to advance real solutions to the affordability crunch has opened the door to hopeful socialist election victories, including Zohran Mamdani’s triumph in New York last year and several left-wing wins in congressional primaries this summer. Yet organized labor by and large has continued its long retreat, and the prospects of significant national policy change still look remote. Sam Gindin is one of the most exacting and capacious thinkers on the socialist left today. With decades of experience in the labor moveme",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/e95cb64343eb29d5ecd4128a.json"
-    },
-    {
-      "id": "7cb498471dc0040f52adfb9e",
-      "title": "A New Leader Wants to Move Bulgaria Left",
-      "url": "https://www.inoreader.com/article/3a9c6e7672bb206d",
-      "author": "Krum Zarkov",
-      "source": "Jacobin",
-      "published_at": "2026-09-24T13:37:01+00:00",
-      "content_excerpt": "Bulgaria might not be the first country you associate with the socialist movement. But left-wingers have played an outsize role in the southeastern European country, ever since some twenty activists founded the Bulgarian Social Democratic Workers’ Party at a clandestine mountain rendezvous in 1891. After the Russian Revolution, the newly formed Bulgarian Communist Party (BCP) launched a failed uprising in 1923, and, after playing a decisive role in the antifascist partisan resistance during World War II, took power with Soviet backing. Lasting from 1944 to 1990 and combining Soviet-style planning with nationalist policies that, over time, grew increasingly hostile toward the country’s Turkish minority, the BCP’s rule nevertheless fundamentally transformed Bulgaria. Starting from an overwhe",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/7cb498471dc0040f52adfb9e.json"
-    },
-    {
-      "id": "6846ac8a96d7bb3b2fd37c65",
-      "title": "“You Can’t Have an Inclusive and Diverse City When the Police Engage in Racist Practices”",
-      "url": "https://democraticleft.dsausa.org/2026/09/24/you-cant-have-an-inclusive-and-diverse-city-when-the-police-engage-in-racist-practices",
-      "author": "Democratic Left",
-      "source": "Democratic Left",
-      "published_at": "2026-09-24T13:07:13+00:00",
-      "content_excerpt": "Democratic Left interviews Police Reform Organizing Project Director Robert Gangi about Zohran Mamdani and the NYPD. The post “You Can’t Have an Inclusive and Diverse City When the Police Engage in Racist Practices” appeared first on Democratic Left .",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/6846ac8a96d7bb3b2fd37c65.json"
-    },
-    {
-      "id": "f37d5678eebfdb934975bf14",
-      "title": "What Cedric Robinson’s Black Marxism Gets Wrong",
-      "url": "https://www.inoreader.com/article/3a9c6e76723deb63",
-      "author": "August H. Nimtz",
-      "source": "Jacobin",
-      "published_at": "2026-09-23T20:32:50+00:00",
-      "content_excerpt": "Cedric Robinson’s Black Marxism: The Making of the Black Radical Tradition did not receive widespread attention after its original publication in 1983. Since 2000, when it was republished with a new preface and an introduction by historian Robin D. G. Kelley, however, the book has enjoyed widespread appeal and influence in the anglophone humanities and social sciences as well as among activists. Robinson’s proposed theory of “racial capitalism” and his framework of a “black radical tradition” have shaped debates about racial inequalities in capitalist societies and Marxism’s potential for anti-racist politics in recent decades. August Nimtz has engaged with the book’s arguments and trajectory, directly or indirectly, since its original publication. The recently published collection , Black",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/f37d5678eebfdb934975bf14.json"
-    },
-    {
-      "id": "6bdd255a7af301f20aedf99d",
-      "title": "History From Below: Molly Crabapple’s Here Where We Live Is Our Country",
-      "url": "https://religioussocialism.org/history-from-below-molly-crabapples-here-where-we-live-is-our-country",
-      "author": "DSA Religion and Socialism Working Group",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-09-23T20:23:45+00:00",
-      "content_excerpt": "There is little new to say about Molly Crabapple’s wonderful history of the Jewish Bund , Here Where We Live is Our Country . Since its publication, the book has been widely celebrated by the Left, dismissed by the Right, and met with a mix of praise and accusations of naivety or idealism from liberal and centrist publications. The praise is well deserved. Crabapple writes so joyfully and tenderly about the Bund that a passive reading of the book feels almost heretical. The Bund was anti-Zionist, and Here Where We Live is Our Country is the kind of book that inspires people to continue the struggle against Zionism and genocide. As I read, I couldn’t help but reflect on what makes good historical writing. I have long held the view that an academic tone and a straightforward, seemingly unbia",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/6bdd255a7af301f20aedf99d.json"
-    },
-    {
-      "id": "0b109400179b55a376bc4d22",
-      "title": "Socialists Should Be Champions of Government Efficiency",
-      "url": "https://www.inoreader.com/article/3a9c6e767225397c",
-      "author": "Liza Featherstone",
-      "source": "Jacobin",
-      "published_at": "2026-09-23T19:31:57+00:00",
-      "content_excerpt": "Early this week, Mayor Zohran Mamdani, speaking at the Urban 20 (U20) Mayors Summit, bemoaned that government “efficiency has been taken on as a right-wing concern,” with Elon Musk’s Department of Government Efficiency (DOGE) being a particularly vile example. As with the phrase “quality of life,” the mayor observed, “there has been a sense that if you admit to an interest in those things, then you are assisting the Right.”On the contrary, the mayor said: “If you ignore these things,” that’s actually assisting the Right. Government efficiency is “incredibly important,” something “we have to deliver”; he stressed that we can’t let the Right have an “ideological monopoly on it.”The remarks were consistent with a broader effort in the Mamdani administration, which has a charter commission cal",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/0b109400179b55a376bc4d22.json"
-    },
-    {
-      "id": "f73a6349bb76e28bb436cdb3",
-      "title": "Amazon Workers Keep Walking Out",
-      "url": "https://inthesetimes.com/article/amazon-workers-walk-out-riverside-california",
-      "author": "",
-      "source": "In These Times",
-      "published_at": "2026-09-23T18:16:21+00:00",
-      "content_excerpt": "RIVERSIDE, CALIF. — In February, a worker at Amazon’s DJT 6 delivery station in Riverside was confronted inside the warehouse by a former coworker. She had accused him of harassment. The man had already been fired but somehow got back inside the building. Emmanuel Cadena, who works at DJT 6 and knew the woman, said the man blamed her for his firing. Another worker stepped in. “ He flashed the gun and said, ​ ‘ If you and your friend have a problem, you can see me outside,’” Cadena said. The confrontation happened near the conveyor belt where workers were sorting packages. Amazon did not pause work, according to Cadena. ​ “ There’s no sort of cover in any capacity,” he said. There were no security guards at DJT 6 at the time. Amazon spokesperson Sam Stephenson said, ​ “ The safety of our em",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/f73a6349bb76e28bb436cdb3.json"
     }
   ]
 }
