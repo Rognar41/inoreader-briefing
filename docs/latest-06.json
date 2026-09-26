@@ -1,19 +1,117 @@
 {
-  "generated_at": "2026-09-25T22:40:22.631440+00:00",
-  "generated_at_jst": "2026-09-26T07:40:22.631440+09:00",
-  "period_start": "2026-09-24T16:40:22.631440+00:00",
+  "generated_at": "2026-09-26T22:06:21.410577+00:00",
+  "generated_at_jst": "2026-09-27T07:06:21.410577+09:00",
+  "period_start": "2026-09-25T16:06:21.410577+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
-  "article_count": 20,
+  "article_count": 16,
   "articles": [
     {
+      "id": "01a7e35e45b634e50d0e0601",
+      "title": "The Evolution of New York Times Opinion on Gaza: From Unconditional Support to Bounded Criticism",
+      "url": "https://mondoweiss.net/2026/09/the-evolution-of-new-york-times-opinion-on-gaza-from-unconditional-support-to-bounded-criticism",
+      "author": "Khaled Ezzelarab",
+      "source": "Mondoweiss",
+      "published_at": "2026-09-26T13:26:18+00:00",
+      "content": "Since the start of the genocide in Gaza, the so-called paper of record has begun to update its language on Israel, reflecting a larger shift in US public opinion.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false
+    },
+    {
+      "id": "210f149d42d59b8095b3ac09",
+      "title": "What’s the deal with productivity?",
+      "url": "https://mronline.org/2026/09/26/whats-the-deal-with-productivity",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-09-26T13:19:19+00:00",
+      "content": "The bosses are trying to convince workers that lower corporate taxes, fewer regulations and workers’ rights, and less union power would be good for real wages. What they really want is more profits. The post What’s the deal with productivity? appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false
+    },
+    {
+      "id": "01cca46b913de69fddbebd70",
+      "title": "Deaths from ectopic pregnancy have doubled in the United States since 2020",
+      "url": "https://mronline.org/2026/09/26/deaths-from-ectopic-pregnancy-have-doubled-in-the-united-states-since-2020",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-09-26T12:19:25+00:00",
+      "content": "In a deeper sense, a death from ectopic pregnancy is an indicator of whether a society will defend the lives of working-class women. The post Deaths from ectopic pregnancy have doubled in the United States since 2020 appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false
+    },
+    {
+      "id": "c754164909ae91765cae98bc",
+      "title": "The radical ecology of Rosa Luxemburg",
+      "url": "https://mronline.org/2026/09/26/the-radical-ecology-of-rosa-luxemburg",
+      "author": "Paul Le Blanc",
+      "source": "MR Online",
+      "published_at": "2026-09-26T11:18:04+00:00",
+      "content": "Rosa Luxemburg’s Herbarium: Radical Ecology and the Global Plantation is a handsomely crafted and inspiring volume to be savored and shared, thanks to the uniquely exquisite sensibilities of Rosa Luxemburg and the splendid labors of the book’s editor, Claudia Horn. The post The radical ecology of Rosa Luxemburg appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false
+    },
+    {
+      "id": "7ddd5a2144a10cd279d3c163",
+      "title": "CNN cleared to join CBS under Trumpian Paramount ownership",
+      "url": "https://mronline.org/2026/09/26/cnn-cleared-to-join-cbs-under-trumpian-paramount-ownership",
+      "author": "Ari Paul",
+      "source": "MR Online",
+      "published_at": "2026-09-26T10:17:23+00:00",
+      "content": "Paramount’s purchase of Warner Bros. Discovery, which faced legal action and concern that Paramount boss David Ellison may be consolidating too much media power, is now going forward. The post CNN cleared to join CBS under Trumpian Paramount ownership appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false
+    },
+    {
+      "id": "814d779069a0d7cf7f98f922",
+      "title": "Benjamin Netanyahu booed at UN General Assembly over Gaza genocide",
+      "url": "https://mronline.org/2026/09/26/benjamin-netanyahu-booed-at-un-general-assembly-over-gaza-genocide",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-09-26T09:15:48+00:00",
+      "content": "Israeli Prime Minister Benjamin Netanyahu faced massive boos and walkouts from diplomats during his speech at the 81st United Nations General Assembly, protesting the ongoing genocide and ethnic cleansing in Gaza. The post Benjamin Netanyahu booed at UN General Assembly over Gaza genocide appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false
+    },
+    {
+      "id": "dea9ee0d7d3f7ad10a8347be",
+      "title": "Xi on his DC visit: ‘China and the US should be partners not rivals’",
+      "url": "https://breakthroughnews.org/2026/09/25/xi-on-his-dc-visit-china-and-the-us-should-be-partners-not-rivals",
+      "author": "Abdul Rahman",
+      "source": "BT News",
+      "published_at": "2026-09-25T23:28:25+00:00",
+      "content": "China’s President Xi Jinping concluded his three-day state visit to the US on Friday, September 25, with hopes of enhanced cooperation and partnership between the world’s two largest economies. Xi arrived in the US on Wednesday and received a large-scale welcome from President Donald Trump. Though this was their third in-person meeting it was Xi’s first state visit to the US in over a decade. On Thursday, the leaders had a long in-person conversation in the White House and finished the day with a state dinner with 130 guests, including tech executives. Though the US is yet to release its version of the official proceedings, reports indicate they discussed a range of outstanding issues such as the dispute over trade and tariffs, cooperation in Artificial Intelligence, the issue of Taiwan, and the US-Israeli war on Iran. During the meeting with Trump, Xi called for strategic stability in the China-US relationship which will benefit both countries and the people around the world, Xinhua reported. “China and the US should be partners, not rivals,” Xi said. Xi’s statement comes at a time when the two countries are negotiating a longer trade deal after briefly facing each other in a tariff war last year. Both countries agreed to extend their temporary trade truce which halted the tariff war till January to give their negotiators more time. The so-called Busan Trade Truce was set to expire in November this year. Xi hoped that “both sides would stay committed to the principles of mutual benefit and win-win cooperation and promote the sustained, stable and sound development of China-US economic and trade relations.” Technology and AI Successive administrations in the US have characterized China’s advancements in technology and other economic sectors as a threat to American interests and have tried to curb them by restricting its access to technology. In his attempt to address such apprehensions, Xi proposed that “both sides work towards a relationship featuring cooperation as the mainstay, moderate competition, manageable differences, and the promise of peace.” Talking about the competition in the development of Artificial Intelligence (AI), Xi offered increased coordination and cooperation between the countries as a way of mutual benefit. While emphasizing that “two sides should maintain human control over AI technologies, uphold people-centered approach and the principle of using AI for good” he proposed greater exchange of information to “prevent any misuse and abuse of AI.” Read more: The AI frontier asks to be paced: anatomy of a panic Xi also expressed hope that Chinese companies “are treated fairly in the US” while inviting more US companies to invest in China. “Working together, we can lengthen the list of cooperation and shorten the list of issues” he underlined. The US has sanctioned or put a large number of Chinese companies, including its AI firms on various watch lists in recent years, after accusing them of working with the Chinese armed forces or being involved in the so-called technology theft . Notably, however, major US tech and finance executives such as Jensen Huang of Nvidia, Mark Zuckerberg of Meta, Eric Yuan of Zoom, Kelly Ortberg of Boeing, Larry Fink of Blackrock, Sam Altman of OpenAI, Satya Nadella of Microsoft, Sundar Pichai of Google, Jeff Bezos of Amazon, and Elon Musk of SpaceX and Tesla, were present at the state dinner for Xi’s visit hosted at the White House on Thursday, September 24, though no details of cooperation between US and Chinese tech firms have emerged. Taiwan Reiterating China’s resolve to “safeguard national reunification and territorial integrity,” Xi expressed hope that the US will “adhere to the correct position on opposing ‘Taiwan independence’ and handle the Taiwan question with caution.” China has repeatedly accused the US of promoting the separatist cause in Taiwan, despite officially adhering to “one China policy.” The US under Trump has sold or agreed to sell billions of dollars’ worth of weapons to Taiwan in complete disregard of China’s objections. China has also accused the US and its allies in the region of promoting an arms race by deploying advanced weapon systems close to its borders. Xi said if the US follows the correct position on Taiwan it “will enable both the countries to lay a solid foundation for their strategic cooperation and the development of their bilateral relationship.” US-Israeli war on Iran China has refused to intervene or get involved in the US-Israeli war on Iran, despite Trump’s repeated calls for them to do so. China has maintained the war was unnecessary and repeatedly warned against its prolongation. It has supported the interim peace deal signed in June under international mediation. Xi reiterated this position during his visit to the US, expressing hope that both Iran and the US would soon return to the Memorandum of Understanding (MoU) and end the war. Xi claimed that “China-US cooperation may not solve every problem in the world, but without it, it would be hard to solve many of the world’s problems” and proposed more dialogue and “mechanisms of crisis communication and prevention” between their armed forces. Read more: No new talks with the US until the previous conditions are met, says Iran Trump said his meeting with Xi on Thursday was “great” also claiming they have maintained close communication. Trump also agreed that “continued dialogue” with China is necessary to reach agreement on significant issues.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false
+    },
+    {
       "id": "0c9cabf06e7553ca59fe06b7",
-      "title": "‘Cuba is not a threat; the blockade is’: Díaz-Canel replies to Trump",
+      "title": "‘Cuba is not a threat, the blockade is’: Díaz-Canel replies to Trump",
       "url": "https://breakthroughnews.org/2026/09/25/cuba-is-not-a-threat-the-blockade-is-diaz-canel-replies-to-trump",
       "author": "Pablo Meriguet",
       "source": "BT News",
       "published_at": "2026-09-25T22:29:42+00:00",
-      "content": "In his address to the UN General Assembly, US President Donald Trump said that the Cuban government is a failed state currently under enormous pressure: “My administration seeks a fundamental change in the situation in Cuba… It is an absolute failed state… and it will fall. Marco Rubio is leading the negotiations.” In response, the Cuban delegation stood up and walked out of the plenary session in protest. Trump continued : “Cuba is a haven for foreign adversaries who threaten America right on our doorstep… The Cuban regime has also spent decades coordinating with left-wing radicals and communist networks here in the United States… They have cultivated ties with subversive and radical groups.” The remarks did not go over well in Havana, where the government has categorically rejected the US right-wing leader’s statements. Leading the response is the country’s president, Miguel Díaz-Canel, who asserted that freedom in Cuba is non-negotiable. “Freedom came to Cuba on January 1, 1959, [the date the Cuban Revolution began], and we are not going to lose it; we are going to defend it. Once again, we are seeing the true face of that empire and its contempt for the peoples of Latin America – and in particular for Cuba and the Cuban Revolution – because of what it represents.” Díaz-Canel made the remarks on a program called Criterio Compartido on Radio Rebelde . In them, Díaz-Canel described Trump’s statements as “arrogant,” “high-handed,” and “interventionist.” He also asserted that behind Trump’s thinking lies a justification for a certain view of US imperialism: “what most underpins that genocidal, criminal, and contemptuous mindset toward Cuba and the Cuban people.” Regarding the label of “failed state,” the leader of the Communist Party of Cuba said : “They are always trying to label us a failed state to shift the blame for the genocide they are committing with that intensified and prolonged blockade.” Díaz-Canel is referring not only to the long and sustained economic and commercial blockade that the United States unilaterally imposed on Cuba in an effort to defeat the revolution that began in 1959. In US President Donald Trump’s first term, he imposed an additional 243 sanctions on the Caribbean island and added Cuba to the State Sponsors of Terrorism (SSoT) list, which devastated the Cuban economy. In January 2026, Trump further tightened the grip by imposing an energy blockade on Cuba. Since early 2026, following the US attack on Venezuela that resulted in the capture of President Maduro and his wife, Cilia Flores, and the deaths of more than 100 people – including several dozen Cubans – Cuba lost one of its main energy partners, which used to supply crude oil to the Cuban power grid. Since then, only one Russian ship has managed to circumvent the US blockade; the United States is currently threatening to impose additional tariffs on any country that sells fuel to Cuba. This has triggered Cuba’s worst energy crisis, which is hindering the normal operation of hospitals, schools, and food production, among other essential activities. Cuba has denounced the blockade as a form of “silent genocide,” specifically because of the direct humanitarian consequences it is having on the civilian population, which has seen a reduction not only in its electricity supply but also in access to surgeries, water, food, and so on. In this regard, Díaz-Canel has once again emphasized on X that Cuba does not pose a threat to the United States; rather, it is the United States that is endangering Cuba’s civilian population: “Unable to justify the punishment against the people of Cuba and its genocidal economic war, the US president repeats at the UN that Cuba poses a threat. Lies are the weapon of those who refuse to accept the Cuban people’s right to self-determination.” He concluded : “We will continue to fight for peace, defend our sovereignty, and work together to overcome the ruthless aggression imposed on us by the US government. Cuba is not a threat – the blockade is.”",
+      "content": "In his address to the UN General Assembly, US President Donald Trump said that the Cuban government is a failed state currently under enormous pressure: “My administration seeks a fundamental change in the situation in Cuba… It is an absolute failed state… and it will fall. Marco Rubio is leading the negotiations.” In response, the Cuban delegation stood up and walked out of the plenary session in protest. Trump continued : “Cuba is a haven for foreign adversaries who threaten America right on our doorstep… The Cuban regime has also spent decades coordinating with left-wing radicals and communist networks here in the United States… They have cultivated ties with subversive and radical groups.” The remarks did not go over well in Havana, where the government has categorically rejected the US right-wing leader’s statements. Leading the response is the country’s president, Miguel Díaz-Canel, who asserted that freedom in Cuba is non-negotiable. “Freedom came to Cuba on January 1, 1959, [the date the Cuban Revolution began], and we are not going to lose it; we are going to defend it. Once again, we are seeing the true face of that empire and its contempt for the peoples of Latin America – and in particular for Cuba and the Cuban Revolution – because of what it represents.” Díaz-Canel made the remarks on a program called Criterio Compartido on Radio Rebelde . In them, Díaz-Canel described Trump’s statements as “arrogant,” “high-handed,” and “interventionist.” He also asserted that behind Trump’s thinking lies a justification for a certain view of US imperialism: “what most underpins that genocidal, criminal, and contemptuous mindset toward Cuba and the Cuban people.” Regarding the label of “failed state,” the leader of the Communist Party of Cuba said : “They are always trying to label us a failed state to shift the blame for the genocide they are committing with that intensified and prolonged blockade.” Díaz-Canel is referring not only to the long and sustained economic and commercial blockade that the United States unilaterally imposed on Cuba in an effort to defeat the revolution that began in 1959. In US President Donald Trump’s first term, he imposed an additional 243 sanctions on the Caribbean island and added Cuba to the State Sponsors of Terrorism (SSoT) list, which devastated the Cuban economy. In January 2026, Trump further tightened the grip by imposing an energy blockade on Cuba. Since early 2026, following the US attack on Venezuela that resulted in the capture of President Maduro and his wife, Cilia Flores, and the deaths of more than 100 people – including several dozen Cubans – Cuba lost one of its main energy partners, which used to supply crude oil to the Cuban power grid. Since then, only one Russian ship has managed to circumvent the US blockade; the United States is currently threatening to impose additional tariffs on any country that sells fuel to Cuba. This has triggered Cuba’s worst energy crisis, which is hindering the normal operation of hospitals, schools, and food production, among other essential activities. Cuba has denounced the blockade as a form of “silent genocide,” specifically because of the direct humanitarian consequences it is having on the civilian population, which has seen a reduction not only in its electricity supply but also in access to surgeries, water, food, and so on. In this regard, Díaz-Canel has once again emphasized on X that Cuba does not pose a threat to the United States; rather, it is the United States that is endangering Cuba’s civilian population: “Unable to justify the punishment against the people of Cuba and its genocidal economic war, the US president repeats at the UN that Cuba poses a threat. Lies are the weapon of those who refuse to accept the Cuban people’s right to self-determination.” He concluded : “We will continue to fight for peace, defend our sovereignty, and work together to overcome the ruthless aggression imposed on us by the US government. Cuba is not a threat, the blockade is.”",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
@@ -126,160 +224,6 @@
       "source": "BT News",
       "published_at": "2026-09-25T16:33:46+00:00",
       "content": "Why is Pakistan’s military so afraid of Imran Khan? With Islamabad on lockdown and 35,000 additional troops deployed to stop the September 27 march in support of the imprisoned ex-prime minister. Junaid S. Ahmad, professor of religion and world politics and director of the Center for Study of Islam and Decoloniality, tells Rania Khalek and Zoe Alexandra the 2022 US-backed regime-change operation meant to neutralize the country’s most popular politician instead gave rise to a movement bigger than Khan himself: a new opposition coalition, TTAP, including the left-wing Awami Workers Party, as Khan’s PTI party has shattered the army’s legitimacy in Punjab. Ahmad says Pakistan, under military rule in all but name, has become “nothing less than a police state.” Its only legitimacy, he says, comes from Washington and Rawalpindi, the home of the army’s headquarters. And with past demonstrations ending in massacres and the Shehbaz Sharif-Asim Munir regime telling hospitals to prepare for a “mass-casualty event,” Ahmad explains why this Sunday’s march has gone global, with solidarity protests planned from Washington to London to Kuala Lumpur, and why Khan refuses to call it off, even as his sisters and wife are jailed. Watch full episodes of BT Live, join breakthroughnews.org as a member today!",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false
-    },
-    {
-      "id": "c5f9544a657d32d976bafb16",
-      "title": "“Stop Arming Israel”: 100+ Arrested at Jewish Voice for Peace Sit-In Outside Netanyahu U.N. Speech",
-      "url": "https://www.democracynow.org/2026/9/25/jewish_voice_for_peace_protests_netanyahu",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-09-25T15:03:39+00:00",
-      "content": "Over 100 protesters were arrested near the United Nations in New York on Thursday ahead of Israeli Prime Minister Benjamin Netanyahu’s speech to the General Assembly. The sit-in, organized by Jewish Voice for Peace, denounced Netanyahu for perpetrating a genocide against Palestinians in Gaza, building more illegal settlements in the West Bank, occupying parts of Lebanon and bombing Iran alongside the United States. Democracy Now! spoke with participants, including some congressional candidates and other prominent figures. Please check back later for full transcript.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false
-    },
-    {
-      "id": "ccfd07323e08b72f5768347f",
-      "title": "“Grotesque”: Ex-Israeli Negotiator Daniel Levy on Netanyahu’s U.N. Speech & Israel’s Impunity",
-      "url": "https://www.democracynow.org/2026/9/25/netanyahu_at_unga",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-09-25T15:03:39+00:00",
-      "content": "Israeli Prime Minister Benjamin Netanyahu addressed a half-empty chamber at the United Nations General Assembly on Thursday, after dozens of delegations walked out in protest at the start of his speech. Netanyahu assailed his critics as “antisemites,” defended his country’s conduct in Gaza, the West Bank, Lebanon and Syria, and lavished praise on President Trump for joining Israel’s strikes on Iran. Daniel Levy, a former Israeli peace negotiator under Prime Ministers Ehud Barak and Yitzhak Rabin, says Israel’s growing diplomatic isolation “needs to be translated into action” like sanctions, arms embargoes and other forms of accountability. Page 2 At the United Nations this week, President Trump repeated his attacks on the International Criminal Court and urged other nations to pull out of the global tribunal. The United States earlier this year imposed sanctions on the president of the ICC and a senior prosecutor who was part of the team that issued an arrest warrant for Israeli Prime Minister Benjamin Netanyahu for crimes against humanity in Gaza, and the Trump administration is reportedly preparing more sanctions against the institution itself. Meanwhile, a coalition of nations has formed to defend international law in solidarity with the people of Palestine under the banner of the Hague Group, which was established last year by Bolivia, Colombia, Cuba, Honduras, Malaysia, Namibia, Senegal and South Africa. “It’s an absolute low point for the sacred grounds of the United Nations that President Trump has shown up here and attacked the international legal order,” says Varsha Gandikota, executive secretary of the Hague Group. We also air remarks from South African Foreign Minister Ronald Lamola, who spoke earlier this week at the historic Riverside Church in New York City to urge respect for international law.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false
-    },
-    {
-      "id": "7684159328a863380385f265",
-      "title": "The Hague Group: South Africa Leads Coalition Against U.S./Israel’s “Unilateral Bullying” of the ICC",
-      "url": "https://www.democracynow.org/2026/9/25/trump_attacks_icc",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-09-25T15:03:39+00:00",
-      "content": "At the United Nations this week, President Trump repeated his attacks on the International Criminal Court and urged other nations to pull out of the global tribunal. The United States earlier this year imposed sanctions on the president of the ICC and a senior prosecutor who was part of the team that issued an arrest warrant for Israeli Prime Minister Benjamin Netanyahu for crimes against humanity in Gaza, and the Trump administration is reportedly preparing more sanctions against the institution itself. Meanwhile, a coalition of nations has formed to defend international law in solidarity with the people of Palestine under the banner of the Hague Group, which was established last year by Bolivia, Colombia, Cuba, Honduras, Malaysia, Namibia, Senegal and South Africa. “It’s an absolute low point for the sacred grounds of the United Nations that President Trump has shown up here and attacked the international legal order,” says Varsha Gandikota, executive secretary of the Hague Group. We also air remarks from South African Foreign Minister Ronald Lamola, who spoke earlier this week at the historic Riverside Church in New York City to urge respect for international law.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false
-    },
-    {
-      "id": "68056cb22340d11f23c7534a",
-      "title": "“Crossing the Red Line”: Akbar Shahid Ahmed on Biden, His Advisers, Harris & Israel’s War in Gaza",
-      "url": "https://www.democracynow.org/2026/9/25/crossing_the_red_line",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-09-25T15:03:39+00:00",
-      "content": "We speak with journalist Akbar Shahid Ahmed, whose new book, Crossing the Red Line , looks at how President Joe Biden and top figures in his administration supported Israel’s brutal war in Gaza despite the soaring death toll and growing alarm over widespread war crimes committed by the Israeli military. “The policies that we’ve seen entrenched and, frankly, worsened and become more dangerous and deadly under Donald Trump were really established by Biden’s team,” says Ahmed, who says there is “bipartisan continuity” on Israel-Palestine between the two presidents.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false
-    },
-    {
-      "id": "ef8f554669d615c563c54e76",
-      "title": "Cotton Specters| Depleting the earth and its children",
-      "url": "https://mronline.org/2026/09/25/cotton-specters-depleting-the-earth-and-its-children",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-09-25T13:25:54+00:00",
-      "content": "When British economist David Ricardo put forward his theory of the international division of labor and specialization based on comparative advantage in the early nineteenth century, it was seen as a formula for raising global output. The post Cotton Specters| Depleting the earth and its children appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false
-    },
-    {
-      "id": "cc7aead991ad57f371c80f5a",
-      "title": "IAEA inspections found no case of non-compliance in Iran nuclear sites",
-      "url": "https://mronline.org/2026/09/25/iaea-inspections-found-no-case-of-non-compliance-in-iran-nuclear-sites",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-09-25T12:25:12+00:00",
-      "content": "Iranian nuclear chief Mohammad Eslami says the IAEA had access to all Iranian facilities. The post IAEA inspections found no case of non-compliance in Iran nuclear sites appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false
-    },
-    {
-      "id": "4a05255d4f79d8d7ef751847",
-      "title": "Palestinians in Masafer Yatta are surviving without water after Israeli settlers cut off a lifeline",
-      "url": "https://mondoweiss.net/2026/09/palestinians-in-masafer-yatta-are-surviving-without-water-after-israeli-settlers-cut-off-a-lifeline",
-      "author": "Qassam Muaddi",
-      "source": "Mondoweiss",
-      "published_at": "2026-09-25T11:40:49+00:00",
-      "content": "In Masafer Yatta in the southern occupied West Bank, Israeli settlers are accelerating their attacks on Palestinian farmers and herders in the area by cutting off their water supply.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false
-    },
-    {
-      "id": "ac82155dbc028e45e74af20a",
-      "title": "The struggle to be gay in Jamaica, for example",
-      "url": "https://mronline.org/2026/09/25/the-struggle-to-be-gay-in-jamaica-for-example",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-09-25T11:23:55+00:00",
-      "content": "ALISON DONNELL extols a virtuoso literary performance that primes the imagination for justice and transformation to come. The post The struggle to be gay in Jamaica, for example appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false
-    },
-    {
-      "id": "df911ef09cb693399df9a88f",
-      "title": "America loves free speech, except when it comes to Palestine",
-      "url": "https://mronline.org/2026/09/25/america-loves-free-speech-except-when-it-comes-to-palestine",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-09-25T10:23:56+00:00",
-      "content": "Whether it’s Macklemore, Hasan Piker, or your neighborhood activist, this is a fight to make sure billionaires and politicians cannot stop free speech and will have to hear the calls to “Free Palestine” whether they like it or not. The post America loves free speech, except when it comes to Palestine appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false
-    },
-    {
-      "id": "242366c137f1d523c5894e64",
-      "title": "The youth want a future: The Thirty-Ninth Newsletter (2026)",
-      "url": "https://mronline.org/2026/09/25/the-youth-want-a-future-the-thirty-ninth-newsletter-2026",
-      "author": "Vijay Prashad",
-      "source": "MR Online",
-      "published_at": "2026-09-25T09:23:31+00:00",
-      "content": "Behind widespread youth uprisings lies a stark contradiction: an economic system that protects capital while stripping young people of dignified work, community, and the confidence that tomorrow can be different. The post The youth want a future: The Thirty-Ninth Newsletter (2026) appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false
-    },
-    {
-      "id": "07e5bfb6e8df9f45c6846db5",
-      "title": "Milei at the UN: Argentina as the ‘promised land’ for capital, AI, and Israel",
-      "url": "https://breakthroughnews.org/2026/09/25/milei-at-the-un-argentina-as-the-promised-land-for-capital-ai-and-israel",
-      "author": "Pablo Meriguet",
-      "source": "BT News",
-      "published_at": "2026-09-25T05:39:19+00:00",
-      "content": "Far-right Argentine President Javier Milei addressed the 81st session of the United Nations General Assembly on September 23, giving a speech which provoked strong reactions. The South American head of state also participated in a series of high-level meetings. One of his most quoted lines from his New York City trip has been: “Argentina is the new promised land.” This is not the first time Milei has used religious concepts and ideas from the Judeo-Christian tradition to explain his political stance, but it is the first time the Argentine president has equated his country, in economic and political terms, with the land of Abraham and his descendants. This is even more telling when one considers Milei’s extremely close relationship with Israel and ardent defense of its policies of war and genocide across West Asia, as well as the admiration he professes for the Jewish religion. Milei also emphatically underscored this during his address to the UN General Assembly: “We also made a geopolitical choice: we have unambiguously aligned ourselves with the West … We condemn the Iranian regime’s attacks on the State of Israel.” And this is an indisputable fact. Since the beginning of his term, Milei has not only aligned himself with the geopolitical interests that the Trump administration has vigorously pursued, but has also become one of Israel’s staunchest allies in the region. This is quite impressive, considering that President Noboa in Ecuador, De la Espriella in Colombia, and others have also expressed a kind of unwavering alliance with Tel Aviv. That is why Milei has not limited himself to diplomatic rhetoric, but has pulled the strings of power to designate Iran’s main military force (currently in conflict with Israel and the United States) as a terrorist organization. “We declare the Iranian Revolutionary Guard a terrorist organization, just as we continue to seek justice for the two attacks we suffered on Argentine soil in 1992 and 1994,” Milei said at the UN, referring to two attacks in Argentina against the Israeli Embassy and the Argentine Israelite Mutual Association (AMIA). The Argentine justice system, advised by Israel and the United States, identified Hezbollah and Iranian citizens as the perpetrators. Free-market capitalism and Artificial Intelligence Another topic Milei addressed during his appearance was his staunch defense of free-market capitalism in which the state plays a minimal role: “We do not want to lose again; that is why we embrace free-market capitalism.” In this regard, Milei once again highlighted his government’s strong support for artificial intelligence companies and the tycoons behind them. It should not be forgotten that the Argentine government signed a working and information-sharing agreement with Palantir, whose co-founder, Peter Thiel, purchased a property on Argentine soil. This is clearly part of Milei’s neoliberal agenda to attract investment from major foreign capitalists, among whom the owners of technology companies (who are so interested in resources such as lithium, copper, and others that abound in South America) currently stand out. However, recent statements by former employees of these companies regarding the danger that the development of AI poses to humanity have created some unease around the world. But Milei says that this is precisely the time to move forward: “Prudence does not mean fear, and what’s more, fear should under no circumstances automatically lead to obedience … where many see a threat, we see a frontier.” Criticism of the UN Probably one of the most important aspects highlighted in Milei’s speech was his harsh criticism of the UN and its role in current geopolitics: “Today, unfortunately, it is time to acknowledge that this sacred pact has, in fact, been broken.” But not content with merely pointing out the shortcomings, Milei asserted (very much in line with Trump) that the UN has become a venue for certain people to amass wealth: “It has become a useless organization that serves only to feed a caste of fatally arrogant parasites disguised as well-meaning bureaucrats.” Hence, he asserted that resolutions ultimately have no real effect on policy. He cited the example of the Malvinas Islands, a territory disputed with the United Kingdom: “What good is a resolution if, for decades, the other party can act contrary to it, and that resolution remains intact in the archives but is powerless in the face of reality?” Criticism of Milei’s speech Milei’s statements, while applauded by his supporters, have drawn widespread criticism in Argentina. Much of the criticism has focused on the fact that Milei now seems to staunchly defend Argentina’s right to control the Malvinas Islands, whereas in the past he was cautious and even reluctant to adopt a patriotic stance against the United Kingdom – something both the Argentine left and right have done. “We’re surprised that Milei now remembers when he used to talk about self-determination,” said Axel Kicillof , governor of the province of Buenos Aires. Likewise, critics pointed out the apparent contradiction in Milei’s rhetoric between extolling the right to self-determination and aligning himself with the interests of Washington and Tel Aviv: “Milei’s stance doesn’t surprise me. The truth is that this line of subservience—and I say this very clearly—is directed at Trump and Netanyahu. Even the terminology is consistent with what Trump proposed and his ideas on the deregulation of artificial intelligence, as well as his view that Argentina’s natural resources are available to anyone who wants to take them,” said Kicillof. Regarding Milei’s economic rhetoric, Patria Grande leader Juan Grabois said : “Besides being an ignorant imbecile, besides being a lobotomized parrot who parrots Trump, besides plagiarizing Gramsci without knowing he’s “a filthy communist,” what Milei is saying is that we’re basically going to hand over our territory, critical minerals, energy, and national sovereignty to the technocracy.”",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],

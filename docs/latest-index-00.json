@@ -1,12 +1,102 @@
 {
-  "generated_at": "2026-09-25T22:40:22.631440+00:00",
-  "generated_at_jst": "2026-09-26T07:40:22.631440+09:00",
-  "period_start": "2026-09-24T16:40:22.631440+00:00",
+  "generated_at": "2026-09-26T22:06:21.410577+00:00",
+  "generated_at_jst": "2026-09-27T07:06:21.410577+09:00",
+  "period_start": "2026-09-25T16:06:21.410577+00:00",
   "lookback_hours": 30,
   "folder": "00_毎日確認",
-  "article_count": 7,
+  "article_count": 9,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "196c76cc81d6803328d3934e",
+      "title": "Video Game Workers at Blizzard Won First Union Contracts",
+      "url": "https://www.inoreader.com/article/3a9c6e76700aa8db",
+      "author": "Dan DiMaggio",
+      "source": "Jacobin",
+      "published_at": "2026-09-26T15:38:51+00:00",
+      "content_excerpt": "Workers who make some of the world’s most popular video games, including World of Warcraft and Diablo , won their first union contracts in early September, in an important step forward for organizing in the tech industry. The 1,900 workers are employed by Blizzard, which was acquired by Microsoft in 2023 in the largest deal ever in the video game industry. Their new Communications Workers (CWA) contracts include recall rights and guaranteed severance packages for laid-off workers — significant wins, since tech and video game workers have seen waves of layoffs in the last few years. Workers on various Activision Blizzard teams have voted to join CWA since 2022. It started with quality assurance testers at Raven Software — when Raven abruptly laid off a dozen testers in December 2021, they w",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/196c76cc81d6803328d3934e.json"
+    },
+    {
+      "id": "f888982cf0ccb9b1e5782942",
+      "title": "According to Polls, Americans Like Socialism a Lot",
+      "url": "https://www.inoreader.com/article/3a9c6e7671f5b9dd",
+      "author": "Branko Marcetic",
+      "source": "Jacobin",
+      "published_at": "2026-09-26T15:10:00+00:00",
+      "content_excerpt": "Socialism is more popular than it’s been for a long time, both socialism and its most well-known adherents appeal to a surprisingly diverse voter base, and most people still have no idea who Hasan Piker is. Those are just a few of the takeaways from a crop of polls conducted over the past month or so, which together suggest the radicalized, antiestablishment zeal that’s taken over the Democratic electorate and opened the door for a rising socialist insurgency is still going strong, with a few surprises in tow. And they come at a potentially crucial time, as socialist Rep. Alexandria Ocasio-Cortez weighs whether to make a run for president in 2028, a campaign that many socialists view as pivotal to the future prospects of their movement as a whole. We should obviously be careful with polls,",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/f888982cf0ccb9b1e5782942.json"
+    },
+    {
+      "id": "3207225605ad06bd3ba8d218",
+      "title": "Trump’s Favorite Communist Just Got A Lot More Charming",
+      "url": "https://democraticleft.dsausa.org/2026/09/26/trumps-favorite-communist-just-got-a-lot-more-charming",
+      "author": "tfrasca@yahoo.com",
+      "source": "Democratic Left",
+      "published_at": "2026-09-26T14:59:28+00:00",
+      "content_excerpt": "The Chamber of Commerce prepares for war, DoorDash gets dashed, and more. \"Red All Over,\" Democratic Left’s occasional round-up of media coverage of DSA. The post Trump’s Favorite Communist Just Got A Lot More Charming appeared first on Democratic Left .",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/3207225605ad06bd3ba8d218.json"
+    },
+    {
+      "id": "d563ca78a7102be931083f4b",
+      "title": "Literacy Is Another Casualty of the Decline of Democracy",
+      "url": "https://www.inoreader.com/article/3a9c6e7671fe720b",
+      "author": "John Livesey",
+      "source": "Jacobin",
+      "published_at": "2026-09-26T13:43:29+00:00",
+      "content_excerpt": "Approximately two years ago, a bizarre new genre of AI-generated content began to emerge online. Suddenly social media was filled with short-form videos depicting hypersexual anthropomorphic fruit, embroiled in increasingly far-fetched and soapy plot lines. In one video, a voluptuous strawberry cheats on her watermelon husband, and gives birth to two wolf cubs. In another, an emasculated orange takes revenge on a womanizing banana who has stolen his girlfriend. In a particularly violent iteration, a young tangerine is bullied by his homophobic father and ends up juicing his whole family. It is easy to dismiss these shlocky and incoherent narratives as mere “AI slop.” But they are also endemic to a broader culture. In 2026, the average American spends at least two hours a day doomscrolling ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/d563ca78a7102be931083f4b.json"
+    },
+    {
+      "id": "f17bd0c325c0256b2c3cedf0",
+      "title": "The San Jose Execution",
+      "url": "https://siliconvalleydsa.org/2026/09/26/the-san-jose-execution",
+      "author": "Silicon Valley DSA",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-09-26T13:15:06+00:00",
+      "content_excerpt": "This statement was written by members of the Silicon Valley DSA Liberation and Justice Working Group . A Tragedy of Systemic Violence The events that unfolded on January 21st, 2026, in San Jose, California, serve as a chilling, visceral testament to the enduring crisis of systemic violence against Black lives in America. Mohamed Husein was a son, a brother, and a father murdered in cold blood for fleeing from San Jose Police Department officers to avoid arrest for a crime spree. He was literally running for his life, attempting to escape a system that, for far too many, equates criminality with a death sentence. The Lethal Pursuit While running away, Mohamed Husein was struck by gunshots that erupted from multiple officers. These bullets found their mark, and Mohamed collapsed onto the str",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/f17bd0c325c0256b2c3cedf0.json"
+    },
+    {
+      "id": "2c1402538cd38c8dd5072fdd",
+      "title": "Greece’s Neo-Nazis Are Back",
+      "url": "https://www.inoreader.com/article/3a9c6e7671e42409",
+      "author": "Georgios Samaras",
+      "source": "Jacobin",
+      "published_at": "2026-09-26T12:45:51+00:00",
+      "content_excerpt": "For over seven years after it entered parliament in May 2012, Golden Dawn was at the heart of Greece’s political life. Its rise was accompanied by scenes that should have made its character unmistakable. During the June 2012 election campaign, MP Ilias Kasidiaris assaulted two female left-wing politicians live on TV, while numerous other key members were documented openly expressing admiration for Adolf Hitler . Beyond parliament, something far darker was taking place. Golden Dawn was not simply an extremist political party but, a Greek court would later establish, a criminal organization orchestrating a web of violence. Its notorious assault squads terrorized migrants and political opponents across Athens, and its members were implicated in some of the most infamous killings of the period",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/2c1402538cd38c8dd5072fdd.json"
+    },
     {
       "id": "3299d36b43837acab26b87ac",
       "title": "What The Flock: Prison Populists and Palantyranny",
@@ -51,66 +141,6 @@
       "priority": 1,
       "date_missing": false,
       "article_path": "articles/18ddb6c57aef3d3ec9598655.json"
-    },
-    {
-      "id": "c0b5f9fc49192ad5f1039497",
-      "title": "A Union Feud Shouldn’t Sink California’s Billionaire Tax",
-      "url": "https://www.inoreader.com/article/3a9c6e7671672f29",
-      "author": "Christie Offenbacher",
-      "source": "Jacobin",
-      "published_at": "2026-09-25T14:46:49+00:00",
-      "content_excerpt": "America’s already threadbare welfare state is on the brink of total collapse. Over the next ten years, national funding for Medicaid, whose benefits 81 million Americans rely upon, will be cut by about $1 trillion . States that expanded Medicaid access under the Affordable Care Act will be hit especially hard. More immediately, in just a few days, on October 1, and again on January 1, various new requirements for Medicaid eligibility will be instituted. This means that receiving and maintaining insurance will suddenly become much more difficult for millions of Americans. The result of all of these changes, enacted by H. R. 1, or the One Big Beautiful Bill Act, will be to throw states across the country into health and budget crises as their Medicaid funding falls off a cliff, with some of ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/c0b5f9fc49192ad5f1039497.json"
-    },
-    {
-      "id": "6c1cac7b221fb6571f7cabd7",
-      "title": "The First Walmart Union Contract in North America",
-      "url": "https://www.inoreader.com/article/3a9c6e7671682e1f",
-      "author": "Kari Thompson",
-      "source": "Jacobin",
-      "published_at": "2026-09-25T13:45:45+00:00",
-      "content_excerpt": "Eight hundred workers at a Walmart distribution center in Mississauga, Ontario, succeeded where others have not: they are now working under a two-year contract with North America’s largest logistics giant. The landmark collective bargaining agreement went into effect on July 1, nearly two years after workers won union representation , joining Unifor Local 252, motivated by low wages and unsafe working conditions. As punishment two years ago, Walmart bumped the pay of every logistics worker in Canada — except those who unionized. This was an effective maneuver to halt further union drives. “Walmart gave all the wage increases to all the nonunion folks, and everything fell apart,” said Angela Drew Kimelman, a Unifor organizer who worked on organizing campaigns at multiple warehouses, includi",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/6c1cac7b221fb6571f7cabd7.json"
-    },
-    {
-      "id": "6e752b0156974f8b7d7e289d",
-      "title": "Texas DSA Statement on ICE Shooting of Wilber Rafael Garces Perez",
-      "url": "https://redfault.com/texas-dsa-statement-on-ice-shooting-of-wilber-rafael-garces-perez",
-      "author": "Red Fault -- Austin DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-09-24T23:47:04+00:00",
-      "content_excerpt": "En español/In Spanish: Declaración de DSA de Texas sobre el tiroteo de ICE contra Wilber Rafael Garces Perez El domingo 20 de septiembre de 2026, agentes de ICE embistieron dos veces el auto de Wilber Rafael Garces Perez , residente de Austin, y luego le dispararon por la espalda mientras aún se encontraba dentro del vehículo. Los agentes de ICE, junto con oficiales del Departamento de Seguridad Pública de Texas (DPS) y de la Policía de Austin (APD), lo esposaron y trasladaron al Centro Médico Dell Seton, donde ni recibió atención médica integral ni se le extrajo la bala alojada cerca de su columna vertebral, antes de ser devuelto a la custodia de ICE apenas unas horas después de haber sido disparado. El personal de seguridad del hospital se negó a permitir que la esposa o el abogado del S",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/6e752b0156974f8b7d7e289d.json"
-    },
-    {
-      "id": "b7bd7d7cb76c90c29bd3b209",
-      "title": "AI Destruction Isn’t Hypothetical. It’s Already Here.",
-      "url": "https://www.inoreader.com/article/3a9c6e7672ebbe12",
-      "author": "Branko Marcetic",
-      "source": "Jacobin",
-      "published_at": "2026-09-24T18:38:48+00:00",
-      "content_excerpt": "We’re several weeks into a fierce debate over whether artificial intelligence (AI) will kill us all. Triggered by a spate of former workers at major AI firms coming forward to warn that a future superintelligent AI could lead to human extinction, the debate has inspired a kaleidoscopic array of views that don’t break down along neat ideological lines. Some think it’s all hogwash, either the product of ignorant hype or part of a cynical hype campaign by the industry itself. For others, convinced that the tech’s potential capabilities are no joke, they’re warnings that need to be taken deadly seriously.In many ways, though, the debate is besides the point. It’s not that we shouldn’t try to get to the bottom of what exactly happened with the HuggingFace hacking incident, and that we shouldn’t",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/b7bd7d7cb76c90c29bd3b209.json"
     }
   ]
 }
