@@ -1,146 +1,86 @@
 {
-  "generated_at": "2026-09-26T22:06:21.410577+00:00",
-  "generated_at_jst": "2026-09-27T07:06:21.410577+09:00",
-  "period_start": "2026-09-25T16:06:21.410577+00:00",
+  "generated_at": "2026-09-27T22:27:59.036575+00:00",
+  "generated_at_jst": "2026-09-28T07:27:59.036575+09:00",
+  "period_start": "2026-09-26T16:27:59.036575+00:00",
   "lookback_hours": 30,
   "folder": "00_毎日確認",
-  "article_count": 9,
+  "article_count": 5,
   "excerpt_chars": 800,
   "articles": [
     {
-      "id": "196c76cc81d6803328d3934e",
-      "title": "Video Game Workers at Blizzard Won First Union Contracts",
-      "url": "https://www.inoreader.com/article/3a9c6e76700aa8db",
-      "author": "Dan DiMaggio",
-      "source": "Jacobin",
-      "published_at": "2026-09-26T15:38:51+00:00",
-      "content_excerpt": "Workers who make some of the world’s most popular video games, including World of Warcraft and Diablo , won their first union contracts in early September, in an important step forward for organizing in the tech industry. The 1,900 workers are employed by Blizzard, which was acquired by Microsoft in 2023 in the largest deal ever in the video game industry. Their new Communications Workers (CWA) contracts include recall rights and guaranteed severance packages for laid-off workers — significant wins, since tech and video game workers have seen waves of layoffs in the last few years. Workers on various Activision Blizzard teams have voted to join CWA since 2022. It started with quality assurance testers at Raven Software — when Raven abruptly laid off a dozen testers in December 2021, they w",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/196c76cc81d6803328d3934e.json"
-    },
-    {
-      "id": "f888982cf0ccb9b1e5782942",
-      "title": "According to Polls, Americans Like Socialism a Lot",
-      "url": "https://www.inoreader.com/article/3a9c6e7671f5b9dd",
-      "author": "Branko Marcetic",
-      "source": "Jacobin",
-      "published_at": "2026-09-26T15:10:00+00:00",
-      "content_excerpt": "Socialism is more popular than it’s been for a long time, both socialism and its most well-known adherents appeal to a surprisingly diverse voter base, and most people still have no idea who Hasan Piker is. Those are just a few of the takeaways from a crop of polls conducted over the past month or so, which together suggest the radicalized, antiestablishment zeal that’s taken over the Democratic electorate and opened the door for a rising socialist insurgency is still going strong, with a few surprises in tow. And they come at a potentially crucial time, as socialist Rep. Alexandria Ocasio-Cortez weighs whether to make a run for president in 2028, a campaign that many socialists view as pivotal to the future prospects of their movement as a whole. We should obviously be careful with polls,",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/f888982cf0ccb9b1e5782942.json"
-    },
-    {
-      "id": "3207225605ad06bd3ba8d218",
-      "title": "Trump’s Favorite Communist Just Got A Lot More Charming",
-      "url": "https://democraticleft.dsausa.org/2026/09/26/trumps-favorite-communist-just-got-a-lot-more-charming",
-      "author": "tfrasca@yahoo.com",
-      "source": "Democratic Left",
-      "published_at": "2026-09-26T14:59:28+00:00",
-      "content_excerpt": "The Chamber of Commerce prepares for war, DoorDash gets dashed, and more. \"Red All Over,\" Democratic Left’s occasional round-up of media coverage of DSA. The post Trump’s Favorite Communist Just Got A Lot More Charming appeared first on Democratic Left .",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/3207225605ad06bd3ba8d218.json"
-    },
-    {
-      "id": "d563ca78a7102be931083f4b",
-      "title": "Literacy Is Another Casualty of the Decline of Democracy",
-      "url": "https://www.inoreader.com/article/3a9c6e7671fe720b",
-      "author": "John Livesey",
-      "source": "Jacobin",
-      "published_at": "2026-09-26T13:43:29+00:00",
-      "content_excerpt": "Approximately two years ago, a bizarre new genre of AI-generated content began to emerge online. Suddenly social media was filled with short-form videos depicting hypersexual anthropomorphic fruit, embroiled in increasingly far-fetched and soapy plot lines. In one video, a voluptuous strawberry cheats on her watermelon husband, and gives birth to two wolf cubs. In another, an emasculated orange takes revenge on a womanizing banana who has stolen his girlfriend. In a particularly violent iteration, a young tangerine is bullied by his homophobic father and ends up juicing his whole family. It is easy to dismiss these shlocky and incoherent narratives as mere “AI slop.” But they are also endemic to a broader culture. In 2026, the average American spends at least two hours a day doomscrolling ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/d563ca78a7102be931083f4b.json"
-    },
-    {
-      "id": "f17bd0c325c0256b2c3cedf0",
-      "title": "The San Jose Execution",
-      "url": "https://siliconvalleydsa.org/2026/09/26/the-san-jose-execution",
-      "author": "Silicon Valley DSA",
+      "id": "29bb1b5ddcd974680dcbc746",
+      "title": "MoCo DSA September Newsletter",
+      "url": "https://mdcdsa.org/2026/09/27/moco-dsa-september-newsletter",
+      "author": "Metro DC DSA",
       "source": "DSA Feed - Global",
-      "published_at": "2026-09-26T13:15:06+00:00",
-      "content_excerpt": "This statement was written by members of the Silicon Valley DSA Liberation and Justice Working Group . A Tragedy of Systemic Violence The events that unfolded on January 21st, 2026, in San Jose, California, serve as a chilling, visceral testament to the enduring crisis of systemic violence against Black lives in America. Mohamed Husein was a son, a brother, and a father murdered in cold blood for fleeing from San Jose Police Department officers to avoid arrest for a crime spree. He was literally running for his life, attempting to escape a system that, for far too many, equates criminality with a death sentence. The Lethal Pursuit While running away, Mohamed Husein was struck by gunshots that erupted from multiple officers. These bullets found their mark, and Mohamed collapsed onto the str",
+      "published_at": "2026-09-27T14:38:48+00:00",
+      "content_excerpt": "This is important. We’re all in this together. September 2026 Newsletter This is the monthly newsletter by the Montgomery County Branch of the Metro DC Chapter of the Democratic Socialists of America (MoCo DSA). Interested in building a socialist future? Join DSA . Want up-to-the-minute updates? Follow us on Instagram , Bluesky , Twitter , and Facebook . Sign up for weekly updates (and see the archives ) from Metro DC DSA. Check out our linktree for important links, upcoming events, actions, and more! Take Action Fight landlord and developer efforts to raise the rent by sharing your story about Montgomery County rent stabilization . In 2023, the Montgomery County Council passed rent stabilization, thanks to organizing by Montgomery County DSA and coalition partners. Despite gains for tenan",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/f17bd0c325c0256b2c3cedf0.json"
+      "article_path": "articles/29bb1b5ddcd974680dcbc746.json"
     },
     {
-      "id": "2c1402538cd38c8dd5072fdd",
-      "title": "Greece’s Neo-Nazis Are Back",
-      "url": "https://www.inoreader.com/article/3a9c6e7671e42409",
-      "author": "Georgios Samaras",
+      "id": "f8e7533124c99cae055853f9",
+      "title": "Who Killed Asylum?",
+      "url": "https://www.inoreader.com/article/3a9c6e7670604684",
+      "author": "Levi Vonk",
       "source": "Jacobin",
-      "published_at": "2026-09-26T12:45:51+00:00",
-      "content_excerpt": "For over seven years after it entered parliament in May 2012, Golden Dawn was at the heart of Greece’s political life. Its rise was accompanied by scenes that should have made its character unmistakable. During the June 2012 election campaign, MP Ilias Kasidiaris assaulted two female left-wing politicians live on TV, while numerous other key members were documented openly expressing admiration for Adolf Hitler . Beyond parliament, something far darker was taking place. Golden Dawn was not simply an extremist political party but, a Greek court would later establish, a criminal organization orchestrating a web of violence. Its notorious assault squads terrorized migrants and political opponents across Athens, and its members were implicated in some of the most infamous killings of the period",
+      "published_at": "2026-09-27T13:34:53+00:00",
+      "content_excerpt": "Asylum as we know it is basically dead. The immigration system has been so systematically hollowed out that, for the vast majority of the world’s poor and displaced, it might as well not exist anymore. A brief list of what’s gone wrong: First, asylum approval rates have plummeted to historic lows, falling below 20 percent in 2025, compared to 55.5 percent in 2012. Second, the process is slower than ever before. A backlog of over three million cases frequently forces potential asylees to wait five or more years before finally appearing in court. In 2012, there were only about 300,000 cases on the docket, less than one-tenth of today’s, and wait times of just a year and a half . This backlog has led to a third problem. As asylum seekers are forced to twiddle their thumbs for half a decade, t",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/2c1402538cd38c8dd5072fdd.json"
+      "article_path": "articles/f8e7533124c99cae055853f9.json"
     },
     {
-      "id": "3299d36b43837acab26b87ac",
-      "title": "What The Flock: Prison Populists and Palantyranny",
-      "url": "https://pineandroses.org/opinion/what-the-flock-prison-populists-and-palantyranny",
-      "author": "Pine and Roses -- Maine DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-09-25T20:03:27+00:00",
-      "content_excerpt": "There is a peculiar American humiliation in having to explain why you would like to buy groceries without helping populate a police database. You needed eggs. Apparently, you also owed somebody a record of the trip. Flock Safety’s roadside cameras collect license plates, vehicle characteristics, locations, and timestamps. Pass one and your car can become a searchable observation, available to an investigator with access. The company describes these as snapshots of public vehicle information . Such a modest word, snapshot. A birthday. A beach. Your car passing an intersection while you are trying to get through a Tuesday. A collection of those observations has a different character. It lets an institution ask questions about where you have been. The public road supplies the material. You su",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/3299d36b43837acab26b87ac.json"
-    },
-    {
-      "id": "0e9ca5b3b3f3c7948fff8c55",
-      "title": "Saudi Arabia’s Yemen Strategy Has Fallen to Pieces",
-      "url": "https://www.inoreader.com/article/3a9c6e7671836816",
-      "author": "Helen Lackner",
+      "id": "8e5d58f3ff401ba3bb1fb972",
+      "title": "The United Arab Emirates Is Devastating Sudan for Profit",
+      "url": "https://www.inoreader.com/article/3a9c6e767060467b",
+      "author": "Husam Mahjoub",
       "source": "Jacobin",
-      "published_at": "2026-09-25T17:52:54+00:00",
-      "content_excerpt": "Over the past few weeks, Yemen’s Ansar Allah movement, also known as the Huthis, has launched an offensive and made big territorial gains. The latest turn in the Yemeni civil war could have major implications for the world economy, as it involves one of its most important trade routes through the Red Sea. It certainly poses a big challenge for Yemen’s neighbor Saudi Arabia. Helen Lackner is a leading expert on the politics of Yemen and the author of several books about the country. She spoke to Jacobin about the background to the latest developments and what is likely to happen next. This is an edited transcript from Jacobin’s Long Reads podcast. You can listen to the interview here . Daniel Finn What was the impact of the military campaign against Ansar Allah by the United States and Isra",
+      "published_at": "2026-09-27T13:34:53+00:00",
+      "content_excerpt": "At one time or another, Sudanese governments have hosted, armed, or tolerated rebels and opposition groups from all of the country’s neighbors, from Egypt and Libya to Uganda and Ethiopia. Sudan’s neighbors have repaid the favor, and a range of outside actors are now involved in the Sudanese civil war. Key supporters of the Rapid Support Forces (RSF) include Chad, Ethiopia, Uganda, Kenya, and South Sudan. Egypt, Saudi Arabia, and Eritrea support the Sudanese Armed Forces (SAF) and the de facto government. Among all the external actors, the United Arab Emirates (UAE) is the most consequential, even though it has the least reason to be involved. Every other external actor has a stake in Sudan that derives from geography, security exposure, or the influx of Sudanese refugees. Even Saudi Arabi",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/0e9ca5b3b3f3c7948fff8c55.json"
+      "article_path": "articles/8e5d58f3ff401ba3bb1fb972.json"
     },
     {
-      "id": "18ddb6c57aef3d3ec9598655",
-      "title": "Greed and Economic Desperation Are Fueling Sudan’s Civil War",
-      "url": "https://www.inoreader.com/article/3a9c6e767170c9b9",
-      "author": "Ahmed Ismat Ahmed",
+      "id": "23e50b57e7f2a488794a87ca",
+      "title": "We Can’t Blame the Supreme Court for Congress’s Problems",
+      "url": "https://www.inoreader.com/article/3a9c6e7670604672",
+      "author": "Harry Blain",
       "source": "Jacobin",
-      "published_at": "2026-09-25T16:20:10+00:00",
-      "content_excerpt": "I used to pass the biscuit factory in Soba without going in. People I knew went in for a twelve-hour shift on a line that smelled of sugar and oil. In 2021, the number that stuck was 1,500 pounds for the shift. In Haj Yousif, where Iqbal lived, the rent for a single room was 30,000 pounds a month. You had to work twenty factory days just to cover rent. Meanwhile, the Rapid Support Forces were offering people 15,000 a day, a uniform, and a phone. Those three numbers explain more about Sudan’s war than any map I have been shown since. What happened in Sudan was not primarily a story of people choosing violence. It was a story of people choosing the wage that was available. A Bus That Does Not Come Iqbal sold tea in front of the medical campus at the University of Khartoum, setting up with th",
+      "published_at": "2026-09-27T13:34:53+00:00",
+      "content_excerpt": "Almost everyone on the Left seems to have lost faith in the Supreme Court of the United States. This would have been improbable in 1954, after the Brown v. Board of Education decision, or in 1973, after Roe v. Wade , or even in 1992, after the court upheld the core holding of Roe in Planned Parenthood v. Casey . But after over twenty years of the conservative John Roberts serving as chief justice, including over half a decade of him leading a court with a 6–3 conservative supermajority, liberals and progressives no longer turn to the court with any real hope. If anything, they view it with hostility. Some on the Left — most recently Lisa Graves and Leah Litman — have portrayed the Roberts Court as a wrecking ball that has “rewritten the Constitution” and “dismantled our rights.” Others thi",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/18ddb6c57aef3d3ec9598655.json"
+      "article_path": "articles/23e50b57e7f2a488794a87ca.json"
+    },
+    {
+      "id": "caeb26b1b0d6f129a8387661",
+      "title": "In Italy’s Financial Capital, Socialism Is Back in the Air",
+      "url": "https://www.inoreader.com/article/3a9c6e7670604668",
+      "author": "Jacopo Custodi",
+      "source": "Jacobin",
+      "published_at": "2026-09-27T13:34:53+00:00",
+      "content_excerpt": "One in twelve people living in Milan is a millionaire. A report by the consultancy Henley & Partners ranks Italy’s second-largest city and financial capital as the world leader for millionaires per resident, well ahead of New York City, where the figure is one in twenty-two. A growing number come from abroad, drawn not just by the vibrancy of Italy’s fashion hub but also generous tax breaks for wealthy newcomers. For everyone else, Milan tells a very different story. The cost of living is soaring, and with rents and house prices spiraling out of control, working people are being pushed to the suburbs. Add to that the fact that the public health system is in crisis, with private health care giants opening clinics across the city. All of this has unfolded under center-left administrations th",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/caeb26b1b0d6f129a8387661.json"
     }
   ]
 }

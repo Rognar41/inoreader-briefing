@@ -1,33 +1,19 @@
 {
-  "generated_at": "2026-09-26T22:06:21.410577+00:00",
-  "generated_at_jst": "2026-09-27T07:06:21.410577+09:00",
-  "period_start": "2026-09-25T16:06:21.410577+00:00",
+  "generated_at": "2026-09-27T22:27:59.036575+00:00",
+  "generated_at_jst": "2026-09-28T07:27:59.036575+09:00",
+  "period_start": "2026-09-26T16:27:59.036575+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
-  "article_count": 16,
+  "article_count": 2,
   "articles": [
     {
-      "id": "01a7e35e45b634e50d0e0601",
-      "title": "The Evolution of New York Times Opinion on Gaza: From Unconditional Support to Bounded Criticism",
-      "url": "https://mondoweiss.net/2026/09/the-evolution-of-new-york-times-opinion-on-gaza-from-unconditional-support-to-bounded-criticism",
-      "author": "Khaled Ezzelarab",
-      "source": "Mondoweiss",
-      "published_at": "2026-09-26T13:26:18+00:00",
-      "content": "Since the start of the genocide in Gaza, the so-called paper of record has begun to update its language on Israel, reflecting a larger shift in US public opinion.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false
-    },
-    {
-      "id": "210f149d42d59b8095b3ac09",
-      "title": "What’s the deal with productivity?",
-      "url": "https://mronline.org/2026/09/26/whats-the-deal-with-productivity",
+      "id": "aaa4b9f834c2e47c945ed855",
+      "title": "Michael Jackson – They Don’t Care About Us (Prison Version) (Official Video)",
+      "url": "https://mronline.org/2026/09/27/michael-jackson-they-dont-care-about-us-prison-version-official-video",
       "author": "Editor",
       "source": "MR Online",
-      "published_at": "2026-09-26T13:19:19+00:00",
-      "content": "The bosses are trying to convince workers that lower corporate taxes, fewer regulations and workers’ rights, and less union power would be good for real wages. What they really want is more profits. The post What’s the deal with productivity? appeared first on MR Online .",
+      "published_at": "2026-09-27T15:56:13+00:00",
+      "content": "Spike Lee directed two short films for Michael Jackson’s “They Don’t Care About Us.” This version was filmed in a prison and was aired only at certain hours due to controversial content. The post Michael Jackson – They Don’t Care About Us (Prison Version) (Official Video) appeared first on MR Online .",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
@@ -35,195 +21,13 @@
       "date_missing": false
     },
     {
-      "id": "01cca46b913de69fddbebd70",
-      "title": "Deaths from ectopic pregnancy have doubled in the United States since 2020",
-      "url": "https://mronline.org/2026/09/26/deaths-from-ectopic-pregnancy-have-doubled-in-the-united-states-since-2020",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-09-26T12:19:25+00:00",
-      "content": "In a deeper sense, a death from ectopic pregnancy is an indicator of whether a society will defend the lives of working-class women. The post Deaths from ectopic pregnancy have doubled in the United States since 2020 appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false
-    },
-    {
-      "id": "c754164909ae91765cae98bc",
-      "title": "The radical ecology of Rosa Luxemburg",
-      "url": "https://mronline.org/2026/09/26/the-radical-ecology-of-rosa-luxemburg",
-      "author": "Paul Le Blanc",
-      "source": "MR Online",
-      "published_at": "2026-09-26T11:18:04+00:00",
-      "content": "Rosa Luxemburg’s Herbarium: Radical Ecology and the Global Plantation is a handsomely crafted and inspiring volume to be savored and shared, thanks to the uniquely exquisite sensibilities of Rosa Luxemburg and the splendid labors of the book’s editor, Claudia Horn. The post The radical ecology of Rosa Luxemburg appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false
-    },
-    {
-      "id": "7ddd5a2144a10cd279d3c163",
-      "title": "CNN cleared to join CBS under Trumpian Paramount ownership",
-      "url": "https://mronline.org/2026/09/26/cnn-cleared-to-join-cbs-under-trumpian-paramount-ownership",
-      "author": "Ari Paul",
-      "source": "MR Online",
-      "published_at": "2026-09-26T10:17:23+00:00",
-      "content": "Paramount’s purchase of Warner Bros. Discovery, which faced legal action and concern that Paramount boss David Ellison may be consolidating too much media power, is now going forward. The post CNN cleared to join CBS under Trumpian Paramount ownership appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false
-    },
-    {
-      "id": "814d779069a0d7cf7f98f922",
-      "title": "Benjamin Netanyahu booed at UN General Assembly over Gaza genocide",
-      "url": "https://mronline.org/2026/09/26/benjamin-netanyahu-booed-at-un-general-assembly-over-gaza-genocide",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-09-26T09:15:48+00:00",
-      "content": "Israeli Prime Minister Benjamin Netanyahu faced massive boos and walkouts from diplomats during his speech at the 81st United Nations General Assembly, protesting the ongoing genocide and ethnic cleansing in Gaza. The post Benjamin Netanyahu booed at UN General Assembly over Gaza genocide appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false
-    },
-    {
-      "id": "dea9ee0d7d3f7ad10a8347be",
-      "title": "Xi on his DC visit: ‘China and the US should be partners not rivals’",
-      "url": "https://breakthroughnews.org/2026/09/25/xi-on-his-dc-visit-china-and-the-us-should-be-partners-not-rivals",
-      "author": "Abdul Rahman",
-      "source": "BT News",
-      "published_at": "2026-09-25T23:28:25+00:00",
-      "content": "China’s President Xi Jinping concluded his three-day state visit to the US on Friday, September 25, with hopes of enhanced cooperation and partnership between the world’s two largest economies. Xi arrived in the US on Wednesday and received a large-scale welcome from President Donald Trump. Though this was their third in-person meeting it was Xi’s first state visit to the US in over a decade. On Thursday, the leaders had a long in-person conversation in the White House and finished the day with a state dinner with 130 guests, including tech executives. Though the US is yet to release its version of the official proceedings, reports indicate they discussed a range of outstanding issues such as the dispute over trade and tariffs, cooperation in Artificial Intelligence, the issue of Taiwan, and the US-Israeli war on Iran. During the meeting with Trump, Xi called for strategic stability in the China-US relationship which will benefit both countries and the people around the world, Xinhua reported. “China and the US should be partners, not rivals,” Xi said. Xi’s statement comes at a time when the two countries are negotiating a longer trade deal after briefly facing each other in a tariff war last year. Both countries agreed to extend their temporary trade truce which halted the tariff war till January to give their negotiators more time. The so-called Busan Trade Truce was set to expire in November this year. Xi hoped that “both sides would stay committed to the principles of mutual benefit and win-win cooperation and promote the sustained, stable and sound development of China-US economic and trade relations.” Technology and AI Successive administrations in the US have characterized China’s advancements in technology and other economic sectors as a threat to American interests and have tried to curb them by restricting its access to technology. In his attempt to address such apprehensions, Xi proposed that “both sides work towards a relationship featuring cooperation as the mainstay, moderate competition, manageable differences, and the promise of peace.” Talking about the competition in the development of Artificial Intelligence (AI), Xi offered increased coordination and cooperation between the countries as a way of mutual benefit. While emphasizing that “two sides should maintain human control over AI technologies, uphold people-centered approach and the principle of using AI for good” he proposed greater exchange of information to “prevent any misuse and abuse of AI.” Read more: The AI frontier asks to be paced: anatomy of a panic Xi also expressed hope that Chinese companies “are treated fairly in the US” while inviting more US companies to invest in China. “Working together, we can lengthen the list of cooperation and shorten the list of issues” he underlined. The US has sanctioned or put a large number of Chinese companies, including its AI firms on various watch lists in recent years, after accusing them of working with the Chinese armed forces or being involved in the so-called technology theft . Notably, however, major US tech and finance executives such as Jensen Huang of Nvidia, Mark Zuckerberg of Meta, Eric Yuan of Zoom, Kelly Ortberg of Boeing, Larry Fink of Blackrock, Sam Altman of OpenAI, Satya Nadella of Microsoft, Sundar Pichai of Google, Jeff Bezos of Amazon, and Elon Musk of SpaceX and Tesla, were present at the state dinner for Xi’s visit hosted at the White House on Thursday, September 24, though no details of cooperation between US and Chinese tech firms have emerged. Taiwan Reiterating China’s resolve to “safeguard national reunification and territorial integrity,” Xi expressed hope that the US will “adhere to the correct position on opposing ‘Taiwan independence’ and handle the Taiwan question with caution.” China has repeatedly accused the US of promoting the separatist cause in Taiwan, despite officially adhering to “one China policy.” The US under Trump has sold or agreed to sell billions of dollars’ worth of weapons to Taiwan in complete disregard of China’s objections. China has also accused the US and its allies in the region of promoting an arms race by deploying advanced weapon systems close to its borders. Xi said if the US follows the correct position on Taiwan it “will enable both the countries to lay a solid foundation for their strategic cooperation and the development of their bilateral relationship.” US-Israeli war on Iran China has refused to intervene or get involved in the US-Israeli war on Iran, despite Trump’s repeated calls for them to do so. China has maintained the war was unnecessary and repeatedly warned against its prolongation. It has supported the interim peace deal signed in June under international mediation. Xi reiterated this position during his visit to the US, expressing hope that both Iran and the US would soon return to the Memorandum of Understanding (MoU) and end the war. Xi claimed that “China-US cooperation may not solve every problem in the world, but without it, it would be hard to solve many of the world’s problems” and proposed more dialogue and “mechanisms of crisis communication and prevention” between their armed forces. Read more: No new talks with the US until the previous conditions are met, says Iran Trump said his meeting with Xi on Thursday was “great” also claiming they have maintained close communication. Trump also agreed that “continued dialogue” with China is necessary to reach agreement on significant issues.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false
-    },
-    {
-      "id": "0c9cabf06e7553ca59fe06b7",
-      "title": "‘Cuba is not a threat, the blockade is’: Díaz-Canel replies to Trump",
-      "url": "https://breakthroughnews.org/2026/09/25/cuba-is-not-a-threat-the-blockade-is-diaz-canel-replies-to-trump",
-      "author": "Pablo Meriguet",
-      "source": "BT News",
-      "published_at": "2026-09-25T22:29:42+00:00",
-      "content": "In his address to the UN General Assembly, US President Donald Trump said that the Cuban government is a failed state currently under enormous pressure: “My administration seeks a fundamental change in the situation in Cuba… It is an absolute failed state… and it will fall. Marco Rubio is leading the negotiations.” In response, the Cuban delegation stood up and walked out of the plenary session in protest. Trump continued : “Cuba is a haven for foreign adversaries who threaten America right on our doorstep… The Cuban regime has also spent decades coordinating with left-wing radicals and communist networks here in the United States… They have cultivated ties with subversive and radical groups.” The remarks did not go over well in Havana, where the government has categorically rejected the US right-wing leader’s statements. Leading the response is the country’s president, Miguel Díaz-Canel, who asserted that freedom in Cuba is non-negotiable. “Freedom came to Cuba on January 1, 1959, [the date the Cuban Revolution began], and we are not going to lose it; we are going to defend it. Once again, we are seeing the true face of that empire and its contempt for the peoples of Latin America – and in particular for Cuba and the Cuban Revolution – because of what it represents.” Díaz-Canel made the remarks on a program called Criterio Compartido on Radio Rebelde . In them, Díaz-Canel described Trump’s statements as “arrogant,” “high-handed,” and “interventionist.” He also asserted that behind Trump’s thinking lies a justification for a certain view of US imperialism: “what most underpins that genocidal, criminal, and contemptuous mindset toward Cuba and the Cuban people.” Regarding the label of “failed state,” the leader of the Communist Party of Cuba said : “They are always trying to label us a failed state to shift the blame for the genocide they are committing with that intensified and prolonged blockade.” Díaz-Canel is referring not only to the long and sustained economic and commercial blockade that the United States unilaterally imposed on Cuba in an effort to defeat the revolution that began in 1959. In US President Donald Trump’s first term, he imposed an additional 243 sanctions on the Caribbean island and added Cuba to the State Sponsors of Terrorism (SSoT) list, which devastated the Cuban economy. In January 2026, Trump further tightened the grip by imposing an energy blockade on Cuba. Since early 2026, following the US attack on Venezuela that resulted in the capture of President Maduro and his wife, Cilia Flores, and the deaths of more than 100 people – including several dozen Cubans – Cuba lost one of its main energy partners, which used to supply crude oil to the Cuban power grid. Since then, only one Russian ship has managed to circumvent the US blockade; the United States is currently threatening to impose additional tariffs on any country that sells fuel to Cuba. This has triggered Cuba’s worst energy crisis, which is hindering the normal operation of hospitals, schools, and food production, among other essential activities. Cuba has denounced the blockade as a form of “silent genocide,” specifically because of the direct humanitarian consequences it is having on the civilian population, which has seen a reduction not only in its electricity supply but also in access to surgeries, water, food, and so on. In this regard, Díaz-Canel has once again emphasized on X that Cuba does not pose a threat to the United States; rather, it is the United States that is endangering Cuba’s civilian population: “Unable to justify the punishment against the people of Cuba and its genocidal economic war, the US president repeats at the UN that Cuba poses a threat. Lies are the weapon of those who refuse to accept the Cuban people’s right to self-determination.” He concluded : “We will continue to fight for peace, defend our sovereignty, and work together to overcome the ruthless aggression imposed on us by the US government. Cuba is not a threat, the blockade is.”",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false
-    },
-    {
-      "id": "4b5ded3f28c1ddc3c527cb0e",
-      "title": "Inside Gaza’s ‘widows camp,’ where women now support their families alone",
-      "url": "https://mondoweiss.net/2026/09/in-gazas-widows-camp-where-women-now-carry-their-families-alone",
-      "author": "Tareq S. Hajjaj",
-      "source": "Mondoweiss",
-      "published_at": "2026-09-25T19:56:53+00:00",
-      "content": "Women in Gaza who lost their husbands in the genocide are caught between the need to work and the pain of leaving their children alone, susceptible to Israeli violence. According to the UN, these women now represent 1 in 4 households in Gaza.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false
-    },
-    {
-      "id": "32ffed365ffac0ac70a06b64",
-      "title": "German students say ‘we don’t want to go to war’",
-      "url": "https://breakthroughnews.org/2026/09/25/german-students-say-we-dont-want-to-go-to-war",
-      "author": "Ana Vračar",
-      "source": "BT News",
-      "published_at": "2026-09-25T19:32:01+00:00",
-      "content": "Thousands of students across Germany were once again on strike against conscription and militarization on Friday, September 25. Actions took place in at least 100 localities as young people demanded a sharp turn from the government’s chosen path. “We don’t want to be forced into military service and we don’t want to go to war,” the students wrote in declaration after their last strike in May. Read more: German students expand their strike against conscription and militarization to 150 cities This is the fourth time students have exchanged classrooms for streets since the end of 2025 . The mobilization has strengthened in resistance to the Merz administration’s plans to build the “strongest conventional army in Europe” – including by drawing more people into the Bundeswehr, the German armed forces. While authorities insist military recruitment remains voluntary, students have warned of a clear tendency toward outright conscription. Local strike committees and activists also emphasized the widespread repression ahead of actions. This included scheduling of exams on strike days and locking-in students on school grounds, they pointed out. Billions for the Bundeswehr , cuts for schools and youth services Over recent months, the government has sent thousands of questionnaires to map voluntary interest in joining the armed forces. According to German media, the response has been underwhelming: tens of thousands of students have disclaimed no interest whatsoever. Not even a multi-million-euro budget allocated to promoting the army has been able to shake this opinion. “They sell us war service as an ‘adventure’ while we know that what awaits us is coertion, humiliation, sexism, right-wing extremism, and racism,” the student declaration adds. Instead of taking the message seriously, authorities recently advanced the implementation of medical checks among their targeted population, drawing further frustration from students. “We don’t want compulsory questionnaires, fines, draft physical examinations, conscription assessment centres across the country, nor planned integration of the Federal Volunteer Service into military service,” they wrote. “These are means to prepare the reintroduction of the draft and thus another war originating from Germany.” “In case of conscription, we’ll be trained as cannon fodder, forced into the trenches,” students added. “War costs us our lives, while corporations like Rheinmetall make record profits.” Read more: Ulrike Eifler: ‘The workplace is a place where we have to fight against war’ Students on strike have expressed solidarity with other ongoing struggles against militarization and budget cuts. They stated they would join peace demonstrations planned for early October in Berlin and Stuttgart, as well as a trade union-backed mobilization against budget cuts on Saturday, September 26. Their decision reflects the widespread understanding that youth and education services are among those impacted by this round of austerity. According to junge Welt , the federal ministry responsible for education will face close to €1 billion in cuts – while €140 billion will be made available for so-called defense in 2027. “Every tank, every rocket we pay for with dilapidated schools and social cuts,” students remarked.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false
-    },
-    {
-      "id": "f99dd1277e84820a1d72f60c",
-      "title": "Trump’s war on the ICC is bigger than Netanyahu, with Noura Erakat",
-      "url": "https://breakthroughnews.org/2026/09/25/trumps-war-on-the-icc-is-bigger-than-netanyahu-with-noura-erakat",
-      "author": "Zoe Alexandra",
-      "source": "BT News",
-      "published_at": "2026-09-25T18:33:40+00:00",
-      "content": "The Trump administration’s assault on the ICC isn’t just about protecting Netanyahu from war crimes prosecution. It’s about preserving “imperial impunity” – Israel’s just “the smokescreen,” says Noura Erakat, professor of criminal justice and Africana studies at Rutgers University and human rights attorney. She traces Washington’s bipartisan refusal to ratify the Rome Statute to explain why the International Criminal Court has spent two decades indicting mostly African and Arab leaders. The 2024 warrants for Netanyahu and former Israeli defense minister Yoav Gallant just show the court “between a rock and a hard place”: finally give up its legitimacy entirely, or face destruction by the US. Now more than a dozen ICC judges, prosecutors, and the court’s president have been sanctioned, as Washington reportedly prepares sanctions against the entire institution, with Secretary of State Marco Rubio calling it an “intolerable threat” to US sovereignty. Can the court survive a war with Washington? Should it? And why do Global South states stay invested in a court that’s clearly stacked against them? Plus: Erakat describes her arrest at a Palm Beach County budget hearing on their $1 billion-plus investment in Israel bonds; warns that Gaza’s Board of Peace could become a blueprint to replace the UN; and explains why she believes, even as public opinion on Palestine shifts, “there’s no way to be safe in this moment by hiding.” Watch full episodes of BT Live, join breakthroughnews.org as a member today!",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false
-    },
-    {
-      "id": "2cb482fda44e893e680b3e98",
-      "title": "Bernie Sanders and US Democrats Accuse Trump of Trying to Interfere in Brazil’s Elections",
-      "url": "https://www.brasildefato.com.br/2026/09/25/bernie-sanders-and-us-democrats-accuse-trump-of-trying-to-interfere-in-brazils-elections",
+      "id": "1474b2b65b95494879637a28",
+      "title": "Of Soil and Blood: Lu Xun’s Revolutionary Literature Ninety Years After His Death",
+      "url": "https://thetricontinental.org/art-bulletin-soil-and-blood",
       "author": "",
-      "source": "Brasil de Fato",
-      "published_at": "2026-09-25T18:11:50+00:00",
-      "content": "Imagem do presidente Donald Trump projetada no ato bolsonarista no dia 7 de setembro, na Avenida Paulista, em São Paulo. | Crédito: Miguel Schincariol / AFP Senator Bernie Sanders and 30 Democratic members of the U.S. House of Representatives sent a letter to Secretary of State Marco Rubio accusing the Donald Trump administration of waging a pressure campaign against Brazil ahead of the first round of vote on October 4. The letter was sent Thursday, September 24. Illinois Congresswoman Delia C. Ramirez led the congressional effort. In it, the lawmakers say that recent actions from the White House “point toward an apparent effort to interfere with, and potentially undermine, Brazil’s general election in October.” They demand that Washington commit to recognizing the certified election results. In particular, the letter cited the Oval Office meeting between Trump and Senator and presidential candidate Flávio Bolsonaro in May. According to the letter, the son of former President Jair Bolsonaro used the occasion to ask the United States to designate the Brazilian drug gangs, Primeiro Comando da Capital and the Comando Vermelho, as foreign terrorist organizations. The White House followed through with the request shortly thereafter. The lawmakers said that Brazilian authorities fear this measure could be used to justify sanctions and other extraterritorial actions. The group also noted that Trump’s military strikes in Latin America were justified, in particular, by alleged threats from such organizations. “We are writing to express our grave concern regarding the Administration’s coordinated effort to threaten our strategic alliance with Brazil and undermine the Western Hemisphere’s second-largest democracy ahead of its upcoming presidential election in October 2026,” reads an excerpt from the document. The letter also points out that, “Rather than helping defend Brazilian democracy, the United States is acting as an agent of interference and destabilization—using diplomatic, economic, and political pressure in ways that risk weakening the country’s democratic institutions, undermining confidence in Brazil’s electoral process, and inflicting further damage on our relationship with a strategic U.S. ally and trading partner.” According to the document, this pattern of conduct not only risks the integrity of electoral processes in individual countries, “but also progressively eroding electorates’ confidence in democratic processes and institutions across the region.” The lawmakers also note that the “sustained, multifaceted campaign of interference and destabilization in Brazil” is driven by the steep tariff hikes promoted by Trump and by U.S. sanctions against Supreme Federal Court justices. The White House’s actions are characterized as an “extraordinary infringement” of Brazilian sovereignty. Interference by the Trump administration in the Brazilian election has been speculated about for months. It has now intensified to the point where the Brazilian Intelligence Agency had to produce a confidential report, disclosed by the newspaper Folha de S. Paulo, raising the possibility of foreign influence in the electoral process to a “critical level.” The reelection campaign of President Luiz Inácio Lula da Silva has petitioned the Brazilian Supreme Court and the Supreme Electoral Court over the matter. Translated by Panamerican Dispatch.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false
-    },
-    {
-      "id": "8578e3aec7735a0b670a15af",
-      "title": "Netanyahu just incited genocide in his UN speech. Here’s what you missed.",
-      "url": "https://mondoweiss.net/2026/09/netanyahu-just-incited-genocide-in-his-un-speech-heres-what-you-missed",
-      "author": "Jonathan Ofir",
-      "source": "Mondoweiss",
-      "published_at": "2026-09-25T18:00:51+00:00",
-      "content": "At the end of Israeli Prime Minister Benjamin Netanyahu’s unhinged rant at the UN, he recited a seemingly obscure Bible verse. But it’s actually a dog whistle for genocide.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false
-    },
-    {
-      "id": "d7fed2481590604e74472744",
-      "title": "What is the UN actually good for? with Vijay Prashad",
-      "url": "https://breakthroughnews.org/2026/09/25/what-is-the-un-actually-good-for-with-vijay-prashad",
-      "author": "Zoe Alexandra",
-      "source": "BT News",
-      "published_at": "2026-09-25T17:33:50+00:00",
-      "content": "Can the United Nations be saved? Should it be? As world leaders and war criminals gather for the 81st session of the UN General Assembly in New York, Vijay Prashad, executive director of the Tricontinental Institute for Social Research, says that despite today’s gangster rule by the likes of Donald Trump and Benjamin Netanyahu, the UN Charter still sets the standard for judging powerful states, making it “the most important treaty document that the world has ever had” – even with the institution built on it in shambles. Prashad slams Secretary-General António Guterres’s failure to get “creative” to end the genocide in Gaza or to stand up to Trump on Iran, instead opening a free lane for the US president who has “put a loaded gun on the table and has threatened the world.” After the US denied visas to the Palestinians for a second year and heavily restricted Iran’s delegation, Prashad makes the case for moving the high-level UNGA out of the US: “New York doesn’t deserve it anymore,” he says, offering alternatives in Geneva or Nairobi. “Let’s move it to the Global South. Why not?” Watch full episodes of BT Live, join breakthroughnews.org as a member today!",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false
-    },
-    {
-      "id": "fa55be6b7b22aa97be1cc5f4",
-      "title": "Trump needs China, Xi is playing the long game, with Amanda Yee",
-      "url": "https://breakthroughnews.org/2026/09/25/trump-needs-china-xi-is-playing-the-long-game-with-amanda-yee",
-      "author": "Rania Khalek",
-      "source": "BT News",
-      "published_at": "2026-09-25T16:33:46+00:00",
-      "content": "Chinese President Xi Jinping “holds all the cards” as he meets with Trump on Thursday, says Amanda Yee, host of BreakThrough News’ The China Report. She joins Zoe Alexandra and Rania Khalek to break down Xi’s first White House visit in 11 years. With Trump facing a massively unpopular war on Iran, surging inflation, growing resistance to ICE terror – and with US midterms weeks away – Washington wants quick deals it can sell as big wins. But Yee says Beijing is playing a longer game, with massive implications for the global future. Take AI: Washington’s Pax Silica forces allies to pick sides, while Beijing’s open model is available to all and centered on the Global South. Two systems, representing “the choice that’s in front of the world right now.” Despite a stated pivot away from China as a military priority, Yee points to Latin America and Iran as proxy fronts where the Trump administration continues to target Beijing. Meanwhile the military encirclement of China continues, from US bases in South Korea, Okinawa and the Philippines, to Japan’s remilitarization and expanding war games like RIMPAC and Freedom Shield. But Yee says “the Cold War on China is a bipartisan affair.” From TikTok to Huawei to BYD, she traces the pattern of trumping up national security threats to mask efforts to protect US companies from competition. It’s all part of the same Red Scare targeting BT News, subpoenaed by the House Ways and Means Committee in an effort to paint anti-war voices as Chinese assets. Watch full episodes of BT Live, join breakthroughnews.org as a member today!",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false
-    },
-    {
-      "id": "0c67ffd90aa7422931049a91",
-      "title": "Pakistan’s Imran Khan crackdown: hospitals brace for ‘mass casualties’",
-      "url": "https://breakthroughnews.org/2026/09/25/pakistans-imran-khan-crackdown-hospitals-brace-for-mass-casualties",
-      "author": "Rania Khalek",
-      "source": "BT News",
-      "published_at": "2026-09-25T16:33:46+00:00",
-      "content": "Why is Pakistan’s military so afraid of Imran Khan? With Islamabad on lockdown and 35,000 additional troops deployed to stop the September 27 march in support of the imprisoned ex-prime minister. Junaid S. Ahmad, professor of religion and world politics and director of the Center for Study of Islam and Decoloniality, tells Rania Khalek and Zoe Alexandra the 2022 US-backed regime-change operation meant to neutralize the country’s most popular politician instead gave rise to a movement bigger than Khan himself: a new opposition coalition, TTAP, including the left-wing Awami Workers Party, as Khan’s PTI party has shattered the army’s legitimacy in Punjab. Ahmad says Pakistan, under military rule in all but name, has become “nothing less than a police state.” Its only legitimacy, he says, comes from Washington and Rawalpindi, the home of the army’s headquarters. And with past demonstrations ending in massacres and the Shehbaz Sharif-Asim Munir regime telling hospitals to prepare for a “mass-casualty event,” Ahmad explains why this Sunday’s march has gone global, with solidarity protests planned from Washington to London to Kuala Lumpur, and why Khan refuses to call it off, even as his sisters and wife are jailed. Watch full episodes of BT Live, join breakthroughnews.org as a member today!",
+      "source": "[:en]THE TRICONTINENTAL[:es]TRICONTINENTAL[:]",
+      "published_at": "2026-09-27T03:47:21+00:00",
+      "content": "The Thirty-First Art Bulletin (September 2026) Listen to ‘ Pioneers Who Open the Road ’ (1934), composed by Nie Er with lyrics by Sun Shiyi for Sun Yu’s film The Big Road , a landmark of Shanghai’s left-wing cinema of the 1930s. As I sat on a plane from Hong Kong to Beijing, I reread the speeches that Lu Xun – known as the father of modern Chinese literature – had delivered in Hong Kong almost exactly a century earlier. It is commonly said that around 1927 Lu Xun bid farewell to fiction and made a leftward turn ideologically. He increasingly turned to zawen – short, polemical essays – as his principal means of intervening in the political and cultural struggles of his time, awakening the Chinese people, and giving voice to a nation living under semi-colonial and semi-feudal conditions. To mark ninety years since Lu Xun’s passing in 1936, this art bulletin revisits several zawen from the final decade of his life. One such text is ‘Voiceless China’, a speech Lu Xun delivered at the Chinese YMCA of Hong Kong on 18 February 1927. Lu Xun championed baihua , or vernacular written Chinese, over Classical Chinese. He criticised the use of an ‘archaic language good only for expressing ancient and obsolete ideas’. In a society where illiteracy remained widespread, the distance between Classical Chinese and the language of everyday life placed yet another barrier between most people and the written word, while Classical Chinese itself could no longer adequately express their thoughts, feelings, and struggles. Lu Xun therefore called on young people to ‘transform China into a China with a voice’, insisting that only then could they ‘live in the world with others’. For him, this search was also part of a wider internationalist struggle, with China’s liberation bound up with that of other colonised peoples. ‘Have we heard voices from Egypt?’ he asked. ‘Have we heard the voices of Vietnam and Korea? Aside from Tagore, does India have any other voices?’ Against Despair Käthe Kollwitz, Sharpening the Scythe , 1905. The following day, on 19 February, Lu Xun delivered another speech at the Hong Kong YMCA, returning to the question of how China’s new voice might be created. In ‘The Old Tunes Are Finished’, he looked to revolutionary Russia – ten years into its socialist revolution – as a guiding light, a society where a new voice had emerged and the old songs were no longer being sung. For Lu Xun, this process was neither solitary nor individualistic. One person’s awakening could give rise to others, linking individual transformation to a broader collective awakening. The year 1927 was tumultuous for China. By then, the republic established after the 1911 Revolution, which had brought an end to more than two thousand years of dynastic rule, had failed to overcome warlord rule, feudal oppression, and foreign imperial domination. With the support of the Comintern, the Chinese Communist Party (CPC) and the nationalist Kuomintang (KMT) had formed the First United Front, a short-lived alliance aimed at defeating the regional warlords and unifying China. One of its most important military institutions was the Whampoa Military Academy, founded with Soviet assistance, where Nationalist and Communist cadres trained alongside one another. Chiang Kai-shek served as its commandant, while Zhou Enlai had directed its Political Department. On 8 April 1927, the academy invited Lu Xun to speak on ‘Literature in Times of Revolution’. Reflecting on the persecution of radical students he had witnessed in Beijing, Lu Xun lamented, ‘Literature, oh literature, you are a most useless thing. Only those without power talk about you; no one with real strength bothers to talk, they just murder people. Oppressed people who say a few things or write a few words will be killed’. Käthe Kollwitz, March of the Weavers , from the series A Weavers’ Revolt , 1893–1897. Given the situation of China at the time, Lu Xun asked a sobering rhetorical question: ‘What value does this literature have for the people, then?’ Yet he never ceased to write, making it his personal philosophy to ‘resist despair’. In Wild Grass , his collection of prose poems published that same year, he confronted hope and despair not as simple opposites but as illusions that could both paralyse action. Rather than retreat into a lost past or defer everything to a promised future, he insisted on grappling with the present through struggle and creation. Revolutionary times do not necessarily produce revolutionary literature. For Lu Xun, it was not enough simply to bear witness to and condemn suffering and injustice; it was necessary to cultivate revolutionaries and a revolutionary programme. ‘Only when revolutionaries start writing will there be revolutionary literature’, he stated in his speech. Similarly, it was not enough to produce literature about peasants and workers. ‘The true liberation of the workers and peasants’, he argued, was necessary to make possible a true ‘people’s literature’. Revolution, in turn, could liberate the oppressed classes and, at the same time, liberate literature – a literature that, in Lu Xun’s words, ‘wants to resist, and it wants revenge’. He ended his speech at the military academy by contrasting the force of literature with that of armed struggle: ‘For myself, I’d naturally prefer to hear the sound of artillery. It seems to me that the sound of artillery is a much finer thing than the sound of literature’. Four days later, events in Shanghai would give those words a brutal immediacy. A Revolutionary Literature Written in Comrades’ Blood Käthe Kollwitz, Outbreak , from the Peasants’ War series, 1902. A mere four days after Lu Xun’s speech, in a betrayal of the First United Front, Chiang Kai-shek’s KMT forces and their allies massacred Communist-led workers in Shanghai, initiating both the anti-communist repression that became known as the White Terror and the collapse of the United Front. As the repression spread, the CPC responded with a series of armed uprisings, including at Nanchang, along the Hunan-Jiangxi border and in Guangzhou. Their defeat, together with the White Terror, contributed to the CPC’s turn towards agrarian revolution and rural armed struggle. At the 7 August Emergency Conference, held clandestinely in Hankou, now part of Wuhan, the CPC adopted what was later summarised as the general orientation of agrarian revolution and armed resistance to the reactionary KMT. Mao’s words at that meeting later became the well-known phrase, ‘political power grows out of the barrel of a gun’. The following month, Mao led the Autumn Harvest Uprising, whose forces formed the First Division of the First Workers’ and Peasants’ Revolutionary Army before retreating towards the Jinggang Mountains. Amid the White Terror, Lu Xun left Guangzhou, where he served as dean and head of the Chinese Language and Literature Department at Sun Yat-sen University. He settled in Shanghai, where he spent the remaining nine years of his life politically active and engaged in the systematic study of Marxist and Soviet literary theory. In 1930, Lu Xun became one of the founding members and leading figures of the League of Left-Wing Writers. In his speech, ‘Some Views on the League of Left-Wing Writers’, he warned against ‘salon socialism’ – radical talk cultivated in the safety of the sitting room but detached from actual social struggle. Revolution, he told the roomful of writers and poets, is ‘painful, inevitably mixed with dirt and blood, and nothing at all interesting and perfect as the poets imagine’. What is asked of the writer is lowly work – not the drama of destruction but the slower, thankless labour of construction. Within a year of the League’s founding, Lu Xun’s warning took on flesh. On 17 January 1931, KMT police in the Shanghai International Settlement arrested a group of Communist organisers at a clandestine meeting. Five young writers connected to the League were among those arrested and, on 7 February, they were secretly executed at Longhua. In response, Lu Xun wrote that ‘the first chapter of revolutionary literature of the Chinese proletariat… has been written with our comrades’ blood’. Let Them Go on Hating Me Käthe Kollwitz, Unemployment , 1909. In the last year of his life, 1936, with failing lungs, Lu Xun wrote more than thirty essays on subjects ranging from the New Woodcut Movement – the socially engaged printmaking movement he had helped launch and champion – to the killing of the young writers at Longhua and the literary debates of the time. ‘Death’, written on 5 September 1936, sits at the centre of this final collection. It opens not with Lu Xun’s own mortality but with that of the German socialist printmaker Käthe Kollwitz, whose work depicted war, poverty, working-class struggle, and mourning. Earlier that year, Lu Xun had prepared Collected Prints of Käthe Kollwitz , a volume of twenty-one reproductions of her prints, published in Shanghai in July 1936, and had asked the US journalist and activist Agnes Smedley, who knew Kollwitz personally, to write a preface. Smedley’s preface recounted a conversation with Kollwitz in which she asked why death had become such a persistent theme in her later work. Kollwitz replied that perhaps it was because she was growing older. The exchange led Lu Xun to reflect on death and on Chinese attitudes towards it – from the condemned peasant who calmly faces execution to people of modest means preparing materially for the afterlife by choosing their burial place and coffin, burning paper money, and relying on their descendants to make offerings after their death. Later in ‘Death’, Lu Xun left seven instructions as if he were writing a will. The fifth was addressed to his son: if he had no particular talent, he should find an ordinary job and ‘under no circumstances should he become a phony writer or artist’. The seventh warned his family to have nothing to do with people who injure others while preaching tolerance and opposing revenge. From there Lu Xun arrived at the essay’s most famous line: ‘I have a great many enemies, and what should my answer be if some modernised person asked me my views on this? After some thought I decided: Let them go on hating me. I shall not forgive a single one of them either’. The Kollwitz prints reproduced throughout this art bulletin are drawn from the collection Lu Xun prepared in the final months of his life. Cultivating Soil Is More Important than Simply Demanding Genius One of my favourite zawen essays by Lu Xun is from 1924, based on a lecture he gave to the alumni association of the middle school affiliated with Beijing Normal University. In ‘Before the Appearance of Geniuses’, he reflects on the metaphor of the soil. Five years after the May Fourth Movement, amid continuing calls for cultural and social transformation in China, one of the loudest demands in literary circles was for the appearance of a ‘genius’ to save culture. Geniuses, Lu Xun said, do not spring from deep forests; they emerge from the masses that nurture them, from the soil that lets them grow. Yet the same society that called for geniuses was destroying the soil from which they might emerge. Antiquarians, nativists, and hack critics trampled tender shoots while still calling for the flower. In a China where destructive critics dominated, ‘the masses in this kind of environment are but dust, not fertile soil’. He closed with a patient instruction: ‘cultivating soil is more important than simply demanding genius’. It has been ninety years since Lu Xun returned to the soil. He did not live to see the worst of Japanese fascism – which claimed nearly 24 million Chinese lives – nor the eventual Communist victory in 1949, the flower that grew out of the soil of the Chinese Revolution. As he wrote in the last line of ‘Before the Appearance of Geniuses’, ‘cultivating good soil bears its own rewards. When a lovely flower emerges from the soil, people will naturally appreciate it, and the soil itself can also take pleasure in appreciating it’. And the soil, if we take it seriously, may itself have a spirit, a voice, and a new tune of its own. Warmly, Tings Chak, co-coordinator of the Art and Culture Department of Tricontinental: Institute for Social Research.",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
