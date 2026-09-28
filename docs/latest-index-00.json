@@ -1,86 +1,131 @@
 {
-  "generated_at": "2026-09-27T22:27:59.036575+00:00",
-  "generated_at_jst": "2026-09-28T07:27:59.036575+09:00",
-  "period_start": "2026-09-26T16:27:59.036575+00:00",
+  "generated_at": "2026-09-28T23:52:35.108543+00:00",
+  "generated_at_jst": "2026-09-29T08:52:35.108543+09:00",
+  "period_start": "2026-09-27T17:52:35.108543+00:00",
   "lookback_hours": 30,
   "folder": "00_毎日確認",
-  "article_count": 5,
+  "article_count": 8,
   "excerpt_chars": 800,
   "articles": [
     {
-      "id": "29bb1b5ddcd974680dcbc746",
-      "title": "MoCo DSA September Newsletter",
-      "url": "https://mdcdsa.org/2026/09/27/moco-dsa-september-newsletter",
-      "author": "Metro DC DSA",
+      "id": "dc10c59c02a51ef29182eb75",
+      "title": "Faith-Labor Organizing: Why Building Permanent Infrastructure is the Intervention This Moment Demands",
+      "url": "https://convergencemag.com/articles/faith-labor-organizing-why-building-permanent-infrastructure-is-the-intervention-this-moment-demands",
+      "author": "",
+      "source": "Tag: Labor",
+      "published_at": "2026-09-28T23:08:27+00:00",
+      "content_excerpt": "Featured image by Jared Rodriguez. Our congregations and our unions each have a measure of power. None of it is enough. The change we seek requires building power together; prioritizing building that power together in parallel with the work we are already doing alone. Our faith communities and labor unions share geographies, serve many of the same families, and claim a common commitment to human dignity. We rarely build power together. When we collaborate, the collaboration tends to be transactional: labor shows up for a rally the church organized, a pastor blesses a picket line. The event ends. Everyone goes home. No infrastructure remains. In Northern Virginia, our first Faith & Labor 2-day Training launched this April at Virginia Theological Seminary, a partnership between Virginians Or",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/dc10c59c02a51ef29182eb75.json"
+    },
+    {
+      "id": "cfa2eda5241af441cea15167",
+      "title": "Trump’s Greenland Deal Puts His Annexation Plans on Ice",
+      "url": "https://www.inoreader.com/article/3a9c6e767733a4ca",
+      "author": "Huw Paige",
+      "source": "Jacobin",
+      "published_at": "2026-09-28T19:47:08+00:00",
+      "content_excerpt": "Donald Trump recently concluded an agreement with the governments of Greenland and Denmark over the status of the Arctic island. Trump presented it as a big victory for his efforts, claiming that it granted the United States “permanent control over security, and all other needs, in Greenland, completely addressing ALL of our many US concerns.” The substance of the agreement told a different story. After doing lasting damage to the relationship between the United States and Europe, the Trump administration got more or less the same deal it could have obtained by asking politely. Trump’s repeatedly stated plan to acquire Greenland has been put on the back burner. End of the Saga? “Greenland belongs to the Greenlanders — it cannot be taken from us,” Greenlandic Prime Minister Jens Frederik Ni",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/cfa2eda5241af441cea15167.json"
+    },
+    {
+      "id": "05061f2a60187abf3a4474f1",
+      "title": "Buffalo DSA Leaders Meet With Rep. AOC",
+      "url": "https://buffalodsa.org/statements/buffalo-dsa-leaders-meet-with-rep-aoc",
+      "author": "Buffalo DSA",
       "source": "DSA Feed - Global",
-      "published_at": "2026-09-27T14:38:48+00:00",
-      "content_excerpt": "This is important. We’re all in this together. September 2026 Newsletter This is the monthly newsletter by the Montgomery County Branch of the Metro DC Chapter of the Democratic Socialists of America (MoCo DSA). Interested in building a socialist future? Join DSA . Want up-to-the-minute updates? Follow us on Instagram , Bluesky , Twitter , and Facebook . Sign up for weekly updates (and see the archives ) from Metro DC DSA. Check out our linktree for important links, upcoming events, actions, and more! Take Action Fight landlord and developer efforts to raise the rent by sharing your story about Montgomery County rent stabilization . In 2023, the Montgomery County Council passed rent stabilization, thanks to organizing by Montgomery County DSA and coalition partners. Despite gains for tenan",
+      "published_at": "2026-09-28T16:54:26+00:00",
+      "content_excerpt": "On Thursday, members of our Steering Committee and endorsed candidate Adam Bojak met privately with Representative Alexandria Ocasio-Cortez. We were proud to share how we are building a durable, sustainable socialist project here, as well as share our hope to see Rep. AOC coordinate more strongly with the growing socialist bloc forming at every level of elected office. Afterward, a range of our chapter organizers joined Team AOC for their Project Reactivation event. Regardless of what her political career holds, one thing is clear: Rep. AOC and her team would not have visited Buffalo, or prioritized a private sit-down with Buffalo DSA leaders, without the diligent work of our members. The foundation we’ve laid in healthcare organizing, labor solidarity, tenant suport, and electoral politic",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/29bb1b5ddcd974680dcbc746.json"
+      "article_path": "articles/05061f2a60187abf3a4474f1.json"
     },
     {
-      "id": "f8e7533124c99cae055853f9",
-      "title": "Who Killed Asylum?",
-      "url": "https://www.inoreader.com/article/3a9c6e7670604684",
-      "author": "Levi Vonk",
+      "id": "59bc08eb2ea316037e88bf1f",
+      "title": "We Have to Figure Out How to Design a Warming Planet",
+      "url": "https://www.inoreader.com/article/3a9c6e76772b551b",
+      "author": "Marianela D’Aprile",
       "source": "Jacobin",
-      "published_at": "2026-09-27T13:34:53+00:00",
-      "content_excerpt": "Asylum as we know it is basically dead. The immigration system has been so systematically hollowed out that, for the vast majority of the world’s poor and displaced, it might as well not exist anymore. A brief list of what’s gone wrong: First, asylum approval rates have plummeted to historic lows, falling below 20 percent in 2025, compared to 55.5 percent in 2012. Second, the process is slower than ever before. A backlog of over three million cases frequently forces potential asylees to wait five or more years before finally appearing in court. In 2012, there were only about 300,000 cases on the docket, less than one-tenth of today’s, and wait times of just a year and a half . This backlog has led to a third problem. As asylum seekers are forced to twiddle their thumbs for half a decade, t",
+      "published_at": "2026-09-28T16:49:04+00:00",
+      "content_excerpt": "Before we get into the nitty-gritty, we should start with the problem in its purest form: The world as we know it cannot go on. Something’s got to give. Ideally, that would be capitalism, but we don’t have enough time to pull that off before the planet catches fire. The planet is already catching fire. What to do, then? Everything — supply chains, information systems, labor practices, policy decisions, economic structures­ — is so inextricably linked that it feels impossible to know where to start chipping away. Recently a friend asked, hypothetically, why it would be worthwhile to make an ethical decision in one’s own personal life if the larger entities that structure that life certainly aren’t making ethical decisions. Isn’t their impact much larger than our own? It’s hard to argue with",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/f8e7533124c99cae055853f9.json"
+      "article_path": "articles/59bc08eb2ea316037e88bf1f.json"
     },
     {
-      "id": "8e5d58f3ff401ba3bb1fb972",
-      "title": "The United Arab Emirates Is Devastating Sudan for Profit",
-      "url": "https://www.inoreader.com/article/3a9c6e767060467b",
-      "author": "Husam Mahjoub",
+      "id": "88fe505152498c3056abf1ee",
+      "title": "Mark Carney Is Taking Aim at Canada’s Labor Movement",
+      "url": "https://www.inoreader.com/article/3a9c6e767710114b",
+      "author": "Adam D. K. King",
       "source": "Jacobin",
-      "published_at": "2026-09-27T13:34:53+00:00",
-      "content_excerpt": "At one time or another, Sudanese governments have hosted, armed, or tolerated rebels and opposition groups from all of the country’s neighbors, from Egypt and Libya to Uganda and Ethiopia. Sudan’s neighbors have repaid the favor, and a range of outside actors are now involved in the Sudanese civil war. Key supporters of the Rapid Support Forces (RSF) include Chad, Ethiopia, Uganda, Kenya, and South Sudan. Egypt, Saudi Arabia, and Eritrea support the Sudanese Armed Forces (SAF) and the de facto government. Among all the external actors, the United Arab Emirates (UAE) is the most consequential, even though it has the least reason to be involved. Every other external actor has a stake in Sudan that derives from geography, security exposure, or the influx of Sudanese refugees. Even Saudi Arabi",
+      "published_at": "2026-09-28T16:19:04+00:00",
+      "content_excerpt": "On September 21, Canadian Prime Minister Mark Carney’s government introduced legislation that could amount to one of the most significant rollbacks of workers’ rights in Canada since the creation of the postwar industrial relations system. Tucked inside the sprawling 232-page Bill C-39 are amendments to the Canada Labour Code that would give the federal labor minister explicit authority to terminate lawful strikes and impose binding dispute resolution when the minister decides a work stoppage threatens the “national interest.” The legislation would also create a new “special mediator,” adding an additional state-directed phase to collective bargaining. Before workers can strike, the mediator would produce a report on bargaining disputes, which the minister would make public if the parties ",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/8e5d58f3ff401ba3bb1fb972.json"
+      "article_path": "articles/88fe505152498c3056abf1ee.json"
     },
     {
-      "id": "23e50b57e7f2a488794a87ca",
-      "title": "We Can’t Blame the Supreme Court for Congress’s Problems",
-      "url": "https://www.inoreader.com/article/3a9c6e7670604672",
-      "author": "Harry Blain",
+      "id": "628006c5c4f24d796f97ffa2",
+      "title": "The Dilemmas of Socialist Governance of a Capitalist State",
+      "url": "https://www.inoreader.com/article/3a9c6e767703e79a",
+      "author": "Max Elbaum",
       "source": "Jacobin",
-      "published_at": "2026-09-27T13:34:53+00:00",
-      "content_excerpt": "Almost everyone on the Left seems to have lost faith in the Supreme Court of the United States. This would have been improbable in 1954, after the Brown v. Board of Education decision, or in 1973, after Roe v. Wade , or even in 1992, after the court upheld the core holding of Roe in Planned Parenthood v. Casey . But after over twenty years of the conservative John Roberts serving as chief justice, including over half a decade of him leading a court with a 6–3 conservative supermajority, liberals and progressives no longer turn to the court with any real hope. If anything, they view it with hostility. Some on the Left — most recently Lisa Graves and Leah Litman — have portrayed the Roberts Court as a wrecking ball that has “rewritten the Constitution” and “dismantled our rights.” Others thi",
+      "published_at": "2026-09-28T14:17:02+00:00",
+      "content_excerpt": "Since the 2016 combination of Donald Trump’s election and Bernie Sanders’s breakthrough campaign, efforts to synergize grassroots organizing with electoral engagement have become a priority for both long-standing and new radical formations. The dominant strategy is for socialists and progressives to run as Democrats aiming to both block MAGA’s drive toward US-style fascism and to win a measure of Left “ governing power .” In the last year, such efforts have yielded impressive results. Zohran Mamdani, a democratic socialist, is mayor of the nation’s largest city. Abdul El-Sayed, an outspoken advocate for Medicare for All and Palestinian rights, won the Democratic nomination for US senator in Michigan. More than a dozen sitting congressmembers are champions of Justice Democrats , the Working",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/23e50b57e7f2a488794a87ca.json"
+      "article_path": "articles/628006c5c4f24d796f97ffa2.json"
     },
     {
-      "id": "caeb26b1b0d6f129a8387661",
-      "title": "In Italy’s Financial Capital, Socialism Is Back in the Air",
-      "url": "https://www.inoreader.com/article/3a9c6e7670604668",
-      "author": "Jacopo Custodi",
+      "id": "e6f68f8d27519ceba4c913c3",
+      "title": "A Labour Prime Minister Inaugurated Britain’s Neoliberal Era",
+      "url": "https://www.inoreader.com/article/3a9c6e7670f26ad3",
+      "author": "Neil Warner",
       "source": "Jacobin",
-      "published_at": "2026-09-27T13:34:53+00:00",
-      "content_excerpt": "One in twelve people living in Milan is a millionaire. A report by the consultancy Henley & Partners ranks Italy’s second-largest city and financial capital as the world leader for millionaires per resident, well ahead of New York City, where the figure is one in twenty-two. A growing number come from abroad, drawn not just by the vibrancy of Italy’s fashion hub but also generous tax breaks for wealthy newcomers. For everyone else, Milan tells a very different story. The cost of living is soaring, and with rents and house prices spiraling out of control, working people are being pushed to the suburbs. Add to that the fact that the public health system is in crisis, with private health care giants opening clinics across the city. All of this has unfolded under center-left administrations th",
+      "published_at": "2026-09-28T12:45:59+00:00",
+      "content_excerpt": "When Britain’s Labour Party met for its annual conference in September 1976, the government headed by its leader, James Callaghan, was confronting a severe economic crisis. This included the combination of high inflation and unemployment (“stagflation”) and a currency crisis that would, by the end of the year, lead the government to arrange a loan from the International Monetary Fund (IMF). IMF assistance came with the requirement of steep budget cuts. In this context, conference delegates passed ambitious resolutions that condemned cuts and called for nationalization of much of the financial sector as well as extensive controls over the movement of capital, imports, and company investment decisions. James Callaghan refused to consider such measures. In a speech that historians have often ",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/caeb26b1b0d6f129a8387661.json"
+      "article_path": "articles/e6f68f8d27519ceba4c913c3.json"
+    },
+    {
+      "id": "4c3762ed12b3a8b1803a63da",
+      "title": "An Immigrant Socialist-in-office Returns to a Country in Crisis",
+      "url": "https://democraticleft.dsausa.org/2026/09/28/an-immigrant-socialist-in-office-returns-to-a-country-in-crisis",
+      "author": "Democratic Left",
+      "source": "Democratic Left",
+      "published_at": "2026-09-28T11:52:04+00:00",
+      "content_excerpt": "New York Assemblymember Diana Moreno discusses the collapse into violence of her native Ecuador with U.S. collusion. The post An Immigrant Socialist-in-office Returns to a Country in Crisis appeared first on Democratic Left .",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/4c3762ed12b3a8b1803a63da.json"
     }
   ]
 }

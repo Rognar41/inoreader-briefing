@@ -1,41 +1,311 @@
 {
-  "generated_at": "2026-09-27T22:27:59.036575+00:00",
-  "generated_at_jst": "2026-09-28T07:27:59.036575+09:00",
-  "period_start": "2026-09-26T16:27:59.036575+00:00",
+  "generated_at": "2026-09-28T23:52:35.108543+00:00",
+  "generated_at_jst": "2026-09-29T08:52:35.108543+09:00",
+  "period_start": "2026-09-27T17:52:35.108543+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
-  "article_count": 2,
+  "article_count": 20,
   "excerpt_chars": 800,
   "articles": [
     {
-      "id": "aaa4b9f834c2e47c945ed855",
-      "title": "Michael Jackson – They Don’t Care About Us (Prison Version) (Official Video)",
-      "url": "https://mronline.org/2026/09/27/michael-jackson-they-dont-care-about-us-prison-version-official-video",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-09-27T15:56:13+00:00",
-      "content_excerpt": "Spike Lee directed two short films for Michael Jackson’s “They Don’t Care About Us.” This version was filmed in a prison and was aired only at certain hours due to controversial content. The post Michael Jackson – They Don’t Care About Us (Prison Version) (Official Video) appeared first on MR Online .",
+      "id": "8f7099d7483ac864c0971dbf",
+      "title": "BT LIVE: Europe Eyes War with Russia | Brazil Election | Biden Gaza Accountability?",
+      "url": "https://breakthroughnews.org/2026/09/28/september-29-2026",
+      "author": "BreakThrough News",
+      "source": "BT News",
+      "published_at": "2026-09-28T23:43:53+00:00",
+      "content_excerpt": "This content is for members only. Visit the site and log in/register to read.",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/aaa4b9f834c2e47c945ed855.json"
+      "article_path": "articles/8f7099d7483ac864c0971dbf.json"
     },
     {
-      "id": "1474b2b65b95494879637a28",
-      "title": "Of Soil and Blood: Lu Xun’s Revolutionary Literature Ninety Years After His Death",
-      "url": "https://thetricontinental.org/art-bulletin-soil-and-blood",
-      "author": "",
-      "source": "[:en]THE TRICONTINENTAL[:es]TRICONTINENTAL[:]",
-      "published_at": "2026-09-27T03:47:21+00:00",
-      "content_excerpt": "The Thirty-First Art Bulletin (September 2026) Listen to ‘ Pioneers Who Open the Road ’ (1934), composed by Nie Er with lyrics by Sun Shiyi for Sun Yu’s film The Big Road , a landmark of Shanghai’s left-wing cinema of the 1930s. As I sat on a plane from Hong Kong to Beijing, I reread the speeches that Lu Xun – known as the father of modern Chinese literature – had delivered in Hong Kong almost exactly a century earlier. It is commonly said that around 1927 Lu Xun bid farewell to fiction and made a leftward turn ideologically. He increasingly turned to zawen – short, polemical essays – as his principal means of intervening in the political and cultural struggles of his time, awakening the Chinese people, and giving voice to a nation living under semi-colonial and semi-feudal conditions. To ",
+      "id": "c2df57eedd644448562afbb3",
+      "title": "Nolan Wells, disputed Black deaths, and the legacy of racial violence in the US",
+      "url": "https://breakthroughnews.org/2026/09/28/nolan-wells-disputed-black-deaths-and-the-legacy-of-racial-violence-in-the-us",
+      "author": "Devin B. Martinez",
+      "source": "BT News",
+      "published_at": "2026-09-28T23:43:53+00:00",
+      "content_excerpt": "This content is for members only. Visit the site and log in/register to read.",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/1474b2b65b95494879637a28.json"
+      "article_path": "articles/c2df57eedd644448562afbb3.json"
+    },
+    {
+      "id": "974a7fd494112456d3d7c604",
+      "title": "Costa Rican foreign minister dismissed after president misses ‘Shield of Americas’ meeting in NYC",
+      "url": "https://breakthroughnews.org/2026/09/28/costa-rican-foreign-minister-dismissed-after-president-misses-shield-of-americas-meeting-in-nyc",
+      "author": "Pablo Meriguet",
+      "source": "BT News",
+      "published_at": "2026-09-28T23:43:53+00:00",
+      "content_excerpt": "Costa Rica’s Minister of Foreign Affairs, Manuel Tovar, was dismissed from his post last week by the country’s president Laura Fernández. Tovar was considered one of the “heavyweights” of the country’s dominant political faction, having previously served as Minister of Commerce under President Rodrigo Chávez. The decision was made by Fernández on September 24, because, according to a statement, her foreign minister failed to inform her of an invitation to a meeting held in New York City aimed at strengthening the so-called Shield of the Americas. Shield of the Americas is a political-military alliance led by Donald Trump that seeks to secure Washington’s geopolitical leadership in the region, and which right-wing and far-right Latin American governments have joined enthusiastically. Right-",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/974a7fd494112456d3d7c604.json"
+    },
+    {
+      "id": "25dea21aa7f2bf1f4566de45",
+      "title": "Why Organize Semiconductor Workers? w/ CHIPS Communities United",
+      "url": "https://convergencemag.com/podcast/why-organize-semiconductor-workers-w-chips-communities-united",
+      "author": "Cayden Mak",
+      "source": "Convergence",
+      "published_at": "2026-09-28T23:28:35+00:00",
+      "content_excerpt": "Semiconductors are at the heart of every piece of electronics you interact with on a daily basis. Despite being invented and innovated in the US, much of the manufacturing of semiconductors and the technology they power was “offshored” from the 1980s through the early 2000s as part of the globalization of our economy. In an effort to counter that loss of jobs and industry… Source",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/25dea21aa7f2bf1f4566de45.json"
+    },
+    {
+      "id": "07ea7f3c6d82e45f18c07a01",
+      "title": "Movement for the release of former PM Imran Khan heats up in Pakistan",
+      "url": "https://breakthroughnews.org/2026/09/28/movement-for-the-release-of-former-pm-imran-khan-heats-up-in-pakistan",
+      "author": "Abdul Rahman",
+      "source": "BT News",
+      "published_at": "2026-09-28T20:41:56+00:00",
+      "content_excerpt": "Pakistan Tehreek-e-Insaf (PTI), the country’s main opposition party, announced a long march to the capital, Islamabad, on Sunday, October 4, as part of its ongoing nationwide movement to demand the release of its leader and former Prime Minister Imran Khan. The march, which was originally scheduled to be held on Sunday, September 27, starting from Peshawar, was postponed on Friday after the party’s top leadership decided it needed more time to mobilize to face the state’s preparations to block it. Thousands of people have been taking to the streets in different parts of the country demanding the immediate release of Khan, his wife Bushra Bibi, and other party leaders. Khan’s party and supporters have also accused the Shehbaz Sharif-led coalition government in the country of deliberately ig",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/07ea7f3c6d82e45f18c07a01.json"
+    },
+    {
+      "id": "8919eb407ad2d52619c50315",
+      "title": "Looter Giants Disguised as Windmills",
+      "url": "https://mronline.org/2026/09/28/looter-giants-disguised-as-windmills",
+      "author": "Oscar Daniel Sálomon",
+      "source": "MR Online",
+      "published_at": "2026-09-28T20:25:21+00:00",
+      "content_excerpt": "The ideology and methods used to eliminate Argentina's National Institute of Tropical Medicine are exemplary, revealing the intentions of a project of profound social change, disguised in circumstantial justification. The post Looter Giants Disguised as Windmills appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/8919eb407ad2d52619c50315.json"
+    },
+    {
+      "id": "383a289b6dd859c1162437f4",
+      "title": "Brazil’s movements occupy streets across the country in defense of democracy and Lula’s candidacy",
+      "url": "https://breakthroughnews.org/2026/09/28/brazils-movements-occupy-streets-across-the-country-in-defense-of-democracy-and-lulas-candidacy",
+      "author": "Brasil de Fato",
+      "source": "BT News",
+      "published_at": "2026-09-28T19:41:45+00:00",
+      "content_excerpt": "Militants and supporters of President Luiz Inácio Lula da Silva participated, this Sunday, September 27, in demonstrations as part of the national mobilization “Let’s go, Lula,” held a week before the first round of elections. In Rio de Janeiro, “CarnaLula 2026” spanned the length of Copacabana beach. With a microphone, PT Senate candidate Benedita da Silva spoke about the importance of Carnival as an expression of popular culture and called on those present to also vote for a progressive bloc in the Rio de Janeiro Legislative Assembly and the Federal Chamber of Deputies. She reinforced the discourse that, in this election, not only democracy is at stake, but also national sovereignty . “We will not be anyone’s backyard,” she repeated Lula’s phrase. Read more: Brazil’s presidential campaig",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/383a289b6dd859c1162437f4.json"
+    },
+    {
+      "id": "0aab8de79176b771c6cb667d",
+      "title": "Saudi Arabia’s desperate situation",
+      "url": "https://mondoweiss.net/2026/09/saudi-arabias-desperate-situation",
+      "author": "Mitchell Plitnick",
+      "source": "Mondoweiss",
+      "published_at": "2026-09-28T17:09:58+00:00",
+      "content_excerpt": "After relying on an unreliable Trump for defense, suspending normalization talks with Israel, and losing access to the Bab-al-Mandab Strait, Saudi Arabia turns to hesitant allies for help.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/0aab8de79176b771c6cb667d.json"
+    },
+    {
+      "id": "ba4f8ba8a035e7dd8307c90a",
+      "title": "Palestinian couples from Gaza are forcibly separated by borders, with no reunion in sight",
+      "url": "https://mondoweiss.net/2026/09/palestinian-couples-from-gaza-are-forcibly-separated-by-borders-with-no-reunion-in-sight",
+      "author": "Ansam al-Qitaa",
+      "source": "Mondoweiss",
+      "published_at": "2026-09-28T15:08:29+00:00",
+      "content_excerpt": "Families and spouses in Gaza are still waiting to be reunited with their loved ones after the Israeli army suspended travel in and out of the Strip.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/ba4f8ba8a035e7dd8307c90a.json"
+    },
+    {
+      "id": "0c004081c17766f8b84642bb",
+      "title": "Forcible Eviction of 87-Year-Old Madrid Woman Sparks Protest Encampment over Spain’s Housing Crisis",
+      "url": "https://www.democracynow.org/2026/9/28/spain_housing_crisis",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-09-28T14:32:02+00:00",
+      "content_excerpt": "The eviction of 87-year-old María del Carmen Abascal Martín in Madrid, after an investment fund bought her apartment building and more than tripled her rent, has become a symbol of Spain’s rising cost of living and sparked nationwide protests against corporate greed and wealth inequality. Over 600 protesters are now camped outside Madrid’s regional government headquarters demanding new tenant protections. “What we have is a lot of furious people, enraged people, that are demanding from the government and from the public institutions that they give us give us some sort of solution,” says Sabina Carrau, a spokesperson for the Madrid Tenants’ Union, which is supporting the “Maricarmen decree” named after Abascal, set to be debated by Spain’s government this week. Housing in Spain, as in much ",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/0c004081c17766f8b84642bb.json"
+    },
+    {
+      "id": "8dd092b2ee22b2463e286343",
+      "title": "“Britain’s Gaza Secrets Exposed”: How U.K. Downplayed Israeli Crimes to Keep Selling Weapons",
+      "url": "https://www.democracynow.org/2026/9/28/britain_s_gaza_secrets_exposed",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-09-28T14:32:02+00:00",
+      "content_excerpt": "A new documentary titled Britain’s Gaza Secrets Exposed reveals new details about the U.K. government’s internal response to alleged Israeli war crimes in Gaza. Presented by journalist Ramita Navai and produced by Ben De Pear for Channel 4’s investigative program Dispatches , the documentary examines government records, some newly publicized, to show how the United Kingdom ignored or concealed mounting evidence of Israel’s genocidal actions in Gaza after the October 7 attacks. “We were looking at how our country, which prides itself on having an ethical foreign policy and as being one of the supporting members of the United Nations on human rights, was able to keep selling arms,” says De Pear. “And basically, what we found was a doctored process … It’s quite extraordinary the level of dupl",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/8dd092b2ee22b2463e286343.json"
+    },
+    {
+      "id": "10c12f9c7dcab669a7edc66e",
+      "title": "“Valley of Death”: Sharon Weinberger on Big Tech, AI Warfare & the CIA’s Secret Backing of Steve Jobs",
+      "url": "https://www.democracynow.org/2026/9/28/sharon_weinberger_valley_of_death",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-09-28T14:32:02+00:00",
+      "content_excerpt": "Longtime national security reporter Sharon Weinberger’s new book, Valley of Death: How Big Tech Is Fueling the Future of War , follows the rise of the military-industrial complex in Silicon Valley, where defense technology companies, like Palantir, Anduril and SpaceX, and their billionaire founders, are increasingly shaping U.S. foreign policy. Weinberger explains that because “the government doesn’t own the underlying technology” peddled by “this new class of entrepreneurs,” these companies have upended the traditional procurement relationship between the U.S. government and older defense firms, and now unilaterally control access to the new weapons and systems — including drones and artificial intelligence — used in modern warfare.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/10c12f9c7dcab669a7edc66e.json"
+    },
+    {
+      "id": "7e615cbd06922c4f00453dd6",
+      "title": "Amnesty International calls for abolition of ICE for the first time in new report",
+      "url": "https://mronline.org/2026/09/28/amnesty-international-calls-for-abolition-of-ice-for-the-first-time-in-new-report",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-09-28T14:27:18+00:00",
+      "content_excerpt": "International human rights organization Amnesty International has called for the abolition of U.S. Immigration and Customs Enforcement in a new report alleging human rights abuses in the Trump administration’s immigration operations. The post Amnesty International calls for abolition of ICE for the first time in new report appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/7e615cbd06922c4f00453dd6.json"
+    },
+    {
+      "id": "168afd6748eceef00b904c36",
+      "title": "Can Socialists Govern a Capitalist State?",
+      "url": "https://convergencemag.com/articles/when-socialists-govern-a-capitalist-state",
+      "author": "Max Elbaum",
+      "source": "Convergence",
+      "published_at": "2026-09-28T12:36:32+00:00",
+      "content_excerpt": "Since the 2016 combination of Donald Trump’s election and Bernie Sanders’s breakthrough campaign, efforts to synergize grassroots organizing with electoral engagement have become a priority for both longstanding and new radical formations. The dominant strategy is for socialists and progressives to run as Democrats aiming to both block MAGA’s drive toward US-style fascism and to win a measure of… Source",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/168afd6748eceef00b904c36.json"
+    },
+    {
+      "id": "f3cd9894dcfed34bbb5450ba",
+      "title": "California orders review of AI ‘kill switch’, safety controls",
+      "url": "https://mronline.org/2026/09/28/california-orders-review-of-ai-kill-switch-safety-controls",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-09-28T12:26:09+00:00",
+      "content_excerpt": "California Governor Gavin Newsom ordered a review of a possible mandatory AI \"kill switch,\" independent audits and incident reporting amid growing concerns over advanced systems escaping human control. The post California orders review of AI ‘kill switch’, safety controls appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/f3cd9894dcfed34bbb5450ba.json"
+    },
+    {
+      "id": "7abd61b7e3bc92b067aade4e",
+      "title": "Capitalism won’t fall on its own",
+      "url": "https://mronline.org/2026/09/28/capitalism-wont-fall-on-its-own",
+      "author": "Gary Wilson",
+      "source": "MR Online",
+      "published_at": "2026-09-28T11:26:49+00:00",
+      "content_excerpt": "Trillions of dollars are pouring into artificial intelligence. The post Capitalism won’t fall on its own appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/7abd61b7e3bc92b067aade4e.json"
+    },
+    {
+      "id": "c2637539352b66ef7fe7bead",
+      "title": "The uses—and misuses—of Social Reproduction Theory",
+      "url": "https://mronline.org/2026/09/28/the-uses-and-misuses-of-social-reproduction-theory",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-09-28T10:26:46+00:00",
+      "content_excerpt": "What is Social Reproduction Theory? It is a Marxist feminist term which covers how capitalism depends on unpaid care in the home for the ongoing reproduction of human life and labour. The post The uses—and misuses—of Social Reproduction Theory appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/c2637539352b66ef7fe7bead.json"
+    },
+    {
+      "id": "1e092fbcaf0b47e2683c91ea",
+      "title": "Is still smells of sulphur: 20 years since Chávez’s speech at the UN",
+      "url": "https://mronline.org/2026/09/28/is-still-smells-of-sulphur-20-years-since-chavezs-speech-at-the-un",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-09-28T09:27:24+00:00",
+      "content_excerpt": "On 20 September 2006, Hugo Chávez stepped up to the granite podium of the United Nations General Assembly. A day earlier, from that exact same spot, the President of the United States, George W. Bush, had spoken. Chávez crossed himself, said that the room still smelled of sulphur, and the hall burst into laughter and […] The post Is still smells of sulphur: 20 years since Chávez’s speech at the UN appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/1e092fbcaf0b47e2683c91ea.json"
+    },
+    {
+      "id": "fb564be807b85dc441e6a69b",
+      "title": "A Beacon for the Socialist Revolution: The Political Writings of Rosa Luxemburg",
+      "url": "https://www.historicalmaterialism.org/a-beacon-for-the-socialist-revolution-the-political-writings-of-rosa-luxemburg",
+      "author": "Panagiotis Sotiris",
+      "source": "Historical Materialism",
+      "published_at": "2026-09-28T07:22:44+00:00",
+      "content_excerpt": "Rosa Luxemburg, The Complete Works of Rosa Luxemburg , Volume III: Political Writings 1, On Revolution, 1897-1905 , eds. Peter Hudis and Sandra Rein; trans. George Shriver, Alicja Mann, and Henry Holland (London and New York: Verso Books, 2019, paperback, 2022). 592 pp.; Volume IV: Political Writings 2, On Revolution, 1906-1909 , eds. Peter Hudis and Sandra Rein; trans. Jacob Blumenfeld, Nicholas Grey, Henry Holland, Zachary King, Manuella Kölke, and Joseph Muller (London and New York: Verso Books, 2022; paperback, 2023). 576 pp; Volume V: Political Writings 1, On Revolution, 1910-1919 , eds. Paul Le Blanc and Helen C. Scott; trans. Jacob Blumenfeld, Mathias Foit, Nicholas Gray, Henry Holland, Zachary King and Manuela Kölke (London and New York: Verso Books, 2024; paperback, 2026). 512 pp.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/fb564be807b85dc441e6a69b.json"
+    },
+    {
+      "id": "025b0ed34a9c4a32f3fb7933",
+      "title": "77 countries walk out during Netanyahu’s UN speech",
+      "url": "https://breakthroughnews.org/2026/09/28/77-countries-walk-out-during-netanyahus-un-speech",
+      "author": "Aseel Saleh",
+      "source": "BT News",
+      "published_at": "2026-09-28T05:25:41+00:00",
+      "content_excerpt": "Israel continues to face isolation in international forums as it continues its multi-front war on the peoples of West Asia. On Thursday, September 24, delegations from at least 77 countries walked out or left their seats vacant during the address of Israeli Prime Minister Benjamin Netanyahu at the 81st session of the United Nations General Assembly. The move was interpreted as opposition to Israel’s three-year genocidal aggression on Gaza, and atrocities across multiple parts of West Asia. Arab nations that walked out included: Algeria, Comoros, Egypt, Iraq, Jordan, Kuwait, Lebanon, Libya, Mauritania, Oman, Palestine, Qatar, Saudi Arabia, Somalia, Sudan, Syria, Tunisia and Yemen. Asian states involved: Afghanistan, Bangladesh, Brunei, Darussalam, Indonesia, Iran, Kyrgyzstan, Malaysia, Mald",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/025b0ed34a9c4a32f3fb7933.json"
     }
   ]
 }
