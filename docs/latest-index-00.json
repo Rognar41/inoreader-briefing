@@ -1,12 +1,162 @@
 {
-  "generated_at": "2026-09-28T23:52:35.108543+00:00",
-  "generated_at_jst": "2026-09-29T08:52:35.108543+09:00",
-  "period_start": "2026-09-27T17:52:35.108543+00:00",
+  "generated_at": "2026-09-29T23:06:17.390725+00:00",
+  "generated_at_jst": "2026-09-30T08:06:17.390725+09:00",
+  "period_start": "2026-09-28T17:06:17.390725+00:00",
   "lookback_hours": 30,
   "folder": "00_毎日確認",
-  "article_count": 8,
+  "article_count": 12,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "a027662bfd03d2d5880628b5",
+      "title": "Invasive, Humiliating and Routine: An investigation into The everyday violence of prison strip searches",
+      "url": "https://inthesetimes.com/magazine/invasive-humiliating-and-routine",
+      "author": "",
+      "source": "In These Times",
+      "published_at": "2026-09-29T21:10:45+00:00",
+      "content_excerpt": "",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/a027662bfd03d2d5880628b5.json"
+    },
+    {
+      "id": "afb8b5dee8dcf5cc28fb5f06",
+      "title": "Red Umbrellas: First Sex Worker Pride March Organized in Boston History",
+      "url": "https://working-mass.com/2026/09/29/red-umbrellas-first-sex-worker-pride-march-organized-in-boston-history",
+      "author": "Working Mass: The Massachusetts DSA Labor Outlet",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-09-29T21:08:35+00:00",
+      "content_excerpt": "The marchers in front of Jacque’s, the oldest continuously operating gay bar in Boston (Andrew S) By: Andrew S BOSTON COMMON – On September 14, sex workers and allies gathered at Brewer Fountain under a canopy of red umbrellas for Boston’s historic first March for Sex Worker Pride. Led by organizers Rita Romero from Red Light Disco, Amanda Rodriguez from FemMenThem, and Jessica Van Meir from Boston Sex Workers and Allies Collective (BSWAC), the march both centered the public celebration of sex worker pride and the ongoing fight for decriminalization. Several sex workers, community organizers, and local politicians spoke to a crowd about the importance of the event before participants marched from the Common to Jacques’ Cabaret, the oldest continuously operating gay bar in the city. Speaker",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/afb8b5dee8dcf5cc28fb5f06.json"
+    },
+    {
+      "id": "7ccc98fdab54e0d997d5e1ac",
+      "title": "The Social Safety Net Fails Special-Needs Families",
+      "url": "https://democraticleft.dsausa.org/2026/09/29/the-social-safety-net-fails-special-needs-families",
+      "author": "Democratic Left",
+      "source": "Democratic Left",
+      "published_at": "2026-09-29T18:17:46+00:00",
+      "content_excerpt": "The cost of the long-term care of our child is a constant source of anxiety. A just society would not punish its vulnerable members for their inability to compete on the capitalist market. The post The Social Safety Net Fails Special-Needs Families appeared first on Democratic Left .",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/7ccc98fdab54e0d997d5e1ac.json"
+    },
+    {
+      "id": "04f1464f7825f7c59878e573",
+      "title": "Brazil’s Presidential Election Is Going Down to the Wire",
+      "url": "https://jacobin.com/2026/09/brazil-lula-bolsonaro-presidential-election",
+      "author": "Olavo Passos de Souza",
+      "source": "Jacobin",
+      "published_at": "2026-09-29T17:50:08+00:00",
+      "content_excerpt": "As the Brazilian presidential election on October 4 draws closer, President Luiz Inácio Lula da Silva is in a very tight contest with Flávio Bolsonaro, the son and heir of the Bolsonaro political dynasty. Lula is leading most of the polls for the first round, but the race appears too close to call in the event of a runoff between them. This election does not merely pit two opposing candidates against each other. It is a struggle between Brazil’s democratic forces and the return to power of a reactionary bloc. Lula’s Challenge Lula is seeking a fourth term as president at the age of eighty-one. The Brazilian constitution allows for this: it does not impose any limits on how long one person can be in office, so long as they do not serve more than two consecutive terms. After his first victor",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/04f1464f7825f7c59878e573.json"
+    },
+    {
+      "id": "06d8e83043815712d1cc47ed",
+      "title": "Amazon Is Perfecting Total Surveillance of Its Workforce",
+      "url": "https://jacobin.com/2026/09/amazon-logistics-delivery-surveillance-tech",
+      "author": "C. R. Calabria",
+      "source": "Jacobin",
+      "published_at": "2026-09-29T17:19:04+00:00",
+      "content_excerpt": "Although Amazon is increasingly synonymous with worker surveillance , the logistics behemoth has never been a pioneer in that space. UPS was the first fleet to install GPS in their vehicles back in 1991. Netradyne, the company that makes the AI-powered product Driver.i installed in most vehicles in Amazon’s fleet, had already logged over a hundred million minutes of driving time before Amazon signed the firm on. But with each new iteration of its delivery-aid-cum-surveillance tech, Amazon has proven its knack for taking an existing product and deploying it in a dystopian direction. And other companies tend to follow its lead. “Smart delivery glasses,” Amazon’s latest gadgets, which come with a specialized vest with a built-in battery-pack, were introduced on their in-house news site last O",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/06d8e83043815712d1cc47ed.json"
+    },
+    {
+      "id": "9226b1a0064072c5aeebd319",
+      "title": "Primetime Turns Chris Hansen Into a Horror Show",
+      "url": "https://jacobin.com/2026/09/primetime-oppenheim-pattinson-hansen-predator",
+      "author": "Eileen Jones",
+      "source": "Jacobin",
+      "published_at": "2026-09-29T16:18:30+00:00",
+      "content_excerpt": "Primetime has an interesting look that’s the key to its worldview, which is that our society is so bad that no one can escape its infecting qualities. There’s a smeary effect around the edge of the lens in many shots, which are generally in shallow focus, making everything appear greasy and defiled and half-hidden. This is in addition to a lurid color scheme dominated by nasty shades of red, green, and blue that are often clashing with each other, so that characters’ faces emerge out of surroundings that seem disgustingly tainted. Robert Pattinson, playing Chris Hansen — the real-life former host of the hit NBC Dateline series To Catch a Predator that ran from 2004 to 2007 — appears in certain close-ups with his face suffused in an unwholesome tint of hellfire red. Appropriately enough, mu",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/9226b1a0064072c5aeebd319.json"
+    },
+    {
+      "id": "19e7c7d4b2c91b94f8d90f68",
+      "title": "Economic Democracy Is at the Heart of Socialism",
+      "url": "https://jacobin.com/2026/09/workplace-democracy-efficiency-productivity-freedom",
+      "author": "Mike Beggs",
+      "source": "Jacobin",
+      "published_at": "2026-09-29T14:46:11+00:00",
+      "content_excerpt": "In 1872, British courts prosecuted more than seventeen thousand workers for a single offense: leaving their jobs. Under the Master and Servants Acts, wage laborers who quit before the end of an agreed term, or who merely refused to show up to work, could be sentenced to three months of hard labor. Employers who violated the same rule, by withholding wages or firing someone without notice, owed just a civil debt. Across the 1860s and early 1870s, as the labor market tightened and approached full employment, the number of prosecutions rose. Even before the eight-hour day became one of organized labor’s defining demands, one of the British trade union movement’s earliest sustained legislative campaigns was to end the criminal punishment of workers who left their jobs. They finally won that ri",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/19e7c7d4b2c91b94f8d90f68.json"
+    },
+    {
+      "id": "7385235fe9f30c9e515688b9",
+      "title": "Britain Used Modern Advertising to Sell Its Empire",
+      "url": "https://jacobin.com/2026/09/selling-the-british-empire",
+      "author": "Owen Hatherley",
+      "source": "Jacobin",
+      "published_at": "2026-09-29T13:19:00+00:00",
+      "content_excerpt": "The American empire has never needed a propaganda ministry to justify itself to its subjects. For that, it has the world’s largest culture industry. From Hollywood to hip-hop, it has made millions around the world dream of being American, even those who hate its politics and economics. But American cultural imperialism comes into focus only when examined against its immediate precursor. For all the British Empire spread — constitutional monarchies, tea drinking, bleakly Protestant Christianity, and ruthless, amoral capitalism — it never made its victims aspire to be British in quite the same way as its American offshoot has. As for justifying itself at home: Who needs state propaganda campaigns when you have Call of Duty and Top Gun ? By contrast, in the twilight of their own imperial phas",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/7385235fe9f30c9e515688b9.json"
+    },
+    {
+      "id": "b6567f3a1910136eae586d91",
+      "title": "JCTU Rent Strike",
+      "url": "https://housing.dsausa.org/jctu-rent-strike",
+      "author": "Housing Justice Commission",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-09-29T00:57:26+00:00",
+      "content_excerpt": "ETOC Cadre News: Jersey City tenants declare a rent strike at 5 separate buildings on the city’s west side FROM HUDSON COUNTY VIEW: Jersey City tenants declared a rent strike at five separate buildings on the city’s west side, alleging issues ranging from neglect, pests, and no on site building superintendent. “They just don’t care to fix anything. The kitchen floor is in awful shape. They put some screws in the kitchen floor tile so that they don’t move around too much. It’s an awful thing. We just gotta go on strike to get what we want,” Charlie, a tenant at 154 Belmont Ave. where a rally was held last week who declined to give his last name, said. “I’ve been living in this building 40 years. Nothing gets done, they want me to get out. Rats, mice, holes in the bottom, holes on top, and t",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/b6567f3a1910136eae586d91.json"
+    },
+    {
+      "id": "f8afdc53d5a69f695b31b57f",
+      "title": "Flicking the Switch on Flock",
+      "url": "https://working-mass.com/2026/09/28/flicking-the-switch-on-flock",
+      "author": "Working Mass: The Massachusetts DSA Labor Outlet",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-09-29T00:57:26+00:00",
+      "content_excerpt": "Anonymously posing next to a Flock camera, advertising its links to ICE (Framingham Flock Coalition) By: Reid Jackson BOSTON – On September 16, Boston announced the end of its contract with Flock Safety after uncovering the company sharing local data with outside law enforcement. If this is shocking news to you, you may be a Boston City Councilmember: “Boston City Councilor Ben Weber said he was disappointed to see the agency was sharing data.” Boston is now the latest – and largest – city in New England to find out the hard way that Flock cameras are more trouble than they’re worth. The cancellation is the latest but not the first. While City Hall can be given a crumb of credit for doing the bare minimum and shelving the contract once the threat to data security became evident, it’s stran",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/f8afdc53d5a69f695b31b57f.json"
+    },
     {
       "id": "dc10c59c02a51ef29182eb75",
       "title": "Faith-Labor Organizing: Why Building Permanent Infrastructure is the Intervention This Moment Demands",
@@ -36,96 +186,6 @@
       "priority": 1,
       "date_missing": false,
       "article_path": "articles/cfa2eda5241af441cea15167.json"
-    },
-    {
-      "id": "05061f2a60187abf3a4474f1",
-      "title": "Buffalo DSA Leaders Meet With Rep. AOC",
-      "url": "https://buffalodsa.org/statements/buffalo-dsa-leaders-meet-with-rep-aoc",
-      "author": "Buffalo DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-09-28T16:54:26+00:00",
-      "content_excerpt": "On Thursday, members of our Steering Committee and endorsed candidate Adam Bojak met privately with Representative Alexandria Ocasio-Cortez. We were proud to share how we are building a durable, sustainable socialist project here, as well as share our hope to see Rep. AOC coordinate more strongly with the growing socialist bloc forming at every level of elected office. Afterward, a range of our chapter organizers joined Team AOC for their Project Reactivation event. Regardless of what her political career holds, one thing is clear: Rep. AOC and her team would not have visited Buffalo, or prioritized a private sit-down with Buffalo DSA leaders, without the diligent work of our members. The foundation we’ve laid in healthcare organizing, labor solidarity, tenant suport, and electoral politic",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/05061f2a60187abf3a4474f1.json"
-    },
-    {
-      "id": "59bc08eb2ea316037e88bf1f",
-      "title": "We Have to Figure Out How to Design a Warming Planet",
-      "url": "https://www.inoreader.com/article/3a9c6e76772b551b",
-      "author": "Marianela D’Aprile",
-      "source": "Jacobin",
-      "published_at": "2026-09-28T16:49:04+00:00",
-      "content_excerpt": "Before we get into the nitty-gritty, we should start with the problem in its purest form: The world as we know it cannot go on. Something’s got to give. Ideally, that would be capitalism, but we don’t have enough time to pull that off before the planet catches fire. The planet is already catching fire. What to do, then? Everything — supply chains, information systems, labor practices, policy decisions, economic structures­ — is so inextricably linked that it feels impossible to know where to start chipping away. Recently a friend asked, hypothetically, why it would be worthwhile to make an ethical decision in one’s own personal life if the larger entities that structure that life certainly aren’t making ethical decisions. Isn’t their impact much larger than our own? It’s hard to argue with",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/59bc08eb2ea316037e88bf1f.json"
-    },
-    {
-      "id": "88fe505152498c3056abf1ee",
-      "title": "Mark Carney Is Taking Aim at Canada’s Labor Movement",
-      "url": "https://www.inoreader.com/article/3a9c6e767710114b",
-      "author": "Adam D. K. King",
-      "source": "Jacobin",
-      "published_at": "2026-09-28T16:19:04+00:00",
-      "content_excerpt": "On September 21, Canadian Prime Minister Mark Carney’s government introduced legislation that could amount to one of the most significant rollbacks of workers’ rights in Canada since the creation of the postwar industrial relations system. Tucked inside the sprawling 232-page Bill C-39 are amendments to the Canada Labour Code that would give the federal labor minister explicit authority to terminate lawful strikes and impose binding dispute resolution when the minister decides a work stoppage threatens the “national interest.” The legislation would also create a new “special mediator,” adding an additional state-directed phase to collective bargaining. Before workers can strike, the mediator would produce a report on bargaining disputes, which the minister would make public if the parties ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/88fe505152498c3056abf1ee.json"
-    },
-    {
-      "id": "628006c5c4f24d796f97ffa2",
-      "title": "The Dilemmas of Socialist Governance of a Capitalist State",
-      "url": "https://www.inoreader.com/article/3a9c6e767703e79a",
-      "author": "Max Elbaum",
-      "source": "Jacobin",
-      "published_at": "2026-09-28T14:17:02+00:00",
-      "content_excerpt": "Since the 2016 combination of Donald Trump’s election and Bernie Sanders’s breakthrough campaign, efforts to synergize grassroots organizing with electoral engagement have become a priority for both long-standing and new radical formations. The dominant strategy is for socialists and progressives to run as Democrats aiming to both block MAGA’s drive toward US-style fascism and to win a measure of Left “ governing power .” In the last year, such efforts have yielded impressive results. Zohran Mamdani, a democratic socialist, is mayor of the nation’s largest city. Abdul El-Sayed, an outspoken advocate for Medicare for All and Palestinian rights, won the Democratic nomination for US senator in Michigan. More than a dozen sitting congressmembers are champions of Justice Democrats , the Working",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/628006c5c4f24d796f97ffa2.json"
-    },
-    {
-      "id": "e6f68f8d27519ceba4c913c3",
-      "title": "A Labour Prime Minister Inaugurated Britain’s Neoliberal Era",
-      "url": "https://www.inoreader.com/article/3a9c6e7670f26ad3",
-      "author": "Neil Warner",
-      "source": "Jacobin",
-      "published_at": "2026-09-28T12:45:59+00:00",
-      "content_excerpt": "When Britain’s Labour Party met for its annual conference in September 1976, the government headed by its leader, James Callaghan, was confronting a severe economic crisis. This included the combination of high inflation and unemployment (“stagflation”) and a currency crisis that would, by the end of the year, lead the government to arrange a loan from the International Monetary Fund (IMF). IMF assistance came with the requirement of steep budget cuts. In this context, conference delegates passed ambitious resolutions that condemned cuts and called for nationalization of much of the financial sector as well as extensive controls over the movement of capital, imports, and company investment decisions. James Callaghan refused to consider such measures. In a speech that historians have often ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/e6f68f8d27519ceba4c913c3.json"
-    },
-    {
-      "id": "4c3762ed12b3a8b1803a63da",
-      "title": "An Immigrant Socialist-in-office Returns to a Country in Crisis",
-      "url": "https://democraticleft.dsausa.org/2026/09/28/an-immigrant-socialist-in-office-returns-to-a-country-in-crisis",
-      "author": "Democratic Left",
-      "source": "Democratic Left",
-      "published_at": "2026-09-28T11:52:04+00:00",
-      "content_excerpt": "New York Assemblymember Diana Moreno discusses the collapse into violence of her native Ecuador with U.S. collusion. The post An Immigrant Socialist-in-office Returns to a Country in Crisis appeared first on Democratic Left .",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/4c3762ed12b3a8b1803a63da.json"
     }
   ]
 }

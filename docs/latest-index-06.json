@@ -1,12 +1,177 @@
 {
-  "generated_at": "2026-09-28T23:52:35.108543+00:00",
-  "generated_at_jst": "2026-09-29T08:52:35.108543+09:00",
-  "period_start": "2026-09-27T17:52:35.108543+00:00",
+  "generated_at": "2026-09-29T23:06:17.390725+00:00",
+  "generated_at_jst": "2026-09-30T08:06:17.390725+09:00",
+  "period_start": "2026-09-28T17:06:17.390725+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
-  "article_count": 20,
+  "article_count": 19,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "fb9c6de1e4f5011885c50a90",
+      "title": "The greater isolation of lesser Israel",
+      "url": "https://breakthroughnews.org/2026/09/29/the-greater-isolation-of-lesser-israel",
+      "author": "Vijay Prashad",
+      "source": "BT News",
+      "published_at": "2026-09-29T21:10:49+00:00",
+      "content_excerpt": "This content is for members only. Visit the site and log in/register to read.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/fb9c6de1e4f5011885c50a90.json"
+    },
+    {
+      "id": "96b81dc96e46722ca5d0ce1a",
+      "title": "Netanyahu is embracing Israel’s isolation",
+      "url": "https://mondoweiss.net/2026/09/netanyahu-is-embracing-israels-isolation",
+      "author": "Jamal Zakkout",
+      "source": "Mondoweiss",
+      "published_at": "2026-09-29T17:20:43+00:00",
+      "content_excerpt": "Netanyahu’s speech at the UN General Assembly was not directed at the world, but Israelis. He was trying to convince them that Israel doesn’t need to change, as long as it stands united against the world — and lives by the sword.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/96b81dc96e46722ca5d0ce1a.json"
+    },
+    {
+      "id": "83e17049fae828568ec9fdb1",
+      "title": "The Pardon of Elor Azaria: Killing, maiming, and culpability in the Israeli law",
+      "url": "https://mondoweiss.net/2026/09/the-pardon-of-elor-azaria-killing-maiming-and-culpability-in-the-israeli-law",
+      "author": "Tamir Sorek",
+      "source": "Mondoweiss",
+      "published_at": "2026-09-29T16:49:59+00:00",
+      "content_excerpt": "Israeli courts put on a show of indicting criminals who kill and maim Palestinians, but the final verdict — a presidential pardon and a hero's welcome — is already predetermined.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/83e17049fae828568ec9fdb1.json"
+    },
+    {
+      "id": "10663adecd4c6be93cd43ed6",
+      "title": "How to Understand Key Terms in Large Language Models",
+      "url": "https://thetricontinental.org/how-to-understand-key-terms-in-large-language-models",
+      "author": "",
+      "source": "[:en]THE TRICONTINENTAL[:es]TRICONTINENTAL[:]",
+      "published_at": "2026-09-29T14:41:28+00:00",
+      "content_excerpt": "When you use AI to write, read reports, or work with files, you may encounter terms such as token , context , and agent . These terms help explain what happens when you give an AI application a task: what information it can use, how it produces a response, and whether it can take actions such as searching for sources or saving a document. This guide introduces the main terms related to large language models (LLMs) through practical examples. It begins with how models process information, then explains how to give them instructions and reference material, how tools and agents carry out tasks, and how to organise ongoing work. It also introduces ways to access models through other software or run them on your own equipment. 1. How Language Models Work Large Language Models A large language m",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/10663adecd4c6be93cd43ed6.json"
+    },
+    {
+      "id": "796698891fdd2a1c90848ec7",
+      "title": "Greenland Deal: Trump Drops Threat to Annex Denmark Territory in Favor of Greater U.S. Military Role",
+      "url": "https://www.democracynow.org/2026/9/29/greenland_denmark",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-09-29T14:35:00+00:00",
+      "content_excerpt": "This is a rush transcript. Copy may not be in its final form. AMY GOODMAN : Remember when President Trump said this shortly after he returned to the White House? PRESIDENT DONALD TRUMP : We need Greenland for national security and even international security, and we’re working with everybody involved to try and get it. But we need it, really, for international world security. And I think we’re going to get it. One way or the other, we’re going to get it. AMY GOODMAN : Well, after more than a year and a half of threatening to take over Greenland by force, President Trump last week signed a 10-page agreement with Greenland and Denmark that fell short of his earlier demands to turn Greenland into U.S. territory. The deal, that Trump described as “tremendous,” allows the United States to open ",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/796698891fdd2a1c90848ec7.json"
+    },
+    {
+      "id": "44941882e0dd6ccfb6d6d3bb",
+      "title": "“Buying More Time for the Genocide”: Muhammad Shehada on Trump’s Gaza Plan 1 Year Later",
+      "url": "https://www.democracynow.org/2026/9/29/muhammad_shehada",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-09-29T14:35:00+00:00",
+      "content_excerpt": "The Palestinian death toll from Israel’s war on Gaza has surpassed 74,000, according to the Ministry of Health in Gaza. While this figure represents the official death toll as confirmed by local authorities, the true number could be much higher when missing people and indirect deaths are taken into account, such as from disease, exposure, denial of medical treatment and the destruction of civic infrastructure. And since the so-called ceasefire brokered by Trump last October, nearly 1,400 Palestinians have been killed in Israeli attacks. “The [ceasefire] plan ended up just buying more time for the genocide,” says Muhammad Shehada, a writer and analyst from Gaza speaking to Democracy Now! in Copenhagen. “Instead of suspending attacks on Gaza, Israel has been bombing Gaza every day.” “The ide",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/44941882e0dd6ccfb6d6d3bb.json"
+    },
+    {
+      "id": "b520205ecdaeaf4e509228ad",
+      "title": "Afghans “Have Been the Victims” of U.S. Military, Taliban, Cartels & More for Decades: Nagieb Khaja",
+      "url": "https://www.democracynow.org/2026/9/29/nagieb_khaja",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-09-29T14:35:00+00:00",
+      "content_excerpt": "Award-winning Danish Afghan journalist and filmmaker Nagieb Khaja’s most recent documentary, Winning Heart and Minds , is an investigation into what went wrong in the U.S.-led war in Afghanistan. In the film, Khaja travels to Musa Qala, the capital of the southern Helmand province. Danish and British troops had been deployed to Musa Qala in 2006 to defend their allies, the local police, against Taliban insurgents. While urban areas benefited from U.S. occupation during the war, “Western forces allied themselves with forces that in rural Afghanistan were considered worse than the Taliban,” says Khaja. “The police forces and the warlords that were fighting side by side with American, Danish and British forces, they were drug cartels, they were ruthless criminals, they were rapists.”",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/b520205ecdaeaf4e509228ad.json"
+    },
+    {
+      "id": "0622ab133e6a9d5d4c45be3f",
+      "title": "Planetary Health Check: Mounting pressure on life support systems",
+      "url": "https://mronline.org/2026/09/29/planetary-health-check-mounting-pressure-on-life-support-systems",
+      "author": "Ian Angus",
+      "source": "MR Online",
+      "published_at": "2026-09-29T12:22:32+00:00",
+      "content_excerpt": "‘Our margin for error in tackling these problems is shrinking’. The post Planetary Health Check: Mounting pressure on life support systems appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/0622ab133e6a9d5d4c45be3f.json"
+    },
+    {
+      "id": "eb10d12b1df29e567a8c2661",
+      "title": "The war against Iran and the dialectics of resistance",
+      "url": "https://mronline.org/2026/09/29/the-war-against-iran-and-the-dialectics-of-resistance",
+      "author": "Prabhat Patnaik",
+      "source": "MR Online",
+      "published_at": "2026-09-29T11:22:16+00:00",
+      "content_excerpt": "There is a dialectics of aggression and also a dialectics of resistance involved here. Imperialism was emboldened to attack Iran because of the relative ease with which it carried out its operations in Venezuela; and had the regime change in Iran occurred as easily as imperialism had imagined, then it would have been further emboldened to carry its attacks immediately to other countries. But the resistance in Iran, which came as a big surprise for it, has stopped it in its tracks for the time being. The post The war against Iran and the dialectics of resistance appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/eb10d12b1df29e567a8c2661.json"
+    },
+    {
+      "id": "ff5c6900827cef9d4073b4e5",
+      "title": "AI: the biggest economic bet in U.S. history",
+      "url": "https://mronline.org/2026/09/29/ai-the-biggest-economic-bet-in-u-s-history",
+      "author": "Michael Roberts",
+      "source": "MR Online",
+      "published_at": "2026-09-29T10:23:49+00:00",
+      "content_excerpt": "The warning signs of the coming crash keep multiplying. The post AI: the biggest economic bet in U.S. history appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/ff5c6900827cef9d4073b4e5.json"
+    },
+    {
+      "id": "0566894bbf5f0f2330f537fb",
+      "title": "Siege warfare by other means: The U.S. economic measures against Cuba",
+      "url": "https://mronline.org/2026/09/29/siege-warfare-by-other-means-the-u-s-economic-measures-against-cuba",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-09-29T09:24:04+00:00",
+      "content_excerpt": "How the Trump Administration is using starvation and misery to achieve regime change in Cuba. The post Siege warfare by other means: The U.S. economic measures against Cuba appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/0566894bbf5f0f2330f537fb.json"
+    },
     {
       "id": "8f7099d7483ac864c0971dbf",
       "title": "BT LIVE: Europe Eyes War with Russia | Brazil Election | Biden Gaza Accountability?",
@@ -126,186 +291,6 @@
       "priority": 2,
       "date_missing": false,
       "article_path": "articles/0aab8de79176b771c6cb667d.json"
-    },
-    {
-      "id": "ba4f8ba8a035e7dd8307c90a",
-      "title": "Palestinian couples from Gaza are forcibly separated by borders, with no reunion in sight",
-      "url": "https://mondoweiss.net/2026/09/palestinian-couples-from-gaza-are-forcibly-separated-by-borders-with-no-reunion-in-sight",
-      "author": "Ansam al-Qitaa",
-      "source": "Mondoweiss",
-      "published_at": "2026-09-28T15:08:29+00:00",
-      "content_excerpt": "Families and spouses in Gaza are still waiting to be reunited with their loved ones after the Israeli army suspended travel in and out of the Strip.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/ba4f8ba8a035e7dd8307c90a.json"
-    },
-    {
-      "id": "0c004081c17766f8b84642bb",
-      "title": "Forcible Eviction of 87-Year-Old Madrid Woman Sparks Protest Encampment over Spain’s Housing Crisis",
-      "url": "https://www.democracynow.org/2026/9/28/spain_housing_crisis",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-09-28T14:32:02+00:00",
-      "content_excerpt": "The eviction of 87-year-old María del Carmen Abascal Martín in Madrid, after an investment fund bought her apartment building and more than tripled her rent, has become a symbol of Spain’s rising cost of living and sparked nationwide protests against corporate greed and wealth inequality. Over 600 protesters are now camped outside Madrid’s regional government headquarters demanding new tenant protections. “What we have is a lot of furious people, enraged people, that are demanding from the government and from the public institutions that they give us give us some sort of solution,” says Sabina Carrau, a spokesperson for the Madrid Tenants’ Union, which is supporting the “Maricarmen decree” named after Abascal, set to be debated by Spain’s government this week. Housing in Spain, as in much ",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/0c004081c17766f8b84642bb.json"
-    },
-    {
-      "id": "8dd092b2ee22b2463e286343",
-      "title": "“Britain’s Gaza Secrets Exposed”: How U.K. Downplayed Israeli Crimes to Keep Selling Weapons",
-      "url": "https://www.democracynow.org/2026/9/28/britain_s_gaza_secrets_exposed",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-09-28T14:32:02+00:00",
-      "content_excerpt": "A new documentary titled Britain’s Gaza Secrets Exposed reveals new details about the U.K. government’s internal response to alleged Israeli war crimes in Gaza. Presented by journalist Ramita Navai and produced by Ben De Pear for Channel 4’s investigative program Dispatches , the documentary examines government records, some newly publicized, to show how the United Kingdom ignored or concealed mounting evidence of Israel’s genocidal actions in Gaza after the October 7 attacks. “We were looking at how our country, which prides itself on having an ethical foreign policy and as being one of the supporting members of the United Nations on human rights, was able to keep selling arms,” says De Pear. “And basically, what we found was a doctored process … It’s quite extraordinary the level of dupl",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/8dd092b2ee22b2463e286343.json"
-    },
-    {
-      "id": "10c12f9c7dcab669a7edc66e",
-      "title": "“Valley of Death”: Sharon Weinberger on Big Tech, AI Warfare & the CIA’s Secret Backing of Steve Jobs",
-      "url": "https://www.democracynow.org/2026/9/28/sharon_weinberger_valley_of_death",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-09-28T14:32:02+00:00",
-      "content_excerpt": "Longtime national security reporter Sharon Weinberger’s new book, Valley of Death: How Big Tech Is Fueling the Future of War , follows the rise of the military-industrial complex in Silicon Valley, where defense technology companies, like Palantir, Anduril and SpaceX, and their billionaire founders, are increasingly shaping U.S. foreign policy. Weinberger explains that because “the government doesn’t own the underlying technology” peddled by “this new class of entrepreneurs,” these companies have upended the traditional procurement relationship between the U.S. government and older defense firms, and now unilaterally control access to the new weapons and systems — including drones and artificial intelligence — used in modern warfare.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/10c12f9c7dcab669a7edc66e.json"
-    },
-    {
-      "id": "7e615cbd06922c4f00453dd6",
-      "title": "Amnesty International calls for abolition of ICE for the first time in new report",
-      "url": "https://mronline.org/2026/09/28/amnesty-international-calls-for-abolition-of-ice-for-the-first-time-in-new-report",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-09-28T14:27:18+00:00",
-      "content_excerpt": "International human rights organization Amnesty International has called for the abolition of U.S. Immigration and Customs Enforcement in a new report alleging human rights abuses in the Trump administration’s immigration operations. The post Amnesty International calls for abolition of ICE for the first time in new report appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/7e615cbd06922c4f00453dd6.json"
-    },
-    {
-      "id": "168afd6748eceef00b904c36",
-      "title": "Can Socialists Govern a Capitalist State?",
-      "url": "https://convergencemag.com/articles/when-socialists-govern-a-capitalist-state",
-      "author": "Max Elbaum",
-      "source": "Convergence",
-      "published_at": "2026-09-28T12:36:32+00:00",
-      "content_excerpt": "Since the 2016 combination of Donald Trump’s election and Bernie Sanders’s breakthrough campaign, efforts to synergize grassroots organizing with electoral engagement have become a priority for both longstanding and new radical formations. The dominant strategy is for socialists and progressives to run as Democrats aiming to both block MAGA’s drive toward US-style fascism and to win a measure of… Source",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/168afd6748eceef00b904c36.json"
-    },
-    {
-      "id": "f3cd9894dcfed34bbb5450ba",
-      "title": "California orders review of AI ‘kill switch’, safety controls",
-      "url": "https://mronline.org/2026/09/28/california-orders-review-of-ai-kill-switch-safety-controls",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-09-28T12:26:09+00:00",
-      "content_excerpt": "California Governor Gavin Newsom ordered a review of a possible mandatory AI \"kill switch,\" independent audits and incident reporting amid growing concerns over advanced systems escaping human control. The post California orders review of AI ‘kill switch’, safety controls appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/f3cd9894dcfed34bbb5450ba.json"
-    },
-    {
-      "id": "7abd61b7e3bc92b067aade4e",
-      "title": "Capitalism won’t fall on its own",
-      "url": "https://mronline.org/2026/09/28/capitalism-wont-fall-on-its-own",
-      "author": "Gary Wilson",
-      "source": "MR Online",
-      "published_at": "2026-09-28T11:26:49+00:00",
-      "content_excerpt": "Trillions of dollars are pouring into artificial intelligence. The post Capitalism won’t fall on its own appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/7abd61b7e3bc92b067aade4e.json"
-    },
-    {
-      "id": "c2637539352b66ef7fe7bead",
-      "title": "The uses—and misuses—of Social Reproduction Theory",
-      "url": "https://mronline.org/2026/09/28/the-uses-and-misuses-of-social-reproduction-theory",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-09-28T10:26:46+00:00",
-      "content_excerpt": "What is Social Reproduction Theory? It is a Marxist feminist term which covers how capitalism depends on unpaid care in the home for the ongoing reproduction of human life and labour. The post The uses—and misuses—of Social Reproduction Theory appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/c2637539352b66ef7fe7bead.json"
-    },
-    {
-      "id": "1e092fbcaf0b47e2683c91ea",
-      "title": "Is still smells of sulphur: 20 years since Chávez’s speech at the UN",
-      "url": "https://mronline.org/2026/09/28/is-still-smells-of-sulphur-20-years-since-chavezs-speech-at-the-un",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-09-28T09:27:24+00:00",
-      "content_excerpt": "On 20 September 2006, Hugo Chávez stepped up to the granite podium of the United Nations General Assembly. A day earlier, from that exact same spot, the President of the United States, George W. Bush, had spoken. Chávez crossed himself, said that the room still smelled of sulphur, and the hall burst into laughter and […] The post Is still smells of sulphur: 20 years since Chávez’s speech at the UN appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/1e092fbcaf0b47e2683c91ea.json"
-    },
-    {
-      "id": "fb564be807b85dc441e6a69b",
-      "title": "A Beacon for the Socialist Revolution: The Political Writings of Rosa Luxemburg",
-      "url": "https://www.historicalmaterialism.org/a-beacon-for-the-socialist-revolution-the-political-writings-of-rosa-luxemburg",
-      "author": "Panagiotis Sotiris",
-      "source": "Historical Materialism",
-      "published_at": "2026-09-28T07:22:44+00:00",
-      "content_excerpt": "Rosa Luxemburg, The Complete Works of Rosa Luxemburg , Volume III: Political Writings 1, On Revolution, 1897-1905 , eds. Peter Hudis and Sandra Rein; trans. George Shriver, Alicja Mann, and Henry Holland (London and New York: Verso Books, 2019, paperback, 2022). 592 pp.; Volume IV: Political Writings 2, On Revolution, 1906-1909 , eds. Peter Hudis and Sandra Rein; trans. Jacob Blumenfeld, Nicholas Grey, Henry Holland, Zachary King, Manuella Kölke, and Joseph Muller (London and New York: Verso Books, 2022; paperback, 2023). 576 pp; Volume V: Political Writings 1, On Revolution, 1910-1919 , eds. Paul Le Blanc and Helen C. Scott; trans. Jacob Blumenfeld, Mathias Foit, Nicholas Gray, Henry Holland, Zachary King and Manuela Kölke (London and New York: Verso Books, 2024; paperback, 2026). 512 pp.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/fb564be807b85dc441e6a69b.json"
-    },
-    {
-      "id": "025b0ed34a9c4a32f3fb7933",
-      "title": "77 countries walk out during Netanyahu’s UN speech",
-      "url": "https://breakthroughnews.org/2026/09/28/77-countries-walk-out-during-netanyahus-un-speech",
-      "author": "Aseel Saleh",
-      "source": "BT News",
-      "published_at": "2026-09-28T05:25:41+00:00",
-      "content_excerpt": "Israel continues to face isolation in international forums as it continues its multi-front war on the peoples of West Asia. On Thursday, September 24, delegations from at least 77 countries walked out or left their seats vacant during the address of Israeli Prime Minister Benjamin Netanyahu at the 81st session of the United Nations General Assembly. The move was interpreted as opposition to Israel’s three-year genocidal aggression on Gaza, and atrocities across multiple parts of West Asia. Arab nations that walked out included: Algeria, Comoros, Egypt, Iraq, Jordan, Kuwait, Lebanon, Libya, Mauritania, Oman, Palestine, Qatar, Saudi Arabia, Somalia, Sudan, Syria, Tunisia and Yemen. Asian states involved: Afghanistan, Bangladesh, Brunei, Darussalam, Indonesia, Iran, Kyrgyzstan, Malaysia, Mald",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/025b0ed34a9c4a32f3fb7933.json"
     }
   ]
 }
