@@ -1,12 +1,102 @@
 {
-  "generated_at": "2026-09-29T23:06:17.390725+00:00",
-  "generated_at_jst": "2026-09-30T08:06:17.390725+09:00",
-  "period_start": "2026-09-28T17:06:17.390725+00:00",
+  "generated_at": "2026-09-30T23:08:32.061693+00:00",
+  "generated_at_jst": "2026-10-01T08:08:32.061693+09:00",
+  "period_start": "2026-09-29T17:08:32.061693+00:00",
   "lookback_hours": 30,
   "folder": "00_毎日確認",
-  "article_count": 12,
+  "article_count": 11,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "42b21196b23dafea7a774b15",
+      "title": "Frederick Douglass Had a Radical Respect for the Constitution",
+      "url": "https://jacobin.com/2026/09/frederick-douglass-constitution-slavery-interpretation",
+      "author": "Bradley Rebeiro",
+      "source": "Jacobin",
+      "published_at": "2026-09-30T18:30:30+00:00",
+      "content_excerpt": "Is the US Constitution for or against slavery? Questions concerning the legacy of America’s founding and how to interpret the Constitution have long gripped public discourse; in recent years they have become inseparable. From the 1980s came the originalists, a group of legal theorists who sought to recover the Constitution’s original meaning through textual analysis buttressed by historical investigation. Adhering to the document’s original meaning, they argue, promotes institutional stability and the rule of law. Scholars have long contested these claims, challenging the plausibility of recovering an “original meaning” or doubting the authoritative nature of such meaning even if discovered. Recently, however, a second phenomenon has brought constitutional discourse closer to political dis",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/42b21196b23dafea7a774b15.json"
+    },
+    {
+      "id": "3b17d2eb19b5fd11472fabea",
+      "title": "Democrats Have Created a Consultant-Driven Echo Chamber",
+      "url": "https://jacobin.com/2026/09/barker-democratic-party-class-trump",
+      "author": "Ryan Zickgraf",
+      "source": "Jacobin",
+      "published_at": "2026-09-30T16:57:54+00:00",
+      "content_excerpt": "“The number one rule of political fundraising,” Evan Barker writes in the first line of Nothing Left: Confessions of a Democratic Operative , “is to never, ever, under any circumstances, speak about it publicly.” Then she spends 288 pages talking about it, and it’s a wonderful thing that she does. Barker’s insider account of her time deep in the bowels of the Democratic Party often reads like The Jungle of Democratic fundraising: Upton Sinclair showed readers how the sausage got made, and Barker shows how the candidates do. By the end, it’s clear that the Democrats are a glorified fundraising organization with an electoral department attached, one that absorbs idealism, monetizes it, and then disciplines anyone who threatens its arrangements, often with the cynical deployment of identity p",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/3b17d2eb19b5fd11472fabea.json"
+    },
+    {
+      "id": "4b9237678c684bf3dc81ac88",
+      "title": "The Three True Pillars Of American Democracy",
+      "url": "https://inthesetimes.com/article/three-pillars-american-democracy-unions-public-education-free-press",
+      "author": "",
+      "source": "In These Times",
+      "published_at": "2026-09-30T16:06:57+00:00",
+      "content_excerpt": "The fragility of U.S. democracy is not an accident. Nor is it an inevitable product of our unfinished national slog toward freedom or proof of the inability of regular people to wisely govern their own affairs. It is instead the consequence of direct attacks on the architecture that makes any democratic system possible. Our supporting pillars are being chipped away, and if that is not stopped, the house will collapse. As anyone who has been forced into emergency home repairs knows, you have to do the necessary structural work before you do the other stuff. Your pretty paint job and new tile will not matter much when your house falls down. Our political system is the same. Our pursuit of affordability is nice, but it will be cold comfort if we fade into authoritarianism. Immediate mechanica",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/4b9237678c684bf3dc81ac88.json"
+    },
+    {
+      "id": "5c8e5fbe74e840cd51c2dd15",
+      "title": "Karl Marx Was for the Children",
+      "url": "https://jacobin.com/2026/09/marx-childhood-labor-education-exploitation",
+      "author": "Sam Fluss",
+      "source": "Jacobin",
+      "published_at": "2026-09-30T15:59:31+00:00",
+      "content_excerpt": "In the late 1870s, a visitor to Karl Marx’s North London house might have found the author of Capital on his hands and knees in the garden, with his grandson Johnny on his back shouting, “Go on! Plus vite ! Hurrah!” Marx was past sixty, and he would keep at it until he was covered in sweat. This is not the Marx most people picture. He is commonly known as a curmudgeon — a “salty” fellow with harsh words, not exactly the warm and fuzzy type. Saul Padover begins his introduction to Karl Marx on Education, Women and Children with just such a characterization: “In speech and writing, his attacks on those he deemed to be personal or ideological — or merely unintelligent — opponents were unsparing.” A familiar image comes to mind: Marx, unshaven, with thick hair in all directions, a towering fig",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/5c8e5fbe74e840cd51c2dd15.json"
+    },
+    {
+      "id": "8143472342d6db038f017661",
+      "title": "Owen Jones: Western Hubris Created Today’s Crisis",
+      "url": "https://jacobin.com/2026/09/owen-jones-west-decline-labour",
+      "author": "Owen Jones",
+      "source": "Jacobin",
+      "published_at": "2026-09-30T14:58:25+00:00",
+      "content_excerpt": "In 2011, Owen Jones solidified his reputation as one of Britain’s sharpest political commentators when he published Chavs: The Demonization of the Working Class . In the aftermath of the longest-serving Labour government in history, Jones asked how working-class people came to be vilified not just by elites but by representatives of the parties that supposedly existed to serve their interests. He followed this book up in 2014 with The Establishment: And How They Get Away With It , a study of Britain’s powerful elite. His most recent book , The Fall of the West: How They Really Lost , looks at the dangerous and hysterical politics that emerged after the 1990s, the period that came to be known as “the end of history.” For Jones, the decline of the West that conservative commentators obsess o",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/8143472342d6db038f017661.json"
+    },
+    {
+      "id": "5db80b86a697413e1c46cb8e",
+      "title": "The Vendetta Against Gino Has Nothing to Do With Justice",
+      "url": "https://jacobin.com/2026/09/gino-antifascism-hungary-orban-lawfare",
+      "author": "Harrison Stetler",
+      "source": "Jacobin",
+      "published_at": "2026-09-30T13:28:24+00:00",
+      "content_excerpt": "Albanian-born activist Rexhino Abazaj faces imminent extradition from France to Germany, where he is wanted for charges of violent assault against neo-Nazi plaintiffs. One remaining hurdle was France’s Court of Cassation, which this Wednesday ruled in favor of a lower court’s ruling from last month that validated Berlin’s issuance of a European Arrest Warrant (EAW). Abazaj, better known as Gino among friends and allies, could now face up to ten years behind bars if he is convicted in Germany. Beneath the procedural complexities, Gino’s case represents one front in a sprawling legal tug-of-war that began in Budapest back in February 2023. Taking to the streets of the Hungarian capital, he was among the scores of activists that counterprotested that year’s Day of Honor rally, one of the larg",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/5db80b86a697413e1c46cb8e.json"
+    },
     {
       "id": "a027662bfd03d2d5880628b5",
       "title": "Invasive, Humiliating and Routine: An investigation into The everyday violence of prison strip searches",
@@ -81,111 +171,6 @@
       "priority": 1,
       "date_missing": false,
       "article_path": "articles/06d8e83043815712d1cc47ed.json"
-    },
-    {
-      "id": "9226b1a0064072c5aeebd319",
-      "title": "Primetime Turns Chris Hansen Into a Horror Show",
-      "url": "https://jacobin.com/2026/09/primetime-oppenheim-pattinson-hansen-predator",
-      "author": "Eileen Jones",
-      "source": "Jacobin",
-      "published_at": "2026-09-29T16:18:30+00:00",
-      "content_excerpt": "Primetime has an interesting look that’s the key to its worldview, which is that our society is so bad that no one can escape its infecting qualities. There’s a smeary effect around the edge of the lens in many shots, which are generally in shallow focus, making everything appear greasy and defiled and half-hidden. This is in addition to a lurid color scheme dominated by nasty shades of red, green, and blue that are often clashing with each other, so that characters’ faces emerge out of surroundings that seem disgustingly tainted. Robert Pattinson, playing Chris Hansen — the real-life former host of the hit NBC Dateline series To Catch a Predator that ran from 2004 to 2007 — appears in certain close-ups with his face suffused in an unwholesome tint of hellfire red. Appropriately enough, mu",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/9226b1a0064072c5aeebd319.json"
-    },
-    {
-      "id": "19e7c7d4b2c91b94f8d90f68",
-      "title": "Economic Democracy Is at the Heart of Socialism",
-      "url": "https://jacobin.com/2026/09/workplace-democracy-efficiency-productivity-freedom",
-      "author": "Mike Beggs",
-      "source": "Jacobin",
-      "published_at": "2026-09-29T14:46:11+00:00",
-      "content_excerpt": "In 1872, British courts prosecuted more than seventeen thousand workers for a single offense: leaving their jobs. Under the Master and Servants Acts, wage laborers who quit before the end of an agreed term, or who merely refused to show up to work, could be sentenced to three months of hard labor. Employers who violated the same rule, by withholding wages or firing someone without notice, owed just a civil debt. Across the 1860s and early 1870s, as the labor market tightened and approached full employment, the number of prosecutions rose. Even before the eight-hour day became one of organized labor’s defining demands, one of the British trade union movement’s earliest sustained legislative campaigns was to end the criminal punishment of workers who left their jobs. They finally won that ri",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/19e7c7d4b2c91b94f8d90f68.json"
-    },
-    {
-      "id": "7385235fe9f30c9e515688b9",
-      "title": "Britain Used Modern Advertising to Sell Its Empire",
-      "url": "https://jacobin.com/2026/09/selling-the-british-empire",
-      "author": "Owen Hatherley",
-      "source": "Jacobin",
-      "published_at": "2026-09-29T13:19:00+00:00",
-      "content_excerpt": "The American empire has never needed a propaganda ministry to justify itself to its subjects. For that, it has the world’s largest culture industry. From Hollywood to hip-hop, it has made millions around the world dream of being American, even those who hate its politics and economics. But American cultural imperialism comes into focus only when examined against its immediate precursor. For all the British Empire spread — constitutional monarchies, tea drinking, bleakly Protestant Christianity, and ruthless, amoral capitalism — it never made its victims aspire to be British in quite the same way as its American offshoot has. As for justifying itself at home: Who needs state propaganda campaigns when you have Call of Duty and Top Gun ? By contrast, in the twilight of their own imperial phas",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/7385235fe9f30c9e515688b9.json"
-    },
-    {
-      "id": "b6567f3a1910136eae586d91",
-      "title": "JCTU Rent Strike",
-      "url": "https://housing.dsausa.org/jctu-rent-strike",
-      "author": "Housing Justice Commission",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-09-29T00:57:26+00:00",
-      "content_excerpt": "ETOC Cadre News: Jersey City tenants declare a rent strike at 5 separate buildings on the city’s west side FROM HUDSON COUNTY VIEW: Jersey City tenants declared a rent strike at five separate buildings on the city’s west side, alleging issues ranging from neglect, pests, and no on site building superintendent. “They just don’t care to fix anything. The kitchen floor is in awful shape. They put some screws in the kitchen floor tile so that they don’t move around too much. It’s an awful thing. We just gotta go on strike to get what we want,” Charlie, a tenant at 154 Belmont Ave. where a rally was held last week who declined to give his last name, said. “I’ve been living in this building 40 years. Nothing gets done, they want me to get out. Rats, mice, holes in the bottom, holes on top, and t",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/b6567f3a1910136eae586d91.json"
-    },
-    {
-      "id": "f8afdc53d5a69f695b31b57f",
-      "title": "Flicking the Switch on Flock",
-      "url": "https://working-mass.com/2026/09/28/flicking-the-switch-on-flock",
-      "author": "Working Mass: The Massachusetts DSA Labor Outlet",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-09-29T00:57:26+00:00",
-      "content_excerpt": "Anonymously posing next to a Flock camera, advertising its links to ICE (Framingham Flock Coalition) By: Reid Jackson BOSTON – On September 16, Boston announced the end of its contract with Flock Safety after uncovering the company sharing local data with outside law enforcement. If this is shocking news to you, you may be a Boston City Councilmember: “Boston City Councilor Ben Weber said he was disappointed to see the agency was sharing data.” Boston is now the latest – and largest – city in New England to find out the hard way that Flock cameras are more trouble than they’re worth. The cancellation is the latest but not the first. While City Hall can be given a crumb of credit for doing the bare minimum and shelving the contract once the threat to data security became evident, it’s stran",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/f8afdc53d5a69f695b31b57f.json"
-    },
-    {
-      "id": "dc10c59c02a51ef29182eb75",
-      "title": "Faith-Labor Organizing: Why Building Permanent Infrastructure is the Intervention This Moment Demands",
-      "url": "https://convergencemag.com/articles/faith-labor-organizing-why-building-permanent-infrastructure-is-the-intervention-this-moment-demands",
-      "author": "",
-      "source": "Tag: Labor",
-      "published_at": "2026-09-28T23:08:27+00:00",
-      "content_excerpt": "Featured image by Jared Rodriguez. Our congregations and our unions each have a measure of power. None of it is enough. The change we seek requires building power together; prioritizing building that power together in parallel with the work we are already doing alone. Our faith communities and labor unions share geographies, serve many of the same families, and claim a common commitment to human dignity. We rarely build power together. When we collaborate, the collaboration tends to be transactional: labor shows up for a rally the church organized, a pastor blesses a picket line. The event ends. Everyone goes home. No infrastructure remains. In Northern Virginia, our first Faith & Labor 2-day Training launched this April at Virginia Theological Seminary, a partnership between Virginians Or",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/dc10c59c02a51ef29182eb75.json"
-    },
-    {
-      "id": "cfa2eda5241af441cea15167",
-      "title": "Trump’s Greenland Deal Puts His Annexation Plans on Ice",
-      "url": "https://www.inoreader.com/article/3a9c6e767733a4ca",
-      "author": "Huw Paige",
-      "source": "Jacobin",
-      "published_at": "2026-09-28T19:47:08+00:00",
-      "content_excerpt": "Donald Trump recently concluded an agreement with the governments of Greenland and Denmark over the status of the Arctic island. Trump presented it as a big victory for his efforts, claiming that it granted the United States “permanent control over security, and all other needs, in Greenland, completely addressing ALL of our many US concerns.” The substance of the agreement told a different story. After doing lasting damage to the relationship between the United States and Europe, the Trump administration got more or less the same deal it could have obtained by asking politely. Trump’s repeatedly stated plan to acquire Greenland has been put on the back burner. End of the Saga? “Greenland belongs to the Greenlanders — it cannot be taken from us,” Greenlandic Prime Minister Jens Frederik Ni",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/cfa2eda5241af441cea15167.json"
     }
   ]
 }
