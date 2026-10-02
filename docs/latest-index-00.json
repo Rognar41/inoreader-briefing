@@ -1,12 +1,162 @@
 {
-  "generated_at": "2026-10-01T23:20:57.427048+00:00",
-  "generated_at_jst": "2026-10-02T08:20:57.427048+09:00",
-  "period_start": "2026-09-30T17:20:57.427048+00:00",
+  "generated_at": "2026-10-02T23:09:14.866682+00:00",
+  "generated_at_jst": "2026-10-03T08:09:14.866682+09:00",
+  "period_start": "2026-10-01T17:09:14.866682+00:00",
   "lookback_hours": 30,
   "folder": "00_毎日確認",
-  "article_count": 11,
+  "article_count": 13,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "9715ab269f8a256c14c4836c",
+      "title": "U.S. Imperialism Resulted in a Forgotten Genocide in the Philippines",
+      "url": "https://democraticleft.dsausa.org/2026/10/02/u-s-imperialism-resulted-in-a-forgotten-genocide-in-the-philippines",
+      "author": "Democratic Left",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-10-02T20:44:15+00:00",
+      "content_excerpt": "Contemporary authoritarianism and exploitation of the country’s working class are rooted in its past as a U.S. colony. The post U.S. Imperialism Resulted in a Forgotten Genocide in the Philippines appeared first on Democratic Left .",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/9715ab269f8a256c14c4836c.json"
+    },
+    {
+      "id": "78555449d1af035f2d1fccb5",
+      "title": "Rochester Red Star | October 2026 | (Issue 30)",
+      "url": "https://rocdsa.org/blog/rochester-red-star-october-2026-issue-30",
+      "author": "Rochester Red Star: News from Rochester DSA",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-10-02T20:44:15+00:00",
+      "content_excerpt": "Monthly Newsletter of the Rochester Chapter of Democratic Socialists of America Welcome to the October issue of Rochester Red Star , ROC DSA’s monthly newsletter. This month, find essays on DSA’s internal democracy, a voter guide, remarks on Marx, and more. You’ll also find upcoming events and coverage of chapter activities. Interested in contributing? Send submissions to bit.ly/SubmitRedStar , or get involved with our Communications Committee. Reach out to steering@rocdsa.org and join DSA today! October 2026 Newsletter (Online) Download The post Rochester Red Star | October 2026 | (Issue 30) first appeared on Rochester Red Star .",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/78555449d1af035f2d1fccb5.json"
+    },
+    {
+      "id": "e2e5cdd0fc1206eab0d01627",
+      "title": "IMCWP 24: Contribution of CP Mexico (PCM)",
+      "url": "https://mltoday.com/imcwp-24-contribution-of-cp-mexico-pcm-2",
+      "author": "MLToday",
+      "source": "MLToday",
+      "published_at": "2026-10-02T20:31:19+00:00",
+      "content_excerpt": "Comrades: We extend our fraternal greetings to all the communist and workers’ parties participating in this International Meeting of Communist and Workers’ Parties. We thank the Central Committee of the Communist Party of Cuba for organizing this 24th IMCWP, despite the very difficult conditions. This initiative arose within the framework of the 150th anniversary of the Communist Manifesto, at the invitation of the Communist Party of Greece. This forum has now been running for over a quarter of a century and has become a fundamental platform for the exchange of opinions and information, under the new conditions in which the international communist movement has had to operate after the predominance of market relations, incompatible with socialist construction, led to the temporary triumph o",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/e2e5cdd0fc1206eab0d01627.json"
+    },
+    {
+      "id": "7604825b520308dbdd2e1738",
+      "title": "The Stakes Are High in Brazil’s Upcoming Election",
+      "url": "https://jacobin.com/2026/10/brazil-election-scandal-inflation-lula-bolsonaro",
+      "author": "Alex MacArthur",
+      "source": "Jacobin",
+      "published_at": "2026-10-02T17:32:00+00:00",
+      "content_excerpt": "For a time this summer, Brazil’s presidential election seemed Luiz Inácio Lula da Silva’s to lose, and Latin America’s largest democracy appeared poised to hold its ground while right-wing candidates triumphed in Colombia, Peru, Honduras, Chile, and Panama, and the Left lost its long hold on Bolivia. Before, the race had been steadily tightening between the eighty-year-old president and his forty-five-year-old challenger, Flávio Bolsonaro, the blandly affable, lacquered version of his father, former President Jair Bolsonaro, who is serving a twenty-seven-year sentence for plotting a coup after his defeat. Even before Flávio’s candidacy was announced, polls had put Lula and Jair neck and neck in a hypothetical runoff, though the elder Bolsonaro was already ankle monitor–bound and barred fro",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/7604825b520308dbdd2e1738.json"
+    },
+    {
+      "id": "8f9c85010f4ef6314ec32021",
+      "title": "Honorable Men",
+      "url": "https://inthesetimes.com/article/cornell-seven-epstein-files",
+      "author": "",
+      "source": "In These Times",
+      "published_at": "2026-10-02T16:58:28+00:00",
+      "content_excerpt": "Free for any DSA or Union member Get 10 print issues of our award-winning, worker-first journalism here!",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/8f9c85010f4ef6314ec32021.json"
+    },
+    {
+      "id": "3c27a98572b1fd0dc7b2bfff",
+      "title": "Everything Has Protein Now",
+      "url": "https://inthesetimes.com/article/protein-comic-art-political-cartoon-manosphere-bro",
+      "author": "",
+      "source": "In These Times",
+      "published_at": "2026-10-02T16:58:28+00:00",
+      "content_excerpt": "Free for any DSA or Union member Get 10 print issues of our award-winning, worker-first journalism here!",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/3c27a98572b1fd0dc7b2bfff.json"
+    },
+    {
+      "id": "31e8e13dc7064dbe48668334",
+      "title": "West Point’s Honor Code Taught the Military to Lie",
+      "url": "https://jacobin.com/2026/10/the-death-of-honor",
+      "author": "Jasper Craven",
+      "source": "Jacobin",
+      "published_at": "2026-10-02T16:30:21+00:00",
+      "content_excerpt": "On May 12, 1962, General Douglas MacArthur strode into the West Point mess hall and delivered a stirring farewell address before an audience of more than two thousand cadets. It had been just over a year since another famed former general, President Dwight D. Eisenhower, had famously delivered his own closing warning about industry’s capture of the Pentagon. Now MacArthur seemed worried about the corruption of the American soldier’s soul — the death of honor itself. Honor was everything to MacArthur. Between 1919 and 1922, as West Point superintendent, he built cadet life around the academy’s hallowed motto, “Duty, Honor, Country.” He further instituted a cadet honor code and attendant honor boards, a quasi-judicial trial system meant to discourage unethical behavior and promote a culture ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/31e8e13dc7064dbe48668334.json"
+    },
+    {
+      "id": "e476be1eec46cca82c14748f",
+      "title": "Against the Politics of Communal Fear",
+      "url": "https://jacobin.com/2026/10/antisemitism-communal-identity-mamdani-universalism",
+      "author": "Bhaskar Sunkara",
+      "source": "Jacobin",
+      "published_at": "2026-10-02T15:59:21+00:00",
+      "content_excerpt": "New York City’s new municipal strategy to combat antisemitism comes just days after the war criminal Benjamin Netanyahu used his platform at the United Nations to call Zohran Mamdani “the antisemitic mayor of New York” and claim that since his election “many Jews no longer feel safe” in the city. The initiative seeks to expand education, support victims of hate crimes, and fund security at Jewish institutions and other houses of worship throughout the five boroughs. Laudable as any attempt to reduce animus is, the Left should view the plan skeptically. Antisemitism, it goes without saying, is an evil. And it’s an evil that socialists have particular reason to be concerned with. For centuries, the idea that powerful Jewish interests were at the heart of social injustice was widespread. Soci",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/e476be1eec46cca82c14748f.json"
+    },
+    {
+      "id": "47dadae91bdcd4e7642d84fd",
+      "title": "A Decade After His First Presidential Run, Bernie Isn’t Alone",
+      "url": "https://jacobin.com/2026/10/sanders-anniversary-socialists-elections-dsa",
+      "author": "Branko Marcetic",
+      "source": "Jacobin",
+      "published_at": "2026-10-02T13:59:27+00:00",
+      "content_excerpt": "If you’re anyone who veers remotely to the left politically, there are two eras: a time before Bernie Sanders ran for president, and a time after. The US political landscape before Sanders’s first presidential campaign looks today like an alien planet. There were virtually no socialists who held elected office, or at least those who admitted to it. The Democratic Socialists of America (DSA) was an obscure organization with a little over six thousand members across twenty-six chapters. Arguably the most prominent leftist figure was a curmudgeonly linguist who almost never appeared in mainstream media, Noam Chomsky. Only 59 percent of Democrats and less than half of independents were willing to vote for a socialist candidate. And the great progressive hope was a politician who flatly opposed",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/47dadae91bdcd4e7642d84fd.json"
+    },
+    {
+      "id": "4dcf544a6f16004f8b5e7722",
+      "title": "Jordan Bardella Isn’t Such a Friend of Jews After All",
+      "url": "https://jacobin.com/2026/10/bardella-rassemblement-national-france-antisemitism",
+      "author": "Marlon Ettinger",
+      "source": "Jacobin",
+      "published_at": "2026-10-02T12:59:38+00:00",
+      "content_excerpt": "As a young member of the Front National (today’s Rassemblement National), Jordan Bardella was an “obsessive antisemite,” according to a story published by investigative site Mediapart this Monday. “Banks are all controlled by Jews,” Bardella allegedly wrote in one message published by Mediapart . “The Jew must dominate other peoples, crush them and rob them,” read another. “A Zionist is necessarily Jewish, and deeply so.” Bardella, who was the Rassemblement National’s candidate for prime minister in 2024 and who has been president of the party since 2022, denies having written the messages, which Mediapart says date from between 2013 and 2015. “These comments are completely outrageous. They’re not mine. . . . I dispute them,” Bardella said in a television interview on Monday night , adding",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/4dcf544a6f16004f8b5e7722.json"
+    },
     {
       "id": "ccf26f4f997653ee4ac87452",
       "title": "Brazil Faces a Crucial Choice on Oct. 4",
@@ -51,126 +201,6 @@
       "priority": 1,
       "date_missing": false,
       "article_path": "articles/07a05a2bdda520f86aaf29bf.json"
-    },
-    {
-      "id": "5af1be6090a43a6e9eddbaaa",
-      "title": "American Capitalism Isn’t Just Billionaires",
-      "url": "https://jacobin.com/2026/10/review-millionaires-wealth-distribution-pass-throughs",
-      "author": "Daniel Colligan",
-      "source": "Jacobin",
-      "published_at": "2026-10-01T16:59:20+00:00",
-      "content_excerpt": "When one thinks of the rich in the United States, the first people who come to mind are the megabillionaires whose extravagant consumption, eye-popping wealth, and notorious political interventions have transformed them into household names. Perched atop the Forbes 400 list of America’s richest individuals are Silicon Valley moguls and Wall Street executives who command some of the most prominent corporations in America. Beneath this elite stratum of capitalists lies a vastly less conspicuous group of still-wealthy but lesser-known business owners. Far more numerous and more geographically dispersed across the country than their billionaire brethren, this “ American Gentry ” exercises great influence on local, state, and even national politics. The relatively scant attention they receive c",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/5af1be6090a43a6e9eddbaaa.json"
-    },
-    {
-      "id": "e9262ddbdeab0ef6e4091b98",
-      "title": "Big Idea: Vinyl",
-      "url": "https://inthesetimes.com/article/big-idea-vinyl-music-hipster-spotify-kurt-vonnegut",
-      "author": "",
-      "source": "In These Times",
-      "published_at": "2026-10-01T16:02:04+00:00",
-      "content_excerpt": "1 . an analog sound format requiring physical care and attention 2 . a small act of rebellion against the algorithm Kurt Vonnegut (a former In These Times senior editor, by the way!) once told a story about refusing to buy 100 envelopes online: ​ “ I’m going to have a hell of a good time in the process of buying one envelope,” he said. ​ “ I meet a lot of people.” The moral, he said, was that we’re here to enjoy the world and the people in it, a facet of human life computers have changed. Vinyl is the envelope. It makes you leave the house. ​ “ And, of course, the computers will do us out of that,” he said. But ​ “ what the computer people don’t realize, or they don’t care, is we’re dancing animals. We love to move around. And we’re not supposed to dance at all anymore.” We have better tec",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/e9262ddbdeab0ef6e4091b98.json"
-    },
-    {
-      "id": "50d4a4f518ac3cf162acf1d7",
-      "title": "Eric Hobsbawm Owed His Success to Mass Culture",
-      "url": "https://jacobin.com/2026/10/hobsbawm-history-marxism-eurocentrism-biography",
-      "author": "Erik Linstrum",
-      "source": "Jacobin",
-      "published_at": "2026-10-01T15:28:26+00:00",
-      "content_excerpt": "More than the “revolutionary historian” promised by the subtitle, the Eric Hobsbawm chronicled in Emile Chabal’s biography is above all a canny academic entrepreneur. Early in his career, Hobsbawm found a literary agent and converted his lectures for undergraduates into a series of best-selling books. He made valuable contacts with rising-star scholars and publishing houses in continental Europe. He traveled widely: not so much for archival research, which he practiced sparingly, but for conferences, lectures, and intellectual tourism in appealing destinations. The Soviet Union, which occupied a central place in his thought for obvious reasons, did not qualify for more than a brief, unpleasant visit. He displayed a knack for keeping himself in the public eye, with a steady stream of journa",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/50d4a4f518ac3cf162acf1d7.json"
-    },
-    {
-      "id": "5ec5ac582567922579c51461",
-      "title": "The Bosses’ Oldest Dream",
-      "url": "https://jacobin.com/2026/10/ai-labor-discipline-replacement-jobs",
-      "author": "Garrison Lovely",
-      "source": "Jacobin",
-      "published_at": "2026-10-01T14:27:35+00:00",
-      "content_excerpt": "The English inventor Charles Babbage is best remembered for his work designing the foundations for all digital computers with Ada Lovelace in the nineteenth century. What’s lesser known is why he wanted to build them. In the decades leading up to the British Empire’s abolition of slavery in the West Indies in 1833 (which Babbage supported), there was a serious question of how to get free and rebellious industrial workers to produce enough to sustain the empire. Babbage’s answer was to surveil workers and divide their efforts into standardized, measurable tasks — a project he saw as a necessary step on the way to automating labor entirely. Babbage didn’t invent these methods, as Meredith Whittaker, an artificial intelligence scholar who coled Google’s 2018 walkout, writes in a Logic(s) essa",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/5ec5ac582567922579c51461.json"
-    },
-    {
-      "id": "3195c0788eb44b1114d48bbd",
-      "title": "A Decade of Bernie Sanders’s Transformation of America",
-      "url": "https://jacobin.com/2026/10/sanders-ten-year-anniversary-2016-primary",
-      "author": "Meagan Day",
-      "source": "Jacobin",
-      "published_at": "2026-10-01T14:27:35+00:00",
-      "content_excerpt": "Over the past decade since his first presidential run, no one has done more to reshape the American left than Bernie Sanders. He is the most influential left-wing leader this country has seen since the 1960s, if not longer. While Sanders’s political career began decades earlier, his influence took on national dimensions ten years ago, when Sanders first campaigned for president against Hillary Clinton in the Democratic primary. He lost that campaign, but few losses have looked so much like a victory. Clinton has no political heirs openly claiming her legacy; indeed, today’s technocratic centrists squirm away from the association. Meanwhile, Sanders has dozens of self-professed acolytes at the federal level, hundreds or even thousands at the state and local levels, and an organization in th",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/3195c0788eb44b1114d48bbd.json"
-    },
-    {
-      "id": "27fe5be7037c5e19255a0e92",
-      "title": "Obama’s Monument to Empty Liberalism",
-      "url": "https://jacobin.com/2026/10/a-peoples-organization-without-the-people",
-      "author": "Natasha Lasky",
-      "source": "Jacobin",
-      "published_at": "2026-10-01T14:27:35+00:00",
-      "content_excerpt": "“When I first saw it, I was like, ‘It’s a block.’” Woodlawn resident Linda Spears had been watching the construction of the Obama Foundation’s sprawling campus from her condo overlooking Jackson Park in Chicago, but it wasn’t until opening weekend, when the barriers came down, that she finally went inside. Sitting on a bench near the Barack Obama Presidential Center’s playground, she recited the former president’s 2015 speech on the fiftieth anniversary of the Selma to Montgomery march from memory, as if echoing the words that appeared on the facade behind us. Spears explained that the museum tower at the Obama Presidential Center had actually been designed to resemble four hands reaching upward. She pressed her hands against those of a young woman beside her, as if playing patty-cake. “It",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/27fe5be7037c5e19255a0e92.json"
-    },
-    {
-      "id": "820482507d6f4d3cce8de051",
-      "title": "Ireland’s Matches Against Israel Should Have Been Canceled",
-      "url": "https://jacobin.com/2026/10/ireland-israel-football-boycott-bazunu",
-      "author": "Luan Rogers",
-      "source": "Jacobin",
-      "published_at": "2026-10-01T12:58:34+00:00",
-      "content_excerpt": "On Sunday night, the Irish soccer team bowed their heads in silence as the Israeli anthem echoed through the all but empty Nagyerdei Stadium in Debrecen, Hungary’s second-largest city. The Irish players, who wore black armbands, skipped the traditional pregame rituals. There were no handshakes, no pennants, and (for the most part) no fans. After months of deliberations and growing demands for a boycott, these trite gestures of dissent were all the Irish team could muster. Having spurned an opportunity to set an international precedent, the Football Association of Ireland (FAI) succumbed to fear, meekly agreeing to go through with the matches. This was a decision that the Irish players had seemed destined to glumly accept until some final deliberations nearly scuttled the ship at the eleven",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/820482507d6f4d3cce8de051.json"
-    },
-    {
-      "id": "42b21196b23dafea7a774b15",
-      "title": "Frederick Douglass Had a Radical Respect for the Constitution",
-      "url": "https://jacobin.com/2026/09/frederick-douglass-constitution-slavery-interpretation",
-      "author": "Bradley Rebeiro",
-      "source": "Jacobin",
-      "published_at": "2026-09-30T18:30:30+00:00",
-      "content_excerpt": "Is the US Constitution for or against slavery? Questions concerning the legacy of America’s founding and how to interpret the Constitution have long gripped public discourse; in recent years they have become inseparable. From the 1980s came the originalists, a group of legal theorists who sought to recover the Constitution’s original meaning through textual analysis buttressed by historical investigation. Adhering to the document’s original meaning, they argue, promotes institutional stability and the rule of law. Scholars have long contested these claims, challenging the plausibility of recovering an “original meaning” or doubting the authoritative nature of such meaning even if discovered. Recently, however, a second phenomenon has brought constitutional discourse closer to political dis",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/42b21196b23dafea7a774b15.json"
     }
   ]
 }

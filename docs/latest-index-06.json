@@ -1,12 +1,282 @@
 {
-  "generated_at": "2026-10-01T23:20:57.427048+00:00",
-  "generated_at_jst": "2026-10-02T08:20:57.427048+09:00",
-  "period_start": "2026-09-30T17:20:57.427048+00:00",
+  "generated_at": "2026-10-02T23:09:14.866682+00:00",
+  "generated_at_jst": "2026-10-03T08:09:14.866682+09:00",
+  "period_start": "2026-10-01T17:09:14.866682+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
   "article_count": 20,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "f72ea49a156144e67901adff",
+      "title": "Paging Hezbollah? Exposing Israel’s terrorist pager attack on Lebanon | w/ Radwan Mortada",
+      "url": "https://breakthroughnews.org/2026/10/02/paging-hezbollah-exposing-israels-terrorist-pager-attack-on-lebanon-w-radwan-mortada",
+      "author": "Rania Khalek",
+      "source": "BT News",
+      "published_at": "2026-10-02T22:27:39+00:00",
+      "content_excerpt": "Two years after Israel’s pager attacks on Lebanon killed dozens and maimed thousands, Lebanese investigative journalist Radwan Mortada’s new two-part Al Jazeera documentary, The Trap (Al-Mesyada), goes inside the September 2024 Mossad operation more than a decade in the making. Mortada joins Rania Khalek to trace the web of front companies stretching from Taiwan to Bulgaria that enabled Israel to infiltrate Gold Apollo, a supplier Hezbollah had trusted for decades. As a new Israeli propaganda film Paging Hezbollah heads for US theaters, Mortada reveals that Israel’s goal to kill as many as 20,000 Hezbollah fighters with booby-trapped walkie-talkies, in fact, fell far short. He also breaks down Hezbollah’s own fatal mistakes, and the lasting psychological toll of a terrorist attack that, co",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/f72ea49a156144e67901adff.json"
+    },
+    {
+      "id": "c21a6b316e07fb03f874bb81",
+      "title": "Brazil bans online betting",
+      "url": "https://www.brasildefato.com.br/2026/10/02/brazil-bans-online-betting",
+      "author": "",
+      "source": "Brasil de Fato",
+      "published_at": "2026-10-02T20:47:53+00:00",
+      "content_excerpt": "The impasse is over. After days of uncertainty over what Brazil should do about online betting, President Luiz Inácio Lula da Silva’s government announced Friday in São Paulo that sports betting houses will be shut down nationwide. Online casinos, including gambling games such as Tigrinho , are banned as well. The bans on bets and online casinos took effect immediately. Lula is also expected to send Congress a bill establishing penalties for anyone who operates, runs, or promotes betting. The move came through a decree signed by Lula, which took effect right away. Finance Minister Dario Durigan made the announcement and explained the reasoning. “Our decision stems from the harmful effect that bets have had in Brazil,” Durigan said. He pointed to two moments of “shame and neglect” in how be",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/c21a6b316e07fb03f874bb81.json"
+    },
+    {
+      "id": "28157336dff16c73256376f3",
+      "title": "Lula and Trump Defend Opposing World Views at UN General Assembly",
+      "url": "https://www.brasildefato.com.br/2026/10/02/lula-and-trump-defend-opposing-world-views-at-un-general-assembly",
+      "author": "",
+      "source": "Brasil de Fato",
+      "published_at": "2026-10-02T20:47:53+00:00",
+      "content_excerpt": "The two main speeches at the opening of the U.N. General Assembly were delivered by Brazilian President Luiz Inácio Lula da Silva and U.S. President Donald Trump. The leaders addressed many of the same issues, but their speeches offered sharply contrasting visions of the global order. Sérgio Costa, a sociology professor at the Free University of Berlin, described Lula’s speech as important and forceful, not only for its defense of multilateralism, but also for the statesmanship Lula displayed in his address. “I think Lula made this very clear: multilateralism is essential to global health, for example. Without multilateralism, we face vaccine shortages and the return of diseases that had been eradicated. Climate and the environment are multilateral issues. So is preventing wars, especially",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/28157336dff16c73256376f3.json"
+    },
+    {
+      "id": "b57f838024b2db774b0c465f",
+      "title": "Sliman Mansour: A Life Spent Painting Hope",
+      "url": "https://mronline.org/2026/10/02/sliman-mansour-a-life-spent-painting-hope",
+      "author": "Samia Tawil",
+      "source": "MR Online",
+      "published_at": "2026-10-02T20:25:21+00:00",
+      "content_excerpt": "The late Palestinian painter Sliman Mansour left the world a precious legacy: an art whose symbolism mourns the longest exile of our age. The post Sliman Mansour: A Life Spent Painting Hope appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/b57f838024b2db774b0c465f.json"
+    },
+    {
+      "id": "f799534490bd482b92bbbdea",
+      "title": "‘Cut ties with Palantir’, say UK’s health workers",
+      "url": "https://breakthroughnews.org/2026/10/02/cut-ties-with-palantir-say-uks-health-workers",
+      "author": "Ana Vračar",
+      "source": "BT News",
+      "published_at": "2026-10-02T20:24:45+00:00",
+      "content_excerpt": "On Thursday, October 1, health workers, patients, and activists protested Palantir’s role in the National Health Service (NHS) at more than 40 locations across England. Their demonstrations were part of a global week of action demanding that governments cut ties with the spy-tech firm over human rights and privacy concerns. Rallies took place in front of Palantir’s London headquarters, as well as in Liverpool, Manchester, Newcastle, Sheffield and many more cities. “Palantir’s tools are used by the Israeli military in Gaza and by ICE to track and surveil migrants in the US,” campaign groups – including Just Treatment, Health Workers for a Free Palestine, Medact, and Global Justice Now – stated . “A company profiting from human rights violations has no place in the NHS or in any of our publi",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/f799534490bd482b92bbbdea.json"
+    },
+    {
+      "id": "05e168ef074fad1510608edd",
+      "title": "Israel to divide central West Bank with settler-only highway",
+      "url": "https://breakthroughnews.org/2026/10/02/israel-to-divide-central-west-bank-with-settler-only-highway",
+      "author": "Aseel Saleh",
+      "source": "BT News",
+      "published_at": "2026-10-02T20:24:45+00:00",
+      "content_excerpt": "In late September, Israeli media reported that Netanyahu’s government intends to adjust access to key routes in the central West Bank. It plans to reopen Route 463 to settler-only traffic in the governorate of Ramallah and Al-Bireh. Yisrael Gantz , the leader of the Yesha Council (an umbrella organization representing Israeli municipal councils across Israeli settlements in the West Bank and the Jordan Valley) confirmed that plans to reopen the road received preliminary approval and funding. Preparations are also underway by the Israeli military to complete “the security, legal, and logistical” steps required to reopen the route (also known as Wallerstein Road). History of the road The road was paved in 1994 under the directions of Pinchas Wallerstein, a founder of the settlement movement,",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/05e168ef074fad1510608edd.json"
+    },
+    {
+      "id": "c14c0cb86f339c317742e044",
+      "title": "Life on the edge of Israel’s occupation in southern Lebanon",
+      "url": "https://mondoweiss.net/2026/10/life-on-the-edge-of-israels-occupation-in-southern-lebanon",
+      "author": "Silvia Casadei",
+      "source": "Mondoweiss",
+      "published_at": "2026-10-02T19:29:27+00:00",
+      "content_excerpt": "As part of a U.S.-brokered agreement with Israel and Lebanon, residents of some southern villages are cautiously returning to their homes. What they have found is a shell of their former lives, and a daily menacing presence of the Israeli occupation.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/c14c0cb86f339c317742e044.json"
+    },
+    {
+      "id": "0a42a7eea378eec5a6bc551d",
+      "title": "J Street is trying to rescue Zionism in the battle over Israel’s future in the Democratic Party",
+      "url": "https://mondoweiss.net/2026/10/j-street-is-trying-to-rescue-zionism-in-the-battle-over-israels-future-in-the-democratic-party",
+      "author": "Mitchell Plitnick",
+      "source": "Mondoweiss",
+      "published_at": "2026-10-02T17:27:30+00:00",
+      "content_excerpt": "The contours of the battle over the future of the Democrats' policy toward Israel are starting to take shape, and J Street is trying to cement support for the existence of a Jewish ethno-state as the Party's bottom line.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/0a42a7eea378eec5a6bc551d.json"
+    },
+    {
+      "id": "f544bac984b05dc1cca5305b",
+      "title": "“Cruel & Torturous”: Christa Pike in Critical Condition After Botched Tennessee Execution",
+      "url": "https://www.democracynow.org/2026/10/2/christa_pike",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-10-02T13:54:15+00:00",
+      "content_excerpt": "Tennessee’s Governor Bill Lee has halted executions for the remainder of the year after a death row prisoner survived two lethal injections on Wednesday. According to her lawyers, Christa Pike was still breathing after she was strapped to a gurney and injected with two syringes of pentobarbital in a botched execution that spanned more than two hours. Prior to the scheduled execution, Pike and her lawyers argued a single-dose lethal injection could be tantamount to torture due to Pike’s small veins. Pike was sentenced to death for a 1995 murder she committed when she was 18. Now in the hospital in critical condition, she is the first person to ever survive lethal injection in the United States. “I have seen five executions in Tennessee,” says Steven Hale, a criminal justice reporter for the",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/f544bac984b05dc1cca5305b.json"
+    },
+    {
+      "id": "4ff8d334f6d45123b7bb235e",
+      "title": "“The School That Became a Grave”: Jeremy Scahill on U.S Bombing of Minab, Killing 120+ Iranian Kids",
+      "url": "https://www.democracynow.org/2026/10/2/massacre_at_minab",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-10-02T13:54:15+00:00",
+      "content_excerpt": "Drop Site News released a major investigation this week into the U.S. bombing of the Shajareh Tayyebeh children’s school in the Iranian city of Minab on February 28, the first day of the U.S.-Israeli war on Iran. Drop Site spoke to survivors, first responders, parents and witnesses in one of the most in-depth reports on the massacre to date. The bombing killed at least 156 people — 120 of the victims were children, 26 were teachers, and the rest were parents. A United Nations fact-finding mission recently concluded that the U.S. strike was a war crime, but the Trump administration has not yet even acknowledged U.S. responsibility. “This was not a single bombing or collateral damage,” says Drop Site News ’s Jeremy Scahill, lead author of the investigation. “There were at least two direct hi",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/4ff8d334f6d45123b7bb235e.json"
+    },
+    {
+      "id": "393aeb6b67cb9c92e50f3a2e",
+      "title": "The critical minerals beneath the Trump corollary: The Fortieth Newsletter (2026)",
+      "url": "https://mronline.org/2026/10/02/the-critical-minerals-beneath-the-trump-corollary-the-fortieth-newsletter-2026",
+      "author": "Vijay Prashad",
+      "source": "MR Online",
+      "published_at": "2026-10-02T13:14:49+00:00",
+      "content_excerpt": "The imperial drive to monopolise critical minerals unmasks a renewed strategic architecture: securing military and industrial supply chains enforces peripheral subordination, turning sovereign nations across the Global South into captive reservoirs for Western capital. The post The critical minerals beneath the Trump corollary: The Fortieth Newsletter (2026) appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/393aeb6b67cb9c92e50f3a2e.json"
+    },
+    {
+      "id": "2a675adc7c5f0c2ed96072c2",
+      "title": "Karl Marx and German classical philosophy",
+      "url": "https://mronline.org/2026/10/02/karl-marx-and-german-classical-philosophy",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-02T12:13:52+00:00",
+      "content_excerpt": "On March 14th, 1883, Karl Marx passed away. On that day the proletariat of the entire terrestrial globe lost its brilliant and devoted leader. The post Karl Marx and German classical philosophy appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/2a675adc7c5f0c2ed96072c2.json"
+    },
+    {
+      "id": "3bade68f3fa7a15ff3480439",
+      "title": "Israeli settlers target a Ramallah road, and the city’s future with it",
+      "url": "https://mondoweiss.net/2026/10/israeli-settlers-target-a-ramallah-road-and-the-citys-future-with-it",
+      "author": "Qassam Muaddi",
+      "source": "Mondoweiss",
+      "published_at": "2026-10-02T11:18:28+00:00",
+      "content_excerpt": "Israel is preparing to give settlers access to a main Palestinian thoroughfare in Ramallah, a move that would bring checkpoints and gates to one of the West Bank’s last spaces of free Palestinian movement and affordable urban growth.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/3bade68f3fa7a15ff3480439.json"
+    },
+    {
+      "id": "28b6fdca6bff7782a076a819",
+      "title": "Trump amb. to Greece causes stir: U.S. has power to topple governments",
+      "url": "https://mronline.org/2026/10/02/trump-amb-to-greece-causes-stir-u-s-has-power-to-topple-governments",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-02T11:13:10+00:00",
+      "content_excerpt": "Remarks by Trump’s envoy raise fresh questions over U.S. meddling in Romania’s political crisis and the fall of its government. The post Trump amb. to Greece causes stir: U.S. has power to topple governments appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/28b6fdca6bff7782a076a819.json"
+    },
+    {
+      "id": "c6c88e69ef08088145955630",
+      "title": "Justice Department: Joining protests for Cuba is a crime",
+      "url": "https://mronline.org/2026/10/02/justice-department-joining-protests-for-cuba-is-a-crime",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-02T10:12:38+00:00",
+      "content_excerpt": "“Hands Off Cuba!” picket by Minneapolis Cuba Committee June 3. Protests are crucial in fight to end U.S. gov’t blockade, threats of war. Cuban people will never give up their revolution. The post Justice Department: Joining protests for Cuba is a crime appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/c6c88e69ef08088145955630.json"
+    },
+    {
+      "id": "72b604793257f6b390283f7d",
+      "title": "Project 2025 takes shape in Latin America’s far-Right governments",
+      "url": "https://mronline.org/2026/10/02/project-2025-takes-shape-in-latin-americas-far-right-governments",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-02T09:15:33+00:00",
+      "content_excerpt": "The ultra-conservative document drafted by the Heritage Foundation as a roadmap for Republican governance has not only fulfilled the fascist dream of the United States, but this roadmap is now being used by the governments of the Shield of the Americas. The post Project 2025 takes shape in Latin America’s far-Right governments appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/72b604793257f6b390283f7d.json"
+    },
+    {
+      "id": "04a4d11c4b79c64a94ee30cd",
+      "title": "Brazil’s election becomes a regional battleground",
+      "url": "https://breakthroughnews.org/2026/10/02/brazils-election-becomes-a-regional-battleground",
+      "author": "Pablo Meriguet",
+      "source": "BT News",
+      "published_at": "2026-10-02T05:13:11+00:00",
+      "content_excerpt": "Brazil’s presidential elections are sparking reactions across the region. The economic (and, by extension, geopolitical) importance of this South American giant leaves no regional politician or social organization indifferent, as they know that much of the continent’s future is at stake at the Brazilian polls. Support for Bolsonaro from Washington and Milei Flávio Bolsonaro, son of the far-right former president Jair Bolsonaro (who is in prison for conspiring to carry out a coup d’état against Lula da Silva), has received explicit support from Argentine President Javier Milei – a move that cost Buenos Aires a diplomatic crisis with Brasília due to the Argentine leader’s anti-Lula statements made on Brazilian soil. Likewise, Flávio Bolsonaro enjoys the direct support of President Donald Tru",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/04a4d11c4b79c64a94ee30cd.json"
+    },
+    {
+      "id": "bb6df0e4f01d4b20f94a2db0",
+      "title": "Standoff in the North of Ireland over loyalist ‘Orange’ march continues",
+      "url": "https://breakthroughnews.org/2026/10/02/standoff-in-the-north-of-ireland-over-loyalist-orange-march-continues",
+      "author": "Ana Vračar",
+      "source": "BT News",
+      "published_at": "2026-10-02T05:13:11+00:00",
+      "content_excerpt": "Since Sunday , September 27, residents of Garvaghy Road in Portadown have prevented the Orange Order’s Drumcree march from passing through their community. Linking arms, locals and supporters warned that the parade could undo years of progress against sectarian violence in the north of Ireland. More than 4,000 people signed petitions opposing the march, yet authorities formally allowed it to move ahead. First, the Parades Commission approved a limited procession. Then, the Court of Appeal lifted an injunction imposed by the High Court, paving the way for the march attempt on Sunday. Read more: On anniversary of Easter Rising, calls for Irish unity are strengthened Negotiations to end the stand-off continued Thursday evening. According to local media, an earlier proposal suggested residents",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/bb6df0e4f01d4b20f94a2db0.json"
+    },
     {
       "id": "e8d9dab745506faadf93d834",
       "title": "The fight against Korean deployment to Hormuz continues",
@@ -36,276 +306,6 @@
       "priority": 2,
       "date_missing": false,
       "article_path": "articles/e94d1e78a16bdadca36eb55b.json"
-    },
-    {
-      "id": "fdcf979e497d609337625ceb",
-      "title": "AI’s real crisis: the $4 trillion bet that could crash the US economy",
-      "url": "https://breakthroughnews.org/2026/10/01/ais-real-crisis-the-4-trillion-bet-that-could-crash-the-us-economy",
-      "author": "Zoe Alexandra",
-      "source": "BT News",
-      "published_at": "2026-10-01T22:06:43+00:00",
-      "content_excerpt": "Is the AI bubble about to burst? Tech giants like Alphabet, Amazon, Meta, Microsoft, and Oracle are betting over $4 trillion on data centers, chips, and AI models – but the profits aren’t there yet, and the cash is running out. Michael Roberts, economist and author of The Next Recession blog, joins Zoe Alexandra to break down the reality behind the AI boom – what he calls the biggest economic gamble in US history – and who will pay the price when the house of cards comes down. Roberts explains how circular financing keeps AI companies afloat, what Chinese open-source models undercutting OpenAI and Anthropic mean for US workers, and why grassroots opposition to data centers is a reasonable response to hyperscale projects that drain power and water while creating few jobs. He warns of a 2008",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/fdcf979e497d609337625ceb.json"
-    },
-    {
-      "id": "f1594755691eb9ac69507df5",
-      "title": "Ghana swiftly rejects US health deal, calls it ‘humiliating’",
-      "url": "https://breakthroughnews.org/2026/10/01/ghana-swiftly-rejects-us-health-deal-calls-it-humiliating",
-      "author": "Nicholas Mwangi",
-      "source": "BT News",
-      "published_at": "2026-10-01T21:05:45+00:00",
-      "content_excerpt": "Ghana has rejected a proposed health compact with the United States that would have provided an estimated $109 million in US health funding over five years, with President John Dramani Mahama saying the agreement raised serious concerns over health data, financing obligations, and Ghana’s regulatory authority. The decision places Ghana among a few African countries that have pushed back against new US health agreements introduced as Washington restructures its foreign assistance following the dismantling of USAID. Zimbabwe has also rejected a similar agreement, while Zambia has raised concerns over provisions in its negotiations with the United States. Ghana raises concerns over health data Speaking at the Council on Foreign Relations in New York on September 25, Mahama said the proposed c",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/f1594755691eb9ac69507df5.json"
-    },
-    {
-      "id": "3c55c7a9a4760a45f9aa9d0f",
-      "title": "China’s rise: from Century of Humiliation to global superpower w/ Ken Hammond",
-      "url": "https://breakthroughnews.org/2026/10/01/chinas-rise-from-century-of-humiliation-to-global-superpower-w-ken-hammond",
-      "author": "Amanda Yee",
-      "source": "BT News",
-      "published_at": "2026-10-01T20:03:47+00:00",
-      "content_excerpt": "On October 1, 1949, Mao Zedong stood in Tiananmen Square and declared the founding of the People’s Republic of China, bringing an end to the “Century of Humiliation” and setting a nation representing a quarter of humanity on a path toward self-determination. Seventy-seven years later, China stands as a global superpower, navigating a rapidly shifting multipolar world order and escalating containment pressures from the United States. Professor of East Asian and global history Dr. Ken Hammond joins Amanda Yee to break down the historical, economic, and geopolitical forces that have shaped modern China’s development and foreign policy over the past 77 years.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/3c55c7a9a4760a45f9aa9d0f.json"
-    },
-    {
-      "id": "736728d075b735e00882fe3f",
-      "title": "An Important Message from John Bellamy Foster",
-      "url": "https://mronline.org/2026/10/01/an-important-message-from-john-bellamy-foster",
-      "author": "John Bellamy Foster",
-      "source": "MR Online",
-      "published_at": "2026-10-01T19:04:19+00:00",
-      "content_excerpt": "Monthly Review will continue to address the structural crises of capitalism and humanity’s necessary struggle for a socialist world order. But to do so, we need your help. The post An Important Message from John Bellamy Foster appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/736728d075b735e00882fe3f.json"
-    },
-    {
-      "id": "a46ae47b3f97cc0a923e5006",
-      "title": "‘They face an existential threat’: Eli Clifton on the past, present, and future of the Israel Lobby",
-      "url": "https://mondoweiss.net/2026/10/they-face-an-existential-threat-eli-clifton-on-the-past-present-and-future-of-the-israel-lobby",
-      "author": "Michael Arria",
-      "source": "Mondoweiss",
-      "published_at": "2026-10-01T17:53:47+00:00",
-      "content_excerpt": "Eli Clifton speaks to Mondoweiss about the upcoming U.S. midterm elections, the shifting landscape of AIPAC, and his new book, Israel's Lobby: America in the Grip of a Foreign Power.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/a46ae47b3f97cc0a923e5006.json"
-    },
-    {
-      "id": "c322d6d608661cfa1300026f",
-      "title": "Prosecutor leading investigation of Cerimedo arrested by Bolivian police, days after facing US sanctions",
-      "url": "https://breakthroughnews.org/2026/10/01/prosecutor-leading-investigation-of-cerimedo-arrested-by-bolivian-police-days-after-facing-us-sanctions",
-      "author": "Pablo Meriguet",
-      "source": "BT News",
-      "published_at": "2026-10-01T16:00:20+00:00",
-      "content_excerpt": "On the evening of Wednesday, September 30, Bolivian police arrested Attorney General Roger Mariaca and raided the Attorney General’s Office in Sucre and Santa Cruz. The police action comes just days after the US State Department sanctioned and revoked the visas of Mariaca and 21 other Bolivians. Analysts suggest that the timing of the US sanctions, Mariaca’s arrest, and the raids, are no coincidence, calling it “political pressure” related to a high-profile case. Mariaca is leading the investigation into Argentine political consultant Fernando Cerimedo. The influential political advisor to Latin America’s far right allegedly influenced elections through social media bot farms, may be involved in drug trafficking, and was accused of ordering an assassination attempt on his ex-partner, Nadia",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/c322d6d608661cfa1300026f.json"
-    },
-    {
-      "id": "d8a03e5c4b60c8385fcf096e",
-      "title": "Gathering Forces: Election Defense In Authoritarian Times",
-      "url": "https://convergencemag.com/articles/gathering-forces-election-defense-in-authoritarian-times",
-      "author": "Marcy Rein",
-      "source": "Convergence",
-      "published_at": "2026-10-01T15:51:32+00:00",
-      "content_excerpt": "As voter suppression ramps up and election sabotage starts to play out, democracy defenders are strategizing in and across sectors and geographies, breaking silos between electoral work, community defense, and mutual aid. They’re preparing to defend voters, the election process, and if needed, the election results–even as they gear up to turn out an anti-authoritarian vote too big to be denied. Source",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/d8a03e5c4b60c8385fcf096e.json"
-    },
-    {
-      "id": "fd196e4abc4202269fcab0c3",
-      "title": "The Real Existential Risk Is AI CEOs Avoiding Oversight: “Alternative Nobel” Winner Timnit Gebru",
-      "url": "https://www.democracynow.org/2026/10/1/timnit_gebru_ai",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-10-01T14:47:06+00:00",
-      "content_excerpt": "This is a rush transcript. Copy may not be in its final form. NERMEEN SHAIKH : On Tuesday, President Trump and leading tech and AI executives signed a set of voluntary safety standards for artificial intelligence. Trump announced the agreement at the White House alongside SpaceX’s Elon Musk, Meta’s Mark Zuckerberg, Anthropic’s Dario Amodei, Nvidia’s Jensen Huang, OpenAI’s Greg Brockman, Google’s Sundar Pichai and others. PRESIDENT DONALD TRUMP : These are the most brilliant people in the world, and the job they’ve done is unbelievable. We have a very big lead, and we’re going to keep our lead. And it’s a very positive thing. It’s an amazing industry. There are those that say it’s bigger than the Industrial Revolution. Now, I don’t know if that’s so, but everyone seems to think it is, and i",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/fd196e4abc4202269fcab0c3.json"
-    },
-    {
-      "id": "2046a7fe4c14f90ebcbe2e2d",
-      "title": "“Berlin 4” Lawyer on Pro-Palestine Protest Crackdown & Germany’s Unconditional Support for Israel",
-      "url": "https://www.democracynow.org/2026/10/1/germany_palestine_advocacy_crackdown",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-10-01T14:47:06+00:00",
-      "content_excerpt": "Democracy Now! 's Amy Goodman is in Berlin, Germany, this week, where the crackdown on pro-Palestine speech is shaped by the German policy of Staatsräson , or “reason of state.” The concept refers to Germany's commitment to the existence of the Israeli state in light of the Holocaust. Since the start of Israel’s war on Gaza in 2023, Staatsräson has manifested itself as German military aid to Israel and heavy policing of Palestine activism inside Germany. “Germany’s guilt regarding the Holocaust” has been “abused to justify the support of the genocidal war of Israel against the population in Gaza,” says Berlin-based lawyer Alexander Gorski, who recently represented the “Berlin Four,” three European Union citizens and one United States citizen whom Germany attempted to deport for participati",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/2046a7fe4c14f90ebcbe2e2d.json"
-    },
-    {
-      "id": "7ce3e89a6f9ca2055d9211c0",
-      "title": "Rise of the Far Right in Germany Raises Fear of an Even Wider Crackdown on Migration",
-      "url": "https://www.democracynow.org/2026/10/1/germany_europe_asylum_seekers",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-10-01T14:47:06+00:00",
-      "content_excerpt": "As we continue our coverage on the rise of right-wing political parties across Europe, we speak to Wiebke Judith from the German organization for asylum seekers’ rights, PRO ASYL , about Germany’s far-right party Alternative für Deutschland, or AfD, and its recent wins in September’s state elections. Judith calls the historic wins — won by margins not seen in German elections since the Nazi era — “deeply concerning for everyone who cares about our democracy,” and says that the growing influence of the AfD’s anti-immigration stance over the German political landscape poses grave risks to refugees, asylum seekers, immigrants and ethnic minorities in the country.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/7ce3e89a6f9ca2055d9211c0.json"
-    },
-    {
-      "id": "5529197b2c22b9cbe0f5b815",
-      "title": "The economics of U.S. imperialism (part 1)",
-      "url": "https://tempestmag.org/2026/10/the-economics-of-u-s-imperialism-part-1",
-      "author": "G. Stewart",
-      "source": "Tempest",
-      "published_at": "2026-10-01T05:53:36+00:00",
-      "content_excerpt": "T he U.S. economy is undergoing its biggest-ever capital investment boom, driven by government industrial policies, corporate tax cuts and AI data center spending. Profits as a share of the economy are at their highest in eighty years. The stock market routinely smashes records, and the unemployment rate remains near historic lows. Such economic upswings normally spell political success for a U.S. president. But Donald Trump’s poll numbers are miserable, not only because of outrage over his reactionary policies but also because of working-class frustration about the cost of living and worries about AI-driven job losses. What’s more, the unpopular U.S. war on Iran and its global energy disruption, along with the trade war with China and other countries, have affected the U.S., driving up in",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/5529197b2c22b9cbe0f5b815.json"
-    },
-    {
-      "id": "ec43166233a5d8687dcd648a",
-      "title": "October 2026 (Volume 78, Number 5)",
-      "url": "https://monthlyreview.org/articles/mr-078-05-2026-09_0",
-      "author": "Jamil Jonna",
-      "source": "Articles Archive - Monthly Review",
-      "published_at": "2026-10-01T01:49:37+00:00",
-      "content_excerpt": "Marking the sixtieth anniversary of Paul A. Baran and Paul M. Sweezy’s Monopoly Capital , the MR editors situates this key work of political economy within the contemporary political-economic landscape. The tendency toward the overaccumulation capital, they explain, represents a shift from the “ generation of economic surplus…to one of its absorption .” In an age of financialization and market bubbles, the editors note, Baran and Sweezy’s work stands as a testament to the continuing necessity of incisive political-economic analysis of capitalism, inequality, and the irrationality that pervading the entire system. The post October 2026 (Volume 78, Number 5) appeared first on Monthly Review .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/ec43166233a5d8687dcd648a.json"
-    },
-    {
-      "id": "e5062e10fe6b520dcb5615ef",
-      "title": "Marxian Ecology and the Critique of AI Capital",
-      "url": "https://monthlyreview.org/articles/marxian-ecology-and-the-critique-of-ai-capital",
-      "author": "Jamil Jonna",
-      "source": "Articles Archive - Monthly Review",
-      "published_at": "2026-10-01T01:49:37+00:00",
-      "content_excerpt": "What is the rise of AI capital, and what does it mean for contemporary work, culture, and the ecological state of our planet? John Bellamy Foster dispels the myth of a “hyperorganized AI capitalism.” As Foster writes: “We are not entering a stable new age…but rather a new, capitalist-engendered global disorder in which humanity, according to climate science, is headed ever more rapidly toward a planetary ‘point of no return.'” The only way out—the only way, that is, to ensure the survival of humanity—is a radical shift away from the catastrophically destructive regime of capital accumulation and toward sustainable human development through socialism. The post Marxian Ecology and the Critique of AI Capital appeared first on Monthly Review .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/e5062e10fe6b520dcb5615ef.json"
-    },
-    {
-      "id": "5499d04c3282ca6b80ca19d1",
-      "title": "Babylon Burning: Reggae and Black Liberation",
-      "url": "https://monthlyreview.org/articles/babylon-burning",
-      "author": "Jamil Jonna",
-      "source": "Articles Archive - Monthly Review",
-      "published_at": "2026-10-01T01:49:37+00:00",
-      "content_excerpt": "Christian Noakes explores the deep connections between the Jamaican Black Power movement and the political roots of its renowned indigenous musical genre, reggae. From the history of capitalist oppression in Jamaica and the indelible influence of Guyanese revolutionary Walter Rodney, Noakes provides essential context for incendiary political radicalism within reggae. Musically innovative and lyrically radical, reggae, he writes, was “instilled with a sense of militant determination that was at once a reflection of the culture it came from and a source of defiant resilience in the face of rampant inequality.” The post Babylon Burning: Reggae and Black Liberation appeared first on Monthly Review .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/5499d04c3282ca6b80ca19d1.json"
-    },
-    {
-      "id": "624233c67678bf6b320e894b",
-      "title": "Legal Imperialism: International Law and Dependency in Late Imperialism",
-      "url": "https://monthlyreview.org/articles/legal-imperialism",
-      "author": "Jamil Jonna",
-      "source": "Articles Archive - Monthly Review",
-      "published_at": "2026-10-01T01:49:37+00:00",
-      "content_excerpt": "Today’s resurgence in U.S. imperialist interventions abroad and the concomitant so-called crisis of the “rules-based order” can be explained, Luís Eduardo Fernandes argues, through the category of “legal imperialism, which refers to how the international juridical form is internalized within societies and in the context of dependency, colonialism, unequal exchange, and monopoly capital. “International law and imperialism,” Fernandes writes, “do not stand as opposing poles. They are part of the same unity.… Violence is constitutive of the juridical form.” The post Legal Imperialism: International Law and Dependency in Late Imperialism appeared first on Monthly Review .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/624233c67678bf6b320e894b.json"
-    },
-    {
-      "id": "49c6a9a384c4e1b2bac86929",
-      "title": "BT LIVE: AI Economic Collapse? | United Airlines Sends Weapons to Israel | 77 Years of Chinese Revolution",
-      "url": "https://breakthroughnews.org/2026/10/01/bt-live-ai-economic-collapse-united-airlines-sends-weapons-to-israel-77-years-of-chinese-revolution",
-      "author": "BreakThrough News",
-      "source": "BT News",
-      "published_at": "2026-10-01T01:42:04+00:00",
-      "content_excerpt": "This content is for members only. Visit the site and log in/register to read.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/49c6a9a384c4e1b2bac86929.json"
-    },
-    {
-      "id": "941750445e0ac0348e1f28ed",
-      "title": "Iran’s IRGC addresses people of the US in a letter and calls for peaceful coexistence",
-      "url": "https://breakthroughnews.org/2026/10/01/irans-irgc-addresses-people-of-the-us-in-a-letter-and-calls-for-peaceful-coexistence",
-      "author": "Abdul Rahman",
-      "source": "BT News",
-      "published_at": "2026-10-01T01:42:04+00:00",
-      "content_excerpt": "This content is for members only. Visit the site and log in/register to read.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/941750445e0ac0348e1f28ed.json"
-    },
-    {
-      "id": "475af378f0684efea6fcf42a",
-      "title": "Why Is “Patient Capital” Patient? Rereading ‘Das Kapital’ through Chinese Modernization",
-      "url": "https://monthlyreview.org/articles/why-is-patient-capital-patient",
-      "author": "Jamil Jonna",
-      "source": "Articles Archive - Monthly Review",
-      "published_at": "2026-10-01T00:48:52+00:00",
-      "content_excerpt": "The post Why Is “Patient Capital” Patient? Rereading ‘Das Kapital’ through Chinese Modernization appeared first on Monthly Review .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/475af378f0684efea6fcf42a.json"
     }
   ]
 }
