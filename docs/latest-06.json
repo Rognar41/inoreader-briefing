@@ -1,11 +1,39 @@
 {
-  "generated_at": "2026-10-02T23:09:14.866682+00:00",
-  "generated_at_jst": "2026-10-03T08:09:14.866682+09:00",
-  "period_start": "2026-10-01T17:09:14.866682+00:00",
+  "generated_at": "2026-10-03T22:19:29.334776+00:00",
+  "generated_at_jst": "2026-10-04T07:19:29.334776+09:00",
+  "period_start": "2026-10-02T16:19:29.334776+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
-  "article_count": 20,
+  "article_count": 10,
   "articles": [
+    {
+      "id": "fbf0884acbfdf2bfeff920e1",
+      "title": "Venezuela’s battle for sovereignty continues",
+      "url": "https://mronline.org/2026/10/03/venezuelas-battle-for-sovereignty-continues",
+      "author": "Roger Harris",
+      "source": "MR Online",
+      "published_at": "2026-10-03T21:21:35+00:00",
+      "content": "The U.S. attack of Jan. 3 killed over 100 persons and succeeded in kidnapping President Nicolás Maduro and First Lady Cilia Flores, an elected member of the National Assembly. The post Venezuela’s battle for sovereignty continues appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false
+    },
+    {
+      "id": "7f66064fba86b6a2147191d4",
+      "title": "Unexploded ordnances left by Israel in Gaza pose a constant danger to Palestinians",
+      "url": "https://mondoweiss.net/2026/10/unexploded-ordnances-left-by-israel-in-gaza-pose-a-constant-danger-to-palestinians",
+      "author": "Khuloud Sulaiman",
+      "source": "Mondoweiss",
+      "published_at": "2026-10-03T13:21:50+00:00",
+      "content": "In addition to the unrelenting bombardment, Palestinians in Gaza are at risk of losing their lives and limbs through the unexploded ordnances that the Israeli army leaves behind.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false
+    },
     {
       "id": "f72ea49a156144e67901adff",
       "title": "Paging Hezbollah? Exposing Israel’s terrorist pager attack on Lebanon | w/ Radwan Mortada",
@@ -112,174 +140,6 @@
       "source": "Mondoweiss",
       "published_at": "2026-10-02T17:27:30+00:00",
       "content": "The contours of the battle over the future of the Democrats' policy toward Israel are starting to take shape, and J Street is trying to cement support for the existence of a Jewish ethno-state as the Party's bottom line.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false
-    },
-    {
-      "id": "f544bac984b05dc1cca5305b",
-      "title": "“Cruel & Torturous”: Christa Pike in Critical Condition After Botched Tennessee Execution",
-      "url": "https://www.democracynow.org/2026/10/2/christa_pike",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-10-02T13:54:15+00:00",
-      "content": "Tennessee’s Governor Bill Lee has halted executions for the remainder of the year after a death row prisoner survived two lethal injections on Wednesday. According to her lawyers, Christa Pike was still breathing after she was strapped to a gurney and injected with two syringes of pentobarbital in a botched execution that spanned more than two hours. Prior to the scheduled execution, Pike and her lawyers argued a single-dose lethal injection could be tantamount to torture due to Pike’s small veins. Pike was sentenced to death for a 1995 murder she committed when she was 18. Now in the hospital in critical condition, she is the first person to ever survive lethal injection in the United States. “I have seen five executions in Tennessee,” says Steven Hale, a criminal justice reporter for the Nashville Banner , who witnessed Christa Pike’s botched execution. “And I’ve never seen anything like what we saw Wednesday night.” Christa Pike “has just experienced the most agonizing attempt at lethal injection in the country’s history,” says Sandra Babcock, director of the Cornell Center on the Death Penalty Worldwide. Babcock says Pike should have never been sentenced to death, because she was an “immature 18-year-old” with a history of severe childhood and sexual trauma who “was not receiving medication for post-traumatic stress disorder and bipolar disorder at the time of [the murder], which she committed with her abusive boyfriend at the time.” Page 2 Drop Site News released a major investigation this week into the U.S. bombing of the Shajareh Tayyebeh children’s school in the Iranian city of Minab on February 28, the first day of the U.S.-Israeli war on Iran. Drop Site spoke to survivors, first responders, parents and witnesses in one of the most in-depth reports on the massacre to date. The bombing killed at least 156 people — 120 of the victims were children, 26 were teachers, and the rest were parents. A United Nations fact-finding mission recently concluded that the U.S. strike was a war crime, but the Trump administration has not yet even acknowledged U.S. responsibility. “This was not a single bombing or collateral damage,” says Drop Site News ’s Jeremy Scahill, lead author of the investigation. “There were at least two direct hits on a school packed with children … and a couple of hours after those initial hits, as first responders came, as parents came, the U.S. launches more strikes.” Scahill points out that until 2013, the area where the school is was a facility operated by Iran’s Revolutionary Guard Corps. But in satellite photos from just weeks before the strike, “You could see the murals on the wall. You could see the soccer field. Some of the satellite photos show shadows of tiny people playing outside.”",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false
-    },
-    {
-      "id": "4ff8d334f6d45123b7bb235e",
-      "title": "“The School That Became a Grave”: Jeremy Scahill on U.S Bombing of Minab, Killing 120+ Iranian Kids",
-      "url": "https://www.democracynow.org/2026/10/2/massacre_at_minab",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-10-02T13:54:15+00:00",
-      "content": "Drop Site News released a major investigation this week into the U.S. bombing of the Shajareh Tayyebeh children’s school in the Iranian city of Minab on February 28, the first day of the U.S.-Israeli war on Iran. Drop Site spoke to survivors, first responders, parents and witnesses in one of the most in-depth reports on the massacre to date. The bombing killed at least 156 people — 120 of the victims were children, 26 were teachers, and the rest were parents. A United Nations fact-finding mission recently concluded that the U.S. strike was a war crime, but the Trump administration has not yet even acknowledged U.S. responsibility. “This was not a single bombing or collateral damage,” says Drop Site News ’s Jeremy Scahill, lead author of the investigation. “There were at least two direct hits on a school packed with children … and a couple of hours after those initial hits, as first responders came, as parents came, the U.S. launches more strikes.” Scahill points out that until 2013, the area where the school is was a facility operated by Iran’s Revolutionary Guard Corps. But in satellite photos from just weeks before the strike, “You could see the murals on the wall. You could see the soccer field. Some of the satellite photos show shadows of tiny people playing outside.”",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false
-    },
-    {
-      "id": "393aeb6b67cb9c92e50f3a2e",
-      "title": "The critical minerals beneath the Trump corollary: The Fortieth Newsletter (2026)",
-      "url": "https://mronline.org/2026/10/02/the-critical-minerals-beneath-the-trump-corollary-the-fortieth-newsletter-2026",
-      "author": "Vijay Prashad",
-      "source": "MR Online",
-      "published_at": "2026-10-02T13:14:49+00:00",
-      "content": "The imperial drive to monopolise critical minerals unmasks a renewed strategic architecture: securing military and industrial supply chains enforces peripheral subordination, turning sovereign nations across the Global South into captive reservoirs for Western capital. The post The critical minerals beneath the Trump corollary: The Fortieth Newsletter (2026) appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false
-    },
-    {
-      "id": "2a675adc7c5f0c2ed96072c2",
-      "title": "Karl Marx and German classical philosophy",
-      "url": "https://mronline.org/2026/10/02/karl-marx-and-german-classical-philosophy",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-02T12:13:52+00:00",
-      "content": "On March 14th, 1883, Karl Marx passed away. On that day the proletariat of the entire terrestrial globe lost its brilliant and devoted leader. The post Karl Marx and German classical philosophy appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false
-    },
-    {
-      "id": "3bade68f3fa7a15ff3480439",
-      "title": "Israeli settlers target a Ramallah road, and the city’s future with it",
-      "url": "https://mondoweiss.net/2026/10/israeli-settlers-target-a-ramallah-road-and-the-citys-future-with-it",
-      "author": "Qassam Muaddi",
-      "source": "Mondoweiss",
-      "published_at": "2026-10-02T11:18:28+00:00",
-      "content": "Israel is preparing to give settlers access to a main Palestinian thoroughfare in Ramallah, a move that would bring checkpoints and gates to one of the West Bank’s last spaces of free Palestinian movement and affordable urban growth.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false
-    },
-    {
-      "id": "28b6fdca6bff7782a076a819",
-      "title": "Trump amb. to Greece causes stir: U.S. has power to topple governments",
-      "url": "https://mronline.org/2026/10/02/trump-amb-to-greece-causes-stir-u-s-has-power-to-topple-governments",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-02T11:13:10+00:00",
-      "content": "Remarks by Trump’s envoy raise fresh questions over U.S. meddling in Romania’s political crisis and the fall of its government. The post Trump amb. to Greece causes stir: U.S. has power to topple governments appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false
-    },
-    {
-      "id": "c6c88e69ef08088145955630",
-      "title": "Justice Department: Joining protests for Cuba is a crime",
-      "url": "https://mronline.org/2026/10/02/justice-department-joining-protests-for-cuba-is-a-crime",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-02T10:12:38+00:00",
-      "content": "“Hands Off Cuba!” picket by Minneapolis Cuba Committee June 3. Protests are crucial in fight to end U.S. gov’t blockade, threats of war. Cuban people will never give up their revolution. The post Justice Department: Joining protests for Cuba is a crime appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false
-    },
-    {
-      "id": "72b604793257f6b390283f7d",
-      "title": "Project 2025 takes shape in Latin America’s far-Right governments",
-      "url": "https://mronline.org/2026/10/02/project-2025-takes-shape-in-latin-americas-far-right-governments",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-02T09:15:33+00:00",
-      "content": "The ultra-conservative document drafted by the Heritage Foundation as a roadmap for Republican governance has not only fulfilled the fascist dream of the United States, but this roadmap is now being used by the governments of the Shield of the Americas. The post Project 2025 takes shape in Latin America’s far-Right governments appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false
-    },
-    {
-      "id": "04a4d11c4b79c64a94ee30cd",
-      "title": "Brazil’s election becomes a regional battleground",
-      "url": "https://breakthroughnews.org/2026/10/02/brazils-election-becomes-a-regional-battleground",
-      "author": "Pablo Meriguet",
-      "source": "BT News",
-      "published_at": "2026-10-02T05:13:11+00:00",
-      "content": "Brazil’s presidential elections are sparking reactions across the region. The economic (and, by extension, geopolitical) importance of this South American giant leaves no regional politician or social organization indifferent, as they know that much of the continent’s future is at stake at the Brazilian polls. Support for Bolsonaro from Washington and Milei Flávio Bolsonaro, son of the far-right former president Jair Bolsonaro (who is in prison for conspiring to carry out a coup d’état against Lula da Silva), has received explicit support from Argentine President Javier Milei – a move that cost Buenos Aires a diplomatic crisis with Brasília due to the Argentine leader’s anti-Lula statements made on Brazilian soil. Likewise, Flávio Bolsonaro enjoys the direct support of President Donald Trump. The US president has maintained a recent tradition (heavily criticized by many) of publicly expressing support for this or that far-right Latin American candidate who, upon winning the election, fully aligns their country with Washington’s foreign policy and joins the US-led military alliance known as the Shield of the Americas. Trump has also imposed direct trade sanctions on Brazil over the conviction of Jair Bolsonaro, whom Trump calls a “friend.” In addition, the United States sanctioned the judge who convicted Bolsonaro, Alexandre de Moraes, sending a clear message of condemnation against the Brazilian justice system – a move that some political analysts have called foreign “interference” in the Brazilian judicial system. Unions and the Latin American Left support Lula Lula has also received support from another very important female leader in the region: Claudia Sheinbaum. In recent weeks, the president of Mexico has repeatedly highlighted the positive aspects of Lula’s administration: “I believe that President Lula has been a very good president … He has done an extraordinary job leading Brazil, and the indicators show it.” The endorsement of his candidacy has clearly been indirect, but given Mexico’s geopolitical importance, many in Lula’s Workers’ Party surely appreciate it. Lula has also received support from neighboring countries to the south. In Uruguay, the ruling coalition, the Frente Amplio (FA), has shown direct and militant support for Lula’s campaign. Fernando Pereira, president of the FA, stated that the electoral battle in Brazil “is between democracy and barbarism.” He also warned against US interference in the elections: “Brazil will not accept U.S. interference in the election.” Former Argentine Foreign Minister Santiago Cafiero, who is currently a member of Congress, also expressed his support for Lula: “If Lula wins, he will create a countercurrent to what has been taking hold in the region and demonstrate that there is resistance to these right-wing winds.”",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false
-    },
-    {
-      "id": "bb6df0e4f01d4b20f94a2db0",
-      "title": "Standoff in the North of Ireland over loyalist ‘Orange’ march continues",
-      "url": "https://breakthroughnews.org/2026/10/02/standoff-in-the-north-of-ireland-over-loyalist-orange-march-continues",
-      "author": "Ana Vračar",
-      "source": "BT News",
-      "published_at": "2026-10-02T05:13:11+00:00",
-      "content": "Since Sunday , September 27, residents of Garvaghy Road in Portadown have prevented the Orange Order’s Drumcree march from passing through their community. Linking arms, locals and supporters warned that the parade could undo years of progress against sectarian violence in the north of Ireland. More than 4,000 people signed petitions opposing the march, yet authorities formally allowed it to move ahead. First, the Parades Commission approved a limited procession. Then, the Court of Appeal lifted an injunction imposed by the High Court, paving the way for the march attempt on Sunday. Read more: On anniversary of Easter Rising, calls for Irish unity are strengthened Negotiations to end the stand-off continued Thursday evening. According to local media, an earlier proposal suggested residents would accept the Orange Order’s legal right to walk down the road in return for the Order choosing not to march. The organization rejected the deal, insisting on passing through the neighborhood. Stand-offs at Drumcree previously used to launch loyalist attacks Recent events carry particular weight because of Drumcree’s history . During the Troubles, loyalist stand-offs in the area became a notable flash point of violence, with effects rippling out beyond Portadown. Following the Good Friday Agreement, the march had been rerouted for almost 30 years. “The Orange Order organized stand-offs at Drumcree (particularly in 1995, 1996, 1997 and 1998) were regularly used by unionist death squads as a rallying cry and pretext to launch attacks, block roads, and intimidate Catholic families,” Garvaghy Road Residents Coalition spokesperson Breandán Mac Cionnaith wrote in August. “At least ten murders were carried out in Portadown and other areas during this period by those same death squads.” Speaking to the People Before Profit party, Mac Cionnaith emphasized that the march had been rerouted because of the devastation it unleashed. “I always make a point that people need to remember that between 1996 and 1999, 21 people lost their lives across the north because of killings and murders carried out by loyalists acting in support of Drumcree,” he said. “Several of those victims were our neighbors, they were our friends, they lived in this community.” Read more: Ireland, Scotland, and Wales independence parties pledge cooperation toward self-determination Past decades gave the Garvaghy Road community a chance to rebuild, yet the memory of the violence was passed on through generations. “My family moved to England to escape the viciously sectarian climate around the marches,” one resident said . “My aunt went to school with Robert Hamill , a young man kicked to death by loyalists in the midst of the marches.” “For 28 years, the Garvaghy Road community has lived in peace,” wrote Chris Hazzard of Sinn Féin. “That peace didn’t need a solution – it needed protection. Forcing an unwanted, sectarian march through this area defies all logic.” “Why did the Orange Order want to march down a Catholic community?”, asked Sinn Féin’s Vice President and First Minister of Northern Ireland Michelle O’Neill . “It’s about supremacy, it’s about domination, it’s about ‘we’re in charge,’ and this community deserve better than that.” “There is no going back, we’re not going back to the days of the past. What I want is to build upon the progress that’s been made over the last 28 years. What I want to do is actually ensure that we continue to let this community to flourish. Right now, what this community is being told by the Orange Order and political unionism is that they’re second class citizens and that their rights can be railroaded over.” Solidarity messages from as far as Palestine Progressive organizations, parties, musicians and artists across Ireland have voiced support for Garvaghy Road, many joining protesters in Portadown to warn against the standoff’s possible ripple effects. “The Garvaghy Road community is still living with the legacy of traumatic street conflict and state violence stretching back decades,” the Irish Republican Socialist Party wrote. “This latest attempt by the Orange order is merely a continuation of that conflict.” Messages of solidarity arrived from as far as Palestine , where a Gazan teenager wrote in support of Garvaghy Road residents. “I know what it feels like when basic peace and dignity are stripped away, and how painful it is to fight for safety in your own home,” she emphasized. “The residents of Garvaghy Road deserve to live in peace without fear or intimidation, just as every family in Gaza does.”",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false
-    },
-    {
-      "id": "e8d9dab745506faadf93d834",
-      "title": "The fight against Korean deployment to Hormuz continues",
-      "url": "https://breakthroughnews.org/2026/10/01/the-fight-against-korean-deployment-to-hormuz-continues",
-      "author": "Dae-Han Song",
-      "source": "BT News",
-      "published_at": "2026-10-01T23:06:49+00:00",
-      "content": "This content is for members only. Visit the site and log in/register to read.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false
-    },
-    {
-      "id": "e94d1e78a16bdadca36eb55b",
-      "title": "Protests sweep India demanding removal of Chief Election Commissioner",
-      "url": "https://breakthroughnews.org/2026/10/01/protests-sweep-india-demanding-removal-of-chief-election-commissioner",
-      "author": "Abdul Rahman",
-      "source": "BT News",
-      "published_at": "2026-10-01T23:06:49+00:00",
-      "content": "Nationwide protests have broken out in India this week seeking the removal of the country’s Chief Election Commissioner (CEC) over allegations of irregularities in the electoral process during various state elections and the deliberate mass disenfranchisement in favor of the ultra-right-wing ruling dispensation. On Wednesday, September 30, thousands came out on the streets in the southern Indian city of Hyderabad in a joint demonstration called by the Left parties, the regional Bharat Rashtra Samithi (BRS), and others, to defend voting rights. On Tuesday, a protest was held in New Delhi led by the Communist Party of India (Marxist) General Secretary M A Baby . The protesters, who were marching to the Election Commission of India (ECI) headquarters, were detained by the security forces for hours in an attempt to disrupt the march. Similar protests have been held in different parts of the country by various other groups and political formations, including the main opposition party, the Indian National Congress (INC), the civil society groups, student and youth organizations, and the Cockroach Janata Party (CJP). The CJP, which successfully led a protest by students and youth in the country earlier this year against the union government’s education policies, has called for another national mobilization over the issue beginning on October 2. The protesters have listed three major demands: halting the so-called Special Intensive Revision (SIR) of the electoral rolls the re-inclusion of all the voters removed so far from the electoral rolls the removal of the CEC Mr. Gyanesh Kumar Protestors say these demands are essential to protect the fundamental right to vote, currently at risk by the Chief Election Commissioner. Read more: India’s Cockroach Rebellion and what comes next Over 130 million removed from the electoral rolls India does not have a centralized electoral roll. They are prepared at the local constituency levels. The CEC in the country has been accused of changing this by arbitrarily changing rules and initiating processes. The opposition alleges these actions were taken in order to have control over the electoral outcome. According to the data compiled by various reports, over 130 million voters have been deleted from the electoral rolls of different states in India, citing various reasons since the so-called Special Intensive Revision (SIR) began last year. Reports indicate that in several state legislative constituencies, the number of voters deleted from the electoral rolls were more than the victory margins during the elections. Despite its large electoral base, in India’s First Past the Poll system, margins of victory in state legislative constituencies are often very small, ranging from a few to a few thousand votes. It has also been reported that because of the SIR, in some smaller states between one third to half of all voters have been deleted or put into doubtful lists by the ECI. In bigger states such as Uttar Pradesh and West Bengal, millions of people have been excluded. In most of these cases, those removed from the electoral list have either already missed their opportunity to vote or expected to miss it given the slow process of appeals for re-inclusion. For example, in West Bengal, elections were held earlier this year with millions of citizens failing to exercise their right to vote while waiting for the re-inclusion of their names in the electoral list. The majority of those who failed to reapply and get their names back into the electoral rolls in time are from economically marginalized sections or from the Muslim-minority communities. The ECI has also been accused of deliberately suppressing crucial information from the public and delaying the proceedings. A deliberate move to benefit the ruling party The opposition has been accusing that these deletions and the slow process of appeals are deliberate moves adopted by the ECI in complete violation of the country’s legal and constitutional provisions. The process disregards citizens’ fundamental right to vote, the opposition claims. Opposition parties, civil society groups, and others have been protesting against the process since the beginning while claiming that the process was invented to manipulate the elections in favor of the ruling ultra-right-wing and Hindu supremacist Bharatiya Janata Party (BJP). Civil society groups and some political parties also filed a petition in the country’s Supreme Court last year challenging the SIR. However, the process has continued as the court has repeatedly refused to stay it. The top court’s refusal to stay the SIR despite acknowledging irregularities and violations in its execution from time to time has enraged the opposition parties and civil society activists. The current upsurge was a result of a report published in the Indian Express , one of India’s leading English daily papers on September 23. The report, citing official documents, exposed that the CEC Mr. Kumar bypassed the majority objections and made unilateral decisions related to the SIR on at least 14 occasions. There are two more commissioners apart from the CEC in the ECI all appointed by the union government. The laws clearly state that all decisions in the ECI must be taken either by a consensus or by a majority. Mr. Kumar’s unilateral decisions related to the SIR process, including the rules regarding voter enrollment, the deletion or inclusion of names in the electoral rolls, among others, have unfairly benefited the ruling party, including in West Bengal, which amounts to stealing the elections, the opposition alleges. The BJP came to power in West Bengal, one of India’s largest provinces, for the first time earlier this year amidst allegations of the deliberate exclusion of millions of voters from the electoral rolls. On Tuesday, the INC issued a statement calling for more protests across the nation and reiterating the demands for Mr. Kumar’s removal, apart from the immediate halt of the SIR and the re-inclusion of all the voters wrongfully deleted from the electoral rolls. Second freedom struggle The INC has alleged that the irregularities in the electoral process are nothing less than “a theft of votes and democracy” done by the ECI under the leadership of Mr. Kumar on behalf of the ruling BJP and the movement will not stop until he is removed from his post and tried for his criminal actions. It also claimed that the movement for the restoration of the right of all adult citizens to vote is no less than a second “freedom struggle,” invoking India’s anti-colonial movement against the British in the early twentieth century. All the left parties, led by the CPI (M), also issued a joint statement last week seeking the removal of Mr. Kumar, and the withdrawal of the SIR process, claiming the allegations against him raise serious questions regarding the constitutional protection of the right to vote and elect representatives. The SIR, under Mr. Kumar’s leadership in the ECI, has created doubts about the fairness and integrity of the electoral process in India, the Left parties said, claiming it needs to be urgently corrected.",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],

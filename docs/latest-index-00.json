@@ -1,12 +1,117 @@
 {
-  "generated_at": "2026-10-02T23:09:14.866682+00:00",
-  "generated_at_jst": "2026-10-03T08:09:14.866682+09:00",
-  "period_start": "2026-10-01T17:09:14.866682+00:00",
+  "generated_at": "2026-10-03T22:19:29.334776+00:00",
+  "generated_at_jst": "2026-10-04T07:19:29.334776+09:00",
+  "period_start": "2026-10-02T16:19:29.334776+00:00",
   "lookback_hours": 30,
   "folder": "00_毎日確認",
-  "article_count": 13,
+  "article_count": 14,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "b478ca4ce34c6d4edcf72f7b",
+      "title": "Class Podcast",
+      "url": "https://housing.dsausa.org/class-podcast",
+      "author": "Housing Justice Commission",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-10-03T13:51:25+00:00",
+      "content_excerpt": "Let’s ETOC: HJC on the Class podcast! HJC Steering Committee members, Sebastian of Triangle DSA and Triangle Tenants Union, and Kelly of Boston DSA join the crew of the National Political Education Committee’s own Class podcast. They discuss the Emergency Tenant Organizing Committee (ETOC) and the exciting rise of tenant unionization on the socialist left. How does it fit into the broader scope of working class organizing for the crucial fight for decent housing? Listen here and find out! Apple podcast link NPEC Class Podcast link",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/b478ca4ce34c6d4edcf72f7b.json"
+    },
+    {
+      "id": "2a0deb38e07f2ea6ef13563a",
+      "title": "CT DSA Stands with All Victims and Survivors of Sexual Violence",
+      "url": "https://ctdsa.org/ct-dsa-stands-with-all-victims-and-survivors-of-sexual-violence",
+      "author": "Connecticut DSA",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-10-03T13:51:25+00:00",
+      "content_excerpt": "CT DSA Stands with All Victims and Survivors of Sexual Violence October 1st 2026 In the wake of the horrific […]",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/2a0deb38e07f2ea6ef13563a.json"
+    },
+    {
+      "id": "f866209b8a83a930f53f063c",
+      "title": "Congress Must Investigate War Profiteers Once Again",
+      "url": "https://jacobin.com/2026/10/congress-must-investigate-war-profiteers-once-again",
+      "author": "Hank Kennedy",
+      "source": "Jacobin",
+      "published_at": "2026-10-03T13:28:19+00:00",
+      "content_excerpt": "In April, President Donald Trump requested a $445 billion increase to the defense budget, meaning the United States will be spending around $1.5 trillion on the military. Much of the largesse will benefit the Big Five war contractors: Boeing, General Dynamics, Lockheed Martin, Northrop Grumman, and RTX (formerly Raytheon). These are the companies behind such budget-shredding boondoggles as the F-35 and the littoral combat ships . If the promises of these weapons salesmen are to be believed, the US war with Iran should already be over. The enormousness of the Pentagon’s budget, on paper, means that any conflict the United States enters should be a decidedly short and lopsided affair. Yet Iran has not crumbled against an onslaught that one analyst calculated has cost the United States $72 bi",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/f866209b8a83a930f53f063c.json"
+    },
+    {
+      "id": "011505531910c56293a28c64",
+      "title": "Bernie Sanders’s 2016 Campaign Lit a Spark Beyond Elections",
+      "url": "https://jacobin.com/2026/10/sanders-campaigns-labor-social-movements",
+      "author": "Eric Blanc",
+      "source": "Jacobin",
+      "published_at": "2026-10-03T13:28:19+00:00",
+      "content_excerpt": "Bernie Sanders’s impact on the American left is not typically measured in social movement terms. The story normally goes that democratic socialism returned to national politics after 2015, tens of thousands of people joined the Democratic Socialists of America (DSA), a new generation of socialist candidates ran for office, and a much larger left media ecosystem emerged. That’s all true. But another part of the story has received relatively less attention: the role Bernie’s campaigns played in inspiring and cohering a new generation of labor activists. I first started making this argument while writing about the red-state teachers’ revolt of 2018. Obviously, Bernie did not cause these massive statewide strikes; years of austerity and attacks on public education created the conditions. But w",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/011505531910c56293a28c64.json"
+    },
+    {
+      "id": "c6435098eda72851df7da0d5",
+      "title": "US Meddling in Brazil May Decide Latin America’s Future",
+      "url": "https://jacobin.com/2026/10/brazil-bolsonaro-trump-election-interference",
+      "author": "Benjamin Fogel",
+      "source": "Jacobin",
+      "published_at": "2026-10-03T13:28:19+00:00",
+      "content_excerpt": "As Brazil heads toward Sunday’s presidential election first round, the contest is on a knife-edge. Polls show left-wing president Luiz Inácio Lula da Silva neck and neck with the ultraconservative Flávio Bolsonaro, the oldest of his imprisoned father’s brood. Jair Bolsonaro was defeated in 2022, as was the subsequent attempted coup that led to his criminal conviction. (He is now under house arrest.) Still, Bolsonarismo remained a powerful force. Compared to the high drama of four years ago, this campaign has at times seemed subdued, in part because most other candidates essentially offer duller, more gray-haired versions of Bolsonarismo. And yet the stakes couldn’t be higher. Not only is Brazilian democracy again on the line, but the region more widely is increasingly subject to right-wing",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/c6435098eda72851df7da0d5.json"
+    },
+    {
+      "id": "b39586bb41f0011d9a2df087",
+      "title": "The Battle of Cable Street Was an Antifascist Landmark",
+      "url": "https://jacobin.com/2026/10/cable-street-london-antifascism-mosley",
+      "author": "David Rosenberg",
+      "source": "Jacobin",
+      "published_at": "2026-10-03T13:28:19+00:00",
+      "content_excerpt": "Twenty years ago, I shared a platform with Aubrey Morris, one of the “ordinary” heroes of the Battle of Cable Street on October 4, 1936 — the iconic event in Britain’s prewar antifascist history. Aubrey was sixteen at the time, a Labour League of Youth member, and he still glowed with pride at having been part of the mass defiance that put the slogan “They shall not pass” into spectacular effect. He helped build barricades in Cable Street. Aubrey denied being a hero: “I did what any young Jewish boy would have done at that time.” Though he did have an additional motive. If Oswald Mosley’s uniformed, jackbooted British Union of Fascists (BUF) had invaded that narrow street to terrorize its largely Jewish residents, they would have reached number 86, where Aubrey’s grandmother ran the family",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/b39586bb41f0011d9a2df087.json"
+    },
+    {
+      "id": "380c07e31107419d851010fa",
+      "title": "Democrats Run From The Word ‘Socialism,’ Voters Warm To It",
+      "url": "https://democraticleft.dsausa.org/2026/10/03/democrats-run-from-the-word-socialism-voters-warm-to-it",
+      "author": "tfrasca@yahoo.com",
+      "source": "Democratic Left",
+      "published_at": "2026-10-03T12:58:56+00:00",
+      "content_excerpt": "Sixty candidates and some sitting U.S. Congress members signed a pledge saying “we are capitalist, not socialist.” The post Democrats Run From The Word ‘Socialism,’ Voters Warm To It appeared first on Democratic Left .",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/380c07e31107419d851010fa.json"
+    },
     {
       "id": "9715ab269f8a256c14c4836c",
       "title": "U.S. Imperialism Resulted in a Forgotten Genocide in the Philippines",
@@ -111,96 +216,6 @@
       "priority": 1,
       "date_missing": false,
       "article_path": "articles/31e8e13dc7064dbe48668334.json"
-    },
-    {
-      "id": "e476be1eec46cca82c14748f",
-      "title": "Against the Politics of Communal Fear",
-      "url": "https://jacobin.com/2026/10/antisemitism-communal-identity-mamdani-universalism",
-      "author": "Bhaskar Sunkara",
-      "source": "Jacobin",
-      "published_at": "2026-10-02T15:59:21+00:00",
-      "content_excerpt": "New York City’s new municipal strategy to combat antisemitism comes just days after the war criminal Benjamin Netanyahu used his platform at the United Nations to call Zohran Mamdani “the antisemitic mayor of New York” and claim that since his election “many Jews no longer feel safe” in the city. The initiative seeks to expand education, support victims of hate crimes, and fund security at Jewish institutions and other houses of worship throughout the five boroughs. Laudable as any attempt to reduce animus is, the Left should view the plan skeptically. Antisemitism, it goes without saying, is an evil. And it’s an evil that socialists have particular reason to be concerned with. For centuries, the idea that powerful Jewish interests were at the heart of social injustice was widespread. Soci",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/e476be1eec46cca82c14748f.json"
-    },
-    {
-      "id": "47dadae91bdcd4e7642d84fd",
-      "title": "A Decade After His First Presidential Run, Bernie Isn’t Alone",
-      "url": "https://jacobin.com/2026/10/sanders-anniversary-socialists-elections-dsa",
-      "author": "Branko Marcetic",
-      "source": "Jacobin",
-      "published_at": "2026-10-02T13:59:27+00:00",
-      "content_excerpt": "If you’re anyone who veers remotely to the left politically, there are two eras: a time before Bernie Sanders ran for president, and a time after. The US political landscape before Sanders’s first presidential campaign looks today like an alien planet. There were virtually no socialists who held elected office, or at least those who admitted to it. The Democratic Socialists of America (DSA) was an obscure organization with a little over six thousand members across twenty-six chapters. Arguably the most prominent leftist figure was a curmudgeonly linguist who almost never appeared in mainstream media, Noam Chomsky. Only 59 percent of Democrats and less than half of independents were willing to vote for a socialist candidate. And the great progressive hope was a politician who flatly opposed",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/47dadae91bdcd4e7642d84fd.json"
-    },
-    {
-      "id": "4dcf544a6f16004f8b5e7722",
-      "title": "Jordan Bardella Isn’t Such a Friend of Jews After All",
-      "url": "https://jacobin.com/2026/10/bardella-rassemblement-national-france-antisemitism",
-      "author": "Marlon Ettinger",
-      "source": "Jacobin",
-      "published_at": "2026-10-02T12:59:38+00:00",
-      "content_excerpt": "As a young member of the Front National (today’s Rassemblement National), Jordan Bardella was an “obsessive antisemite,” according to a story published by investigative site Mediapart this Monday. “Banks are all controlled by Jews,” Bardella allegedly wrote in one message published by Mediapart . “The Jew must dominate other peoples, crush them and rob them,” read another. “A Zionist is necessarily Jewish, and deeply so.” Bardella, who was the Rassemblement National’s candidate for prime minister in 2024 and who has been president of the party since 2022, denies having written the messages, which Mediapart says date from between 2013 and 2015. “These comments are completely outrageous. They’re not mine. . . . I dispute them,” Bardella said in a television interview on Monday night , adding",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/4dcf544a6f16004f8b5e7722.json"
-    },
-    {
-      "id": "ccf26f4f997653ee4ac87452",
-      "title": "Brazil Faces a Crucial Choice on Oct. 4",
-      "url": "https://democraticleft.dsausa.org/2026/10/01/brazil-faces-a-crucial-choice-on-oct-4",
-      "author": "Democratic Left",
-      "source": "Democratic Left",
-      "published_at": "2026-10-01T22:48:15+00:00",
-      "content_excerpt": "A member of Brazil’s Socialism and Liberty Party (PSOL) discusses their alliance with Luiz Inácio Lula da Silva’s Workers’ Party (PT) to beat the far right — and the stakes riding on the defeat of Trumpism for Brazil and the rest of the world. The post Brazil Faces a Crucial Choice on Oct. 4 appeared first on Democratic Left .",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/ccf26f4f997653ee4ac87452.json"
-    },
-    {
-      "id": "96121a14bec28d8689335b9e",
-      "title": "Drop the Charges Against Misael | No Political Arrests",
-      "url": "https://portlanddsa.org/drop-the-charges-against-misael-no-political-arrests",
-      "author": "Portland DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-10-01T21:31:09+00:00",
-      "content_excerpt": "Portland DSA resolutely denounces the political coercion by Texas State police of DSA member and Austin City Council candidate Misael Ramos, who was wrongfully arrested the morning of September 26. Ramos had recently attended a protest decrying ICE brutality, particularly the violence against Venezuelan immigrant Wilber Rafael Garces Perez who still remains critically injured after being shot by immigration police. Misael is one of many people in Texas being targeted for exercising their free speech in rightfully condemning state violence against the immigrant community. What we’re seeing is a racheting up of state repression, now targeting citizens and socialist political candidates. We will stand by our people, immigrants and poor alike, against this violence. Portland DSA demands the ch",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/96121a14bec28d8689335b9e.json"
-    },
-    {
-      "id": "07a05a2bdda520f86aaf29bf",
-      "title": "“You Are Wanted for Genocide!”",
-      "url": "https://democraticleft.dsausa.org/2026/10/01/you-are-wanted-for-genocide",
-      "author": "Democratic Left",
-      "source": "Democratic Left",
-      "published_at": "2026-10-01T18:46:34+00:00",
-      "content_excerpt": "Thousands of New Yorkers protest Benjamin Netanyahu at the United Nations. The post “You Are Wanted for Genocide!” appeared first on Democratic Left .",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/07a05a2bdda520f86aaf29bf.json"
     }
   ]
 }
