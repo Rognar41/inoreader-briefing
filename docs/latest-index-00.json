@@ -1,221 +1,86 @@
 {
-  "generated_at": "2026-10-03T22:19:29.334776+00:00",
-  "generated_at_jst": "2026-10-04T07:19:29.334776+09:00",
-  "period_start": "2026-10-02T16:19:29.334776+00:00",
+  "generated_at": "2026-10-04T22:26:01.721397+00:00",
+  "generated_at_jst": "2026-10-05T07:26:01.721397+09:00",
+  "period_start": "2026-10-03T16:26:01.721397+00:00",
   "lookback_hours": 30,
   "folder": "00_毎日確認",
-  "article_count": 14,
+  "article_count": 5,
   "excerpt_chars": 800,
   "articles": [
     {
-      "id": "b478ca4ce34c6d4edcf72f7b",
-      "title": "Class Podcast",
-      "url": "https://housing.dsausa.org/class-podcast",
-      "author": "Housing Justice Commission",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-10-03T13:51:25+00:00",
-      "content_excerpt": "Let’s ETOC: HJC on the Class podcast! HJC Steering Committee members, Sebastian of Triangle DSA and Triangle Tenants Union, and Kelly of Boston DSA join the crew of the National Political Education Committee’s own Class podcast. They discuss the Emergency Tenant Organizing Committee (ETOC) and the exciting rise of tenant unionization on the socialist left. How does it fit into the broader scope of working class organizing for the crucial fight for decent housing? Listen here and find out! Apple podcast link NPEC Class Podcast link",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/b478ca4ce34c6d4edcf72f7b.json"
-    },
-    {
-      "id": "2a0deb38e07f2ea6ef13563a",
-      "title": "CT DSA Stands with All Victims and Survivors of Sexual Violence",
-      "url": "https://ctdsa.org/ct-dsa-stands-with-all-victims-and-survivors-of-sexual-violence",
-      "author": "Connecticut DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-10-03T13:51:25+00:00",
-      "content_excerpt": "CT DSA Stands with All Victims and Survivors of Sexual Violence October 1st 2026 In the wake of the horrific […]",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/2a0deb38e07f2ea6ef13563a.json"
-    },
-    {
-      "id": "f866209b8a83a930f53f063c",
-      "title": "Congress Must Investigate War Profiteers Once Again",
-      "url": "https://jacobin.com/2026/10/congress-must-investigate-war-profiteers-once-again",
-      "author": "Hank Kennedy",
-      "source": "Jacobin",
-      "published_at": "2026-10-03T13:28:19+00:00",
-      "content_excerpt": "In April, President Donald Trump requested a $445 billion increase to the defense budget, meaning the United States will be spending around $1.5 trillion on the military. Much of the largesse will benefit the Big Five war contractors: Boeing, General Dynamics, Lockheed Martin, Northrop Grumman, and RTX (formerly Raytheon). These are the companies behind such budget-shredding boondoggles as the F-35 and the littoral combat ships . If the promises of these weapons salesmen are to be believed, the US war with Iran should already be over. The enormousness of the Pentagon’s budget, on paper, means that any conflict the United States enters should be a decidedly short and lopsided affair. Yet Iran has not crumbled against an onslaught that one analyst calculated has cost the United States $72 bi",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/f866209b8a83a930f53f063c.json"
-    },
-    {
-      "id": "011505531910c56293a28c64",
-      "title": "Bernie Sanders’s 2016 Campaign Lit a Spark Beyond Elections",
-      "url": "https://jacobin.com/2026/10/sanders-campaigns-labor-social-movements",
-      "author": "Eric Blanc",
-      "source": "Jacobin",
-      "published_at": "2026-10-03T13:28:19+00:00",
-      "content_excerpt": "Bernie Sanders’s impact on the American left is not typically measured in social movement terms. The story normally goes that democratic socialism returned to national politics after 2015, tens of thousands of people joined the Democratic Socialists of America (DSA), a new generation of socialist candidates ran for office, and a much larger left media ecosystem emerged. That’s all true. But another part of the story has received relatively less attention: the role Bernie’s campaigns played in inspiring and cohering a new generation of labor activists. I first started making this argument while writing about the red-state teachers’ revolt of 2018. Obviously, Bernie did not cause these massive statewide strikes; years of austerity and attacks on public education created the conditions. But w",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/011505531910c56293a28c64.json"
-    },
-    {
-      "id": "c6435098eda72851df7da0d5",
-      "title": "US Meddling in Brazil May Decide Latin America’s Future",
-      "url": "https://jacobin.com/2026/10/brazil-bolsonaro-trump-election-interference",
-      "author": "Benjamin Fogel",
-      "source": "Jacobin",
-      "published_at": "2026-10-03T13:28:19+00:00",
-      "content_excerpt": "As Brazil heads toward Sunday’s presidential election first round, the contest is on a knife-edge. Polls show left-wing president Luiz Inácio Lula da Silva neck and neck with the ultraconservative Flávio Bolsonaro, the oldest of his imprisoned father’s brood. Jair Bolsonaro was defeated in 2022, as was the subsequent attempted coup that led to his criminal conviction. (He is now under house arrest.) Still, Bolsonarismo remained a powerful force. Compared to the high drama of four years ago, this campaign has at times seemed subdued, in part because most other candidates essentially offer duller, more gray-haired versions of Bolsonarismo. And yet the stakes couldn’t be higher. Not only is Brazilian democracy again on the line, but the region more widely is increasingly subject to right-wing",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/c6435098eda72851df7da0d5.json"
-    },
-    {
-      "id": "b39586bb41f0011d9a2df087",
-      "title": "The Battle of Cable Street Was an Antifascist Landmark",
-      "url": "https://jacobin.com/2026/10/cable-street-london-antifascism-mosley",
-      "author": "David Rosenberg",
-      "source": "Jacobin",
-      "published_at": "2026-10-03T13:28:19+00:00",
-      "content_excerpt": "Twenty years ago, I shared a platform with Aubrey Morris, one of the “ordinary” heroes of the Battle of Cable Street on October 4, 1936 — the iconic event in Britain’s prewar antifascist history. Aubrey was sixteen at the time, a Labour League of Youth member, and he still glowed with pride at having been part of the mass defiance that put the slogan “They shall not pass” into spectacular effect. He helped build barricades in Cable Street. Aubrey denied being a hero: “I did what any young Jewish boy would have done at that time.” Though he did have an additional motive. If Oswald Mosley’s uniformed, jackbooted British Union of Fascists (BUF) had invaded that narrow street to terrorize its largely Jewish residents, they would have reached number 86, where Aubrey’s grandmother ran the family",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/b39586bb41f0011d9a2df087.json"
-    },
-    {
-      "id": "380c07e31107419d851010fa",
-      "title": "Democrats Run From The Word ‘Socialism,’ Voters Warm To It",
-      "url": "https://democraticleft.dsausa.org/2026/10/03/democrats-run-from-the-word-socialism-voters-warm-to-it",
-      "author": "tfrasca@yahoo.com",
-      "source": "Democratic Left",
-      "published_at": "2026-10-03T12:58:56+00:00",
-      "content_excerpt": "Sixty candidates and some sitting U.S. Congress members signed a pledge saying “we are capitalist, not socialist.” The post Democrats Run From The Word ‘Socialism,’ Voters Warm To It appeared first on Democratic Left .",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/380c07e31107419d851010fa.json"
-    },
-    {
-      "id": "9715ab269f8a256c14c4836c",
-      "title": "U.S. Imperialism Resulted in a Forgotten Genocide in the Philippines",
-      "url": "https://democraticleft.dsausa.org/2026/10/02/u-s-imperialism-resulted-in-a-forgotten-genocide-in-the-philippines",
-      "author": "Democratic Left",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-10-02T20:44:15+00:00",
-      "content_excerpt": "Contemporary authoritarianism and exploitation of the country’s working class are rooted in its past as a U.S. colony. The post U.S. Imperialism Resulted in a Forgotten Genocide in the Philippines appeared first on Democratic Left .",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/9715ab269f8a256c14c4836c.json"
-    },
-    {
-      "id": "78555449d1af035f2d1fccb5",
-      "title": "Rochester Red Star | October 2026 | (Issue 30)",
-      "url": "https://rocdsa.org/blog/rochester-red-star-october-2026-issue-30",
+      "id": "821a2f4bb5e290eeedfb7e87",
+      "title": "Sanctuary for All",
+      "url": "https://rocdsa.org/blog/sanctuary-for-all",
       "author": "Rochester Red Star: News from Rochester DSA",
       "source": "DSA Feed - Global",
-      "published_at": "2026-10-02T20:44:15+00:00",
-      "content_excerpt": "Monthly Newsletter of the Rochester Chapter of Democratic Socialists of America Welcome to the October issue of Rochester Red Star , ROC DSA’s monthly newsletter. This month, find essays on DSA’s internal democracy, a voter guide, remarks on Marx, and more. You’ll also find upcoming events and coverage of chapter activities. Interested in contributing? Send submissions to bit.ly/SubmitRedStar , or get involved with our Communications Committee. Reach out to steering@rocdsa.org and join DSA today! October 2026 Newsletter (Online) Download The post Rochester Red Star | October 2026 | (Issue 30) first appeared on Rochester Red Star .",
+      "published_at": "2026-10-04T20:09:24+00:00",
+      "content_excerpt": "The following remarks were delivered by ROC DSA Co-Chair Gregory Lebens-Higgins at the Rochester Contemporary Art Center’s (RoCo) “Route of Refusal: A Public Art Walk” on Saturday, October 3, held as part of the national 2026 Fall of Freedom weekend . The event mixed creative art and expression with community and activism, including poetry that invoked words censored by the Trump regime, and collective music-making. RoCo’s current featured exhibit, “ Sanctuary: Borders & Belonging in 2026 ,” is a mixed-media presentation on dichotomies of sanctuary and isolation. “Projects in the exhibition amplify immigrant voices, document criminalization and detention, examine border politics and architecture, and give impacted people space to share diverse immigration stories.” The exhibit runs until N",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/78555449d1af035f2d1fccb5.json"
+      "article_path": "articles/821a2f4bb5e290eeedfb7e87.json"
     },
     {
-      "id": "e2e5cdd0fc1206eab0d01627",
-      "title": "IMCWP 24: Contribution of CP Mexico (PCM)",
-      "url": "https://mltoday.com/imcwp-24-contribution-of-cp-mexico-pcm-2",
-      "author": "MLToday",
-      "source": "MLToday",
-      "published_at": "2026-10-02T20:31:19+00:00",
-      "content_excerpt": "Comrades: We extend our fraternal greetings to all the communist and workers’ parties participating in this International Meeting of Communist and Workers’ Parties. We thank the Central Committee of the Communist Party of Cuba for organizing this 24th IMCWP, despite the very difficult conditions. This initiative arose within the framework of the 150th anniversary of the Communist Manifesto, at the invitation of the Communist Party of Greece. This forum has now been running for over a quarter of a century and has become a fundamental platform for the exchange of opinions and information, under the new conditions in which the international communist movement has had to operate after the predominance of market relations, incompatible with socialist construction, led to the temporary triumph o",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/e2e5cdd0fc1206eab0d01627.json"
-    },
-    {
-      "id": "7604825b520308dbdd2e1738",
-      "title": "The Stakes Are High in Brazil’s Upcoming Election",
-      "url": "https://jacobin.com/2026/10/brazil-election-scandal-inflation-lula-bolsonaro",
-      "author": "Alex MacArthur",
+      "id": "c5973beaf8d44beb12ba0cca",
+      "title": "Getting Fired from Mother Jones Made Michael Moore",
+      "url": "https://jacobin.com/2026/10/how-a-fight-over-the-contras-bankrolled-roger-me",
+      "author": "Bhaskar Sunkara",
       "source": "Jacobin",
-      "published_at": "2026-10-02T17:32:00+00:00",
-      "content_excerpt": "For a time this summer, Brazil’s presidential election seemed Luiz Inácio Lula da Silva’s to lose, and Latin America’s largest democracy appeared poised to hold its ground while right-wing candidates triumphed in Colombia, Peru, Honduras, Chile, and Panama, and the Left lost its long hold on Bolivia. Before, the race had been steadily tightening between the eighty-year-old president and his forty-five-year-old challenger, Flávio Bolsonaro, the blandly affable, lacquered version of his father, former President Jair Bolsonaro, who is serving a twenty-seven-year sentence for plotting a coup after his defeat. Even before Flávio’s candidacy was announced, polls had put Lula and Jair neck and neck in a hypothetical runoff, though the elder Bolsonaro was already ankle monitor–bound and barred fro",
+      "published_at": "2026-10-04T13:45:30+00:00",
+      "content_excerpt": "Before Paul Berman became a liberal hawk, he was a New Left veteran who edited a book called Quotations from the Anarchists . In 1986, his long-standing anxiety about the authoritarian left may have produced a casualty: Michael Moore’s magazine career. Moore had edited Mother Jones for five months when he tried to kill the second installment of Berman’s two-part commissioned dispatch on Nicaragua. Berman did identify the Contras as US-financed, traced their leadership to Anastasio Somoza Debayle’s National Guard, and acknowledged the “blood on their hands.” But his overarching concern was Sandinista Leninism: their restrictions on political competition and refusal to share power. Moore was unmoved. “The article was flatly wrong and the worst kind of patronizing bullshit,” he said. “You wou",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/7604825b520308dbdd2e1738.json"
+      "article_path": "articles/c5973beaf8d44beb12ba0cca.json"
     },
     {
-      "id": "8f9c85010f4ef6314ec32021",
-      "title": "Honorable Men",
-      "url": "https://inthesetimes.com/article/cornell-seven-epstein-files",
-      "author": "",
-      "source": "In These Times",
-      "published_at": "2026-10-02T16:58:28+00:00",
-      "content_excerpt": "Free for any DSA or Union member Get 10 print issues of our award-winning, worker-first journalism here!",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/8f9c85010f4ef6314ec32021.json"
-    },
-    {
-      "id": "3c27a98572b1fd0dc7b2bfff",
-      "title": "Everything Has Protein Now",
-      "url": "https://inthesetimes.com/article/protein-comic-art-political-cartoon-manosphere-bro",
-      "author": "",
-      "source": "In These Times",
-      "published_at": "2026-10-02T16:58:28+00:00",
-      "content_excerpt": "Free for any DSA or Union member Get 10 print issues of our award-winning, worker-first journalism here!",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/3c27a98572b1fd0dc7b2bfff.json"
-    },
-    {
-      "id": "31e8e13dc7064dbe48668334",
-      "title": "West Point’s Honor Code Taught the Military to Lie",
-      "url": "https://jacobin.com/2026/10/the-death-of-honor",
-      "author": "Jasper Craven",
+      "id": "7c0782a0b329e8ee69042971",
+      "title": "Reckoning With the Failures of Tech Worker Organizing",
+      "url": "https://jacobin.com/2026/10/labor-organizing-big-tech-google-twitter",
+      "author": "Alex N. Press",
       "source": "Jacobin",
-      "published_at": "2026-10-02T16:30:21+00:00",
-      "content_excerpt": "On May 12, 1962, General Douglas MacArthur strode into the West Point mess hall and delivered a stirring farewell address before an audience of more than two thousand cadets. It had been just over a year since another famed former general, President Dwight D. Eisenhower, had famously delivered his own closing warning about industry’s capture of the Pentagon. Now MacArthur seemed worried about the corruption of the American soldier’s soul — the death of honor itself. Honor was everything to MacArthur. Between 1919 and 1922, as West Point superintendent, he built cadet life around the academy’s hallowed motto, “Duty, Honor, Country.” He further instituted a cadet honor code and attendant honor boards, a quasi-judicial trial system meant to discourage unethical behavior and promote a culture ",
+      "published_at": "2026-10-04T13:45:30+00:00",
+      "content_excerpt": "In early 2022, a group of Twitter employees were quietly trying to unionize the company. They called themselves the “Starlings” after the birds whose synchronized flight patterns offer one another safety and warmth. The workers mapped out their coworkers and assessed their pro- or antiunion sentiments, held one-on-one conversations, and tried to stay off of management’s radar while they built toward a majority. Then Elon Musk bought Twitter. Half the workforce disappeared in the first round of layoffs , with cuts falling heavily on trust and safety and other teams where the union had organizers. Twitter’s employee directory went offline, and the offices temporarily closed. Against Tech Oligarchy: Worker Resistance in the World’s Most Powerful Industry , a new book by organizers JS Tan and ",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/31e8e13dc7064dbe48668334.json"
+      "article_path": "articles/7c0782a0b329e8ee69042971.json"
+    },
+    {
+      "id": "60275daa729345364426d19b",
+      "title": "Trump’s Politically Driven Deportations Are Quietly Rising",
+      "url": "https://jacobin.com/2026/10/political-deportation-trump-sarsour-mahdawi-khalil",
+      "author": "Branko Marcetic",
+      "source": "Jacobin",
+      "published_at": "2026-10-04T13:45:30+00:00",
+      "content_excerpt": "Donald Trump’s approval on immigration is so deathly low, and his ongoing deportation raids so unpopular even in red states, that you’d be forgiven for thinking his administration has pumped the brakes on the issue. Instead the White House is advancing a radical agenda that is increasingly targeted not at criminals or even law-abiding undocumented people but at legal immigrants. Pro-Palestinian activist and green card holder Mahmoud Khalil may have staved off his politically motivated deportation, but the Trump administration is only expanding its targeting of permanent residents. It just got the go-ahead to deport an Israel critic and leader of the largest mosque in Wisconsin, Salah Sarsour, based on decades-old convictions in Israel — namely, that he threw a rocks at members of the Israe",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/60275daa729345364426d19b.json"
+    },
+    {
+      "id": "7e8a0e057f6b565f295701cd",
+      "title": "The West Is Only Helping Putin Consolidate Support",
+      "url": "https://jacobin.com/2026/10/putin-ukraine-antiwar-opposition-eu-xenophobia",
+      "author": "Leonid Ragozin",
+      "source": "Jacobin",
+      "published_at": "2026-10-04T13:45:30+00:00",
+      "content_excerpt": "At the “We Shall Not Be Moved” event in New York on September 21, Senator Bernie Sanders delivered a programmatic speech that attacked the United States’ staggering trillion-dollar war budget. He described the war industry draining the life out of society as a global and not just American problem. This is why, he said, progressives should oppose Donald Trump’s war in Iran, Israel’s genocide in Gaza, and the United Arab Emirates’ proxy war in Sudan. This is also why “we must rally and work with grassroots activists in Russia to put an end to Putin’s disastrous war in Ukraine,” Sanders asserted. Had he been addressing an audience of the said Russian activists, his comment would have come across as uninformed and tone-deaf. Hardly any of them are physically in Russia to begin with — and hopes",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/7e8a0e057f6b565f295701cd.json"
     }
   ]
 }

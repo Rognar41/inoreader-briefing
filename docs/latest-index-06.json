@@ -1,12 +1,87 @@
 {
-  "generated_at": "2026-10-03T22:19:29.334776+00:00",
-  "generated_at_jst": "2026-10-04T07:19:29.334776+09:00",
-  "period_start": "2026-10-02T16:19:29.334776+00:00",
+  "generated_at": "2026-10-04T22:26:01.721397+00:00",
+  "generated_at_jst": "2026-10-05T07:26:01.721397+09:00",
+  "period_start": "2026-10-03T16:26:01.721397+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
-  "article_count": 10,
+  "article_count": 6,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "befc8225f0424d6e0277e69d",
+      "title": "How United Airlines became a link in Israel’s weapons supply chain",
+      "url": "https://breakthroughnews.org/2026/10/04/how-united-airlines-became-a-link-in-israels-weapons-supply-chain",
+      "author": "Zoe Alexandra",
+      "source": "BT News",
+      "published_at": "2026-10-04T19:52:56+00:00",
+      "content_excerpt": "United Airlines has been sending military hardware to Israel on passenger flights, right under your feet. A new report from the People’s Embargo for Palestine, the Palestinian Youth Movement, and others documents 2,761 shipments of military cargo to Israeli weapons manufacturers and military institutions, including Elbit Systems, Lockheed Martin Israel, Nevatim Airbase, and the Israeli Ministry of Defense. Belal Elsiesy, organizer with the PYM and the People’s Arms Embargo, joins Zoe Alexandra to break down the findings. With cargo including F-35 bomb release units used to drop 2,000-pound bombs on Gaza, Merkava tank sights, and “hunter-killer” machine gunner sights destined for Elbit, Elsiesy argues civilian airports are a critical point of intervention. He also discusses what’s behind El",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/befc8225f0424d6e0277e69d.json"
+    },
+    {
+      "id": "356ca2f94763ca4f86be188f",
+      "title": "Reclaiming workers’ ownership over artificial intelligence and technologies",
+      "url": "https://mronline.org/2026/10/04/reclaiming-workers-ownership-over-artificial-intelligence-and-technologies",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-04T15:36:45+00:00",
+      "content_excerpt": "Contemporary anti-technology movements and different forms of resistance against big technology companies, data corporations, their data centres, and AI are often branded as Luddite movements, creating a historical parallel with the workers’ uprising in textile towns of England in 1779. The post Reclaiming workers’ ownership over artificial intelligence and technologies appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/356ca2f94763ca4f86be188f.json"
+    },
+    {
+      "id": "abbbaf97699501aeb556c4e3",
+      "title": "‘And they call it democracy’",
+      "url": "https://mronline.org/2026/10/04/and-they-call-it-democracy",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-04T15:36:45+00:00",
+      "content_excerpt": "Commentary on social democracy and the current state of the labour movement and its leadership was not as detailed. The post ‘And they call it democracy’ appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/abbbaf97699501aeb556c4e3.json"
+    },
+    {
+      "id": "41e620c35cccd4b9eeae9af6",
+      "title": "Nepal pays for a climate crisis it didn’t create",
+      "url": "https://mronline.org/2026/10/04/nepal-pays-for-a-climate-crisis-it-didnt-create",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-04T15:08:32+00:00",
+      "content_excerpt": "Catastrophic flooding in the Himalayan country has left families searching for answers. The post Nepal pays for a climate crisis it didn’t create appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/41e620c35cccd4b9eeae9af6.json"
+    },
+    {
+      "id": "61575b5c4886be43de495c6e",
+      "title": "Can agroecology improve the resilience of African smallholder farmers?",
+      "url": "https://mronline.org/2026/10/04/can-agroecology-improve-the-resilience-of-african-smallholder-farmers",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-04T15:08:32+00:00",
+      "content_excerpt": "The crisis African smallholder farmers face is not a set of isolated technical problems; it is systemic. The post Can agroecology improve the resilience of African smallholder farmers? appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/61575b5c4886be43de495c6e.json"
+    },
     {
       "id": "fbf0884acbfdf2bfeff920e1",
       "title": "Venezuela’s battle for sovereignty continues",
@@ -21,141 +96,6 @@
       "priority": 2,
       "date_missing": false,
       "article_path": "articles/fbf0884acbfdf2bfeff920e1.json"
-    },
-    {
-      "id": "7f66064fba86b6a2147191d4",
-      "title": "Unexploded ordnances left by Israel in Gaza pose a constant danger to Palestinians",
-      "url": "https://mondoweiss.net/2026/10/unexploded-ordnances-left-by-israel-in-gaza-pose-a-constant-danger-to-palestinians",
-      "author": "Khuloud Sulaiman",
-      "source": "Mondoweiss",
-      "published_at": "2026-10-03T13:21:50+00:00",
-      "content_excerpt": "In addition to the unrelenting bombardment, Palestinians in Gaza are at risk of losing their lives and limbs through the unexploded ordnances that the Israeli army leaves behind.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/7f66064fba86b6a2147191d4.json"
-    },
-    {
-      "id": "f72ea49a156144e67901adff",
-      "title": "Paging Hezbollah? Exposing Israel’s terrorist pager attack on Lebanon | w/ Radwan Mortada",
-      "url": "https://breakthroughnews.org/2026/10/02/paging-hezbollah-exposing-israels-terrorist-pager-attack-on-lebanon-w-radwan-mortada",
-      "author": "Rania Khalek",
-      "source": "BT News",
-      "published_at": "2026-10-02T22:27:39+00:00",
-      "content_excerpt": "Two years after Israel’s pager attacks on Lebanon killed dozens and maimed thousands, Lebanese investigative journalist Radwan Mortada’s new two-part Al Jazeera documentary, The Trap (Al-Mesyada), goes inside the September 2024 Mossad operation more than a decade in the making. Mortada joins Rania Khalek to trace the web of front companies stretching from Taiwan to Bulgaria that enabled Israel to infiltrate Gold Apollo, a supplier Hezbollah had trusted for decades. As a new Israeli propaganda film Paging Hezbollah heads for US theaters, Mortada reveals that Israel’s goal to kill as many as 20,000 Hezbollah fighters with booby-trapped walkie-talkies, in fact, fell far short. He also breaks down Hezbollah’s own fatal mistakes, and the lasting psychological toll of a terrorist attack that, co",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/f72ea49a156144e67901adff.json"
-    },
-    {
-      "id": "c21a6b316e07fb03f874bb81",
-      "title": "Brazil bans online betting",
-      "url": "https://www.brasildefato.com.br/2026/10/02/brazil-bans-online-betting",
-      "author": "",
-      "source": "Brasil de Fato",
-      "published_at": "2026-10-02T20:47:53+00:00",
-      "content_excerpt": "The impasse is over. After days of uncertainty over what Brazil should do about online betting, President Luiz Inácio Lula da Silva’s government announced Friday in São Paulo that sports betting houses will be shut down nationwide. Online casinos, including gambling games such as Tigrinho , are banned as well. The bans on bets and online casinos took effect immediately. Lula is also expected to send Congress a bill establishing penalties for anyone who operates, runs, or promotes betting. The move came through a decree signed by Lula, which took effect right away. Finance Minister Dario Durigan made the announcement and explained the reasoning. “Our decision stems from the harmful effect that bets have had in Brazil,” Durigan said. He pointed to two moments of “shame and neglect” in how be",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/c21a6b316e07fb03f874bb81.json"
-    },
-    {
-      "id": "28157336dff16c73256376f3",
-      "title": "Lula and Trump Defend Opposing World Views at UN General Assembly",
-      "url": "https://www.brasildefato.com.br/2026/10/02/lula-and-trump-defend-opposing-world-views-at-un-general-assembly",
-      "author": "",
-      "source": "Brasil de Fato",
-      "published_at": "2026-10-02T20:47:53+00:00",
-      "content_excerpt": "The two main speeches at the opening of the U.N. General Assembly were delivered by Brazilian President Luiz Inácio Lula da Silva and U.S. President Donald Trump. The leaders addressed many of the same issues, but their speeches offered sharply contrasting visions of the global order. Sérgio Costa, a sociology professor at the Free University of Berlin, described Lula’s speech as important and forceful, not only for its defense of multilateralism, but also for the statesmanship Lula displayed in his address. “I think Lula made this very clear: multilateralism is essential to global health, for example. Without multilateralism, we face vaccine shortages and the return of diseases that had been eradicated. Climate and the environment are multilateral issues. So is preventing wars, especially",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/28157336dff16c73256376f3.json"
-    },
-    {
-      "id": "b57f838024b2db774b0c465f",
-      "title": "Sliman Mansour: A Life Spent Painting Hope",
-      "url": "https://mronline.org/2026/10/02/sliman-mansour-a-life-spent-painting-hope",
-      "author": "Samia Tawil",
-      "source": "MR Online",
-      "published_at": "2026-10-02T20:25:21+00:00",
-      "content_excerpt": "The late Palestinian painter Sliman Mansour left the world a precious legacy: an art whose symbolism mourns the longest exile of our age. The post Sliman Mansour: A Life Spent Painting Hope appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/b57f838024b2db774b0c465f.json"
-    },
-    {
-      "id": "f799534490bd482b92bbbdea",
-      "title": "‘Cut ties with Palantir’, say UK’s health workers",
-      "url": "https://breakthroughnews.org/2026/10/02/cut-ties-with-palantir-say-uks-health-workers",
-      "author": "Ana Vračar",
-      "source": "BT News",
-      "published_at": "2026-10-02T20:24:45+00:00",
-      "content_excerpt": "On Thursday, October 1, health workers, patients, and activists protested Palantir’s role in the National Health Service (NHS) at more than 40 locations across England. Their demonstrations were part of a global week of action demanding that governments cut ties with the spy-tech firm over human rights and privacy concerns. Rallies took place in front of Palantir’s London headquarters, as well as in Liverpool, Manchester, Newcastle, Sheffield and many more cities. “Palantir’s tools are used by the Israeli military in Gaza and by ICE to track and surveil migrants in the US,” campaign groups – including Just Treatment, Health Workers for a Free Palestine, Medact, and Global Justice Now – stated . “A company profiting from human rights violations has no place in the NHS or in any of our publi",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/f799534490bd482b92bbbdea.json"
-    },
-    {
-      "id": "05e168ef074fad1510608edd",
-      "title": "Israel to divide central West Bank with settler-only highway",
-      "url": "https://breakthroughnews.org/2026/10/02/israel-to-divide-central-west-bank-with-settler-only-highway",
-      "author": "Aseel Saleh",
-      "source": "BT News",
-      "published_at": "2026-10-02T20:24:45+00:00",
-      "content_excerpt": "In late September, Israeli media reported that Netanyahu’s government intends to adjust access to key routes in the central West Bank. It plans to reopen Route 463 to settler-only traffic in the governorate of Ramallah and Al-Bireh. Yisrael Gantz , the leader of the Yesha Council (an umbrella organization representing Israeli municipal councils across Israeli settlements in the West Bank and the Jordan Valley) confirmed that plans to reopen the road received preliminary approval and funding. Preparations are also underway by the Israeli military to complete “the security, legal, and logistical” steps required to reopen the route (also known as Wallerstein Road). History of the road The road was paved in 1994 under the directions of Pinchas Wallerstein, a founder of the settlement movement,",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/05e168ef074fad1510608edd.json"
-    },
-    {
-      "id": "c14c0cb86f339c317742e044",
-      "title": "Life on the edge of Israel’s occupation in southern Lebanon",
-      "url": "https://mondoweiss.net/2026/10/life-on-the-edge-of-israels-occupation-in-southern-lebanon",
-      "author": "Silvia Casadei",
-      "source": "Mondoweiss",
-      "published_at": "2026-10-02T19:29:27+00:00",
-      "content_excerpt": "As part of a U.S.-brokered agreement with Israel and Lebanon, residents of some southern villages are cautiously returning to their homes. What they have found is a shell of their former lives, and a daily menacing presence of the Israeli occupation.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/c14c0cb86f339c317742e044.json"
-    },
-    {
-      "id": "0a42a7eea378eec5a6bc551d",
-      "title": "J Street is trying to rescue Zionism in the battle over Israel’s future in the Democratic Party",
-      "url": "https://mondoweiss.net/2026/10/j-street-is-trying-to-rescue-zionism-in-the-battle-over-israels-future-in-the-democratic-party",
-      "author": "Mitchell Plitnick",
-      "source": "Mondoweiss",
-      "published_at": "2026-10-02T17:27:30+00:00",
-      "content_excerpt": "The contours of the battle over the future of the Democrats' policy toward Israel are starting to take shape, and J Street is trying to cement support for the existence of a Jewish ethno-state as the Party's bottom line.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/0a42a7eea378eec5a6bc551d.json"
     }
   ]
 }
