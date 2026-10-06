@@ -1,12 +1,132 @@
 {
-  "generated_at": "2026-10-04T22:26:01.721397+00:00",
-  "generated_at_jst": "2026-10-05T07:26:01.721397+09:00",
-  "period_start": "2026-10-03T16:26:01.721397+00:00",
+  "generated_at": "2026-10-06T00:54:20.773935+00:00",
+  "generated_at_jst": "2026-10-06T09:54:20.773935+09:00",
+  "period_start": "2026-10-04T18:54:20.773935+00:00",
   "lookback_hours": 30,
   "folder": "00_毎日確認",
-  "article_count": 5,
+  "article_count": 9,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "50c1246f4e09de4080488f6e",
+      "title": "No, Digger Is Not a Misunderstood Masterpiece",
+      "url": "https://jacobin.com/2026/10/digger-inarritu-cruise-climate-change",
+      "author": "Eileen Jones",
+      "source": "Jacobin",
+      "published_at": "2026-10-05T20:57:55+00:00",
+      "content_excerpt": "You may have heard already that Digger , the new film cowritten and directed by Alejandro González Iñárritu ( The Revenant, Birdman ) and starring Tom Cruise, is an expensive box-office bomb that got many annihilating reviews . One of the better ones sums it up perfectly: “It’s like being trapped inside a tuba for two hours.” Bad news travels fast. And I’m going to further speed it along by providing an all-spoiler review, so consider yourself warned. This is in order to convince you that you’d be better off staying home watching Dr. Strangelove , Stanley Kubrick’s scathingly funny and incisive 1964 protest against world-ending insanity, which set the template for satirical black comedy for generations to come. Cue the predictable guardians of art and high culture emerging to defend Digger",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/50c1246f4e09de4080488f6e.json"
+    },
+    {
+      "id": "c06e5836876aedcd39e298f2",
+      "title": "Lula Is in Danger of Losing Brazil’s Presidency",
+      "url": "https://jacobin.com/2026/10/brazil-elections-lula-bolsonaro-right",
+      "author": "Aldo Cordeiro Sauda",
+      "source": "Jacobin",
+      "published_at": "2026-10-05T18:52:44+00:00",
+      "content_excerpt": "The first round of Brazil’s elections dealt a heavy blow to the Workers’ Party (PT) and, more broadly, to the cause of democracy in Latin America. In 2022, Luiz Inácio Lula da Silva finished some six million votes ahead of Jair Bolsonaro in the first round, a margin that narrowed to about two million in the runoff. This time, Flávio Bolsonaro finished 2.2 million votes ahead of Lula, a lead of three percentage points. That makes the second round on October 25 especially difficult for Lula and the Brazilian left. The candidates who finished behind the top two, who together took around six million votes (roughly 6 percent), are all on the far right. They supported Jair Bolsonaro’s government and opposed Lula’s, so a broad front is likely to form against him in the runoff. There is a real cha",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/c06e5836876aedcd39e298f2.json"
+    },
+    {
+      "id": "9fcc679f952886b9ef571848",
+      "title": "Your rights to privacy in the workplace",
+      "url": "https://workerorganizing.org/resources/labor-law-rights/workplace-privacy",
+      "author": "Emergency Workplace Organizing Committee",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-10-05T17:28:07+00:00",
+      "content_excerpt": "U.S. federal law provides certain protections to workers against retaliation and surveillance. Knowing these rights can strengthen your organizing campaign. The post Your rights to privacy in the workplace appeared first on EWOC .",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/9fcc679f952886b9ef571848.json"
+    },
+    {
+      "id": "06578fc2dfdf649ea12566a5",
+      "title": "Richie Floyd: Bernie’s 2016 Campaign Changed My Life",
+      "url": "https://jacobin.com/2026/10/floyd-florida-bernie-2016-socialism",
+      "author": "Richie Floyd",
+      "source": "Jacobin",
+      "published_at": "2026-10-05T16:49:41+00:00",
+      "content_excerpt": "Bernie Sanders changed my life. And it happened overnight. Just over ten years ago, I was working as a hardware engineer. I grew up working class in the deeply conservative Florida Panhandle, where the Democratic Party had next to no foothold. The neoliberal ideas leading the conversation in the Democratic and Republican parties left me feeling disillusioned and unmoored from both the Left and the Right. I didn’t believe politics as it existed could have much of a positive impact on my life. While visiting with family at my parents’ house, I was asked by a friend if I had heard of Bernie Sanders. I had not, so he queued up a YouTube video called “Progress” in which Bernie stood on a stage on the shore of Lake Champlain in Burlington and outlined the major themes of his presidential campaig",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/06578fc2dfdf649ea12566a5.json"
+    },
+    {
+      "id": "f3c60b00b98f430db300522d",
+      "title": "Thomas Piketty’s Utopian Socialism",
+      "url": "https://jacobin.com/2026/10/thomas-pikettys-utopian-socialism",
+      "author": "Virgilio Urbina Lazardi",
+      "source": "Jacobin",
+      "published_at": "2026-10-05T15:18:19+00:00",
+      "content_excerpt": "In June, the policy world held its collective breath as the World Inequality Lab, the outfit headed by Thomas Piketty , released a report meant to serve as a capstone to years of extensive research on the elusive goal of leveling global incomes. Christened the Global Justice Report ( GJR ), Piketty and his collaborators promoted it as the first data-driven synthesis of two long-standing progressive ambitions that had remained more aspirational than actionable: dramatically reducing income and wealth inequality both within countries and between them, on the one hand, and achieving planetary sustainability in the age of global warming, on the other. The GJR , in short, aimed to demonstrate that the sort of inequality studies that had made Piketty famous with the 2013 publication of Capital i",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/f3c60b00b98f430db300522d.json"
+    },
+    {
+      "id": "c938776e1bf1e859d3a713ee",
+      "title": "Being Against Capitalism Isn’t Enough",
+      "url": "https://jacobin.com/2026/10/capitalism-socialism-economy-planning-cooperatives",
+      "author": "Mike Beggs",
+      "source": "Jacobin",
+      "published_at": "2026-10-05T13:47:38+00:00",
+      "content_excerpt": "We live in a time when everything is political — except politics. We routinely treat everyday choices about culture, consumption, and personal identity as expressions of moral allegiance, parsing them for hidden meanings and assigning them to partisan camps. We infer entire worldviews from what people watch, buy, joke about, or post online. And yet, in this atmosphere of constant ideological conflict, the most fundamental political questions are almost never asked. How should an economy be organized? Are disparities in income and wealth intrinsically objectionable, or are they acceptable as long as no one is starving? Can political equality truly exist alongside economic inequality? If democracy is good for governments, why isn’t it good for workplaces? Much of the twentieth century was de",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/c938776e1bf1e859d3a713ee.json"
+    },
+    {
+      "id": "41b8ea8680d9565e36d88398",
+      "title": "Spain’s New Protest Movement Is Putting Class Center Stage",
+      "url": "https://jacobin.com/2026/10/spain-housing-protests-sanchez-class",
+      "author": "Paolo Gerbaudo",
+      "source": "Jacobin",
+      "published_at": "2026-10-05T13:47:38+00:00",
+      "content_excerpt": "Fifteen years isn’t enough for a generation, but it seems it is the right amount of time for a “political cycle.” In Spain, activists and progressive academics have in recent years often spoken of the exhaustion of the political cycle that began with the Indignados protests, known as 15-M (so named after May 15, 2011, the first day of protest), and continued with the foundation of Podemos and its rapid growth, until the formation of the first broad-left coalition in 2019. This cycle has borne many results and led to a self-styled “progressive government” that presided over a period of steady economic growth. However, many issues have remained unresolved, and new strains have emerged in Spanish society that have fueled discontent at the institutional left and the limits of government policy",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/41b8ea8680d9565e36d88398.json"
+    },
+    {
+      "id": "e0c6acd942a3042ed80ddb49",
+      "title": "Paris: Presentation of George Mavrikos’ book at the Bourse du Travail",
+      "url": "https://www.theoryandpraxis.eu/paris-presentation-du-livre-de-george-mavrikos-a-la-bourse-du-travail",
+      "author": "admin",
+      "source": "theory and praxis",
+      "published_at": "2026-10-05T09:22:37+00:00",
+      "content_excerpt": "On the joint initiative of the WFTU members in France and the International Workers’ Institute (IWI), the presentation of the book “Critical Notes on the History of the World Trade-Union Movement – Issues of Tactics and Strategy” took place on October 3 in Paris, at the Eugène Hénaff hall of the Paris Bourse du Travail. Speakers included Caroline Viau, Esteban Muñoz, Christoforos Giakoumelos, and Matthieu Bolle-Reddat, as well as the author of the book, George Mavrikos. A rich debate and interventions by the participants followed. The presentation coincided with the anniversary of the founding of the WFTU, which took place on October 3, 1945, in Paris. The post Paris: Presentation of George Mavrikos’ book at the Bourse du Travail appeared first on theory and praxis .",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/e0c6acd942a3042ed80ddb49.json"
+    },
     {
       "id": "821a2f4bb5e290eeedfb7e87",
       "title": "Sanctuary for All",
@@ -21,66 +141,6 @@
       "priority": 1,
       "date_missing": false,
       "article_path": "articles/821a2f4bb5e290eeedfb7e87.json"
-    },
-    {
-      "id": "c5973beaf8d44beb12ba0cca",
-      "title": "Getting Fired from Mother Jones Made Michael Moore",
-      "url": "https://jacobin.com/2026/10/how-a-fight-over-the-contras-bankrolled-roger-me",
-      "author": "Bhaskar Sunkara",
-      "source": "Jacobin",
-      "published_at": "2026-10-04T13:45:30+00:00",
-      "content_excerpt": "Before Paul Berman became a liberal hawk, he was a New Left veteran who edited a book called Quotations from the Anarchists . In 1986, his long-standing anxiety about the authoritarian left may have produced a casualty: Michael Moore’s magazine career. Moore had edited Mother Jones for five months when he tried to kill the second installment of Berman’s two-part commissioned dispatch on Nicaragua. Berman did identify the Contras as US-financed, traced their leadership to Anastasio Somoza Debayle’s National Guard, and acknowledged the “blood on their hands.” But his overarching concern was Sandinista Leninism: their restrictions on political competition and refusal to share power. Moore was unmoved. “The article was flatly wrong and the worst kind of patronizing bullshit,” he said. “You wou",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/c5973beaf8d44beb12ba0cca.json"
-    },
-    {
-      "id": "7c0782a0b329e8ee69042971",
-      "title": "Reckoning With the Failures of Tech Worker Organizing",
-      "url": "https://jacobin.com/2026/10/labor-organizing-big-tech-google-twitter",
-      "author": "Alex N. Press",
-      "source": "Jacobin",
-      "published_at": "2026-10-04T13:45:30+00:00",
-      "content_excerpt": "In early 2022, a group of Twitter employees were quietly trying to unionize the company. They called themselves the “Starlings” after the birds whose synchronized flight patterns offer one another safety and warmth. The workers mapped out their coworkers and assessed their pro- or antiunion sentiments, held one-on-one conversations, and tried to stay off of management’s radar while they built toward a majority. Then Elon Musk bought Twitter. Half the workforce disappeared in the first round of layoffs , with cuts falling heavily on trust and safety and other teams where the union had organizers. Twitter’s employee directory went offline, and the offices temporarily closed. Against Tech Oligarchy: Worker Resistance in the World’s Most Powerful Industry , a new book by organizers JS Tan and ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/7c0782a0b329e8ee69042971.json"
-    },
-    {
-      "id": "60275daa729345364426d19b",
-      "title": "Trump’s Politically Driven Deportations Are Quietly Rising",
-      "url": "https://jacobin.com/2026/10/political-deportation-trump-sarsour-mahdawi-khalil",
-      "author": "Branko Marcetic",
-      "source": "Jacobin",
-      "published_at": "2026-10-04T13:45:30+00:00",
-      "content_excerpt": "Donald Trump’s approval on immigration is so deathly low, and his ongoing deportation raids so unpopular even in red states, that you’d be forgiven for thinking his administration has pumped the brakes on the issue. Instead the White House is advancing a radical agenda that is increasingly targeted not at criminals or even law-abiding undocumented people but at legal immigrants. Pro-Palestinian activist and green card holder Mahmoud Khalil may have staved off his politically motivated deportation, but the Trump administration is only expanding its targeting of permanent residents. It just got the go-ahead to deport an Israel critic and leader of the largest mosque in Wisconsin, Salah Sarsour, based on decades-old convictions in Israel — namely, that he threw a rocks at members of the Israe",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/60275daa729345364426d19b.json"
-    },
-    {
-      "id": "7e8a0e057f6b565f295701cd",
-      "title": "The West Is Only Helping Putin Consolidate Support",
-      "url": "https://jacobin.com/2026/10/putin-ukraine-antiwar-opposition-eu-xenophobia",
-      "author": "Leonid Ragozin",
-      "source": "Jacobin",
-      "published_at": "2026-10-04T13:45:30+00:00",
-      "content_excerpt": "At the “We Shall Not Be Moved” event in New York on September 21, Senator Bernie Sanders delivered a programmatic speech that attacked the United States’ staggering trillion-dollar war budget. He described the war industry draining the life out of society as a global and not just American problem. This is why, he said, progressives should oppose Donald Trump’s war in Iran, Israel’s genocide in Gaza, and the United Arab Emirates’ proxy war in Sudan. This is also why “we must rally and work with grassroots activists in Russia to put an end to Putin’s disastrous war in Ukraine,” Sanders asserted. Had he been addressing an audience of the said Russian activists, his comment would have come across as uninformed and tone-deaf. Hardly any of them are physically in Russia to begin with — and hopes",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/7e8a0e057f6b565f295701cd.json"
     }
   ]
 }

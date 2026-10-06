@@ -1,12 +1,282 @@
 {
-  "generated_at": "2026-10-04T22:26:01.721397+00:00",
-  "generated_at_jst": "2026-10-05T07:26:01.721397+09:00",
-  "period_start": "2026-10-03T16:26:01.721397+00:00",
+  "generated_at": "2026-10-06T00:54:20.773935+00:00",
+  "generated_at_jst": "2026-10-06T09:54:20.773935+09:00",
+  "period_start": "2026-10-04T18:54:20.773935+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
-  "article_count": 6,
+  "article_count": 19,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "f3399f182d4b616db3d4a6c8",
+      "title": "Thousands begin march to Islamabad calling for release of Imran Khan",
+      "url": "https://breakthroughnews.org/2026/10/05/thousands-begin-march-to-islamabad-calling-for-release-of-imran-khan",
+      "author": "Abdul Rahman",
+      "source": "BT News",
+      "published_at": "2026-10-06T00:12:10+00:00",
+      "content_excerpt": "This content is for members only. Visit the site and log in/register to read.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/f3399f182d4b616db3d4a6c8.json"
+    },
+    {
+      "id": "f70e880a6a3e1afe3066e009",
+      "title": "Housing crisis leads to snap election in Spain",
+      "url": "https://breakthroughnews.org/2026/10/05/housing-crisis-leads-to-snap-election-in-spain",
+      "author": "Ana Vračar",
+      "source": "BT News",
+      "published_at": "2026-10-06T00:12:10+00:00",
+      "content_excerpt": "Spanish Prime Minister Pedro Sánchez announced a snap election for late November after two housing bills were defeated in a parliamentary vote on Friday, October 2. The bills came amid widespread mass mobilizations demanding urgent action on the country’s housing crisis, following the eviction of an 87-year-old woman in Madrid. Hundreds of thousands of people took to the streets of approximately 50 cities over the weekend in support of these demands. “It is true that there are still many injustices to correct, many social goals to achieve, and many problems to solve – above all in the areas of inequality, public services, and access to housing,” Sánchez said in his speech on Monday, as he appealed to voters to give progressive forces more decisive electoral support to allow them to impleme",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/f70e880a6a3e1afe3066e009.json"
+    },
+    {
+      "id": "98d9c40a5d23f31717289573",
+      "title": "Echoes of COINTELPRO w/ Watani Stiner & Kazu Haga",
+      "url": "https://convergencemag.com/podcast/echoes-of-cointelpro-w-watani-stiner-kazu-haga",
+      "author": "Cayden Mak",
+      "source": "Convergence",
+      "published_at": "2026-10-05T23:28:23+00:00",
+      "content_excerpt": "On January 17, 1969, an altercation at UCLA ended in gunfire that left two members of the Black Panther Party dead. Watani Stiner–who was a member of the conflicting Us Organization–was there that day. But despite not shooting anyone, he and his brother George were sentenced to life in prison for conspiracy to commit murder and second-degree murder. He spent the next several decades in prison… Source",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/98d9c40a5d23f31717289573.json"
+    },
+    {
+      "id": "6c8151cf42ba134332f44f59",
+      "title": "Iran welcomes the withdrawal of US forces from Iraq, calling it a victory for the resistance",
+      "url": "https://breakthroughnews.org/2026/10/05/iran-welcomes-the-withdrawal-of-us-forces-from-iraq-calling-it-a-victory-for-the-resistance",
+      "author": "Abdul Rahman",
+      "source": "BT News",
+      "published_at": "2026-10-05T21:09:25+00:00",
+      "content_excerpt": "The withdrawal of the remaining US troops from Iraq is a victory for the Iraqi nation and the resistance force in the region, Iran claimed on Thursday, October 1, also calling for greater cooperation between both the countries to achieve complete sovereignty for Iraq. “The US, despite possessing vast resources and equipment, has been expelled from Iraq, and the Iraqi people are celebrating this victory,” head of Iran’s Quds’ forces Esmail Qaani said during a program held in Tehran to mark the second anniversary of the Israeli assassination of Hezbollah leader Hasan Nasrallah. He thanked the “resistance of the Iraqi nation and the heroes of the Resistance Front” for making the end of the US occupation a reality. The US withdrew all its remaining forces from Iraq on September 30, as per the ",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/6c8151cf42ba134332f44f59.json"
+    },
+    {
+      "id": "8f8700321f6fc4ddf360ef79",
+      "title": "The first national gold refinery: How Burkina Faso’s mining revolution advances its struggle for sovereignty",
+      "url": "https://breakthroughnews.org/2026/10/05/the-first-national-gold-refinery-how-burkina-fasos-mining-revolution-advances-its-struggle-for-sovereignty",
+      "author": "Pavan Kulkarni",
+      "source": "BT News",
+      "published_at": "2026-10-05T21:09:25+00:00",
+      "content_excerpt": "After expanding domestic control over mining to pursue economic sovereignty, Burkina Faso has moved up the value chain with its first gold refinery, inaugurated by its president, Capt. Ibrahim Traoré, on September 28. Most of the gold mined in the country was previously exported as unrefined dore to be processed abroad. Now, it will be processed, tested for purity, and certified domestically at the Raffinerie Nationale d’Or du Burkina Faso, built at a cost of USD 19 million on more than 12 acres in the capital, Ouagadougou.​ “From now on, gold … must not only be extracted in Burkina Faso, it must be processed, controlled, valued and certified in Burkina Faso,” Traoré said, inaugurating the new facility.​ Inviting the country’s youth “to learn to master the whole value chain,” he added, “Na",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/8f8700321f6fc4ddf360ef79.json"
+    },
+    {
+      "id": "821007387fad6c965b262468",
+      "title": "Israel is rewriting the Palestinian curriculum in East Jerusalem to erase Palestinian identity",
+      "url": "https://mondoweiss.net/2026/10/israel-is-rewriting-the-palestinian-curriculum-in-east-jerusalem-to-erase-palestinian-identity",
+      "author": "Aseel Mafarjeh",
+      "source": "Mondoweiss",
+      "published_at": "2026-10-05T16:40:38+00:00",
+      "content_excerpt": "Nearly 38 percent of Palestinian students in East Jerusalem now study the Israeli curriculum, while the rest of the students' textbooks are being censored line by line, stripping mention of Jerusalem, prisoners, the Nakba, and freedom fighters.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/821007387fad6c965b262468.json"
+    },
+    {
+      "id": "ced989496b6aebb4d390516b",
+      "title": "The trial and humiliation of Sami Abu Shehadeh",
+      "url": "https://mondoweiss.net/2026/10/the-trial-and-humiliation-of-sami-abu-shehadeh",
+      "author": "Abdaljawad Omar",
+      "source": "Mondoweiss",
+      "published_at": "2026-10-05T15:10:18+00:00",
+      "content_excerpt": "Palestinians with Israeli citizenship are no longer asked to pledge allegiance, but to renounce their own history. Palestinian Knesset candidate Sami Abu Shehadeh did exactly that before Israel's Supreme Court, and was pushed out anyway.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/ced989496b6aebb4d390516b.json"
+    },
+    {
+      "id": "11a0ecaeb0ca0f09eb161568",
+      "title": "Far Right Makes Gains in Brazil as Flávio Bolsonaro Tops Lula in First Round of Presidential Race",
+      "url": "https://www.democracynow.org/2026/10/5/brazil_election",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-10-05T14:45:07+00:00",
+      "content_excerpt": "This is a rush transcript. Copy may not be in its final form. AMY GOODMAN : We begin today’s show in Brazil, where the presidential race between President Luiz Inácio Lula da Silva and far-right Senator Flávio Bolsonaro is headed to a runoff. During the first round of voting Sunday, Bolsonaro received 47% of the vote; Lula got 45%. Bolsonaro is the son of Brazil’s former far-right President Jair Bolsonaro, currently under house arrest serving a 27-year sentence after he was convicted of plotting a military coup in 2022 to overturn Lula’s win in that year’s election. If elected, Flávio Bolsonaro has pledged to grant amnesty to his father and others involved in the coup. Flávio has also vowed to strengthen ties to the Trump administration. In Senate races, Bolsonaro’s party secured 19 of the",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/11a0ecaeb0ca0f09eb161568.json"
+    },
+    {
+      "id": "bc9e75a09e310d5a317dadea",
+      "title": "“I Am Jane Doe”: Cornell Case Reignites Debate over Rape Culture, Frats & Prosecuting Sex Crimes",
+      "url": "https://www.democracynow.org/2026/10/5/cornell_7",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-10-05T14:45:07+00:00",
+      "content_excerpt": "Revelations of sexual assault at a Cornell University fraternity in 2024 and how the university responded have sparked national outrage, reigniting a public debate about “the extent to which fraternities, the extent to which athletics really support this kind of culture that allows perpetrators to escape with little or no accountability,” says law professor Deborah Tuerkheimer. In 2024, seven male students avoided criminal prosecution after allegedly drugging and gang-raping a female student at the Chi Phi fraternity house. Cornell is now under intense scrutiny for its handling of the original investigation, which found that the student identified as Jane Doe was sexually assaulted by two of seven men, resulting in expulsions for two and lesser consequences for the other five. Tompkins Cou",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/bc9e75a09e310d5a317dadea.json"
+    },
+    {
+      "id": "1ceddb75d8283cb2b2e90e4c",
+      "title": "Meet Issa Amro: Palestinian Human Rights Advocate Attacked by Settlers, Detained by Israeli Army",
+      "url": "https://www.democracynow.org/2026/10/5/issa_amro_detained",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-10-05T14:45:07+00:00",
+      "content_excerpt": "We speak with Palestinian human rights defender Issa Amro after he was detained at an Israeli military base for seven hours on Friday. Amro, the founder of the Hebron-based group Youth Against Settlements, was helping a Palestinian family that he says had been attacked by armed Israeli settlers at their farmhouse outside Hebron in the occupied West Bank. Amro says when Israeli soldiers arrived, they ignored the settlers and instead targeted the Palestinians, including him. Amro tells Democracy Now! that soldiers handcuffed and blindfolded him before transporting him to the base in the back of a military vehicle. He was freed after an international outcry over his arrest. “What happened to me is happening to many Palestinian families and many Palestinian human rights defenders and many Pale",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/1ceddb75d8283cb2b2e90e4c.json"
+    },
+    {
+      "id": "5c12c186d3c8950c4d229f9c",
+      "title": "Double-digit health insurance increases will hit individual and small group plans in 2027, again",
+      "url": "https://mronline.org/2026/10/05/double-digit-health-insurance-increases-will-hit-individual-and-small-group-plans-in-2027-again",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-05T13:27:31+00:00",
+      "content_excerpt": "Hundreds of thousands of Minnesotans are facing significantly more expensive health insurance next year. The post Double-digit health insurance increases will hit individual and small group plans in 2027, again appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/5c12c186d3c8950c4d229f9c.json"
+    },
+    {
+      "id": "ea016e35455ba5d494c34ac3",
+      "title": "Ansarallah targets Aramco with missiles, drones as Saudi jets launch 60 raids",
+      "url": "https://mronline.org/2026/10/05/ansarallah-targets-aramco-with-missiles-drones-as-saudi-jets-launch-60-raids",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-05T12:29:57+00:00",
+      "content_excerpt": "Yemen announced missile and drone strikes targeting Aramco in Riyadh, while Saudi warplanes launched 60 raids across five Yemeni governorates. The post Ansarallah targets Aramco with missiles, drones as Saudi jets launch 60 raids appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/ea016e35455ba5d494c34ac3.json"
+    },
+    {
+      "id": "c9fe55f54a543f58703b1628",
+      "title": "CIA Director John Brennan pressed Ukraine government to use force in Donbass in April 2014",
+      "url": "https://mronline.org/2026/10/05/cia-director-john-brennan-pressed-ukraine-government-to-use-force-in-donbass-in-april-2014",
+      "author": "Jeremy Kuzmarov",
+      "source": "MR Online",
+      "published_at": "2026-10-05T11:02:00+00:00",
+      "content_excerpt": "CIA Director John Brennan was key to U.S. foreign policy strategy that aimed to draw Russia into quagmire in Ukraine and attack its energy infrastructure so U.S. oil and gas producers could take over its depleted markets. The post CIA Director John Brennan pressed Ukraine government to use force in Donbass in April 2014 appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/c9fe55f54a543f58703b1628.json"
+    },
+    {
+      "id": "cd765b74d520700c204399fe",
+      "title": "Bioinputs school in China: Global South could meet up to 50% of fertiliser demand with organic waste",
+      "url": "https://mronline.org/2026/10/05/bioinputs-school-in-china-global-south-could-meet-up-to-50-of-fertiliser-demand-with-organic-waste",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-05T10:03:17+00:00",
+      "content_excerpt": "For decades, China was the world's largest consumer of chemical fertilisers, using approximately 50 million tonnes per year, according to the National Bureau of Statistics (NBS). Today, according to FAO data, it is the only country that has reduced its consumption. The post Bioinputs school in China: Global South could meet up to 50% of fertiliser demand with organic waste appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/cd765b74d520700c204399fe.json"
+    },
+    {
+      "id": "cbb6f22e54895b9c5e2f4913",
+      "title": "Labour’s share",
+      "url": "https://mronline.org/2026/10/05/labours-share",
+      "author": "Michael Roberts",
+      "source": "MR Online",
+      "published_at": "2026-10-05T09:04:20+00:00",
+      "content_excerpt": "As the Tax Foundation correctly points out, total national income is not made up just of profits and wages received but also from depreciation. Depreciation is the amount of national income that companies must take into account as investment to replace obsolete and used up machinery, plant and tech etc i.e. not investment in new means of production. The post Labour’s share appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/cbb6f22e54895b9c5e2f4913.json"
+    },
+    {
+      "id": "c8fc94e95e219fb26136133c",
+      "title": "Tens of thousands of Chilean students demand ‘not a single peso less for education’",
+      "url": "https://breakthroughnews.org/2026/10/05/tens-of-thousands-of-chilean-students-demand-not-a-single-peso-less-for-education",
+      "author": "Pablo Meriguet",
+      "source": "BT News",
+      "published_at": "2026-10-05T06:59:07+00:00",
+      "content_excerpt": "Tens of thousands of students took to the streets of Chile on Thursday, October 1, to demand that the government of the ultra-conservative José Antonio Kast not cut the education budget. More than 30 civil society organizations joined the call issued by the Chilean Student Confederation (CONFECHA) in support of the “national strike.” Among the supporters were the United Workers’ Union (CUT), the Chilean Teachers’ Association, the High School Students’ Assembly, the 8M Feminist Coordinating Committee, the National Federation of Education Workers, and the National Association of Kindergartens, among others. “We see that on September 30, the government presented a new bill to Congress, and the only certainties we have are the precedents set by this government in its first six months – which a",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/c8fc94e95e219fb26136133c.json"
+    },
+    {
+      "id": "8558c353e2a19bb452a53f81",
+      "title": "The struggle for African unity today, an interview with Hakim Adi",
+      "url": "https://breakthroughnews.org/2026/10/05/the-struggle-for-african-unity-today-an-interview-with-hakim-adi",
+      "author": "Alex Anfruns",
+      "source": "BT News",
+      "published_at": "2026-10-05T05:59:02+00:00",
+      "content_excerpt": "Wars, neocolonial destabilization, the “aid” ideology, and the influence of Western financial institutions have sabotaged the African continent from the inside and kept it in a state of economic dependency. Yet its peoples have consistently expressed a desire for sovereignty and a rejection of external interference. What current manifestations of the struggle for African unity can we observe nowadays, and what continuity can be drawn with the Pan-Africanist movement of the 20th century? In the context of Trump’s administration US policies, which are targeting migrant workers, and the promotion of far-right ideology in the capitalist countries, can we say that African diasporas still play an important role in these challenges and in the emergence of a new Black power? Professor Hakim Adi, t",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/8558c353e2a19bb452a53f81.json"
+    },
+    {
+      "id": "540802b07e962e0682c35582",
+      "title": "We have to do something",
+      "url": "https://tempestmag.org/2026/10/we-have-to-do-something",
+      "author": "Kristen Guptil-Godfrey and Pranav Jani",
+      "source": "Tempest",
+      "published_at": "2026-10-05T04:25:31+00:00",
+      "content_excerpt": "Pranav Jani: Welcome to another episode of Together We Rise: Solidarity Stories from Central Ohio . I’m so happy to have today on our show my good friend and comrade, Kristen Guptil-Godfrey. Kristen Guptill-Godfrey, who uses they/them pronouns, is a revolutionary socialist and organizer currently living in Arizona on unceded Tohono O’odham and Yoeme ancestral and traditional lands. Kristen’s mom was born and raised in Columbus, and although Kristen moved a lot growing up, they consider Columbus home. They got the opportunity to live in Columbus from 2016 to 2018, and during that time, they became a revolutionary socialist and joined their first political home. Kristen also worked as a social worker and supported queer and trans young people. They are a member of the Tempest Collective and ",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/540802b07e962e0682c35582.json"
+    },
     {
       "id": "befc8225f0424d6e0277e69d",
       "title": "How United Airlines became a link in Israel’s weapons supply chain",
@@ -21,81 +291,6 @@
       "priority": 2,
       "date_missing": false,
       "article_path": "articles/befc8225f0424d6e0277e69d.json"
-    },
-    {
-      "id": "356ca2f94763ca4f86be188f",
-      "title": "Reclaiming workers’ ownership over artificial intelligence and technologies",
-      "url": "https://mronline.org/2026/10/04/reclaiming-workers-ownership-over-artificial-intelligence-and-technologies",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-04T15:36:45+00:00",
-      "content_excerpt": "Contemporary anti-technology movements and different forms of resistance against big technology companies, data corporations, their data centres, and AI are often branded as Luddite movements, creating a historical parallel with the workers’ uprising in textile towns of England in 1779. The post Reclaiming workers’ ownership over artificial intelligence and technologies appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/356ca2f94763ca4f86be188f.json"
-    },
-    {
-      "id": "abbbaf97699501aeb556c4e3",
-      "title": "‘And they call it democracy’",
-      "url": "https://mronline.org/2026/10/04/and-they-call-it-democracy",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-04T15:36:45+00:00",
-      "content_excerpt": "Commentary on social democracy and the current state of the labour movement and its leadership was not as detailed. The post ‘And they call it democracy’ appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/abbbaf97699501aeb556c4e3.json"
-    },
-    {
-      "id": "41e620c35cccd4b9eeae9af6",
-      "title": "Nepal pays for a climate crisis it didn’t create",
-      "url": "https://mronline.org/2026/10/04/nepal-pays-for-a-climate-crisis-it-didnt-create",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-04T15:08:32+00:00",
-      "content_excerpt": "Catastrophic flooding in the Himalayan country has left families searching for answers. The post Nepal pays for a climate crisis it didn’t create appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/41e620c35cccd4b9eeae9af6.json"
-    },
-    {
-      "id": "61575b5c4886be43de495c6e",
-      "title": "Can agroecology improve the resilience of African smallholder farmers?",
-      "url": "https://mronline.org/2026/10/04/can-agroecology-improve-the-resilience-of-african-smallholder-farmers",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-04T15:08:32+00:00",
-      "content_excerpt": "The crisis African smallholder farmers face is not a set of isolated technical problems; it is systemic. The post Can agroecology improve the resilience of African smallholder farmers? appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/61575b5c4886be43de495c6e.json"
-    },
-    {
-      "id": "fbf0884acbfdf2bfeff920e1",
-      "title": "Venezuela’s battle for sovereignty continues",
-      "url": "https://mronline.org/2026/10/03/venezuelas-battle-for-sovereignty-continues",
-      "author": "Roger Harris",
-      "source": "MR Online",
-      "published_at": "2026-10-03T21:21:35+00:00",
-      "content_excerpt": "The U.S. attack of Jan. 3 killed over 100 persons and succeeded in kidnapping President Nicolás Maduro and First Lady Cilia Flores, an elected member of the National Assembly. The post Venezuela’s battle for sovereignty continues appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/fbf0884acbfdf2bfeff920e1.json"
     }
   ]
 }
