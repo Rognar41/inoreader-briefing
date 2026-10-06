@@ -1,12 +1,207 @@
 {
-  "generated_at": "2026-10-06T00:54:20.773935+00:00",
-  "generated_at_jst": "2026-10-06T09:54:20.773935+09:00",
-  "period_start": "2026-10-04T18:54:20.773935+00:00",
+  "generated_at": "2026-10-06T23:11:24.870665+00:00",
+  "generated_at_jst": "2026-10-07T08:11:24.870665+09:00",
+  "period_start": "2026-10-05T17:11:24.870665+00:00",
   "lookback_hours": 30,
   "folder": "00_毎日確認",
-  "article_count": 9,
+  "article_count": 16,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "848759f6590bc65229e4224b",
+      "title": "MADRID SOLIDARITY",
+      "url": "https://housing.dsausa.org/madrid-solidarity",
+      "author": "Housing Justice Commission",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-10-06T21:42:15+00:00",
+      "content_excerpt": "Madrid Tenants Union expresses solidarity with US tenants! Solidarity from the Madrid Tenants Union to tenants, tenant unions, and organizers in the US! The struggle against private property and capitalism is truly universal, and we in DSA can make a massive contribution by organizing our buildings, forming new tenant unions, and joining the ones that already exist in our areas. WATCH THE VIDEO CLIP HERE",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/848759f6590bc65229e4224b.json"
+    },
+    {
+      "id": "eeb1699bbb6e644d501fcee0",
+      "title": "HJC Solidarity",
+      "url": "https://housing.dsausa.org/hjc-solidarity",
+      "author": "Housing Justice Commission",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-10-06T21:42:15+00:00",
+      "content_excerpt": "DSA HJC to Madrid Tenants Union: “Solidaridad!” The Housing Justice Commission of the Democratic Socialists of America send our profound solidarity to the Madrid Tenants Union and all tenants across Spain. The struggle against private property and capitalism is international and we are deeply inspired by the courageous, militant actions you are undertaking. Tenants of the world, unite! SEE THE VIDEO CLIP HERE La Comisión para Vivienda con Justicia de los Socialistas Democráticos de América expresa su profunda solidaridad con el Sindicato de Inquilinas de Madrid y con todos los inquilinos de España. La lucha contra la propiedad privada y el capitalismo es internacional, y nos sentimos profundamente inspirados por las acciones valientes y combativas que están llevando a cabo. ¡Inquilinos del",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/eeb1699bbb6e644d501fcee0.json"
+    },
+    {
+      "id": "7355a63b4746562f9eddc34a",
+      "title": "Weekly Roundup: October 6, 2026",
+      "url": "https://dsasf.org/weekly-roundup-october-6-2026",
+      "author": "San Francisco DSA",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-10-06T21:42:15+00:00",
+      "content_excerpt": "Events & Actions Tuesday, October 6 (6:30 PM – 8:00 PM) Ecosocialist Bi-weekly Meeting (zoom) Tuesday, October 6 (6:30 PM – 7:30 PM) HWG Attends: Care vs. Criminalization: Rethinking Our Street Response to Homelessness (zoom and in person at 3036 24th St) Tuesday, October 6 (7:00 PM – 8:00 PM) Ballot Measure Turnout Tuesday (zoom and in person 1916 McAllister St) Wednesday, October 7 (6:00 PM – 7:30 PM) What is DSA? @ Sour Cherry Comics! (in person at 3187 16th St) Thursday, October 8 (6:00 PM – 7:00 PM) Palestine Solidarity Free Meeting (zoom and in person at 1916 McAllister St) Thursday, October 8 (7:00 PM – 9:00 PM) Organizing Mindset Training Series (zoom and in person at 1916 McAllister St) Friday, October 9 (5:30 PM – 7:30 PM) Tenants Know Your Rights + Yes on I Canvass (in person at",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/7355a63b4746562f9eddc34a.json"
+    },
+    {
+      "id": "8c97d3ff0786233e6d1a24e0",
+      "title": "Chapter Notes: October 2026",
+      "url": "https://dsa-pinellas.medium.com/chapter-notes-october-2026-c1f9734cec67?source=rss-fc02be9a55f0------2",
+      "author": "Pinellas DSA",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-10-06T21:42:15+00:00",
+      "content_excerpt": "We recruited the 400th member of Pinellas DSA this month — and we’re still growing! BOO, comrade! An extra-spooky Halloween edition of the Pinellas DSA newsletter is here! We hit another exciting milestone in September — our chapter is now officially more than 400 members strong! That’s 400 friends and neighbors who’ve made the choice to stand up and say “I believe that a better world is possible.” And, as long as we keep doing the day-to-day work of building our organization and growing the international movement for socialism, we will transform possible into inevitable . Read on to learn more about what our chapter was up to over the last month, and what we have coming up next! September Highlights PDSA comrades at the September Interest Meeting & New Member Orientation. September was a ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/8c97d3ff0786233e6d1a24e0.json"
+    },
+    {
+      "id": "21b89f4342bd41702e60e469",
+      "title": "Interest Rate Increases Are About Disciplining Labor",
+      "url": "https://jacobin.com/2026/10/fed-interest-rates-inflation-labor",
+      "author": "Arthur MacEwan",
+      "source": "Jacobin",
+      "published_at": "2026-10-06T18:30:33+00:00",
+      "content_excerpt": "Using its favored policy in the face of inflation, the Federal Reserve Board, under its new chairman, Kevin Warsh, pushed up short-term interest rates in September. This action may have some impact on the rate of inflation, but probably not much. Raising interest rates may curtail inflation under some circumstances, but the major factors bringing about the current, continuing inflation are unlikely to be much affected by the Fed’s recent interest rate increases. But those other factors are out of bounds: the Fed can’t alter them, and the current administration in Washington won’t. What Washington Has Done to Curtail Inflation With the emergence of economic instability in the early 1970s, President Richard Nixon imposed wage-price controls that limited how much wages and prices could rise. ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/21b89f4342bd41702e60e469.json"
+    },
+    {
+      "id": "8581a411c6c4744bc9df7ae4",
+      "title": "Why Organize Semiconductor Workers? w/ CHIPS Communities United",
+      "url": "https://convergencemag.com/podcast/why-organize-semiconductor-workers-w-chips-communities-united",
+      "author": "",
+      "source": "Tag: Labor",
+      "published_at": "2026-10-06T17:51:48+00:00",
+      "content_excerpt": "Block & Build is a weekly newsmagazine podcast from Convergence Magazine that examines the balance of political forces in the US from a movement perspective. Every week, host Cayden Mak explores what's… This is the last article. Subscribe to our email newsletter to get more. Semiconductors are at the heart of every piece of electronics you interact with on a daily basis. Despite being invented and innovated in the US, much of the manufacturing of semiconductors and the technology they power was “offshored” from the 1980s through the early 2000s as part of the globalization of our economy. In an effort to counter that loss of jobs and industry, the Biden administration passed the 2022 CHIPS and Science Act, which reinvests over $50 billion domestically in the manufacturing and research of s",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/8581a411c6c4744bc9df7ae4.json"
+    },
+    {
+      "id": "be4abcd76a63aaed9ea7bbad",
+      "title": "What Makes Somebody a Marxist?",
+      "url": "https://jacobin.com/2026/10/marxism-social-theory-class-exploitation",
+      "author": "Vivek Chibber",
+      "source": "Jacobin",
+      "published_at": "2026-10-06T17:31:49+00:00",
+      "content_excerpt": "Karl Marx famously declared that he was not a Marxist. But his theoretical work spawned many branches of research, political movements, and heated debate. Can we identify a set of unifying ideas that make up Marxism? On this latest episode of the Jacobin Radio podcast Confronting Capitalism , Vivek Chibber and Melissa Naschek look at the foundations of Marx’s writing and explain how Marxism has both developed and degenerated over the past century. Confronting Capitalism with Vivek Chibber is produced by Catalyst: A Journal of Theory and Strategy and published by Jacobin. You can listen to the full episode here . Melissa Naschek In our podcast and in your academic work, you consistently put forward a Marxist perspective on politics, theory, and the economy, but sometimes you also criticize ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/be4abcd76a63aaed9ea7bbad.json"
+    },
+    {
+      "id": "3bb8f439ad6215efabd12b45",
+      "title": "The European Green Party Attacks Solidarity With Palestine",
+      "url": "https://jacobin.com/2026/10/european-greens-palestine-zionism-baerbock",
+      "author": "Daniel Finn",
+      "source": "Jacobin",
+      "published_at": "2026-10-06T16:32:21+00:00",
+      "content_excerpt": "There has been a virulent backlash in the British media against the Green Party of England and Wales since delegates at the party conference voted for a motion that brands Zionism as a racist ideology and supports the formation of a single democratic state in Palestine. As we have come to expect when British pundits and politicians are discussing Israel, nobody has seen fit to ask any Palestinians what they think about Zionism and what it has meant for them in practice. While Palestinians who live in Britain are studiously ignored, the media extends its search for critical voices to the rest of Europe. The Guardian reported on a statement from the European Green Party (EGP) that criticized the motion — “we unequivocally distance ourselves from it” — and suggested that the English and Welsh",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/3bb8f439ad6215efabd12b45.json"
+    },
+    {
+      "id": "7446b7b24c1e65d3f7935181",
+      "title": "Was Karl Kautsky Right About Ultra-Imperialism?",
+      "url": "https://jacobin.com/2026/10/kautsky-was-wrong-then-he-was-right",
+      "author": "Donald Parkinson",
+      "source": "Jacobin",
+      "published_at": "2026-10-06T15:03:29+00:00",
+      "content_excerpt": "Six weeks after the outbreak of World War I, as Europe’s great empires sent millions to their deaths, Karl Kautsky published an essay predicting something almost impossible to believe. In an article for Die Neue Zeit called “Der Imperialismus,” better known under the English title “Ultra-Imperialism,” Kautsky argued that the leading powers were, despite all evidence to the contrary, moving toward not endless conflict but peaceful cooperation. The claim quickly came to seem absurd. As the trenches filled with corpses and the war consumed an entire generation, Kautsky’s essay looked less like a penetrating analysis than a spectacular misreading of history. Today most young socialists encounter “Ultra-Imperialism” only as the foil for Vladimir Lenin’s Imperialism, the Highest Stage of Capital",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/7446b7b24c1e65d3f7935181.json"
+    },
+    {
+      "id": "eb49b441bffe9975c9aa83c7",
+      "title": "As Trump’s Coalition Breaks, Can the Left Pick Up the Pieces?",
+      "url": "https://jacobin.com/2026/10/trump-coalition-class-populism-elites",
+      "author": "Conor Lynch",
+      "source": "Jacobin",
+      "published_at": "2026-10-06T14:05:25+00:00",
+      "content_excerpt": "The coalition that sent Donald Trump back to the White House in 2024 marked the culmination of a long-term political realignment that conservative authors and activists had anticipated since the 1970s. Fifty years earlier, right-wing commentators like William Rusher, then the publisher of National Review , were busy sketching a blueprint for the new majority that they hoped would finally bring them to power after decades of Democratic rule. That majority, according to Rusher and other “New Right” thinkers, would be built around the same working class that had long served as a pillar of the New Deal coalition. In his own words, the Right would construct a “Great Coalition” made up of the “producers of America,” in which he naturally included “businessmen, workers and farmers.” These “produc",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/eb49b441bffe9975c9aa83c7.json"
+    },
+    {
+      "id": "c39a702c5265030c6e73b00b",
+      "title": "“The Spanish People Will Remember Who Betrayed Them”",
+      "url": "https://jacobin.com/2026/10/spain-bustinduy-housing-class-oligarchy",
+      "author": "Pablo Bustinduy",
+      "source": "Jacobin",
+      "published_at": "2026-10-06T13:07:28+00:00",
+      "content_excerpt": "Could it be that Spain hasn’t let you know? None of you — none of you — is the person who has two weeks to find an apartment without knowing where they’ll go. And none of you is the person living in fear of an eviction notice arriving. None of you is the person counting the months until their lease ends, waiting for their landlord to say something. None of you is the person coming home from work today with the radio on to hear the result of this vote. None of you is one of those people, yet you are going to decide for them. You are going to decide what happens with their lives. Congressman [Gabriel] Rufián said earlier, and I agree, “Whoever comes up here today to argue against these two decree-laws should publicly reveal whom they have met with and who has called them in recent weeks.” I ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/c39a702c5265030c6e73b00b.json"
+    },
+    {
+      "id": "af4b2f596dbf4f15d0aa5bb6",
+      "title": "Austin DSA City Council Candidate Arrested After ICE Protest",
+      "url": "https://democraticleft.dsausa.org/2026/10/05/austin-dsa-city-council-candidate-arrested-after-ice-protest",
+      "author": "Democratic Left",
+      "source": "Democratic Left",
+      "published_at": "2026-10-06T01:32:34+00:00",
+      "content_excerpt": "Plus an AutoZone location unionizes, strong results in Delaware, Raman leads in the polls, and more in Chapter and Verse, Democratic Left’s monthly round-up of chapter news. The post Austin DSA City Council Candidate Arrested After ICE Protest appeared first on Democratic Left .",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/af4b2f596dbf4f15d0aa5bb6.json"
+    },
+    {
+      "id": "17bcaac4e918465559a2c77a",
+      "title": "The Detroit Socialist is Not Dirty Laundry",
+      "url": "https://medium.com/dsa-detroit-newspaper/the-detroit-socialist-is-not-dirty-laundry-3e715b7b2672?source=rss-160b7baee925------2",
+      "author": "Detroit DSA",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-10-06T01:32:07+00:00",
+      "content_excerpt": "By Chris W. Miehle printing press in operation, with freshly printed copy on the cylinder. Photo credit: Douglas W. Jones via Wikimedia Commons At the 8/7 Steering Committee meeting, a new set of guidelines for our Detroit Socialist newspaper was brought forward, including number five on internal debates: 5. We should strive to keep internal debates and disagreements internal . We should not make it a habit to air our proverbial dirty laundry. At the end of the day, we are all comrades and we all want to achieve socialism. There is no reason to give our enemies ammunition to use against us. Internal debates are important and are critical to the democratic process, which is why they are better suited to our chapter’s internal discussion platforms and processes. This guideline was met with p",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/17bcaac4e918465559a2c77a.json"
+    },
     {
       "id": "50c1246f4e09de4080488f6e",
       "title": "No, Digger Is Not a Misunderstood Masterpiece",
@@ -51,96 +246,6 @@
       "priority": 1,
       "date_missing": false,
       "article_path": "articles/9fcc679f952886b9ef571848.json"
-    },
-    {
-      "id": "06578fc2dfdf649ea12566a5",
-      "title": "Richie Floyd: Bernie’s 2016 Campaign Changed My Life",
-      "url": "https://jacobin.com/2026/10/floyd-florida-bernie-2016-socialism",
-      "author": "Richie Floyd",
-      "source": "Jacobin",
-      "published_at": "2026-10-05T16:49:41+00:00",
-      "content_excerpt": "Bernie Sanders changed my life. And it happened overnight. Just over ten years ago, I was working as a hardware engineer. I grew up working class in the deeply conservative Florida Panhandle, where the Democratic Party had next to no foothold. The neoliberal ideas leading the conversation in the Democratic and Republican parties left me feeling disillusioned and unmoored from both the Left and the Right. I didn’t believe politics as it existed could have much of a positive impact on my life. While visiting with family at my parents’ house, I was asked by a friend if I had heard of Bernie Sanders. I had not, so he queued up a YouTube video called “Progress” in which Bernie stood on a stage on the shore of Lake Champlain in Burlington and outlined the major themes of his presidential campaig",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/06578fc2dfdf649ea12566a5.json"
-    },
-    {
-      "id": "f3c60b00b98f430db300522d",
-      "title": "Thomas Piketty’s Utopian Socialism",
-      "url": "https://jacobin.com/2026/10/thomas-pikettys-utopian-socialism",
-      "author": "Virgilio Urbina Lazardi",
-      "source": "Jacobin",
-      "published_at": "2026-10-05T15:18:19+00:00",
-      "content_excerpt": "In June, the policy world held its collective breath as the World Inequality Lab, the outfit headed by Thomas Piketty , released a report meant to serve as a capstone to years of extensive research on the elusive goal of leveling global incomes. Christened the Global Justice Report ( GJR ), Piketty and his collaborators promoted it as the first data-driven synthesis of two long-standing progressive ambitions that had remained more aspirational than actionable: dramatically reducing income and wealth inequality both within countries and between them, on the one hand, and achieving planetary sustainability in the age of global warming, on the other. The GJR , in short, aimed to demonstrate that the sort of inequality studies that had made Piketty famous with the 2013 publication of Capital i",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/f3c60b00b98f430db300522d.json"
-    },
-    {
-      "id": "c938776e1bf1e859d3a713ee",
-      "title": "Being Against Capitalism Isn’t Enough",
-      "url": "https://jacobin.com/2026/10/capitalism-socialism-economy-planning-cooperatives",
-      "author": "Mike Beggs",
-      "source": "Jacobin",
-      "published_at": "2026-10-05T13:47:38+00:00",
-      "content_excerpt": "We live in a time when everything is political — except politics. We routinely treat everyday choices about culture, consumption, and personal identity as expressions of moral allegiance, parsing them for hidden meanings and assigning them to partisan camps. We infer entire worldviews from what people watch, buy, joke about, or post online. And yet, in this atmosphere of constant ideological conflict, the most fundamental political questions are almost never asked. How should an economy be organized? Are disparities in income and wealth intrinsically objectionable, or are they acceptable as long as no one is starving? Can political equality truly exist alongside economic inequality? If democracy is good for governments, why isn’t it good for workplaces? Much of the twentieth century was de",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/c938776e1bf1e859d3a713ee.json"
-    },
-    {
-      "id": "41b8ea8680d9565e36d88398",
-      "title": "Spain’s New Protest Movement Is Putting Class Center Stage",
-      "url": "https://jacobin.com/2026/10/spain-housing-protests-sanchez-class",
-      "author": "Paolo Gerbaudo",
-      "source": "Jacobin",
-      "published_at": "2026-10-05T13:47:38+00:00",
-      "content_excerpt": "Fifteen years isn’t enough for a generation, but it seems it is the right amount of time for a “political cycle.” In Spain, activists and progressive academics have in recent years often spoken of the exhaustion of the political cycle that began with the Indignados protests, known as 15-M (so named after May 15, 2011, the first day of protest), and continued with the foundation of Podemos and its rapid growth, until the formation of the first broad-left coalition in 2019. This cycle has borne many results and led to a self-styled “progressive government” that presided over a period of steady economic growth. However, many issues have remained unresolved, and new strains have emerged in Spanish society that have fueled discontent at the institutional left and the limits of government policy",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/41b8ea8680d9565e36d88398.json"
-    },
-    {
-      "id": "e0c6acd942a3042ed80ddb49",
-      "title": "Paris: Presentation of George Mavrikos’ book at the Bourse du Travail",
-      "url": "https://www.theoryandpraxis.eu/paris-presentation-du-livre-de-george-mavrikos-a-la-bourse-du-travail",
-      "author": "admin",
-      "source": "theory and praxis",
-      "published_at": "2026-10-05T09:22:37+00:00",
-      "content_excerpt": "On the joint initiative of the WFTU members in France and the International Workers’ Institute (IWI), the presentation of the book “Critical Notes on the History of the World Trade-Union Movement – Issues of Tactics and Strategy” took place on October 3 in Paris, at the Eugène Hénaff hall of the Paris Bourse du Travail. Speakers included Caroline Viau, Esteban Muñoz, Christoforos Giakoumelos, and Matthieu Bolle-Reddat, as well as the author of the book, George Mavrikos. A rich debate and interventions by the participants followed. The presentation coincided with the anniversary of the founding of the WFTU, which took place on October 3, 1945, in Paris. The post Paris: Presentation of George Mavrikos’ book at the Bourse du Travail appeared first on theory and praxis .",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/e0c6acd942a3042ed80ddb49.json"
-    },
-    {
-      "id": "821a2f4bb5e290eeedfb7e87",
-      "title": "Sanctuary for All",
-      "url": "https://rocdsa.org/blog/sanctuary-for-all",
-      "author": "Rochester Red Star: News from Rochester DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-10-04T20:09:24+00:00",
-      "content_excerpt": "The following remarks were delivered by ROC DSA Co-Chair Gregory Lebens-Higgins at the Rochester Contemporary Art Center’s (RoCo) “Route of Refusal: A Public Art Walk” on Saturday, October 3, held as part of the national 2026 Fall of Freedom weekend . The event mixed creative art and expression with community and activism, including poetry that invoked words censored by the Trump regime, and collective music-making. RoCo’s current featured exhibit, “ Sanctuary: Borders & Belonging in 2026 ,” is a mixed-media presentation on dichotomies of sanctuary and isolation. “Projects in the exhibition amplify immigrant voices, document criminalization and detention, examine border politics and architecture, and give impacted people space to share diverse immigration stories.” The exhibit runs until N",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/821a2f4bb5e290eeedfb7e87.json"
     }
   ]
 }

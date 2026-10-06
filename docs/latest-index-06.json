@@ -1,12 +1,252 @@
 {
-  "generated_at": "2026-10-06T00:54:20.773935+00:00",
-  "generated_at_jst": "2026-10-06T09:54:20.773935+09:00",
-  "period_start": "2026-10-04T18:54:20.773935+00:00",
+  "generated_at": "2026-10-06T23:11:24.870665+00:00",
+  "generated_at_jst": "2026-10-07T08:11:24.870665+09:00",
+  "period_start": "2026-10-05T17:11:24.870665+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
-  "article_count": 19,
+  "article_count": 20,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "4839cee87541dea43353f78d",
+      "title": "AES launches joint Sahelian state media channel",
+      "url": "https://breakthroughnews.org/2026/10/06/aes-launches-joint-sahelian-state-media-channel",
+      "author": "Nicholas Mwangi",
+      "source": "BT News",
+      "published_at": "2026-10-06T20:24:21+00:00",
+      "content_excerpt": "This content is for members only. Visit the site and log in/register to read.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/4839cee87541dea43353f78d.json"
+    },
+    {
+      "id": "42e3de2987c155970f321f3f",
+      "title": "Unions Step Up to Meet the Moment",
+      "url": "https://convergencemag.com/articles/unions-step-up-to-meet-the-moment",
+      "author": "Stephanie Luce",
+      "source": "Convergence",
+      "published_at": "2026-10-06T18:32:11+00:00",
+      "content_excerpt": "Since taking office, Trump and MAGA forces have made considerable advances in implementing Project 2025 and consolidating authoritarian power—but many of these moves have proved unpopular and undermined their support. With Trump’s approval ratings dropping and elements of his coalition defecting, conditions look promising for pushing back MAGA in the midterm elections. But there are at least… Source",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/42e3de2987c155970f321f3f.json"
+    },
+    {
+      "id": "e1694dcdc277e9875cb0d459",
+      "title": "French High School Students Lead Mass Protests over School Funding, Inequality; Thousands Arrested",
+      "url": "https://www.democracynow.org/2026/10/6/france_education_protests",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-10-06T15:31:52+00:00",
+      "content_excerpt": "This is a rush transcript. Copy may not be in its final form. AMY GOODMAN : Nearly 2,000 French high schools are blockaded or closed today as massive student-led protests spread over France over school funding and inequality. The demonstration began in September at a single school outside Paris, where students protested teacher shortages, overcrowded classrooms and crumbling school buildings. But the scope of the protests has widened amidst a violent crackdown by French police. French authorities have arrested more than 5,000 people since the movement began, about 85% of them high schoolers. These are the voices of two students protesting in Paris earlier today. HUGO VETZEL : [translated] For us, it’s, first of all, in support of the high school students who started blockades a few days ag",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/e1694dcdc277e9875cb0d459.json"
+    },
+    {
+      "id": "054d9aa1dbfb138504345deb",
+      "title": "Ebola Death Toll in DRC Tops 4,000; Trump USAID Cuts Fuel Outbreak",
+      "url": "https://www.democracynow.org/2026/10/6/drc_ebola_outbreak",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-10-06T15:31:52+00:00",
+      "content_excerpt": "We go to the Democratic Republic of the Congo, the site of the fastest-growing Ebola outbreak in history. Health authorities believe the outbreak first began in January but was not detected until May, in part due to cuts in global health investments, like the dismantling of USAID . Since then, over 8,000 cases have been recorded, with more than 4,000 fatalities so far. From Bunia, Ituri province, the epicenter of the outbreak, we speak to Congolese journalist Akilimali Chomachoma. Chomachoma describes the strain on the underfunded Congolese healthcare system as the disease spreads. Many frontline workers have not been paid for months. “We are seeing this outbreak emerge, and really unfurl, in a setting of decreased global health support,” says Craig Spencer, a doctor and public health expe",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/054d9aa1dbfb138504345deb.json"
+    },
+    {
+      "id": "43cd1e24fd9bfb673288aaa2",
+      "title": "“Incredible Moment for the Borderlands”: Judge Blocks Border Wall Expansion in Big Bend & West Texas",
+      "url": "https://www.democracynow.org/2026/10/6/big_bend_border_wall_texas",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-10-06T15:31:52+00:00",
+      "content_excerpt": "In a victory for environmentalists and immigration rights’ advocates, a federal judge in El Paso, Texas, has blocked further border wall construction inside Big Bend National Park. “We slammed the brakes on $7 billion worth of corrupt construction contracts,” says Laiken Jordahl, a national public lands advocate with the Center for Biological Diversity, which sued to block the expansion. “We have effectively stopped construction across West Texas, and it’s incredible.” Jordahl also responds to the Trump administration’s excavation of a 200-year-old cottonwood tree on the Arizona-Mexico border that had been protected by activists for months. “Watching those videos of them toppling this ancient tree that was very likely older than the border itself is symbolic of how DHS has treated the bord",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/43cd1e24fd9bfb673288aaa2.json"
+    },
+    {
+      "id": "00add44e3315cd85099dffef",
+      "title": "Brazilians Elect Eight Candidates from MST in 2026 Election",
+      "url": "https://www.brasildefato.com.br/2026/10/06/brazilians-elect-eight-candidates-from-mst-in-2026-election",
+      "author": "",
+      "source": "Brasil de Fato",
+      "published_at": "2026-10-06T15:14:06+00:00",
+      "content_excerpt": "6.Oct.2026 - 11:22 São Paulo (SP) From the newsroom 16 candidaturas ligadas ao MST disputaram cargos nas Eleições 2026 | Crédito: Divulgação/MST Eight members of the Landless Rural Workers’ Movement, or MST, were elected to legislative bodies in the October 4 elections. This includes four lawmakers heading to Brazil’s lower house of Congress and four representatives to state legislatures. They were all elected, representing the Workers’ Party. They came from different states and regions of the country. Valmir Assunção, from Bahia; Rosa Amorim, from Pernambuco; Marcon, from Rio Grande do Sul; and João Daniel, from Sergipe, were all elected to Brazil’s Chamber of Deputies, the lower house of Congress. All four have a history of activism linked to the movement and standing up for agrarian ref",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/00add44e3315cd85099dffef.json"
+    },
+    {
+      "id": "59c1cc919c59609c16e91e48",
+      "title": "The Gaza genocide permanently diminished the power of pro-Israel propaganda",
+      "url": "https://mondoweiss.net/2026/10/the-gaza-genocide-permanently-diminished-the-power-of-pro-israel-propaganda",
+      "author": "Michael Arria",
+      "source": "Mondoweiss",
+      "published_at": "2026-10-06T13:47:56+00:00",
+      "content_excerpt": "Since October 7 and the Gaza genocide, U.S. opinions on Israel and Palestine have drastically shifted. The power of Zionist propaganda has been permanently weakened, and the U.S.-Israel relationship is in a more precarious position than ever before.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/59c1cc919c59609c16e91e48.json"
+    },
+    {
+      "id": "10518c8390022082c0af790f",
+      "title": "After three years of genocide, Gaza’s olive harvest is going extinct",
+      "url": "https://mondoweiss.net/2026/10/after-three-years-of-genocide-gazas-olive-harvest-is-going-extinct",
+      "author": "Tareq S. Hajjaj",
+      "source": "Mondoweiss",
+      "published_at": "2026-10-06T13:17:42+00:00",
+      "content_excerpt": "The Israeli army has bulldozed over 1.6 million olive trees in Gaza since the beginning of the genocide in 2023, threatening the livelihood and heritage of olive farming communities, and the survival of a centuries-old Palestinian cultural tradition.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/10518c8390022082c0af790f.json"
+    },
+    {
+      "id": "32fe21a774d7a037a94eb12f",
+      "title": "War on Yemen exposes deepening Saudi-Israeli military coordination",
+      "url": "https://mronline.org/2026/10/06/war-on-yemen-exposes-deepening-saudi-israeli-military-coordination",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-06T13:07:41+00:00",
+      "content_excerpt": "A ScheerPost analysis argues that Saudi Arabia and “Israel” are deepening covert military cooperation against the Yemeni Armed Forces through intelligence sharing, private contacts, and sectarian messaging. The post War on Yemen exposes deepening Saudi-Israeli military coordination appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/32fe21a774d7a037a94eb12f.json"
+    },
+    {
+      "id": "70672ecadf9c0e657621eb0c",
+      "title": "U.S. liberal media literacy guide: “This isn’t who we are”",
+      "url": "https://mronline.org/2026/10/06/u-s-liberal-media-literacy-guide-this-isnt-who-we-are",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-06T12:09:30+00:00",
+      "content_excerpt": "The liberal news media treat U.S. violence and oppression as aberrations from the country's founding ideals rather than expressions of its fundamental character as a settler colony, empire, plantation, and concentration camp. The post U.S. liberal media literacy guide: “This isn’t who we are” appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/70672ecadf9c0e657621eb0c.json"
+    },
+    {
+      "id": "6c31aa4b1fb779393cff71f7",
+      "title": "Amazon is deploying AI to spy on its workers and bust unions before they form",
+      "url": "https://mronline.org/2026/10/06/amazon-is-deploying-ai-to-spy-on-its-workers-and-bust-unions-before-they-form",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-06T11:11:21+00:00",
+      "content_excerpt": "Internal company documents obtained by a Canadian labor board show how Amazon is tracking workers’ every move. The post Amazon is deploying AI to spy on its workers and bust unions before they form appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/6c31aa4b1fb779393cff71f7.json"
+    },
+    {
+      "id": "bdc817b369e42fddde4b9516",
+      "title": "Is starvation Rubio’s only strategy? The new attack on Cuba’s private sector",
+      "url": "https://mronline.org/2026/10/06/is-starvation-rubios-only-strategy-the-new-attack-on-cubas-private-sector",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-06T10:11:24+00:00",
+      "content_excerpt": "Secretary of State Rubio got the jump on ‘Sanctions Thursday’ unveiling his new sanctions and revisions to the OFAC Frequently Asked Question website on Tuesday, September 29. The post Is starvation Rubio’s only strategy? The new attack on Cuba’s private sector appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/bdc817b369e42fddde4b9516.json"
+    },
+    {
+      "id": "4f82392975bd711ce9b2f573",
+      "title": "Confronting climate failure in a summer of steaming oceans and devastated villages",
+      "url": "https://mronline.org/2026/10/06/confronting-climate-failure-in-a-summer-of-steaming-oceans-and-devastated-villages",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-06T09:13:47+00:00",
+      "content_excerpt": "Humanity is faced with the greatest failure in its long existence. What can we do about it? The post Confronting climate failure in a summer of steaming oceans and devastated villages appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/4f82392975bd711ce9b2f573.json"
+    },
+    {
+      "id": "0b902d3ac23bf6be3ddf56ac",
+      "title": "BT LIVE: Brazil’s Far-Right Shock | 3 Years of Genocide | Apple Blood Tech Revolt",
+      "url": "https://breakthroughnews.org/2026/10/06/oct-6-2026",
+      "author": "BreakThrough News",
+      "source": "BT News",
+      "published_at": "2026-10-06T01:12:10+00:00",
+      "content_excerpt": "This content is for members only. Visit the site and log in/register to read.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/0b902d3ac23bf6be3ddf56ac.json"
+    },
+    {
+      "id": "18508e5ec4d8e78a73a70c66",
+      "title": "Israeli forces demolish Birzeit University’s martyrs memorial",
+      "url": "https://breakthroughnews.org/2026/10/06/israeli-forces-demolish-birzeit-universitys-martyrs-memorial",
+      "author": "Aseel Saleh",
+      "source": "BT News",
+      "published_at": "2026-10-06T01:12:10+00:00",
+      "content_excerpt": "At dawn on Monday, October 5, Israeli forces destroyed the martyrs’ memorial at Birzeit University. Basil Farraj, an assistant professor of philosophy and cultural studies at Birzeit University, told BreakThrough News that the Israeli forces came to the campus around a week ago to capture photos of the memorial, sparking suspicions that they may attempt to destroy it. Farraj suggests that the removal of the memorial came as part of Israel’s broader efforts to erase the Palestinian people’s collective memory and entrench cultural, social, and political hegemony over them, specifically at Birzeit University, due to its pioneering role in the Palestinian struggle against occupation. “The assault on the memorial constitutes a cowardly attempt that will never defeat the resilience of the Palest",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/18508e5ec4d8e78a73a70c66.json"
+    },
+    {
+      "id": "5d7b5a3edb0fd7906d429bce",
+      "title": "The far right wins the first round in Brazil, but Lula isn’t done yet",
+      "url": "https://breakthroughnews.org/2026/10/06/the-far-right-wins-the-first-round-in-brazil-but-lula-isnt-done-yet",
+      "author": "Pablo Meriguet",
+      "source": "BT News",
+      "published_at": "2026-10-06T01:12:10+00:00",
+      "content_excerpt": "On October 4, over 150 million Brazilians were called to the polls to elect their president, deputies, and governors, and to replace the majority of senators. The elections , for many, brought a major surprise. Although polls indicated a lead for the incumbent president, progressive Luiz Inácio “Lula” da Silva, far-right Senator Flávio Bolsonaro clinched first place. Flávio is the son of former President Jair Bolsonaro who is currently serving a 27-year sentence for his involvement in an attempted coup against Lula in 2022. According to the final tally, Bolsonaro received 47.03% of the vote (56 million votes) while Lula received 45.16%, nearly 54 million votes. Thus, Bolsonaro’s lead amounts to just over 2 million votes. In third place is Augusto Cury, with 2.89%. He is followed by Renan S",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/5d7b5a3edb0fd7906d429bce.json"
+    },
     {
       "id": "f3399f182d4b616db3d4a6c8",
       "title": "Thousands begin march to Islamabad calling for release of Imran Khan",
@@ -66,231 +306,6 @@
       "priority": 2,
       "date_missing": false,
       "article_path": "articles/6c8151cf42ba134332f44f59.json"
-    },
-    {
-      "id": "8f8700321f6fc4ddf360ef79",
-      "title": "The first national gold refinery: How Burkina Faso’s mining revolution advances its struggle for sovereignty",
-      "url": "https://breakthroughnews.org/2026/10/05/the-first-national-gold-refinery-how-burkina-fasos-mining-revolution-advances-its-struggle-for-sovereignty",
-      "author": "Pavan Kulkarni",
-      "source": "BT News",
-      "published_at": "2026-10-05T21:09:25+00:00",
-      "content_excerpt": "After expanding domestic control over mining to pursue economic sovereignty, Burkina Faso has moved up the value chain with its first gold refinery, inaugurated by its president, Capt. Ibrahim Traoré, on September 28. Most of the gold mined in the country was previously exported as unrefined dore to be processed abroad. Now, it will be processed, tested for purity, and certified domestically at the Raffinerie Nationale d’Or du Burkina Faso, built at a cost of USD 19 million on more than 12 acres in the capital, Ouagadougou.​ “From now on, gold … must not only be extracted in Burkina Faso, it must be processed, controlled, valued and certified in Burkina Faso,” Traoré said, inaugurating the new facility.​ Inviting the country’s youth “to learn to master the whole value chain,” he added, “Na",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/8f8700321f6fc4ddf360ef79.json"
-    },
-    {
-      "id": "821007387fad6c965b262468",
-      "title": "Israel is rewriting the Palestinian curriculum in East Jerusalem to erase Palestinian identity",
-      "url": "https://mondoweiss.net/2026/10/israel-is-rewriting-the-palestinian-curriculum-in-east-jerusalem-to-erase-palestinian-identity",
-      "author": "Aseel Mafarjeh",
-      "source": "Mondoweiss",
-      "published_at": "2026-10-05T16:40:38+00:00",
-      "content_excerpt": "Nearly 38 percent of Palestinian students in East Jerusalem now study the Israeli curriculum, while the rest of the students' textbooks are being censored line by line, stripping mention of Jerusalem, prisoners, the Nakba, and freedom fighters.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/821007387fad6c965b262468.json"
-    },
-    {
-      "id": "ced989496b6aebb4d390516b",
-      "title": "The trial and humiliation of Sami Abu Shehadeh",
-      "url": "https://mondoweiss.net/2026/10/the-trial-and-humiliation-of-sami-abu-shehadeh",
-      "author": "Abdaljawad Omar",
-      "source": "Mondoweiss",
-      "published_at": "2026-10-05T15:10:18+00:00",
-      "content_excerpt": "Palestinians with Israeli citizenship are no longer asked to pledge allegiance, but to renounce their own history. Palestinian Knesset candidate Sami Abu Shehadeh did exactly that before Israel's Supreme Court, and was pushed out anyway.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/ced989496b6aebb4d390516b.json"
-    },
-    {
-      "id": "11a0ecaeb0ca0f09eb161568",
-      "title": "Far Right Makes Gains in Brazil as Flávio Bolsonaro Tops Lula in First Round of Presidential Race",
-      "url": "https://www.democracynow.org/2026/10/5/brazil_election",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-10-05T14:45:07+00:00",
-      "content_excerpt": "This is a rush transcript. Copy may not be in its final form. AMY GOODMAN : We begin today’s show in Brazil, where the presidential race between President Luiz Inácio Lula da Silva and far-right Senator Flávio Bolsonaro is headed to a runoff. During the first round of voting Sunday, Bolsonaro received 47% of the vote; Lula got 45%. Bolsonaro is the son of Brazil’s former far-right President Jair Bolsonaro, currently under house arrest serving a 27-year sentence after he was convicted of plotting a military coup in 2022 to overturn Lula’s win in that year’s election. If elected, Flávio Bolsonaro has pledged to grant amnesty to his father and others involved in the coup. Flávio has also vowed to strengthen ties to the Trump administration. In Senate races, Bolsonaro’s party secured 19 of the",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/11a0ecaeb0ca0f09eb161568.json"
-    },
-    {
-      "id": "bc9e75a09e310d5a317dadea",
-      "title": "“I Am Jane Doe”: Cornell Case Reignites Debate over Rape Culture, Frats & Prosecuting Sex Crimes",
-      "url": "https://www.democracynow.org/2026/10/5/cornell_7",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-10-05T14:45:07+00:00",
-      "content_excerpt": "Revelations of sexual assault at a Cornell University fraternity in 2024 and how the university responded have sparked national outrage, reigniting a public debate about “the extent to which fraternities, the extent to which athletics really support this kind of culture that allows perpetrators to escape with little or no accountability,” says law professor Deborah Tuerkheimer. In 2024, seven male students avoided criminal prosecution after allegedly drugging and gang-raping a female student at the Chi Phi fraternity house. Cornell is now under intense scrutiny for its handling of the original investigation, which found that the student identified as Jane Doe was sexually assaulted by two of seven men, resulting in expulsions for two and lesser consequences for the other five. Tompkins Cou",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/bc9e75a09e310d5a317dadea.json"
-    },
-    {
-      "id": "1ceddb75d8283cb2b2e90e4c",
-      "title": "Meet Issa Amro: Palestinian Human Rights Advocate Attacked by Settlers, Detained by Israeli Army",
-      "url": "https://www.democracynow.org/2026/10/5/issa_amro_detained",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-10-05T14:45:07+00:00",
-      "content_excerpt": "We speak with Palestinian human rights defender Issa Amro after he was detained at an Israeli military base for seven hours on Friday. Amro, the founder of the Hebron-based group Youth Against Settlements, was helping a Palestinian family that he says had been attacked by armed Israeli settlers at their farmhouse outside Hebron in the occupied West Bank. Amro says when Israeli soldiers arrived, they ignored the settlers and instead targeted the Palestinians, including him. Amro tells Democracy Now! that soldiers handcuffed and blindfolded him before transporting him to the base in the back of a military vehicle. He was freed after an international outcry over his arrest. “What happened to me is happening to many Palestinian families and many Palestinian human rights defenders and many Pale",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/1ceddb75d8283cb2b2e90e4c.json"
-    },
-    {
-      "id": "5c12c186d3c8950c4d229f9c",
-      "title": "Double-digit health insurance increases will hit individual and small group plans in 2027, again",
-      "url": "https://mronline.org/2026/10/05/double-digit-health-insurance-increases-will-hit-individual-and-small-group-plans-in-2027-again",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-05T13:27:31+00:00",
-      "content_excerpt": "Hundreds of thousands of Minnesotans are facing significantly more expensive health insurance next year. The post Double-digit health insurance increases will hit individual and small group plans in 2027, again appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/5c12c186d3c8950c4d229f9c.json"
-    },
-    {
-      "id": "ea016e35455ba5d494c34ac3",
-      "title": "Ansarallah targets Aramco with missiles, drones as Saudi jets launch 60 raids",
-      "url": "https://mronline.org/2026/10/05/ansarallah-targets-aramco-with-missiles-drones-as-saudi-jets-launch-60-raids",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-05T12:29:57+00:00",
-      "content_excerpt": "Yemen announced missile and drone strikes targeting Aramco in Riyadh, while Saudi warplanes launched 60 raids across five Yemeni governorates. The post Ansarallah targets Aramco with missiles, drones as Saudi jets launch 60 raids appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/ea016e35455ba5d494c34ac3.json"
-    },
-    {
-      "id": "c9fe55f54a543f58703b1628",
-      "title": "CIA Director John Brennan pressed Ukraine government to use force in Donbass in April 2014",
-      "url": "https://mronline.org/2026/10/05/cia-director-john-brennan-pressed-ukraine-government-to-use-force-in-donbass-in-april-2014",
-      "author": "Jeremy Kuzmarov",
-      "source": "MR Online",
-      "published_at": "2026-10-05T11:02:00+00:00",
-      "content_excerpt": "CIA Director John Brennan was key to U.S. foreign policy strategy that aimed to draw Russia into quagmire in Ukraine and attack its energy infrastructure so U.S. oil and gas producers could take over its depleted markets. The post CIA Director John Brennan pressed Ukraine government to use force in Donbass in April 2014 appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/c9fe55f54a543f58703b1628.json"
-    },
-    {
-      "id": "cd765b74d520700c204399fe",
-      "title": "Bioinputs school in China: Global South could meet up to 50% of fertiliser demand with organic waste",
-      "url": "https://mronline.org/2026/10/05/bioinputs-school-in-china-global-south-could-meet-up-to-50-of-fertiliser-demand-with-organic-waste",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-05T10:03:17+00:00",
-      "content_excerpt": "For decades, China was the world's largest consumer of chemical fertilisers, using approximately 50 million tonnes per year, according to the National Bureau of Statistics (NBS). Today, according to FAO data, it is the only country that has reduced its consumption. The post Bioinputs school in China: Global South could meet up to 50% of fertiliser demand with organic waste appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/cd765b74d520700c204399fe.json"
-    },
-    {
-      "id": "cbb6f22e54895b9c5e2f4913",
-      "title": "Labour’s share",
-      "url": "https://mronline.org/2026/10/05/labours-share",
-      "author": "Michael Roberts",
-      "source": "MR Online",
-      "published_at": "2026-10-05T09:04:20+00:00",
-      "content_excerpt": "As the Tax Foundation correctly points out, total national income is not made up just of profits and wages received but also from depreciation. Depreciation is the amount of national income that companies must take into account as investment to replace obsolete and used up machinery, plant and tech etc i.e. not investment in new means of production. The post Labour’s share appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/cbb6f22e54895b9c5e2f4913.json"
-    },
-    {
-      "id": "c8fc94e95e219fb26136133c",
-      "title": "Tens of thousands of Chilean students demand ‘not a single peso less for education’",
-      "url": "https://breakthroughnews.org/2026/10/05/tens-of-thousands-of-chilean-students-demand-not-a-single-peso-less-for-education",
-      "author": "Pablo Meriguet",
-      "source": "BT News",
-      "published_at": "2026-10-05T06:59:07+00:00",
-      "content_excerpt": "Tens of thousands of students took to the streets of Chile on Thursday, October 1, to demand that the government of the ultra-conservative José Antonio Kast not cut the education budget. More than 30 civil society organizations joined the call issued by the Chilean Student Confederation (CONFECHA) in support of the “national strike.” Among the supporters were the United Workers’ Union (CUT), the Chilean Teachers’ Association, the High School Students’ Assembly, the 8M Feminist Coordinating Committee, the National Federation of Education Workers, and the National Association of Kindergartens, among others. “We see that on September 30, the government presented a new bill to Congress, and the only certainties we have are the precedents set by this government in its first six months – which a",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/c8fc94e95e219fb26136133c.json"
-    },
-    {
-      "id": "8558c353e2a19bb452a53f81",
-      "title": "The struggle for African unity today, an interview with Hakim Adi",
-      "url": "https://breakthroughnews.org/2026/10/05/the-struggle-for-african-unity-today-an-interview-with-hakim-adi",
-      "author": "Alex Anfruns",
-      "source": "BT News",
-      "published_at": "2026-10-05T05:59:02+00:00",
-      "content_excerpt": "Wars, neocolonial destabilization, the “aid” ideology, and the influence of Western financial institutions have sabotaged the African continent from the inside and kept it in a state of economic dependency. Yet its peoples have consistently expressed a desire for sovereignty and a rejection of external interference. What current manifestations of the struggle for African unity can we observe nowadays, and what continuity can be drawn with the Pan-Africanist movement of the 20th century? In the context of Trump’s administration US policies, which are targeting migrant workers, and the promotion of far-right ideology in the capitalist countries, can we say that African diasporas still play an important role in these challenges and in the emergence of a new Black power? Professor Hakim Adi, t",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/8558c353e2a19bb452a53f81.json"
-    },
-    {
-      "id": "540802b07e962e0682c35582",
-      "title": "We have to do something",
-      "url": "https://tempestmag.org/2026/10/we-have-to-do-something",
-      "author": "Kristen Guptil-Godfrey and Pranav Jani",
-      "source": "Tempest",
-      "published_at": "2026-10-05T04:25:31+00:00",
-      "content_excerpt": "Pranav Jani: Welcome to another episode of Together We Rise: Solidarity Stories from Central Ohio . I’m so happy to have today on our show my good friend and comrade, Kristen Guptil-Godfrey. Kristen Guptill-Godfrey, who uses they/them pronouns, is a revolutionary socialist and organizer currently living in Arizona on unceded Tohono O’odham and Yoeme ancestral and traditional lands. Kristen’s mom was born and raised in Columbus, and although Kristen moved a lot growing up, they consider Columbus home. They got the opportunity to live in Columbus from 2016 to 2018, and during that time, they became a revolutionary socialist and joined their first political home. Kristen also worked as a social worker and supported queer and trans young people. They are a member of the Tempest Collective and ",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/540802b07e962e0682c35582.json"
-    },
-    {
-      "id": "befc8225f0424d6e0277e69d",
-      "title": "How United Airlines became a link in Israel’s weapons supply chain",
-      "url": "https://breakthroughnews.org/2026/10/04/how-united-airlines-became-a-link-in-israels-weapons-supply-chain",
-      "author": "Zoe Alexandra",
-      "source": "BT News",
-      "published_at": "2026-10-04T19:52:56+00:00",
-      "content_excerpt": "United Airlines has been sending military hardware to Israel on passenger flights, right under your feet. A new report from the People’s Embargo for Palestine, the Palestinian Youth Movement, and others documents 2,761 shipments of military cargo to Israeli weapons manufacturers and military institutions, including Elbit Systems, Lockheed Martin Israel, Nevatim Airbase, and the Israeli Ministry of Defense. Belal Elsiesy, organizer with the PYM and the People’s Arms Embargo, joins Zoe Alexandra to break down the findings. With cargo including F-35 bomb release units used to drop 2,000-pound bombs on Gaza, Merkava tank sights, and “hunter-killer” machine gunner sights destined for Elbit, Elsiesy argues civilian airports are a critical point of intervention. He also discusses what’s behind El",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/befc8225f0424d6e0277e69d.json"
     }
   ]
 }
