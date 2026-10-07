@@ -1,12 +1,282 @@
 {
-  "generated_at": "2026-10-06T23:11:24.870665+00:00",
-  "generated_at_jst": "2026-10-07T08:11:24.870665+09:00",
-  "period_start": "2026-10-05T17:11:24.870665+00:00",
+  "generated_at": "2026-10-07T23:41:22.671253+00:00",
+  "generated_at_jst": "2026-10-08T08:41:22.671253+09:00",
+  "period_start": "2026-10-06T17:41:22.671253+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
   "article_count": 20,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "e9cb61e1d761cfe0847c7f42",
+      "title": "Why did Brazil’s far right win the first round?",
+      "url": "https://breakthroughnews.org/2026/10/07/why-did-brazils-far-right-win-the-first-round",
+      "author": "Pablo Meriguet",
+      "source": "BT News",
+      "published_at": "2026-10-07T22:51:43+00:00",
+      "content_excerpt": "This content is for members only. Visit the site and log in/register to read.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/e9cb61e1d761cfe0847c7f42.json"
+    },
+    {
+      "id": "02b8274e99f702892ed0fb06",
+      "title": "The Slum Reproduction Machine",
+      "url": "https://mronline.org/2026/10/07/the-slum-reproduction-machine",
+      "author": "Hussain Indorewala",
+      "source": "MR Online",
+      "published_at": "2026-10-07T20:34:33+00:00",
+      "content_excerpt": "The supposed “slum free Mumbai” policy is premised on tearing down the actually existing affordable housing in the city to create land for building unaffordable housing. The post The Slum Reproduction Machine appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/02b8274e99f702892ed0fb06.json"
+    },
+    {
+      "id": "1dbaf3a690efb09e96aa3b82",
+      "title": "Judge blocks Trump’s crackdown on Palestine protesters",
+      "url": "https://breakthroughnews.org/2026/10/06/judge-blocks-trumps-crackdown-on-palestine-protesters",
+      "author": "Rania Khalek",
+      "source": "BT News",
+      "published_at": "2026-10-07T18:04:09+00:00",
+      "content_excerpt": "A federal judge just dismissed the Trump administration’s lawsuit against pro-Palestine protesters in New Jersey, in a major First Amendment win after the DOJ claimed a 2024 social media post calling to protest an illegal land sale at a West Orange synagogue amounted to a threat against Jewish worship. The Partnership for Civil Justice Fund called it a vindictive prosecution and viewpoint discrimination, citing the DOJ’s stated aim to “dismantle” the movement. Carl Messineo, co-founder and legal director of the PCJF and its Center for Protest Law and Litigation, joins Rania Khalek and Zoe Alexandra to break down the historic First Amendment victory for PSL New Jersey. They dig into the 1994 FACE Act meant to protect abortion clinic access and the East Jerusalem land sale at the center of t",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/1dbaf3a690efb09e96aa3b82.json"
+    },
+    {
+      "id": "64eb3d46dfe51e216eaaf5f0",
+      "title": "Brazil election shock: What Bolsonaro 2.0 means for Latin America, the Amazon & Palestine",
+      "url": "https://breakthroughnews.org/2026/10/06/brazil-election-shock-what-bolsonaro-2-0-means-for-latin-america-the-amazon-palestine",
+      "author": "Rania Khalek",
+      "source": "BT News",
+      "published_at": "2026-10-07T18:04:09+00:00",
+      "content_excerpt": "Flávio Bolsonaro, son of imprisoned coup plotter Jair Bolsonaro, clinched first place in Brazil’s presidential race Sunday with 47% to Lula’s 45%, forcing a high-stakes runoff on October 25. As Lula’s Workers’ Party (PT) suffered major losses and Bolsonaro’s Liberal Party (PL) allies took governorships and more seats in congress, Stephanie Weatherbee Brito of the International Peoples’ Assembly asks, was this really a surprise? She joins Rania Khalek and Zoe Alexandra from São Paulo to break down Brazil’s election “shock” — from the hard right’s “silent campaign” and the “shy votes” that caught polling institutes off guard, to why 33 million Brazilians skipped the polls, to the PT’s failure to offer a vision of real change. And she warns of what may be to come: a second Trump-aligned Bolso",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/64eb3d46dfe51e216eaaf5f0.json"
+    },
+    {
+      "id": "c90e8f60caa3c39bab19caab",
+      "title": "Israeli Activist Maoz Inon Lost His Parents on Oct. 7, Decries Israel’s Ethnic Cleansing in Gaza",
+      "url": "https://www.democracynow.org/2026/10/7/maoz_inon_oct_7_anniv",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-10-07T15:17:59+00:00",
+      "content_excerpt": "This is a rush transcript. Copy may not be in its final form. AMY GOODMAN : Israelis and Palestinians are marking three years since October 7th, 2023, when Hamas and allied groups launched a surprise attack on Israel. Almost 1,200 people were killed in the attack. About 250 were taken hostage. It was the deadliest such attack in Israel’s history. In Gaza, October 7th is viewed as the beginning of the genocide. Over the past three years, Israel has killed over 74,000 people in Gaza, according to its Health Ministry, but many believe that number is a vast undercount. The killing continues despite a so-called ceasefire. Most of Gaza remains in rubble. We’ll go to Gaza later in the program, but we begin in Israel, where a moment of silence was held to remember the victims of the October 7th at",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/c90e8f60caa3c39bab19caab.json"
+    },
+    {
+      "id": "f12bf870cb1019fe0cda18a7",
+      "title": "“Origins of a Genocide”: Al Jazeera’s Marwan Bishara on “Twelve Days That Shook the Middle East”",
+      "url": "https://www.democracynow.org/2026/10/7/12_days_that_shook_the_middle",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-10-07T15:17:59+00:00",
+      "content_excerpt": "This is a rush transcript. Copy may not be in its final form. AMY GOODMAN : This is Democracy Now! , democracynow.org. I’m Amy Goodman. Twelve Days That Shook the Middle East: Origins of a Genocide . That’s the title of a new book by the Al Jazeera senior political analyst Marwan Bishara. In the opening pages, he writes, “Twelve days were enough. It took no more than twelve days, from Netanyahu’s October 7 war speech to Biden’s October 19 rare Oval Office speech, to expose the anatomy of Israel’s war, its intent, its strategy, and the method of its madness. The genocide was not a slip; it was the result of a predetermined strategy for which there existed a blueprint, if not a premeditated decision. … Hamas had set the process in motion on October 7, it lost control of that process the very",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/f12bf870cb1019fe0cda18a7.json"
+    },
+    {
+      "id": "e4cf8500affa4815a0a6eb64",
+      "title": "Three Years into Genocide, “The IDF Is Still Hunting Gazans”: Palestinian Journalist Akram al-Satarri",
+      "url": "https://www.democracynow.org/2026/10/7/israel_gaza_genocide",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-10-07T15:17:59+00:00",
+      "content_excerpt": "In Gaza, October 7, 2023, is viewed as the beginning of the genocide. Over the past three years, Israel killed over 74,000 people, according to the Gaza Health Ministry, but many believe that number is a vast undercount. The killing continues despite a so-called ceasefire that took effect about a year ago. “Every single aspect of the life of the people of Gaza has changed once and forever,” since October 7, says Akram al-Satarri, a Gaza-based journalist. He points out that a large majority of structures in the Gaza Strip have been reduced to rubble and that Israel controls around 70% of Gaza. “The Israeli Air Force is still hovering all around different parts of the Gaza Strip, and the IDF is still hunting Gazans, disturbing the already disturbed life, spreading death and displacement once",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/e4cf8500affa4815a0a6eb64.json"
+    },
+    {
+      "id": "90585856b8fede1e784c2948",
+      "title": "Genocide and the slow erosion of the family in Gaza",
+      "url": "https://mondoweiss.net/2026/10/genocide-and-the-slow-erosion-of-the-family-in-gaza",
+      "author": "Tareq S. Hajjaj",
+      "source": "Mondoweiss",
+      "published_at": "2026-10-07T15:01:21+00:00",
+      "content_excerpt": "In scattered tents across Gaza, families once bound by shared meals and evenings by the sea now focus solely on survival. The rituals that once bonded fathers to their children, or women to their neighbors, have been shattered by Israel's genocide.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/90585856b8fede1e784c2948.json"
+    },
+    {
+      "id": "653fcd22970c86033cc7da82",
+      "title": "Three Octobers in the West Bank, and the lands we can no longer reach",
+      "url": "https://mondoweiss.net/2026/10/three-octobers-in-the-west-bank-and-the-lands-we-can-no-longer-reach",
+      "author": "Qassam Muaddi",
+      "source": "Mondoweiss",
+      "published_at": "2026-10-07T14:06:21+00:00",
+      "content_excerpt": "From my uncle's exasperated sighs over olive groves we can no longer reach, to the iron gates the Israeli army has erected at the edge of my village, there is one word we use to cope: 'aadi', or, \"normal\" in Arabic. But this reality is anything but.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/653fcd22970c86033cc7da82.json"
+    },
+    {
+      "id": "1c000066238a7d21982f100c",
+      "title": "The children in Gaza who have no memory of the world before the genocide",
+      "url": "https://mondoweiss.net/2026/10/the-children-in-gaza-who-have-no-memory-of-the-world-before-the-genocide",
+      "author": "Tareq S. Hajjaj",
+      "source": "Mondoweiss",
+      "published_at": "2026-10-07T14:06:21+00:00",
+      "content_excerpt": "In Gaza, an entire generation of children born into the genocide has no memory of how life was like before, and doesn't know about the world outside Gaza's walls.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/1c000066238a7d21982f100c.json"
+    },
+    {
+      "id": "93f4bc4474ccab14f4dbc199",
+      "title": "Pentagon puts Musk at the center of its war planning",
+      "url": "https://mronline.org/2026/10/07/pentagon-puts-musk-at-the-center-of-its-war-planning",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-07T12:12:31+00:00",
+      "content_excerpt": "Elon Musk’s SpaceX and Palmer Luckey’s Anduril do billions of dollars of business with the Pentagon. Now, the Pentagon has given the two billionaires the job of telling it what to buy. The post Pentagon puts Musk at the center of its war planning appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/93f4bc4474ccab14f4dbc199.json"
+    },
+    {
+      "id": "b4ebe35e05bedea5f50221cc",
+      "title": "CIA report warns Israel could head toward civil war, total collapse",
+      "url": "https://mronline.org/2026/10/07/cia-report-warns-israel-could-head-toward-civil-war-total-collapse",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-07T11:17:14+00:00",
+      "content_excerpt": "U.S. intelligence raises fears of civil unrest and state breakdown in Israel ahead of October 27 elections. The post CIA report warns Israel could head toward civil war, total collapse appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/b4ebe35e05bedea5f50221cc.json"
+    },
+    {
+      "id": "87f380400723dd0832ffaf14",
+      "title": "Removing federal protections for wolves would be catastrophic",
+      "url": "https://mronline.org/2026/10/07/removing-federal-protections-for-wolves-would-be-catastrophic",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-07T11:17:14+00:00",
+      "content_excerpt": "Keeping federal protections in place is our first line of defense against trophy hunting and recreational trapping, and our members of Congress and officials at the U.S. Fish and Wildlife Service must hear that message from us. The post Removing federal protections for wolves would be catastrophic appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/87f380400723dd0832ffaf14.json"
+    },
+    {
+      "id": "9f79f337988ecfd768cd20a4",
+      "title": "Student protests sweep France over school underfunding",
+      "url": "https://mronline.org/2026/10/07/student-protests-sweep-france-over-school-underfunding",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-07T10:11:58+00:00",
+      "content_excerpt": "Deepening anger over crumbling facilities, staff shortages, and police heavy-handedness drives nationwide classroom blockades. The post Student protests sweep France over school underfunding appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/9f79f337988ecfd768cd20a4.json"
+    },
+    {
+      "id": "21365d32ad0c6577f08b1fb2",
+      "title": "Mass protests topples Spanish government, new election called",
+      "url": "https://mronline.org/2026/10/07/mass-protests-topples-spanish-government-new-election-called",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-07T09:15:10+00:00",
+      "content_excerpt": "Faced with thousands on the streets Premier Sanchez’s attempt to placate widespread unrest over the housing crisis were sunk by a right-wing coalition. As John Rees explains, the political balance in Spain is at a critical stage. The post Mass protests topples Spanish government, new election called appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/21365d32ad0c6577f08b1fb2.json"
+    },
+    {
+      "id": "a3ffc039d8c09cd8a332ea34",
+      "title": "French students shut down schools in historic strike against austerity",
+      "url": "https://breakthroughnews.org/2026/10/07/french-students-shut-down-schools-in-historic-strike-against-austerity",
+      "author": "Ana Vračar",
+      "source": "BT News",
+      "published_at": "2026-10-07T01:25:45+00:00",
+      "content_excerpt": "Massive school protests are ongoing in France, where students have been mobilizing for their right to education – and against the austerity measures undermining it. Roughly 1,800 high schools were forced to shut down on Tuesday, October 6, as students – supported by trade unions, families, and progressive politicians – took to the streets. According to trade unions, over 450,000 people participated in protests across the country. Students at 90% of French universities organized actions on the same day, adding even more weight to the historic mobilization. The students’ main demands include urgent measures to address the critical situation in French schools: a shortage of teaching and support staff, oversized classes, and dilapidated buildings – particularly in working-class areas. Proteste",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/a3ffc039d8c09cd8a332ea34.json"
+    },
+    {
+      "id": "527c6db7a428af476916357d",
+      "title": "Tensions between Egypt and Ethiopia escalate, as fighting in Tigray intensifies",
+      "url": "https://breakthroughnews.org/2026/10/07/tensions-between-egypt-and-ethiopia-escalate-as-fighting-in-tigray-intensifies",
+      "author": "Nicholas Mwangi",
+      "source": "BT News",
+      "published_at": "2026-10-07T00:24:48+00:00",
+      "content_excerpt": "A new war of words has broken out between Egypt and Ethiopia over the Grand Ethiopian Renaissance Dam (GERD). It comes as renewed fighting in northern Ethiopia pulls the country’s long-running disputes with its neighbors back into the open. Ethiopia’s government has blamed neighboring states for the escalating conflict in the north. The government has accused Eritrea, Sudan, and Egypt of backing armed opposition groups, raising fears that the conflict could expand regionally. Birhanu Jula , Ethiopia’s army chief, stated that the Tigray People’s Liberation Front has clearly needed outside support and supplies from Egypt, Sudan, and other foreign powers to sustain its campaign. Cairo rejected the claim . Foreign Ministry spokesman Nader Zaki said Egypt’s foreign policy rests on respect for t",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/527c6db7a428af476916357d.json"
+    },
+    {
+      "id": "a9091afded22ffdb1999326f",
+      "title": "Pakistan faces domestic opposition over military deployment to Saudi Arabia",
+      "url": "https://breakthroughnews.org/2026/10/06/pakistan-faces-domestic-opposition-over-military-deployment-to-saudi-arabia",
+      "author": "Abdul Rahman",
+      "source": "BT News",
+      "published_at": "2026-10-07T00:24:48+00:00",
+      "content_excerpt": "The Pakistan government’s decision on Monday, October 5, to deploy its armed forces to Saudi Arabia and provide other military assistance in its fight against Yemen is facing widespread criticism from the left and other progressive sections within the country. Critics have questioned the rationale behind the decision, expressing concerns that it will further erode the credibility of Pakistan among the people in the region and unnecessarily drag it into endless wars. According to the joint statement, the constituents decided “to move immediately to the practical implementation of the collective defense commitments” under the Mecca Joint Defence Agreement and provide military force and other capabilities to Saudi Arabia to protect its security and territorial integrity. The statement was iss",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/a9091afded22ffdb1999326f.json"
+    },
     {
       "id": "4839cee87541dea43353f78d",
       "title": "AES launches joint Sahelian state media channel",
@@ -36,276 +306,6 @@
       "priority": 2,
       "date_missing": false,
       "article_path": "articles/42e3de2987c155970f321f3f.json"
-    },
-    {
-      "id": "e1694dcdc277e9875cb0d459",
-      "title": "French High School Students Lead Mass Protests over School Funding, Inequality; Thousands Arrested",
-      "url": "https://www.democracynow.org/2026/10/6/france_education_protests",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-10-06T15:31:52+00:00",
-      "content_excerpt": "This is a rush transcript. Copy may not be in its final form. AMY GOODMAN : Nearly 2,000 French high schools are blockaded or closed today as massive student-led protests spread over France over school funding and inequality. The demonstration began in September at a single school outside Paris, where students protested teacher shortages, overcrowded classrooms and crumbling school buildings. But the scope of the protests has widened amidst a violent crackdown by French police. French authorities have arrested more than 5,000 people since the movement began, about 85% of them high schoolers. These are the voices of two students protesting in Paris earlier today. HUGO VETZEL : [translated] For us, it’s, first of all, in support of the high school students who started blockades a few days ag",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/e1694dcdc277e9875cb0d459.json"
-    },
-    {
-      "id": "054d9aa1dbfb138504345deb",
-      "title": "Ebola Death Toll in DRC Tops 4,000; Trump USAID Cuts Fuel Outbreak",
-      "url": "https://www.democracynow.org/2026/10/6/drc_ebola_outbreak",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-10-06T15:31:52+00:00",
-      "content_excerpt": "We go to the Democratic Republic of the Congo, the site of the fastest-growing Ebola outbreak in history. Health authorities believe the outbreak first began in January but was not detected until May, in part due to cuts in global health investments, like the dismantling of USAID . Since then, over 8,000 cases have been recorded, with more than 4,000 fatalities so far. From Bunia, Ituri province, the epicenter of the outbreak, we speak to Congolese journalist Akilimali Chomachoma. Chomachoma describes the strain on the underfunded Congolese healthcare system as the disease spreads. Many frontline workers have not been paid for months. “We are seeing this outbreak emerge, and really unfurl, in a setting of decreased global health support,” says Craig Spencer, a doctor and public health expe",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/054d9aa1dbfb138504345deb.json"
-    },
-    {
-      "id": "43cd1e24fd9bfb673288aaa2",
-      "title": "“Incredible Moment for the Borderlands”: Judge Blocks Border Wall Expansion in Big Bend & West Texas",
-      "url": "https://www.democracynow.org/2026/10/6/big_bend_border_wall_texas",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-10-06T15:31:52+00:00",
-      "content_excerpt": "In a victory for environmentalists and immigration rights’ advocates, a federal judge in El Paso, Texas, has blocked further border wall construction inside Big Bend National Park. “We slammed the brakes on $7 billion worth of corrupt construction contracts,” says Laiken Jordahl, a national public lands advocate with the Center for Biological Diversity, which sued to block the expansion. “We have effectively stopped construction across West Texas, and it’s incredible.” Jordahl also responds to the Trump administration’s excavation of a 200-year-old cottonwood tree on the Arizona-Mexico border that had been protected by activists for months. “Watching those videos of them toppling this ancient tree that was very likely older than the border itself is symbolic of how DHS has treated the bord",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/43cd1e24fd9bfb673288aaa2.json"
-    },
-    {
-      "id": "00add44e3315cd85099dffef",
-      "title": "Brazilians Elect Eight Candidates from MST in 2026 Election",
-      "url": "https://www.brasildefato.com.br/2026/10/06/brazilians-elect-eight-candidates-from-mst-in-2026-election",
-      "author": "",
-      "source": "Brasil de Fato",
-      "published_at": "2026-10-06T15:14:06+00:00",
-      "content_excerpt": "6.Oct.2026 - 11:22 São Paulo (SP) From the newsroom 16 candidaturas ligadas ao MST disputaram cargos nas Eleições 2026 | Crédito: Divulgação/MST Eight members of the Landless Rural Workers’ Movement, or MST, were elected to legislative bodies in the October 4 elections. This includes four lawmakers heading to Brazil’s lower house of Congress and four representatives to state legislatures. They were all elected, representing the Workers’ Party. They came from different states and regions of the country. Valmir Assunção, from Bahia; Rosa Amorim, from Pernambuco; Marcon, from Rio Grande do Sul; and João Daniel, from Sergipe, were all elected to Brazil’s Chamber of Deputies, the lower house of Congress. All four have a history of activism linked to the movement and standing up for agrarian ref",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/00add44e3315cd85099dffef.json"
-    },
-    {
-      "id": "59c1cc919c59609c16e91e48",
-      "title": "The Gaza genocide permanently diminished the power of pro-Israel propaganda",
-      "url": "https://mondoweiss.net/2026/10/the-gaza-genocide-permanently-diminished-the-power-of-pro-israel-propaganda",
-      "author": "Michael Arria",
-      "source": "Mondoweiss",
-      "published_at": "2026-10-06T13:47:56+00:00",
-      "content_excerpt": "Since October 7 and the Gaza genocide, U.S. opinions on Israel and Palestine have drastically shifted. The power of Zionist propaganda has been permanently weakened, and the U.S.-Israel relationship is in a more precarious position than ever before.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/59c1cc919c59609c16e91e48.json"
-    },
-    {
-      "id": "10518c8390022082c0af790f",
-      "title": "After three years of genocide, Gaza’s olive harvest is going extinct",
-      "url": "https://mondoweiss.net/2026/10/after-three-years-of-genocide-gazas-olive-harvest-is-going-extinct",
-      "author": "Tareq S. Hajjaj",
-      "source": "Mondoweiss",
-      "published_at": "2026-10-06T13:17:42+00:00",
-      "content_excerpt": "The Israeli army has bulldozed over 1.6 million olive trees in Gaza since the beginning of the genocide in 2023, threatening the livelihood and heritage of olive farming communities, and the survival of a centuries-old Palestinian cultural tradition.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/10518c8390022082c0af790f.json"
-    },
-    {
-      "id": "32fe21a774d7a037a94eb12f",
-      "title": "War on Yemen exposes deepening Saudi-Israeli military coordination",
-      "url": "https://mronline.org/2026/10/06/war-on-yemen-exposes-deepening-saudi-israeli-military-coordination",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-06T13:07:41+00:00",
-      "content_excerpt": "A ScheerPost analysis argues that Saudi Arabia and “Israel” are deepening covert military cooperation against the Yemeni Armed Forces through intelligence sharing, private contacts, and sectarian messaging. The post War on Yemen exposes deepening Saudi-Israeli military coordination appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/32fe21a774d7a037a94eb12f.json"
-    },
-    {
-      "id": "70672ecadf9c0e657621eb0c",
-      "title": "U.S. liberal media literacy guide: “This isn’t who we are”",
-      "url": "https://mronline.org/2026/10/06/u-s-liberal-media-literacy-guide-this-isnt-who-we-are",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-06T12:09:30+00:00",
-      "content_excerpt": "The liberal news media treat U.S. violence and oppression as aberrations from the country's founding ideals rather than expressions of its fundamental character as a settler colony, empire, plantation, and concentration camp. The post U.S. liberal media literacy guide: “This isn’t who we are” appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/70672ecadf9c0e657621eb0c.json"
-    },
-    {
-      "id": "6c31aa4b1fb779393cff71f7",
-      "title": "Amazon is deploying AI to spy on its workers and bust unions before they form",
-      "url": "https://mronline.org/2026/10/06/amazon-is-deploying-ai-to-spy-on-its-workers-and-bust-unions-before-they-form",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-06T11:11:21+00:00",
-      "content_excerpt": "Internal company documents obtained by a Canadian labor board show how Amazon is tracking workers’ every move. The post Amazon is deploying AI to spy on its workers and bust unions before they form appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/6c31aa4b1fb779393cff71f7.json"
-    },
-    {
-      "id": "bdc817b369e42fddde4b9516",
-      "title": "Is starvation Rubio’s only strategy? The new attack on Cuba’s private sector",
-      "url": "https://mronline.org/2026/10/06/is-starvation-rubios-only-strategy-the-new-attack-on-cubas-private-sector",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-06T10:11:24+00:00",
-      "content_excerpt": "Secretary of State Rubio got the jump on ‘Sanctions Thursday’ unveiling his new sanctions and revisions to the OFAC Frequently Asked Question website on Tuesday, September 29. The post Is starvation Rubio’s only strategy? The new attack on Cuba’s private sector appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/bdc817b369e42fddde4b9516.json"
-    },
-    {
-      "id": "4f82392975bd711ce9b2f573",
-      "title": "Confronting climate failure in a summer of steaming oceans and devastated villages",
-      "url": "https://mronline.org/2026/10/06/confronting-climate-failure-in-a-summer-of-steaming-oceans-and-devastated-villages",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-06T09:13:47+00:00",
-      "content_excerpt": "Humanity is faced with the greatest failure in its long existence. What can we do about it? The post Confronting climate failure in a summer of steaming oceans and devastated villages appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/4f82392975bd711ce9b2f573.json"
-    },
-    {
-      "id": "0b902d3ac23bf6be3ddf56ac",
-      "title": "BT LIVE: Brazil’s Far-Right Shock | 3 Years of Genocide | Apple Blood Tech Revolt",
-      "url": "https://breakthroughnews.org/2026/10/06/oct-6-2026",
-      "author": "BreakThrough News",
-      "source": "BT News",
-      "published_at": "2026-10-06T01:12:10+00:00",
-      "content_excerpt": "This content is for members only. Visit the site and log in/register to read.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/0b902d3ac23bf6be3ddf56ac.json"
-    },
-    {
-      "id": "18508e5ec4d8e78a73a70c66",
-      "title": "Israeli forces demolish Birzeit University’s martyrs memorial",
-      "url": "https://breakthroughnews.org/2026/10/06/israeli-forces-demolish-birzeit-universitys-martyrs-memorial",
-      "author": "Aseel Saleh",
-      "source": "BT News",
-      "published_at": "2026-10-06T01:12:10+00:00",
-      "content_excerpt": "At dawn on Monday, October 5, Israeli forces destroyed the martyrs’ memorial at Birzeit University. Basil Farraj, an assistant professor of philosophy and cultural studies at Birzeit University, told BreakThrough News that the Israeli forces came to the campus around a week ago to capture photos of the memorial, sparking suspicions that they may attempt to destroy it. Farraj suggests that the removal of the memorial came as part of Israel’s broader efforts to erase the Palestinian people’s collective memory and entrench cultural, social, and political hegemony over them, specifically at Birzeit University, due to its pioneering role in the Palestinian struggle against occupation. “The assault on the memorial constitutes a cowardly attempt that will never defeat the resilience of the Palest",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/18508e5ec4d8e78a73a70c66.json"
-    },
-    {
-      "id": "5d7b5a3edb0fd7906d429bce",
-      "title": "The far right wins the first round in Brazil, but Lula isn’t done yet",
-      "url": "https://breakthroughnews.org/2026/10/06/the-far-right-wins-the-first-round-in-brazil-but-lula-isnt-done-yet",
-      "author": "Pablo Meriguet",
-      "source": "BT News",
-      "published_at": "2026-10-06T01:12:10+00:00",
-      "content_excerpt": "On October 4, over 150 million Brazilians were called to the polls to elect their president, deputies, and governors, and to replace the majority of senators. The elections , for many, brought a major surprise. Although polls indicated a lead for the incumbent president, progressive Luiz Inácio “Lula” da Silva, far-right Senator Flávio Bolsonaro clinched first place. Flávio is the son of former President Jair Bolsonaro who is currently serving a 27-year sentence for his involvement in an attempted coup against Lula in 2022. According to the final tally, Bolsonaro received 47.03% of the vote (56 million votes) while Lula received 45.16%, nearly 54 million votes. Thus, Bolsonaro’s lead amounts to just over 2 million votes. In third place is Augusto Cury, with 2.89%. He is followed by Renan S",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/5d7b5a3edb0fd7906d429bce.json"
-    },
-    {
-      "id": "f3399f182d4b616db3d4a6c8",
-      "title": "Thousands begin march to Islamabad calling for release of Imran Khan",
-      "url": "https://breakthroughnews.org/2026/10/05/thousands-begin-march-to-islamabad-calling-for-release-of-imran-khan",
-      "author": "Abdul Rahman",
-      "source": "BT News",
-      "published_at": "2026-10-06T00:12:10+00:00",
-      "content_excerpt": "This content is for members only. Visit the site and log in/register to read.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/f3399f182d4b616db3d4a6c8.json"
-    },
-    {
-      "id": "f70e880a6a3e1afe3066e009",
-      "title": "Housing crisis leads to snap election in Spain",
-      "url": "https://breakthroughnews.org/2026/10/05/housing-crisis-leads-to-snap-election-in-spain",
-      "author": "Ana Vračar",
-      "source": "BT News",
-      "published_at": "2026-10-06T00:12:10+00:00",
-      "content_excerpt": "Spanish Prime Minister Pedro Sánchez announced a snap election for late November after two housing bills were defeated in a parliamentary vote on Friday, October 2. The bills came amid widespread mass mobilizations demanding urgent action on the country’s housing crisis, following the eviction of an 87-year-old woman in Madrid. Hundreds of thousands of people took to the streets of approximately 50 cities over the weekend in support of these demands. “It is true that there are still many injustices to correct, many social goals to achieve, and many problems to solve – above all in the areas of inequality, public services, and access to housing,” Sánchez said in his speech on Monday, as he appealed to voters to give progressive forces more decisive electoral support to allow them to impleme",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/f70e880a6a3e1afe3066e009.json"
-    },
-    {
-      "id": "98d9c40a5d23f31717289573",
-      "title": "Echoes of COINTELPRO w/ Watani Stiner & Kazu Haga",
-      "url": "https://convergencemag.com/podcast/echoes-of-cointelpro-w-watani-stiner-kazu-haga",
-      "author": "Cayden Mak",
-      "source": "Convergence",
-      "published_at": "2026-10-05T23:28:23+00:00",
-      "content_excerpt": "On January 17, 1969, an altercation at UCLA ended in gunfire that left two members of the Black Panther Party dead. Watani Stiner–who was a member of the conflicting Us Organization–was there that day. But despite not shooting anyone, he and his brother George were sentenced to life in prison for conspiracy to commit murder and second-degree murder. He spent the next several decades in prison… Source",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/98d9c40a5d23f31717289573.json"
-    },
-    {
-      "id": "6c8151cf42ba134332f44f59",
-      "title": "Iran welcomes the withdrawal of US forces from Iraq, calling it a victory for the resistance",
-      "url": "https://breakthroughnews.org/2026/10/05/iran-welcomes-the-withdrawal-of-us-forces-from-iraq-calling-it-a-victory-for-the-resistance",
-      "author": "Abdul Rahman",
-      "source": "BT News",
-      "published_at": "2026-10-05T21:09:25+00:00",
-      "content_excerpt": "The withdrawal of the remaining US troops from Iraq is a victory for the Iraqi nation and the resistance force in the region, Iran claimed on Thursday, October 1, also calling for greater cooperation between both the countries to achieve complete sovereignty for Iraq. “The US, despite possessing vast resources and equipment, has been expelled from Iraq, and the Iraqi people are celebrating this victory,” head of Iran’s Quds’ forces Esmail Qaani said during a program held in Tehran to mark the second anniversary of the Israeli assassination of Hezbollah leader Hasan Nasrallah. He thanked the “resistance of the Iraqi nation and the heroes of the Resistance Front” for making the end of the US occupation a reality. The US withdrew all its remaining forces from Iraq on September 30, as per the ",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/6c8151cf42ba134332f44f59.json"
     }
   ]
 }
