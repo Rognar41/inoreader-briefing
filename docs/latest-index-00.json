@@ -1,251 +1,311 @@
 {
-  "generated_at": "2026-10-07T23:41:22.671253+00:00",
-  "generated_at_jst": "2026-10-08T08:41:22.671253+09:00",
-  "period_start": "2026-10-06T17:41:22.671253+00:00",
+  "generated_at": "2026-10-08T23:51:16.845365+00:00",
+  "generated_at_jst": "2026-10-09T08:51:16.845365+09:00",
+  "period_start": "2026-10-07T17:51:16.845365+00:00",
   "lookback_hours": 30,
   "folder": "00_毎日確認",
-  "article_count": 16,
+  "article_count": 20,
   "excerpt_chars": 800,
   "articles": [
     {
-      "id": "71a8d276c5e6a9452840dc45",
-      "title": "Democratic Socialist Principles in the Book of Acts",
-      "url": "https://religioussocialism.org/democratic-socialist-principles-in-the-book-of-acts",
-      "author": "DSA Religion and Socialism Working Group",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-10-07T21:52:50+00:00",
-      "content_excerpt": "The Mediterranean sun beat down upon the dusty limestone streets of Jerusalem, casting sharp shadows across a city fractured by imperial occupation, grinding poverty , and rigid social stratification. On the surface, the Roman peace—the Pax Romana —reigned supreme. But beneath that veneer lay a harsh economic reality: wealth was concentrated in the hands of a tiny elite, temple elites exacted heavy tributes, and the margins of society were choked with day laborers, widows, and orphans always on the brink of starvation. Yet, among a clandestine gathering of believers who had recently embraced the resurrected Galilean teacher, a radically different world was being born. Luke, recording these events in the Book of Acts, captures a moment in human history where the fundamental rules of surviva",
+      "id": "c3a0fed8fef6b166d21f3af1",
+      "title": "Black Agenda Report October 9, 2026",
+      "url": "https://www.blackagendareport.com/black-agenda-report-october-9-2026",
+      "author": "bareditors",
+      "source": "Black Agenda Report",
+      "published_at": "2026-10-08T23:49:15+00:00",
+      "content_excerpt": "Black Agenda Report October 9, 2026 Authors Black Agenda Radio with Margaret Kimberley bareditors Fri, 10/09/2026 - 05:08 Black Agenda Radio · Black Agenda Report October 9, 2026 In this week’s segment, we discuss student protests by Black and brown youth in France against austerity measures and race-based inequality in the education system. But we begin with a discussion of the Brazilian presidential election, where incumbent president Lula da Silva came in second to conservative Flavio Bolsonaro in the first round. An October 25th runoff between the two men will decide the outcome. International France Brazil Lula da Silva Jair Bolsonaro student protests Racism Elections Austerity",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/71a8d276c5e6a9452840dc45.json"
+      "article_path": "articles/c3a0fed8fef6b166d21f3af1.json"
     },
     {
-      "id": "dec9587d4e722c69b372ea9f",
-      "title": "Fall is Here but Prices Aren’t Falling: Protestors Rally Against Iran War, for Divestment as Gas Prices Skyrocket",
-      "url": "https://working-mass.com/2026/10/07/fall-is-here-but-prices-arent-falling-protestors-rally-against-iran-war-for-divestment-as-gas-prices-skyrocket",
-      "author": "Working Mass: The Massachusetts DSA Labor Outlet",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-10-07T21:52:50+00:00",
-      "content_excerpt": "By: Liam Noble BOSTON COMMON – On Saturday, October 3, anti-war protesters and left organizations rallied against the multiple simultaneous illegal wars prosecuted by the United States under the current regime — with a particular focus on the war in Iran. Protestors and local activists including Rabbi Greg Hersh and Tony Van Der Meer gave speeches condemning the loss of life caused by imperialist violence, especially in Latin America and West Asia. The atmosphere at the protest was one of shared outrage: against the illegal wars of aggression, the insanity of the US leadership, as well as over the deaths of and intentional targeting of civilians. At least two signs carried photographs of dead children, their gravesites, or of family photos from when they were still alive. The message spoke",
+      "id": "2fb3d2b70a11e281d6b4cc02",
+      "title": "Lula vs. Bolsonaro in Brazil's Presidential Election",
+      "url": "https://www.blackagendareport.com/lula-vs-bolsonaro-brazils-presidential-election",
+      "author": "bareditors",
+      "source": "Black Agenda Report",
+      "published_at": "2026-10-08T23:49:15+00:00",
+      "content_excerpt": "Lula vs. Bolsonaro in Brazil's Presidential Election Authors Black Agenda Radio with Margaret Kimberley bareditors Fri, 10/09/2026 - 05:05 Brazil's incumbent president Lula da Silva finished second behind Flavio Bolsonaro in the first round of the presidential election. Because neither man received at least 51% of the vote, a run-off election on October 25 will decide the presidency. Robert Wilson joins us from Rio de Janeiro to provide analysis on Brazilian politics, racism in that country, and why the son of an imprisoned former president may yet serve in that same office. International Brazil Elections Lula da Silva Jair Bolsonaro Racism",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/dec9587d4e722c69b372ea9f.json"
+      "article_path": "articles/2fb3d2b70a11e281d6b4cc02.json"
     },
     {
-      "id": "1b15bc3bdb12b9b81454eb17",
-      "title": "Who’s Your Uber Driver on the Phone to? Welcome to the Long, Long Diaspora Call",
-      "url": "https://working-mass.com/2026/10/07/whos-your-uber-driver-on-the-phone-to-welcome-to-the-long-long-diaspora-call",
-      "author": "Working Mass: The Massachusetts DSA Labor Outlet",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-10-07T21:52:50+00:00",
-      "content_excerpt": "The back of an Uber (Working Mass) By: Nesrine Malik This article was originally published by The Guardian on September 30, 2026. The question of the week is: “who are Uber drivers always talking to on the phone?” It’s one that regularly surfaces on Reddit threads and social media and even, on a couple of occasions, in the office. It’s not my question (I know who they are talking to), but I think the fact that many people are so baffled by it tells us a lot about the separate worlds we occupy. When you get a cab on a ride-hailing app, the chances that your driver will be on the phone is high. The conversation is almost always quiet, containing pauses so long that it often seems they are actually no longer on a call. But then comes a rejoinder, a laugh, an interjection, and the marathon con",
+      "id": "018583bbfd89e7ff0299dac6",
+      "title": "French Youth Rise Up Against Racism, Austerity, and the Rising Right Wing",
+      "url": "https://www.blackagendareport.com/french-youth-rise-against-racism-austerity-and-rising-right-wing",
+      "author": "bareditors",
+      "source": "Black Agenda Report",
+      "published_at": "2026-10-08T23:49:15+00:00",
+      "content_excerpt": "French Youth Rise Up Against Racism, Austerity, and the Rising Right Wing Authors Black Agenda Radio with Margaret Kimberley bareditors Fri, 10/09/2026 - 04:55 Students in France are engaging in mass protests. Hundreds of them have been arrested and injured by police, and many schools are closed. Annick Metefia joins us from Paris. She is a member of the Afrofeminist Mwasi Collectif and provides insights on politics and the struggles of African-descended and other immigrant communities under an austerity regime and the rise of the racist right wing. International France protests student protests Right wing immigrants Austerity",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/1b15bc3bdb12b9b81454eb17.json"
+      "article_path": "articles/018583bbfd89e7ff0299dac6.json"
     },
     {
-      "id": "3d839eadd5ce248dbd293707",
-      "title": "Tech Workers’ Leverage Over Employers Is Shifting",
-      "url": "https://jacobin.com/2026/10/tech-workers-leverage-over-employers-is-shifting",
-      "author": "JS Tan",
+      "id": "766465beb36967e585d5f715",
+      "title": "Trump’s Politicized Deportations Are Becoming the Global Norm",
+      "url": "https://jacobin.com/2026/10/ragozin-latvia-deportation-putin-trump",
+      "author": "Branko Marcetic",
       "source": "Jacobin",
-      "published_at": "2026-10-07T20:37:09+00:00",
-      "content_excerpt": "Not long ago, tech companies courted their workers. Engineers were scarce enough that anyone who felt mistreated could quit and land somewhere else within weeks, so employers kept them around with generous perks and wide latitude on the job, and many firms took pains to look like the progressive institutions their staff expected them to be. That arrangement fell apart around 2022. Rising interest rates made executives far less willing to spend on their workforce, and many of them came to see their own employees’ activism as a problem to be crushed. Layoffs followed, aimed with notable precision at troublemakers, while the industry’s leaders bent the knee to Trump. JS Tan and Clarissa Redwine spent years trying to unionize this industry, and their new book , Against Tech Oligarchy: Worker R",
+      "published_at": "2026-10-08T21:57:20+00:00",
+      "content_excerpt": "Given all the headlines about the US government trying to deport one or another migrant over their foreign policy views, you’d be forgiven for thinking this is a uniquely Trumpian innovation. Sadly, as the recent developments out of Latvia show, it’s far from it. Yesterday news broke that Leonid Ragozin, an exiled Russian journalist who has lived in the Baltic country for over a decade (and is also a Jacobin contributor who I interviewed for a forthcoming piece) has been declared persona non grata by the Latvian government, which intends to swiftly deport him. The Latvian foreign minister cited unspecified “information” received from “the competent authorities” to justify this extraordinary measure, but you barely have to even read between the lines to see that Ragozin’s offense was simply",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/3d839eadd5ce248dbd293707.json"
+      "article_path": "articles/766465beb36967e585d5f715.json"
     },
     {
-      "id": "891ea602a0738ce6b0680df4",
-      "title": "Mark Carney Isn’t the “Leader of the Free World.” Lula Is.",
-      "url": "https://jacobin.com/2026/10/carney-lula-democracy-elections-trump",
-      "author": "Gerard Di Trolio",
-      "source": "Jacobin",
-      "published_at": "2026-10-07T20:37:09+00:00",
-      "content_excerpt": "The headlines say it all: “Meet the New Leader of the Free World. No, It’s Not Donald Trump.” “ Canada’s Carney Claims Mantle of ‘Leader of the Free World.’” “How Mark Carney Became Leader of the Free World by Standing Up to Trump.” Canadian Prime Minister Mark Carney is not just incredibly popular at home but, increasingly, around the world. Now there is even talk of him winning the Nobel Peace Prize . It is a comforting fiction for those terrified by Donald Trump. But if any leader deserves such a title, it is not Canada’s ex-banker prime minister but Brazil’s president, Luiz Inácio Lula da Silva. The reason is simple: Lula has done more to protect democracy and promote a fair global system than Carney has. And the point is more than academic. Lula will face off with Flávio Bolsonaro, so",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/891ea602a0738ce6b0680df4.json"
-    },
-    {
-      "id": "ea3657aa870a8b26be5b395f",
-      "title": "DSA Is Right: We Need a New Constitution",
-      "url": "https://democraticleft.dsausa.org/2026/10/07/dsa-is-right-we-need-a-new-constitution",
-      "author": "gdsnyc@verizon.net",
-      "source": "Democratic Left",
-      "published_at": "2026-10-07T19:44:07+00:00",
-      "content_excerpt": "With the undemocratic constitution off our backs and a new political playing field, a better world will be possible. The post DSA Is Right: We Need a New Constitution appeared first on Democratic Left .",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/ea3657aa870a8b26be5b395f.json"
-    },
-    {
-      "id": "df70b9578e52ee16407ddcbc",
-      "title": "Could AI Fix Climate Change? Probably Not Under Capitalism.",
-      "url": "https://jacobin.com/2026/10/ai-huang-climate-change-capitalism",
-      "author": "Noah Gordon",
-      "source": "Jacobin",
-      "published_at": "2026-10-07T16:36:39+00:00",
-      "content_excerpt": "“There’s no question that in four or five years’ time, we’re going to use a lot more fossil fuel,” Nvidia CEO Jensen Huang told Ezra Klein of The New York Times . “But also, in the next decade in front of us, at no time in history are we better prepared to move to sustainable energy,” he added. “If you want to turn a corner on climate change, if you want a future that’s sustainable, lean into AI.” It is perhaps surprising, given the tone of much mainstream discussion of artificial intelligence, that the man at the helm of the world’s most valuable company, which produces chips essential to the new technology, was agnostic about whether AI would stop climate change. “It could be solar, it could be nuclear, it could be fission, fusion, hydro, you name it,” Huang said in his hour-long intervi",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/df70b9578e52ee16407ddcbc.json"
-    },
-    {
-      "id": "e77b1a6aa9e77237bd0e99ea",
-      "title": "High School Protests Have French Establishment on the Ropes",
-      "url": "https://jacobin.com/2026/10/paris-student-protests-education-police",
-      "author": "William Bouchardon",
-      "source": "Jacobin",
-      "published_at": "2026-10-07T15:38:39+00:00",
-      "content_excerpt": "It only took a spark to set France ablaze. Protests broke out as the new school year had barely begun, as lycéens (high schoolers, aged roughly fifteen to eighteen) voiced their anger at what they see as neglect and contempt from the government. This deep-rooted discontent recalls earlier episodes. As the movement tries to spread to universities, the authorities’ only answer is repression, and accusations against La France Insoumise (LFI). The radical-left party wants to ride the wave of youth anger in its campaign for next spring’s presidential election, while its opponents hope the movement fizzles out as quickly as possible. France faces zero growth, rising unemployment, soaring fuel prices, the abandonment of ecological policies just as climate change accelerates, and a new austerity b",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/e77b1a6aa9e77237bd0e99ea.json"
-    },
-    {
-      "id": "65ca354813a66cc2371964f9",
-      "title": "What Comes After Hyperpolitics?",
-      "url": "https://jacobin.com/2026/10/hyperpolitics-left-right-institutions-dsa",
-      "author": "Anton Jäger",
-      "source": "Jacobin",
-      "published_at": "2026-10-07T14:42:28+00:00",
-      "content_excerpt": "Before the end of this year, the United States will have broken two political records. According to the organizers’ own estimates, No Kings Day on March 28 was the largest single-day protest in recent American history. At the same time, no US president has so successfully enriched himself in office as Donald Trump has — 2026 is set to be the most lucrative year of his career so far. The concept of “hyperpolitics” is an attempt to explain these coincident phenomena. It describes a process of repoliticization without reinstitutionalization that has overtaken every layer of society in the wake of the 2008–9 crash. This surge in political activity has been organizationally uneven, difficult to relate to historical precedents, and, more worryingly, has no guaranteed effect on power relations be",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/65ca354813a66cc2371964f9.json"
-    },
-    {
-      "id": "1adb5899824ae90c42bac13c",
-      "title": "Andy Burnham’s Labour Allows the Left to Breathe, a Little",
-      "url": "https://jacobin.com/2026/10/burnham-uk-labour-conference-left-starmer",
-      "author": "Harry Williams",
-      "source": "Jacobin",
-      "published_at": "2026-10-07T13:41:27+00:00",
-      "content_excerpt": "“For too long, politics has not been working for people across Britain. We need to do better, and we will.” Such was Andy Burnham’s welcome to this year’s Labour Party conference. Gemma Bolton, a left-wing member of the party’s National Executive Committee, more simply summed up the change after years of purges, suspensions and rigged candidate selections: “Isn’t it nice you can breathe again?” This is roughly Burnham’s fortieth Labour conference, but his first as prime minister. His acclamation as party leader in July and this conference have been a break with the recent past under both Jeremy Corbyn and Keir Starmer, but in many ways represent a return to a much more traditional form of Labour politics. It’s a line often called the “soft left” or a “Blue Labour” appeal to the traditional",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/1adb5899824ae90c42bac13c.json"
-    },
-    {
-      "id": "848759f6590bc65229e4224b",
-      "title": "MADRID SOLIDARITY",
-      "url": "https://housing.dsausa.org/madrid-solidarity",
-      "author": "Housing Justice Commission",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-10-06T21:42:15+00:00",
-      "content_excerpt": "Madrid Tenants Union expresses solidarity with US tenants! Solidarity from the Madrid Tenants Union to tenants, tenant unions, and organizers in the US! The struggle against private property and capitalism is truly universal, and we in DSA can make a massive contribution by organizing our buildings, forming new tenant unions, and joining the ones that already exist in our areas. WATCH THE VIDEO CLIP HERE",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/848759f6590bc65229e4224b.json"
-    },
-    {
-      "id": "eeb1699bbb6e644d501fcee0",
-      "title": "HJC Solidarity",
-      "url": "https://housing.dsausa.org/hjc-solidarity",
-      "author": "Housing Justice Commission",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-10-06T21:42:15+00:00",
-      "content_excerpt": "DSA HJC to Madrid Tenants Union: “Solidaridad!” The Housing Justice Commission of the Democratic Socialists of America send our profound solidarity to the Madrid Tenants Union and all tenants across Spain. The struggle against private property and capitalism is international and we are deeply inspired by the courageous, militant actions you are undertaking. Tenants of the world, unite! SEE THE VIDEO CLIP HERE La Comisión para Vivienda con Justicia de los Socialistas Democráticos de América expresa su profunda solidaridad con el Sindicato de Inquilinas de Madrid y con todos los inquilinos de España. La lucha contra la propiedad privada y el capitalismo es internacional, y nos sentimos profundamente inspirados por las acciones valientes y combativas que están llevando a cabo. ¡Inquilinos del",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/eeb1699bbb6e644d501fcee0.json"
-    },
-    {
-      "id": "7355a63b4746562f9eddc34a",
-      "title": "Weekly Roundup: October 6, 2026",
-      "url": "https://dsasf.org/weekly-roundup-october-6-2026",
-      "author": "San Francisco DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-10-06T21:42:15+00:00",
-      "content_excerpt": "Events & Actions Tuesday, October 6 (6:30 PM – 8:00 PM) Ecosocialist Bi-weekly Meeting (zoom) Tuesday, October 6 (6:30 PM – 7:30 PM) HWG Attends: Care vs. Criminalization: Rethinking Our Street Response to Homelessness (zoom and in person at 3036 24th St) Tuesday, October 6 (7:00 PM – 8:00 PM) Ballot Measure Turnout Tuesday (zoom and in person 1916 McAllister St) Wednesday, October 7 (6:00 PM – 7:30 PM) What is DSA? @ Sour Cherry Comics! (in person at 3187 16th St) Thursday, October 8 (6:00 PM – 7:00 PM) Palestine Solidarity Free Meeting (zoom and in person at 1916 McAllister St) Thursday, October 8 (7:00 PM – 9:00 PM) Organizing Mindset Training Series (zoom and in person at 1916 McAllister St) Friday, October 9 (5:30 PM – 7:30 PM) Tenants Know Your Rights + Yes on I Canvass (in person at",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/7355a63b4746562f9eddc34a.json"
-    },
-    {
-      "id": "8c97d3ff0786233e6d1a24e0",
-      "title": "Chapter Notes: October 2026",
-      "url": "https://dsa-pinellas.medium.com/chapter-notes-october-2026-c1f9734cec67?source=rss-fc02be9a55f0------2",
-      "author": "Pinellas DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-10-06T21:42:15+00:00",
-      "content_excerpt": "We recruited the 400th member of Pinellas DSA this month — and we’re still growing! BOO, comrade! An extra-spooky Halloween edition of the Pinellas DSA newsletter is here! We hit another exciting milestone in September — our chapter is now officially more than 400 members strong! That’s 400 friends and neighbors who’ve made the choice to stand up and say “I believe that a better world is possible.” And, as long as we keep doing the day-to-day work of building our organization and growing the international movement for socialism, we will transform possible into inevitable . Read on to learn more about what our chapter was up to over the last month, and what we have coming up next! September Highlights PDSA comrades at the September Interest Meeting & New Member Orientation. September was a ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/8c97d3ff0786233e6d1a24e0.json"
-    },
-    {
-      "id": "21b89f4342bd41702e60e469",
-      "title": "Interest Rate Increases Are About Disciplining Labor",
-      "url": "https://jacobin.com/2026/10/fed-interest-rates-inflation-labor",
-      "author": "Arthur MacEwan",
-      "source": "Jacobin",
-      "published_at": "2026-10-06T18:30:33+00:00",
-      "content_excerpt": "Using its favored policy in the face of inflation, the Federal Reserve Board, under its new chairman, Kevin Warsh, pushed up short-term interest rates in September. This action may have some impact on the rate of inflation, but probably not much. Raising interest rates may curtail inflation under some circumstances, but the major factors bringing about the current, continuing inflation are unlikely to be much affected by the Fed’s recent interest rate increases. But those other factors are out of bounds: the Fed can’t alter them, and the current administration in Washington won’t. What Washington Has Done to Curtail Inflation With the emergence of economic instability in the early 1970s, President Richard Nixon imposed wage-price controls that limited how much wages and prices could rise. ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/21b89f4342bd41702e60e469.json"
-    },
-    {
-      "id": "8581a411c6c4744bc9df7ae4",
-      "title": "Why Organize Semiconductor Workers? w/ CHIPS Communities United",
-      "url": "https://convergencemag.com/podcast/why-organize-semiconductor-workers-w-chips-communities-united",
+      "id": "be0609c2a79f1fa454f678ed",
+      "title": "Locals 228 and 728 Defy Odds to Win Substantial Wage Increases",
+      "url": "https://www.ueunion.org/ue-news/2026/locals-228-and-728-defy-odds-to-win-substantial-wage-increases",
       "author": "",
-      "source": "Tag: Labor",
-      "published_at": "2026-10-06T17:51:48+00:00",
-      "content_excerpt": "Block & Build is a weekly newsmagazine podcast from Convergence Magazine that examines the balance of political forces in the US from a movement perspective. Every week, host Cayden Mak explores what's… This is the last article. Subscribe to our email newsletter to get more. Semiconductors are at the heart of every piece of electronics you interact with on a daily basis. Despite being invented and innovated in the US, much of the manufacturing of semiconductors and the technology they power was “offshored” from the 1980s through the early 2000s as part of the globalization of our economy. In an effort to counter that loss of jobs and industry, the Biden administration passed the 2022 CHIPS and Science Act, which reinvests over $50 billion domestically in the manufacturing and research of s",
+      "source": "UE NEWS Updates | UE",
+      "published_at": "2026-10-08T21:36:36+00:00",
+      "content_excerpt": "On September 28 and 29 respectively, UE Locals 728 and 228 ratified new one-year agreements. The locals collectively represent over 800 workers who process visa petitions and provide petitioner support at the U.S. Department of State’s (DOS) Kentucky Consular Center (KCC) in Williamsburg, KY (Local 728), and National Visa Center (NVC) in Portsmouth, NH (Local 228). They are sister locations whose members are both employed by federal contractor LDRM under DOS’s Visa Support Services contract. The Trump Administration’s drastically increased visa application fees, regional travel bans, and newly-imposed visa bonds have driven workloads at both facilities to historic lows. Taking that into consideration, along with an impending surge in the cost of health insurance premiums, the bargaining co",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/8581a411c6c4744bc9df7ae4.json"
+      "article_path": "articles/be0609c2a79f1fa454f678ed.json"
+    },
+    {
+      "id": "394da5e68fdd9cbd8324c180",
+      "title": "Local 115 Wins Wage Increases, Firm Limits on Mandatory Overtime in Second UE Pact",
+      "url": "https://www.ueunion.org/ue-news/2026/local-115-wins-wage-increases-firm-limits-on-mandatory-overtime-in-second-ue-pact",
+      "author": "",
+      "source": "UE NEWS Updates | UE",
+      "published_at": "2026-10-08T21:36:36+00:00",
+      "content_excerpt": "The members of UE Local 115 ratified a new three-year agreement on August 27 after four months of negotiations. Refresco employees bottle beverage products like Gatorade, Bodyarmor, Tropicana, and generic sodas for various supermarket chains. The contract, Local 115’s second with Refresco, includes an average 14 percent wage increase across the life of the agreement, establishes firm limits on mandatory overtime, and lowers penalties for attendance infractions. Members making less than $24.00 an hour are set to receive general wage increases of 5.5, 4.25, and 4 percent in each year respectively, with all other workers receiving 4, 3.25, and 3 percent increases. The local also won longevity pay increases, an increase to the third shift differentials, and adjustments to lead pay. Some worker",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/394da5e68fdd9cbd8324c180.json"
+    },
+    {
+      "id": "cf0ce05b3cd2d9e5c5e4df8c",
+      "title": "UE Members Win Collective Bargaining Ordinance Despite Virginia Governor’s Veto",
+      "url": "https://www.ueunion.org/ue-news/2026/ue-members-win-collective-bargaining-ordinance-despite-virginia-governors-veto",
+      "author": "",
+      "source": "UE NEWS Updates | UE",
+      "published_at": "2026-10-08T21:36:36+00:00",
+      "content_excerpt": "On September 22, the Portsmouth City Council passed a collective bargaining ordinance allowing city workers “the right to organize, form, join, assist, and pay dues or contributions to employee organizations, to bargain collectively through an exclusive bargaining representative of their own choosing, and to engage in other concerted activities for the purpose of collective bargaining or other mutual aid and protection.” The language in the ordinance covers all city employees and prohibits retaliation for organizing. “The City will refrain from any intimidation, coercion, or harassment of employees in the exercise of their rights under this division.” The ordinance also allows workers to use work property for union activities off duty or during breaks and allows for the use of city communi",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/cf0ce05b3cd2d9e5c5e4df8c.json"
+    },
+    {
+      "id": "69ebba2edd66538ee616390a",
+      "title": "Local 221 Ratifies Contract Amidst Federal Cuts",
+      "url": "https://www.ueunion.org/ue-news/2026/local-221-ratifies-contract-amidst-federal-cuts",
+      "author": "",
+      "source": "UE NEWS Updates | UE",
+      "published_at": "2026-10-08T21:36:36+00:00",
+      "content_excerpt": "At the end of September, UE Local 221 members who work for the Head Start program at Northeast Kingdom Community Action (NEKCA) ratified a two-year contract that includes wage increases and improvements to language. The benefits in the contract were won despite $1.2 million of federal funding cut to the Head Start program. The members won a $250 one-time stipend for full-time employees and a $100 stipend for part-time employees. The contract includes a 1.5 percent wage increase and the option for members to negotiate future cost-of-living adjustments during the life of the contract. The members also won layoff protections — extending the layoff recall list from 12 to 18 months for employees with one to three years of service. The bargaining team consisted of Kelli Arkley , Deborah Broussea",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/69ebba2edd66538ee616390a.json"
+    },
+    {
+      "id": "4c74d073c57d4e98aae27742",
+      "title": "Local 119 Signs One-Year Contract",
+      "url": "https://www.ueunion.org/ue-news/2026/local-119-signs-one-year-contract",
+      "author": "",
+      "source": "UE NEWS Updates | UE",
+      "published_at": "2026-10-08T21:36:36+00:00",
+      "content_excerpt": "UE Local 119, which represents approximately 200 one-on-one aides, teacher assistants, bus aides, and before and after school program attendants in the Winslow Township schools, concluded negotiations with their employer, the contractor ESS, at the end of September. The one-year contract will provide most workers with a 2.25 percent wage increase, with some senior workers receiving a three percent increase. Workers also gained a second day of bereavement leave. During contract negotiations, Local 119 members signed a petition to management demanding “to be treated with respect, earn a living wage, have decent benefits, and receive responses to our concerns.” Several members wrote individual emails to ESS management, and workers wore union buttons at a training. The Local 119 negotiating co",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/4c74d073c57d4e98aae27742.json"
+    },
+    {
+      "id": "b0dc535df4858911e92852dc",
+      "title": "Cuba Needs Medicine",
+      "url": "https://www.laprogressive.com/foreign-policy/cuba-needs-medicine",
+      "author": "Mark Friedman",
+      "source": "LA Progressive",
+      "published_at": "2026-10-08T20:39:07+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Support for Cuba in its fight against the criminal economic, commercial, financial and energy blockade imposed by the United States was the focus of one of the workshops held at the annual \"Left Coast Forum\" at California State University in Los Angeles, from October 2 to 4. In that solidarity space, they discussed how to materialize more donations to Cuba as a way to challenge the unilateral coercive measures of the White House, based on a campaign promoted by the organization Global Health Partners and the \"Hands-Off Cuba\" Committee. Related: Using Olympics as Weapon Against Cuban People He was updated on the recent measures imposed by the Donald Trump administration with",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/b0dc535df4858911e92852dc.json"
+    },
+    {
+      "id": "a5f2f9684ea2c4443b27ee76",
+      "title": "More Legal Cannabis",
+      "url": "https://www.laprogressive.com/law-and-justice/more-legal-cannabis",
+      "author": "Paul Armentano",
+      "source": "LA Progressive",
+      "published_at": "2026-10-08T19:34:30+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Most Americans now live in a jurisdiction where cannabis is legal — and use by teens has never been lower. Yes, you read that right. According to the latest findings from the U.S. Centers for Disease Control and Prevention, fewer young people nationwide are using marijuana today than at any time in the last 30 years. In the 24 states where adult-use cannabis markets are legally regulated, teen use has plummeted . For example, cannabis use by high schoolers fell over 60 percent in Colorado following legalization. In Washington, use by 12th graders has declined over 65 percent . (Colorado and Washington were the first two states in the nation to enact adult-use legalization l",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/a5f2f9684ea2c4443b27ee76.json"
+    },
+    {
+      "id": "5b7c2c7f6841568418d6bbe0",
+      "title": "AI Ripoff Economy",
+      "url": "https://www.laprogressive.com/economic-equality/ai-ripoff-economy",
+      "author": "Lindsay Owens",
+      "source": "LA Progressive",
+      "published_at": "2026-10-08T18:33:18+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Every day, companies find better, and sneakier, ways to reach deeper into our wallets. They trap us in subscriptions, bury fees until checkout, use algorithms to collude with competitors, and mine our personal data to charge us the most we’re willing to pay. With each trick and tactic, companies are reinventing the ripoff right under our noses. And, as families strain under the rising cost of living, these practices are coming for every line of the household budget. Algorithmic price fixing is one of the most powerful tools in that arsenal. Price-fixing no longer requires a smoky back room. Today, technology can do CEOs’ dirty work for them. From rent to gasoline, this algo",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/5b7c2c7f6841568418d6bbe0.json"
+    },
+    {
+      "id": "882ed6f96c7ed03b67246816",
+      "title": "Where Are the Democratic Socialists of America Going?",
+      "url": "https://jacobin.com/2026/10/dsa-socialism-organization-workers-elections",
+      "author": "Paul Heideman",
+      "source": "Jacobin",
+      "published_at": "2026-10-08T18:02:38+00:00",
+      "content_excerpt": "The history of the American left is marked by imposing peaks and valleys. Over the last century and a half, organizations have sprung up and, often within a decade of their founding, become major institutions of US politics. They have typically declined nearly as quickly, with few sustaining their positions in American society longer than a decade or so. The Populist Party emerged in the early 1890s, won nearly 10 percent of the vote in the 1892 presidential election, and had largely disappeared by 1900. The Communist Party, founded in 1919, reached about seventy-five thousand members in the mid-1940s, only to collapse, through repression and its own mistakes, to under ten thousand by the end of the 1950s. The trajectories of the Knights of Labor, the Socialist Party, and Students for a De",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/882ed6f96c7ed03b67246816.json"
+    },
+    {
+      "id": "91e8410d01caeed8e805619e",
+      "title": "Under Trump Pressure, Bolivia Arrests Its Own Attorney General",
+      "url": "https://jacobin.com/2026/10/bolivia-ag-arrest-trump-cerimedo",
+      "author": "Joseph Bouchard",
+      "source": "Jacobin",
+      "published_at": "2026-10-08T18:02:38+00:00",
+      "content_excerpt": "Early last week, the Trump administration’s State Department announced visa restrictions on a group of Latin American officials it accused of corruption and of “undermining democratically-selected governments.” Of the twenty-one people it targeted in Bolivia, Washington chose to name only one: Bolivia’s sitting attorney general, Roger Mariaca. A little over twenty-four hours later, on September 30, Bolivian police detained Mariaca at Viru Viru International Airport in Santa Cruz while agents raided prosecutors’ offices in Sucre and Santa Cruz. He was taken without a warrant before the legislature had taken any steps to remove him from office, as required by the constitution and, as the government itself later acknowledged , with intelligence supplied by the US Drug Enforcement Administrati",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/91e8410d01caeed8e805619e.json"
+    },
+    {
+      "id": "04d0e122f0dedebb01ee60c6",
+      "title": "Coal Revival",
+      "url": "https://www.laprogressive.com/the-environment/coal-revival",
+      "author": "Marcus Baram",
+      "source": "LA Progressive",
+      "published_at": "2026-10-08T17:32:07+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Craig Unit 1, a coal-fired power plant distinguished by tall exhaust smokestacks that rise above a rolling landscape in northwestern Colorado, was scheduled to close for good at the end of 2025 amid pressure from environmental advocates, public interest groups and state officials. But on Dec. 30, Energy Secretary Chris Wright ordered it to keep burning coal. The unit had suffered a mechanical failure 11 days earlier and was not even running. Wright has since renewed the order three times — most recently on Sept. 25, extending the plant’s life through Christmas Day, a full year past its retirement date. Its operator, Tri-State Generation and Transmission, is a nonprofit rura",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/04d0e122f0dedebb01ee60c6.json"
+    },
+    {
+      "id": "3603e659c0c1d95392cee728",
+      "title": "China Is Winning",
+      "url": "https://www.laprogressive.com/foreign-policy/china-is-winning",
+      "author": "Tom Engelhardt",
+      "source": "LA Progressive",
+      "published_at": "2026-10-08T16:30:09+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. I wonder if our ever stranger, more Trumpian country would look any better were I to trade in the kind of glasses I’ve worn since I was a nearsighted kid in fourth grade for what have become known as Meta’s “ Pervert glasses ,” complete with camera and audio. In some way, though, this old guy may just want to turn in any kind of glasses whatsoever. Not only do I feel a lack of desire to record our new (but also unbearably old) world, moment by moment, day by day, week by week, but this is increasingly a world I might prefer not even to see. After all, it does seem as if, in some strange but essential way, we humans—if, of course, Donald Trump even is a human being and not a",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/3603e659c0c1d95392cee728.json"
+    },
+    {
+      "id": "d948e3fdb70164afa23e87f4",
+      "title": "Marx Believed Meaningful Work Was Central to the Good Life",
+      "url": "https://jacobin.com/2026/10/kandiyali-marx-work-flourishing-ai",
+      "author": "Jan Kandiyali",
+      "source": "Jacobin",
+      "published_at": "2026-10-08T16:07:55+00:00",
+      "content_excerpt": "Not too long ago, a wave of books written by left-wing and liberal commentators appeared celebrating a future in which work would be a thing of the past. The increased productivity of technology would free humans from drudgery and allow them to focus on cultural pursuits and spend more time making friends or finding love, these polemics alleged. Amid the near-daily stream of stories warning about the disastrous social effects that artificial intelligence may have, not just on the labor market but on people’s literacy and numeracy, this earlier mood seems at best misguided. In his recently published book , Flourishing Together: Karl Marx’s Vision of the Good Society , Jan Kandiyali, a professor of philosophy at Durham University in England, argues that his subject’s views about work and the",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/d948e3fdb70164afa23e87f4.json"
+    },
+    {
+      "id": "c1a9b692b4717127da0b0657",
+      "title": "High John, Ole Massa and De Indigo Deer",
+      "url": "https://scalawagmagazine.org/2026/10/high-john-ole-massa-and-de-indigo-deer",
+      "author": "Becca Rayehanatou Haynesworth",
+      "source": "Scalawag",
+      "published_at": "2026-10-08T15:58:56+00:00",
+      "content_excerpt": "On one of them back break’n plantations down in the lowcountry is where John lived. Where field hands, from sun up to sun down, picked sea island cotton and rice sheafs till their hands bled numb. Read more via Scalawag : High John, Ole Massa and De Indigo Deer .",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/c1a9b692b4717127da0b0657.json"
+    },
+    {
+      "id": "3adb1a1a1512159223348806",
+      "title": "The Memphis data center moratorium is about putting people first, not corporations",
+      "url": "https://scalawagmagazine.org/2026/10/the-memphis-data-center-moratorium-is-about-putting-people-first-not-corporations",
+      "author": "Rep. Justin J. Pearson",
+      "source": "Scalawag",
+      "published_at": "2026-10-08T15:58:56+00:00",
+      "content_excerpt": "Across the country and across party lines, 65% of Americans are opposed to the construction of new large-scale data centers in their communities. Read more via Scalawag : The Memphis data center moratorium is about putting people first, not corporations .",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/3adb1a1a1512159223348806.json"
+    },
+    {
+      "id": "7d3625c3983c8302ebe4e632",
+      "title": "Palestine Will Be Free: On the 3rd Anniversary of the Genocide in Gaza",
+      "url": "https://ctdsa.org/palestine-will-be-free-on-the-3rd-anniversary-of-the-genocide-in-gaza",
+      "author": "Connecticut DSA",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-10-08T15:52:17+00:00",
+      "content_excerpt": "Three years ago on October 7th 2023, Palestinians in Gaza tore down the fences that surrounded them for the first […]",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/7d3625c3983c8302ebe4e632.json"
     }
   ]
 }
