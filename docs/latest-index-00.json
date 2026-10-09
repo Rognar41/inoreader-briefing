@@ -1,311 +1,296 @@
 {
-  "generated_at": "2026-10-08T23:51:16.845365+00:00",
-  "generated_at_jst": "2026-10-09T08:51:16.845365+09:00",
-  "period_start": "2026-10-07T17:51:16.845365+00:00",
+  "generated_at": "2026-10-09T23:24:38.998994+00:00",
+  "generated_at_jst": "2026-10-10T08:24:38.998994+09:00",
+  "period_start": "2026-10-08T17:24:38.998994+00:00",
   "lookback_hours": 30,
   "folder": "00_毎日確認",
-  "article_count": 20,
+  "article_count": 19,
   "excerpt_chars": 800,
   "articles": [
     {
-      "id": "c3a0fed8fef6b166d21f3af1",
-      "title": "Black Agenda Report October 9, 2026",
-      "url": "https://www.blackagendareport.com/black-agenda-report-october-9-2026",
-      "author": "bareditors",
-      "source": "Black Agenda Report",
-      "published_at": "2026-10-08T23:49:15+00:00",
-      "content_excerpt": "Black Agenda Report October 9, 2026 Authors Black Agenda Radio with Margaret Kimberley bareditors Fri, 10/09/2026 - 05:08 Black Agenda Radio · Black Agenda Report October 9, 2026 In this week’s segment, we discuss student protests by Black and brown youth in France against austerity measures and race-based inequality in the education system. But we begin with a discussion of the Brazilian presidential election, where incumbent president Lula da Silva came in second to conservative Flavio Bolsonaro in the first round. An October 25th runoff between the two men will decide the outcome. International France Brazil Lula da Silva Jair Bolsonaro student protests Racism Elections Austerity",
+      "id": "73f66bbc7c78a5ce01e7279a",
+      "title": "Far Right Gains Power",
+      "url": "https://www.laprogressive.com/foreign-policy/far-right-gains-power",
+      "author": "Vijay Prashad",
+      "source": "LA Progressive",
+      "published_at": "2026-10-09T22:43:04+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Brazil’s general election on 4 October delivered a severe warning to the Left. Flávio Bolsonaro, the presidential candidate of the Liberal Party (PL), finished ahead of President Luiz Inácio Lula da Silva, with approximately 47 per cent against 45 per cent. Neither secured a majority, sending them into a runoff on 25 October. More troubling than this narrow presidential gap was the advance of bolsonarismo through Congress. The election has strengthened a political movement whose ambitions extend beyond defeating Lula to reshaping the institutions that obstruct its exercise of power. The imprisonment (house arrest) and electoral exclusion of Jair Bolsonaro have not dissolved",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/c3a0fed8fef6b166d21f3af1.json"
+      "article_path": "articles/73f66bbc7c78a5ce01e7279a.json"
     },
     {
-      "id": "2fb3d2b70a11e281d6b4cc02",
-      "title": "Lula vs. Bolsonaro in Brazil's Presidential Election",
-      "url": "https://www.blackagendareport.com/lula-vs-bolsonaro-brazils-presidential-election",
-      "author": "bareditors",
-      "source": "Black Agenda Report",
-      "published_at": "2026-10-08T23:49:15+00:00",
-      "content_excerpt": "Lula vs. Bolsonaro in Brazil's Presidential Election Authors Black Agenda Radio with Margaret Kimberley bareditors Fri, 10/09/2026 - 05:05 Brazil's incumbent president Lula da Silva finished second behind Flavio Bolsonaro in the first round of the presidential election. Because neither man received at least 51% of the vote, a run-off election on October 25 will decide the presidency. Robert Wilson joins us from Rio de Janeiro to provide analysis on Brazilian politics, racism in that country, and why the son of an imprisoned former president may yet serve in that same office. International Brazil Elections Lula da Silva Jair Bolsonaro Racism",
+      "id": "2f92c4be17881c7fbad22d0c",
+      "title": "UE Hosts Belgian Trade Union Delegation in Pittsburgh",
+      "url": "https://www.ueunion.org/ue-news/2026/ue-hosts-belgian-trade-union-delegation-in-pittsburgh",
+      "author": "",
+      "source": "UE NEWS Updates | UE",
+      "published_at": "2026-10-09T21:20:38+00:00",
+      "content_excerpt": "On October 3, UE hosted a delegation from the Belgian trade union FGTB. UE Secretary-Treasurer Andrew Dinkelaker and members of UE Local 667 joined the Belgian trade unionists at an Oktoberfest event in Pittsburgh, which raised money for Palestinians. The Belgian union delegation, members of the Belgian FGTB, was on a three-city tour (Minneapolis, Pittsburgh, and Chicago) to meet union leaders and other activists to discuss how they are fighting the far-right and fascism. During the Belgians’ visit, Dinkelaker gave a brief overview of UE’s history and rank-and-file structure. The Local 667 members spoke about their local’s ongoing campaign to boycott Israeli products at the East End Food Coop, where they work. The FGTB is a strong supporter of the Palestinian cause. The delegation was also",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/2fb3d2b70a11e281d6b4cc02.json"
+      "article_path": "articles/2f92c4be17881c7fbad22d0c.json"
     },
     {
-      "id": "018583bbfd89e7ff0299dac6",
-      "title": "French Youth Rise Up Against Racism, Austerity, and the Rising Right Wing",
-      "url": "https://www.blackagendareport.com/french-youth-rise-against-racism-austerity-and-rising-right-wing",
-      "author": "bareditors",
-      "source": "Black Agenda Report",
-      "published_at": "2026-10-08T23:49:15+00:00",
-      "content_excerpt": "French Youth Rise Up Against Racism, Austerity, and the Rising Right Wing Authors Black Agenda Radio with Margaret Kimberley bareditors Fri, 10/09/2026 - 04:55 Students in France are engaging in mass protests. Hundreds of them have been arrested and injured by police, and many schools are closed. Annick Metefia joins us from Paris. She is a member of the Afrofeminist Mwasi Collectif and provides insights on politics and the struggles of African-descended and other immigrant communities under an austerity regime and the rise of the racist right wing. International France protests student protests Right wing immigrants Austerity",
+      "id": "1c2687da18ea887edce42aef",
+      "title": "Western Region: Take Action to Defend Elections",
+      "url": "https://www.ueunion.org/ue-news/2026/western-region-take-action-to-defend-elections",
+      "author": "",
+      "source": "UE NEWS Updates | UE",
+      "published_at": "2026-10-09T21:20:38+00:00",
+      "content_excerpt": "“Our union is a powerful tool that we must utilize to attain a society and a world that is truly equitable and just for all,” declared Local 1186 Vice President Michele McCoy during the Western Region council meeting’s political action report. McCoy and Local 1107 President Kellye Allen were reporting on resolutions that their locals, both located in Wisconsin, had passed about defending labor and democratic rights in the upcoming midterm elections. McCoy also shared how members of her local have been collecting pledge cards in the local and in the community asking working people to pledge to vote for pro-worker candidates and to take action if the Trump Administration moves to interfere in the elections. Zachary Strasberg and Tristan Larkin , Local 1466 and Caedmon Ragland, Local 1498 gav",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/018583bbfd89e7ff0299dac6.json"
+      "article_path": "articles/1c2687da18ea887edce42aef.json"
     },
     {
-      "id": "766465beb36967e585d5f715",
-      "title": "Trump’s Politicized Deportations Are Becoming the Global Norm",
-      "url": "https://jacobin.com/2026/10/ragozin-latvia-deportation-putin-trump",
-      "author": "Branko Marcetic",
+      "id": "18033588b47537794bf55f3e",
+      "title": "Descent Into Fascism",
+      "url": "https://www.laprogressive.com/democracy/descent-into-fascism",
+      "author": "Sharon Kyle, Dick Price, Henry A. Giroux",
+      "source": "LA Progressive",
+      "published_at": "2026-10-09T21:17:16+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. What happens when cruelty becomes a governing philosophy? When political leaders celebrate violence, billionaires wield extraordinary influence over government, and institutions supposedly designed to defend democracy become instruments of repression? These questions were at the center of our recent conversation with political theorist Henry Giroux, whose latest LA Progressive essay, \"The Politics of the Abyss: MAGA, Moral Rot, and the Struggle for the Future,\" examines what he considers the accelerating collapse of America's democratic and moral foundations. Giroux, who holds the McMaster University Chair for Scholarship in the Public Interest, offered an unsparing assessm",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/18033588b47537794bf55f3e.json"
+    },
+    {
+      "id": "36b8eac957a3471c86528e8c",
+      "title": "Online Pornography Created the Model for Platform Capitalism",
+      "url": "https://jacobin.com/2026/10/platform-capitalism-internet-porn-camming",
+      "author": "Patricia Nilsson",
       "source": "Jacobin",
-      "published_at": "2026-10-08T21:57:20+00:00",
-      "content_excerpt": "Given all the headlines about the US government trying to deport one or another migrant over their foreign policy views, you’d be forgiven for thinking this is a uniquely Trumpian innovation. Sadly, as the recent developments out of Latvia show, it’s far from it. Yesterday news broke that Leonid Ragozin, an exiled Russian journalist who has lived in the Baltic country for over a decade (and is also a Jacobin contributor who I interviewed for a forthcoming piece) has been declared persona non grata by the Latvian government, which intends to swiftly deport him. The Latvian foreign minister cited unspecified “information” received from “the competent authorities” to justify this extraordinary measure, but you barely have to even read between the lines to see that Ragozin’s offense was simply",
+      "published_at": "2026-10-09T19:05:44+00:00",
+      "content_excerpt": "Online pornography is often seen as a corner of the web that doesn’t bear much analysis. And yet it can hardly be ignored. Firstly, that’s because of the sheer size of the adult-content industry — a sector that in itself is worth around $97 billion annually worldwide and that, at peak times, commands 10 percent of all internet traffic. But more than that, a discussion of its inner workings sheds light on the mechanisms that govern the special kind of attention economy and platform capitalism that we are all wrapped up in. In Guilty Pleasure: The Pornification of the Internet, the Economy, and Everything Else , the journalist Patricia Nilsson discusses porn’s place at the heart of today’s digital ecosystem. As the Financial Times journalist explains, many of the technologies meant to hold a",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/766465beb36967e585d5f715.json"
+      "article_path": "articles/36b8eac957a3471c86528e8c.json"
     },
     {
-      "id": "be0609c2a79f1fa454f678ed",
-      "title": "Locals 228 and 728 Defy Odds to Win Substantial Wage Increases",
-      "url": "https://www.ueunion.org/ue-news/2026/locals-228-and-728-defy-odds-to-win-substantial-wage-increases",
-      "author": "",
-      "source": "UE NEWS Updates | UE",
-      "published_at": "2026-10-08T21:36:36+00:00",
-      "content_excerpt": "On September 28 and 29 respectively, UE Locals 728 and 228 ratified new one-year agreements. The locals collectively represent over 800 workers who process visa petitions and provide petitioner support at the U.S. Department of State’s (DOS) Kentucky Consular Center (KCC) in Williamsburg, KY (Local 728), and National Visa Center (NVC) in Portsmouth, NH (Local 228). They are sister locations whose members are both employed by federal contractor LDRM under DOS’s Visa Support Services contract. The Trump Administration’s drastically increased visa application fees, regional travel bans, and newly-imposed visa bonds have driven workloads at both facilities to historic lows. Taking that into consideration, along with an impending surge in the cost of health insurance premiums, the bargaining co",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/be0609c2a79f1fa454f678ed.json"
-    },
-    {
-      "id": "394da5e68fdd9cbd8324c180",
-      "title": "Local 115 Wins Wage Increases, Firm Limits on Mandatory Overtime in Second UE Pact",
-      "url": "https://www.ueunion.org/ue-news/2026/local-115-wins-wage-increases-firm-limits-on-mandatory-overtime-in-second-ue-pact",
-      "author": "",
-      "source": "UE NEWS Updates | UE",
-      "published_at": "2026-10-08T21:36:36+00:00",
-      "content_excerpt": "The members of UE Local 115 ratified a new three-year agreement on August 27 after four months of negotiations. Refresco employees bottle beverage products like Gatorade, Bodyarmor, Tropicana, and generic sodas for various supermarket chains. The contract, Local 115’s second with Refresco, includes an average 14 percent wage increase across the life of the agreement, establishes firm limits on mandatory overtime, and lowers penalties for attendance infractions. Members making less than $24.00 an hour are set to receive general wage increases of 5.5, 4.25, and 4 percent in each year respectively, with all other workers receiving 4, 3.25, and 3 percent increases. The local also won longevity pay increases, an increase to the third shift differentials, and adjustments to lead pay. Some worker",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/394da5e68fdd9cbd8324c180.json"
-    },
-    {
-      "id": "cf0ce05b3cd2d9e5c5e4df8c",
-      "title": "UE Members Win Collective Bargaining Ordinance Despite Virginia Governor’s Veto",
-      "url": "https://www.ueunion.org/ue-news/2026/ue-members-win-collective-bargaining-ordinance-despite-virginia-governors-veto",
-      "author": "",
-      "source": "UE NEWS Updates | UE",
-      "published_at": "2026-10-08T21:36:36+00:00",
-      "content_excerpt": "On September 22, the Portsmouth City Council passed a collective bargaining ordinance allowing city workers “the right to organize, form, join, assist, and pay dues or contributions to employee organizations, to bargain collectively through an exclusive bargaining representative of their own choosing, and to engage in other concerted activities for the purpose of collective bargaining or other mutual aid and protection.” The language in the ordinance covers all city employees and prohibits retaliation for organizing. “The City will refrain from any intimidation, coercion, or harassment of employees in the exercise of their rights under this division.” The ordinance also allows workers to use work property for union activities off duty or during breaks and allows for the use of city communi",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/cf0ce05b3cd2d9e5c5e4df8c.json"
-    },
-    {
-      "id": "69ebba2edd66538ee616390a",
-      "title": "Local 221 Ratifies Contract Amidst Federal Cuts",
-      "url": "https://www.ueunion.org/ue-news/2026/local-221-ratifies-contract-amidst-federal-cuts",
-      "author": "",
-      "source": "UE NEWS Updates | UE",
-      "published_at": "2026-10-08T21:36:36+00:00",
-      "content_excerpt": "At the end of September, UE Local 221 members who work for the Head Start program at Northeast Kingdom Community Action (NEKCA) ratified a two-year contract that includes wage increases and improvements to language. The benefits in the contract were won despite $1.2 million of federal funding cut to the Head Start program. The members won a $250 one-time stipend for full-time employees and a $100 stipend for part-time employees. The contract includes a 1.5 percent wage increase and the option for members to negotiate future cost-of-living adjustments during the life of the contract. The members also won layoff protections — extending the layoff recall list from 12 to 18 months for employees with one to three years of service. The bargaining team consisted of Kelli Arkley , Deborah Broussea",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/69ebba2edd66538ee616390a.json"
-    },
-    {
-      "id": "4c74d073c57d4e98aae27742",
-      "title": "Local 119 Signs One-Year Contract",
-      "url": "https://www.ueunion.org/ue-news/2026/local-119-signs-one-year-contract",
-      "author": "",
-      "source": "UE NEWS Updates | UE",
-      "published_at": "2026-10-08T21:36:36+00:00",
-      "content_excerpt": "UE Local 119, which represents approximately 200 one-on-one aides, teacher assistants, bus aides, and before and after school program attendants in the Winslow Township schools, concluded negotiations with their employer, the contractor ESS, at the end of September. The one-year contract will provide most workers with a 2.25 percent wage increase, with some senior workers receiving a three percent increase. Workers also gained a second day of bereavement leave. During contract negotiations, Local 119 members signed a petition to management demanding “to be treated with respect, earn a living wage, have decent benefits, and receive responses to our concerns.” Several members wrote individual emails to ESS management, and workers wore union buttons at a training. The Local 119 negotiating co",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/4c74d073c57d4e98aae27742.json"
-    },
-    {
-      "id": "b0dc535df4858911e92852dc",
-      "title": "Cuba Needs Medicine",
-      "url": "https://www.laprogressive.com/foreign-policy/cuba-needs-medicine",
-      "author": "Mark Friedman",
+      "id": "55be9c24bf0b871a04c198b8",
+      "title": "Comeuppance",
+      "url": "https://www.laprogressive.com/democracy/comeuppance",
+      "author": "Steve Hochstadt",
       "source": "LA Progressive",
-      "published_at": "2026-10-08T20:39:07+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Support for Cuba in its fight against the criminal economic, commercial, financial and energy blockade imposed by the United States was the focus of one of the workshops held at the annual \"Left Coast Forum\" at California State University in Los Angeles, from October 2 to 4. In that solidarity space, they discussed how to materialize more donations to Cuba as a way to challenge the unilateral coercive measures of the White House, based on a campaign promoted by the organization Global Health Partners and the \"Hands-Off Cuba\" Committee. Related: Using Olympics as Weapon Against Cuban People He was updated on the recent measures imposed by the Donald Trump administration with",
+      "published_at": "2026-10-09T18:37:53+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. In the early 1950s, Senator Joseph McCarthy seemed to wield unchecked power. McCarthy was antisemitic, persecuted people he alleged were homosexual, and defended Nazi soldiers who had massacred American prisoners at Malmedy. His political practice was defined by false accusations and Congressional investigation of his political enemies, mostly advocates of left-of-center ideas. In 1954, his authority was shattered by facts from the mouths of Army counsel Joseph N. Welch and Senator Stuart Symington. They followed the lead of Senator Margaret Chase Smith from Maine, who, after she arrived in 1950, immediately denounced McCarthy’s debasement of the Senate into “a forum of hat",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/b0dc535df4858911e92852dc.json"
+      "article_path": "articles/55be9c24bf0b871a04c198b8.json"
     },
     {
-      "id": "a5f2f9684ea2c4443b27ee76",
-      "title": "More Legal Cannabis",
-      "url": "https://www.laprogressive.com/law-and-justice/more-legal-cannabis",
-      "author": "Paul Armentano",
+      "id": "c326fbcf0fe07048526b8041",
+      "title": "Ethiopia vs. Eritrea",
+      "url": "https://www.laprogressive.com/foreign-policy/ethiopia-vs-eritrea",
+      "author": "Ann Garrison",
       "source": "LA Progressive",
-      "published_at": "2026-10-08T19:34:30+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Most Americans now live in a jurisdiction where cannabis is legal — and use by teens has never been lower. Yes, you read that right. According to the latest findings from the U.S. Centers for Disease Control and Prevention, fewer young people nationwide are using marijuana today than at any time in the last 30 years. In the 24 states where adult-use cannabis markets are legally regulated, teen use has plummeted . For example, cannabis use by high schoolers fell over 60 percent in Colorado following legalization. In Washington, use by 12th graders has declined over 65 percent . (Colorado and Washington were the first two states in the nation to enact adult-use legalization l",
+      "published_at": "2026-10-09T17:40:59+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Ethiopia and Eritrea simultaneously severed diplomatic ties on October 1st. It's a perilous situation. If one nation’s army crosses the other's border, it could draw in neighboring nations, creating a regional crisis from the Horn to the Gulf or, one might say, worsening the crisis that already exists with multiple civil and interstate wars. The entire world, knowledgeably or not, is invested in containing this conflict because of its potential to further destabilize the Red Sea, a major oil shipping channel, driving the price of gas even higher and triggering more inflation cascading upward. Before Ansar Allah attacked Red Sea shipping associated with Israel in 2023, an es",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/a5f2f9684ea2c4443b27ee76.json"
+      "article_path": "articles/c326fbcf0fe07048526b8041.json"
     },
     {
-      "id": "5b7c2c7f6841568418d6bbe0",
-      "title": "AI Ripoff Economy",
-      "url": "https://www.laprogressive.com/economic-equality/ai-ripoff-economy",
-      "author": "Lindsay Owens",
-      "source": "LA Progressive",
-      "published_at": "2026-10-08T18:33:18+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Every day, companies find better, and sneakier, ways to reach deeper into our wallets. They trap us in subscriptions, bury fees until checkout, use algorithms to collude with competitors, and mine our personal data to charge us the most we’re willing to pay. With each trick and tactic, companies are reinventing the ripoff right under our noses. And, as families strain under the rising cost of living, these practices are coming for every line of the household budget. Algorithmic price fixing is one of the most powerful tools in that arsenal. Price-fixing no longer requires a smoky back room. Today, technology can do CEOs’ dirty work for them. From rent to gasoline, this algo",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/5b7c2c7f6841568418d6bbe0.json"
-    },
-    {
-      "id": "882ed6f96c7ed03b67246816",
-      "title": "Where Are the Democratic Socialists of America Going?",
-      "url": "https://jacobin.com/2026/10/dsa-socialism-organization-workers-elections",
-      "author": "Paul Heideman",
+      "id": "bde862d7d6137b70d8e40458",
+      "title": "Shawn Fain’s Slate Has Swept the UAW Elections",
+      "url": "https://jacobin.com/2026/10/uaw-elections-fain-barofsky-labor",
+      "author": "Chris Brooks",
       "source": "Jacobin",
-      "published_at": "2026-10-08T18:02:38+00:00",
-      "content_excerpt": "The history of the American left is marked by imposing peaks and valleys. Over the last century and a half, organizations have sprung up and, often within a decade of their founding, become major institutions of US politics. They have typically declined nearly as quickly, with few sustaining their positions in American society longer than a decade or so. The Populist Party emerged in the early 1890s, won nearly 10 percent of the vote in the 1892 presidential election, and had largely disappeared by 1900. The Communist Party, founded in 1919, reached about seventy-five thousand members in the mid-1940s, only to collapse, through repression and its own mistakes, to under ten thousand by the end of the 1950s. The trajectories of the Knights of Labor, the Socialist Party, and Students for a De",
+      "published_at": "2026-10-09T17:05:47+00:00",
+      "content_excerpt": "Shawn Fain and the United UAW slate are headed toward a sweeping victory in the union’s internal elections for its International Executive Board. The results will not be finalized for some time, but the unofficial results are unequivocal: United Auto Workers members are overwhelmingly backing Fain and the militant direction he is taking the union. Voter turnout was low, about 10 percent of the total number of active and retired members, and appears to be on track for a lower total vote count than when the UAW held its first direct election of top union officers in 2022. Previously, officers were elected by delegates at the union’s annual convention, a system that helped entrench the ruling Administration Caucus in power for more than seven decades. Fain eked out an upset victory against in",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/882ed6f96c7ed03b67246816.json"
+      "article_path": "articles/bde862d7d6137b70d8e40458.json"
     },
     {
-      "id": "91e8410d01caeed8e805619e",
-      "title": "Under Trump Pressure, Bolivia Arrests Its Own Attorney General",
-      "url": "https://jacobin.com/2026/10/bolivia-ag-arrest-trump-cerimedo",
-      "author": "Joseph Bouchard",
+      "id": "68ac7cd9d0d014c87ea5b394",
+      "title": "Eric Hobsbawm, Historian of Defeat",
+      "url": "https://jacobin.com/2026/10/hobsbawm-chabal-biography-history-communism",
+      "author": "Iker Itoiz Ciaurriz",
       "source": "Jacobin",
-      "published_at": "2026-10-08T18:02:38+00:00",
-      "content_excerpt": "Early last week, the Trump administration’s State Department announced visa restrictions on a group of Latin American officials it accused of corruption and of “undermining democratically-selected governments.” Of the twenty-one people it targeted in Bolivia, Washington chose to name only one: Bolivia’s sitting attorney general, Roger Mariaca. A little over twenty-four hours later, on September 30, Bolivian police detained Mariaca at Viru Viru International Airport in Santa Cruz while agents raided prosecutors’ offices in Sucre and Santa Cruz. He was taken without a warrant before the legislature had taken any steps to remove him from office, as required by the constitution and, as the government itself later acknowledged , with intelligence supplied by the US Drug Enforcement Administrati",
+      "published_at": "2026-10-09T16:06:23+00:00",
+      "content_excerpt": "Five years after the fall of the Berlin Wall, the communist historian Eric Hobsbawm published his best-selling history of the twentieth century, The Age of Extremes . The book presented a man coming to terms with the fate of the political project to which he had committed his adult life while trying to understand the twentieth century as a historical epoch. Though famous for its pessimism, the book, like the work of many left-wing authors in the 1990s, was also an opportunity to rethink what the project of the Left might become after the collapse of communism. In its final pages, Hobsbawm reflected darkly on the future. The “titanic economic and techno-scientific” development of capitalism, he wrote, had unleashed forces capable of destroying “the material foundations of human life” while ",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/91e8410d01caeed8e805619e.json"
+      "article_path": "articles/68ac7cd9d0d014c87ea5b394.json"
     },
     {
-      "id": "04d0e122f0dedebb01ee60c6",
-      "title": "Coal Revival",
-      "url": "https://www.laprogressive.com/the-environment/coal-revival",
-      "author": "Marcus Baram",
+      "id": "ae111299cffedd0ea3f221f7",
+      "title": "No Economic Justice",
+      "url": "https://www.laprogressive.com/democracy/no-economic-justice",
+      "author": "Dick Price, Sharon Kyle, Nina Turner",
       "source": "LA Progressive",
-      "published_at": "2026-10-08T17:32:07+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Craig Unit 1, a coal-fired power plant distinguished by tall exhaust smokestacks that rise above a rolling landscape in northwestern Colorado, was scheduled to close for good at the end of 2025 amid pressure from environmental advocates, public interest groups and state officials. But on Dec. 30, Energy Secretary Chris Wright ordered it to keep burning coal. The unit had suffered a mechanical failure 11 days earlier and was not even running. Wright has since renewed the order three times — most recently on Sept. 25, extending the plant’s life through Christmas Day, a full year past its retirement date. Its operator, Tri-State Generation and Transmission, is a nonprofit rura",
+      "published_at": "2026-10-09T15:40:24+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. At the fourth annual Left Coast Forum, held October 2–4 at California State University, Los Angeles, former Ohio State Senator Nina Turner delivered an impassioned keynote that challenged progressive activists to rethink how they approach racial justice, economic inequality, and political power. Her central message was unmistakable: The progressive movement cannot achieve economic justice without confronting racial inequality, and it cannot transform American society without learning how to organize and exercise political power. Speaking to an audience of activists, organizers, and community leaders, Turner connected today's struggles to generations of Black freedom fighter",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/04d0e122f0dedebb01ee60c6.json"
+      "article_path": "articles/ae111299cffedd0ea3f221f7.json"
     },
     {
-      "id": "3603e659c0c1d95392cee728",
-      "title": "China Is Winning",
-      "url": "https://www.laprogressive.com/foreign-policy/china-is-winning",
-      "author": "Tom Engelhardt",
-      "source": "LA Progressive",
-      "published_at": "2026-10-08T16:30:09+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. I wonder if our ever stranger, more Trumpian country would look any better were I to trade in the kind of glasses I’ve worn since I was a nearsighted kid in fourth grade for what have become known as Meta’s “ Pervert glasses ,” complete with camera and audio. In some way, though, this old guy may just want to turn in any kind of glasses whatsoever. Not only do I feel a lack of desire to record our new (but also unbearably old) world, moment by moment, day by day, week by week, but this is increasingly a world I might prefer not even to see. After all, it does seem as if, in some strange but essential way, we humans—if, of course, Donald Trump even is a human being and not a",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/3603e659c0c1d95392cee728.json"
-    },
-    {
-      "id": "d948e3fdb70164afa23e87f4",
-      "title": "Marx Believed Meaningful Work Was Central to the Good Life",
-      "url": "https://jacobin.com/2026/10/kandiyali-marx-work-flourishing-ai",
-      "author": "Jan Kandiyali",
-      "source": "Jacobin",
-      "published_at": "2026-10-08T16:07:55+00:00",
-      "content_excerpt": "Not too long ago, a wave of books written by left-wing and liberal commentators appeared celebrating a future in which work would be a thing of the past. The increased productivity of technology would free humans from drudgery and allow them to focus on cultural pursuits and spend more time making friends or finding love, these polemics alleged. Amid the near-daily stream of stories warning about the disastrous social effects that artificial intelligence may have, not just on the labor market but on people’s literacy and numeracy, this earlier mood seems at best misguided. In his recently published book , Flourishing Together: Karl Marx’s Vision of the Good Society , Jan Kandiyali, a professor of philosophy at Durham University in England, argues that his subject’s views about work and the",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/d948e3fdb70164afa23e87f4.json"
-    },
-    {
-      "id": "c1a9b692b4717127da0b0657",
-      "title": "High John, Ole Massa and De Indigo Deer",
-      "url": "https://scalawagmagazine.org/2026/10/high-john-ole-massa-and-de-indigo-deer",
-      "author": "Becca Rayehanatou Haynesworth",
-      "source": "Scalawag",
-      "published_at": "2026-10-08T15:58:56+00:00",
-      "content_excerpt": "On one of them back break’n plantations down in the lowcountry is where John lived. Where field hands, from sun up to sun down, picked sea island cotton and rice sheafs till their hands bled numb. Read more via Scalawag : High John, Ole Massa and De Indigo Deer .",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/c1a9b692b4717127da0b0657.json"
-    },
-    {
-      "id": "3adb1a1a1512159223348806",
-      "title": "The Memphis data center moratorium is about putting people first, not corporations",
-      "url": "https://scalawagmagazine.org/2026/10/the-memphis-data-center-moratorium-is-about-putting-people-first-not-corporations",
-      "author": "Rep. Justin J. Pearson",
-      "source": "Scalawag",
-      "published_at": "2026-10-08T15:58:56+00:00",
-      "content_excerpt": "Across the country and across party lines, 65% of Americans are opposed to the construction of new large-scale data centers in their communities. Read more via Scalawag : The Memphis data center moratorium is about putting people first, not corporations .",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/3adb1a1a1512159223348806.json"
-    },
-    {
-      "id": "7d3625c3983c8302ebe4e632",
-      "title": "Palestine Will Be Free: On the 3rd Anniversary of the Genocide in Gaza",
-      "url": "https://ctdsa.org/palestine-will-be-free-on-the-3rd-anniversary-of-the-genocide-in-gaza",
-      "author": "Connecticut DSA",
+      "id": "e10d56b70ab65a6cbc4a6c93",
+      "title": "Trump Wants a ‘Generation of Capitalists,’ Gen Z Has Other Plans",
+      "url": "https://democraticleft.dsausa.org/2026/10/09/the-kids-are-all-right",
+      "author": "Democratic Left",
       "source": "DSA Feed - Global",
-      "published_at": "2026-10-08T15:52:17+00:00",
-      "content_excerpt": "Three years ago on October 7th 2023, Palestinians in Gaza tore down the fences that surrounded them for the first […]",
+      "published_at": "2026-10-09T15:24:50+00:00",
+      "content_excerpt": "Gen Z is warming to socialism though they’re not ready to be labeled. This and more in Red All Over, Democratic Left’s occasional round-up of media coverage. The post Trump Wants a ‘Generation of Capitalists,’ Gen Z Has Other Plans appeared first on Democratic Left .",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/7d3625c3983c8302ebe4e632.json"
+      "article_path": "articles/e10d56b70ab65a6cbc4a6c93.json"
+    },
+    {
+      "id": "4f82b93c727a5093d46c9ae9",
+      "title": "Abdul El-Sayed Isn’t Backing Down on Medicare for All",
+      "url": "https://jacobin.com/2026/10/health-care-el-sayed-m4a-public-option",
+      "author": "Matt Bruenig",
+      "source": "Jacobin",
+      "published_at": "2026-10-09T15:10:44+00:00",
+      "content_excerpt": "The discourse around Abdul El-Sayed’s position on Medicare for All is mostly confused. Reading most of the reporting on the matter would lead one to believe that El-Sayed initially supported Medicare for All but now merely supports a “public option.” This is not really true under conventional meanings of the phrase “public option.” El-Sayed seems to be inviting this understanding for rhetorical effect, but all he has really done is drop his opposition to a type of duplicative insurance that nobody would ever want to buy. Conventional Public Options In the health insurance context, the phrase “public option” has typically referred to two types of arrangements: The government creates a health insurance plan and attempts to sell it in the employer and individual markets. People become insured",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/4f82b93c727a5093d46c9ae9.json"
+    },
+    {
+      "id": "6c85616753df2ecc6fc241dd",
+      "title": "Anwar Shaikh’s Analysis of Capitalism Is Vital for the Left",
+      "url": "https://jacobin.com/2026/10/marx-shaikh-competition-inequality-labor",
+      "author": "Howard Botwinick",
+      "source": "Jacobin",
+      "published_at": "2026-10-09T14:08:37+00:00",
+      "content_excerpt": "Most economists assume that when workers with similar skills earn very different pay, something must be blocking normal competition. But for Howard Botwinick, capitalist competition itself creates those gaps. His book Persistent Inequalities: Wage Disparity under Capitalist Competition , first published in 1993 and reissued in 2017, shows how the everyday workings of capitalism split the working class into better- and worse-paid groups — no monopoly power required. Botwinick came to economics from organizing. Early on, he helped workers win a union at an electronics plant, only to watch the company shut the plant down rather than deal with them. Looking for a better way to understand what he was up against, he went to the New School for Social Research to study with the economist Anwar Sha",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/6c85616753df2ecc6fc241dd.json"
+    },
+    {
+      "id": "1e13eb3267b603f5d0f0f5a5",
+      "title": "Pedro Sánchez Makes His Last Gamble",
+      "url": "https://jacobin.com/2026/10/sanchez-spain-housing-protests-snap-election",
+      "author": "Eoghan Gilmartin",
+      "source": "Jacobin",
+      "published_at": "2026-10-09T13:12:28+00:00",
+      "content_excerpt": "Less than two weeks after a wave of housing protests broke out across Spain, on Monday center-left Prime Minister Pedro Sánchez called an early general election. Upending the country’s political agenda in just days, the protests created an opportunity for an embattled Sánchez to go to the polls on more favorable terms. He is now framing the election as a choice between his defense of the social majority and right-wing parties aligned with speculators and vulture funds. This was a remarkable turn of events, especially as Sánchez’s government had been in the firing line of housing protests just days before. The eviction of eighty-seven-year-old Maricarmen Abascal from her Madrid apartment on September 23 had ignited the largest protests Sánchez has faced from his left flank during over eight",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/1e13eb3267b603f5d0f0f5a5.json"
+    },
+    {
+      "id": "45131f4450fa321ed3daa3ea",
+      "title": "Unions Step Up to Meet the Moment",
+      "url": "https://convergencemag.com/articles/unions-step-up-to-meet-the-moment",
+      "author": "",
+      "source": "Stephanie Luce",
+      "published_at": "2026-10-09T04:14:20+00:00",
+      "content_excerpt": "Featured image by Jared Rodriguez. Since taking office, Trump and MAGA forces have made considerable advances in implementing Project 2025 and consolidating authoritarian power—but many of these moves have proved unpopular and undermined their support. With Trump’s approval ratings dropping and elements of his coalition defecting, conditions look promising for pushing back MAGA in the midterm elections. But there are at least two sources of concern. With their support declining, the MAGA forces are likely to step up their efforts to interfere with the elections—doing everything from stopping people from voting to refusing to seat elected officials to unleashing violence. And even if elections go smoothly, will the anti-MAGA forces be prepared to govern in a way that brings about real chang",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/45131f4450fa321ed3daa3ea.json"
+    },
+    {
+      "id": "6a83f0ba54b23926a228ca56",
+      "title": "What Happens to a Car",
+      "url": "https://www.laprogressive.com/sponsored/what-happens-to-a-car",
+      "author": "Britta Hedlund",
+      "source": "LA Progressive",
+      "published_at": "2026-10-09T03:09:07+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. They pick up the car after you book, and then it’s just gone for a few days until it turns up at the other end. Most people never think about what actually happens behind the scenes. They probably should because that’s usually where things go right or wrong, and it almost always comes down to steps the customer never sees. Someone Checks the Car Over Before It Even Leaves Before anything gets loaded, a decent operator walks around the car and writes down its condition. Not a glance from three feet away; they’ll conduct an actual inspection. They take photos of every scratch, chip, and dent it already had before it left your driveway. This gets skipped more often than it sho",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/6a83f0ba54b23926a228ca56.json"
+    },
+    {
+      "id": "4034faa8c4a298b0d108c82f",
+      "title": "Slip and Fall Claims",
+      "url": "https://www.laprogressive.com/sponsored/slip-and-fall-claims",
+      "author": "Britta Hedlund",
+      "source": "LA Progressive",
+      "published_at": "2026-10-09T03:09:07+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. After a fall, many people feel embarrassed and want to leave quickly. That reaction is understandable. But leaving without reporting what happened can make your claim harder to prove later. An incident report creates an early written record of the fall. It can show where the accident happened, when it happened, who was present, and what condition may have caused it. If the property owner later denies the incident or disputes the details, that report may become important. If you search “ slip and fall attorney near me ” and reach out to the right expert, they can review the report and compare it with photos, witness statements, medical records, and other evidence. What Is an",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/4034faa8c4a298b0d108c82f.json"
+    },
+    {
+      "id": "307e7cc6e4ee17902acabff9",
+      "title": "4 Supply Categories",
+      "url": "https://www.laprogressive.com/sponsored/4-supply-categories",
+      "author": "Sejal Desai",
+      "source": "LA Progressive",
+      "published_at": "2026-10-09T03:09:07+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Peak sales periods expose weaknesses in packaging and shipping setups. A slightly inadequate box or a mailing bag that tears occasionally is a minor annoyance at 20 orders a day. When they blew up to 200 orders a day during Black Friday or the Christmas rush, that same small problem multiplied into a genuine customer service and cost issue. Box and Mailer Sizing Across the Product Range Businesses start with a handful of box sizes that cover their initial product range and never revisit that setup as the range expands. Products that don’t fit well into existing box options end up shipped in oversized boxes with excess void fill. They may also be squeezed into boxes that are",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/307e7cc6e4ee17902acabff9.json"
+    },
+    {
+      "id": "39366bb7f873afb0919a7c7d",
+      "title": "Improve Your Daily Driving",
+      "url": "https://www.laprogressive.com/sponsored/improve-your-daily-driving",
+      "author": "Tiqua Jackson",
+      "source": "LA Progressive",
+      "published_at": "2026-10-09T03:09:07+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Browse any car accessories store and half the products claim to be life-changing. Most of it is genuinely just noise, gimmicky gadgets that sound impressive in a product listing and end up sitting unused in a glovebox within a fortnight. There’s a handful of auto accessories online that actually earn their place, and they’re usually the boring, practical ones nobody’s excited to talk about. A Proper Phone Mount This sounds basic. However, it can’t be just any kind of phone mount. You’ll need something that’s top-notch quality, but not necessarily expensive. What we mean by that is one with a suction mount that won’t lose grip on a hot day and won’t fall off in every bump. I",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/39366bb7f873afb0919a7c7d.json"
     }
   ]
 }

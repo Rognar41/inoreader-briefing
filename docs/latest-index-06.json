@@ -1,12 +1,237 @@
 {
-  "generated_at": "2026-10-08T23:51:16.845365+00:00",
-  "generated_at_jst": "2026-10-09T08:51:16.845365+09:00",
-  "period_start": "2026-10-07T17:51:16.845365+00:00",
+  "generated_at": "2026-10-09T23:24:38.998994+00:00",
+  "generated_at_jst": "2026-10-10T08:24:38.998994+09:00",
+  "period_start": "2026-10-08T17:24:38.998994+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
   "article_count": 20,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "b67d328df6d3352fc5afc90e",
+      "title": "Midterms 2026: ‘the worst democracy money can buy’ | w/ Ben Becker",
+      "url": "https://breakthroughnews.org/2026/10/09/midterms-2026-the-worst-democracy-money-can-buy-w-ben-becker",
+      "author": "Zoe Alexandra",
+      "source": "BT News",
+      "published_at": "2026-10-09T21:16:15+00:00",
+      "content_excerpt": "ICE is funded through 2029, the Pentagon budget is at record highs – and plenty of Democrats voted for both. So what does winning Congress actually change? With an ad spend set to hit $11.6 billion and record dark money pouring into the 2026 midterms, BreakThrough News editor-in-chief Ben Becker joins Zoe Alexandra and Rania Khalek to break down what’s really at stake on November 3. He lays out how billionaires and untraceable super PACs are buying the election, the threat of Trump deploying ICE at the polls, and why a likely Democratic majority is unlikely to claw back DHS funding or end Trump’s war on Iran – recalling how Democrats failed to pass comprehensive immigration reform or universal childcare the last time they held power. And with self-proclaimed socialists like Zohran Mamdani ",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/b67d328df6d3352fc5afc90e.json"
+    },
+    {
+      "id": "1795f71cd6fe70cc8f709c81",
+      "title": "No Redemption for Genocide: PYM on the road ahead",
+      "url": "https://mondoweiss.net/2026/10/no-redemption-for-genocide-pym-on-the-road-ahead",
+      "author": "Palestinian Youth Movement",
+      "source": "Mondoweiss",
+      "published_at": "2026-10-09T19:28:21+00:00",
+      "content_excerpt": "After three years of genocide, two decades of a criminal siege, and a century of occupation, we must confront Zionism from all directions until Palestine is free.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/1795f71cd6fe70cc8f709c81.json"
+    },
+    {
+      "id": "6652175a04c3145c4d032b77",
+      "title": "MAGA Congress escalates against BT, threatens reporters and editorial staff",
+      "url": "https://breakthroughnews.org/2026/10/09/maga-congress-escalates-against-bt-threatens-reporters-and-editorial-staff",
+      "author": "BreakThrough News",
+      "source": "BT News",
+      "published_at": "2026-10-09T19:15:34+00:00",
+      "content_excerpt": "For months, MAGA Republicans in the House Ways and Means Committee have been targeting BreakThrough News for our editorial judgment and viewpoints they don’t like. The Committee is abusing their powers in a blatant attempt to shut us down. Now, they’ve taken things to another level. We just received a new letter from Committee Chairman Jason Smith (R-MO). The letter lists the names of our reporters and editors and threatens to individually subpoena each of them to a deposition in Washington if we don’t yield our legal rights, including First Amendment privileges. The letter makes clear that this is a punishment for resisting their previous unconstitutional demands on our organization. In July, they subpoenaed our communications and records, smeared us in the press, and threatened our non-p",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/6652175a04c3145c4d032b77.json"
+    },
+    {
+      "id": "59a025a0b2d9bb68d0f9c52c",
+      "title": "Three years of genocide in Gaza, the Palestinian people remain steadfast",
+      "url": "https://breakthroughnews.org/2026/10/09/three-years-of-genocide-in-gaza-the-palestinian-people-remain-steadfast",
+      "author": "Aseel Saleh",
+      "source": "BT News",
+      "published_at": "2026-10-09T16:15:18+00:00",
+      "content_excerpt": "Three years after Israel launched its genocidal aggression on the Gaza strip, massacres and mass destruction continue to take place on a daily basis, despite the US-brokered ceasefire deal that was reached in October 2025. The nominal truce was preceded by two other short ceasefire agreements. The first was reached in November 2023 and lasted for only one week, while the second was sealed in mid-January 2025 and collapsed two months later. For three entire years, the world has borne witness to one of the most heinous genocides in modern history, which has resulted in the killing of at least 75,000 Palestinians, according to the latest official health reports, with women, children, and the elderly comprising 56.2% of the death toll. Meanwhile, 82% of Gaza’s structures have been destroyed. S",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/59a025a0b2d9bb68d0f9c52c.json"
+    },
+    {
+      "id": "fc435ae6e5c4dbc1925adce3",
+      "title": "“Abolish ICE”: Protests Erupt in NYC After ICE Agents Shoot Father with 5-Year-Old Son in Car",
+      "url": "https://www.democracynow.org/2026/10/9/ice_shooting_nyc",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-10-09T15:35:12+00:00",
+      "content_excerpt": "This is a rush transcript. Copy may not be in its final form. AMY GOODMAN : Well, today, Juan, we’re going to be talking about your old neighborhood uptown in Manhattan. Protests erupted in New York City on Thursday after a federal immigration agent shot and wounded a man in his vehicle in the Marble Hill neighborhood of northern Manhattan. Seven shots rang out in quick succession just after 4 p.m. on a crowded street as people walked home from work or accompanied their children home from school. Twenty-eight-year-old Oscar Belgal was struck in the neck. His 5-year-old child was in the back seat of the car. Belgal was taken to the nearby Columbia Presbyterian Allen Hospital, where hundreds of protesters gathered to demand his release, chanting ” ICE off our streets now!” and “We want justi",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/fc435ae6e5c4dbc1925adce3.json"
+    },
+    {
+      "id": "091d11b45a3e3f9fc9ca0e47",
+      "title": "Navi Pillay, South African Jurist, Wins Nobel Peace Prize in “Stinging Rebuke to Donald Trump”",
+      "url": "https://www.democracynow.org/2026/10/9/navi_pillay_2026_nobel_peace_prize",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-10-09T15:35:12+00:00",
+      "content_excerpt": "This is a rush transcript. Copy may not be in its final form. AMY GOODMAN : This is Democracy Now! , democracynow.org, The War and Peace Report . I’m Amy Goodman, with Juan González. The Norwegian Nobel Committee has announced the winner of the 2026 Nobel Peace Prize. This is the chair of the Nobel Committee speaking in Oslo this morning. JØRGEN WATNE FRYDNES : The Nobel Peace Prize for 2026 goes to a person who, with exceptional courage and integrity, has led the way towards a more comprehensive global legal order. This year’s laureate has been instrumental in ensuring that war crimes, crimes against humanity and genocide are prosecuted. The Norwegian Nobel Committee has decided to award the Nobel Peace Prize for 2026 to Navanethem “Navi” Pillay for her efforts to promote peace and intern",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/091d11b45a3e3f9fc9ca0e47.json"
+    },
+    {
+      "id": "09911ae286aa4c5073e9a79b",
+      "title": "“Entire System of Cornell University Failed Her”: Jane Doe Gang Rape Case Enrages Campus Community",
+      "url": "https://www.democracynow.org/2026/10/9/cornell_university_jane_doe",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-10-09T15:35:12+00:00",
+      "content_excerpt": "University students across the United States held a national day of action in solidarity with “Jane Doe,” the anonymous former student whose lawsuit alleging she was gang-raped by seven Cornell University Chi Phi fraternity members in 2024 has reignited outrage over how campuses and local law enforcement mishandle sexual assault cases and fail survivors. We go to Cornell’s campus in Ithaca, New York, where faculty have introduced a no-confidence resolution against the university administration. “The number one message that Cornell students have is that Jane Doe’s ordeal is the tip of the iceberg, that there have been many, many other cases where women have been sexually assaulted and raped at Cornell University, and they’re afraid of coming forward. They’re afraid of going to the authoriti",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/09911ae286aa4c5073e9a79b.json"
+    },
+    {
+      "id": "4675a748d958c96c6402bd0e",
+      "title": "Brazilian Election Exposes Geopolitical Struggle and US Interference in Latin America",
+      "url": "https://www.brasildefato.com.br/2026/10/09/brazilian-election-exposes-geopolitical-struggle-and-us-interference-in-latin-america",
+      "author": "",
+      "source": "Brasil de Fato",
+      "published_at": "2026-10-09T15:33:21+00:00",
+      "content_excerpt": "The results of the first round of Brazil’s presidential election, which sent ultra-conservative Senator Flávio Bolsonaro of the Liberal Party and incumbent President Luiz Inácio Lula da Silva of the Workers’ Party to a runoff scheduled for October 25, had immediate repercussions across Latin America. The Brazilian election, in which Flávio Bolsonaro secured 47.03% of valid votes against Lula’s 45.16%, has become the epicenter of a regional geopolitical struggle that exposes the alignment of far-right leaders with Washington’s agenda versus the progressive governments defending continental sovereignty. Leaders from Latin America’s progressive camp reacted with both caution and resolution, denouncing the risks of social regression and submission to U.S. interests. Mexican President Claudia S",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/4675a748d958c96c6402bd0e.json"
+    },
+    {
+      "id": "e506e167a89273d021a224da",
+      "title": "A brief history of Israeli ceasefire violations, from 1948 until today",
+      "url": "https://mondoweiss.net/2026/10/a-brief-history-of-israeli-ceasefire-violations-from-1948-until-today",
+      "author": "Jared Hillel",
+      "source": "Mondoweiss",
+      "published_at": "2026-10-09T14:31:48+00:00",
+      "content_excerpt": "Ahead of the one-year anniversary of the so-called ceasefire in Gaza, we look at a brief timeline of a long-established Israeli practice of sabotaging negotiations and violating ceasefire agreements to advance their goals.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/e506e167a89273d021a224da.json"
+    },
+    {
+      "id": "533e0362c8381ef161dc01cf",
+      "title": "Three years of genocide, three years of global silence",
+      "url": "https://mondoweiss.net/2026/10/three-years-of-genocide-three-years-of-global-silence",
+      "author": "Mitchell Plitnick",
+      "source": "Mondoweiss",
+      "published_at": "2026-10-09T13:29:06+00:00",
+      "content_excerpt": "The struggle for Palestinian liberation is a threat to the global world order. That's why no one is \"stopping\" Israel.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/533e0362c8381ef161dc01cf.json"
+    },
+    {
+      "id": "fd13cc71450d34140c2ef4ef",
+      "title": "Israel’s violence against Palestine survives the ceasefire: The Forty-First Newsletter (2026)",
+      "url": "https://mronline.org/2026/10/09/israels-violence-against-palestine-survives-the-ceasefire-the-forty-first-newsletter-2026",
+      "author": "Vijay Prashad",
+      "source": "MR Online",
+      "published_at": "2026-10-09T13:11:59+00:00",
+      "content_excerpt": "The assault on Palestinian existence is not confined to bombardment. The destruction of infrastructure, Israeli control over Palestinian money, and Western corporate complicity in apartheid are interconnected fronts of the same offensive. The post Israel’s violence against Palestine survives the ceasefire: The Forty-First Newsletter (2026) appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/fd13cc71450d34140c2ef4ef.json"
+    },
+    {
+      "id": "692ff85ca01af6135efeaa4c",
+      "title": "AI investments lack returns–whatever they do is hard to measure",
+      "url": "https://mronline.org/2026/10/09/ai-investments-lack-returns-whatever-they-do-is-hard-to-measure",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-09T11:04:21+00:00",
+      "content_excerpt": "The money that has been, and still gets invested in them is wasted. It can not be justified by the potential returns. The post AI investments lack returns–whatever they do is hard to measure appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/692ff85ca01af6135efeaa4c.json"
+    },
+    {
+      "id": "cfc16e8a0dde047e2a846cb0",
+      "title": "Senior U.S. prosecutor leaves case against kidnapped President Maduro and Cilia Flores",
+      "url": "https://mronline.org/2026/10/09/senior-u-s-prosecutor-leaves-case-against-kidnapped-president-maduro-and-cilia-flores",
+      "author": "Orinoco Tribune",
+      "source": "MR Online",
+      "published_at": "2026-10-09T10:04:09+00:00",
+      "content_excerpt": "According to Bloomberg Law, Manhattan U.S. Attorney Jamie McDonald informed the court that Richman’s employment ended on September 25, 2026. The post Senior U.S. prosecutor leaves case against kidnapped President Maduro and Cilia Flores appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/cfc16e8a0dde047e2a846cb0.json"
+    },
+    {
+      "id": "e905e55413eca0d4934d64c6",
+      "title": "France: State brutality and media lies fail to break students’ resolve as workers mobilise in support of the revolt",
+      "url": "https://mronline.org/2026/10/09/france-state-brutality-and-media-lies-fail-to-break-students-resolve-as-workers-mobilise-in-support-of-the-revolt",
+      "author": "John Mullen",
+      "source": "MR Online",
+      "published_at": "2026-10-09T10:04:09+00:00",
+      "content_excerpt": "Despite the barbarous attempts at repressing the student protests, more than a quarter of a million students continue to protest on the streets and from the barricades. Paris resident, John Mullen, reports on the explosion of widespread anger that has swept the country. The post France: State brutality and media lies fail to break students’ resolve as workers mobilise in support of the revolt appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/e905e55413eca0d4934d64c6.json"
+    },
+    {
+      "id": "8a715fed462d8c3f393b1739",
+      "title": "The Levy Institute mourns the passing of Anwar Shaikh",
+      "url": "https://mronline.org/2026/10/09/the-levy-institute-mourns-the-passing-of-anwar-shaikh",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-09T09:04:16+00:00",
+      "content_excerpt": "The Levy Institute mourns the passing of Anwar Shaikh, an outstanding scholar, teacher, and mentor to a generation of socially committed economists, including several current and former Levy Institute scholars. On this solemn occasion of deep loss, we extend our condolences to his family, friends, and loved ones. The post The Levy Institute mourns the passing of Anwar Shaikh appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/8a715fed462d8c3f393b1739.json"
+    },
     {
       "id": "bc5b57dd3d3f6f2edd04f530",
       "title": "Iran & Yemen’s maritime trap: how they control global trade",
@@ -81,231 +306,6 @@
       "priority": 2,
       "date_missing": false,
       "article_path": "articles/11271b16aaf2918f47211055.json"
-    },
-    {
-      "id": "10b31048bcdd65ea661857eb",
-      "title": "Spanish unions announce general strike over housing",
-      "url": "https://breakthroughnews.org/2026/10/08/spanish-unions-announce-general-strike-over-housing",
-      "author": "Ana Vračar",
-      "source": "BT News",
-      "published_at": "2026-10-08T20:09:53+00:00",
-      "content_excerpt": "Spanish trade unions representing millions of workers have announced a general strike for November 11. The announcement comes amid nationwide mobilizations for the right to housing and only days after Prime Minister Pedro Sánchez called early elections for November 29. Read more: Housing crisis leads to snap election in Spain The strike was announced by the two largest union organizations , the General Union of Workers (UGT) and the Workers’ Commissions (Comisiones Obreras, CCOO), alongside the General Confederation of Labor (CGT), Basque unions ELA and LAB, and the Galician confederation CIG. It will be the country’s first general strike in 14 years , excluding the feminist strike of March 8, 2018 . Housing and wages are the same struggle “A key demand of this strike is to vindicate decen",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/10b31048bcdd65ea661857eb.json"
-    },
-    {
-      "id": "3522747f53ccee7cf196e2af",
-      "title": "Brazil’s angry tide and the struggles ahead",
-      "url": "https://breakthroughnews.org/2026/10/08/brazils-angry-tide-and-the-struggles-ahead",
-      "author": "Vijay Prashad",
-      "source": "BT News",
-      "published_at": "2026-10-08T20:09:53+00:00",
-      "content_excerpt": "Lee en español aquí Brazil’s general election on October 4 delivered a severe warning to the left. Flávio Bolsonaro, the presidential candidate of the Liberal Party (PL), finished ahead of President Luiz Inácio Lula da Silva, with approximately 47% against 45%. Neither secured a majority, sending them into a runoff on October 25. More troubling than this narrow presidential gap was the advance of bolsonarismo through Congress. The election has strengthened a political movement whose ambitions extend beyond defeating Lula to reshaping the institutions that obstruct its exercise of power. The imprisonment (house arrest) and electoral exclusion of Jair Bolsonaro have not dissolved his movement. His son Flávio carries its presidential banner, while other members of the family have won seats in",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/3522747f53ccee7cf196e2af.json"
-    },
-    {
-      "id": "634b4823f1aa5787522ef6af",
-      "title": "“She Put Her Body on the Line”: Maricarmen, 87, Dies; Her Eviction Sparked Spain Housing Protests",
-      "url": "https://www.democracynow.org/2026/10/8/maricarmen_abascal_dies",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-10-08T14:28:35+00:00",
-      "content_excerpt": "This is a rush transcript. Copy may not be in its final form. NERMEEN SHAIKH : We begin today’s show in Spain. Maricarmen has died. She’s the 87-year-old woman whose eviction from her home of 70 years in Madrid sparked mass protests across Spain. In September, she was forcibly removed from her apartment on a stretcher after the private investment company which owns the building hiked her rent. After massive public outcry, the landlord had agreed to allow her back into her apartment. María Carmen Abascal died on Wednesday just hours before she was set to sign a new rental agreement. On Wednesday, protesters in Madrid gathered to shout “murderers” outside the Madrid parliament. PROTESTERS : ¡Asesinos! ¡Asesinos! ¡Asesinos! ¡Asesinos! AMY GOODMAN : Protesters in Madrid, Spain, responded with ",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/634b4823f1aa5787522ef6af.json"
-    },
-    {
-      "id": "308813015f9fa6268bf88e23",
-      "title": "“The AI Doc: Or How I Became an Apocaloptimist”: Daniel Roher, Tristan Harris Discuss New Film",
-      "url": "https://www.democracynow.org/2026/10/8/the_ai_doc",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-10-08T14:28:35+00:00",
-      "content_excerpt": "As the development of artificial intelligence accelerates, more voices inside and outside the industry are warning that the technology poses major risks to humanity. The new film, The AI Doc: Or How I Became an Apocaloptimist , features interviews with leading AI executives, researchers, as well as critics, who all voice similar concerns. Since the film’s release earlier this year, a number of AI-driven hacks and other incidents have further alarmed people studying this topic. “I’m really scared, and I’m struggling in my own life to sort of compartmentalize what I learned, what I know, what I understand, what I see happening around me,” says filmmaker Daniel Roher. He began work on The AI Doc as he was about to become a father and wondered what kind of world his children would inherit. We ",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/308813015f9fa6268bf88e23.json"
-    },
-    {
-      "id": "32c9ee047459c0b3220859ee",
-      "title": "Afghanistan, 25 Years Later: Journalist Emran Feroz on the Legacy of “America’s Longest War”",
-      "url": "https://www.democracynow.org/2026/10/8/afghanistan",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-10-08T14:28:35+00:00",
-      "content_excerpt": "This week marks 25 years since the U.S.-led invasion of Afghanistan, the beginning of what would become the longest war in U.S. history. After installing a pro-Western government in Kabul in December 2001, U.S. and other NATO troops would remain in the country for the next two decades battling a stubborn insurgency — until a chaotic U.S. withdrawal in August 2021 that saw the Taliban return to power. “During the 20 years of America’s longest war in Afghanistan, we could clearly see that failure was coming,” says journalist Emran Feroz, just back from a month of reporting in Afghanistan. He says the relative economic and political gains under the Western-backed government were undercut by widespread corruption and violence, particularly in rural Afghanistan. “You had torture prisons next to",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/32c9ee047459c0b3220859ee.json"
-    },
-    {
-      "id": "6143c24a3b5253f1f962b799",
-      "title": "The world since 7 October",
-      "url": "https://mronline.org/2026/10/08/the-world-since-7-october",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-08T13:46:45+00:00",
-      "content_excerpt": "Gaza is a generational touchstone and the key dividing line of politics in the West. It has laid bare the lies of the society we live in. It has exposed the genocidal bloodlust of the political right. And it has tested official “progressive” liberal politics. The post The world since 7 October appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/6143c24a3b5253f1f962b799.json"
-    },
-    {
-      "id": "d9b434531308d17e5d0c7de7",
-      "title": "Shooting and craving: on NAZA and the mediated obscene",
-      "url": "https://mondoweiss.net/2026/10/shooting-and-craving-on-naza-and-the-mediated-obscene",
-      "author": "Abdaljawad Omar",
-      "source": "Mondoweiss",
-      "published_at": "2026-10-08T13:01:46+00:00",
-      "content_excerpt": "The documentary film by Yuval Abraham and Rachel Szor follows the predictable script of the regretful soldier, but the subjects in NAZA express something darker: mourning the loss of power.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/d9b434531308d17e5d0c7de7.json"
-    },
-    {
-      "id": "8fc78027a71f496c1aa379f4",
-      "title": "Tear gas, mass arrests as France halts classes over student protests",
-      "url": "https://mronline.org/2026/10/08/tear-gas-mass-arrests-as-france-halts-classes-over-student-protests",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-08T12:44:52+00:00",
-      "content_excerpt": "France suspends high school classes after one of its largest student protests in decades, with 6,100 arrests, hundreds injured and tear gas used in cities. The post Tear gas, mass arrests as France halts classes over student protests appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/8fc78027a71f496c1aa379f4.json"
-    },
-    {
-      "id": "a9eb7a5b9034ac1a084278ab",
-      "title": "Video: I’m Bisan, and I’m still surviving the genocide",
-      "url": "https://mondoweiss.net/2026/10/video-im-bisan-and-im-still-surviving-the-genocide",
-      "author": "Bisan Owda",
-      "source": "Mondoweiss",
-      "published_at": "2026-10-08T11:57:34+00:00",
-      "content_excerpt": "Palestinian journalist Bisan Owda reflects on three years of genocide in Gaza, a life lost forever, and her unending work to tell the truth.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/a9eb7a5b9034ac1a084278ab.json"
-    },
-    {
-      "id": "dcb60ed7d20f5beee0d0bc9f",
-      "title": "Russia warns Lithuania over potential nuclear weapons deployment",
-      "url": "https://mronline.org/2026/10/08/russia-warns-lithuania-over-potential-nuclear-weapons-deployment",
-      "author": "teleSUR Desk",
-      "source": "MR Online",
-      "published_at": "2026-10-08T11:49:22+00:00",
-      "content_excerpt": "Moscow claims strikes on Ukrainian data centers and military infrastructure. The post Russia warns Lithuania over potential nuclear weapons deployment appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/dcb60ed7d20f5beee0d0bc9f.json"
-    },
-    {
-      "id": "9ce8cd618492c4c4dd276b6c",
-      "title": "Gill: Imperialism—then and now",
-      "url": "https://mronline.org/2026/10/08/gill-imperialism-then-and-now",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-08T10:46:08+00:00",
-      "content_excerpt": "Imperialism, the denial of sovereignty that underwrites global capitalism, is the primary contradiction. The post Gill: Imperialism—then and now appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/9ce8cd618492c4c4dd276b6c.json"
-    },
-    {
-      "id": "ca25e573edbd9604e2f1f0be",
-      "title": "Ensuring that the unions’ bark will be worse than their bite",
-      "url": "https://mronline.org/2026/10/08/ensuring-that-the-unions-bark-will-be-worse-than-their-bite",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-08T09:44:54+00:00",
-      "content_excerpt": "The United States had a Tricky Dick. Canada has a Sneaky Mark. The post Ensuring that the unions’ bark will be worse than their bite appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/ca25e573edbd9604e2f1f0be.json"
-    },
-    {
-      "id": "b9f16e964ee14019022ba057",
-      "title": "From Campuses to Factories: On the History of the Independent Socialist Club(s)/International Socialists",
-      "url": "https://www.historicalmaterialism.org/from-campuses-to-factories-on-the-history-of-the-independent-socialist-clubs-international-socialists",
-      "author": "Panagiotis Sotiris",
-      "source": "Historical Materialism",
-      "published_at": "2026-10-08T06:18:03+00:00",
-      "content_excerpt": "Andrew Stone Higgins, ed., From the Free Speech Movement to the Factory Floor: A Collective History of the International Socialists (Chicago: Haymarket Books, 2026) Reviewed by David Camfield Between the mid-1960s and the early 1970s, a new revolutionary Left emerged in the USA. Thousands of young people, radicalised mainly by the Civil Rights and later Black Power movement and the movement against the US’s war in Vietnam came to the conclusion that revolution was necessary and possible. Most of these people looked to one version or another of Marxism-Leninism as the theory needed to guide the New Communist Movement they set out to build. They often saw China as the most important socialist society, a hopeful alternative to a USSR supposedly led since the death of Stalin by counterrevoluti",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/b9f16e964ee14019022ba057.json"
-    },
-    {
-      "id": "c5402e3d106d7c535230980c",
-      "title": "BT LIVE: Saudi’s Red Sea War | Gen Z Uprising in France & India | Dark Money Midterms",
-      "url": "https://breakthroughnews.org/2026/10/07/october-8-26",
-      "author": "BreakThrough News",
-      "source": "BT News",
-      "published_at": "2026-10-07T23:49:55+00:00",
-      "content_excerpt": "This content is for members only. Visit the site and log in/register to read.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/c5402e3d106d7c535230980c.json"
-    },
-    {
-      "id": "da9bd86af3d271b67642a1cd",
-      "title": "Indian students and opposition parties call for national mobilization on October 10 against election commissioner",
-      "url": "https://breakthroughnews.org/2026/10/07/indian-students-and-opposition-parties-call-for-national-mobilization-on-october-10-against-election-commissioner",
-      "author": "Abdul Rahman",
-      "source": "BT News",
-      "published_at": "2026-10-07T23:49:55+00:00",
-      "content_excerpt": "Scores of the elected opposition members of India’s Parliament were detained by security forces in the capital, New Delhi, on Tuesday, October 6, after they protested against the alleged rigging in the elections and demanded removal of the country’s Chief Election Commissioner (CEC) Gyanesh Kumar. The Leader of the Opposition Rahul Gandhi and several other MPs also claimed they were manhandled by the police during the detention and forcefully removed from the protests site. All of the detainees were released later. The protests by the MPs was a part of the ongoing nationwide mobilizations which broke out on Saturday over alleged rigging and irregularities in various elections under the incumbent CEC. The protesters are demanding his immediate removal claiming he manipulated the elections i",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/da9bd86af3d271b67642a1cd.json"
     }
   ]
 }
