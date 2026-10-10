@@ -1,296 +1,311 @@
 {
-  "generated_at": "2026-10-09T23:24:38.998994+00:00",
-  "generated_at_jst": "2026-10-10T08:24:38.998994+09:00",
-  "period_start": "2026-10-08T17:24:38.998994+00:00",
+  "generated_at": "2026-10-10T22:49:35.923987+00:00",
+  "generated_at_jst": "2026-10-11T07:49:35.923987+09:00",
+  "period_start": "2026-10-09T16:49:35.923987+00:00",
   "lookback_hours": 30,
   "folder": "00_毎日確認",
-  "article_count": 19,
+  "article_count": 20,
   "excerpt_chars": 800,
   "articles": [
     {
-      "id": "73f66bbc7c78a5ce01e7279a",
-      "title": "Far Right Gains Power",
-      "url": "https://www.laprogressive.com/foreign-policy/far-right-gains-power",
-      "author": "Vijay Prashad",
-      "source": "LA Progressive",
-      "published_at": "2026-10-09T22:43:04+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Brazil’s general election on 4 October delivered a severe warning to the Left. Flávio Bolsonaro, the presidential candidate of the Liberal Party (PL), finished ahead of President Luiz Inácio Lula da Silva, with approximately 47 per cent against 45 per cent. Neither secured a majority, sending them into a runoff on 25 October. More troubling than this narrow presidential gap was the advance of bolsonarismo through Congress. The election has strengthened a political movement whose ambitions extend beyond defeating Lula to reshaping the institutions that obstruct its exercise of power. The imprisonment (house arrest) and electoral exclusion of Jair Bolsonaro have not dissolved",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/73f66bbc7c78a5ce01e7279a.json"
-    },
-    {
-      "id": "2f92c4be17881c7fbad22d0c",
-      "title": "UE Hosts Belgian Trade Union Delegation in Pittsburgh",
-      "url": "https://www.ueunion.org/ue-news/2026/ue-hosts-belgian-trade-union-delegation-in-pittsburgh",
-      "author": "",
-      "source": "UE NEWS Updates | UE",
-      "published_at": "2026-10-09T21:20:38+00:00",
-      "content_excerpt": "On October 3, UE hosted a delegation from the Belgian trade union FGTB. UE Secretary-Treasurer Andrew Dinkelaker and members of UE Local 667 joined the Belgian trade unionists at an Oktoberfest event in Pittsburgh, which raised money for Palestinians. The Belgian union delegation, members of the Belgian FGTB, was on a three-city tour (Minneapolis, Pittsburgh, and Chicago) to meet union leaders and other activists to discuss how they are fighting the far-right and fascism. During the Belgians’ visit, Dinkelaker gave a brief overview of UE’s history and rank-and-file structure. The Local 667 members spoke about their local’s ongoing campaign to boycott Israeli products at the East End Food Coop, where they work. The FGTB is a strong supporter of the Palestinian cause. The delegation was also",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/2f92c4be17881c7fbad22d0c.json"
-    },
-    {
-      "id": "1c2687da18ea887edce42aef",
-      "title": "Western Region: Take Action to Defend Elections",
-      "url": "https://www.ueunion.org/ue-news/2026/western-region-take-action-to-defend-elections",
-      "author": "",
-      "source": "UE NEWS Updates | UE",
-      "published_at": "2026-10-09T21:20:38+00:00",
-      "content_excerpt": "“Our union is a powerful tool that we must utilize to attain a society and a world that is truly equitable and just for all,” declared Local 1186 Vice President Michele McCoy during the Western Region council meeting’s political action report. McCoy and Local 1107 President Kellye Allen were reporting on resolutions that their locals, both located in Wisconsin, had passed about defending labor and democratic rights in the upcoming midterm elections. McCoy also shared how members of her local have been collecting pledge cards in the local and in the community asking working people to pledge to vote for pro-worker candidates and to take action if the Trump Administration moves to interfere in the elections. Zachary Strasberg and Tristan Larkin , Local 1466 and Caedmon Ragland, Local 1498 gav",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/1c2687da18ea887edce42aef.json"
-    },
-    {
-      "id": "18033588b47537794bf55f3e",
-      "title": "Descent Into Fascism",
-      "url": "https://www.laprogressive.com/democracy/descent-into-fascism",
-      "author": "Sharon Kyle, Dick Price, Henry A. Giroux",
-      "source": "LA Progressive",
-      "published_at": "2026-10-09T21:17:16+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. What happens when cruelty becomes a governing philosophy? When political leaders celebrate violence, billionaires wield extraordinary influence over government, and institutions supposedly designed to defend democracy become instruments of repression? These questions were at the center of our recent conversation with political theorist Henry Giroux, whose latest LA Progressive essay, \"The Politics of the Abyss: MAGA, Moral Rot, and the Struggle for the Future,\" examines what he considers the accelerating collapse of America's democratic and moral foundations. Giroux, who holds the McMaster University Chair for Scholarship in the Public Interest, offered an unsparing assessm",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/18033588b47537794bf55f3e.json"
-    },
-    {
-      "id": "36b8eac957a3471c86528e8c",
-      "title": "Online Pornography Created the Model for Platform Capitalism",
-      "url": "https://jacobin.com/2026/10/platform-capitalism-internet-porn-camming",
-      "author": "Patricia Nilsson",
-      "source": "Jacobin",
-      "published_at": "2026-10-09T19:05:44+00:00",
-      "content_excerpt": "Online pornography is often seen as a corner of the web that doesn’t bear much analysis. And yet it can hardly be ignored. Firstly, that’s because of the sheer size of the adult-content industry — a sector that in itself is worth around $97 billion annually worldwide and that, at peak times, commands 10 percent of all internet traffic. But more than that, a discussion of its inner workings sheds light on the mechanisms that govern the special kind of attention economy and platform capitalism that we are all wrapped up in. In Guilty Pleasure: The Pornification of the Internet, the Economy, and Everything Else , the journalist Patricia Nilsson discusses porn’s place at the heart of today’s digital ecosystem. As the Financial Times journalist explains, many of the technologies meant to hold a",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/36b8eac957a3471c86528e8c.json"
-    },
-    {
-      "id": "55be9c24bf0b871a04c198b8",
-      "title": "Comeuppance",
-      "url": "https://www.laprogressive.com/democracy/comeuppance",
-      "author": "Steve Hochstadt",
-      "source": "LA Progressive",
-      "published_at": "2026-10-09T18:37:53+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. In the early 1950s, Senator Joseph McCarthy seemed to wield unchecked power. McCarthy was antisemitic, persecuted people he alleged were homosexual, and defended Nazi soldiers who had massacred American prisoners at Malmedy. His political practice was defined by false accusations and Congressional investigation of his political enemies, mostly advocates of left-of-center ideas. In 1954, his authority was shattered by facts from the mouths of Army counsel Joseph N. Welch and Senator Stuart Symington. They followed the lead of Senator Margaret Chase Smith from Maine, who, after she arrived in 1950, immediately denounced McCarthy’s debasement of the Senate into “a forum of hat",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/55be9c24bf0b871a04c198b8.json"
-    },
-    {
-      "id": "c326fbcf0fe07048526b8041",
-      "title": "Ethiopia vs. Eritrea",
-      "url": "https://www.laprogressive.com/foreign-policy/ethiopia-vs-eritrea",
-      "author": "Ann Garrison",
-      "source": "LA Progressive",
-      "published_at": "2026-10-09T17:40:59+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Ethiopia and Eritrea simultaneously severed diplomatic ties on October 1st. It's a perilous situation. If one nation’s army crosses the other's border, it could draw in neighboring nations, creating a regional crisis from the Horn to the Gulf or, one might say, worsening the crisis that already exists with multiple civil and interstate wars. The entire world, knowledgeably or not, is invested in containing this conflict because of its potential to further destabilize the Red Sea, a major oil shipping channel, driving the price of gas even higher and triggering more inflation cascading upward. Before Ansar Allah attacked Red Sea shipping associated with Israel in 2023, an es",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/c326fbcf0fe07048526b8041.json"
-    },
-    {
-      "id": "bde862d7d6137b70d8e40458",
-      "title": "Shawn Fain’s Slate Has Swept the UAW Elections",
-      "url": "https://jacobin.com/2026/10/uaw-elections-fain-barofsky-labor",
-      "author": "Chris Brooks",
-      "source": "Jacobin",
-      "published_at": "2026-10-09T17:05:47+00:00",
-      "content_excerpt": "Shawn Fain and the United UAW slate are headed toward a sweeping victory in the union’s internal elections for its International Executive Board. The results will not be finalized for some time, but the unofficial results are unequivocal: United Auto Workers members are overwhelmingly backing Fain and the militant direction he is taking the union. Voter turnout was low, about 10 percent of the total number of active and retired members, and appears to be on track for a lower total vote count than when the UAW held its first direct election of top union officers in 2022. Previously, officers were elected by delegates at the union’s annual convention, a system that helped entrench the ruling Administration Caucus in power for more than seven decades. Fain eked out an upset victory against in",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/bde862d7d6137b70d8e40458.json"
-    },
-    {
-      "id": "68ac7cd9d0d014c87ea5b394",
-      "title": "Eric Hobsbawm, Historian of Defeat",
-      "url": "https://jacobin.com/2026/10/hobsbawm-chabal-biography-history-communism",
-      "author": "Iker Itoiz Ciaurriz",
-      "source": "Jacobin",
-      "published_at": "2026-10-09T16:06:23+00:00",
-      "content_excerpt": "Five years after the fall of the Berlin Wall, the communist historian Eric Hobsbawm published his best-selling history of the twentieth century, The Age of Extremes . The book presented a man coming to terms with the fate of the political project to which he had committed his adult life while trying to understand the twentieth century as a historical epoch. Though famous for its pessimism, the book, like the work of many left-wing authors in the 1990s, was also an opportunity to rethink what the project of the Left might become after the collapse of communism. In its final pages, Hobsbawm reflected darkly on the future. The “titanic economic and techno-scientific” development of capitalism, he wrote, had unleashed forces capable of destroying “the material foundations of human life” while ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/68ac7cd9d0d014c87ea5b394.json"
-    },
-    {
-      "id": "ae111299cffedd0ea3f221f7",
-      "title": "No Economic Justice",
-      "url": "https://www.laprogressive.com/democracy/no-economic-justice",
-      "author": "Dick Price, Sharon Kyle, Nina Turner",
-      "source": "LA Progressive",
-      "published_at": "2026-10-09T15:40:24+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. At the fourth annual Left Coast Forum, held October 2–4 at California State University, Los Angeles, former Ohio State Senator Nina Turner delivered an impassioned keynote that challenged progressive activists to rethink how they approach racial justice, economic inequality, and political power. Her central message was unmistakable: The progressive movement cannot achieve economic justice without confronting racial inequality, and it cannot transform American society without learning how to organize and exercise political power. Speaking to an audience of activists, organizers, and community leaders, Turner connected today's struggles to generations of Black freedom fighter",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/ae111299cffedd0ea3f221f7.json"
-    },
-    {
-      "id": "e10d56b70ab65a6cbc4a6c93",
-      "title": "Trump Wants a ‘Generation of Capitalists,’ Gen Z Has Other Plans",
-      "url": "https://democraticleft.dsausa.org/2026/10/09/the-kids-are-all-right",
-      "author": "Democratic Left",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-10-09T15:24:50+00:00",
-      "content_excerpt": "Gen Z is warming to socialism though they’re not ready to be labeled. This and more in Red All Over, Democratic Left’s occasional round-up of media coverage. The post Trump Wants a ‘Generation of Capitalists,’ Gen Z Has Other Plans appeared first on Democratic Left .",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/e10d56b70ab65a6cbc4a6c93.json"
-    },
-    {
-      "id": "4f82b93c727a5093d46c9ae9",
-      "title": "Abdul El-Sayed Isn’t Backing Down on Medicare for All",
-      "url": "https://jacobin.com/2026/10/health-care-el-sayed-m4a-public-option",
-      "author": "Matt Bruenig",
-      "source": "Jacobin",
-      "published_at": "2026-10-09T15:10:44+00:00",
-      "content_excerpt": "The discourse around Abdul El-Sayed’s position on Medicare for All is mostly confused. Reading most of the reporting on the matter would lead one to believe that El-Sayed initially supported Medicare for All but now merely supports a “public option.” This is not really true under conventional meanings of the phrase “public option.” El-Sayed seems to be inviting this understanding for rhetorical effect, but all he has really done is drop his opposition to a type of duplicative insurance that nobody would ever want to buy. Conventional Public Options In the health insurance context, the phrase “public option” has typically referred to two types of arrangements: The government creates a health insurance plan and attempts to sell it in the employer and individual markets. People become insured",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/4f82b93c727a5093d46c9ae9.json"
-    },
-    {
-      "id": "6c85616753df2ecc6fc241dd",
-      "title": "Anwar Shaikh’s Analysis of Capitalism Is Vital for the Left",
-      "url": "https://jacobin.com/2026/10/marx-shaikh-competition-inequality-labor",
-      "author": "Howard Botwinick",
-      "source": "Jacobin",
-      "published_at": "2026-10-09T14:08:37+00:00",
-      "content_excerpt": "Most economists assume that when workers with similar skills earn very different pay, something must be blocking normal competition. But for Howard Botwinick, capitalist competition itself creates those gaps. His book Persistent Inequalities: Wage Disparity under Capitalist Competition , first published in 1993 and reissued in 2017, shows how the everyday workings of capitalism split the working class into better- and worse-paid groups — no monopoly power required. Botwinick came to economics from organizing. Early on, he helped workers win a union at an electronics plant, only to watch the company shut the plant down rather than deal with them. Looking for a better way to understand what he was up against, he went to the New School for Social Research to study with the economist Anwar Sha",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/6c85616753df2ecc6fc241dd.json"
-    },
-    {
-      "id": "1e13eb3267b603f5d0f0f5a5",
-      "title": "Pedro Sánchez Makes His Last Gamble",
-      "url": "https://jacobin.com/2026/10/sanchez-spain-housing-protests-snap-election",
-      "author": "Eoghan Gilmartin",
-      "source": "Jacobin",
-      "published_at": "2026-10-09T13:12:28+00:00",
-      "content_excerpt": "Less than two weeks after a wave of housing protests broke out across Spain, on Monday center-left Prime Minister Pedro Sánchez called an early general election. Upending the country’s political agenda in just days, the protests created an opportunity for an embattled Sánchez to go to the polls on more favorable terms. He is now framing the election as a choice between his defense of the social majority and right-wing parties aligned with speculators and vulture funds. This was a remarkable turn of events, especially as Sánchez’s government had been in the firing line of housing protests just days before. The eviction of eighty-seven-year-old Maricarmen Abascal from her Madrid apartment on September 23 had ignited the largest protests Sánchez has faced from his left flank during over eight",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/1e13eb3267b603f5d0f0f5a5.json"
-    },
-    {
-      "id": "45131f4450fa321ed3daa3ea",
-      "title": "Unions Step Up to Meet the Moment",
-      "url": "https://convergencemag.com/articles/unions-step-up-to-meet-the-moment",
-      "author": "",
-      "source": "Stephanie Luce",
-      "published_at": "2026-10-09T04:14:20+00:00",
-      "content_excerpt": "Featured image by Jared Rodriguez. Since taking office, Trump and MAGA forces have made considerable advances in implementing Project 2025 and consolidating authoritarian power—but many of these moves have proved unpopular and undermined their support. With Trump’s approval ratings dropping and elements of his coalition defecting, conditions look promising for pushing back MAGA in the midterm elections. But there are at least two sources of concern. With their support declining, the MAGA forces are likely to step up their efforts to interfere with the elections—doing everything from stopping people from voting to refusing to seat elected officials to unleashing violence. And even if elections go smoothly, will the anti-MAGA forces be prepared to govern in a way that brings about real chang",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/45131f4450fa321ed3daa3ea.json"
-    },
-    {
-      "id": "6a83f0ba54b23926a228ca56",
-      "title": "What Happens to a Car",
-      "url": "https://www.laprogressive.com/sponsored/what-happens-to-a-car",
-      "author": "Britta Hedlund",
-      "source": "LA Progressive",
-      "published_at": "2026-10-09T03:09:07+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. They pick up the car after you book, and then it’s just gone for a few days until it turns up at the other end. Most people never think about what actually happens behind the scenes. They probably should because that’s usually where things go right or wrong, and it almost always comes down to steps the customer never sees. Someone Checks the Car Over Before It Even Leaves Before anything gets loaded, a decent operator walks around the car and writes down its condition. Not a glance from three feet away; they’ll conduct an actual inspection. They take photos of every scratch, chip, and dent it already had before it left your driveway. This gets skipped more often than it sho",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/6a83f0ba54b23926a228ca56.json"
-    },
-    {
-      "id": "4034faa8c4a298b0d108c82f",
-      "title": "Slip and Fall Claims",
-      "url": "https://www.laprogressive.com/sponsored/slip-and-fall-claims",
-      "author": "Britta Hedlund",
-      "source": "LA Progressive",
-      "published_at": "2026-10-09T03:09:07+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. After a fall, many people feel embarrassed and want to leave quickly. That reaction is understandable. But leaving without reporting what happened can make your claim harder to prove later. An incident report creates an early written record of the fall. It can show where the accident happened, when it happened, who was present, and what condition may have caused it. If the property owner later denies the incident or disputes the details, that report may become important. If you search “ slip and fall attorney near me ” and reach out to the right expert, they can review the report and compare it with photos, witness statements, medical records, and other evidence. What Is an",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/4034faa8c4a298b0d108c82f.json"
-    },
-    {
-      "id": "307e7cc6e4ee17902acabff9",
-      "title": "4 Supply Categories",
-      "url": "https://www.laprogressive.com/sponsored/4-supply-categories",
+      "id": "39b0a88970e7a8689ce9acb5",
+      "title": "Candlelight Service",
+      "url": "https://www.laprogressive.com/sponsored/candlelight-service",
       "author": "Sejal Desai",
       "source": "LA Progressive",
-      "published_at": "2026-10-09T03:09:07+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Peak sales periods expose weaknesses in packaging and shipping setups. A slightly inadequate box or a mailing bag that tears occasionally is a minor annoyance at 20 orders a day. When they blew up to 200 orders a day during Black Friday or the Christmas rush, that same small problem multiplied into a genuine customer service and cost issue. Box and Mailer Sizing Across the Product Range Businesses start with a handful of box sizes that cover their initial product range and never revisit that setup as the range expands. Products that don’t fit well into existing box options end up shipped in oversized boxes with excess void fill. They may also be squeezed into boxes that are",
+      "published_at": "2026-10-10T21:40:23+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. A candlelight service can make a Christmas evening feel unusually calm. The lights are lowered, candles are passed from one person to another, and the usual sounds of a busy household are replaced by music, readings, and quiet reflection. When the service ends, however, the evening does not always become quiet immediately. Families step outside together, children talk about what they noticed, and everyone begins the walk home. That walk can become a small holiday tradition of its own. The streets may be quieter than usual, the air may feel colder, and families have a chance to talk without the distractions of home. For some households, the clothing worn for the evening also",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/307e7cc6e4ee17902acabff9.json"
+      "article_path": "articles/39b0a88970e7a8689ce9acb5.json"
     },
     {
-      "id": "39366bb7f873afb0919a7c7d",
-      "title": "Improve Your Daily Driving",
-      "url": "https://www.laprogressive.com/sponsored/improve-your-daily-driving",
-      "author": "Tiqua Jackson",
+      "id": "fe14cbcafc5050a2f3d1d1b7",
+      "title": "Bathroom Remodeling",
+      "url": "https://www.laprogressive.com/sponsored/bathroom-remodeling",
+      "author": "Sejal Desai",
       "source": "LA Progressive",
-      "published_at": "2026-10-09T03:09:07+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Browse any car accessories store and half the products claim to be life-changing. Most of it is genuinely just noise, gimmicky gadgets that sound impressive in a product listing and end up sitting unused in a glovebox within a fortnight. There’s a handful of auto accessories online that actually earn their place, and they’re usually the boring, practical ones nobody’s excited to talk about. A Proper Phone Mount This sounds basic. However, it can’t be just any kind of phone mount. You’ll need something that’s top-notch quality, but not necessarily expensive. What we mean by that is one with a suction mount that won’t lose grip on a hot day and won’t fall off in every bump. I",
+      "published_at": "2026-10-10T21:36:06+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. For many homeowners, staying in a familiar home as they grow older is an important goal. A home contains memories, established routines, and connections to the surrounding community. However, a house that works well for younger adults may become more difficult to navigate as mobility, balance, strength, or vision changes over time. The bathroom is one area that deserves particular attention. Wet floors, high bathtub walls, limited lighting, and hard-to-reach fixtures can make everyday routines more challenging. Fortunately, thoughtful bathroom remodeling can improve accessibility without sacrificing comfort or style. By planning for long-term needs, homeowners can create ba",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/39366bb7f873afb0919a7c7d.json"
+      "article_path": "articles/fe14cbcafc5050a2f3d1d1b7.json"
+    },
+    {
+      "id": "75eaf00dd8c58841114bece7",
+      "title": "Actual Working Conditions",
+      "url": "https://www.laprogressive.com/sponsored/actual-working-conditions",
+      "author": "Britta Hedlund",
+      "source": "LA Progressive",
+      "published_at": "2026-10-10T21:08:17+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Lots of brands are in the arena to solve aesthetic issues. Some exist to convey a message. They do it with a distressed finish or muted colour palette. However, these won’t tell you whether the garment was intended to endure a working day. Brands that understand what sustainable, genuine workwear needs, in this case ELK clothing , share specific construction features that separate their products from others. Reinforced Stitching at the Points That Actually Fail First Through customer feedback and their own testing, brands quickly identify parts that quickly give out under daily use. It’s usually the underarm seams of a jacket or the crotch hem of trousers or jeans. At some ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/75eaf00dd8c58841114bece7.json"
+    },
+    {
+      "id": "c43eacfe610b98cf3bc38c93",
+      "title": "Curl and Longevity",
+      "url": "https://www.laprogressive.com/sponsored/curl-and-longevity",
+      "author": "Britta Hedlund",
+      "source": "LA Progressive",
+      "published_at": "2026-10-10T21:08:17+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Anyone who’s had a standard lash lift and then tried a Korean lash lift usually notices the difference within a week. The curl sits differently, and it seems to hold longer than expected. Now, that’s not a marketing angle. It’s a genuine technique difference. Let’s dissect their differences so you can easily tell whether you got the right lash lift service. The Rod Shape Changes Where the Curl Sits Standard lifts typically use a rounded silicone rod that curls the whole lash evenly from base to tip. The Korean method uses a different rod. It’s flatter and has a distinct bend point. This rod lifts from closer to the root while leaving more of the length relatively straight b",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/c43eacfe610b98cf3bc38c93.json"
+    },
+    {
+      "id": "b528531b076bc6400244b800",
+      "title": "Vehicle Transport Decisions",
+      "url": "https://www.laprogressive.com/sponsored/vehicle-transport-decisions",
+      "author": "Tiqua Jackson",
+      "source": "LA Progressive",
+      "published_at": "2026-10-10T20:44:10+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. The cheapest quote usually looks like the obvious choice at first glance. It’s always the lowest number that wins the booking. When it does, the client misses their chance of checking whether the experience goes smoothly. After all, price tag is what blinds us from vetting a provider that offers a great quality service. It’s just sad that many transport bookers realize that too late. Open Versus Enclosed Transport This decision affects more than cost, though it does affect cost greatly. Open transport, the standard car-carrier trucks you see hauling multiple vehicles on public roads, exposes cars to weather, road debris, and dust for the entire journey. It’s fine for most v",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/b528531b076bc6400244b800.json"
+    },
+    {
+      "id": "ad0c5c476de0a539a7bc0614",
+      "title": "Website Maintenance Service",
+      "url": "https://www.laprogressive.com/sponsored/website-maintenance-service",
+      "author": "Britta Hedlund",
+      "source": "LA Progressive",
+      "published_at": "2026-10-10T20:44:10+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. A business website is more than an online presence. It is an important business asset that helps attract customers, communicate information, generate enquiries and support sales. However, keeping a website secure, functional and up to date requires ongoing attention. This is where a professional website maintenance service in Australia can provide valuable support. From software updates and security monitoring to performance improvements and content changes, regular website maintenance helps businesses avoid preventable problems. Choosing the right provider, however, requires careful consideration. Here are the key factors to assess when selecting a website maintenance in A",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/ad0c5c476de0a539a7bc0614.json"
+    },
+    {
+      "id": "16a4c15bd289b606b090d2ec",
+      "title": "Serious Car Accident",
+      "url": "https://www.laprogressive.com/sponsored/serious-car-accident",
+      "author": "Sejal Desai",
+      "source": "LA Progressive",
+      "published_at": "2026-10-10T20:44:10+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. The first 24 hours after a serious accident in Houston can be the difference between injuries being properly treated and critical evidence surviving. Traffic might be moving around the wrecked cars. Emergency personnel might be separating the drivers. Pain might make it hard to think clearly. Safety, then medical care, then meticulous documentation. Once urgent needs are addressed, a Houston car accident lawyer can examine the crash record, insurance issues, and losses that begin accumulating immediately. The injured person still has useful steps to take before memories fade or vehicles are repaired. Move to Safety and Report the Crash Call 911 when anyone may be injured, o",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/16a4c15bd289b606b090d2ec.json"
+    },
+    {
+      "id": "c8642c311c3e4ce8d6cd3872",
+      "title": "Physiotherapy Clinic",
+      "url": "https://www.laprogressive.com/sponsored/physiotherapy-clinic",
+      "author": "Tiqua Jackson",
+      "source": "LA Progressive",
+      "published_at": "2026-10-10T20:22:10+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Sports injuries can affect anyone, from professional athletes and weekend competitors to people who simply enjoy staying active. Whether you are dealing with a sprain, muscle strain, tendon problem or recurring pain, getting the right treatment can help support recovery and reduce the risk of further injury. Choosing a suitable physiotherapy in Fitzroy for sports injuries is therefore an important decision for anyone looking to return to exercise safely and confidently. With several clinics and practitioners available, it can be difficult to know which option is right for your needs. Looking beyond location and appointment availability can help you find a physiotherapy prov",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/c8642c311c3e4ce8d6cd3872.json"
+    },
+    {
+      "id": "7ec2c0e38b2f5ef72b00d212",
+      "title": "Physiotherapy Treatment",
+      "url": "https://www.laprogressive.com/sponsored/physiotherapy-treatment",
+      "author": "Sejal Desai",
+      "source": "LA Progressive",
+      "published_at": "2026-10-10T20:22:10+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Pain, stiffness and restricted movement can be easy to overlook, especially when symptoms initially appear mild or manageable. Over time, however, persistent discomfort can interfere with everyday activities, work, exercise and overall quality of life. Physiotherapy offers a practical approach to managing a range of musculoskeletal conditions, sports injuries and movement-related concerns through individual assessment and tailored treatment. For those experiencing ongoing pain or difficulty with movement, physiotherapy in Newcastle can provide professional support to help identify the underlying issue and develop an appropriate treatment plan. Whether discomfort has develop",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/7ec2c0e38b2f5ef72b00d212.json"
+    },
+    {
+      "id": "b04344bad07ccc7636d92bc6",
+      "title": "Precision Fabrication",
+      "url": "https://www.laprogressive.com/sponsored/precision-fabrication",
+      "author": "Tiqua Jackson",
+      "source": "LA Progressive",
+      "published_at": "2026-10-10T20:22:10+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. A lot of people picture fabrication as someone cutting and welding metal to a drawing. That’s part of it, but the process involves several distinct stages before a single cut is ever made, and skipping or rushing any of them shows up in the finished product later. Interpreting the Design Intent A drawing communicates dimensions and tolerances. However, it doesn’t always capture the functional purpose behind a specific design choice. Understanding why a particular tolerance was specified changes how a fabricator approaches the manufacturing process. Austedan Fabrications and similar operations working on custom or complex jobs need to engage with this intent early, sometimes",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/b04344bad07ccc7636d92bc6.json"
+    },
+    {
+      "id": "4c67316b42b9a507e5463fef",
+      "title": "Seedance 3.0",
+      "url": "https://www.laprogressive.com/sponsored/a-community-repair-day-seen-through-seedance-3-0-",
+      "author": "Britta Hedlund",
+      "source": "LA Progressive",
+      "published_at": "2026-10-10T19:43:26+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. A loose wheel on a small wooden toy could be the first thing we see. Beside it sits a mug with a chipped handle and a jacket missing a button. I would open a community repair day invitation with those ordinary objects, because they make the idea understandable before a date or venue appears. Someone has something they would rather mend than discard. This is a proposed video concept for a fictional neighborhood event, not a report of an existing program. My aim would be to show what arriving might feel like: a welcoming table, a patient conversation, and a useful object receiving attention. Seedance 3.0 could help develop illustrative scenes from a written brief and suitable",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/4c67316b42b9a507e5463fef.json"
+    },
+    {
+      "id": "a02505f34192801f91323c59",
+      "title": "How Delivery Is Filling the Gap",
+      "url": "https://www.laprogressive.com/sponsored/how-delivery-is-filling-the-gap",
+      "author": "Tiqua Jackson",
+      "source": "LA Progressive",
+      "published_at": "2026-10-10T19:43:26+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. California legalized recreational cannabis in 2016. Six years later, most cities in the state still have no licensed place to buy it. That is not a rumor or an exaggeration. The California Department of Cannabis Control confirmed in early 2026 that 57% of California's municipalities, more than half, have banned cannabis retail within their borders. No dispensaries. No storefronts. No legal point of sale for the adults who live there. For a state that built its identity around cannabis reform, this is a significant gap. It has real consequences for consumers, public health, and the legal market's ability to compete with the underground one. Why So Many Cities Said No Proposi",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/a02505f34192801f91323c59.json"
+    },
+    {
+      "id": "9ccb5d146e0d5537412dda10",
+      "title": "Teens and Nukes",
+      "url": "https://www.laprogressive.com/war-and-peace/teens-and-nukes",
+      "author": "Mark Bird",
+      "source": "LA Progressive",
+      "published_at": "2026-10-10T18:25:17+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Many high school teens are much smarter than their parents or grandparents think. They can reason that President Trump has repeatedly stated Iran cannot have one nuclear weapon, yet he has apparently done nothing to reduce or eliminate the dozens held by North Korea, the hundreds by China, or the thousands by Russia. When Trump announced plans for a 44% increase in the DoD/DoW budget for 2027, some teens likely thought there should be a 44% decrease. The 44% increase is a proposed miliary budget of $1.5 trillion. Since they passed 4 th grade math, teens can calculate that $1.5 trillion amounts to $4,348 per American [[1.5 trillion divided by 345 million Americans]] or over ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/9ccb5d146e0d5537412dda10.json"
+    },
+    {
+      "id": "719d9d0975d1c60d67a69627",
+      "title": "Books or Bombs",
+      "url": "https://www.laprogressive.com/education-reform/books-or-bombs",
+      "author": "Medea Benjamin",
+      "source": "LA Progressive",
+      "published_at": "2026-10-10T17:53:33+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. For the third week in a row, high school students across France are taking to the streets demanding more investment in their education. They want more teachers, smaller classes, decent school buildings and a public education system that works for poor and working-class students. But their struggle comes at a moment when France faces mounting pressure to cut public spending while dramatically increasing its military budget. The question at the heart of this uprising goes far beyond education: Will France invest in its young people—or in missiles, weapons and war? Books or bombs? What began in the Paris suburbs has spread to more than a thousand schools. On October 6, more th",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/719d9d0975d1c60d67a69627.json"
+    },
+    {
+      "id": "6213b3f8e6aef6ee228ac0c5",
+      "title": "The War in Ukraine Is Spiraling Out of Control",
+      "url": "https://jacobin.com/2026/10/russia-ukraine-war-eu-nato-escalation",
+      "author": "Branko Marcetic",
+      "source": "Jacobin",
+      "published_at": "2026-10-10T17:31:57+00:00",
+      "content_excerpt": "War is in the air in Europe. Over the four years and counting that it’s raged, the Ukraine war has often been compared to the two world wars, being the largest land war the continent’s seen since the second of those and having surpassed the length of the first this past June. But unlike those disastrous conflicts, the fighting in Ukraine has not become a true continent-wide affair that’s dragged the rest of Europe’s powers into the fray — so far. It is becoming alarmingly uncertain how much longer that will hold. For nearly five years, both Russia and European North Atlantic Treaty Organization (NATO) states have been at pains to avoid being pulled into direct war with each other. But as Ukraine’s war effort falters, there are mounting signs of the conflict spiraling into generalized warfa",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/6213b3f8e6aef6ee228ac0c5.json"
+    },
+    {
+      "id": "100edccb8a1052b57ac190b7",
+      "title": "What Marx and Fanon Teach Us",
+      "url": "https://www.laprogressive.com/progressive-issues/what-marx-and-fanon-teach-us",
+      "author": "Dick Price, Sharon Kyle, Kevin Anderson",
+      "source": "LA Progressive",
+      "published_at": "2026-10-10T17:20:50+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Can economic inequality be eliminated without confronting racism, patriarchy, and colonial domination? And can political revolutions produce genuine freedom if they merely replace one ruling elite with another? These questions animated an intellectually ambitious panel at the 2026 Left Coast Forum, held October 2–4 at California State University, Los Angeles. Titled \"From Marx to Fanon: Class, Capital, Race, Gender, and Colonialism,\" the discussion brought together Kevin B. Anderson, professor of sociology, political science, and feminist studies at UC Santa Barbara; socialist feminist writer Rocio Lopez; and historian and political theorist Lyndon Porter. Their presentatio",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/100edccb8a1052b57ac190b7.json"
+    },
+    {
+      "id": "a9d651ae8fe4add905f4e244",
+      "title": "3 years on from Al Aqsa Flood: Solidarity with Resistance Demands Challenging Imperialism in All its Forms — The Black Alliance for Peace",
+      "url": "https://blackallianceforpeace.com/bapstatements/2026/10/10/3-years-on-from-al-aqsa-flood-solidarity-with-resistance-demands-challenging-imperialism-in-all-its-forms",
+      "author": "",
+      "source": "The Black Alliance for Peace",
+      "published_at": "2026-10-10T16:45:46+00:00",
+      "content_excerpt": "Oct 10, 2026 – Today, organizations and people of conscience take to the streets for the “March for Palestine: For the Living, the Martyrs, and the Land,” called by Palestinian Youth Movement. Three years after Al Aqsa Flood and active genocide in Gaza, we understand the continued struggle to Free Palestine from zionist occupation and oppression is inseparable from the broader fight against global systems of oppression. What we have witnessed in Gaza is a vivid expression of a worldwide structure of white supremacist and imperialist domination that relies on unrestrained state and settler terror to extract value from colonized and oppressed peoples, working classes, and nations. From the Israeli Occupation Forces (IOF) in Gaza to imperialist mercenaries on the African continent to to the m",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/a9d651ae8fe4add905f4e244.json"
+    },
+    {
+      "id": "29a6789ff033bce0f931ddaa",
+      "title": "Greek Life Endures by Offering a Simulacrum of Solidarity",
+      "url": "https://jacobin.com/2026/10/college-greek-life-elites-alienation",
+      "author": "Katie Gatti Tassin",
+      "source": "Jacobin",
+      "published_at": "2026-10-10T16:27:49+00:00",
+      "content_excerpt": "Four thousand two hundred and twenty-nine dollars. That was the cost of joining the University of Alabama’s Delta Delta Delta Panhellenic sorority, affectionately known as “Tridelt” to its members, for the 2025 fall semester. The spring semester will run you another $4,005, and if you’d like to live in the 44,294-square-foot sorority house that sleeps seventy-eight, add another $2,886 in the fall and $2,490 in the spring. This is, as Alabama sororities go, on the affordable side. The most expensive sorority, Zeta Tau Alpha (or simply “Zeta” for those in the know), estimates that a full school year of dues and in-house living totals $19,898, or nearly double the average in-state tuition at an American public university. The cost includes room and board, which is fitting, because Greek life ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/29a6789ff033bce0f931ddaa.json"
+    },
+    {
+      "id": "aad5599533698aa46b5954ec",
+      "title": "Environmental Future of Thousands",
+      "url": "https://www.laprogressive.com/the-environment/environmental-future-of-thousands",
+      "author": "Semantha Raquel Norris",
+      "source": "LA Progressive",
+      "published_at": "2026-10-10T16:25:54+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Falynn Love met her husband 25 years ago at the Puente Hills Mall, a place best known as a filming location for the 1985 movie Back to the Future . Today, Love is fighting to preserve the largely vacant, 1970s-era retail center in the City of Industry, about 15 miles east of Los Angeles, as a third space for the community, and to stop plans to turn the site into a massive industrial complex with two large warehouses, a new bus transit station and a 10-megawatt data center. Those plans have sparked fierce opposition among residents of the San Gabriel Valley, where a diverse coalition of community groups across an array of predominantly Latino and Asian suburbs has mobilized ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/aad5599533698aa46b5954ec.json"
+    },
+    {
+      "id": "0357e9d610924040421952ef",
+      "title": "Justice for Nolan Wells",
+      "url": "https://www.laprogressive.com/racism/justice-for-nolan-wells",
+      "author": "Melina Abdullah",
+      "source": "LA Progressive",
+      "published_at": "2026-10-10T16:01:55+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. It has been three months since Nolan Wells was murdered in Mississippi. Not drowned. Murdered. On Monday, Black Lives Matter – Los Angeles organizers met Nolan’s parents. I got to put my arms around his parents and pledge our continued support as they demand a federal investigation. Last week, our Georgia chapter, the BLM Youth Vanguard, and student organizers, mobilized thousands of Black college students at the Atlanta University Center. Nolan’s name has been spoken by activists, political officials, and celebrities. There has been news coverage. There was a social media blackout. Most know the story. On July 4th, the college football player joined a white friend-group fo",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/0357e9d610924040421952ef.json"
     }
   ]
 }

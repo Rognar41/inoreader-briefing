@@ -1,12 +1,162 @@
 {
-  "generated_at": "2026-10-09T23:24:38.998994+00:00",
-  "generated_at_jst": "2026-10-10T08:24:38.998994+09:00",
-  "period_start": "2026-10-08T17:24:38.998994+00:00",
+  "generated_at": "2026-10-10T22:49:35.923987+00:00",
+  "generated_at_jst": "2026-10-11T07:49:35.923987+09:00",
+  "period_start": "2026-10-09T16:49:35.923987+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
-  "article_count": 20,
+  "article_count": 13,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "9c5b4fc7acc3e0b53f623cef",
+      "title": "Ecuadorian fishermen who were kidnapped by the US military have been acquitted",
+      "url": "https://breakthroughnews.org/2026/10/10/ecuadorian-fishermen-who-were-kidnapped-by-the-us-military-have-been-acquitted",
+      "author": "BreakThrough News",
+      "source": "BT News",
+      "published_at": "2026-10-10T20:15:35+00:00",
+      "content_excerpt": "An Ecuadorian judge ordered the immediate release of nearly 30 fishermen whose two boats were destroyed by the US military in the Pacific Ocean. The Ecuadorian prosecutor’s office had charged them with alleged illegal activities. The sequence of events is telling. In two separate instances between late August and early September, the fishing boats Conquista II and María Candelaria were boarded by US military forces while on the high seas. The US forces, after transferring the fishermen to other vessels, destroyed and sank their boats. The fishermen’s families quickly reported that they had lost communication with their loved ones. Only after prolonged uncertainty were the crew members handed over at Ecuadorian ports and placed under the control of Ecuadorian authorities. In other words, th",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/9c5b4fc7acc3e0b53f623cef.json"
+    },
+    {
+      "id": "734255a6a4c002c99cb2a197",
+      "title": "People’s Media under imperialism: Capture in Kenya- from Social-Justice Radio to the Library Broadcaster",
+      "url": "https://mronline.org/2026/10/10/peoples-media-under-imperialism-capture-in-kenya-from-social-justice-radio-to-the-library-broadcaster",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-10T15:55:21+00:00",
+      "content_excerpt": "The crisis of media freedom in Kenya is not only about journalists being prevented from speaking. The post People’s Media under imperialism: Capture in Kenya- from Social-Justice Radio to the Library Broadcaster appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/734255a6a4c002c99cb2a197.json"
+    },
+    {
+      "id": "385cd7b1071508e734677d20",
+      "title": "Norman Finkelstein’s ‘Gaza’s Gravediggers’ is a Tour de Force",
+      "url": "https://mronline.org/2026/10/10/norman-finkelsteins-gazas-gravediggers-is-a-tour-de-force",
+      "author": "Alfred de Zayas",
+      "source": "MR Online",
+      "published_at": "2026-10-10T15:55:21+00:00",
+      "content_excerpt": "There are facts without consequences, books without follow-up. The post Norman Finkelstein’s ‘Gaza’s Gravediggers’ is a Tour de Force appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/385cd7b1071508e734677d20.json"
+    },
+    {
+      "id": "3324b29cf88a7f8628789e21",
+      "title": "China’s AI rise: can jobs and education keep pace with the rise of the robots?",
+      "url": "https://mronline.org/2026/10/10/chinas-ai-rise-can-jobs-and-education-keep-pace-with-the-rise-of-the-robots",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-10T14:57:21+00:00",
+      "content_excerpt": "China is taking a bold approach to the robotic revolution. As humanoid production grows, CHEN JIAQI reports on how Beijing is expanding social safety nets and pioneering new career pathways to ensure technology uplifts rather than displaces working people. The post China’s AI rise: can jobs and education keep pace with the rise of the robots? appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/3324b29cf88a7f8628789e21.json"
+    },
+    {
+      "id": "004db0f3dc59a7659d6880a1",
+      "title": "The most recommended books on energy and ecological economics",
+      "url": "https://mronline.org/2026/10/10/the-most-recommended-books-on-energy-and-ecological-economics",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-10T14:57:21+00:00",
+      "content_excerpt": "A list of the most useful books on energy, degrowth, ecofeminism, political ecology... The post The most recommended books on energy and ecological economics appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/004db0f3dc59a7659d6880a1.json"
+    },
+    {
+      "id": "03d8d7aac6122be5a72ccb08",
+      "title": "Ten years of France insoumise: a Marxist view",
+      "url": "https://mronline.org/2026/10/10/ten-years-of-france-insoumise-a-marxist-view",
+      "author": "John Mullen",
+      "source": "MR Online",
+      "published_at": "2026-10-10T13:52:52+00:00",
+      "content_excerpt": "In February 2026, La France Insoumise (LFI), “France in Revolt”, the largest organisation of the radical left in France, will be ten years old. The post Ten years of France insoumise: a Marxist view appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/03d8d7aac6122be5a72ccb08.json"
+    },
+    {
+      "id": "149cf4a2da10a45c98846d55",
+      "title": "New York Times report on AIPAC hides a central truth about Israel’s unpopularity",
+      "url": "https://mondoweiss.net/2026/10/new-york-times-report-on-aipac-hides-a-central-truth-about-israels-unpopularity",
+      "author": "James North",
+      "source": "Mondoweiss",
+      "published_at": "2026-10-10T13:32:24+00:00",
+      "content_excerpt": "Four Times reporters, 53 paragraphs, and no mention of AIPAC’s new stealth strategy: hiding Israel and running ads on unrelated issues in primaries.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/149cf4a2da10a45c98846d55.json"
+    },
+    {
+      "id": "1e04d5073a515a02a742a901",
+      "title": "The Palestinian struggle needs a unified nation-building project",
+      "url": "https://mondoweiss.net/2026/10/the-palestinian-struggle-needs-a-unified-nation-building-project",
+      "author": "Jamal Zakkout",
+      "source": "Mondoweiss",
+      "published_at": "2026-10-10T13:32:24+00:00",
+      "content_excerpt": "Can a temporary consensus government advance Palestinian self-determination in the homeland and the diaspora?",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/1e04d5073a515a02a742a901.json"
+    },
+    {
+      "id": "bbbb8b3aa228c9e579666c7d",
+      "title": "New Yorkers demand ‘ICE Out’ after Bronx father shot in front of his five-year-old",
+      "url": "https://breakthroughnews.org/2026/10/10/new-yorkers-demand-ice-out-after-bronx-father-shot-in-front-of-his-5-year-old",
+      "author": "Devin B. Martinez",
+      "source": "BT News",
+      "published_at": "2026-10-10T05:29:10+00:00",
+      "content_excerpt": "Immigration and Customs Enforcement (ICE) agents shot seven rounds into the vehicle of a New York father while his five-year-old son was in the car on the afternoon of Thursday, October 8. Oscar Belgal, a Dominican man, who had just picked up his son from school, was hit in the neck but survived the shooting. He is currently being detained by ICE in the Metropolitan Detention Center in Brooklyn after being discharged from the hospital Thursday night. His lawyers have reported that he still has a bullet lodged in his body more than 24 hours after being shot. The Department of Homeland Security (DHS) said that they were conducting a “targeted enforcement operation,” calling Belgal a “criminal illegal alien.” Local officials describe the incident differently. In a press conference, held by im",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/bbbb8b3aa228c9e579666c7d.json"
+    },
+    {
+      "id": "bff2b1c29fa5a211535e7e37",
+      "title": "India says US visa restrictions will hurt bilateral relations",
+      "url": "https://breakthroughnews.org/2026/10/10/india-says-us-visa-restrictions-will-hurt-bilateral-relations",
+      "author": "Abdul Rahman",
+      "source": "BT News",
+      "published_at": "2026-10-10T03:27:48+00:00",
+      "content_excerpt": "India’s Ministry of External Affairs (MEA) reacted strongly to the US announcement to suspend the Permanent Labor Certification (PERM) program used by major IT companies for getting green cards for their foreign employees. Reacting to the announcement made by the US Labor Secretary in the presence of Vice President J D Vance, India’s MEA, on Friday, October 9, called it a move harmful for the “shared ambitions of both countries.” US Labor Secretary Keith Sonderling said on Thursday that his department will not accept any fresh application for PERM or process the pending applications from eight major IT companies. The companies named were Microsoft, HCL, Cognizant, Adobe, Capgemini, Tata Consultancy Services (TCS), Infosysis, and Wipro. Among these firms are some of India’s biggest IT compa",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/bff2b1c29fa5a211535e7e37.json"
+    },
     {
       "id": "b67d328df6d3352fc5afc90e",
       "title": "Midterms 2026: ‘the worst democracy money can buy’ | w/ Ben Becker",
@@ -51,261 +201,6 @@
       "priority": 2,
       "date_missing": false,
       "article_path": "articles/6652175a04c3145c4d032b77.json"
-    },
-    {
-      "id": "59a025a0b2d9bb68d0f9c52c",
-      "title": "Three years of genocide in Gaza, the Palestinian people remain steadfast",
-      "url": "https://breakthroughnews.org/2026/10/09/three-years-of-genocide-in-gaza-the-palestinian-people-remain-steadfast",
-      "author": "Aseel Saleh",
-      "source": "BT News",
-      "published_at": "2026-10-09T16:15:18+00:00",
-      "content_excerpt": "Three years after Israel launched its genocidal aggression on the Gaza strip, massacres and mass destruction continue to take place on a daily basis, despite the US-brokered ceasefire deal that was reached in October 2025. The nominal truce was preceded by two other short ceasefire agreements. The first was reached in November 2023 and lasted for only one week, while the second was sealed in mid-January 2025 and collapsed two months later. For three entire years, the world has borne witness to one of the most heinous genocides in modern history, which has resulted in the killing of at least 75,000 Palestinians, according to the latest official health reports, with women, children, and the elderly comprising 56.2% of the death toll. Meanwhile, 82% of Gaza’s structures have been destroyed. S",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/59a025a0b2d9bb68d0f9c52c.json"
-    },
-    {
-      "id": "fc435ae6e5c4dbc1925adce3",
-      "title": "“Abolish ICE”: Protests Erupt in NYC After ICE Agents Shoot Father with 5-Year-Old Son in Car",
-      "url": "https://www.democracynow.org/2026/10/9/ice_shooting_nyc",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-10-09T15:35:12+00:00",
-      "content_excerpt": "This is a rush transcript. Copy may not be in its final form. AMY GOODMAN : Well, today, Juan, we’re going to be talking about your old neighborhood uptown in Manhattan. Protests erupted in New York City on Thursday after a federal immigration agent shot and wounded a man in his vehicle in the Marble Hill neighborhood of northern Manhattan. Seven shots rang out in quick succession just after 4 p.m. on a crowded street as people walked home from work or accompanied their children home from school. Twenty-eight-year-old Oscar Belgal was struck in the neck. His 5-year-old child was in the back seat of the car. Belgal was taken to the nearby Columbia Presbyterian Allen Hospital, where hundreds of protesters gathered to demand his release, chanting ” ICE off our streets now!” and “We want justi",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/fc435ae6e5c4dbc1925adce3.json"
-    },
-    {
-      "id": "091d11b45a3e3f9fc9ca0e47",
-      "title": "Navi Pillay, South African Jurist, Wins Nobel Peace Prize in “Stinging Rebuke to Donald Trump”",
-      "url": "https://www.democracynow.org/2026/10/9/navi_pillay_2026_nobel_peace_prize",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-10-09T15:35:12+00:00",
-      "content_excerpt": "This is a rush transcript. Copy may not be in its final form. AMY GOODMAN : This is Democracy Now! , democracynow.org, The War and Peace Report . I’m Amy Goodman, with Juan González. The Norwegian Nobel Committee has announced the winner of the 2026 Nobel Peace Prize. This is the chair of the Nobel Committee speaking in Oslo this morning. JØRGEN WATNE FRYDNES : The Nobel Peace Prize for 2026 goes to a person who, with exceptional courage and integrity, has led the way towards a more comprehensive global legal order. This year’s laureate has been instrumental in ensuring that war crimes, crimes against humanity and genocide are prosecuted. The Norwegian Nobel Committee has decided to award the Nobel Peace Prize for 2026 to Navanethem “Navi” Pillay for her efforts to promote peace and intern",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/091d11b45a3e3f9fc9ca0e47.json"
-    },
-    {
-      "id": "09911ae286aa4c5073e9a79b",
-      "title": "“Entire System of Cornell University Failed Her”: Jane Doe Gang Rape Case Enrages Campus Community",
-      "url": "https://www.democracynow.org/2026/10/9/cornell_university_jane_doe",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-10-09T15:35:12+00:00",
-      "content_excerpt": "University students across the United States held a national day of action in solidarity with “Jane Doe,” the anonymous former student whose lawsuit alleging she was gang-raped by seven Cornell University Chi Phi fraternity members in 2024 has reignited outrage over how campuses and local law enforcement mishandle sexual assault cases and fail survivors. We go to Cornell’s campus in Ithaca, New York, where faculty have introduced a no-confidence resolution against the university administration. “The number one message that Cornell students have is that Jane Doe’s ordeal is the tip of the iceberg, that there have been many, many other cases where women have been sexually assaulted and raped at Cornell University, and they’re afraid of coming forward. They’re afraid of going to the authoriti",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/09911ae286aa4c5073e9a79b.json"
-    },
-    {
-      "id": "4675a748d958c96c6402bd0e",
-      "title": "Brazilian Election Exposes Geopolitical Struggle and US Interference in Latin America",
-      "url": "https://www.brasildefato.com.br/2026/10/09/brazilian-election-exposes-geopolitical-struggle-and-us-interference-in-latin-america",
-      "author": "",
-      "source": "Brasil de Fato",
-      "published_at": "2026-10-09T15:33:21+00:00",
-      "content_excerpt": "The results of the first round of Brazil’s presidential election, which sent ultra-conservative Senator Flávio Bolsonaro of the Liberal Party and incumbent President Luiz Inácio Lula da Silva of the Workers’ Party to a runoff scheduled for October 25, had immediate repercussions across Latin America. The Brazilian election, in which Flávio Bolsonaro secured 47.03% of valid votes against Lula’s 45.16%, has become the epicenter of a regional geopolitical struggle that exposes the alignment of far-right leaders with Washington’s agenda versus the progressive governments defending continental sovereignty. Leaders from Latin America’s progressive camp reacted with both caution and resolution, denouncing the risks of social regression and submission to U.S. interests. Mexican President Claudia S",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/4675a748d958c96c6402bd0e.json"
-    },
-    {
-      "id": "e506e167a89273d021a224da",
-      "title": "A brief history of Israeli ceasefire violations, from 1948 until today",
-      "url": "https://mondoweiss.net/2026/10/a-brief-history-of-israeli-ceasefire-violations-from-1948-until-today",
-      "author": "Jared Hillel",
-      "source": "Mondoweiss",
-      "published_at": "2026-10-09T14:31:48+00:00",
-      "content_excerpt": "Ahead of the one-year anniversary of the so-called ceasefire in Gaza, we look at a brief timeline of a long-established Israeli practice of sabotaging negotiations and violating ceasefire agreements to advance their goals.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/e506e167a89273d021a224da.json"
-    },
-    {
-      "id": "533e0362c8381ef161dc01cf",
-      "title": "Three years of genocide, three years of global silence",
-      "url": "https://mondoweiss.net/2026/10/three-years-of-genocide-three-years-of-global-silence",
-      "author": "Mitchell Plitnick",
-      "source": "Mondoweiss",
-      "published_at": "2026-10-09T13:29:06+00:00",
-      "content_excerpt": "The struggle for Palestinian liberation is a threat to the global world order. That's why no one is \"stopping\" Israel.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/533e0362c8381ef161dc01cf.json"
-    },
-    {
-      "id": "fd13cc71450d34140c2ef4ef",
-      "title": "Israel’s violence against Palestine survives the ceasefire: The Forty-First Newsletter (2026)",
-      "url": "https://mronline.org/2026/10/09/israels-violence-against-palestine-survives-the-ceasefire-the-forty-first-newsletter-2026",
-      "author": "Vijay Prashad",
-      "source": "MR Online",
-      "published_at": "2026-10-09T13:11:59+00:00",
-      "content_excerpt": "The assault on Palestinian existence is not confined to bombardment. The destruction of infrastructure, Israeli control over Palestinian money, and Western corporate complicity in apartheid are interconnected fronts of the same offensive. The post Israel’s violence against Palestine survives the ceasefire: The Forty-First Newsletter (2026) appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/fd13cc71450d34140c2ef4ef.json"
-    },
-    {
-      "id": "692ff85ca01af6135efeaa4c",
-      "title": "AI investments lack returns–whatever they do is hard to measure",
-      "url": "https://mronline.org/2026/10/09/ai-investments-lack-returns-whatever-they-do-is-hard-to-measure",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-09T11:04:21+00:00",
-      "content_excerpt": "The money that has been, and still gets invested in them is wasted. It can not be justified by the potential returns. The post AI investments lack returns–whatever they do is hard to measure appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/692ff85ca01af6135efeaa4c.json"
-    },
-    {
-      "id": "cfc16e8a0dde047e2a846cb0",
-      "title": "Senior U.S. prosecutor leaves case against kidnapped President Maduro and Cilia Flores",
-      "url": "https://mronline.org/2026/10/09/senior-u-s-prosecutor-leaves-case-against-kidnapped-president-maduro-and-cilia-flores",
-      "author": "Orinoco Tribune",
-      "source": "MR Online",
-      "published_at": "2026-10-09T10:04:09+00:00",
-      "content_excerpt": "According to Bloomberg Law, Manhattan U.S. Attorney Jamie McDonald informed the court that Richman’s employment ended on September 25, 2026. The post Senior U.S. prosecutor leaves case against kidnapped President Maduro and Cilia Flores appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/cfc16e8a0dde047e2a846cb0.json"
-    },
-    {
-      "id": "e905e55413eca0d4934d64c6",
-      "title": "France: State brutality and media lies fail to break students’ resolve as workers mobilise in support of the revolt",
-      "url": "https://mronline.org/2026/10/09/france-state-brutality-and-media-lies-fail-to-break-students-resolve-as-workers-mobilise-in-support-of-the-revolt",
-      "author": "John Mullen",
-      "source": "MR Online",
-      "published_at": "2026-10-09T10:04:09+00:00",
-      "content_excerpt": "Despite the barbarous attempts at repressing the student protests, more than a quarter of a million students continue to protest on the streets and from the barricades. Paris resident, John Mullen, reports on the explosion of widespread anger that has swept the country. The post France: State brutality and media lies fail to break students’ resolve as workers mobilise in support of the revolt appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/e905e55413eca0d4934d64c6.json"
-    },
-    {
-      "id": "8a715fed462d8c3f393b1739",
-      "title": "The Levy Institute mourns the passing of Anwar Shaikh",
-      "url": "https://mronline.org/2026/10/09/the-levy-institute-mourns-the-passing-of-anwar-shaikh",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-09T09:04:16+00:00",
-      "content_excerpt": "The Levy Institute mourns the passing of Anwar Shaikh, an outstanding scholar, teacher, and mentor to a generation of socially committed economists, including several current and former Levy Institute scholars. On this solemn occasion of deep loss, we extend our condolences to his family, friends, and loved ones. The post The Levy Institute mourns the passing of Anwar Shaikh appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/8a715fed462d8c3f393b1739.json"
-    },
-    {
-      "id": "bc5b57dd3d3f6f2edd04f530",
-      "title": "Iran & Yemen’s maritime trap: how they control global trade",
-      "url": "https://breakthroughnews.org/2026/10/08/iran-yemens-maritime-trap-how-they-control-global-trade",
-      "author": "Rania Khalek",
-      "source": "BT News",
-      "published_at": "2026-10-08T23:10:38+00:00",
-      "content_excerpt": "Saudi Arabia has $142 billion in American weapons. Yemen is the poorest country in the Arab world. So why can’t Riyadh win? Last month, Ansar Allah seized Mokha and Perim Island, and with them the Bab el-Mandeb Strait, cutting off Saudi Arabia’s alternative oil route around the closed Strait of Hormuz. Mohammed bin Salman begged Trump for US airstrikes, then backed “Dawn of Yemen,” a 100-warplane offensive aimed at Sanaa, as crude oil again tops $100 a barrel. Veteran war correspondent and analyst Elijah Magnier joins Rania Khalek and Zoe Alexandra on the Red Sea front, as nearly 1,000 Yemenis have been killed and 184,000 displaced since fighting resumed. But Magnier argues Ansar Allah – often referred to in US media as the Houthis – hasn’t lost much ground. He explains why Saudi warplanes",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/bc5b57dd3d3f6f2edd04f530.json"
-    },
-    {
-      "id": "4fb3ab8b407591b62dc849dd",
-      "title": "Gen Z vs. Macron: France’s student rebellion explodes",
-      "url": "https://breakthroughnews.org/2026/10/08/gen-z-vs-macron-frances-student-rebellion-explodes",
-      "author": "Zoe Alexandra",
-      "source": "BT News",
-      "published_at": "2026-10-08T23:10:38+00:00",
-      "content_excerpt": "French students shut down 1,800 schools and brought more than 450,000 people to the streets Tuesday, as the nationwide youth revolt grows against Macron austerity. Danièle Obono, La France Insoumise MP in the French National Assembly, joins Zoe Alexandra and Rania Khalek to unpack how one protest in Saint-Denis over teacher shortages and overcrowded classrooms has transformed into a movement that’s shaking Paris to its core. Obono lays out a decade of neoliberal attacks on public education under Macron’s austerity agenda, and explains why the viral video of Saint-Denis Mayor Bally Bagayoko shielding students from riot police has transformed him into a symbol of solidarity for young and working-class people across France. And she responds to Trump’s claims that immigrants and Islam are behi",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/4fb3ab8b407591b62dc849dd.json"
-    },
-    {
-      "id": "ca3aeb8f171af48fa44b548f",
-      "title": "One Palestinian killed, dozens injured during Israeli settler attacks on West Bank olive harvest",
-      "url": "https://mondoweiss.net/2026/10/one-palestinian-killed-dozens-injured-during-israeli-settler-attacks-on-west-bank-olive-harvest",
-      "author": "Qassam Muaddi",
-      "source": "Mondoweiss",
-      "published_at": "2026-10-08T23:02:29+00:00",
-      "content_excerpt": "Settler attacks in the West Bank are ongoing with the enthusiastic approval of the Israeli army, as Palestinians are barred from accessing their own land, and their olive groves, for the fourth year in a row.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/ca3aeb8f171af48fa44b548f.json"
-    },
-    {
-      "id": "91932d0f7ee2b099028d8301",
-      "title": "La marea furiosa en Brasil y las luchas que se avecinan",
-      "url": "https://breakthroughnews.org/2026/10/08/la-marea-furiosa-en-brasil-y-las-luchas-que-se-avecinan",
-      "author": "Vijay Prashad",
-      "source": "BT News",
-      "published_at": "2026-10-08T22:11:14+00:00",
-      "content_excerpt": "Read in English here Las elecciones generales de Brasil del 4 de octubre representaron una severa advertencia para la izquierda. Flávio Bolsonaro, el candidato presidencial del Partido Liberal (PL), superó al presidente Luiz Inácio Lula da Silva, con aproximadamente un 47% frente a un 45%. Ninguno de los dos obtuvo la mayoría, lo que los llevará a una segunda vuelta el 25 de octubre. Más preocupante que este estrecho margen presidencial fue el avance del bolsonarismo en el Congreso. Las elecciones han fortalecido un movimiento político cuyas ambiciones van más allá de derrotar a Lula para llegar a remodelar las instituciones que obstaculizan su ejercicio del poder. El encarcelamiento (arresto domiciliario) y la exclusión electoral de Jair Bolsonaro no han disuelto su movimiento. Su hijo Fl",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/91932d0f7ee2b099028d8301.json"
-    },
-    {
-      "id": "11271b16aaf2918f47211055",
-      "title": "Voters or capital: Who rules Berlin?",
-      "url": "https://breakthroughnews.org/2026/10/08/voters-or-capital-who-rules-berlin",
-      "author": "Peter Mertens",
-      "source": "BT News",
-      "published_at": "2026-10-08T20:09:53+00:00",
-      "content_excerpt": "On September 20, 2026, Die Linke achieved a historic result. With 25.7% of the vote, the party became the largest in the Berlin parliament for the first time. The traditional parties of power (the CDU, the SPD, and the Greens) are left standing. A left-wing government with Elif Eralp as governing mayor is, in theory, within reach. The reason for this success is no mystery. It is substance. During the campaign, thousands of Die Linke volunteers went out into the neighborhoods. Door to door. Building to building. Up one stairwell, down the next. They came not with shiny brochures, but with one fundamental question: what keeps people awake at night? For hundreds of thousands of Berliners, the answer is painfully clear: rent. The envelope that lands on the doormat every month. The knowledge th",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/11271b16aaf2918f47211055.json"
     }
   ]
 }
