@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-10-10T22:49:35.923987+00:00",
-  "generated_at_jst": "2026-10-11T07:49:35.923987+09:00",
-  "period_start": "2026-10-09T16:49:35.923987+00:00",
+  "generated_at": "2026-10-11T23:04:18.030233+00:00",
+  "generated_at_jst": "2026-10-12T08:04:18.030233+09:00",
+  "period_start": "2026-10-10T17:04:18.030233+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
-  "article_count": 13,
+  "article_count": 2,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "88862a4443ef582c8052c364",
+      "title": "‘Citizen Osama’ turns life under bombardment into urgent, intimate cinema",
+      "url": "https://mondoweiss.net/2026/10/citizen-osama-turns-life-under-bombardment-into-urgent-intimate-cinema",
+      "author": "Davide Abbatescianni",
+      "source": "Mondoweiss",
+      "published_at": "2026-10-11T13:10:09+00:00",
+      "content_excerpt": "As NAZA draws global attention to the Gaza genocide from the perspective of Israeli génocidaires, a lesser-known Palestinian documentary looks through the camera of a Palestinian journalist trying to document devastation while keeping his family safe.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/88862a4443ef582c8052c364.json"
+    },
     {
       "id": "9c5b4fc7acc3e0b53f623cef",
       "title": "Ecuadorian fishermen who were kidnapped by the US military have been acquitted",
@@ -21,186 +36,6 @@
       "priority": 2,
       "date_missing": false,
       "article_path": "articles/9c5b4fc7acc3e0b53f623cef.json"
-    },
-    {
-      "id": "734255a6a4c002c99cb2a197",
-      "title": "People’s Media under imperialism: Capture in Kenya- from Social-Justice Radio to the Library Broadcaster",
-      "url": "https://mronline.org/2026/10/10/peoples-media-under-imperialism-capture-in-kenya-from-social-justice-radio-to-the-library-broadcaster",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-10T15:55:21+00:00",
-      "content_excerpt": "The crisis of media freedom in Kenya is not only about journalists being prevented from speaking. The post People’s Media under imperialism: Capture in Kenya- from Social-Justice Radio to the Library Broadcaster appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/734255a6a4c002c99cb2a197.json"
-    },
-    {
-      "id": "385cd7b1071508e734677d20",
-      "title": "Norman Finkelstein’s ‘Gaza’s Gravediggers’ is a Tour de Force",
-      "url": "https://mronline.org/2026/10/10/norman-finkelsteins-gazas-gravediggers-is-a-tour-de-force",
-      "author": "Alfred de Zayas",
-      "source": "MR Online",
-      "published_at": "2026-10-10T15:55:21+00:00",
-      "content_excerpt": "There are facts without consequences, books without follow-up. The post Norman Finkelstein’s ‘Gaza’s Gravediggers’ is a Tour de Force appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/385cd7b1071508e734677d20.json"
-    },
-    {
-      "id": "3324b29cf88a7f8628789e21",
-      "title": "China’s AI rise: can jobs and education keep pace with the rise of the robots?",
-      "url": "https://mronline.org/2026/10/10/chinas-ai-rise-can-jobs-and-education-keep-pace-with-the-rise-of-the-robots",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-10T14:57:21+00:00",
-      "content_excerpt": "China is taking a bold approach to the robotic revolution. As humanoid production grows, CHEN JIAQI reports on how Beijing is expanding social safety nets and pioneering new career pathways to ensure technology uplifts rather than displaces working people. The post China’s AI rise: can jobs and education keep pace with the rise of the robots? appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/3324b29cf88a7f8628789e21.json"
-    },
-    {
-      "id": "004db0f3dc59a7659d6880a1",
-      "title": "The most recommended books on energy and ecological economics",
-      "url": "https://mronline.org/2026/10/10/the-most-recommended-books-on-energy-and-ecological-economics",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-10T14:57:21+00:00",
-      "content_excerpt": "A list of the most useful books on energy, degrowth, ecofeminism, political ecology... The post The most recommended books on energy and ecological economics appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/004db0f3dc59a7659d6880a1.json"
-    },
-    {
-      "id": "03d8d7aac6122be5a72ccb08",
-      "title": "Ten years of France insoumise: a Marxist view",
-      "url": "https://mronline.org/2026/10/10/ten-years-of-france-insoumise-a-marxist-view",
-      "author": "John Mullen",
-      "source": "MR Online",
-      "published_at": "2026-10-10T13:52:52+00:00",
-      "content_excerpt": "In February 2026, La France Insoumise (LFI), “France in Revolt”, the largest organisation of the radical left in France, will be ten years old. The post Ten years of France insoumise: a Marxist view appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/03d8d7aac6122be5a72ccb08.json"
-    },
-    {
-      "id": "149cf4a2da10a45c98846d55",
-      "title": "New York Times report on AIPAC hides a central truth about Israel’s unpopularity",
-      "url": "https://mondoweiss.net/2026/10/new-york-times-report-on-aipac-hides-a-central-truth-about-israels-unpopularity",
-      "author": "James North",
-      "source": "Mondoweiss",
-      "published_at": "2026-10-10T13:32:24+00:00",
-      "content_excerpt": "Four Times reporters, 53 paragraphs, and no mention of AIPAC’s new stealth strategy: hiding Israel and running ads on unrelated issues in primaries.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/149cf4a2da10a45c98846d55.json"
-    },
-    {
-      "id": "1e04d5073a515a02a742a901",
-      "title": "The Palestinian struggle needs a unified nation-building project",
-      "url": "https://mondoweiss.net/2026/10/the-palestinian-struggle-needs-a-unified-nation-building-project",
-      "author": "Jamal Zakkout",
-      "source": "Mondoweiss",
-      "published_at": "2026-10-10T13:32:24+00:00",
-      "content_excerpt": "Can a temporary consensus government advance Palestinian self-determination in the homeland and the diaspora?",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/1e04d5073a515a02a742a901.json"
-    },
-    {
-      "id": "bbbb8b3aa228c9e579666c7d",
-      "title": "New Yorkers demand ‘ICE Out’ after Bronx father shot in front of his five-year-old",
-      "url": "https://breakthroughnews.org/2026/10/10/new-yorkers-demand-ice-out-after-bronx-father-shot-in-front-of-his-5-year-old",
-      "author": "Devin B. Martinez",
-      "source": "BT News",
-      "published_at": "2026-10-10T05:29:10+00:00",
-      "content_excerpt": "Immigration and Customs Enforcement (ICE) agents shot seven rounds into the vehicle of a New York father while his five-year-old son was in the car on the afternoon of Thursday, October 8. Oscar Belgal, a Dominican man, who had just picked up his son from school, was hit in the neck but survived the shooting. He is currently being detained by ICE in the Metropolitan Detention Center in Brooklyn after being discharged from the hospital Thursday night. His lawyers have reported that he still has a bullet lodged in his body more than 24 hours after being shot. The Department of Homeland Security (DHS) said that they were conducting a “targeted enforcement operation,” calling Belgal a “criminal illegal alien.” Local officials describe the incident differently. In a press conference, held by im",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/bbbb8b3aa228c9e579666c7d.json"
-    },
-    {
-      "id": "bff2b1c29fa5a211535e7e37",
-      "title": "India says US visa restrictions will hurt bilateral relations",
-      "url": "https://breakthroughnews.org/2026/10/10/india-says-us-visa-restrictions-will-hurt-bilateral-relations",
-      "author": "Abdul Rahman",
-      "source": "BT News",
-      "published_at": "2026-10-10T03:27:48+00:00",
-      "content_excerpt": "India’s Ministry of External Affairs (MEA) reacted strongly to the US announcement to suspend the Permanent Labor Certification (PERM) program used by major IT companies for getting green cards for their foreign employees. Reacting to the announcement made by the US Labor Secretary in the presence of Vice President J D Vance, India’s MEA, on Friday, October 9, called it a move harmful for the “shared ambitions of both countries.” US Labor Secretary Keith Sonderling said on Thursday that his department will not accept any fresh application for PERM or process the pending applications from eight major IT companies. The companies named were Microsoft, HCL, Cognizant, Adobe, Capgemini, Tata Consultancy Services (TCS), Infosysis, and Wipro. Among these firms are some of India’s biggest IT compa",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/bff2b1c29fa5a211535e7e37.json"
-    },
-    {
-      "id": "b67d328df6d3352fc5afc90e",
-      "title": "Midterms 2026: ‘the worst democracy money can buy’ | w/ Ben Becker",
-      "url": "https://breakthroughnews.org/2026/10/09/midterms-2026-the-worst-democracy-money-can-buy-w-ben-becker",
-      "author": "Zoe Alexandra",
-      "source": "BT News",
-      "published_at": "2026-10-09T21:16:15+00:00",
-      "content_excerpt": "ICE is funded through 2029, the Pentagon budget is at record highs – and plenty of Democrats voted for both. So what does winning Congress actually change? With an ad spend set to hit $11.6 billion and record dark money pouring into the 2026 midterms, BreakThrough News editor-in-chief Ben Becker joins Zoe Alexandra and Rania Khalek to break down what’s really at stake on November 3. He lays out how billionaires and untraceable super PACs are buying the election, the threat of Trump deploying ICE at the polls, and why a likely Democratic majority is unlikely to claw back DHS funding or end Trump’s war on Iran – recalling how Democrats failed to pass comprehensive immigration reform or universal childcare the last time they held power. And with self-proclaimed socialists like Zohran Mamdani ",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/b67d328df6d3352fc5afc90e.json"
-    },
-    {
-      "id": "1795f71cd6fe70cc8f709c81",
-      "title": "No Redemption for Genocide: PYM on the road ahead",
-      "url": "https://mondoweiss.net/2026/10/no-redemption-for-genocide-pym-on-the-road-ahead",
-      "author": "Palestinian Youth Movement",
-      "source": "Mondoweiss",
-      "published_at": "2026-10-09T19:28:21+00:00",
-      "content_excerpt": "After three years of genocide, two decades of a criminal siege, and a century of occupation, we must confront Zionism from all directions until Palestine is free.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/1795f71cd6fe70cc8f709c81.json"
-    },
-    {
-      "id": "6652175a04c3145c4d032b77",
-      "title": "MAGA Congress escalates against BT, threatens reporters and editorial staff",
-      "url": "https://breakthroughnews.org/2026/10/09/maga-congress-escalates-against-bt-threatens-reporters-and-editorial-staff",
-      "author": "BreakThrough News",
-      "source": "BT News",
-      "published_at": "2026-10-09T19:15:34+00:00",
-      "content_excerpt": "For months, MAGA Republicans in the House Ways and Means Committee have been targeting BreakThrough News for our editorial judgment and viewpoints they don’t like. The Committee is abusing their powers in a blatant attempt to shut us down. Now, they’ve taken things to another level. We just received a new letter from Committee Chairman Jason Smith (R-MO). The letter lists the names of our reporters and editors and threatens to individually subpoena each of them to a deposition in Washington if we don’t yield our legal rights, including First Amendment privileges. The letter makes clear that this is a punishment for resisting their previous unconstitutional demands on our organization. In July, they subpoenaed our communications and records, smeared us in the press, and threatened our non-p",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/6652175a04c3145c4d032b77.json"
     }
   ]
 }

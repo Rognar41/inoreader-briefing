@@ -1,12 +1,177 @@
 {
-  "generated_at": "2026-10-10T22:49:35.923987+00:00",
-  "generated_at_jst": "2026-10-11T07:49:35.923987+09:00",
-  "period_start": "2026-10-09T16:49:35.923987+00:00",
+  "generated_at": "2026-10-11T23:04:18.030233+00:00",
+  "generated_at_jst": "2026-10-12T08:04:18.030233+09:00",
+  "period_start": "2026-10-10T17:04:18.030233+00:00",
   "lookback_hours": 30,
   "folder": "00_毎日確認",
   "article_count": 20,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "9a0d97028ef8e37495f9aa89",
+      "title": "Vermont Socialist: October 2026",
+      "url": "https://greenmountaindsa.org/blog/vermont-socialist-october-2026",
+      "author": "Green Mountain DSA",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-10-11T20:58:22+00:00",
+      "content_excerpt": "SUNDAY NOVEMBER 15: GREEN MOUNTAIN DSA ANNUAL CONVENTION Green Mountain DSA’s annual convention will take place on Sunday November 15th at the Socialist Labor Party Hall ( 46 Granite St ) in Barre, VT. The convention will run from ~11:00 AM until the late afternoon. You can participate in-person or virtually. More details to follow. For planning purposes, please register in advance here: https://greenmountaindsa.solidarity.tech/green-mountain-dsa-annual-convention Submit resolutions or bylaws amendments here BEFORE NOVEMBER 1st: https://forms.gle/J7h8XDZHCyTTsbGk8 Make nominations for chapter officers and committee chairs here: https://forms.gle/mJYoXD4qtGku47he9 The convention bulletin will be published in early November. AG CLARK MUST DROP THE CHARGES; GMDSA STANDS WITH WILLISTON PROTEST",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/9a0d97028ef8e37495f9aa89.json"
+    },
+    {
+      "id": "24cbf16167317608588e85a1",
+      "title": "COINTELPRO: The FBI's Secret War on Black Liberation—and the Injustice That Never Ended",
+      "url": "https://www.laprogressive.com/civil-liberties-and-civil-rights/cointelpro-fbi-black-panthers-surveillance",
+      "author": "Sharon Kyle",
+      "source": "LA Progressive",
+      "published_at": "2026-10-11T19:39:23+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. In 1971, eight ordinary Americans did something extraordinary. They broke into an FBI office in Media, Pennsylvania, and stole government documents exposing a secret campaign against American citizens exercising their constitutional rights. Their actions helped expose what would become one of the most notorious domestic intelligence scandals in American history: COINTELPRO, the FBI's Counterintelligence Program. But exposing government wrongdoing and obtaining justice for its victims are two entirely different things. More than four decades later, I moderated a discussion at Occidental College that brought together people who had exposed the FBI's secret operations and Blac",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/24cbf16167317608588e85a1.json"
+    },
+    {
+      "id": "adc3053faac2b7a9686e3dad",
+      "title": "Authoritarians Fear Education",
+      "url": "https://www.laprogressive.com/education-reform/authoritarians-fear-education",
+      "author": "Peter McLaren",
+      "source": "LA Progressive",
+      "published_at": "2026-10-11T16:56:43+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. The Kural is an Indian progressive digital platform and publication that recently published a comprehensive, three-part interview with Peter McLaren, a renowned Canadian-American scholar and a leading architect of critical pedagogy. Conducted by doctoral researcher Naila Alavi, the feature interview—headlined \"Who Gets to Imagine the Future?\"—delves into the current state of education and social theory. Foreword Naila Alavi I first encountered Peter McLaren in the first semester of my master’s, not in person, of course, but in the way one first encounters many of the people who eventually become important to one’s intellectual life. I met him on a reading list. At the time,",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/adc3053faac2b7a9686e3dad.json"
+    },
+    {
+      "id": "9b0d86550c6ca877380e08e7",
+      "title": "Trump Is Losing Latino Voters",
+      "url": "https://www.laprogressive.com/election-and-campaigns/trump-is-losing-latino-voters",
+      "author": "Ray Suarez",
+      "source": "LA Progressive",
+      "published_at": "2026-10-11T16:36:39+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. An estimated 36 million Latino adults are eligible to vote in the upcoming midterm elections. In the 2024 election, Democrats were shocked to see those voters, especially men, choose Donald Trump by the highest margins Latino voters had given a Republican in decades (Trump won an outright majority of Latino men, but Kamala Harris still edged him in Latino women). As Nov. 3 draws near, those same voters are once again an object of bipartisan fascination, speculation and organizing. “The old days of, you know, 75-25 split with Hispanics, Latinos to the Democrats? Those days are gone,” said Mike Madrid, former longtime Republican political strategist and campaign manager who i",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/9b0d86550c6ca877380e08e7.json"
+    },
+    {
+      "id": "0834a15399aa8a18b42942d5",
+      "title": "Ordinary People Build Movements",
+      "url": "https://www.laprogressive.com/progressive-issues/ordinary-people-build-movements",
+      "author": "Alexandria Shaner, Paul Rogat Loeb",
+      "source": "LA Progressive",
+      "published_at": "2026-10-11T16:03:52+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. We are living through a period when many people who care about justice and democracy are exhausted, frightened, or unsure what their actions can accomplish. Paul Loeb’s The Impossible Will Take a Little While: Perseverance and Hope in Troubled Times , originally published two decades ago and substantially revised for a new edition, begins with a question that is especially difficult in such a moment: how do people keep acting when they have no guarantee that their efforts will succeed? The book brings together more than seventy voices and stories, from the struggle against apartheid and resistance to fascism and dictatorship to the 2024 South Korean resistance to martial la",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/0834a15399aa8a18b42942d5.json"
+    },
+    {
+      "id": "9a19f066ca750dc9647a79be",
+      "title": "Agenda for a Democratic Congress",
+      "url": "https://www.laprogressive.com/election-and-campaigns/agenda-for-a-democratic-congress",
+      "author": "John Peeler",
+      "source": "LA Progressive",
+      "published_at": "2026-10-11T15:02:16+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. When Democratic majorities take office in January (if indeed Trump doesn’t find a way to stop them from claiming the fruits of victory), the country will be prostrate. The damage will take years to repair. But next year’s Democratic Congress must make the case that the Democrats deserve a chance to govern. Investigate, surely, but also legislate. Trump will veto any law they enact. But only by forcefully laying out their policies can they make the case for a Democratic President in 2028. The first priority must be to abolish Immigrations and Customs Enforcement and the dismiss the thousands of hastily recruited and poorly trained agents that have terrorized communities acro",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/9a19f066ca750dc9647a79be.json"
+    },
+    {
+      "id": "493e8efb0f6bf6e5327aac67",
+      "title": "Floors Are Asking for Some Extra Attention",
+      "url": "https://www.laprogressive.com/sponsored/floors-are-asking-for-some-extra-attention",
+      "author": "Britta Hedlund",
+      "source": "LA Progressive",
+      "published_at": "2026-10-11T14:56:27+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Soft flooring makes a house feel like home. It's where kids play, pets nap, and families gather on movie nights. But every day, it quietly absorbs footsteps, spills, pet hair, pollen, and whatever gets tracked in from outside. Even if you vacuum regularly, some of that buildup sinks deep where your vacuum can't reach. For homeowners in coastal Georgia, the challenge is even bigger. Savannah's humidity, frequent rain, heavy spring pollen, and sandy soil all take a toll on the soft surfaces inside our homes. Knowing what to watch for can help you protect your floors, keep them looking their best, and avoid early replacement. Here are ten signs it may be time to give your carp",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/493e8efb0f6bf6e5327aac67.json"
+    },
+    {
+      "id": "149f811d399763f55ec74559",
+      "title": "Chasing a Quick Fix",
+      "url": "https://www.laprogressive.com/sponsored/chasing-a-quick-fix",
+      "author": "Tiqua Jackson",
+      "source": "LA Progressive",
+      "published_at": "2026-10-11T14:56:27+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Somewhere in our forties or fifties, many of us start noticing changes. Energy dips earlier in the day. Sleep isn't as restful. Workouts take longer to recover from, the waistline creeps outward, and mood or libido may not be what it used to be. It's natural to wonder whether something specific is behind it, and whether there's a treatment that could help. Hormonal changes are one possible explanation, and hormone therapy is an option some adults explore. But feeling \"off\" can have many causes, and the best results usually come from taking a careful, informed approach rather than reaching for the first promise of renewed youth. This article walks through what to consider be",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/149f811d399763f55ec74559.json"
+    },
+    {
+      "id": "05867d1811e5ab8902f7b508",
+      "title": "The Strange Resurrection of Lonesome Dove",
+      "url": "https://jacobin.com/2026/10/lonesome-dove-reading-novels-men",
+      "author": "Ross Barkan",
+      "source": "Jacobin",
+      "published_at": "2026-10-11T13:20:59+00:00",
+      "content_excerpt": "On TikTok, there are dozens and dozens of videos of men and women, many of them young, staring into the camera to talk earnestly about an eight-hundred-page novel that was published forty-one years ago. “I didn’t see the western phase of my life coming, but I’m glad we’re here,” one woman says . “I want to talk about Lonesome Dove . . . . ” And this is what they do. They rhapsodize over characters who “feel like they are a part of your life.” They celebrate the “absolute journey” and the “incredible” prose. “I’ve tried to find a better book than Lonesome Dove and I’ve failed miserably, many times,” a twenty-year-old British man declares . What makes this all the more remarkable is that the novel’s author, Larry McMurtry, died more than five years ago and isn’t terribly famous. McMurtry, in",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/05867d1811e5ab8902f7b508.json"
+    },
+    {
+      "id": "4877211191cc6079d1586446",
+      "title": "How Much Liberty Should We Limit?",
+      "url": "https://jacobin.com/2026/10/philosophy-liberty-society-law-well-being",
+      "author": "Sarah Conly",
+      "source": "Jacobin",
+      "published_at": "2026-10-11T13:20:59+00:00",
+      "content_excerpt": "In the political culture of the United States, individual liberty is frequently thought of as possessing intrinsic and overriding importance. The political right and the political left in the United States have long competed to be seen as the true champions of individual freedom, and each has tried to advance its own goals under the banner of liberty. For the Right in recent decades, individual liberty has often meant the right of corporations and the wealthy to do whatever they want with their property, unconstrained by government regulation or obligations to pay taxes or collectively bargain with their workers. The Left, at its best, has stood up against state as well as employer tyranny and for the kind of economic security that enables people to live truly autonomous lives. These quest",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/4877211191cc6079d1586446.json"
+    },
+    {
+      "id": "1ff7b1d84cfd360053a75467",
+      "title": "La France Insoumise Won’t Cede God to the Far Right",
+      "url": "https://jacobin.com/2026/10/france-insoumise-pope-catholicism-bagayoko-melenchon",
+      "author": "Phineas Rueckert",
+      "source": "Jacobin",
+      "published_at": "2026-10-11T13:20:59+00:00",
+      "content_excerpt": "In the video , a lanky, crisply-dressed Muslim man of Malian descent walks through a cathedral to the heady sounds of organ music. Several seconds later, he is pictured shaking hands with the most important figure in the Catholic Church: Pope Leo XIV. Off camera, the two exchange gifts and a few words. Later, on French public television , Bally Bagayoko — the mayor of Saint-Denis and a member of Jean-Luc Mélenchon’s left-wing France Insoumise party — spoke of how, despite being of the Muslim faith, he shares many parts of his worldview with the pontiff. Last Friday evening, Leo had come to Saint-Denis, just north of Paris, for a prayer event for young people at the Stade de France football stadium. Bagayoko, who swept into office in this March’s municipal elections, used the opportunity to",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/1ff7b1d84cfd360053a75467.json"
+    },
     {
       "id": "39b0a88970e7a8689ce9acb5",
       "title": "Candlelight Service",
@@ -141,171 +306,6 @@
       "priority": 1,
       "date_missing": false,
       "article_path": "articles/7ec2c0e38b2f5ef72b00d212.json"
-    },
-    {
-      "id": "b04344bad07ccc7636d92bc6",
-      "title": "Precision Fabrication",
-      "url": "https://www.laprogressive.com/sponsored/precision-fabrication",
-      "author": "Tiqua Jackson",
-      "source": "LA Progressive",
-      "published_at": "2026-10-10T20:22:10+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. A lot of people picture fabrication as someone cutting and welding metal to a drawing. That’s part of it, but the process involves several distinct stages before a single cut is ever made, and skipping or rushing any of them shows up in the finished product later. Interpreting the Design Intent A drawing communicates dimensions and tolerances. However, it doesn’t always capture the functional purpose behind a specific design choice. Understanding why a particular tolerance was specified changes how a fabricator approaches the manufacturing process. Austedan Fabrications and similar operations working on custom or complex jobs need to engage with this intent early, sometimes",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/b04344bad07ccc7636d92bc6.json"
-    },
-    {
-      "id": "4c67316b42b9a507e5463fef",
-      "title": "Seedance 3.0",
-      "url": "https://www.laprogressive.com/sponsored/a-community-repair-day-seen-through-seedance-3-0-",
-      "author": "Britta Hedlund",
-      "source": "LA Progressive",
-      "published_at": "2026-10-10T19:43:26+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. A loose wheel on a small wooden toy could be the first thing we see. Beside it sits a mug with a chipped handle and a jacket missing a button. I would open a community repair day invitation with those ordinary objects, because they make the idea understandable before a date or venue appears. Someone has something they would rather mend than discard. This is a proposed video concept for a fictional neighborhood event, not a report of an existing program. My aim would be to show what arriving might feel like: a welcoming table, a patient conversation, and a useful object receiving attention. Seedance 3.0 could help develop illustrative scenes from a written brief and suitable",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/4c67316b42b9a507e5463fef.json"
-    },
-    {
-      "id": "a02505f34192801f91323c59",
-      "title": "How Delivery Is Filling the Gap",
-      "url": "https://www.laprogressive.com/sponsored/how-delivery-is-filling-the-gap",
-      "author": "Tiqua Jackson",
-      "source": "LA Progressive",
-      "published_at": "2026-10-10T19:43:26+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. California legalized recreational cannabis in 2016. Six years later, most cities in the state still have no licensed place to buy it. That is not a rumor or an exaggeration. The California Department of Cannabis Control confirmed in early 2026 that 57% of California's municipalities, more than half, have banned cannabis retail within their borders. No dispensaries. No storefronts. No legal point of sale for the adults who live there. For a state that built its identity around cannabis reform, this is a significant gap. It has real consequences for consumers, public health, and the legal market's ability to compete with the underground one. Why So Many Cities Said No Proposi",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/a02505f34192801f91323c59.json"
-    },
-    {
-      "id": "9ccb5d146e0d5537412dda10",
-      "title": "Teens and Nukes",
-      "url": "https://www.laprogressive.com/war-and-peace/teens-and-nukes",
-      "author": "Mark Bird",
-      "source": "LA Progressive",
-      "published_at": "2026-10-10T18:25:17+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Many high school teens are much smarter than their parents or grandparents think. They can reason that President Trump has repeatedly stated Iran cannot have one nuclear weapon, yet he has apparently done nothing to reduce or eliminate the dozens held by North Korea, the hundreds by China, or the thousands by Russia. When Trump announced plans for a 44% increase in the DoD/DoW budget for 2027, some teens likely thought there should be a 44% decrease. The 44% increase is a proposed miliary budget of $1.5 trillion. Since they passed 4 th grade math, teens can calculate that $1.5 trillion amounts to $4,348 per American [[1.5 trillion divided by 345 million Americans]] or over ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/9ccb5d146e0d5537412dda10.json"
-    },
-    {
-      "id": "719d9d0975d1c60d67a69627",
-      "title": "Books or Bombs",
-      "url": "https://www.laprogressive.com/education-reform/books-or-bombs",
-      "author": "Medea Benjamin",
-      "source": "LA Progressive",
-      "published_at": "2026-10-10T17:53:33+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. For the third week in a row, high school students across France are taking to the streets demanding more investment in their education. They want more teachers, smaller classes, decent school buildings and a public education system that works for poor and working-class students. But their struggle comes at a moment when France faces mounting pressure to cut public spending while dramatically increasing its military budget. The question at the heart of this uprising goes far beyond education: Will France invest in its young people—or in missiles, weapons and war? Books or bombs? What began in the Paris suburbs has spread to more than a thousand schools. On October 6, more th",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/719d9d0975d1c60d67a69627.json"
-    },
-    {
-      "id": "6213b3f8e6aef6ee228ac0c5",
-      "title": "The War in Ukraine Is Spiraling Out of Control",
-      "url": "https://jacobin.com/2026/10/russia-ukraine-war-eu-nato-escalation",
-      "author": "Branko Marcetic",
-      "source": "Jacobin",
-      "published_at": "2026-10-10T17:31:57+00:00",
-      "content_excerpt": "War is in the air in Europe. Over the four years and counting that it’s raged, the Ukraine war has often been compared to the two world wars, being the largest land war the continent’s seen since the second of those and having surpassed the length of the first this past June. But unlike those disastrous conflicts, the fighting in Ukraine has not become a true continent-wide affair that’s dragged the rest of Europe’s powers into the fray — so far. It is becoming alarmingly uncertain how much longer that will hold. For nearly five years, both Russia and European North Atlantic Treaty Organization (NATO) states have been at pains to avoid being pulled into direct war with each other. But as Ukraine’s war effort falters, there are mounting signs of the conflict spiraling into generalized warfa",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/6213b3f8e6aef6ee228ac0c5.json"
-    },
-    {
-      "id": "100edccb8a1052b57ac190b7",
-      "title": "What Marx and Fanon Teach Us",
-      "url": "https://www.laprogressive.com/progressive-issues/what-marx-and-fanon-teach-us",
-      "author": "Dick Price, Sharon Kyle, Kevin Anderson",
-      "source": "LA Progressive",
-      "published_at": "2026-10-10T17:20:50+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Can economic inequality be eliminated without confronting racism, patriarchy, and colonial domination? And can political revolutions produce genuine freedom if they merely replace one ruling elite with another? These questions animated an intellectually ambitious panel at the 2026 Left Coast Forum, held October 2–4 at California State University, Los Angeles. Titled \"From Marx to Fanon: Class, Capital, Race, Gender, and Colonialism,\" the discussion brought together Kevin B. Anderson, professor of sociology, political science, and feminist studies at UC Santa Barbara; socialist feminist writer Rocio Lopez; and historian and political theorist Lyndon Porter. Their presentatio",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/100edccb8a1052b57ac190b7.json"
-    },
-    {
-      "id": "a9d651ae8fe4add905f4e244",
-      "title": "3 years on from Al Aqsa Flood: Solidarity with Resistance Demands Challenging Imperialism in All its Forms — The Black Alliance for Peace",
-      "url": "https://blackallianceforpeace.com/bapstatements/2026/10/10/3-years-on-from-al-aqsa-flood-solidarity-with-resistance-demands-challenging-imperialism-in-all-its-forms",
-      "author": "",
-      "source": "The Black Alliance for Peace",
-      "published_at": "2026-10-10T16:45:46+00:00",
-      "content_excerpt": "Oct 10, 2026 – Today, organizations and people of conscience take to the streets for the “March for Palestine: For the Living, the Martyrs, and the Land,” called by Palestinian Youth Movement. Three years after Al Aqsa Flood and active genocide in Gaza, we understand the continued struggle to Free Palestine from zionist occupation and oppression is inseparable from the broader fight against global systems of oppression. What we have witnessed in Gaza is a vivid expression of a worldwide structure of white supremacist and imperialist domination that relies on unrestrained state and settler terror to extract value from colonized and oppressed peoples, working classes, and nations. From the Israeli Occupation Forces (IOF) in Gaza to imperialist mercenaries on the African continent to to the m",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/a9d651ae8fe4add905f4e244.json"
-    },
-    {
-      "id": "29a6789ff033bce0f931ddaa",
-      "title": "Greek Life Endures by Offering a Simulacrum of Solidarity",
-      "url": "https://jacobin.com/2026/10/college-greek-life-elites-alienation",
-      "author": "Katie Gatti Tassin",
-      "source": "Jacobin",
-      "published_at": "2026-10-10T16:27:49+00:00",
-      "content_excerpt": "Four thousand two hundred and twenty-nine dollars. That was the cost of joining the University of Alabama’s Delta Delta Delta Panhellenic sorority, affectionately known as “Tridelt” to its members, for the 2025 fall semester. The spring semester will run you another $4,005, and if you’d like to live in the 44,294-square-foot sorority house that sleeps seventy-eight, add another $2,886 in the fall and $2,490 in the spring. This is, as Alabama sororities go, on the affordable side. The most expensive sorority, Zeta Tau Alpha (or simply “Zeta” for those in the know), estimates that a full school year of dues and in-house living totals $19,898, or nearly double the average in-state tuition at an American public university. The cost includes room and board, which is fitting, because Greek life ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/29a6789ff033bce0f931ddaa.json"
-    },
-    {
-      "id": "aad5599533698aa46b5954ec",
-      "title": "Environmental Future of Thousands",
-      "url": "https://www.laprogressive.com/the-environment/environmental-future-of-thousands",
-      "author": "Semantha Raquel Norris",
-      "source": "LA Progressive",
-      "published_at": "2026-10-10T16:25:54+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Falynn Love met her husband 25 years ago at the Puente Hills Mall, a place best known as a filming location for the 1985 movie Back to the Future . Today, Love is fighting to preserve the largely vacant, 1970s-era retail center in the City of Industry, about 15 miles east of Los Angeles, as a third space for the community, and to stop plans to turn the site into a massive industrial complex with two large warehouses, a new bus transit station and a 10-megawatt data center. Those plans have sparked fierce opposition among residents of the San Gabriel Valley, where a diverse coalition of community groups across an array of predominantly Latino and Asian suburbs has mobilized ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/aad5599533698aa46b5954ec.json"
-    },
-    {
-      "id": "0357e9d610924040421952ef",
-      "title": "Justice for Nolan Wells",
-      "url": "https://www.laprogressive.com/racism/justice-for-nolan-wells",
-      "author": "Melina Abdullah",
-      "source": "LA Progressive",
-      "published_at": "2026-10-10T16:01:55+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. It has been three months since Nolan Wells was murdered in Mississippi. Not drowned. Murdered. On Monday, Black Lives Matter – Los Angeles organizers met Nolan’s parents. I got to put my arms around his parents and pledge our continued support as they demand a federal investigation. Last week, our Georgia chapter, the BLM Youth Vanguard, and student organizers, mobilized thousands of Black college students at the Atlanta University Center. Nolan’s name has been spoken by activists, political officials, and celebrities. There has been news coverage. There was a social media blackout. Most know the story. On July 4th, the college football player joined a white friend-group fo",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/0357e9d610924040421952ef.json"
     }
   ]
 }
