@@ -1,41 +1,251 @@
 {
-  "generated_at": "2026-10-11T23:04:18.030233+00:00",
-  "generated_at_jst": "2026-10-12T08:04:18.030233+09:00",
-  "period_start": "2026-10-10T17:04:18.030233+00:00",
+  "generated_at": "2026-10-13T01:33:01.304282+00:00",
+  "generated_at_jst": "2026-10-13T10:33:01.304282+09:00",
+  "period_start": "2026-10-11T19:33:01.304282+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
-  "article_count": 2,
+  "article_count": 16,
   "excerpt_chars": 800,
   "articles": [
     {
-      "id": "88862a4443ef582c8052c364",
-      "title": "‘Citizen Osama’ turns life under bombardment into urgent, intimate cinema",
-      "url": "https://mondoweiss.net/2026/10/citizen-osama-turns-life-under-bombardment-into-urgent-intimate-cinema",
-      "author": "Davide Abbatescianni",
-      "source": "Mondoweiss",
-      "published_at": "2026-10-11T13:10:09+00:00",
-      "content_excerpt": "As NAZA draws global attention to the Gaza genocide from the perspective of Israeli génocidaires, a lesser-known Palestinian documentary looks through the camera of a Palestinian journalist trying to document devastation while keeping his family safe.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/88862a4443ef582c8052c364.json"
-    },
-    {
-      "id": "9c5b4fc7acc3e0b53f623cef",
-      "title": "Ecuadorian fishermen who were kidnapped by the US military have been acquitted",
-      "url": "https://breakthroughnews.org/2026/10/10/ecuadorian-fishermen-who-were-kidnapped-by-the-us-military-have-been-acquitted",
+      "id": "aabff91e2b0c1a49b07d04c5",
+      "title": "BT LIVE: India’s Protest Crackdown | Spain Housing Crisis Explodes | US ‘Taxpayer Uprising’",
+      "url": "https://breakthroughnews.org/2026/10/13/oct-12-26",
       "author": "BreakThrough News",
       "source": "BT News",
-      "published_at": "2026-10-10T20:15:35+00:00",
-      "content_excerpt": "An Ecuadorian judge ordered the immediate release of nearly 30 fishermen whose two boats were destroyed by the US military in the Pacific Ocean. The Ecuadorian prosecutor’s office had charged them with alleged illegal activities. The sequence of events is telling. In two separate instances between late August and early September, the fishing boats Conquista II and María Candelaria were boarded by US military forces while on the high seas. The US forces, after transferring the fishermen to other vessels, destroyed and sank their boats. The fishermen’s families quickly reported that they had lost communication with their loved ones. Only after prolonged uncertainty were the crew members handed over at Ecuadorian ports and placed under the control of Ecuadorian authorities. In other words, th",
+      "published_at": "2026-10-13T01:24:50+00:00",
+      "content_excerpt": "This content is for members only. Visit the site and log in/register to read.",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/9c5b4fc7acc3e0b53f623cef.json"
+      "article_path": "articles/aabff91e2b0c1a49b07d04c5.json"
+    },
+    {
+      "id": "5833b9f3ceda1e97f1e7ba23",
+      "title": "The Look of Election Defense w/Rachel Schragis and Josh Yoder",
+      "url": "https://convergencemag.com/podcast/the-look-of-election-defense-w-rachel-schragis-and-josh-yoder",
+      "author": "Cayden Mak",
+      "source": "Convergence",
+      "published_at": "2026-10-12T23:02:51+00:00",
+      "content_excerpt": "Day by day, it’s becoming more difficult to predict any outcomes of the midterms. It’s especially difficult to predict how Republicans might respond to varying degrees of defeat at the polls. President Trump has made his intentions to steal and bribe his way toward a MAGA victory very clear. This has included aggressively demanding the passage of the SAVE Act, which was designed to limit access to… Source",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/5833b9f3ceda1e97f1e7ba23.json"
+    },
+    {
+      "id": "1a9c2fcc8148bf2088f81310",
+      "title": "PA postpones November elections as Israeli violence spirals across West Bank",
+      "url": "https://breakthroughnews.org/2026/10/12/pa-postpones-november-elections-as-israeli-violence-spirals-across-west-bank",
+      "author": "Aseel Saleh",
+      "source": "BT News",
+      "published_at": "2026-10-12T21:26:19+00:00",
+      "content_excerpt": "Palestine’s long-awaited legislative elections have once again been postponed. The polls that were scheduled for November 28, have been pushed for one year, according to reports , through an agreement between Palestinian factions, including Fatah and Hamas. According to the report, the postponement aims to give time to rebuild the Palestinian political system in a way that allows all components to take part. Read more: Will a new political alliance unseat the Abbas-led Palestinian Authority? Meanwhile, Reuters reported on Friday, October 9 that Palestinian Vice President Hussein al-Sheikh informed France that the elections will be delayed possibly until September 2027, citing the deteriorating conditions throughout the occupied ‌Palestinian territories as a reason. On Saturday, October 10,",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/1a9c2fcc8148bf2088f81310.json"
+    },
+    {
+      "id": "b77a9acfb16b07836c5d828b",
+      "title": "Doctors mobilize to hold Israeli Medical Association accountable",
+      "url": "https://breakthroughnews.org/2026/10/12/doctors-mobilize-to-hold-israeli-medical-association-accountable",
+      "author": "Peoples Health Dispatch",
+      "source": "BT News",
+      "published_at": "2026-10-12T21:26:19+00:00",
+      "content_excerpt": "Doctors and healthcare workers gathered in parallel to the World Medical Association (WMA) General Assembly in Rotterdam on October 8-10, demanding the suspension of the Israeli Medical Association (IMA) over its breaches of medical ethics throughout the Gaza genocide. Activists held mobilizations warning against the IMA’s attempts to obscure attacks on Palestinian health workers and infrastructure. These actions included a petition demanding the organization’s suspension from the WMA signed by nearly 6,850 health professionals. Read more: On Nakba anniversary, health workers call for boycott of Israeli Medical Association “The petition demands that the IMA is suspended by the WMA for its gross violations of medical ethics over decades, concerning Palestinian patients and healthcare servic",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/b77a9acfb16b07836c5d828b.json"
+    },
+    {
+      "id": "99fe93b8b77738fb78c7f8f0",
+      "title": "How Brazil’s election could reshape relations with China",
+      "url": "https://breakthroughnews.org/2026/10/12/how-brazils-election-could-reshape-relations-with-china",
+      "author": "Tings Chak",
+      "source": "BT News",
+      "published_at": "2026-10-12T21:26:19+00:00",
+      "content_excerpt": "On October 25, Brazilians will return to the polls to choose between President Luiz Inácio Lula da Silva and Flávio Bolsonaro, son of former president Jair Bolsonaro, who was sentenced to 27 years in prison for his role in an attempted coup. The first round gave Flávio 47% of valid votes against Lula’s 45%, revealing the enduring strength of the far right four years after its electoral defeat. The runoff takes place as Donald Trump seeks to restore US domination over Latin America, with Brazil emerging as a consequential battleground in Washington’s campaign to contain China’s growing relations with the region. Read more: Why did Brazil’s far right win the first round? Over the past two decades, Brazil and China have built a political partnership that has expanded the space for independent",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/99fe93b8b77738fb78c7f8f0.json"
+    },
+    {
+      "id": "582b08e40efe4b6e1d647fc5",
+      "title": "AI comes into being as capital",
+      "url": "https://mronline.org/2026/10/12/ai-comes-into-being-as-capital",
+      "author": "Gary Wilson",
+      "source": "MR Online",
+      "published_at": "2026-10-12T20:50:51+00:00",
+      "content_excerpt": "Artificial intelligence is usually discussed in terms of what the technology can do. The post AI comes into being as capital appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/582b08e40efe4b6e1d647fc5.json"
+    },
+    {
+      "id": "db2efc52ad432c412fca6f0f",
+      "title": "In this West Bank village, Israel won’t let Palestinians visit their dead",
+      "url": "https://mondoweiss.net/2026/10/in-this-west-bank-village-israel-wont-let-palestinians-visit-their-dead",
+      "author": "Shatha Hammad",
+      "source": "Mondoweiss",
+      "published_at": "2026-10-12T19:33:30+00:00",
+      "content_excerpt": "Since August, Israeli settlers have blocked Palestinians from Umm Safa from reaching the village's only cemetery. Residents say it's the latest in a series of escalations by settlers — backed by the Israeli army — who are trying to expel them.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/db2efc52ad432c412fca6f0f.json"
+    },
+    {
+      "id": "67304843c27e4ddc92092c14",
+      "title": "Stop the Presses: Why news organizations should boycott Israel",
+      "url": "https://mondoweiss.net/2026/10/stop-the-presses-why-news-organizations-should-boycott-israel",
+      "author": "Philip Weiss",
+      "source": "Mondoweiss",
+      "published_at": "2026-10-12T17:33:13+00:00",
+      "content_excerpt": "Israel is trying to hide its crimes by banning international reporters from entering Gaza. We must reject this apartheid system of access.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/67304843c27e4ddc92092c14.json"
+    },
+    {
+      "id": "8dff538df363dd925f212884",
+      "title": "Protesters Say India’s Democracy Is “Rotten” as Modi Gov’t Purges Voter Rolls, Arrests Thousands",
+      "url": "https://www.democracynow.org/2026/10/12/cockroach_movement",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-10-12T14:53:05+00:00",
+      "content_excerpt": "This is a rush transcript. Copy may not be in its final form. ANJALI KAMAT : In India, the right-wing government of Narendra Modi is facing its biggest challenge yet in 12 years in power, as tens of thousands of people have taken to the streets to protest what they call vote theft. At issue is the deletion of 130 million names from the voter rolls, and the vast majority of those deletions are believed to be opposed to Prime Minister Modi’s ruling BJP party. The protests are being led by students and the youth Cockroach movement and joined by leaders from the opposition parties. They’re demanding the resignation of the chief election commissioner, Gyanesh Kumar, and an overhaul of the electoral system. The Cockroach movement started after the chief justice of India’s Supreme Court compared ",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/8dff538df363dd925f212884.json"
+    },
+    {
+      "id": "2553041f7d7e63453e008700",
+      "title": "Indigenous Peoples’ Day: Leonard Peltier on Resistance, New Film & Fighting for Freedom",
+      "url": "https://www.democracynow.org/2026/10/12/leonard_peltier",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-10-12T14:53:05+00:00",
+      "content_excerpt": "On Indigenous Peoples’ Day, we feature a conversation with one of the world’s most prominent champions for Indigenous rights, Leonard Peltier. “Indigenous Day is a day that’s been long overdue for any type of recognition,” says Peltier. “I am not going to give up, because we are not free yet. We are in danger. Trump and these organizations, they’re talking about doing away with our reservations and our treaties and everything else. … We’re going to stay here. You’re not going to get rid of us.” Peltier is a longtime political prisoner who spent nearly half a century behind bars for a crime he says he did not commit — the 1975 fatal shooting of two FBI agents. In the final hours of his administration last year, President Biden commuted Peltier’s sentence, but his conviction has not been ove",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/2553041f7d7e63453e008700.json"
+    },
+    {
+      "id": "0b553b4c6c8b9ad8ebbca38d",
+      "title": "U.S. judge denies Venezuela’s Cilia Flores medical bail as solidarity campaigns demand her release",
+      "url": "https://mronline.org/2026/10/12/u-s-judge-denies-venezuelas-cilia-flores-medical-bail-as-solidarity-campaigns-demand-her-release",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-12T12:03:00+00:00",
+      "content_excerpt": "U.S. federal judge Alvin Hellerstein has rejected a request for medical bail submitted by Venezuela’s First Lady and National Assembly Deputy Cilia Flores, keeping her imprisoned in New York despite her defense’s warnings about her deteriorating cardiac condition. The post U.S. judge denies Venezuela’s Cilia Flores medical bail as solidarity campaigns demand her release appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/0b553b4c6c8b9ad8ebbca38d.json"
+    },
+    {
+      "id": "3345acdd1b3eae91a8eeb48a",
+      "title": "Anti-Woke electoralism",
+      "url": "https://tempestmag.org/2026/10/anti-woke-electoralism",
+      "author": "Hakan Yilmaz",
+      "source": "Tempest",
+      "published_at": "2026-10-12T11:23:24+00:00",
+      "content_excerpt": "A fter years of stagnation under the Biden administration, Democratic Socialists of America (DSA) has been revitalized with a series of recent primary electoral victories. The Democratic Party establishment collapsed after Kamala Harris’s disastrous presidential campaign, which allowed democratic socialists and progressives to emerge as prominent leaders in the mainstream opposition to Trumpism. Zohran Mamdani’s unexpected mayoral primary win and follow-up general election victory against disgraced former New York governor Andrew Cuomo put the establishment’s fragility on full display, inspiring several other successful “insurgent” campaigns since last year. At the same time, the problems that contributed to DSA’s stagnation in the early 2020s are resurfacing. Mayor Mamdani, Congressperson",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/3345acdd1b3eae91a8eeb48a.json"
+    },
+    {
+      "id": "be44d43ec0088ce99ce542c6",
+      "title": "Farewell, Anwar Shaikh",
+      "url": "https://mronline.org/2026/10/12/farewell-anwar-shaikh",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-12T11:05:33+00:00",
+      "content_excerpt": "Learning to Study Capitalism from the Periphery. The post Farewell, Anwar Shaikh appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/be44d43ec0088ce99ce542c6.json"
+    },
+    {
+      "id": "7912acf7cb1437c6e3d3db26",
+      "title": "Guilt Is Not An Organizing Strategy",
+      "url": "https://convergencemag.com/articles/guilt-is-not-an-organizing-strategy",
+      "author": "James Tracy",
+      "source": "Convergence",
+      "published_at": "2026-10-12T10:20:46+00:00",
+      "content_excerpt": "James Tracy: Tell me a little bit about you and your activist background, that contributes heavily to this book. Chandra Russo: So twenty years ago, while working in a community health center after graduating from college, I was quickly swept into immigrant justice organizing. That was 2006, a time that many folks have likened to our most recent buildup of ICE operations: the round-ups and… Source",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/7912acf7cb1437c6e3d3db26.json"
+    },
+    {
+      "id": "837924a06c6c8528aa4cfe64",
+      "title": "Ukraine–Trump breaks energy deadlock–Zelenski in open defiance",
+      "url": "https://mronline.org/2026/10/12/ukraine-trump-breaks-energy-deadlock-zelenski-in-open-defiance",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-12T10:03:54+00:00",
+      "content_excerpt": "The maximum total Russian export under the deal amounts to about 9 days of U.S. consumption. The post Ukraine–Trump breaks energy deadlock–Zelenski in open defiance appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/837924a06c6c8528aa4cfe64.json"
+    },
+    {
+      "id": "93e8ccccfda4bc50d9875be9",
+      "title": "Housing protests lead to general strike in Spain",
+      "url": "https://mronline.org/2026/10/12/housing-protests-lead-to-general-strike-in-spain",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-12T09:08:29+00:00",
+      "content_excerpt": "Workers in the Spanish state are teaching us all how to deal effectively with the housing crisis. The post Housing protests lead to general strike in Spain appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/93e8ccccfda4bc50d9875be9.json"
     }
   ]
 }
