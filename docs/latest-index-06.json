@@ -1,12 +1,297 @@
 {
-  "generated_at": "2026-10-13T01:33:01.304282+00:00",
-  "generated_at_jst": "2026-10-13T10:33:01.304282+09:00",
-  "period_start": "2026-10-11T19:33:01.304282+00:00",
+  "generated_at": "2026-10-13T23:22:37.589203+00:00",
+  "generated_at_jst": "2026-10-14T08:22:37.589203+09:00",
+  "period_start": "2026-10-12T17:22:37.589203+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
-  "article_count": 16,
+  "article_count": 20,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "2c0d1db6f2a0888c2c34a39a",
+      "title": "DR Congo’s deadliest Ebola outbreak kills over 4,200 as armed groups undermine response",
+      "url": "https://breakthroughnews.org/2026/10/13/dr-congos-deadliest-ebola-outbreak-kills-over-4200-as-armed-groups-undermine-response",
+      "author": "Pavan Kulkarni",
+      "source": "BT News",
+      "published_at": "2026-10-13T22:31:00+00:00",
+      "content_excerpt": "In less than five months, the fastest-spreading Ebola outbreak in world history has killed at least 4,205 people in the conflict-ridden eastern region of the Democratic Republic of Congo (DRC) as of October 7. It is the deadliest outbreak in the DRC since the disease was first discovered in the country in 1976, killing nearly one in two of the 8,728 people confirmed to be infected. With treatment still in experimental stages, there is no specifically approved treatment for the particular Bundibugyo strain of the Ebola virus that caused this outbreak, declared on May 15. However, the virus had been circulating in communities in Ituri province since mid-February, three months before the outbreak was identified and officially declared.​ Aid cuts: unpaid frontline workers When the health respo",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/2c0d1db6f2a0888c2c34a39a.json"
+    },
+    {
+      "id": "092b2eb08ec758df8914f08c",
+      "title": "Mali’s army recaptures town of Kidal",
+      "url": "https://breakthroughnews.org/2026/10/13/malis-army-recaptures-town-of-kidal",
+      "author": "Nicholas Mwangi",
+      "source": "BT News",
+      "published_at": "2026-10-13T22:31:00+00:00",
+      "content_excerpt": "Mali’s armed forces have recaptured the northern city of Kidal following a large-scale military offensive conducted alongside Russia’s Africa Corps. It is a major development in the government’s efforts to restore state control over territory held by armed groups. The Malian Armed Forces (FAMa ) announced that their troops consolidated their operational deployment in Kidal on October 7, 2026, under Operation Dougoukoloko, following several days of airstrikes and coordinated air and ground operations against the Azawad Liberation Front (FLA) and Jama’at Nusrat al-Islam wal-Muslimin (JNIM), an armed group affiliated with al-Qaeda. In a statement, the military said the operation had weakened the armed groups’ fighting capacity and disrupted their logistical networks. “As part of the large-sca",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/092b2eb08ec758df8914f08c.json"
+    },
+    {
+      "id": "833cb92de65d7f42f84fb355",
+      "title": "Spain heads for a snap election as youth uprising rocks Europe",
+      "url": "https://breakthroughnews.org/2026/10/13/spain-heads-for-a-snap-election-as-youth-uprising-rocks-europe",
+      "author": "Zoe Alexandra",
+      "source": "BT News",
+      "published_at": "2026-10-13T22:31:00+00:00",
+      "content_excerpt": "“Cannibal capitalism” in Spain, where hundreds of thousands are in the streets demanding an end to the country’s housing crisis that Madrid-based journalist and Canal Red analyst Irene Zugasti says killed 87-year-old Maricarmen Abascal. Zugasti joins Zoe Alexandra and Rania Khalek to explain why more than 1,500 tents now fill Madrid’s Puerta del Sol and unions have called a general strike for November 11 – Spain’s first since 2012: “If we hadn’t been in the streets, Sánchez would have done nothing.” Zugasti explains why Spain’s housing crisis isn’t about a shortage of homes, but about who owns them, and why Prime Minister Pedro Sánchez called snap elections now, after the right defeated his emergency measures meant to stem the uprising. She says the movement is inseparable from a wave of y",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/833cb92de65d7f42f84fb355.json"
+    },
+    {
+      "id": "11aea1359502f2727254e45b",
+      "title": "Is Modi stealing India’s democracy?",
+      "url": "https://breakthroughnews.org/2026/10/13/is-modi-stealing-indias-democracy",
+      "author": "Rania Khalek",
+      "source": "BT News",
+      "published_at": "2026-10-13T22:31:00+00:00",
+      "content_excerpt": "“Unparalleled and unprecedented” police repression in India, where thousands of protesters demanding the resignation of Chief Election Commissioner Gyanesh Kumar were met with mass detentions, internet shutdowns, and a brutal crackdown across Delhi over the weekend. Dr. Nitheesh Narayanan of the Tricontinental Institute for Social Research joins Zoe Alexandra and Rania Khalek, following the deployment of 50,000 police and armed forces to suppress youth-led protests over the Special Intensive Revision’s removal of more than 130 million names from voter rolls. Narayanan says Saturday’s action marked a turning point in India’s months-long wave of repression, uniting students, the left, and the Gen Z-led Cockroach Janta Party (CJP) in the fight for a democratic, secular India – “and the idea t",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/11aea1359502f2727254e45b.json"
+    },
+    {
+      "id": "6968f697eaadb404bb38dd03",
+      "title": "Ansar Allah has the upper hand in escalating conflict with Saudi Arabia",
+      "url": "https://breakthroughnews.org/2026/10/13/ansar-allah-has-upper-hand-in-escalating-conflict-with-saudi-arabia",
+      "author": "Aseel Saleh",
+      "source": "BT News",
+      "published_at": "2026-10-13T21:32:02+00:00",
+      "content_excerpt": "Three months after Saudi Arabia resumed its aggression against Yemen’s Ansar Allah-led government by attacking Sanaa International Airport in July, the conflict continues to spiral. Saudi-backed forces claimed that they managed to cut off the main road connecting the Red Sea port city of Mokha with the Bab al-Mandeb strait on Monday, October 12, in a bid to reverse Ansar Allah’s major territorial gains along the Red Sea coast. This came after Ansar Allah launched an intensified military operation that resulted in encircling Yemen’s southwestern city of Taiz last week. Taiz has been under the control of the Saudi-backed Yemeni government for roughly the last ten years. As Yemen’s third-largest city, the encirclement of Taiz constitutes a critical development in the country’s armed conflict ",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/6968f697eaadb404bb38dd03.json"
+    },
+    {
+      "id": "355c6ab24a857ae648c22a08",
+      "title": "Political crisis in Pakistan deepens with dismissal of PTI-led provincial government",
+      "url": "https://breakthroughnews.org/2026/10/13/political-crisis-in-pakistan-deepens-with-dismissal-of-pti-led-provincial-government",
+      "author": "Abdul Rahman",
+      "source": "BT News",
+      "published_at": "2026-10-13T21:32:02+00:00",
+      "content_excerpt": "Large-scale protests broke out in different parts of Pakistan’s Khyber Pakhtunkhwa (KP) province on Monday, October 12, after the federal government dismissed its elected government and imposed the centralized Governor’s rule. The federal government also declared an emergency in 12 out of 40 of KP’s districts, citing a law-and-order situation. The imposition of the emergency under article 232 of Pakistan’s constitution means the suspension of citizen’s fundamental rights. Pakistan Tehreek-e-Insaf (PTI) which was ruling the KP government, called the dismissal of its government a “direct assault on the democratic mandate of the people.” PTI is currently leading a large march to Pakistan’s capital, Islamabad, demanding the release of its jailed leader and former prime minister, Imran Khan, Se",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/355c6ab24a857ae648c22a08.json"
+    },
+    {
+      "id": "b998062f5c342fc0c5635f71",
+      "title": "Thousands of young people protest the Noboa administration in Quito",
+      "url": "https://breakthroughnews.org/2026/10/13/thousands-of-young-people-protest-the-noboa-administration-in-quito",
+      "author": "BreakThrough News",
+      "source": "BT News",
+      "published_at": "2026-10-13T19:35:53+00:00",
+      "content_excerpt": "On October 10, thousands of Ecuadorians took to the streets to protest against the government of right-wing President Daniel Noboa. The demonstration was organized by the Autonomous Front of Organized Resistance (FARO) under the slogan “Government vs. People.” A esta hora, una marcha de rechazo al Gobierno de Daniel Noboa recorre las calles de Quito. La movilización está marcada por carteles de protesta y consignas contra el mandatario y su gestión. Los manifestantes atraviesan en este momento el paso deprimido del Guambra y avanzan… pic.twitter.com/WKPfT8D9jF — Elena Rodríguez Yánez (@ElenaDeQuito) October 10, 2026 Saturday’s demonstration followed a protest on October 8, organized by labor unions also in Quito, to protest the security, energy, health, and employment crises facing the cou",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/b998062f5c342fc0c5635f71.json"
+    },
+    {
+      "id": "4ecfcfdca5c5dabba48e0501",
+      "title": "Protesters in Belgium demand end to austerity, climate inaction, and Gaza genocide",
+      "url": "https://breakthroughnews.org/2026/10/13/protesters-in-belgium-demand-end-to-austerity-climate-inaction-and-gaza-genocide",
+      "author": "Ana Vračar",
+      "source": "BT News",
+      "published_at": "2026-10-13T18:42:10+00:00",
+      "content_excerpt": "Tens of thousands of people took to the streets of Belgium from October 9-12, marching against the government’s austerity and militarization policies, as well as in solidarity with Palestine. Read more: Peter Mertens: “We have to restore people’s confidence in collective strength” “Four mobilizations, one shared struggle: that of the Belgium of those at the bottom — who refuse to foot the bill for a system that benefits a tiny minority, and who refuse to remain complicit in an apartheid state,” wrote the Workers’ Party of Belgium (PTB-PVDA). “They thought they could impose their anti-social measures without resistance. They were wrong.” 50,000-strong demonstration against austerity The weekend began with a 50,000-strong demonstration against austerity in Brussels on October 9, building on ",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/4ecfcfdca5c5dabba48e0501.json"
+    },
+    {
+      "id": "addbd5c663921e0d4e12e821",
+      "title": "Yemen Plunges Back into “Full-Scale Civil War,” Houthis Trade Strikes with Saudi Arabia",
+      "url": "https://www.democracynow.org/2026/10/13/houthis_strike_saudi",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-10-13T15:09:07+00:00",
+      "content_excerpt": "This is a rush transcript. Copy may not be in its final form. AMY GOODMAN : Houthi fighters from Yemen have targeted the Saudi capital of Riyadh for the third time in recent days. On Saturday, a Houthi missile strike on a Riyadh airport killed 13 people and injured over 300 in the deadliest single attack on Saudi soil in over a decade. The Houthis have hit the airport at least four times. All flights out of the airport are currently suspended. Saudi Crown Prince Mohammed bin Salman has not been seen publicly in a week, is reportedly shuttling between palaces with heavy security and bunkers. Riyadh is 500 or so miles from Houthi-controlled areas in Yemen. This is Houthi military spokesperson Yahya Sarea speaking Monday. YAHYA SAREA : [translated] With the help of Almighty God, the armed for",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/addbd5c663921e0d4e12e821.json"
+    },
+    {
+      "id": "b10596c3643048691b0176c7",
+      "title": "“Musk”: Alex Gibney on New Film, Legal Threats & Elon Musk Spending $366M to Help GOP in Midterms",
+      "url": "https://www.democracynow.org/2026/10/13/musk_documentary",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-10-13T15:09:07+00:00",
+      "content_excerpt": "We speak with the Academy Award-winning director Alex Gibney about his new documentary Musk , an expansive, nearly four-hour examination of the world’s first trillionaire and how he has amassed unprecedented power in business, technology and politics. The film traces Elon Musk’s early ventures and the rise of SpaceX and Tesla, examining the role of government support in their growth. It also explores his acquisition of Twitter, now X; his alliance with President Donald Trump and the MAGA movement; and his role in the Department of Government Efficiency, or DOGE , whose cuts devastated federal programs, including USAID . Gibney says Musk has carefully crafted an image of a “polymath” who can solve the world’s most pressing problems, but that he is really “kind of a ruthless businessman” wil",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/b10596c3643048691b0176c7.json"
+    },
+    {
+      "id": "5a11f5e23fdf0ecd4612091a",
+      "title": "Remembering Peter D. Thomas (1973–2026)",
+      "url": "https://www.historicalmaterialism.org/remembering-peter-d-thomas-1973-2026",
+      "author": "Panagiotis Sotiris",
+      "source": "Historical Materialism",
+      "published_at": "2026-10-13T15:05:23+00:00",
+      "content_excerpt": "It is with immense sadness and grief that we share the news of the death of our comrade, friend and long-standing member of the Historical Materialism Editorial Board Peter D. Thomas. Peter passed away due to a heart-attack on 11 October 2026, just after he had turned 53. With an academic background in philosophy and literature from his studies in Australia, having obtained a BA and an MA from the University of Queensland, he came to Europe to pursue his doctoral research in 2000. His PhD at the University of Amsterdam was supervised by Marcel van der Linden and Michael R. Krätke, and was awarded in 2008 despite efforts by right-wing members of the University to derail it. What started as a thesis that attempted an immanent critique of Perry Anderson’s and Louis Althusser’s respective read",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/5a11f5e23fdf0ecd4612091a.json"
+    },
+    {
+      "id": "2d7f6445dca44dc6ef49da2c",
+      "title": "The Israeli witch hunt of Sami Abu Shehadeh exposes the lie of the ‘Jewish and democratic’ state",
+      "url": "https://mondoweiss.net/2026/10/the-israeli-witch-hunt-of-sami-abu-shehadeh-exposes-the-lie-of-the-jewish-and-democratic-state",
+      "author": "Jonathan Ofir",
+      "source": "Mondoweiss",
+      "published_at": "2026-10-13T14:42:32+00:00",
+      "content_excerpt": "The Supreme Court’s decision to force Palestinian politician Sami Abu Shehadeh out of the upcoming Israeli elections is the latest sign that there is no place for Palestinian citizens of Israel in the ‘Jewish and democratic’ state.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/2d7f6445dca44dc6ef49da2c.json"
+    },
+    {
+      "id": "cc2618dadeb9c6235907e895",
+      "title": "Genocide treated as afterthought by media on third anniversary of October 7 attacks",
+      "url": "https://mronline.org/2026/10/13/genocide-treated-as-afterthought-by-media-on-third-anniversary-of-october-7-attacks",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-13T13:45:12+00:00",
+      "content_excerpt": "October 7 marked three years since the Hamas attacks on Israel that left some 1,200 people dead and 251 taken hostage. It also marks three years since Israel launched its genocide of Palestinians in the Gaza Strip with material and moral support from the United States, with an official death toll surpassing 74,000—including more than 20,000 children. The post Genocide treated as afterthought by media on third anniversary of October 7 attacks appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/cc2618dadeb9c6235907e895.json"
+    },
+    {
+      "id": "fbb12624272d33f802fc9733",
+      "title": "Trump ocean renaming: 5 key facts about his latest suggestion",
+      "url": "https://mronline.org/2026/10/13/trump-ocean-renaming-5-key-facts-about-his-latest-suggestion",
+      "author": "teleSUR Desk",
+      "source": "MR Online",
+      "published_at": "2026-10-13T12:48:43+00:00",
+      "content_excerpt": "Trump ocean renaming suggestion targets the Atlantic or Pacific, following earlier moves to rename the Gulf of Mexico and Lake Ontario. The post Trump ocean renaming: 5 key facts about his latest suggestion appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/fbb12624272d33f802fc9733.json"
+    },
+    {
+      "id": "82ac1c4290d6909252c067d2",
+      "title": "The AI model distillation paradox",
+      "url": "https://mronline.org/2026/10/13/the-ai-model-distillation-paradox",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-13T11:51:39+00:00",
+      "content_excerpt": "When U.S. labs train models on the world’s writing, Washington calls it fair use. When Chinese labs train on U.S. outputs, it’s a “malicious attack.” It can’t have it both ways. The post The AI model distillation paradox appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/82ac1c4290d6909252c067d2.json"
+    },
+    {
+      "id": "e7726026b50c34f3b55ea712",
+      "title": "Another anniversary of Che’s assassination",
+      "url": "https://mronline.org/2026/10/13/another-anniversary-of-ches-assassination",
+      "author": "Atilio Borón",
+      "source": "MR Online",
+      "published_at": "2026-10-13T10:54:19+00:00",
+      "content_excerpt": "The person who carried out the cowardly assassination of Che was the Bolivian noncommissioned officer Mario Terán Salazar. The post Another anniversary of Che’s assassination appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/e7726026b50c34f3b55ea712.json"
+    },
+    {
+      "id": "09752c6da236889362d32b77",
+      "title": "Letters from the American Empire: October 12, 2026",
+      "url": "https://mronline.org/2026/10/13/letters-from-the-american-empire-october-12-2026",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-13T09:56:29+00:00",
+      "content_excerpt": "The African revolutionary Amílcar Cabral once asked his counterparts throughout the world at late-night strategy sessions: How did they wage successful armed struggle? The post Letters from the American Empire: October 12, 2026 appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/09752c6da236889362d32b77.json"
+    },
+    {
+      "id": "cbf842c421700b30fabf3f4b",
+      "title": "Beyond Polarity: For a Marxist Theory of the World Order",
+      "url": "https://thetricontinental.org/dossier-beyond-polarity",
+      "author": "",
+      "source": "[:en]THE TRICONTINENTAL[:es]TRICONTINENTAL[:]",
+      "published_at": "2026-10-13T08:39:25+00:00",
+      "content_excerpt": "Collage by Tricontinental: Institute for Social Research drawing from a Dymaxion map projection and Islamic, Mesoamerican, Ethiopian, and Chinese maps made between the twelfth and seventeenth centuries. Images sourced from: Muhammad al-Idrisi, Tabula Rogeriana, 1154, 1929 reconstruction and transliteration by Konrad Miller via Wikimedia Commons; Matteo Ricci and Li Zhizao, Kunyu Wanguo Quantu (坤輿萬國全圖), 1602, Library of Congress Geography and Map Division via Wikimedia Commons; Códice Xólotl, Lámina 1, Tetzcoco, Mexico, c. 1541 via Wikimedia Commons; Tigrayan circular map from the Māshafā Aksum (Book of Aksum), pre-eighteenth century, Bibliothèque nationale de France, Collection Antoine d’Abbadie, via Wikimedia Commons; and Justinkunimune, Blank World Map, Dymaxion Projection , 2023, Wikime",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/cbf842c421700b30fabf3f4b.json"
+    },
+    {
+      "id": "5ae0519a11aa405776c6b18f",
+      "title": "The Land to Those Who Work It: Land Reform and Socialist Agriculture in the German Democratic Republic",
+      "url": "https://thetricontinental.org/study-3-ddr-land-reform",
+      "author": "",
+      "source": "[:en]THE TRICONTINENTAL[:es]TRICONTINENTAL[:]",
+      "published_at": "2026-10-13T08:39:25+00:00",
+      "content_excerpt": "About Studies on the DDR The German Democratic Republic (Deutsche Demokratische Republik, DDR) was a socialist state founded in East Germany in 1949 as a democratic, anti-fascist reaction to the Second World War and the subsequent restoration of monopoly capitalism in West Germany. The DDR represented a new Germany – one in which the land was redistributed, the means of production socialised, agricultural production organised into cooperatives, and significant advances made in gender equality, education, healthcare, and other areas of society. The DDR also cultivated friendly and close-knit economic relationships with other socialist states and exercised political and material solidarity with countries and movements fighting for their independence in Latin America, Asia, and Africa. In thi",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/5ae0519a11aa405776c6b18f.json"
+    },
     {
       "id": "aabff91e2b0c1a49b07d04c5",
       "title": "BT LIVE: India’s Protest Crackdown | Spain Housing Crisis Explodes | US ‘Taxpayer Uprising’",
@@ -21,231 +306,6 @@
       "priority": 2,
       "date_missing": false,
       "article_path": "articles/aabff91e2b0c1a49b07d04c5.json"
-    },
-    {
-      "id": "5833b9f3ceda1e97f1e7ba23",
-      "title": "The Look of Election Defense w/Rachel Schragis and Josh Yoder",
-      "url": "https://convergencemag.com/podcast/the-look-of-election-defense-w-rachel-schragis-and-josh-yoder",
-      "author": "Cayden Mak",
-      "source": "Convergence",
-      "published_at": "2026-10-12T23:02:51+00:00",
-      "content_excerpt": "Day by day, it’s becoming more difficult to predict any outcomes of the midterms. It’s especially difficult to predict how Republicans might respond to varying degrees of defeat at the polls. President Trump has made his intentions to steal and bribe his way toward a MAGA victory very clear. This has included aggressively demanding the passage of the SAVE Act, which was designed to limit access to… Source",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/5833b9f3ceda1e97f1e7ba23.json"
-    },
-    {
-      "id": "1a9c2fcc8148bf2088f81310",
-      "title": "PA postpones November elections as Israeli violence spirals across West Bank",
-      "url": "https://breakthroughnews.org/2026/10/12/pa-postpones-november-elections-as-israeli-violence-spirals-across-west-bank",
-      "author": "Aseel Saleh",
-      "source": "BT News",
-      "published_at": "2026-10-12T21:26:19+00:00",
-      "content_excerpt": "Palestine’s long-awaited legislative elections have once again been postponed. The polls that were scheduled for November 28, have been pushed for one year, according to reports , through an agreement between Palestinian factions, including Fatah and Hamas. According to the report, the postponement aims to give time to rebuild the Palestinian political system in a way that allows all components to take part. Read more: Will a new political alliance unseat the Abbas-led Palestinian Authority? Meanwhile, Reuters reported on Friday, October 9 that Palestinian Vice President Hussein al-Sheikh informed France that the elections will be delayed possibly until September 2027, citing the deteriorating conditions throughout the occupied ‌Palestinian territories as a reason. On Saturday, October 10,",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/1a9c2fcc8148bf2088f81310.json"
-    },
-    {
-      "id": "b77a9acfb16b07836c5d828b",
-      "title": "Doctors mobilize to hold Israeli Medical Association accountable",
-      "url": "https://breakthroughnews.org/2026/10/12/doctors-mobilize-to-hold-israeli-medical-association-accountable",
-      "author": "Peoples Health Dispatch",
-      "source": "BT News",
-      "published_at": "2026-10-12T21:26:19+00:00",
-      "content_excerpt": "Doctors and healthcare workers gathered in parallel to the World Medical Association (WMA) General Assembly in Rotterdam on October 8-10, demanding the suspension of the Israeli Medical Association (IMA) over its breaches of medical ethics throughout the Gaza genocide. Activists held mobilizations warning against the IMA’s attempts to obscure attacks on Palestinian health workers and infrastructure. These actions included a petition demanding the organization’s suspension from the WMA signed by nearly 6,850 health professionals. Read more: On Nakba anniversary, health workers call for boycott of Israeli Medical Association “The petition demands that the IMA is suspended by the WMA for its gross violations of medical ethics over decades, concerning Palestinian patients and healthcare servic",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/b77a9acfb16b07836c5d828b.json"
-    },
-    {
-      "id": "99fe93b8b77738fb78c7f8f0",
-      "title": "How Brazil’s election could reshape relations with China",
-      "url": "https://breakthroughnews.org/2026/10/12/how-brazils-election-could-reshape-relations-with-china",
-      "author": "Tings Chak",
-      "source": "BT News",
-      "published_at": "2026-10-12T21:26:19+00:00",
-      "content_excerpt": "On October 25, Brazilians will return to the polls to choose between President Luiz Inácio Lula da Silva and Flávio Bolsonaro, son of former president Jair Bolsonaro, who was sentenced to 27 years in prison for his role in an attempted coup. The first round gave Flávio 47% of valid votes against Lula’s 45%, revealing the enduring strength of the far right four years after its electoral defeat. The runoff takes place as Donald Trump seeks to restore US domination over Latin America, with Brazil emerging as a consequential battleground in Washington’s campaign to contain China’s growing relations with the region. Read more: Why did Brazil’s far right win the first round? Over the past two decades, Brazil and China have built a political partnership that has expanded the space for independent",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/99fe93b8b77738fb78c7f8f0.json"
-    },
-    {
-      "id": "582b08e40efe4b6e1d647fc5",
-      "title": "AI comes into being as capital",
-      "url": "https://mronline.org/2026/10/12/ai-comes-into-being-as-capital",
-      "author": "Gary Wilson",
-      "source": "MR Online",
-      "published_at": "2026-10-12T20:50:51+00:00",
-      "content_excerpt": "Artificial intelligence is usually discussed in terms of what the technology can do. The post AI comes into being as capital appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/582b08e40efe4b6e1d647fc5.json"
-    },
-    {
-      "id": "db2efc52ad432c412fca6f0f",
-      "title": "In this West Bank village, Israel won’t let Palestinians visit their dead",
-      "url": "https://mondoweiss.net/2026/10/in-this-west-bank-village-israel-wont-let-palestinians-visit-their-dead",
-      "author": "Shatha Hammad",
-      "source": "Mondoweiss",
-      "published_at": "2026-10-12T19:33:30+00:00",
-      "content_excerpt": "Since August, Israeli settlers have blocked Palestinians from Umm Safa from reaching the village's only cemetery. Residents say it's the latest in a series of escalations by settlers — backed by the Israeli army — who are trying to expel them.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/db2efc52ad432c412fca6f0f.json"
-    },
-    {
-      "id": "67304843c27e4ddc92092c14",
-      "title": "Stop the Presses: Why news organizations should boycott Israel",
-      "url": "https://mondoweiss.net/2026/10/stop-the-presses-why-news-organizations-should-boycott-israel",
-      "author": "Philip Weiss",
-      "source": "Mondoweiss",
-      "published_at": "2026-10-12T17:33:13+00:00",
-      "content_excerpt": "Israel is trying to hide its crimes by banning international reporters from entering Gaza. We must reject this apartheid system of access.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/67304843c27e4ddc92092c14.json"
-    },
-    {
-      "id": "8dff538df363dd925f212884",
-      "title": "Protesters Say India’s Democracy Is “Rotten” as Modi Gov’t Purges Voter Rolls, Arrests Thousands",
-      "url": "https://www.democracynow.org/2026/10/12/cockroach_movement",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-10-12T14:53:05+00:00",
-      "content_excerpt": "This is a rush transcript. Copy may not be in its final form. ANJALI KAMAT : In India, the right-wing government of Narendra Modi is facing its biggest challenge yet in 12 years in power, as tens of thousands of people have taken to the streets to protest what they call vote theft. At issue is the deletion of 130 million names from the voter rolls, and the vast majority of those deletions are believed to be opposed to Prime Minister Modi’s ruling BJP party. The protests are being led by students and the youth Cockroach movement and joined by leaders from the opposition parties. They’re demanding the resignation of the chief election commissioner, Gyanesh Kumar, and an overhaul of the electoral system. The Cockroach movement started after the chief justice of India’s Supreme Court compared ",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/8dff538df363dd925f212884.json"
-    },
-    {
-      "id": "2553041f7d7e63453e008700",
-      "title": "Indigenous Peoples’ Day: Leonard Peltier on Resistance, New Film & Fighting for Freedom",
-      "url": "https://www.democracynow.org/2026/10/12/leonard_peltier",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-10-12T14:53:05+00:00",
-      "content_excerpt": "On Indigenous Peoples’ Day, we feature a conversation with one of the world’s most prominent champions for Indigenous rights, Leonard Peltier. “Indigenous Day is a day that’s been long overdue for any type of recognition,” says Peltier. “I am not going to give up, because we are not free yet. We are in danger. Trump and these organizations, they’re talking about doing away with our reservations and our treaties and everything else. … We’re going to stay here. You’re not going to get rid of us.” Peltier is a longtime political prisoner who spent nearly half a century behind bars for a crime he says he did not commit — the 1975 fatal shooting of two FBI agents. In the final hours of his administration last year, President Biden commuted Peltier’s sentence, but his conviction has not been ove",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/2553041f7d7e63453e008700.json"
-    },
-    {
-      "id": "0b553b4c6c8b9ad8ebbca38d",
-      "title": "U.S. judge denies Venezuela’s Cilia Flores medical bail as solidarity campaigns demand her release",
-      "url": "https://mronline.org/2026/10/12/u-s-judge-denies-venezuelas-cilia-flores-medical-bail-as-solidarity-campaigns-demand-her-release",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-12T12:03:00+00:00",
-      "content_excerpt": "U.S. federal judge Alvin Hellerstein has rejected a request for medical bail submitted by Venezuela’s First Lady and National Assembly Deputy Cilia Flores, keeping her imprisoned in New York despite her defense’s warnings about her deteriorating cardiac condition. The post U.S. judge denies Venezuela’s Cilia Flores medical bail as solidarity campaigns demand her release appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/0b553b4c6c8b9ad8ebbca38d.json"
-    },
-    {
-      "id": "3345acdd1b3eae91a8eeb48a",
-      "title": "Anti-Woke electoralism",
-      "url": "https://tempestmag.org/2026/10/anti-woke-electoralism",
-      "author": "Hakan Yilmaz",
-      "source": "Tempest",
-      "published_at": "2026-10-12T11:23:24+00:00",
-      "content_excerpt": "A fter years of stagnation under the Biden administration, Democratic Socialists of America (DSA) has been revitalized with a series of recent primary electoral victories. The Democratic Party establishment collapsed after Kamala Harris’s disastrous presidential campaign, which allowed democratic socialists and progressives to emerge as prominent leaders in the mainstream opposition to Trumpism. Zohran Mamdani’s unexpected mayoral primary win and follow-up general election victory against disgraced former New York governor Andrew Cuomo put the establishment’s fragility on full display, inspiring several other successful “insurgent” campaigns since last year. At the same time, the problems that contributed to DSA’s stagnation in the early 2020s are resurfacing. Mayor Mamdani, Congressperson",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/3345acdd1b3eae91a8eeb48a.json"
-    },
-    {
-      "id": "be44d43ec0088ce99ce542c6",
-      "title": "Farewell, Anwar Shaikh",
-      "url": "https://mronline.org/2026/10/12/farewell-anwar-shaikh",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-12T11:05:33+00:00",
-      "content_excerpt": "Learning to Study Capitalism from the Periphery. The post Farewell, Anwar Shaikh appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/be44d43ec0088ce99ce542c6.json"
-    },
-    {
-      "id": "7912acf7cb1437c6e3d3db26",
-      "title": "Guilt Is Not An Organizing Strategy",
-      "url": "https://convergencemag.com/articles/guilt-is-not-an-organizing-strategy",
-      "author": "James Tracy",
-      "source": "Convergence",
-      "published_at": "2026-10-12T10:20:46+00:00",
-      "content_excerpt": "James Tracy: Tell me a little bit about you and your activist background, that contributes heavily to this book. Chandra Russo: So twenty years ago, while working in a community health center after graduating from college, I was quickly swept into immigrant justice organizing. That was 2006, a time that many folks have likened to our most recent buildup of ICE operations: the round-ups and… Source",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/7912acf7cb1437c6e3d3db26.json"
-    },
-    {
-      "id": "837924a06c6c8528aa4cfe64",
-      "title": "Ukraine–Trump breaks energy deadlock–Zelenski in open defiance",
-      "url": "https://mronline.org/2026/10/12/ukraine-trump-breaks-energy-deadlock-zelenski-in-open-defiance",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-12T10:03:54+00:00",
-      "content_excerpt": "The maximum total Russian export under the deal amounts to about 9 days of U.S. consumption. The post Ukraine–Trump breaks energy deadlock–Zelenski in open defiance appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/837924a06c6c8528aa4cfe64.json"
-    },
-    {
-      "id": "93e8ccccfda4bc50d9875be9",
-      "title": "Housing protests lead to general strike in Spain",
-      "url": "https://mronline.org/2026/10/12/housing-protests-lead-to-general-strike-in-spain",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-12T09:08:29+00:00",
-      "content_excerpt": "Workers in the Spanish state are teaching us all how to deal effectively with the housing crisis. The post Housing protests lead to general strike in Spain appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/93e8ccccfda4bc50d9875be9.json"
     }
   ]
 }

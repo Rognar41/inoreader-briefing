@@ -1,0 +1,20 @@
+{
+  "generated_at": "2026-10-13T23:22:37.589203+00:00",
+  "generated_at_jst": "2026-10-14T08:22:37.589203+09:00",
+  "period_start": "2026-10-12T17:22:37.589203+00:00",
+  "lookback_hours": 30,
+  "article": {
+    "id": "0136e52231d20122e5265e97",
+    "title": "Dust Extraction System",
+    "url": "https://www.laprogressive.com/sponsored/dust-extraction-system",
+    "author": "Tiqua Jackson",
+    "source": "LA Progressive",
+    "published_at": "2026-10-13T23:21:54+00:00",
+    "content": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Somewhere in a workshop, there’s a dust extractor already plugged in and switched on. It prevents the debris from going up in the air. This makes the job of an air scrubber or air purifier a lot easier. However, its effectiveness comes down to a handful of practical decisions. Owning one just won’t cut it. Match Extraction Power to the Tools Being Used A shop vac or basic extractor pulls a fraction of the airflow that a properly sized system delivers, and airflow is what captures dust at the source. Sanders and saws all produce different volumes of dust at different particle sizes. An extractor undersized for the tool it’s connected to leaves a meaningful portion of that dust airborne. Festool tools and accessories built around the CT extractor range work because the extraction unit and the power tool are engineered to communicate directly. In that way, the extractor automatically activates and adjusts suction the moment the tool starts running. This coordinated integration is better than manually operating these devices, as this practice leaves gaps where dust escapes. Get the Hose Diameter and Length Right A narrow hose for the extractor’s rated airflow creates more problems. It reduces suction at the tool end regardless of how powerful the extraction unit itself is. Similarly, an excessively long hose run between the extractor and the tool increases resistance and drops effective suction well below what the same extractor would deliver over a shorter run. Getting hose diameter matched correctly to the extractor’s output, and keeping hose runs as short and direct as the workshop layout reasonably allows, preserves the airflow at the point where it matters most, right at the tool’s dust extraction port. Seal the Tool Connection Properly A loose or poorly fitted connection between the tool’s dust port and the hose creates a leak point. This is where unfiltered air gets pulled in instead of dust-laden air from the cutting or sanding zone. This reduces effective extraction even when the extractor itself is running at full power. Do this wrong, and some of that suction is being wasted pulling in ambient air through the leak. Checking that every connection point, tool to hose, hose to extractor, seals properly without gaps ensures that there’s no leak anywhere in that chain. Maintain Filter Condition A clogged filter reduces airflow through the entire system, and this happens gradually enough that a lot of workshop owners don’t notice declining performance until it’s already worse. Regularly checking and cleaning or replacing filters according to the manufacturer’s recommended schedule keeps the system performing at the level it was designed for. This matters particularly for fine dust from sanding, since filters clog faster with very fine particulate than with coarser sawdust, and a filter that’s coping fine with router waste might already be greatly restricted when it comes to fine sanding dust from the same workshop. Position the Extractor and Manage Cable and Hose Layout Sensibly An extractor positioned awkwardly discourages consistent use because it’s inconvenient to set up for a quick job. A workshop layout that keeps the extractor within easy reach of the most frequently used tools increases how often extraction gets used.",
+    "source_folders": [
+      "00_毎日確認"
+    ],
+    "priority": 1,
+    "date_missing": false
+  }
+}

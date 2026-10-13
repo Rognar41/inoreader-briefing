@@ -1,311 +1,311 @@
 {
-  "generated_at": "2026-10-13T01:33:01.304282+00:00",
-  "generated_at_jst": "2026-10-13T10:33:01.304282+09:00",
-  "period_start": "2026-10-11T19:33:01.304282+00:00",
+  "generated_at": "2026-10-13T23:22:37.589203+00:00",
+  "generated_at_jst": "2026-10-14T08:22:37.589203+09:00",
+  "period_start": "2026-10-12T17:22:37.589203+00:00",
   "lookback_hours": 30,
   "folder": "00_毎日確認",
   "article_count": 20,
   "excerpt_chars": 800,
   "articles": [
     {
-      "id": "9b65235c075642e509f536ed",
-      "title": "New Chapter in Walla Walla, Washington",
-      "url": "https://democraticleft.dsausa.org/2026/10/12/new-chapter-in-walla-walla-washington",
-      "author": "tfrasca@yahoo.com",
+      "id": "0136e52231d20122e5265e97",
+      "title": "Dust Extraction System",
+      "url": "https://www.laprogressive.com/sponsored/dust-extraction-system",
+      "author": "Tiqua Jackson",
+      "source": "LA Progressive",
+      "published_at": "2026-10-13T23:21:54+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Somewhere in a workshop, there’s a dust extractor already plugged in and switched on. It prevents the debris from going up in the air. This makes the job of an air scrubber or air purifier a lot easier. However, its effectiveness comes down to a handful of practical decisions. Owning one just won’t cut it. Match Extraction Power to the Tools Being Used A shop vac or basic extractor pulls a fraction of the airflow that a properly sized system delivers, and airflow is what captures dust at the source. Sanders and saws all produce different volumes of dust at different particle sizes. An extractor undersized for the tool it’s connected to leaves a meaningful portion of that du",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/0136e52231d20122e5265e97.json"
+    },
+    {
+      "id": "4e43b1fb76106a16ecfce175",
+      "title": "Life After Trump",
+      "url": "https://www.laprogressive.com/progressive-issues/life-after-trump",
+      "author": "Dick Price, Ken Levy",
+      "source": "LA Progressive",
+      "published_at": "2026-10-13T21:56:34+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. The pre-Trump world is gone. But what replaces it? That was the central question posed by Ken Levy, LMFT, during his October 3 presentation, Life After Trump , at the 4th Annual Left Coast Forum at Cal State LA. Levy, a community-focused psychotherapist, longtime activist, and Coordinating Committee member of the Northeast LA Alliance for Democracy, challenged participants to look beyond the daily turbulence of the Trump presidency and confront a more fundamental problem: America cannot simply return to the political arrangements that made Trumpism possible. The session rejected two competing visions of America's future. One is the authoritarian agenda embodied in the Right",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/4e43b1fb76106a16ecfce175.json"
+    },
+    {
+      "id": "90c72ab76ce3ac7921201bf5",
+      "title": "Unofficial Results of the 2026 UAW International Officer Election",
+      "url": "https://uaw.org/unofficial-results-of-the-2026-uaw-international-officer-election",
+      "author": "Justin Mayhugh",
+      "source": "UAW",
+      "published_at": "2026-10-13T21:28:49+00:00",
+      "content_excerpt": "Members of the United Auto Workers have cast their ballots by mail for the union’s top officers for the second time in the union’s 91-year history. Newly elected UAW International Officers will be sworn in on Friday, October 16 and will serve a four- year term. UAW International Officer Election Results: International President: Shawn Fain International Secretary-Treasurer: Brandon Campbell International Vice-President: Laura Dickerson, Kevin Gotinsky, Ryan Hiestand Region 1 Regional Director: LaShawn English Region 1A Regional Director: Mark DePaoli Region 1D Regional Director: Scott Zuckschwerdt Region 2B Regional Director: David Green Region 4 Regional Director: Lucas DeSpain Region 6 Regional Director: Mike Miller Region 8 Regional Director: Tim Smith Region 9 Regional Director: James ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/90c72ab76ce3ac7921201bf5.json"
+    },
+    {
+      "id": "27eaf5648866e73c1d557971",
+      "title": "Local 1186 Members Make Plans to Respond to Possible Election Interference",
+      "url": "https://www.ueunion.org/ue-news/2026/local-1186-members-make-plans-to-respond-to-possible-election-interference",
+      "author": "",
+      "source": "UE NEWS Updates | UE",
+      "published_at": "2026-10-13T20:33:42+00:00",
+      "content_excerpt": "As the rising tide of neo-fascist corporatism gradually erodes the foundations of democracy and the Trump administration escalates its attacks on the working class, the United States faces a critical moment in its history. Under this increasingly corrupt, violent, and authoritarian federal government, we have seen the unprecedented consolidation of wealth and political power in our country. Now there is a very real chance that Trump and his cohorts will attempt to interfere with or sabotage the midterm elections in November. Election interference could involve a range of scenarios, including (but not limited to): making it more difficult for people to vote by mail, voter purges, mass disinformation campaigns, stationing armed federal agents at polling places, voter intimidation, illegal se",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/27eaf5648866e73c1d557971.json"
+    },
+    {
+      "id": "6cff343ebd579fd95dd6b6e6",
+      "title": "Neukölln, the Berlin District Where the Left Broke Through",
+      "url": "https://jacobin.com/2026/10/neukolln-berlin-die-linke-palestine",
+      "author": "Frederik Blauwhof",
+      "source": "Jacobin",
+      "published_at": "2026-10-13T20:26:55+00:00",
+      "content_excerpt": "Amid resounding recent victories for the Alternative für Deutschland (AfD), on September 20 Germany’s socialist party Die Linke bucked the trend with a spectacular victory in Berlin. It dominated the campaign with its program of ending cuts, capping rents, and socializing housing companies, leaving other parties to respond to the popular demand that Berliners had confirmed in a 2021 referendum . The monster victory for the AfD in Saxony-Anhalt further galvanized Berlin’s diverse urban working class to express opposition to the fascists. Die Linke’s doubling of its vote in Berlin, winning 25.7 percent support, was no blip. The February 2025 federal election, when Die Linke enjoyed a comeback after years of stagnation, crisis, and splits, already saw a turn to the left in urban centers, amon",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/6cff343ebd579fd95dd6b6e6.json"
+    },
+    {
+      "id": "2dd24aebf33019e8a9d05712",
+      "title": "Food Scarcity In the Texas Prison System",
+      "url": "https://scalawagmagazine.org/2026/10/food-scarcity-in-the-texas-prison-system",
+      "author": "LM Jackson",
+      "source": "Scalawag",
+      "published_at": "2026-10-13T18:46:39+00:00",
+      "content_excerpt": "It's been an arduous day in the prison laundry, where I have spent the last four hours loading and unloading the three industrial-size dryers under my care. The one-ounce scoop of peanut butter served with two pieces of white bread and a one-ounce serving of canned fruit I received at breakfast failed to provide me with sufficient calories for the energy required to complete my task. Read more via Scalawag : Food Scarcity In the Texas Prison System .",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/2dd24aebf33019e8a9d05712.json"
+    },
+    {
+      "id": "6c46eae51bf46bc8373c8f1e",
+      "title": "A Portrait of Eugene Debs for Today’s Left",
+      "url": "https://jacobin.com/2026/10/debs-biography-socialism-class-race",
+      "author": "Matthew E. Stanley",
+      "source": "Jacobin",
+      "published_at": "2026-10-13T17:25:32+00:00",
+      "content_excerpt": "You can tell the capitalist system is in trouble when Americans start talking about Eugene Debs. Although the popular image of the great labor and socialist leader has ebbed and flowed since his death a century ago this month, our New Gilded Age has placed him back in the spotlight. Progressive politicians and labor activists, including United Auto Workers President Shawn Fain and union organizer Jaz Brisack, quote his speeches with regularity. Last year, Alexandria Ocasio-Cortez traveled to Debs’s home in Terre Haute, Indiana, to introduce Bernie Sanders, who has long cited the Hoosier firebrand as a political hero. And when Zohran Mamdani kicked off his mayorship of the nation’s largest city, he did so by quoting Debs . Such tributes signify a wider movement. The worldview that Debs cham",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/6c46eae51bf46bc8373c8f1e.json"
+    },
+    {
+      "id": "2e20d8ea16e376b79dbd78ce",
+      "title": "Trump corruption affordability crisis",
+      "url": "https://www.laprogressive.com/progressive-issues/trump-corruption-affordability-crisis",
+      "author": "Robert Reich",
+      "source": "LA Progressive",
+      "published_at": "2026-10-13T16:55:29+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. In these last weeks before the midterms, Democratic candidates have been gaining ground by talking about two things: the affordability crisis and political corruption. If Democrats regain control of Congress and genuinely want to respond to affordability, they’ll need to do everything possible to root out the corruption. The two are inseparable. In large part, prices are rising faster than paychecks because so much of the economy has become subject to political bribery, Trump Republican pay-to-play schemes, and kickbacks to Trump and his cronies. 1. Trump’s war and the corruption underlying it Trump’s war on Iran is causing Americans to spend almost 50 percent more on gas t",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/2e20d8ea16e376b79dbd78ce.json"
+    },
+    {
+      "id": "767b21807fe0ad1226b58b05",
+      "title": "Gen Z Protests Are Reshaping Asia",
+      "url": "https://www.laprogressive.com/foreign-policy/gen-z-protests-are-reshaping-asia",
+      "author": "Ruhi Bhasin",
+      "source": "LA Progressive",
+      "published_at": "2026-10-13T16:46:48+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Asia has seen a surge of “Gen Z protests,” led by a generation tired of accepting the status quo and increasingly using social media to drive change in deeply entrenched political systems. In India, protests over the education system helped force the education minister’s resignation in 2026. Protests in Bangladesh and Nepal in 2024 and 2025, respectively, led to government changes. These protests have helped expose fractured political structures in these countries. Governments in several South and Southeast Asian countries have done little to address the economic distress and corruption plaguing them. The Gen Z citizens, who are facing the brunt of these crumbling systems, ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/767b21807fe0ad1226b58b05.json"
+    },
+    {
+      "id": "35b983b8162e9475f06b5b6f",
+      "title": "Sanctuary: Borders & Belonging in 2026",
+      "url": "https://rocdsa.org/blog/sanctuary-borders-belonging-in-2026",
+      "author": "Rochester Red Star: News from Rochester DSA",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-10-13T16:35:44+00:00",
+      "content_excerpt": "by Bleu Cease, Curator Rochester Contemporary Art Center (RoCo) presents Sanctuary: Borders & Belonging in 2026 , an exhibition bringing together national and regional artists, creatives, and documentarians in response to the current political and social landscape surrounding immigration. On view October 2 through November 14, 2026, the exhibition centers the human lives behind political rhetoric, examining how belonging is made and denied, and how care, resilience, and solidarity persist amid increasingly hostile systems and cruel public narratives. * * * Sanctuary is on view through November 14. Sanctuary: Borders & Belonging in 2026 brings together national and regional artists, creatives, documentarians, and community members in response to the political and social realities surroundin",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/35b983b8162e9475f06b5b6f.json"
+    },
+    {
+      "id": "16d1ec6624c0f7294204b662",
+      "title": "Gaza genocide denial",
+      "url": "https://www.laprogressive.com/foreign-policy/gaza-genocide-denial",
+      "author": "Norman Solomon",
+      "source": "LA Progressive",
+      "published_at": "2026-10-13T15:52:45+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. If you understand that Israel has committed genocide in Gaza, why read an article focusing on the viewpoints of people who vehemently deny it? I wasn’t sure how to explain why, until I remembered something that screenwriter Frédéric Krivine said when I interviewed him in Paris eight years ago. He was the head scriptwriter of the brilliant film series Un Village Français , dramatizing the Nazi occupation of France during World War Two. “People who do horrible things are human beings,” Krivine said. “We have to find a way to talk about them without hiding what they do and without treating them as nonhuman people, nonhuman beings. They are human beings; like us they belong to,",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/16d1ec6624c0f7294204b662.json"
+    },
+    {
+      "id": "33450f4038a52060b17337fe",
+      "title": "Decline of American Empire",
+      "url": "https://www.laprogressive.com/progressive-issues/decline-of-american-empire",
+      "author": "Tom Engelhardt",
+      "source": "LA Progressive",
+      "published_at": "2026-10-13T15:21:41+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Only recently, after a mere two decades of intermittent conflict (with three years off ), the last U.S. troops finally withdrew from... yes, can you believe it?... Iraq! Don’t be shocked, since we’re talking about a country significantly less than 7,000 miles from our shores. Honestly, that’s next to nothing if you remember that, in my youth, the U.S. was fighting a 20-year-long war in Vietnam (and Laos and Cambodia) about 9,000 miles from Washington, D.C. The conflict in Iraq didn’t even last that long. After all, the U.S. didn’t launch its war there until its invasion of 2003, which, in the great scope of time, was essentially yesterday. And I certainly can’t complain abo",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/33450f4038a52060b17337fe.json"
+    },
+    {
+      "id": "dfd91849621154b77ec1f91c",
+      "title": "In Russia’s Election, Nothing Happened, but Things Got Worse",
+      "url": "https://jacobin.com/2026/10/russia-putin-elections-war-authoritarianism",
+      "author": "Maria Chiara Franceschelli",
+      "source": "Jacobin",
+      "published_at": "2026-10-13T15:20:35+00:00",
+      "content_excerpt": "Between September 18 and 20, Russians voted for a new State Duma, along with several regional parliaments and governors. According to the Central Election Commission, turnout reached 59.8 percent, up eight points since 2021. The result was the one everyone expected. Vladimir Putin’s United Russia took almost 58 percent of the party-list vote and 349 of the Duma’s 450 seats, up from 310 in the outgoing chamber. Forty-one of its new MPs are veterans of the invasion of Ukraine. The Communist Party (KPRF) came a distant second with thirty-seven seats, followed by the Liberal Democratic Party (LDPR) with twenty-three, New People with nineteen, A Just Russia with seventeen, and Rodina with one. Four independents complete the total. Voters received two ballots: one for a nationwide party list (22",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/dfd91849621154b77ec1f91c.json"
+    },
+    {
+      "id": "80b5bd03f6aea8798ea97692",
+      "title": "The Impossible Will Take a Little While: The Power of Persistence",
+      "url": "https://www.laprogressive.com/election-and-campaigns/power-of-persistence",
+      "author": "Paul Rogat Loeb",
+      "source": "LA Progressive",
+      "published_at": "2026-10-13T13:58:24+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. We live in a time fraught with bad news: assaults on democracy, climate disasters, crippling inequality, and an endless proliferation of lies. The pace of the daily outrages reminds me of a moment from Art Spiegelman’s Maus . The Spiegelman character asks his therapist, a concentration camp survivor, what it felt like to be in the camps. His therapist thinks, and then yells “Boo!” as loudly as he can, and Spiegelman jumps back. “It felt a little like that,” his therapist says. “But always! From the moment you got to the gate to the very end.” Though Americans aren’t living through the Holocaust, each day can bring more political horrors, more attacks on communities and live",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/80b5bd03f6aea8798ea97692.json"
+    },
+    {
+      "id": "b8d62296518d99590498f13e",
+      "title": "All Aboard Eugene Debs’s Red Special",
+      "url": "https://jacobin.com/2026/10/debs-1908-presidential-campaign-socialism",
+      "author": "Shawn Gude",
+      "source": "Jacobin",
+      "published_at": "2026-10-13T13:31:31+00:00",
+      "content_excerpt": "The specially chartered locomotive pulled out of Chicago on a late August day in 1908, heading west, a sleeper car, dining car, and baggage car loaded with socialist pamphlets in tow. Red flags poked out, bunting and streamers festooning the sides. The passengers were in high spirits. Socialist Party presidential candidate Eugene V. Debs joked that he and his balding brother, Theo, were the resident “long hairs”: “We have three long hairs between us.” Neighbor Stephen Marion Reynolds, whose new biography of Debs was serving as campaign literature, pinned a red flag to his pajamas and explained, “Something might happen in the night, and they would find me dead or unconscious. How would they know I wasn’t a Republican?” As the train raced across the fields of Iowa — flat, flat, flat — a news",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/b8d62296518d99590498f13e.json"
+    },
+    {
+      "id": "d5825af08217e2d114b1abef",
+      "title": "The Physics of Freedom",
+      "url": "https://democraticleft.dsausa.org/2026/10/13/the-physics-of-freedom",
+      "author": "cbottego",
       "source": "Democratic Left",
-      "published_at": "2026-10-12T18:33:53+00:00",
-      "content_excerpt": "A rural, wine-producing area is exposed to new ways of thinking as like-minded socialists find each other — and win. The post New Chapter in Walla Walla, Washington appeared first on Democratic Left .",
+      "published_at": "2026-10-13T12:32:47+00:00",
+      "content_excerpt": "Revisiting Einstein’s \"Why Socialism?\" in 2026 The post The Physics of Freedom appeared first on Democratic Left .",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/9b65235c075642e509f536ed.json"
+      "article_path": "articles/d5825af08217e2d114b1abef.json"
     },
     {
-      "id": "28a676269028ed8c5789b663",
-      "title": "Nicaragua Deportation Story",
-      "url": "https://www.laprogressive.com/foreign-policy/nicaragua-deportation-story",
-      "author": "Becca Renk Foster, John Perry",
+      "id": "dbcc6e6fa9722a96533d0a14",
+      "title": "Mary Church Terrell, Reproductive Loss, and the Meaning of Motherhood",
+      "url": "https://www.aaihs.org/mary-church-terrell-reproductive-loss-and-the-meaning-of-motherhood",
+      "author": "Elizabeth Gonzalez",
+      "source": "AAIHS",
+      "published_at": "2026-10-13T09:29:06+00:00",
+      "content_excerpt": "Mary Church Terrell provides us with a unique glimpse into the struggles of infertility for a Black woman at the The post Mary Church Terrell, Reproductive Loss, and the Meaning of Motherhood first appeared on AAIHS .",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/dbcc6e6fa9722a96533d0a14.json"
+    },
+    {
+      "id": "9bdbb3da5e3894dab660b78b",
+      "title": "Most Dangerous Branch",
+      "url": "https://www.laprogressive.com/law-and-justice/most-dangerous-branch",
+      "author": "Sharon Kyle, Dick Price",
       "source": "LA Progressive",
-      "published_at": "2026-10-12T16:51:43+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. On 1 October 2026, Jeffrey Isaac Jarquin, a 35-year-old Nicaraguan man, was deported from the United States by ICE and, on arrival in Managua, was immediately sent to prison by Nicaraguan authorities. Reports described him as a “torture victim,” a “political prisoner,” and a “prominent figure in the anti-government protests” that occurred in Nicaragua in 2018. His story was covered by the Washington Post , CNN , ABC News , The LA Times and other outlets. It featured on Democracy Now and he received support from the former head of Human Rights Watch, Kenneth Roth . Not one of the reports, however, investigated Jarquin’s role in those “protests” nor recorded that in November ",
+      "published_at": "2026-10-13T05:53:38+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Alexander Hamilton famously described the judiciary as the “least dangerous” branch of government. Unlike Congress, it controlled no purse. Unlike the president, it commanded no army. Its principal power was judgment. More than two centuries later, that description is being put to the test. In a special Left Coast Forum discussion presented by LA Progressive, USC law professor Jody Armour joined constitutional scholars Marjorie Cohn and Stephen Rohde to examine a much larger question than whether the current Supreme Court is conservative: Is the Roberts Court fundamentally changing the constitutional balance of power? That distinction matters. Courts have always issued deci",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/28a676269028ed8c5789b663.json"
+      "article_path": "articles/9bdbb3da5e3894dab660b78b.json"
     },
     {
-      "id": "fc918bd360636d15191f39ea",
-      "title": "New French Revolution",
-      "url": "https://www.laprogressive.com/foreign-policy/sights-and-sounds-of-the-new-french-revolution",
-      "author": "Dennis Broe",
-      "source": "LA Progressive",
-      "published_at": "2026-10-12T16:21:21+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. The high-school student protest here in France, whose epicenter is the region’s second largest and most diverse city Saint Denis, is every day gathering steam and sometimes forcing the Western corporate media to course correct after their initial slandering of the event. Rather than depicting crowds of students taking to the new barracks—the blockades around their schools— The New York Times initially gleefully ran a video of a burning trash can, as the symbol of this mobilization, implying the demonstrators were violent terrorists. The protests in the high schools, have now spread to universities, and engulf not just the students but also unions, teachers and their parents",
+      "id": "72e8f5bfb60e55a09898e893",
+      "title": "UAW President Shawn Fain Wins Mandate in Reelection Victory",
+      "url": "https://medium.com/dsa-detroit-newspaper/uaw-president-shawn-fain-wins-mandate-in-reelection-victory-49737d08cd7b?source=rss-160b7baee925------2",
+      "author": "Detroit DSA",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-10-13T03:02:52+00:00",
+      "content_excerpt": "Kentucky Auto Workers joined the crowd in Detroit for the rally that kicked off the Stand-Up Strike September 15. Photo: Jim West, jimwestphoto.com . By Luis Feliz Leon and Jane Slaughter United Auto Workers President Shawn Fain has won a second four-year term, with an overwhelming lead in member balloting for the union’s top officers. The election was a referendum on the new fighting direction Fain has taken the union by leading 2023’s Stand-Up Strike against the Big 3 automakers, other bold contract fights, and new organizing campaigns. It marks the second time members have voted for their top officers in the union’s 91 years. UAW members voted to switch to a one-member-one-vote system in December 2021. Fain received 68 percent of the vote, against five opponents. His nearest competitor,",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/fc918bd360636d15191f39ea.json"
+      "article_path": "articles/72e8f5bfb60e55a09898e893.json"
     },
     {
-      "id": "754851511b10ab9a848e2d74",
-      "title": "Foreign Policy Undermines International Law",
-      "url": "https://www.laprogressive.com/foreign-policy/foreign-policy-undermines-international-law",
-      "author": "Nicolas Davies",
-      "source": "LA Progressive",
-      "published_at": "2026-10-12T16:18:20+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. On October 9th, the 2026 Nobel Peace Prize Was awarded to Navi Pillay, the South African international lawyer who defended Nelson Mandela and the anti-apartheid political prisoners on Robben Island, and went on to serve as a judge on the UN International Criminal Tribunal for Rwanda and the International Criminal Court (ICC), then as UN High Commissioner for Human Rights. In 2025, Navi Pillay led the UN Commission of Inquiry that confirmed that Israel is committing genocide in Gaza. With the world in the grip of seemingly intractable war and chaos, the Nobel Committee clearly wanted to honor someone who has worked against the tide of militarism and violence to uphold intern",
+      "id": "8d91ea90b68da010ca92dd54",
+      "title": "Statement on Recent Events in NYC",
+      "url": "https://north.dsanj.org/statement-on-recent-events-in-nyc",
+      "author": "Statements from North New Jersey DSA",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-10-13T03:02:52+00:00",
+      "content_excerpt": "Statement on Recent Events in New York October 12th 2026 North New Jersey DSA condemns the ICE shooting and police violence unleashed in Marble Hill. We echo the calls from […]",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/754851511b10ab9a848e2d74.json"
-    },
-    {
-      "id": "5149b3850d026f06108fb138",
-      "title": "Defending a Non-Existent International Law",
-      "url": "https://mltoday.com/defending-a-non-existent-international-law",
-      "author": "MLToday",
-      "source": "MLToday",
-      "published_at": "2026-10-12T16:15:42+00:00",
-      "content_excerpt": "By Margaret Kimberley, BAR Exec. Editor & Senior Columnist September 30, 2026 Black Agenda Report The Hague Group’s goal is to “. . . take coordinated legal and diplomatic measures against Israel’s violations of international law.” But international law was never a reality. This columnist was honored to be invited to a United Nations High Level Meeting In Defence of International Law called by the Hague Group, which was held on September 25, 2026. Defending and protecting international law is surely a priority for anyone who claims to be concerned about the human rights of all people and the rights of all nations to be truly sovereign. The Hague Group was founded on January 31, 2025, when eight nations: Bolivia, Colombia, Cuba, Honduras, Malaysia, Namibia, Senegal, and South Africa united ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/5149b3850d026f06108fb138.json"
-    },
-    {
-      "id": "48ee9d0ca950b937e5a9083f",
-      "title": "Venezuela: Don’t Call It Treason.",
-      "url": "https://mltoday.com/venezuela-dont-call-it-treason",
-      "author": "MLToday",
-      "source": "MLToday",
-      "published_at": "2026-10-12T16:15:42+00:00",
-      "content_excerpt": "By Raffaele Timperi September 24, 2026 www.resistenze.org Caracas’s gold is on its way to New York, and Israeli consulates are reopening [in Venezuela] after seventeen years. Those on the left who are searching for the exact moment of the “betrayal” are avoiding the real question: what was “21st-century socialism”? On September 23, from the podium of the 81st United Nations General Assembly, Venezuela’s acting president, Delcy Rodríguez, thanked Donald Trump “for his willingness to resume diplomatic relations and cooperation with Venezuela,” and took credit for “the recent binational agreement between the United States and Venezuela, one of the largest ever signed,” intended to contribute “to the energy balance of the hemisphere and the international economy.” She was speaking in New York,",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/48ee9d0ca950b937e5a9083f.json"
-    },
-    {
-      "id": "2b3d587728c824ad89f3d23d",
-      "title": "The Speech of Capitulation",
-      "url": "https://mltoday.com/the-speech-of-capitulation",
-      "author": "MLToday",
-      "source": "MLToday",
-      "published_at": "2026-10-12T16:15:42+00:00",
-      "content_excerpt": "Editorial published in Tribuna Popular , newspaper of the Communist Party of Venezuela (PCV): September 28, 2026 Delcy Rodríguez’s speech before the 81st United Nations General Assembly deserves to be examined closely, not only for what she said, but for everything she left unsaid. Rodríguez avoided any direct reference to the US military intervention of January 3, which culminated in the abduction of Nicolás Maduro and Cilia Flores, presenting those events instead as “a painful ordeal” for Venezuela. According to the de facto a cting president, the bombings were the result of the “strangulation of domestic political life.” What exactly does she mean by this? Is she referring to the authoritarian turn of the PSUV leadership, the conspiracy against popular sovereignty on July 28, 2024, or t",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/2b3d587728c824ad89f3d23d.json"
-    },
-    {
-      "id": "13640c06451e906d0f6652f1",
-      "title": "Delcy Rodriguez at the UN: Betrayal Unmasked",
-      "url": "https://mltoday.com/delcy-rodriguez-at-the-un-betrayal-unmasked",
-      "author": "MLToday",
-      "source": "MLToday",
-      "published_at": "2026-10-12T16:15:42+00:00",
-      "content_excerpt": "By Eduardo Miguel Álvarez Estévez September 25, 2026 I was optimistic enough—though I’m now ashamed of that optimism—to think that Delcy Rodríguez would use her platform at the UN General Assembly to denounce to the world the kidnapping of Venezuela’s legitimate president, Nicolás Maduro. That she would demand justice for the Venezuelans and the 32 Cubans killed in Operation Absolute Determination. That she would recall that she was a disciple of Chávez. That she would honor Bolívar. She did none of that. What she did was confirm, before the entire world, who she really is: an architect of surrender, a master of treason, a woman who has turned opportunism into an art form. What She Said at the UN Delcy Rodríguez took the podium at the UN and announced—without a date or specific conditions—",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/13640c06451e906d0f6652f1.json"
-    },
-    {
-      "id": "96729ab4fadc7798306a49e5",
-      "title": "The Pentagon’s Secret Budget",
-      "url": "https://mltoday.com/the-pentagons-secret-budget",
-      "author": "MLToday",
-      "source": "MLToday",
-      "published_at": "2026-10-12T16:15:42+00:00",
-      "content_excerpt": "By David Vine October 2, 2026 CounterPunch News reports that next year’s U.S. military budget will top out at $1.5 trillion if President Donald Trump gets his way are misleading at best. The true total, if Trump’s proposal passes, could be at least $1 trillion higher. Long before Trump took office, U.S. taxpayers have spent far more on the Pentagon — and its wars — than most know. For decades, Congress, the White House, and the Pentagon have hidden the military’s true cost through little-known bureaucratic practices and budgeting tricks. Journalists, academics, and think tank experts have, with rare exceptions, perpetuated the problem by repeating “official” numbers that don’t come close to telling the full story. Data shows that the budget was already between $1.5 trillion and $1.8 trilli",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/96729ab4fadc7798306a49e5.json"
-    },
-    {
-      "id": "994a28ec08b13ee42b2877d4",
-      "title": "“The Law of the Jungle Cannot Be Humanity’s Future”: Cuba at UN General Assembly",
-      "url": "https://mltoday.com/the-law-of-the-jungle-cannot-be-humanitys-future-cuba-at-un-general-assembly",
-      "author": "MLToday",
-      "source": "MLToday",
-      "published_at": "2026-10-12T16:15:42+00:00",
-      "content_excerpt": "By Laura Mercedes Giráldez September 28, 2026 Granma On Saturday—marking exactly 66 years since Commander-in-Chief Fidel Castro Ruz’s first address to the United Nations—Bruno Rodríguez Parrilla, a member of the Political Bureau and Minister of Foreign Affairs, took the same podium. The gathered nations once again heard the island’s denunciation of the “collective punishment” inflicted upon it by the United States government—a crime whose “evident and immediate goal is to induce a humanitarian crisis in Cuba.” Speaking from the podium during the general debate of the 81st session of the UN General Assembly, the Foreign Minister recalled the words spoken back then by the historic leader of the Cuban Revolution, in which he condemned war, colonialism, and the exploitation of countries by mon",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/994a28ec08b13ee42b2877d4.json"
-    },
-    {
-      "id": "ea7fa7ec9e4c118c40f74dd9",
-      "title": "Book Review: Stalin the Collected Works, Volumes 5 and 6",
-      "url": "https://mltoday.com/book-review-stalin-the-collected-works-volumes-5-and-6",
-      "author": "MLToday",
-      "source": "MLToday",
-      "published_at": "2026-10-12T16:15:42+00:00",
-      "content_excerpt": "Reviewed by Grover Furr October 2, 2026 Iskra Books, a publisher of socialist, communist, and revolutionary publications based in Dublin, London, and New York City, has published volume 5 and volume 6 of the Collected Works of Joseph Stalin, entitled Stalin The Collected Works. Volumes 1-4 have already been published. Iskra has announced that volumes 7 and 8, for the years 1925-26, are due out on November 13, 2026. They offer free PDF downloads of all the books they publish ( https://bookshop.org/lists/iskra-books ). Iskra plans to reprint the thirteen volumes published between 1952 and 1955 by Foreign Language Publishing House in Moscow and halted by Nikita Khrushchev’s anti-Stalin campaign. Why reprint a Soviet edition that is more than 70 years old? Particularly when the texts and the v",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/ea7fa7ec9e4c118c40f74dd9.json"
-    },
-    {
-      "id": "9e97ed4b3722d121dc051190",
-      "title": "Pentagon Announces Plan To Launch ‘Autonomous Warfare Command’ To Leverage ‘Super Intelligence’ In Warfare",
-      "url": "https://mltoday.com/pentagon-announces-plan-to-launch-autonomous-warfare-command-to-leverage-super-intelligence-in-warfare",
-      "author": "MLToday",
-      "source": "MLToday",
-      "published_at": "2026-10-12T16:15:42+00:00",
-      "content_excerpt": "By John Weeks October 1, 2026 Antiwar.com The command would oversee the military’s expanding use of drones, robotics and AI. US Secretary of War Pete Hegseth on Wednesday announced plans to create a new four-star combatant command to leverage AI in warfare. During a “State of the Force” address at Marine Corps Base Quantico, Virginia, Hegseth said the Autonomous Warfare Command (AUTOWARCOM) would be tasked with scaling “autonomous and robotic capabilities across the Joint Force in the fastest peacetime shift in modern military history.” The Pentagon intends to launch AUTOWARCOM by October 2027, but it will need to secure Congressional approval to do so. If approved, AUTOWARCOM will become the military’s 12th combatant command. The last new command was US Space Command , launched in 2019 un",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/9e97ed4b3722d121dc051190.json"
-    },
-    {
-      "id": "c188fc3f53e985342e2b5e38",
-      "title": "Gaza From the Sky",
-      "url": "https://mltoday.com/gaza-from-the-sky",
-      "author": "MLToday",
-      "source": "MLToday",
-      "published_at": "2026-10-12T16:15:42+00:00",
-      "content_excerpt": "By Brett Wilkins October 2. 2026 Consortium News One Palestinian from Gaza said the imagery “shows you the Israeli barbarism and terrorism that the world lets happen.” Updated Google satellite imagery shared on social media provides a new perspective on the staggering scale of Israel’s obliteration of the Gaza Strip, showing entire neighborhoods reduced to rubble and vast stretches of a formerly dense urban landscape transformed into barren wasteland. The images from Google — which is accused of complicity in the Gaza genocide — can be viewed on both Google Earth and Google Maps and show extensive destruction throughout the Palestinian territory. In some locations, roads and familiar landmarks remain visible amid enormous fields of gray rubble where homes, businesses, schools and other civ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/c188fc3f53e985342e2b5e38.json"
-    },
-    {
-      "id": "4643ff44096ff8d72558a393",
-      "title": "NATO chief says ‘no imminent danger’ but rearmament of Europe continues in full swing",
-      "url": "https://mltoday.com/nato-chief-says-no-imminent-danger-but-rearmament-of-europe-continues-in-full-swing",
-      "author": "MLToday",
-      "source": "MLToday",
-      "published_at": "2026-10-12T16:15:42+00:00",
-      "content_excerpt": "By Ana Vračar September 30, 2026 Breakthrough News Armament talks continue in Brussels as European leaders pursue increasingly tense anti-Russian discourse and claim “hybrid threats.” More rearmament talks are underway in Brussels as European politicians continue building an increasingly tense anti-Russian discourse. On Wednesday, September 30, defense ministers and industry representatives joined the Euronews Defense and Space Summit , focusing on the bloc’s growing defense expenditure and member cooperation. The summit took place after weeks of allegations of hybrid attacks on EU members, which pushed the already tense rearmament narrative permeating the European political establishment up a couple more notches . It also followed, by only a couple of days, the Council of the EU’s announc",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/4643ff44096ff8d72558a393.json"
-    },
-    {
-      "id": "19f29349fb346be116c8b2aa",
-      "title": "Ice Age",
-      "url": "https://www.laprogressive.com/techie-tips/ice-age",
-      "author": "Unai Montes-Irueste",
-      "source": "LA Progressive",
-      "published_at": "2026-10-12T15:26:46+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. The Industrial Revolution arrived in a natural world that was still intact. AI is arriving while the climate is already making it harder to meet our most basic needs, and while fossil fuel companies, polluters, and unreliable politicians have already ensured too many people lack equitable access to water, food, shelter, electricity, and healthcare. Add AI and it gets worse. Why keep a call center of workers answering credit-card complaints when a bot can do it? Why hire and train a human being anywhere to do anything an LLM or a swarm of agents can do instead? People will die from this, and not because of bioweapons, the parlor game pundits love. They’ll die because they lo",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/19f29349fb346be116c8b2aa.json"
-    },
-    {
-      "id": "a998472ec83e3fb26e59743b",
-      "title": "Blessed Are the Peacemakers",
-      "url": "https://www.laprogressive.com/war-and-peace/blessed-are-the-peacemakers",
-      "author": "Walter G. Moss",
-      "source": "LA Progressive",
-      "published_at": "2026-10-12T14:51:39+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. In The Sermon on the Mount Jesus said, “Blessed are the peacemakers, for they will be called children of God” (Matthew 5:9). In 2025, President Donald Trump thought he should receive the Nobel Peace Prize, and in a December 2025 interview with Politico, Trump said this, “I settled eight wars . . . I mean, I settled one . . . one that was going on for 36 years. Uh, I settled Pakistan and India. I settled so many wars. I’m very proud of it. And I do it pretty routinely, pretty easily. It’s not hard for me to do. It’s what I do. I make deals.” In early October 2026, he repeated his claim . He also stated that he “stopped maybe the total obliteration of the world because Iran w",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/a998472ec83e3fb26e59743b.json"
-    },
-    {
-      "id": "b9a91b6f5b6f43d66f47cb3d",
-      "title": "Why John Coltrane Matters",
-      "url": "https://mltoday.com/why-john-coltrane-matters",
-      "author": "Greg Godels",
-      "source": "MLToday",
-      "published_at": "2026-10-12T14:09:46+00:00",
-      "content_excerpt": "By Greg Godels October 4, 2026 For Spencer Weston, who introduced me to the real, authentic Freddie Freeloader I’ve never been comfortable in crowds. I did most of my early serious musical explorations alone, carefully removing the shrink wrap from a newly arrived album, placing the album on our family console, and listening intently as new, challenging sounds swept over me. But I’ve been lucky. I was lucky because, while I seldom went to concerts, I happened to go to three very different, but historic musical events that affected me very deeply: John Coltrane’s performance at the first and only 1965 Downbeat Jazz Festival in Chicago, Woodstock in 1969, and Bob Marley’s last concert at the Stanley Theater in Pittsburgh, 1980. I call that good luck. Of the three experiences, Woodstock aged ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/b9a91b6f5b6f43d66f47cb3d.json"
-    },
-    {
-      "id": "8ccfaa0cbc36e5473359aa79",
-      "title": "New Reports Show Deadly Side of US Anti-Cuban Policies",
-      "url": "https://mltoday.com/new-reports-show-deadly-side-of-us-anti-cuban-policies",
-      "author": "W. T. Whitney, Jr.",
-      "source": "MLToday",
-      "published_at": "2026-10-12T14:09:46+00:00",
-      "content_excerpt": "By W.T. Whitney Jr. September 29, 2026 New reports amplify call for labor solidarity “You strangle us for forty years and then criticize us for the way we breathe .” Cuban leader Fidel Castro was replying to the criticism, now reviving, of Cuba as a failed state. In fact, destructive US policies over six decades have finally led to humanitarian crisis. Suffering and death rates are up despite collective resilience. Recent comprehensive reports provide information about the origins, substance, methods, objectives, and impact of US measures against Cuba, economic blockade in particular. Two of them appear with support from The Center for Economic and Policy Research (CEPR). Cuba’s Foreign Ministry produced two others. The UN’s Human Rights Councilon September 8 heard Special Rapporteur Alena",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/8ccfaa0cbc36e5473359aa79.json"
-    },
-    {
-      "id": "8f07aa9323e2a4b833bc18ee",
-      "title": "Improved Medicare for All Will Save Our Rural Hospitals",
-      "url": "https://mltoday.com/improved-medicare-for-all-will-save-our-rural-hospitals",
-      "author": "Kay Tillow",
-      "source": "MLToday",
-      "published_at": "2026-10-12T14:09:46+00:00",
-      "content_excerpt": "By Kay Tillow September 19, 2026 Common Dreams At long last, the nation’s healthcare plan will guarantee that not only is everyone covered for care, free at the point of service, but that there is a place within reasonable distance to find that care. After a century of providing healthcare to this rural, southeast Michigan community, Sturgis Hospital closed in June with only 70 hours warning. The hospital was not on the at-risk-of-closing list that had been published by Sen. Ed Markey (D-Mass.) a year earlier. Over 300 Sturgis Hospital employees are scrambling to find work. Registered nurse Beth Kelley , who had worked at Sturgis for 32 years, described the meeting room as filled with “shock” and “devastation” when management announced that the hospital was closing. Nationwide more than 70",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/8f07aa9323e2a4b833bc18ee.json"
-    },
-    {
-      "id": "b37eca9199f4686f6cf2bd15",
-      "title": "The Astonishing Costs for US Working People of the Endless War on Cuba",
-      "url": "https://mltoday.com/the-astonishing-costs-for-us-working-people-of-the-endless-war-on-cuba",
-      "author": "Chris Townsend",
-      "source": "MLToday",
-      "published_at": "2026-10-12T14:09:46+00:00",
-      "content_excerpt": "By Chris Townsend October 9, 2026 PART ONE Few in the United States would know the true history of relations between our country and the Caribbean nation of Cuba. The United States seized Cuba during the Spanish-American War of 1898. A brief, opportunist war triggered by the U.S. on flimsy pretexts to grab several valuable pieces of the decaying Spanish Empire. In addition to Cuba and the Philippines, the islands Puerto Rico and Guam were quickly subjugated by the U.S. military in the conflict. National liberation movements of varying strengths had been operating in all of Spain’s possessions, but only Cuba was granted its independence in 1902. For important reading on the Cuban aspects of their early liberation see Philip Foner’s two volumes, “The History of Cuba, Volumes 1 and 2”. https:",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/b37eca9199f4686f6cf2bd15.json"
+      "article_path": "articles/8d91ea90b68da010ca92dd54.json"
     }
   ]
 }
