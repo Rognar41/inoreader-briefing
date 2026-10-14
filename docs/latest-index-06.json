@@ -1,12 +1,177 @@
 {
-  "generated_at": "2026-10-13T23:22:37.589203+00:00",
-  "generated_at_jst": "2026-10-14T08:22:37.589203+09:00",
-  "period_start": "2026-10-12T17:22:37.589203+00:00",
+  "generated_at": "2026-10-14T22:30:17.534875+00:00",
+  "generated_at_jst": "2026-10-15T07:30:17.534875+09:00",
+  "period_start": "2026-10-13T16:30:17.534875+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
-  "article_count": 20,
+  "article_count": 19,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "15806847a4aae12703f9cde8",
+      "title": "Trump’s war on Iran is poised to sink his party in the midterms",
+      "url": "https://mondoweiss.net/2026/10/trumps-war-on-iran-is-poised-to-sink-his-party-in-the-midterms",
+      "author": "Michael Arria",
+      "source": "Mondoweiss",
+      "published_at": "2026-10-14T19:51:42+00:00",
+      "content_excerpt": "Trump's war on Iran is broadly unpopular among Americans, and it's poised to sink the GOP in the upcoming midterms.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/15806847a4aae12703f9cde8.json"
+    },
+    {
+      "id": "b8cc0795c9707ef2c133a858",
+      "title": "“Musk” Filmmaker Alex Gibney on Why Elon Musk Fears Democrats Will Win Midterms",
+      "url": "https://www.democracynow.org/2026/10/14/musk_filmmaker_alex_gibney_on_why",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-10-14T18:33:55+00:00",
+      "content_excerpt": "This is a rush transcript. Copy may not be in its final form. AMY GOODMAN : This is Democracy Now! , democracynow.org, The War and Peace Report . I’m Amy Goodman, as we bring you Part 2 of our conversation with Alex Gibney, Academy Award-winning director. His new film is Musk . Last week, Defense Secretary Pete Hegseth announced a new Pentagon project on the future of warfare. Elon Musk will lead the task force along with former Republican House Speaker Newt Gingrich and Trump donor and weapons entrepreneur Palmer Luckey. This comes as The New York Times reports Musk has spent $366 million to help Republicans in the midterms. Now, according to NPR , SpaceX, Musk’s company, has secured over $8 billion in U.S. military contracts in this year alone. So, if he can keep the Republicans in power",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/b8cc0795c9707ef2c133a858.json"
+    },
+    {
+      "id": "21fcac69bcd901d303031ee0",
+      "title": "A million people rally for Lula in São Paulo",
+      "url": "https://www.brasildefato.com.br/2026/10/14/a-million-people-rally-for-lula-in-sao-paulo",
+      "author": "",
+      "source": "Brasil de Fato",
+      "published_at": "2026-10-14T16:28:43+00:00",
+      "content_excerpt": "Alongside political allies, President Luiz Inácio Lula da Silva delivered a speech on São Paulo’s Paulista Avenue to more than a million people who packed the streets this Sunday, October 11. Seeking re-election, Lula highlighted the power of the youth in mobilizing both online and offline and emphasized the importance of young people participating in politics to ensure dignity and rights. “This event is a lesson,” he said. “Either you participate in political life, or it cannot be fixed. You must take responsibility to join the fight while you are young. This country cannot lose its democracy, however flawed it may be.” Lula also recalled the actions of Jair Bolsonaro’s government during the COVID-19 pandemic. The president criticized the denialism and lack of humanity he attributed to Bo",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/21fcac69bcd901d303031ee0.json"
+    },
+    {
+      "id": "6954fd413692e6b14f834281",
+      "title": "Can Democrats Flip the House and Senate? The Lever’s David Sirota on Midterm Races To Watch",
+      "url": "https://www.democracynow.org/2026/10/14/midterms",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-10-14T14:20:03+00:00",
+      "content_excerpt": "The midterm elections are in less than three weeks, on November 3. With Republican majorities in both chambers of Congress on the line, the Trump administration has thrown its time and resources into holding rallies in newly competitive states. We take a look at key Senate races in Georgia, Texas, Michigan and Maine with The Lever ’s David Sirota. Ultimately, says Sirota, election results will hinge on voter turnout. “Will there be that surge of turnout based on how unpopular Trump is and how bad the affordability crisis is?” And, if they win, can Democrats then “deliver” on their promises? Page 2 On Monday, federal agents from the Department of Homeland Security raided the Washington, D.C., home of Congressmember Ilhan Omar. Omar has faced years of racist targeting from President Trump ov",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/6954fd413692e6b14f834281.json"
+    },
+    {
+      "id": "f114b80b75db5525314e9e0b",
+      "title": "“Bogus”: Minnesota State Senator Zaynab Mohamed on DHS Raid on Rep. Ilhan Omar’s D.C. Home",
+      "url": "https://www.democracynow.org/2026/10/14/ilhan_omar_home_raided",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-10-14T14:20:03+00:00",
+      "content_excerpt": "On Monday, federal agents from the Department of Homeland Security raided the Washington, D.C., home of Congressmember Ilhan Omar. Omar has faced years of racist targeting from President Trump over her ethnicity and immigrant background. She immigrated to the United States as a refugee from Somalia when she was a child. Omar is the first Somali American elected to federal office, the first woman of color to represent Minnesota and, along with Michigan’s Rashida Tlaib, one of the first Muslim women to serve in Congress. “Congresswoman Omar has been under attack by this administration for the last decade. … She’s a symbol of everything that this administration hates: an immigrant who stands up for her community, who fought to be here in this country, and now is doing her job and her duty to ",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/f114b80b75db5525314e9e0b.json"
+    },
+    {
+      "id": "da81be1d4a4e927e9dc6a517",
+      "title": "“Propaganda Show”: IDF Raids Palestinian NGOs in the West Bank Ahead of Israeli Elections",
+      "url": "https://www.democracynow.org/2026/10/14/israel_raids_west_bank_ngos",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-10-14T14:20:03+00:00",
+      "content_excerpt": "Israeli forces have raided what they say are the offices of several Palestinian NGOs in the occupied West Bank. Palestinian officials say a child was injured from Israeli gunfire, while others suffered from tear gas inhalation. At least one journalist was reportedly detained in the raids, which come four years after the forced closure of multiple NGOs that the Israeli government designated as “terrorist” organizations. “This is part of the whole propaganda show that this government is actually implementing just before the Israeli election,” says human rights lawyer Sahar Francis. “They just wanted to cause harassment, and this is the main message: the persecution and the collective punishment for the whole Palestinian community.” Francis was formerly the general director at Addameer Prison",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/da81be1d4a4e927e9dc6a517.json"
+    },
+    {
+      "id": "fb920de8b45ba23f902a152f",
+      "title": "In Gaza, even cash comes at a cost",
+      "url": "https://mondoweiss.net/2026/10/in-gaza-even-cash-comes-at-a-cost",
+      "author": "Tareq S. Hajjaj",
+      "source": "Mondoweiss",
+      "published_at": "2026-10-14T13:47:42+00:00",
+      "content_excerpt": "Israeli-imposed financial restrictions are choking Gaza's economy as banknotes run out, leaving the average consumer with a heavy price to pay.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/fb920de8b45ba23f902a152f.json"
+    },
+    {
+      "id": "9cff39a255b57fe29a6c5cdf",
+      "title": "In the crosshairs of AI",
+      "url": "https://tempestmag.org/2026/10/in-the-crosshairs-of-ai",
+      "author": "Ashley Smith",
+      "source": "Tempest",
+      "published_at": "2026-10-14T12:02:03+00:00",
+      "content_excerpt": "I n their mad rush for profit and power, the tech oligarchs have unleashed artificial intelligence (AI) into nearly every corner of life on this planet. Firms are investing billions in data centers, which house the infrastructure to process the enormous amounts of information that power AI. They are also plowing ever more money into research and development. Their hope is that the technology will overcome global capitalism’s slump , which the system has been trapped in since the Great Recession, and trigger a new epoch of expansion. States are incorporating it into their police forces for domestic surveillance as well as their militaries for cyberwarfare and high-tech weapons. Ominously, the struggle for AI supremacy is now at the center of the imperialist rivalry between the U.S. and Chin",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/9cff39a255b57fe29a6c5cdf.json"
+    },
+    {
+      "id": "446e528bd06b43a053fb949d",
+      "title": "The gang rape at Cornell",
+      "url": "https://tempestmag.org/2026/10/the-gang-rape-at-cornell",
+      "author": "Dana Cloud",
+      "source": "Tempest",
+      "published_at": "2026-10-14T07:22:08+00:00",
+      "content_excerpt": "W e are now, finally, aware of what happened: In 2024, seven male students at Cornell University, all members of the Chi Phi fraternity, raped a woman known now as Jane Doe at a fraternity party. The party at which she was assaulted was soaked in alcohol and drugs. Jonathan Newell and six other men took advantage of and amplified her intoxicated state. She was taken to a bedroom where she was attacked by these men. A fraternity member disgustingly posted a message to Snapchat (that went to 50 people who did nothing) advertising free access to Doe’s body. The text read, “free pussy in alum pu [pull up]. . . Like you can walk in and whip it out.” Another message read, “Shop still open.” Trapped in the room, Doe was raped for hours. It is almost too grotesque to fathom yet also horribly commo",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/446e528bd06b43a053fb949d.json"
+    },
+    {
+      "id": "c43771007c939d6ea16c04c8",
+      "title": "Endogeneity Without Exception: Modern Monetary Theory & The Promise of Heterodoxy",
+      "url": "https://mronline.org/2026/10/13/endogeneity-without-exception-modern-monetary-theory-the-promise-of-heterodoxy",
+      "author": "Scott Ferguson",
+      "source": "MR Online",
+      "published_at": "2026-10-14T01:26:32+00:00",
+      "content_excerpt": "Billy Saas and guest-host Will Beaman speak with Money on the Left’s own Scott Ferguson about his essay, “Endogeneity Without Exception: Modern Monetary Theory and the Promise of Heterodoxy,” published recently in the Journal of Economic Issues. The post Endogeneity Without Exception: Modern Monetary Theory & The Promise of Heterodoxy appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/c43771007c939d6ea16c04c8.json"
+    },
+    {
+      "id": "60f92342c7396ff9b91b3fe7",
+      "title": "Parallel Legacies of Independent Thought: Ireland’sThe Bell and Australia’s Nation",
+      "url": "https://mronline.org/2026/10/13/parallel-legacies-of-independent-thought-irelandsthe-bell-and-australias-nation",
+      "author": "Peter Gifford",
+      "source": "MR Online",
+      "published_at": "2026-10-13T23:26:00+00:00",
+      "content_excerpt": "Both journals sought to shatter national myths, force uncomfortable realities into public discussion, and give writers room to question the assumptions of powerful institutions. These two publications deserve attention today. The post Parallel Legacies of Independent Thought: Ireland’s<em>The Bell</em> and Australia’s <em>Nation</em> appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/60f92342c7396ff9b91b3fe7.json"
+    },
     {
       "id": "2c0d1db6f2a0888c2c34a39a",
       "title": "DR Congo’s deadliest Ebola outbreak kills over 4,200 as armed groups undermine response",
@@ -126,186 +291,6 @@
       "priority": 2,
       "date_missing": false,
       "article_path": "articles/4ecfcfdca5c5dabba48e0501.json"
-    },
-    {
-      "id": "addbd5c663921e0d4e12e821",
-      "title": "Yemen Plunges Back into “Full-Scale Civil War,” Houthis Trade Strikes with Saudi Arabia",
-      "url": "https://www.democracynow.org/2026/10/13/houthis_strike_saudi",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-10-13T15:09:07+00:00",
-      "content_excerpt": "This is a rush transcript. Copy may not be in its final form. AMY GOODMAN : Houthi fighters from Yemen have targeted the Saudi capital of Riyadh for the third time in recent days. On Saturday, a Houthi missile strike on a Riyadh airport killed 13 people and injured over 300 in the deadliest single attack on Saudi soil in over a decade. The Houthis have hit the airport at least four times. All flights out of the airport are currently suspended. Saudi Crown Prince Mohammed bin Salman has not been seen publicly in a week, is reportedly shuttling between palaces with heavy security and bunkers. Riyadh is 500 or so miles from Houthi-controlled areas in Yemen. This is Houthi military spokesperson Yahya Sarea speaking Monday. YAHYA SAREA : [translated] With the help of Almighty God, the armed for",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/addbd5c663921e0d4e12e821.json"
-    },
-    {
-      "id": "b10596c3643048691b0176c7",
-      "title": "“Musk”: Alex Gibney on New Film, Legal Threats & Elon Musk Spending $366M to Help GOP in Midterms",
-      "url": "https://www.democracynow.org/2026/10/13/musk_documentary",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-10-13T15:09:07+00:00",
-      "content_excerpt": "We speak with the Academy Award-winning director Alex Gibney about his new documentary Musk , an expansive, nearly four-hour examination of the world’s first trillionaire and how he has amassed unprecedented power in business, technology and politics. The film traces Elon Musk’s early ventures and the rise of SpaceX and Tesla, examining the role of government support in their growth. It also explores his acquisition of Twitter, now X; his alliance with President Donald Trump and the MAGA movement; and his role in the Department of Government Efficiency, or DOGE , whose cuts devastated federal programs, including USAID . Gibney says Musk has carefully crafted an image of a “polymath” who can solve the world’s most pressing problems, but that he is really “kind of a ruthless businessman” wil",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/b10596c3643048691b0176c7.json"
-    },
-    {
-      "id": "5a11f5e23fdf0ecd4612091a",
-      "title": "Remembering Peter D. Thomas (1973–2026)",
-      "url": "https://www.historicalmaterialism.org/remembering-peter-d-thomas-1973-2026",
-      "author": "Panagiotis Sotiris",
-      "source": "Historical Materialism",
-      "published_at": "2026-10-13T15:05:23+00:00",
-      "content_excerpt": "It is with immense sadness and grief that we share the news of the death of our comrade, friend and long-standing member of the Historical Materialism Editorial Board Peter D. Thomas. Peter passed away due to a heart-attack on 11 October 2026, just after he had turned 53. With an academic background in philosophy and literature from his studies in Australia, having obtained a BA and an MA from the University of Queensland, he came to Europe to pursue his doctoral research in 2000. His PhD at the University of Amsterdam was supervised by Marcel van der Linden and Michael R. Krätke, and was awarded in 2008 despite efforts by right-wing members of the University to derail it. What started as a thesis that attempted an immanent critique of Perry Anderson’s and Louis Althusser’s respective read",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/5a11f5e23fdf0ecd4612091a.json"
-    },
-    {
-      "id": "2d7f6445dca44dc6ef49da2c",
-      "title": "The Israeli witch hunt of Sami Abu Shehadeh exposes the lie of the ‘Jewish and democratic’ state",
-      "url": "https://mondoweiss.net/2026/10/the-israeli-witch-hunt-of-sami-abu-shehadeh-exposes-the-lie-of-the-jewish-and-democratic-state",
-      "author": "Jonathan Ofir",
-      "source": "Mondoweiss",
-      "published_at": "2026-10-13T14:42:32+00:00",
-      "content_excerpt": "The Supreme Court’s decision to force Palestinian politician Sami Abu Shehadeh out of the upcoming Israeli elections is the latest sign that there is no place for Palestinian citizens of Israel in the ‘Jewish and democratic’ state.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/2d7f6445dca44dc6ef49da2c.json"
-    },
-    {
-      "id": "cc2618dadeb9c6235907e895",
-      "title": "Genocide treated as afterthought by media on third anniversary of October 7 attacks",
-      "url": "https://mronline.org/2026/10/13/genocide-treated-as-afterthought-by-media-on-third-anniversary-of-october-7-attacks",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-13T13:45:12+00:00",
-      "content_excerpt": "October 7 marked three years since the Hamas attacks on Israel that left some 1,200 people dead and 251 taken hostage. It also marks three years since Israel launched its genocide of Palestinians in the Gaza Strip with material and moral support from the United States, with an official death toll surpassing 74,000—including more than 20,000 children. The post Genocide treated as afterthought by media on third anniversary of October 7 attacks appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/cc2618dadeb9c6235907e895.json"
-    },
-    {
-      "id": "fbb12624272d33f802fc9733",
-      "title": "Trump ocean renaming: 5 key facts about his latest suggestion",
-      "url": "https://mronline.org/2026/10/13/trump-ocean-renaming-5-key-facts-about-his-latest-suggestion",
-      "author": "teleSUR Desk",
-      "source": "MR Online",
-      "published_at": "2026-10-13T12:48:43+00:00",
-      "content_excerpt": "Trump ocean renaming suggestion targets the Atlantic or Pacific, following earlier moves to rename the Gulf of Mexico and Lake Ontario. The post Trump ocean renaming: 5 key facts about his latest suggestion appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/fbb12624272d33f802fc9733.json"
-    },
-    {
-      "id": "82ac1c4290d6909252c067d2",
-      "title": "The AI model distillation paradox",
-      "url": "https://mronline.org/2026/10/13/the-ai-model-distillation-paradox",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-13T11:51:39+00:00",
-      "content_excerpt": "When U.S. labs train models on the world’s writing, Washington calls it fair use. When Chinese labs train on U.S. outputs, it’s a “malicious attack.” It can’t have it both ways. The post The AI model distillation paradox appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/82ac1c4290d6909252c067d2.json"
-    },
-    {
-      "id": "e7726026b50c34f3b55ea712",
-      "title": "Another anniversary of Che’s assassination",
-      "url": "https://mronline.org/2026/10/13/another-anniversary-of-ches-assassination",
-      "author": "Atilio Borón",
-      "source": "MR Online",
-      "published_at": "2026-10-13T10:54:19+00:00",
-      "content_excerpt": "The person who carried out the cowardly assassination of Che was the Bolivian noncommissioned officer Mario Terán Salazar. The post Another anniversary of Che’s assassination appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/e7726026b50c34f3b55ea712.json"
-    },
-    {
-      "id": "09752c6da236889362d32b77",
-      "title": "Letters from the American Empire: October 12, 2026",
-      "url": "https://mronline.org/2026/10/13/letters-from-the-american-empire-october-12-2026",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-13T09:56:29+00:00",
-      "content_excerpt": "The African revolutionary Amílcar Cabral once asked his counterparts throughout the world at late-night strategy sessions: How did they wage successful armed struggle? The post Letters from the American Empire: October 12, 2026 appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/09752c6da236889362d32b77.json"
-    },
-    {
-      "id": "cbf842c421700b30fabf3f4b",
-      "title": "Beyond Polarity: For a Marxist Theory of the World Order",
-      "url": "https://thetricontinental.org/dossier-beyond-polarity",
-      "author": "",
-      "source": "[:en]THE TRICONTINENTAL[:es]TRICONTINENTAL[:]",
-      "published_at": "2026-10-13T08:39:25+00:00",
-      "content_excerpt": "Collage by Tricontinental: Institute for Social Research drawing from a Dymaxion map projection and Islamic, Mesoamerican, Ethiopian, and Chinese maps made between the twelfth and seventeenth centuries. Images sourced from: Muhammad al-Idrisi, Tabula Rogeriana, 1154, 1929 reconstruction and transliteration by Konrad Miller via Wikimedia Commons; Matteo Ricci and Li Zhizao, Kunyu Wanguo Quantu (坤輿萬國全圖), 1602, Library of Congress Geography and Map Division via Wikimedia Commons; Códice Xólotl, Lámina 1, Tetzcoco, Mexico, c. 1541 via Wikimedia Commons; Tigrayan circular map from the Māshafā Aksum (Book of Aksum), pre-eighteenth century, Bibliothèque nationale de France, Collection Antoine d’Abbadie, via Wikimedia Commons; and Justinkunimune, Blank World Map, Dymaxion Projection , 2023, Wikime",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/cbf842c421700b30fabf3f4b.json"
-    },
-    {
-      "id": "5ae0519a11aa405776c6b18f",
-      "title": "The Land to Those Who Work It: Land Reform and Socialist Agriculture in the German Democratic Republic",
-      "url": "https://thetricontinental.org/study-3-ddr-land-reform",
-      "author": "",
-      "source": "[:en]THE TRICONTINENTAL[:es]TRICONTINENTAL[:]",
-      "published_at": "2026-10-13T08:39:25+00:00",
-      "content_excerpt": "About Studies on the DDR The German Democratic Republic (Deutsche Demokratische Republik, DDR) was a socialist state founded in East Germany in 1949 as a democratic, anti-fascist reaction to the Second World War and the subsequent restoration of monopoly capitalism in West Germany. The DDR represented a new Germany – one in which the land was redistributed, the means of production socialised, agricultural production organised into cooperatives, and significant advances made in gender equality, education, healthcare, and other areas of society. The DDR also cultivated friendly and close-knit economic relationships with other socialist states and exercised political and material solidarity with countries and movements fighting for their independence in Latin America, Asia, and Africa. In thi",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/5ae0519a11aa405776c6b18f.json"
-    },
-    {
-      "id": "aabff91e2b0c1a49b07d04c5",
-      "title": "BT LIVE: India’s Protest Crackdown | Spain Housing Crisis Explodes | US ‘Taxpayer Uprising’",
-      "url": "https://breakthroughnews.org/2026/10/13/oct-12-26",
-      "author": "BreakThrough News",
-      "source": "BT News",
-      "published_at": "2026-10-13T01:24:50+00:00",
-      "content_excerpt": "This content is for members only. Visit the site and log in/register to read.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/aabff91e2b0c1a49b07d04c5.json"
     }
   ]
 }
