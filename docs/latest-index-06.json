@@ -1,12 +1,267 @@
 {
-  "generated_at": "2026-10-14T22:30:17.534875+00:00",
-  "generated_at_jst": "2026-10-15T07:30:17.534875+09:00",
-  "period_start": "2026-10-13T16:30:17.534875+00:00",
+  "generated_at": "2026-10-15T22:34:35.686073+00:00",
+  "generated_at_jst": "2026-10-16T07:34:35.686073+09:00",
+  "period_start": "2026-10-14T16:34:35.686073+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
   "article_count": 19,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "546cbe43db09773a06696f1a",
+      "title": "Students Shut Down French High Schools in the Face of Class and Racial Oppression",
+      "url": "https://mronline.org/2026/10/15/students-shut-down-french-high-schools-in-face-of-class-and-racial-oppression",
+      "author": "Kevin B. Anderson",
+      "source": "MR Online",
+      "published_at": "2026-10-15T21:35:11+00:00",
+      "content_excerpt": "A new challenge from the left, and from the youngest of the youth, has been hurled at a racialized capitalist system which in France, as in so many other places, is moving in the direction of outright neofascism. The post Students Shut Down French High Schools in the Face of Class and Racial Oppression appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/546cbe43db09773a06696f1a.json"
+    },
+    {
+      "id": "89bf35d0a5682e641b39c966",
+      "title": "Inside the fight to stop Israel-bound weapons at the East Coast’s biggest port",
+      "url": "https://mondoweiss.net/2026/10/inside-the-fight-to-stop-israel-bound-weapons-at-the-east-coasts-biggest-port",
+      "author": "Joseph Mogul",
+      "source": "Mondoweiss",
+      "published_at": "2026-10-15T18:28:27+00:00",
+      "content_excerpt": "At Port Newark-Elizabeth, activists are escalating their tactics to stop weapons shipments to Israel. Mondoweiss reports from the port’s front lines.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/89bf35d0a5682e641b39c966.json"
+    },
+    {
+      "id": "b2f0c7643c10cf1d86c0cdb3",
+      "title": "A Referendum on Freedom w/Jane Fonda & Nadine Bloch",
+      "url": "https://convergencemag.com/podcast/a-referendum-on-freedom-w-jane-fonda-nadine-bloch",
+      "author": "Scot Nakagawa",
+      "source": "Convergence",
+      "published_at": "2026-10-15T17:10:49+00:00",
+      "content_excerpt": "When authoritarian regimes consolidate power, they come for the artists first because artists name what is happening, make people feel what is true, and keep moral imagination alive when everything else is being suppressed. In this episode, Scot talks with two people who have spent their lives at the intersection of art and resistance: Jane Fonda, one of the most consequential activist artists of… Source",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/b2f0c7643c10cf1d86c0cdb3.json"
+    },
+    {
+      "id": "26576c3f499082cfef733130",
+      "title": "U.S. Sanctions ICC in a Bid to Avoid “Criminal Liability”: War Crimes Prosecutor Reed Brody",
+      "url": "https://www.democracynow.org/2026/10/15/reed_brody_icc",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-10-15T15:10:59+00:00",
+      "content_excerpt": "This is a rush transcript. Copy may not be in its final form. NERMEEN SHAIKH : The Trump administration has placed sweeping sanctions on the International Criminal Court. The sanctions target the institution as a whole. This comes on top of earlier sanctions targeting individual ICC judges and personnel. The Trump administration announced the sanctions on Friday, just hours after former ICC Judge Navi Pillay was awarded the Nobel Peace Prize. Pillay criticized President Trump’s new sanctions. NAVI PILLAY : So, I think it’s very unfortunate. However, the plans of targeting international criminal justice through the ICC was brewing all the time. We all heard these threats against the court. So, the timing of how they announced the threat and made it official is curious. … It can’t be coincid",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/26576c3f499082cfef733130.json"
+    },
+    {
+      "id": "76fd4272245f4f4617723422",
+      "title": "The Midterm Battle over Data Centers: Memphis House Candidate Justin Pearson Fights Elon Musk’s xAI",
+      "url": "https://www.democracynow.org/2026/10/15/xai_justin_pearson",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-10-15T15:10:59+00:00",
+      "content_excerpt": "The energy needs of the AI boom and the construction of massive data centers in states across the country have created a backlash from both Democratic and Republican voters. The battle against data centers is at the heart of a campaign in Tennessee: Democratic state Representative Justin J. Pearson is opposed to the Colossus data centers built by Elon Musk’s xAI in the Memphis area. Pearson is running against Republican state Senator Brent Taylor in Tennessee’s 9th Congressional District, which, after recent redistricting, includes parts of Memphis, as well as rural and suburban counties. “Across the 15 counties that I’ve traveled, I’ve yet to meet anyone, including folks who are Republicans who are voting for us, who want data centers,” says Pearson. “Gas is high; groceries are high; heal",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/76fd4272245f4f4617723422.json"
+    },
+    {
+      "id": "345edea08e445b3d83f2326f",
+      "title": "“Hyperscale”: Paris Marx on Excess of Big Tech Data Empires & His Critique of Bernie Sanders’ AI Bill",
+      "url": "https://www.democracynow.org/2026/10/15/hyperscale_paris_marx",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-10-15T15:10:59+00:00",
+      "content_excerpt": "We speak with tech journalist Paris Marx about his new book, Hyperscale: The Ambition and Excess of Big Tech’s Data Empires . In the book, Marx exposes the deceptive ways tech companies are taking resources from vulnerable communities in order to build massive AI data centers. “We have seen the tech companies that, back in 2019, 2020, wanted us to see them as climate leaders … completely throw their targets out the window in order to pursue generative AI and this data center buildout,” says Marx. He notes that after failing to connect to electrical grids in the locations where they were building data centers, some AI companies have pivoted to building “on-site gas plants,” further increasing dependency on fossil fuels. Tech companies “want us to believe” that AI models are “starting to bec",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/345edea08e445b3d83f2326f.json"
+    },
+    {
+      "id": "e4880892bb5f846ff6c45328",
+      "title": "Gaza’s child amputees are growing faster than their prosthetics allow",
+      "url": "https://mondoweiss.net/2026/10/gazas-child-amputees-are-growing-faster-than-their-prosthetics-allow",
+      "author": "Mohanad El-Hemrawi",
+      "source": "Mondoweiss",
+      "published_at": "2026-10-15T14:35:21+00:00",
+      "content_excerpt": "Israel is restricting prosthetics and rehabilitation equipment from entering Gaza, leaving thousands of children waiting for a medical evacuation that may never come.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/e4880892bb5f846ff6c45328.json"
+    },
+    {
+      "id": "d9550ce376dd7aef94b0db64",
+      "title": "‘Totally beyond the pale’: angry judge shuts down Trump administration’s mass destruction of DC trees",
+      "url": "https://mronline.org/2026/10/15/totally-beyond-the-pale-angry-judge-shuts-down-trump-administrations-mass-destruction-of-dc-trees",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-15T13:39:28+00:00",
+      "content_excerpt": "U.S. District Judge Ana Reyes said the Trump administration’s weekend removal of hundreds of trees at the East Potomac Golf Links “has cost the government all of its credibility.” The post ‘Totally beyond the pale’: angry judge shuts down Trump administration’s mass destruction of DC trees appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/d9550ce376dd7aef94b0db64.json"
+    },
+    {
+      "id": "6289e3856a7a77299579ce57",
+      "title": "How unequal exchange shapes our world",
+      "url": "https://mronline.org/2026/10/15/how-unequal-exchange-shapes-our-world",
+      "author": "Jason Hickel",
+      "source": "MR Online",
+      "published_at": "2026-10-15T12:43:00+00:00",
+      "content_excerpt": "Jason Hickel on the persistent inequalities of the post-colonial order. The post How unequal exchange shapes our world appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/6289e3856a7a77299579ce57.json"
+    },
+    {
+      "id": "cd441d2434e6bca42ccf35e5",
+      "title": "Turnout doubles as French protesters demand Macron’s government resign",
+      "url": "https://mronline.org/2026/10/15/turnout-doubles-as-french-protesters-demand-macrons-government-resign",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-15T11:47:33+00:00",
+      "content_excerpt": "Clashes, arrests, and tear gas in Paris marked a nationwide day of protest backed by students and unions, with 161,500 people rallying across France. The post Turnout doubles as French protesters demand Macron’s government resign appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/cd441d2434e6bca42ccf35e5.json"
+    },
+    {
+      "id": "2f67cdbe1c99a720005e46a5",
+      "title": "The travails of being mineral-rich",
+      "url": "https://mronline.org/2026/10/15/the-travails-of-being-mineral-rich",
+      "author": "Prabhat Patnaik",
+      "source": "MR Online",
+      "published_at": "2026-10-15T10:44:05+00:00",
+      "content_excerpt": "If some particular mineral of commercial use is found in a country of the global South, then multinational corporations from the North descend upon that country to extract this mineral wealth. The post The travails of being mineral-rich appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/2f67cdbe1c99a720005e46a5.json"
+    },
+    {
+      "id": "a10a56b56d5cfd21e3129373",
+      "title": "The German Democratic Republic, a socialist state still villainized long after its demise",
+      "url": "https://mronline.org/2026/10/15/the-german-democratic-republic-a-socialist-state-still-villainized-long-after-its-demise",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-15T09:49:57+00:00",
+      "content_excerpt": "Oct. 7, 2024, marks the 75th anniversary of the founding of the German Democratic Republic. For several years in the 1980s, People’s World Editor John Wojcik served as chair of the U.S. Committee for Friendship with the GDR. The post The German Democratic Republic, a socialist state still villainized long after its demise appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/a10a56b56d5cfd21e3129373.json"
+    },
+    {
+      "id": "1ffe7cf58cf16692457d34b0",
+      "title": "BT LIVE: Yemen Hits Back at Saudi | Mercenaries in the DRC | California ICE Surge | + The China Report",
+      "url": "https://breakthroughnews.org/2026/10/15/oct-15-26",
+      "author": "BreakThrough News",
+      "source": "BT News",
+      "published_at": "2026-10-15T05:01:23+00:00",
+      "content_excerpt": "This content is for members only. Visit the site and log in/register to read.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/1ffe7cf58cf16692457d34b0.json"
+    },
+    {
+      "id": "a18ea6976f6356e9dd2e824d",
+      "title": "Burkina Faso moves to decolonize education through curriculum reform",
+      "url": "https://breakthroughnews.org/2026/10/15/burkina-faso-moves-to-decolonize-education-through-curriculum-reform",
+      "author": "Nicholas Mwangi",
+      "source": "BT News",
+      "published_at": "2026-10-15T05:01:23+00:00",
+      "content_excerpt": "Burkina Faso has begun reviewing its history, geography and civic education curricula. The government says the aim is to “decolonize” the country’s schools by removing colonial-era portrayals of African history and giving more space to national history, African resistance, cultural values, and local knowledge. Speaking during a meeting with education officials in Ouagadougou, Secondary Education Minister Moumouni Zoungrana criticized the language used in school textbooks to describe European colonialists. “Those who came to conquer Africa are called explorers, conquerors. Were they conquerors? They were spies…. They were invaders,” the minister said, according to APA News . The minister said certain terms in the current materials serve to “infantilize” and “animalize” Africans in the teach",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/a18ea6976f6356e9dd2e824d.json"
+    },
+    {
+      "id": "a5bea8d3fb3a6b01472dcd1d",
+      "title": "‘Taxpayer uprising’ targets Trump’s $1.5 trillion Pentagon budget",
+      "url": "https://breakthroughnews.org/2026/10/14/taxpayer-uprising-targets-trumps-1-5-trillion-pentagon-budget",
+      "author": "Rania Khalek",
+      "source": "BT News",
+      "published_at": "2026-10-15T02:10:01+00:00",
+      "content_excerpt": "Trump’s war on Iran has already cost the average American household $2,000 according to Moody’s, and the bill keeps climbing. Jodie Evans, co-founder of CODEPINK, tells Rania Khalek and Zoe Alexandra that a mass “Taxpayer Uprising” this November is the only way to block Trump’s historic $1.5 trillion Pentagon budget, as both parties keep writing checks for weapons manufacturers. Evans breaks down how military contractors, Big Oil, and AI tech giants “make a killing on killing,” and explains why Republicans and Democrats are both at fault for a US war economy that funnels taxpayer money to billionaires, militarizes the police, and criminalizes Gaza solidarity and calls for peace. She warns about the push to merge the US and Israeli military industries, and responds to allegations from Marco",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/a5bea8d3fb3a6b01472dcd1d.json"
+    },
+    {
+      "id": "ea14b3966d3fbe837fc693f2",
+      "title": "India’s mass protests in defense of democracy continue into second week",
+      "url": "https://breakthroughnews.org/2026/10/14/indias-mass-protests-in-defense-of-democracy-continue-into-second-week",
+      "author": "Abdul Rahman",
+      "source": "BT News",
+      "published_at": "2026-10-14T23:02:37+00:00",
+      "content_excerpt": "Thousands participated in a joint delegation of opposition groups in India who were attempting to meet the Chief Justice (CJI) of the country on Monday, October 12. The delegation sought to raise concerns over the alleged irregularities and fraud in the national and state level elections. The police and security forces, yet again, tried to block the protesters from marching and used force to disperse them. The CJI refused to meet the delegation claiming the matter was subjudice. Monday was the tenth consecutive day of the mass protests in the country which broke out on October 2, days after a newspaper report claimed the Chief Election Commissioner (CEC) Gyanesh Kumar violated rules and took arbitrary decisions on crucial matters related to electoral rolls revisions, or the so-called Speci",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/ea14b3966d3fbe837fc693f2.json"
+    },
+    {
+      "id": "75aa4fb3a9f6472b185beda2",
+      "title": "Students in France are fighting for stronger public education",
+      "url": "https://breakthroughnews.org/2026/10/14/students-in-france-are-fighting-for-stronger-public-education",
+      "author": "Ana Vračar",
+      "source": "BT News",
+      "published_at": "2026-10-14T23:02:37+00:00",
+      "content_excerpt": "High school and university students in France continued their protests on Tuesday, October 13, demanding government investment in public education. Approximately 480,000 protesters took to the streets in the latest iteration of the mobilization, with families, teachers, and trade unions backing students’ demands. Read more: French students shut down schools in historic strike against austerity The mobilization remains marked by widespread police violence. Police used tear gas and dispersal grenades on crowds, including at Tuesday’s central march in Paris. Hundreds of students were injured and thousands arrested in these incidents, prompting reactions from human rights organizations . In response, the public joined students as they blocked high schools and organized marches to physically sh",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/75aa4fb3a9f6472b185beda2.json"
+    },
     {
       "id": "15806847a4aae12703f9cde8",
       "title": "Trump’s war on Iran is poised to sink his party in the midterms",
@@ -36,261 +291,6 @@
       "priority": 2,
       "date_missing": false,
       "article_path": "articles/b8cc0795c9707ef2c133a858.json"
-    },
-    {
-      "id": "21fcac69bcd901d303031ee0",
-      "title": "A million people rally for Lula in São Paulo",
-      "url": "https://www.brasildefato.com.br/2026/10/14/a-million-people-rally-for-lula-in-sao-paulo",
-      "author": "",
-      "source": "Brasil de Fato",
-      "published_at": "2026-10-14T16:28:43+00:00",
-      "content_excerpt": "Alongside political allies, President Luiz Inácio Lula da Silva delivered a speech on São Paulo’s Paulista Avenue to more than a million people who packed the streets this Sunday, October 11. Seeking re-election, Lula highlighted the power of the youth in mobilizing both online and offline and emphasized the importance of young people participating in politics to ensure dignity and rights. “This event is a lesson,” he said. “Either you participate in political life, or it cannot be fixed. You must take responsibility to join the fight while you are young. This country cannot lose its democracy, however flawed it may be.” Lula also recalled the actions of Jair Bolsonaro’s government during the COVID-19 pandemic. The president criticized the denialism and lack of humanity he attributed to Bo",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/21fcac69bcd901d303031ee0.json"
-    },
-    {
-      "id": "6954fd413692e6b14f834281",
-      "title": "Can Democrats Flip the House and Senate? The Lever’s David Sirota on Midterm Races To Watch",
-      "url": "https://www.democracynow.org/2026/10/14/midterms",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-10-14T14:20:03+00:00",
-      "content_excerpt": "The midterm elections are in less than three weeks, on November 3. With Republican majorities in both chambers of Congress on the line, the Trump administration has thrown its time and resources into holding rallies in newly competitive states. We take a look at key Senate races in Georgia, Texas, Michigan and Maine with The Lever ’s David Sirota. Ultimately, says Sirota, election results will hinge on voter turnout. “Will there be that surge of turnout based on how unpopular Trump is and how bad the affordability crisis is?” And, if they win, can Democrats then “deliver” on their promises? Page 2 On Monday, federal agents from the Department of Homeland Security raided the Washington, D.C., home of Congressmember Ilhan Omar. Omar has faced years of racist targeting from President Trump ov",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/6954fd413692e6b14f834281.json"
-    },
-    {
-      "id": "f114b80b75db5525314e9e0b",
-      "title": "“Bogus”: Minnesota State Senator Zaynab Mohamed on DHS Raid on Rep. Ilhan Omar’s D.C. Home",
-      "url": "https://www.democracynow.org/2026/10/14/ilhan_omar_home_raided",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-10-14T14:20:03+00:00",
-      "content_excerpt": "On Monday, federal agents from the Department of Homeland Security raided the Washington, D.C., home of Congressmember Ilhan Omar. Omar has faced years of racist targeting from President Trump over her ethnicity and immigrant background. She immigrated to the United States as a refugee from Somalia when she was a child. Omar is the first Somali American elected to federal office, the first woman of color to represent Minnesota and, along with Michigan’s Rashida Tlaib, one of the first Muslim women to serve in Congress. “Congresswoman Omar has been under attack by this administration for the last decade. … She’s a symbol of everything that this administration hates: an immigrant who stands up for her community, who fought to be here in this country, and now is doing her job and her duty to ",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/f114b80b75db5525314e9e0b.json"
-    },
-    {
-      "id": "da81be1d4a4e927e9dc6a517",
-      "title": "“Propaganda Show”: IDF Raids Palestinian NGOs in the West Bank Ahead of Israeli Elections",
-      "url": "https://www.democracynow.org/2026/10/14/israel_raids_west_bank_ngos",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-10-14T14:20:03+00:00",
-      "content_excerpt": "Israeli forces have raided what they say are the offices of several Palestinian NGOs in the occupied West Bank. Palestinian officials say a child was injured from Israeli gunfire, while others suffered from tear gas inhalation. At least one journalist was reportedly detained in the raids, which come four years after the forced closure of multiple NGOs that the Israeli government designated as “terrorist” organizations. “This is part of the whole propaganda show that this government is actually implementing just before the Israeli election,” says human rights lawyer Sahar Francis. “They just wanted to cause harassment, and this is the main message: the persecution and the collective punishment for the whole Palestinian community.” Francis was formerly the general director at Addameer Prison",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/da81be1d4a4e927e9dc6a517.json"
-    },
-    {
-      "id": "fb920de8b45ba23f902a152f",
-      "title": "In Gaza, even cash comes at a cost",
-      "url": "https://mondoweiss.net/2026/10/in-gaza-even-cash-comes-at-a-cost",
-      "author": "Tareq S. Hajjaj",
-      "source": "Mondoweiss",
-      "published_at": "2026-10-14T13:47:42+00:00",
-      "content_excerpt": "Israeli-imposed financial restrictions are choking Gaza's economy as banknotes run out, leaving the average consumer with a heavy price to pay.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/fb920de8b45ba23f902a152f.json"
-    },
-    {
-      "id": "9cff39a255b57fe29a6c5cdf",
-      "title": "In the crosshairs of AI",
-      "url": "https://tempestmag.org/2026/10/in-the-crosshairs-of-ai",
-      "author": "Ashley Smith",
-      "source": "Tempest",
-      "published_at": "2026-10-14T12:02:03+00:00",
-      "content_excerpt": "I n their mad rush for profit and power, the tech oligarchs have unleashed artificial intelligence (AI) into nearly every corner of life on this planet. Firms are investing billions in data centers, which house the infrastructure to process the enormous amounts of information that power AI. They are also plowing ever more money into research and development. Their hope is that the technology will overcome global capitalism’s slump , which the system has been trapped in since the Great Recession, and trigger a new epoch of expansion. States are incorporating it into their police forces for domestic surveillance as well as their militaries for cyberwarfare and high-tech weapons. Ominously, the struggle for AI supremacy is now at the center of the imperialist rivalry between the U.S. and Chin",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/9cff39a255b57fe29a6c5cdf.json"
-    },
-    {
-      "id": "446e528bd06b43a053fb949d",
-      "title": "The gang rape at Cornell",
-      "url": "https://tempestmag.org/2026/10/the-gang-rape-at-cornell",
-      "author": "Dana Cloud",
-      "source": "Tempest",
-      "published_at": "2026-10-14T07:22:08+00:00",
-      "content_excerpt": "W e are now, finally, aware of what happened: In 2024, seven male students at Cornell University, all members of the Chi Phi fraternity, raped a woman known now as Jane Doe at a fraternity party. The party at which she was assaulted was soaked in alcohol and drugs. Jonathan Newell and six other men took advantage of and amplified her intoxicated state. She was taken to a bedroom where she was attacked by these men. A fraternity member disgustingly posted a message to Snapchat (that went to 50 people who did nothing) advertising free access to Doe’s body. The text read, “free pussy in alum pu [pull up]. . . Like you can walk in and whip it out.” Another message read, “Shop still open.” Trapped in the room, Doe was raped for hours. It is almost too grotesque to fathom yet also horribly commo",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/446e528bd06b43a053fb949d.json"
-    },
-    {
-      "id": "c43771007c939d6ea16c04c8",
-      "title": "Endogeneity Without Exception: Modern Monetary Theory & The Promise of Heterodoxy",
-      "url": "https://mronline.org/2026/10/13/endogeneity-without-exception-modern-monetary-theory-the-promise-of-heterodoxy",
-      "author": "Scott Ferguson",
-      "source": "MR Online",
-      "published_at": "2026-10-14T01:26:32+00:00",
-      "content_excerpt": "Billy Saas and guest-host Will Beaman speak with Money on the Left’s own Scott Ferguson about his essay, “Endogeneity Without Exception: Modern Monetary Theory and the Promise of Heterodoxy,” published recently in the Journal of Economic Issues. The post Endogeneity Without Exception: Modern Monetary Theory & The Promise of Heterodoxy appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/c43771007c939d6ea16c04c8.json"
-    },
-    {
-      "id": "60f92342c7396ff9b91b3fe7",
-      "title": "Parallel Legacies of Independent Thought: Ireland’sThe Bell and Australia’s Nation",
-      "url": "https://mronline.org/2026/10/13/parallel-legacies-of-independent-thought-irelandsthe-bell-and-australias-nation",
-      "author": "Peter Gifford",
-      "source": "MR Online",
-      "published_at": "2026-10-13T23:26:00+00:00",
-      "content_excerpt": "Both journals sought to shatter national myths, force uncomfortable realities into public discussion, and give writers room to question the assumptions of powerful institutions. These two publications deserve attention today. The post Parallel Legacies of Independent Thought: Ireland’s<em>The Bell</em> and Australia’s <em>Nation</em> appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/60f92342c7396ff9b91b3fe7.json"
-    },
-    {
-      "id": "2c0d1db6f2a0888c2c34a39a",
-      "title": "DR Congo’s deadliest Ebola outbreak kills over 4,200 as armed groups undermine response",
-      "url": "https://breakthroughnews.org/2026/10/13/dr-congos-deadliest-ebola-outbreak-kills-over-4200-as-armed-groups-undermine-response",
-      "author": "Pavan Kulkarni",
-      "source": "BT News",
-      "published_at": "2026-10-13T22:31:00+00:00",
-      "content_excerpt": "In less than five months, the fastest-spreading Ebola outbreak in world history has killed at least 4,205 people in the conflict-ridden eastern region of the Democratic Republic of Congo (DRC) as of October 7. It is the deadliest outbreak in the DRC since the disease was first discovered in the country in 1976, killing nearly one in two of the 8,728 people confirmed to be infected. With treatment still in experimental stages, there is no specifically approved treatment for the particular Bundibugyo strain of the Ebola virus that caused this outbreak, declared on May 15. However, the virus had been circulating in communities in Ituri province since mid-February, three months before the outbreak was identified and officially declared.​ Aid cuts: unpaid frontline workers When the health respo",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/2c0d1db6f2a0888c2c34a39a.json"
-    },
-    {
-      "id": "092b2eb08ec758df8914f08c",
-      "title": "Mali’s army recaptures town of Kidal",
-      "url": "https://breakthroughnews.org/2026/10/13/malis-army-recaptures-town-of-kidal",
-      "author": "Nicholas Mwangi",
-      "source": "BT News",
-      "published_at": "2026-10-13T22:31:00+00:00",
-      "content_excerpt": "Mali’s armed forces have recaptured the northern city of Kidal following a large-scale military offensive conducted alongside Russia’s Africa Corps. It is a major development in the government’s efforts to restore state control over territory held by armed groups. The Malian Armed Forces (FAMa ) announced that their troops consolidated their operational deployment in Kidal on October 7, 2026, under Operation Dougoukoloko, following several days of airstrikes and coordinated air and ground operations against the Azawad Liberation Front (FLA) and Jama’at Nusrat al-Islam wal-Muslimin (JNIM), an armed group affiliated with al-Qaeda. In a statement, the military said the operation had weakened the armed groups’ fighting capacity and disrupted their logistical networks. “As part of the large-sca",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/092b2eb08ec758df8914f08c.json"
-    },
-    {
-      "id": "833cb92de65d7f42f84fb355",
-      "title": "Spain heads for a snap election as youth uprising rocks Europe",
-      "url": "https://breakthroughnews.org/2026/10/13/spain-heads-for-a-snap-election-as-youth-uprising-rocks-europe",
-      "author": "Zoe Alexandra",
-      "source": "BT News",
-      "published_at": "2026-10-13T22:31:00+00:00",
-      "content_excerpt": "“Cannibal capitalism” in Spain, where hundreds of thousands are in the streets demanding an end to the country’s housing crisis that Madrid-based journalist and Canal Red analyst Irene Zugasti says killed 87-year-old Maricarmen Abascal. Zugasti joins Zoe Alexandra and Rania Khalek to explain why more than 1,500 tents now fill Madrid’s Puerta del Sol and unions have called a general strike for November 11 – Spain’s first since 2012: “If we hadn’t been in the streets, Sánchez would have done nothing.” Zugasti explains why Spain’s housing crisis isn’t about a shortage of homes, but about who owns them, and why Prime Minister Pedro Sánchez called snap elections now, after the right defeated his emergency measures meant to stem the uprising. She says the movement is inseparable from a wave of y",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/833cb92de65d7f42f84fb355.json"
-    },
-    {
-      "id": "11aea1359502f2727254e45b",
-      "title": "Is Modi stealing India’s democracy?",
-      "url": "https://breakthroughnews.org/2026/10/13/is-modi-stealing-indias-democracy",
-      "author": "Rania Khalek",
-      "source": "BT News",
-      "published_at": "2026-10-13T22:31:00+00:00",
-      "content_excerpt": "“Unparalleled and unprecedented” police repression in India, where thousands of protesters demanding the resignation of Chief Election Commissioner Gyanesh Kumar were met with mass detentions, internet shutdowns, and a brutal crackdown across Delhi over the weekend. Dr. Nitheesh Narayanan of the Tricontinental Institute for Social Research joins Zoe Alexandra and Rania Khalek, following the deployment of 50,000 police and armed forces to suppress youth-led protests over the Special Intensive Revision’s removal of more than 130 million names from voter rolls. Narayanan says Saturday’s action marked a turning point in India’s months-long wave of repression, uniting students, the left, and the Gen Z-led Cockroach Janta Party (CJP) in the fight for a democratic, secular India – “and the idea t",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/11aea1359502f2727254e45b.json"
-    },
-    {
-      "id": "6968f697eaadb404bb38dd03",
-      "title": "Ansar Allah has the upper hand in escalating conflict with Saudi Arabia",
-      "url": "https://breakthroughnews.org/2026/10/13/ansar-allah-has-upper-hand-in-escalating-conflict-with-saudi-arabia",
-      "author": "Aseel Saleh",
-      "source": "BT News",
-      "published_at": "2026-10-13T21:32:02+00:00",
-      "content_excerpt": "Three months after Saudi Arabia resumed its aggression against Yemen’s Ansar Allah-led government by attacking Sanaa International Airport in July, the conflict continues to spiral. Saudi-backed forces claimed that they managed to cut off the main road connecting the Red Sea port city of Mokha with the Bab al-Mandeb strait on Monday, October 12, in a bid to reverse Ansar Allah’s major territorial gains along the Red Sea coast. This came after Ansar Allah launched an intensified military operation that resulted in encircling Yemen’s southwestern city of Taiz last week. Taiz has been under the control of the Saudi-backed Yemeni government for roughly the last ten years. As Yemen’s third-largest city, the encirclement of Taiz constitutes a critical development in the country’s armed conflict ",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/6968f697eaadb404bb38dd03.json"
-    },
-    {
-      "id": "355c6ab24a857ae648c22a08",
-      "title": "Political crisis in Pakistan deepens with dismissal of PTI-led provincial government",
-      "url": "https://breakthroughnews.org/2026/10/13/political-crisis-in-pakistan-deepens-with-dismissal-of-pti-led-provincial-government",
-      "author": "Abdul Rahman",
-      "source": "BT News",
-      "published_at": "2026-10-13T21:32:02+00:00",
-      "content_excerpt": "Large-scale protests broke out in different parts of Pakistan’s Khyber Pakhtunkhwa (KP) province on Monday, October 12, after the federal government dismissed its elected government and imposed the centralized Governor’s rule. The federal government also declared an emergency in 12 out of 40 of KP’s districts, citing a law-and-order situation. The imposition of the emergency under article 232 of Pakistan’s constitution means the suspension of citizen’s fundamental rights. Pakistan Tehreek-e-Insaf (PTI) which was ruling the KP government, called the dismissal of its government a “direct assault on the democratic mandate of the people.” PTI is currently leading a large march to Pakistan’s capital, Islamabad, demanding the release of its jailed leader and former prime minister, Imran Khan, Se",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/355c6ab24a857ae648c22a08.json"
-    },
-    {
-      "id": "b998062f5c342fc0c5635f71",
-      "title": "Thousands of young people protest the Noboa administration in Quito",
-      "url": "https://breakthroughnews.org/2026/10/13/thousands-of-young-people-protest-the-noboa-administration-in-quito",
-      "author": "BreakThrough News",
-      "source": "BT News",
-      "published_at": "2026-10-13T19:35:53+00:00",
-      "content_excerpt": "On October 10, thousands of Ecuadorians took to the streets to protest against the government of right-wing President Daniel Noboa. The demonstration was organized by the Autonomous Front of Organized Resistance (FARO) under the slogan “Government vs. People.” A esta hora, una marcha de rechazo al Gobierno de Daniel Noboa recorre las calles de Quito. La movilización está marcada por carteles de protesta y consignas contra el mandatario y su gestión. Los manifestantes atraviesan en este momento el paso deprimido del Guambra y avanzan… pic.twitter.com/WKPfT8D9jF — Elena Rodríguez Yánez (@ElenaDeQuito) October 10, 2026 Saturday’s demonstration followed a protest on October 8, organized by labor unions also in Quito, to protest the security, energy, health, and employment crises facing the cou",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/b998062f5c342fc0c5635f71.json"
-    },
-    {
-      "id": "4ecfcfdca5c5dabba48e0501",
-      "title": "Protesters in Belgium demand end to austerity, climate inaction, and Gaza genocide",
-      "url": "https://breakthroughnews.org/2026/10/13/protesters-in-belgium-demand-end-to-austerity-climate-inaction-and-gaza-genocide",
-      "author": "Ana Vračar",
-      "source": "BT News",
-      "published_at": "2026-10-13T18:42:10+00:00",
-      "content_excerpt": "Tens of thousands of people took to the streets of Belgium from October 9-12, marching against the government’s austerity and militarization policies, as well as in solidarity with Palestine. Read more: Peter Mertens: “We have to restore people’s confidence in collective strength” “Four mobilizations, one shared struggle: that of the Belgium of those at the bottom — who refuse to foot the bill for a system that benefits a tiny minority, and who refuse to remain complicit in an apartheid state,” wrote the Workers’ Party of Belgium (PTB-PVDA). “They thought they could impose their anti-social measures without resistance. They were wrong.” 50,000-strong demonstration against austerity The weekend began with a 50,000-strong demonstration against austerity in Brussels on October 9, building on ",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/4ecfcfdca5c5dabba48e0501.json"
     }
   ]
 }

@@ -1,311 +1,311 @@
 {
-  "generated_at": "2026-10-14T22:30:17.534875+00:00",
-  "generated_at_jst": "2026-10-15T07:30:17.534875+09:00",
-  "period_start": "2026-10-13T16:30:17.534875+00:00",
+  "generated_at": "2026-10-15T22:34:35.686073+00:00",
+  "generated_at_jst": "2026-10-16T07:34:35.686073+09:00",
+  "period_start": "2026-10-14T16:34:35.686073+00:00",
   "lookback_hours": 30,
   "folder": "00_毎日確認",
   "article_count": 20,
   "excerpt_chars": 800,
   "articles": [
     {
-      "id": "b00baab3d51b5e768bea06c8",
-      "title": "Lessons for YDSA from Serbia’s Mass Protests",
-      "url": "https://reformandrevolution.org/2026/10/14/lessons-for-ydsa-from-serbias-mass-protests",
-      "author": "",
-      "source": "Reform & Revolution",
-      "published_at": "2026-10-14T21:45:04+00:00",
-      "content_excerpt": "This article was written in the lead-up to the recent YDSA National Convention in Chicago to motivate the passage of “Resolution 9: For a Strategic Sanctuary Campaign on All Fronts.” The resolution has since passed and two R&R members, Kaeden Boudreaux and Tomas Jimenez, were elected as at-large members of the YDSA National Coordinating Committee on a party-building, class-struggle, mass politics platform. On June 27, Serbia’s President Aleksandar Vučić announced he would resign “within weeks.” This was in response to the largest protest wave since the movement which overthrew the dictator Slobodan Milošević in 2000. No date was set. No election was actually called. The same weekend, Vučić was already hinting he would return as the prime minister, a job he held from 2014 to 2017. Despite f",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/b00baab3d51b5e768bea06c8.json"
-    },
-    {
-      "id": "85aa10ef47b37458bb5b2d30",
-      "title": "Veterans, Labor, and the Fight to Save the VA From Privatization",
-      "url": "https://www.laprogressive.com/left-coast-forum/fight-to-save-the-va-from-privatization",
-      "author": "Steve Early",
-      "source": "LA Progressive",
-      "published_at": "2026-10-14T21:41:22+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. At a time when federal workers face mounting attacks on their jobs, collective bargaining rights, and public services, a growing coalition of veterans and labor activists is working to defend one of America's most important public institutions: the Department of Veterans Affairs (VA). That struggle was the focus of How Veterans in Labor Are Fighting Trump, VA Privatization, & Union Busting , a discussion at the 4th Annual Left Coast Forum, held October 2–4, 2026, at Cal State LA. The session featured Eric Goepel , an Army veteran, Communications Workers of America (CWA) Local 6251 member, and Southern California organizer for Common Defense, a progressive veterans organizat",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/85aa10ef47b37458bb5b2d30.json"
-    },
-    {
-      "id": "0219af1efdddc23dad610256",
-      "title": "Statement in Solidarity with Ilhan Omar",
-      "url": "https://mdcdsa.org/2026/10/14/statement-in-solidarity-with-ilhan-omar",
-      "author": "Metro DC DSA",
+      "id": "6a97a90ac9c589b84a3ca583",
+      "title": "When Workers, Driving Customers or Saving Lives in the ER, Become Independent Contractors",
+      "url": "https://bostondsa.org/2026/10/15/when-workers-driving-customers-or-saving-lives-in-the-er-become-independent-contractors",
+      "author": "Boston DSA",
       "source": "DSA Feed - Global",
-      "published_at": "2026-10-14T21:02:01+00:00",
-      "content_excerpt": "Statement in Solidarity with Ilhan Omar Date: October 14, 2026 Media Contact: For all press inquiries, please contact media@mdcdsa.org . Washington, DC: Metro DC DSA condemns in the strongest possible terms the Trump administration’s raid on Ilhan Omar’s home here in DC. We stand with Representative Omar in the face of this political persecution. Whatever “Border Czar” Tom Homan says, we know that Representative Omar is being targeted for consistently championing working-class demands such as Medicare for All, Abolishing ICE, a Green New Deal, and an Arms Embargo on Apartheid Israel. The October 12th raid marks an alarming escalation in the Trump administration’s attacks on our democratic rights, following earlier attacks on activists like Mahmoud Khalil and the Prairieland defendants. The",
+      "published_at": "2026-10-15T20:41:19+00:00",
+      "content_excerpt": "[[{“value”:” By: Matt Wolfinger BOSTON – There’s a loophole in our labor laws spreading across the economy. From delivery drivers to nurses, corporations are classifying workers as independent contractors and using the promise of flexible work to cudgel labor rights. Nearly 12 million people in the United States, or seven percent of the workforce, describe independent contractor work as their primary source of income, according to the most recent data from the Bureau of Labor Statistics. Independent contractors aren’t protected under the National Labor Relations Act (NLRA), so they can’t unionize, aren’t entitled to benefits, a minimum wage, or overtime and can be fired at will. Companies like Uber, Lyft and Amazon have spent hundreds of millions to keep their workers classified as self-em",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/0219af1efdddc23dad610256.json"
+      "article_path": "articles/6a97a90ac9c589b84a3ca583.json"
     },
     {
-      "id": "aa2368ee616334f780f29226",
-      "title": "The Problem With Homeownership",
-      "url": "https://jacobin.com/2026/10/review-specht-homeownership-inequality-democracy",
-      "author": "Michael Ledger-Lomas",
-      "source": "Jacobin",
-      "published_at": "2026-10-14T20:27:27+00:00",
-      "content_excerpt": "A few days from now, my adopted hometown of Vancouver in British Columbia is going to elect a new mayor and council. The low turnout in municipal elections here skews toward affluent owners of detached houses who pay the most property tax and grumble about it. Mayor Ken Sim and his ABC (“A Better City”) party, who won the 2022 election, understand their base: they froze property taxes this year after abolishing the living wage for city employees. The ABC administration also implemented a wave of layoffs and promises to repeat the trick next year if reelected. Meanwhile, underfunding has left two-thirds of the city’s community centers to crumble away . Although ABC has given property developers a free hand to put up towers in the city’s core, they have not touched the zoning regulations tha",
+      "id": "2377655c595af352d6255f4e",
+      "title": "Tenant Power on Display in Jersey City",
+      "url": "https://north.dsanj.org/tenant-power-on-display-in-jersey-city",
+      "author": "Statements from North New Jersey DSA",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-10-15T20:41:19+00:00",
+      "content_excerpt": "By Dominick C. On Sunday, September 13th, a crowd of a few dozen organizers and tenants living at 150 and 154 Belmont Ave. swelled outside their buildings. Their voices rang […]",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/aa2368ee616334f780f29226.json"
+      "article_path": "articles/2377655c595af352d6255f4e.json"
     },
     {
-      "id": "32fe79c57133a27d6b125ffb",
-      "title": "Socialists in Congress Should Hold the Speakership Hostage",
-      "url": "https://democraticleft.dsausa.org/2026/10/14/socialists-in-congress-should-hold-the-speakership-hostage",
-      "author": "sam_r",
-      "source": "Democratic Left",
-      "published_at": "2026-10-14T19:34:56+00:00",
-      "content_excerpt": "Policy gains are unlikely so long as Trump holds the presidency — but a historically large socialist bloc in Congress could demand changes to how the House is run that would shape the body’s post-Trump trajectory. The post Socialists in Congress Should Hold the Speakership Hostage appeared first on Democratic Left .",
+      "id": "e0d240d7ea137f0f245e1f66",
+      "title": "Socialist Stories: What is the State?",
+      "url": "https://north.dsanj.org/socialist-stories-what-is-the-state",
+      "author": "Statements from North New Jersey DSA",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-10-15T20:41:19+00:00",
+      "content_excerpt": "By Andrew W. Socialism is for everyone, and education provides power to the people. That’s why every issue of Garden State Socialist features this column, Socialist Stories: a short, educational […]",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/32fe79c57133a27d6b125ffb.json"
+      "article_path": "articles/e0d240d7ea137f0f245e1f66.json"
     },
     {
-      "id": "d5e20f3ebc2a20af57554fec",
-      "title": "Western Thought Justified Animal Cruelty",
-      "url": "https://www.laprogressive.com/animal-rights/western-thought-justified-animal-cruelty",
-      "author": "Ondine Sherman",
+      "id": "1f25acd6200c0cb0baadf2ca",
+      "title": "Why I Started Judging the Judges: The Election That Changed How I Vote",
+      "url": "https://www.laprogressive.com/judging-the-judges/judging-the-judges-the-election-that-changed-how-i-vote",
+      "author": "Sharon Kyle",
       "source": "LA Progressive",
-      "published_at": "2026-10-14T19:13:22+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. At age seven, sitting at the dinner table with my family, I prodded my fork into a thick, squishy brown shape on my plate. My grandmother, who lived with us, had cooked her traditional Lithuanian-Jewish Litvak meal, and everyone had dug in. “ What is it? ” I asked. My beloved gran whispered back from across the table, “tongue.” I stuck out my tongue. “ This kind? ” She smiled. “ Yes, darling, but from a cow, not a little girl .” It was my first moral shock. Animals are our friends, aren’t they? Certainly, my dog Bronnie was, and all the animals in the picture books and animated films I saw as a child suggested this. Do we cut out our friends’ tongues and eat them? My second",
+      "published_at": "2026-10-15T20:40:48+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. When I watched a tough-on-crime prosecutor reinvent himself before a room full of progressive voters, I realized how little we really knew about the people we were electing to the bench. That experience eventually led me to create LA Progressive's Judging the Judges series. Every election season, millions of Americans confront a familiar problem. They are asked to make decisions about candidates they know almost nothing about. Nowhere is this problem more apparent than in judicial elections. Most voters can tell you something about the candidates running for president, governor, or mayor. They may have heard them speak, watched them debate, or read about their positions on ",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/d5e20f3ebc2a20af57554fec.json"
+      "article_path": "articles/1f25acd6200c0cb0baadf2ca.json"
     },
     {
-      "id": "7ccc1c68c038ba1808aff9b6",
-      "title": "Active Membership Achieves Key Goals in New Local 613 Contract",
-      "url": "https://www.ueunion.org/ue-news/2026/active-membership-achieves-key-goals-in-new-local-613-contract",
-      "author": "",
-      "source": "UE NEWS Updates | UE",
-      "published_at": "2026-10-14T19:05:02+00:00",
-      "content_excerpt": "UE Local 613 ratified a new four-year agreement on September 14, achieving key goals set by the local entering into negotiations. The union, which consists of the teachers, speech language pathologists, registered nurses, and therapists who work at the Western Pennsylvania School for Blind Children, ran a strong contract campaign rooted in active member involvement. All members will be guaranteed an immediate minimum increase of at least $5,000 in the first year of the new agreement, with an average increase in year one of over $10,000. Step one on the most widely used scale will increase in year one from $48,568 to $58,000, with the top step on the same scale increasing from $98,620 to $109,750 in the first year. Significant improvements were gained on every step of each scale, with subst",
+      "id": "3d9ff3e04427c8cc49e7de3b",
+      "title": "Turkey Risks Being Drawn Into Saudi Arabia’s War in Yemen",
+      "url": "https://jacobin.com/2026/10/turkey-yemen-saudi-mecca-agreement",
+      "author": "Oğul Tuna",
+      "source": "Jacobin",
+      "published_at": "2026-10-15T20:02:16+00:00",
+      "content_excerpt": "There are few places outside Turkey that occupy such a mournful place in the country’s popular memory as Yemen. For generations, Turks who knew little about the politics of the Arabian Peninsula nevertheless knew Yemen through folk songs. They were ballads about young men sent from Anatolia to fight in Yemen, many of whom never returned. They told of mothers waiting for sons, women waiting for husbands, and a distant land associated above all with death. One of the most haunting was recorded by Ruhi Su, the great communist interpreter of Turkish folk music. Its refrain addresses the country with a bitter grandeur: Yemen, Yemen, glorious Yemen, Yemen, Yemen, your soil soaked in blood. The glory belonged to the empire. The dead belonged overwhelmingly to ordinary families. More than a centur",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/7ccc1c68c038ba1808aff9b6.json"
+      "article_path": "articles/3d9ff3e04427c8cc49e7de3b.json"
     },
     {
-      "id": "c8b7a7b910475f28c1667afb",
-      "title": "Notes on Ogunian Anarchism: A Meditation for Hoodoo Heritage Month",
-      "url": "https://scalawagmagazine.org/2026/10/notes-on-ogunian-anarchism-a-meditation-for-hoodoo-heritage-month",
-      "author": "Zuri arman",
+      "id": "8852f61905f84eba1ecd4b6e",
+      "title": "Client Lifecycle Management",
+      "url": "https://www.laprogressive.com/sponsored/client-lifecycle-management",
+      "author": "Tiqua Jackson",
+      "source": "LA Progressive",
+      "published_at": "2026-10-15T19:43:31+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Financial institutions manage client relationships through onboarding, verification, account servicing, reviews, and closure. Each stage creates tasks, decisions, records, and compliance obligations that require consistent handling. When teams manage these activities separately, information becomes fragmented, and delays increase. That is where a structured, end-to-end process adds the most value. Client lifecycle management connects the full relationship into one structured process, giving teams clearer ownership, better data, and stronger oversight. The approach becomes easier to understand by examining its main stages and practical value. Here is a closer look at what th",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/8852f61905f84eba1ecd4b6e.json"
+    },
+    {
+      "id": "0e591eb3d03fc2f7bdf537f6",
+      "title": "It Won’t Stop With Ilhan Omar",
+      "url": "https://jacobin.com/2026/10/trump-vance-politicized-deportation-omar",
+      "author": "Branko Marcetic",
+      "source": "Jacobin",
+      "published_at": "2026-10-15T18:56:56+00:00",
+      "content_excerpt": "Up until now, the Donald Trump-J. D. Vance administration has been busy weaponizing the US immigration system against fairly low-level political opponents: college students protesting US support for Israel’s genocide, independent journalists applying scrutiny to government policies, or random tourists who happened to be critical of the president and his lackeys. Now it’s taking the unprecedented step of turning it against a sitting member of Congress. The federal raid on Squad member Rep. Ilhan Omar’s home carried out earlier this week has now all but officially been confirmed to be an immigration-related investigation trying to strip her of US citizenship and deport her, as sources separately relayed to Fox News , the New York Post , the Washington Post , and the Wall Street Journal . It ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/0e591eb3d03fc2f7bdf537f6.json"
+    },
+    {
+      "id": "1c235d9c81293c07bc0ae859",
+      "title": "World War Z and the Hollywood hasbara apparatus",
+      "url": "https://scalawagmagazine.org/2026/10/world-war-z-and-the-hollywood-hasbara-apparatus",
+      "author": "Sherronda J. Brown",
       "source": "Scalawag",
-      "published_at": "2026-10-14T18:35:40+00:00",
-      "content_excerpt": "Sparked by D’Angelo’s grounding excursion to South Carolina—where my people’re from—and recorded partly in Cuba—the homeland of Lukumí—Voodoo was my introduction to the rapturous possibilities of Ogunian anarchism before I had the language to describe it. Read more via Scalawag : Notes on Ogunian Anarchism: A Meditation for Hoodoo Heritage Month .",
+      "published_at": "2026-10-15T18:31:06+00:00",
+      "content_excerpt": "A century of Hollywood hasbara has worked to desensitize Western audiences to Israel’s war crimes and to normalize the prioritization of Israel's political and military interests. The entertainment industry's complicity is a necropolitical tool of zombifying Palestinians and sustaining Israel's death-world. Read more via Scalawag : World War Z and the Hollywood hasbara apparatus .",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/c8b7a7b910475f28c1667afb.json"
+      "article_path": "articles/1c235d9c81293c07bc0ae859.json"
     },
     {
-      "id": "f56796c7fcccd4ef95a7b993",
-      "title": "War on the International Criminal Court",
-      "url": "https://www.laprogressive.com/foreign-policy/war-on-the-international-criminal-court",
-      "author": "Lawrence S. Wittner",
+      "id": "73bbab75eb6ae4ffacb0fa48",
+      "title": "Sons of Vietnamese Refugees",
+      "url": "https://www.laprogressive.com/election-and-campaigns/sons-of-vietnamese-refugees",
+      "author": "Reia Li",
       "source": "LA Progressive",
-      "published_at": "2026-10-14T18:06:13+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. On October 9, only hours after the announcement of the award of the Nobel Peace Prize to Navi Pillay, a former judge on the International Criminal Court (ICC), the Trump administration imposed its latest sanctions on the global judicial body. According to Secretary of State Marco Rubio, “we will ban transactions with this rogue court, cutting off their resources and crippling its ability to operate.” When the ICC became operational in 2002, it represented a major breakthrough for the human rights groups that had campaigned for it. The new organization had the mandate to prosecute individuals for genocide, war crimes, crimes against humanity and, after 2018, the crime of agg",
+      "published_at": "2026-10-15T17:43:25+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. California has just a handful of truly competitive congressional races this year, as a nationwide redistricting battle and a new map approved under Gov. Gavin Newsom’s Proposition 50 have reshaped the electoral landscape. The tightest contests are in the Central Valley and San Diego County, but the fight also extends to Orange County, a onetime Republican stronghold where Democratic Rep. Derek Tran is defending his seat. This year marks the first time two Vietnamese Americans are running to represent the district, which includes Little Saigon, the largest concentration of people of Vietnamese ancestry outside of Vietnam. Roughly 13% of the district’s population is Vietnames",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/f56796c7fcccd4ef95a7b993.json"
+      "article_path": "articles/73bbab75eb6ae4ffacb0fa48.json"
     },
     {
-      "id": "c9eeb6d974fac07485d21259",
-      "title": "FDR, Trump, and Fascism",
-      "url": "https://www.laprogressive.com/progressive-issues/fdr-trump-and-fascism",
-      "author": "Walter G. Moss",
+      "id": "f44814294b66353c90c4be15",
+      "title": "How Israel Controls Palestinian Land",
+      "url": "https://www.laprogressive.com/foreign-policy/how-israel-controls-palestinian-land",
+      "author": "Vijay Prashad",
       "source": "LA Progressive",
-      "published_at": "2026-10-14T18:06:13+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. According to the English newspaper The Guardian , in the late summer of 2026, “Donald Trump . . . declared himself to be the ‘greatest’ US president ever.” Some others have proclaimed him the greatest of our lifetime. My own assessment— shared by many presidential experts? The worst president of my octogenarian life. Take just one comparison, that with FDR, President Franklin D. Roosevelt. According to a review of historian William I. Hitchcock’s new book, A Shadow Over the World: Franklin D. Roosevelt, the Rise of Fascism, and the Making of America’s World War II , “ the indelible feature of Roosevelt’s Presidency was his desire to protect democratic norms and processes am",
+      "published_at": "2026-10-15T17:22:33+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Israel’s genocidal bombing campaign has devastated Gaza’s wastewater system, destroying or damaging nearly 90% of the territory’s water and sanitation infrastructure since 2023. Every day, 45,000 cubic metres of untreated sewage are discharged into the Mediterranean Sea while an additional 15,000 cubic metres seep into the ground. This collapse of sanitation infrastructure has led to an infestation of rats and other rodents in Gaza, with two in three children living in displacement sites plagued by these vermin. In September 2026, an exceptional algal bloom clogged filtration systems at five of Israel’s six desalination plants, with the Israeli environmental group Zalul war",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/c9eeb6d974fac07485d21259.json"
+      "article_path": "articles/f44814294b66353c90c4be15.json"
     },
     {
-      "id": "fddd7557c99b5e4f2a762750",
-      "title": "APD Training Academy Director Investigated for Alleged Domestic Violence",
-      "url": "https://scalawagmagazine.org/2026/10/apd-training-academy-director-investigated-for-domestic-violence",
-      "author": "Joel Elliott",
-      "source": "Scalawag",
-      "published_at": "2026-10-14T17:37:01+00:00",
-      "content_excerpt": "ATLANTA — The director of the city's police academy is under internal investigation connected to domestic violence allegations from a Barrow County dispute and was temporarily relieved of duty and stripped of his gun and badge. The estranged wife of Atlanta Police Training Academy Director Ailen Mitchell received a protection order against him earlier this […] Read more via Scalawag : APD Training Academy Director Investigated for Alleged Domestic Violence .",
+      "id": "7fc45a0f6de77399a3579127",
+      "title": "Women Politicians Under Attack",
+      "url": "https://www.laprogressive.com/gender-discrimination/women-politicians-under-attack",
+      "author": "Steven Hill",
+      "source": "LA Progressive",
+      "published_at": "2026-10-15T17:08:16+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Bernadet Greene-Placentia, the Democratic candidate for Arizona’s 8th Congressional District, claimed a week ago that she was struck in the head, knocked unconscious and raped by two men while she was repairing one of her campaign signs. Greene-Placentia, who is no shrinking violet having worked as a long-haul trucker and small business owner, filed an official incident report with the Maricopa County Sheriff’s Office (MCSO), but didn’t do so until 17 days after the alleged event occurred. Due to that delay, some are doubting her story , calling it a publicity stunt to boost her campaign in a Republican-leaning district. But according to the police report, Greene-Placentia ",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/fddd7557c99b5e4f2a762750.json"
+      "article_path": "articles/7fc45a0f6de77399a3579127.json"
     },
     {
-      "id": "4979bccca5324d24511a9e92",
-      "title": "Student Protests Are Making Their Mark on Serbia’s Election",
-      "url": "https://jacobin.com/2026/10/elections-serbia-student-list-vucic",
-      "author": "Lela Vujanić",
+      "id": "a06e1c713b0ca961b00a66fa",
+      "title": "Death of Journalism",
+      "url": "https://www.laprogressive.com/the-media-in-the-united-states/death-of-journalism",
+      "author": "Sonali Kolhatkar",
+      "source": "LA Progressive",
+      "published_at": "2026-10-15T16:47:56+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Journalism is experiencing one of its worst crises when it’s needed the most. Overall, news consumption is dropping . And it’s worse among young people , who largely get their news through social media, not news outlets. People under 30, more than any other age group, trust social media sources of news. The problem is that it’s hard to tell if your favorite social media source is a citizen journalist or a paid promoter. In a recent in-depth report , The New York Times revealed that social media platforms are rife with accounts that are paid to promote campaigns parading as personal opinion. Rather than hire well-known influencers with huge followings, politicians and organi",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/a06e1c713b0ca961b00a66fa.json"
+    },
+    {
+      "id": "ef0d7f835d80be067e78a164",
+      "title": "Trump Is Steering",
+      "url": "https://www.laprogressive.com/progressive-issues/trump-is-steering",
+      "author": "Tom Engelhardt",
+      "source": "LA Progressive",
+      "published_at": "2026-10-15T16:47:56+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Here’s the truth of it: after all these years, today I don’t know what to write about. I mean, in this ever-stranger world of ours, where even to start? Oh, wait, give me a second and I’ll be right back! I don’t want to miss the latest ads featuring our president , paid for with millions of our tax dollars. It’s obviously important to check them out since, as he told us recently, “I’m not promoting myself because I’m not running for office. I’m promoting the country.” And who wouldn’t want him to reassure us about the state of this fair land of ours? As he put it in one of those ads, “America will never be a communist country.” Whew! Who among us wasn’t worried about that! ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/ef0d7f835d80be067e78a164.json"
+    },
+    {
+      "id": "2a34ff6acae7a2a42f294f11",
+      "title": "Climate Policies Can Bring Relief on Affordability and Beyond",
+      "url": "https://jacobin.com/2026/10/climate-change-affordability-energy-extreme-weather",
+      "author": "Rithika Ramamurthy",
       "source": "Jacobin",
-      "published_at": "2026-10-14T17:24:21+00:00",
-      "content_excerpt": "Sitting in the trashy garden of a café frequented by students near an iconic Belgrade market, we are, naturally, discussing the elections. A somewhat hippieish father of a friend complains that the situation is terrible, that he’s never seen such polarization, and that decades-old colleagues are barely on speaking terms. He tells me he tried to lighten the atmosphere, joking “Guys, I am neutral, you can relax, you can all be yourselves with me.” His remark didn’t sit well with either camp. Nobody in Serbia these days seems to like “neutrals,” though it seems that this despised group could decide the outcome of the October 25 parliamentary elections. There is an electric mood in the country. There have already been irregularities and sporadic individual acts of violence against opponents by",
+      "published_at": "2026-10-15T16:05:17+00:00",
+      "content_excerpt": "As the US midterm elections approach, one word keeps coming up in campaign promises and headlines: “ affordability .” That working people in the United States are struggling to afford basic necessities is a problem that many are willing to acknowledge, but there is very little agreement on what should be done to tackle a core driver of the affordability crisis: climate change. The climate crisis is already making life more expensive . Electricity rates skyrocketed in 2025 due to historic heat waves; home insurance rates are rising as disasters and extreme weather patterns increase; transportation costs have become one of the biggest sources of financial burden because of the volatile price of fossil fuels. Meanwhile, the Trump administration has withdrawn from global climate commitments, l",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/4979bccca5324d24511a9e92.json"
+      "article_path": "articles/2a34ff6acae7a2a42f294f11.json"
     },
     {
-      "id": "5bbc1eb46281a5a36e76ace7",
-      "title": "trumps american history",
-      "url": "https://www.laprogressive.com/democracy/trumps-american-history",
-      "author": "Eva Amar",
-      "source": "LA Progressive",
-      "published_at": "2026-10-14T17:15:20+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. I have a confession to make, and I'm not particularly proud of it. Somewhere between middle school and high school, I decided history wasn't for me. It seemed like an endless parade of dates, timelines, and wars, interrupted by still more wars. I paid enough attention to pass the tests, but I certainly wasn't sitting on the edge of my seat waiting to find out what happened next. What did any of that have to do with my life? Well, seventy years of living have given me a rather different perspective. History isn't simply a collection of dates, wars, and presidents. It's our baseline. Without it, how can we recognize the warning signs of something we've already lived through? ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/5bbc1eb46281a5a36e76ace7.json"
-    },
-    {
-      "id": "8f2c21042bda266fa1abe54d",
-      "title": "How Charles Manson Became a Hero of the American Far Right",
-      "url": "https://jacobin.com/2026/10/manson-mason-racism-neo-nazis",
-      "author": "Claudia Verhoeven",
+      "id": "ff60fe01c60f8c894f37bf81",
+      "title": "Historian Eric Hobsbawm Was a “Communist Polymath”",
+      "url": "https://jacobin.com/2026/10/hobsbawm-history-europe-university-communism",
+      "author": "Emile Chabal",
       "source": "Jacobin",
-      "published_at": "2026-10-14T16:25:35+00:00",
-      "content_excerpt": "The person most responsible for the recognition of Charles Manson as a quasi-icon of the twenty-first-century radical right is James Mason. Born in 1952, Mason is a lifelong white supremacist activist who joined George Lincoln Rockwell’s American Nazi Party as a teen, then Joseph Tommasi’s more radical National Socialist Liberation Front, then became even more extreme after he took over that party’s newsletter, Siege (1980–86). He dropped off the radar for two decades following his arrests and incarceration in the 1990s but resurfaced in the 2010s after being “recovered” on the neo-Nazi online forum Iron March, and he is presently acknowledged to be the “grandfather” or “godfather” of white power accelerationism, an ideology convinced that the inevitable collapse of society and subsequent ",
+      "published_at": "2026-10-15T15:10:22+00:00",
+      "content_excerpt": "Eric Hobsbawm’s life began just as the “long nineteenth century” was drawing to a close. Born in Alexandria, Egypt, and formed as a youth in Red Vienna and Weimar-era Berlin, he came to intellectual maturity in interwar Cambridge and postwar London. His Ages tetralogy firmly established him on course syllabi and on the bookshelves of what he called, in The Age of Revolution , “the intelligent and educated citizen, who is not merely curious about the past, but wishes to understand how and why the world has come to be what it is today and whither it is going.” And he was, paradoxically for someone who rose to such popular heights, a proud communist who, for better or worse depending on whom you ask, bound himself to a particular vision of a better future as he bore witness to an epoch he dub",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/8f2c21042bda266fa1abe54d.json"
+      "article_path": "articles/ff60fe01c60f8c894f37bf81.json"
     },
     {
-      "id": "cfed6013a80744ff9a88e558",
-      "title": "Destination Crenshaw",
-      "url": "https://www.laprogressive.com/racism/destination-crenshaw",
-      "author": "Erin Aubry Kaplan",
-      "source": "LA Progressive",
-      "published_at": "2026-10-14T16:11:30+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. It’s just the latest project to fall short in the Crenshaw neighborhood of Los Angeles. But this time the stakes are especially high. Jackie Ryan admits she never really got the premise of Destination Crenshaw, the much-heralded outdoor art project being constructed around the path of a light-rail line running down Crenshaw Boulevard. “I picture people looking out the window, whizzing by all the art,” said Ryan, the owner of the now-closed Zambezi Bazaar, an African-themed shop and cultural center in Leimert Park Village that operated for more than 20 years. “Destination Crenshaw promises a lot with that title, but It really doesn’t have us in mind.” Ryan, 89, is a veteran ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/cfed6013a80744ff9a88e558.json"
-    },
-    {
-      "id": "d6a5497cebe674ea272ebd82",
-      "title": "Joe Biden’s Team Is Rewriting Its History on Gaza",
-      "url": "https://jacobin.com/2026/10/biden-israel-gaza-genocide-blinken-mcgurk",
-      "author": "Akbar Shahid Ahmed",
+      "id": "009b2d9c82d0481f7124bbba",
+      "title": "How Bernie’s Campaigns Reorganized the Organized Left",
+      "url": "https://jacobin.com/2026/10/bernie-campaigns-iso-democrats-strategy",
+      "author": "Hadas Thier",
       "source": "Jacobin",
-      "published_at": "2026-10-14T15:28:00+00:00",
-      "content_excerpt": "After three years of slaughter in Gaza, some leading officials of the Biden administration are trying to justify their record. Figures like Antony Blinken and Brett McGurk have been on media tours recently giving their version of the story. Meanwhile, Akbar Shahid Ahmed has been working to provide a serious account of what really happened. Akbar’s book Crossing the Red Line: Biden, His Advisors, and Israel’s War in Gaza cuts through the spin and presents a damning picture of Joe Biden and his team. Akbar is the diplomatic correspondent for the Washington Sun . He previously covered foreign policy issues for the Huffington Post . This is an edited transcript from Jacobin’s Long Reads podcast. You can listen to the interview here . Daniel Finn In the period immediately after the October 7 at",
+      "published_at": "2026-10-15T14:07:23+00:00",
+      "content_excerpt": "Ten years ago, while socialist Bernie Sanders was making his historic run for the Democratic presidential nomination that drew millions of supporters and promised a “political revolution” to live long past his campaign, I was part of a small revolutionary organization that pooh-poohed him as a faux renegade. The socialist left at the time had been largely marginal to the American political landscape. This was not only because so few socialists sat in political offices. Organized socialists were unable to insert our ideas, strategies, or demands beyond small meetings and study groups, only occasionally influencing national discourse by being part of movements that showed themselves on the street in mass numbers. But movements naturally ebb and flow, and in their absence, much of the Left wo",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/d6a5497cebe674ea272ebd82.json"
+      "article_path": "articles/009b2d9c82d0481f7124bbba.json"
     },
     {
-      "id": "de83e1f8f7eea1f5fd02bd99",
-      "title": "RVDSA Releases Voter Guide on 2026 Massachusetts Ballot Questions",
-      "url": "https://rvdsa.org/news/rvdsa-releases-voter-guide-on-2026-massachusetts-ballot-questions",
-      "author": "River Valley DSA",
+      "id": "34d9786e94fa14b0b41d7491",
+      "title": "Proles: A Story of Post-Sixties’ Salting Among the “Salt of The Earth”",
+      "url": "https://www.californiadsa.org/news/book-review-proles-oct26",
+      "author": "California DSA",
       "source": "DSA Feed - Global",
-      "published_at": "2026-10-14T13:59:07+00:00",
-      "content_excerpt": "On November 3rd, voters will go to the polls and face nine ballot questions, some of which will have significant impacts on working people in Massachusetts. At the October General Meeting, RVDSA members approved the following slate of positions: Vote Yes on 1 to expand public records laws to apply to the Governor, State House, […]",
+      "published_at": "2026-10-15T14:05:46+00:00",
+      "content_excerpt": "In the early 1970s, when many student activists were migrating from campus to industrial jobs to promote working class radicalization, no labor film was more influential than Salt of the Earth. This pioneering docudrama was made two decades earlier by a producer, writer, director, and several actors who were unemployable in Hollywood, due to McCarthy era-blacklisting. This left-wing creative team recruited a cast of workers and their families from the International Union of Mine, Mill, and Smelter Workers (IUMMSW) to play themselves in a fictional account of a long strike at the Empire Zinc Company in Grant County, New Mexico. Local 890 members knew something about red-baiting too. Shortly before their 1951 fight for better conditions and an end to wage disparities between Anglo and Chican",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/de83e1f8f7eea1f5fd02bd99.json"
+      "article_path": "articles/34d9786e94fa14b0b41d7491.json"
     },
     {
-      "id": "791b90f72b245898b0fa89ca",
-      "title": "Expand or Contract? On Member Voting Rights",
-      "url": "https://rocdsa.org/blog/expand-or-contract-on-member-voting-rights",
-      "author": "Rochester Red Star: News from Rochester DSA",
+      "id": "0dc02cbe72fcb04bc3a83f44",
+      "title": "Press Release: MN Chapters of the DSA Condemn Escalating Zenophobic Attacks Against Our Somali and Immigrant Communities",
+      "url": "https://twinportsdsa.org/chapter-news/2026/10/14/press-release-mn-chapters-of-the-dsa-condemn-escalating-zenophobic-attacks-against-our-somali-and-immigrant-communities",
+      "author": "Twin Ports DSA",
       "source": "DSA Feed - Global",
-      "published_at": "2026-10-14T13:59:07+00:00",
-      "content_excerpt": "by Vincent Lima In our September General Meeting, members of ROC DSA wisely rejected a proposal that would restrict their right to vote on certain key decisions. The rejected proposal appeared to be part of a broader movement to shrink the voting base of DSA. Our process for considering applications for the endorsement of candidates for elected office has been tweaked from time to time, but the main steps have remained: The candidate submits an application signed by a certain number of ROC DSA members. The application includes a questionnaire. The signature requirement signifies some baseline level of support and at least hints at the candidate’s ability to collect signatures on a petition. In reality, the chapter does not passively await applications, but the application is what formally ",
+      "published_at": "2026-10-15T14:05:46+00:00",
+      "content_excerpt": "We, the undersigned DSA chapters of the State of Minnesota, denounce and strongly condemn the escalation of xenophobic rhetoric that the Trump administration is intentionally directing at our communities. The President’s recent othering and dehumanizing of Minnesota's Somali communities encourages violence, both from his supporters and the violent and unaccountable national security state. Minnesota is stronger because of our Somali and other immigrant communities. Immigrants are our friends, co-workers, teachers, community leaders, and more. As Minnesotans, we know who we are and we won’t fall for dishonest actors spreading disinformation and hateful, divisive rhetoric about our immigrant neighbors. No Minnesotan should feel unsafe or unwelcome because of their faith, heritage, or backgro",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/791b90f72b245898b0fa89ca.json"
+      "article_path": "articles/0dc02cbe72fcb04bc3a83f44.json"
     },
     {
-      "id": "240e1937c3cfc11357f4a395",
-      "title": "Our Voter Guide for the November 2026 General Election",
-      "url": "https://portlanddsa.org/our-voter-guide-for-the-november-2026-general-election",
-      "author": "Portland DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-10-14T13:59:07+00:00",
-      "content_excerpt": "Organized, researched, and drafted by Victoria B., Janna T., Cole S., Cay Lynn C., and Josh S. Introduction The Democratic Socialists of America (DSA) is the largest socialist organization in US history, with over 120,000 members nationwide. We believe that the people whose labor built the world should decide its direction and benefit from its resources. That’s why we fight for thriving working-class communities, working-class foreign policy, and working-class democracy . The Portland, OR chapter is the 4th largest in the country. We have over 3,700 members spread across the City of Portland, Southwest Washington, Clackamas County, East Multnomah County, the Tualatin Valley, and Yamhill County. At the chapter’s October general meeting, members approved the publication of the following vote",
+      "id": "54242809591ac96cff76fc9f",
+      "title": "The Margin of Effort: How Election Volunteering Can Help Save Democracy",
+      "url": "https://www.laprogressive.com/election-and-campaigns/the-margin-of-effort",
+      "author": "Paul Rogat Loeb",
+      "source": "LA Progressive",
+      "published_at": "2026-10-15T13:18:09+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Sometimes it’s the humble actions that matter, an important lesson for our dangerous time. For years, I’ve volunteered to get out the vote for my preferred candidates. In one election, knocking on doors in a Seattle neighborhood, I spoke with three people who supported my candidate for governor but wouldn’t have voted had I not contacted them: One forgot it was Election Day. Another didn’t know how to submit an absentee ballot. The third needed a ride to the polls. My impact had nothing to do with eloquence or skill and everything to do with simply showing up. After three recounts, my candidate won by 133 votes in a state of 6.2 million. I’d personally gotten one-fiftieth o",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/240e1937c3cfc11357f4a395.json"
+      "article_path": "articles/54242809591ac96cff76fc9f.json"
     },
     {
-      "id": "d98c4f373a36f128b0e51cad",
-      "title": "Muncie Branch 2026 Election Recommendations",
-      "url": "https://www.centralindsa.org/muncie-branch-2026-election-recommendations",
-      "author": "Central Indiana DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-10-14T13:59:07+00:00",
-      "content_excerpt": "DSA Muncie Branch Statement of Recommendations for the 2026 Election The DSA Muncie Branch recommends voting for Sara Guillion for Indiana State House in District 34 and Phil Gift for […]",
+      "id": "e770300001d5d62adf0c35ca",
+      "title": "Britain’s Military-Industrial Complex Is Promoting War Fever",
+      "url": "https://jacobin.com/2026/10/uk-military-contractors-intelligence-media",
+      "author": "John Rees",
+      "source": "Jacobin",
+      "published_at": "2026-10-15T13:05:07+00:00",
+      "content_excerpt": "War fever has gripped the European political establishment. War in Ukraine and rumors of continent-wide conflict with Russia are now the staple justification for rearmament, ballooning arms budgets, and the reintroduction of conscription across Europe. Popular consent for this lurch to militarization is very limited indeed, so the political establishment is deploying military and security service officers, past and present, in an unprecedented propaganda blitz to make the case for war. Astounding statistics underline how far this process has gone. In the last twelve months, there have been approximately nine hundred appearances by serving or former military or security service officers on Britain’s mainstream media. That’s roughly seventy-five contributions every month, or seventeen a week",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/d98c4f373a36f128b0e51cad.json"
+      "article_path": "articles/e770300001d5d62adf0c35ca.json"
     }
   ]
 }
