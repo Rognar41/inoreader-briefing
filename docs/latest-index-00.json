@@ -1,12 +1,297 @@
 {
-  "generated_at": "2026-10-15T22:34:35.686073+00:00",
-  "generated_at_jst": "2026-10-16T07:34:35.686073+09:00",
-  "period_start": "2026-10-14T16:34:35.686073+00:00",
+  "generated_at": "2026-10-16T22:09:58.231540+00:00",
+  "generated_at_jst": "2026-10-17T07:09:58.231540+09:00",
+  "period_start": "2026-10-15T16:09:58.231540+00:00",
   "lookback_hours": 30,
   "folder": "00_毎日確認",
   "article_count": 20,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "3e3e79cf4fedd2c260acfbf2",
+      "title": "UAW President Shawn Fain, International Executive Board Sworn In for New Four-Year Term",
+      "url": "https://uaw.org/uaw-president-shawn-fain-international-executive-board-sworn-in-for-new-four-year-term",
+      "author": "Justin Mayhugh",
+      "source": "UAW",
+      "published_at": "2026-10-16T19:10:55+00:00",
+      "content_excerpt": "United Auto Workers (UAW) President Shawn Fain and the union’s newly elected International Executive Board (IEB) were sworn into office for a new four-year term in a ceremony honoring the will of the membership and reaffirming the union’s commitment to fighting for its members and all working-class people. Press is encouraged to use photos from the swearing-in ceremony . The ceremony marked the beginning of a new term for Fain and the International Executive Board, who pledged to faithfully serve the union’s membership and advance the interests of UAW members, families, and their communities. UAW member and longtime union leader Paul Caucci administered the oath of office to Fain, who begins his second term as International Union president. Fain then administered the constitutional obligat",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/3e3e79cf4fedd2c260acfbf2.json"
+    },
+    {
+      "id": "6425eefdbf9aefe81309cf95",
+      "title": "Economics News for Workers, October 2026",
+      "url": "https://www.ueunion.org/ue-news/2026/economics-news-for-workers-october-2026",
+      "author": "",
+      "source": "UE NEWS Updates | UE",
+      "published_at": "2026-10-16T18:40:23+00:00",
+      "content_excerpt": "On September 16, the Federal Reserve Board raised its benchmark interest rate by a quarter of a percent, the first rate hike in three years. Minutes from the meeting which were released in early October indicate that the board of governors expects to impose another rate increase before the end of the year. They meet again on October 28 and December 9. The rate increase, while justified as a means to fight inflation, was primarily meant to reassure international financial markets that the U.S. will make good on its debt, which has spiraled due to the combination of tax cuts for the wealthy and military spending. Higher interest rates are essentially a tax imposed on working people, who will pay higher rates on credit cards and mortgages while also bearing the brunt of slower job growth. (Wh",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/6425eefdbf9aefe81309cf95.json"
+    },
+    {
+      "id": "1e9a187e065f0afd1f441989",
+      "title": "Dattner’s Architects Say They Want a Union",
+      "url": "https://jacobin.com/2026/10/dattner-architects-union-iam-nyc",
+      "author": "Alex N. Press",
+      "source": "Jacobin",
+      "published_at": "2026-10-16T18:15:44+00:00",
+      "content_excerpt": "On the west side of Manhattan, near the entrance to the Holland Tunnel, there is a nearly seventy-foot-tall concrete building containing five thousand tons of road salt. The walls of the Spring Street Salt Shed slope inward and outward in enormous pale planes; the whole thing is meant to resemble a grain of salt. Across the street stands a much larger garage that accommodates more than 150 sanitation vehicles, its long facades covered in glass and aluminum louvers. The two buildings were designed together, an attempt to make a sprawling sanitation facility fit into a residential neighborhood where residents had initially fought its construction. Writing about the complex in 2016, Architectural Record called the shed “as compelling as many pieces of public art in Manhattan.” The Salt Shed i",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/1e9a187e065f0afd1f441989.json"
+    },
+    {
+      "id": "058de4725cd9deda74b4e8a7",
+      "title": "More Than Ball Fields",
+      "url": "https://www.laprogressive.com/los-angeles-2/more-than-ball-fields",
+      "author": "Bill Gould",
+      "source": "LA Progressive",
+      "published_at": "2026-10-16T17:26:32+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. For generations of Altadena families, Charles S. Farnsworth Park has been much more than ballfields at the foot of the San Gabriel Mountains. It has been one of the places where Altadena comes together. Children learned to throw and catch there, parents watched from the stands, coaches became mentors and neighbors became friends. But Farnsworth has always served a broader community. Its playgrounds, tennis and pickleball courts and basketball courts provided recreation for all ages. The historic Davies Building and amphitheater hosted plays, concerts, voting and community celebrations. Farnsworth was not simply a park; it was part of Altadena’s civic life. As someone whose ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/058de4725cd9deda74b4e8a7.json"
+    },
+    {
+      "id": "786cd9696e3c5a43e1dd524a",
+      "title": "In India, “Cockroaches” Are Leading the Fight for Democracy",
+      "url": "https://jacobin.com/2026/10/india-cockroach-protests-elections-democracy",
+      "author": "Prajwal Bhat",
+      "source": "Jacobin",
+      "published_at": "2026-10-16T17:19:58+00:00",
+      "content_excerpt": "On October 10, India’s capital city, New Delhi, was turned into a fortress as protesters tried to oppose a countrywide exercise to revise the electoral rolls. The protests were called by the Gen Z movement known as the Cockroach Janta Party (CJP), working with left-wing student groups, which forced the resignation of the minister of education in July. In response, the Indian government deployed more than twenty thousand police officers and paramilitary personnel, suspended internet access in central Delhi, and barricaded the city center. Thousands of protesters, including the leaders of the CJP and prominent opposition politicians, were detained. The protests stem from a massive government effort, known as the Special Intensive Revision (SIR), to revise India’s electoral rolls by removing ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/786cd9696e3c5a43e1dd524a.json"
+    },
+    {
+      "id": "4ffb070082ffa5c38eec4165",
+      "title": "Black Agenda Report October 16, 2026",
+      "url": "https://www.blackagendareport.com/black-agenda-report-october-16-2026",
+      "author": "bareditors",
+      "source": "Black Agenda Report",
+      "published_at": "2026-10-16T16:50:54+00:00",
+      "content_excerpt": "Black Agenda Report October 16, 2026 Authors Black Agenda Radio with Margaret Kimberley bareditors Fri, 10/16/2026 - 21:46 Black Agenda Radio · Black Agenda Report October 16, 2026 In this week’s segment, we see through supposed disagreements between the US and Canada and recognize their partnership in settler colonialism, enslavement, and imperialism. But we begin with a discussion of the Democratic Republic of Congo, where elites jockey for power while colluding with imperialist forces that decimate the country. International Canada Congo US Imperialism M23 settler colonialism Democratic Republic of Congo",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/4ffb070082ffa5c38eec4165.json"
+    },
+    {
+      "id": "5aa609f120cd5cae4d91c753",
+      "title": "France's Youth Revolt",
+      "url": "https://www.laprogressive.com/education-reform/frances-youth-revolt",
+      "author": "Kevin Anderson",
+      "source": "LA Progressive",
+      "published_at": "2026-10-16T16:46:30+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Beginning in the marginalized banlieues, France’s high school revolt has become national in scope, taking on economic and racial oppression as well as police brutality. By October 13, the high school protest movement in France had mushroomed, prompting up to half a million people to take to the streets across the country. On that day, Swedish climate activist Greta Thunberg made a solidarity visit to one of the high schools where it all started, Lycée Paul Eluard, in the impoverished Paris banlieue (suburb) of Saint-Denis. Thunberg intoned that “the whole world is watching” and that it is “proud of the French students.” [1] With a two-week school vacation beginning on Octob",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/5aa609f120cd5cae4d91c753.json"
+    },
+    {
+      "id": "ca2d1687e0f96e792bacf7ae",
+      "title": "The Social Reckoning Needed David Fincher",
+      "url": "https://jacobin.com/2026/10/review-sorkin-social-reckoning-facebook-zuckerberg",
+      "author": "Eileen Jones",
+      "source": "Jacobin",
+      "published_at": "2026-10-16T16:21:26+00:00",
+      "content_excerpt": "Reporting on how badly Aaron Sorkin’s Facebook drama The Social Reckoning is flopping, I won’t bother to do any better than USA Today ’s mild zinger , “Moviegoers are unfriending The Social Reckoning.” Meanwhile, the critically panned horror film Other Mommy is crushing it at the box office. But that’s unsurprising, because The Social Reckoning doesn’t have Jessica Chastain’s grinning, spider-crawling monster-mommy to draw people in during a Halloween season when the horror film pickings this year are rather slim. Of course, as The Social Reckoning ’s featured creature, Facebook CEO Mark Zuckerberg is pretty monstrous too, but even with Jeremy Strong playing him, he can’t convey the skin-crawling repulsiveness of this deeply weird billionaire tech mogul who strikes the public as so sociopa",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/ca2d1687e0f96e792bacf7ae.json"
+    },
+    {
+      "id": "3668d288d376285f33260d1e",
+      "title": "Beyond Israeli Apartheid",
+      "url": "https://www.laprogressive.com/foreign-policy/beyond-israeli-apartheid",
+      "author": "Ramzy Baroud",
+      "source": "LA Progressive",
+      "published_at": "2026-10-16T16:04:37+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. The Green Party has put the conversation back on track: the problem is not the lack of creative solutions to the Israeli occupation of Palestine. The problem is Zionism itself. To appreciate the significance of Motion A105, adopted by the Green Party of England and Wales on Oct. 4, consider its basic tenets. The party is now formally anti-Zionist. It endorses the Palestinian right of return, supports one democratic state throughout historic Palestine, reaffirms its commitment to the Boycott, Divestment and Sanctions movement, distinguishes anti-Zionism from antisemitism, and calls for a full arms embargo against Israel. Though the decision may seem revolutionary within Brit",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/3668d288d376285f33260d1e.json"
+    },
+    {
+      "id": "11323d7111678106755973e3",
+      "title": "Leftists Should Learn to Organize Like Evangelicals",
+      "url": "https://jacobin.com/2026/10/evangelicals-warren-organizing-community-socialism",
+      "author": "Eric Blanc",
+      "source": "Jacobin",
+      "published_at": "2026-10-16T15:22:05+00:00",
+      "content_excerpt": "If progressives and radicals had all read Rick Warren’s The Purpose Driven Church when it came out in 1995, we’d be far stronger today. It’s the most important book on organizing that most leftists haven’t read. Luckily, it’s not too late to discover it. Warren founded Saddleback Church in suburban Orange County in 1980, starting with a Bible study in his home. Fifteen years later, more than ten thousand people were attending its services each weekend, and Saddleback had planted twenty-six other churches. The Purpose Driven Church was Warren’s attempt to explain how he’d done it, so that other pastors could do the same. It became a founding manual of “seeker-sensitive” Evangelicalism, which designs churches around the people who don’t yet attend one. By 2004, Warren’s book had sold more th",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/11323d7111678106755973e3.json"
+    },
+    {
+      "id": "50c5d86e4a1480c30bcff863",
+      "title": "Sweden’s Left Faces a Political Deadlock",
+      "url": "https://jacobin.com/2026/10/swedish-elections-left-center-deadlock",
+      "author": "Rikard Warlenius",
+      "source": "Jacobin",
+      "published_at": "2026-10-16T14:26:22+00:00",
+      "content_excerpt": "After four years of a right-wing government that the far-right Sweden Democrats (SD) heavily influenced, the parties that refuse to cooperate with the SD secured a narrow victory in the general election on September 13. However, the winning side consists of four parties that are politically very far apart and have so far been unable to agree on a new government. While the Left Party refuses to support a government in which it does not hold cabinet posts, the neoliberal Center Party refuses to support a government that includes Left Party ministers. Nobody wants a snap election or a repeat of the extremely slow, 134-day process of forming a government that followed the 2018 election. But there is still no solution in sight to this stalemate. Ultimately, Sweden’s dilemma is bigger than the q",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/50c5d86e4a1480c30bcff863.json"
+    },
+    {
+      "id": "92dba3a88f2aecb540b2d45e",
+      "title": "UAW President Shawn Fain, Abdul El-Sayed in Candid Conversation on 2026 Midterm Stakes",
+      "url": "https://uaw.org/uaw-president-shawn-fain-abdul-el-sayed-in-candid-conversation-on-2026-midterm-stakes",
+      "author": "Justin Mayhugh",
+      "source": "UAW",
+      "published_at": "2026-10-16T14:09:07+00:00",
+      "content_excerpt": "Today, the UAW released an hour-long conversation between UAW President Shawn Fain and Michigan Senate candidate Abdul El-Sayed. Recorded the previous week at the UAW’s Solidarity House in Detroit, MI, the two Midwest-made trailblazers in their respective fields covered a wide range of topics — from faith and family to healthcare, retirement security, trade, AI and technology, and other important issues that matter to working-class voters ahead of Election Day. Michigan is one of several states where the UAW is running its most ambitious political operation in decades. As an early endorser of Abdul El-Sayed in the high-profile U.S. Senate race in Michigan, the UAW is also throwing down in several priority House races and potential Republican flip districts where the UAW’s density is larger",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/92dba3a88f2aecb540b2d45e.json"
+    },
+    {
+      "id": "541c7509e4dd05ad96f19b47",
+      "title": "Getting Grounded October – Zoning Final Draft Fails Community Gardens and Urban Farms",
+      "url": "https://rocdsa.org/blog/getting-grounded-october-zoning-final-draft-fails-community-gardens-and-urban-farms",
+      "author": "Rochester Red Star: News from Rochester DSA",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-10-16T13:56:37+00:00",
+      "content_excerpt": "by Elizabeth Henderson Revisions of zoning codes happen at long intervals, so this is a chance for Rochester to make changes that will govern the city for at least the next decade. The process has been underway for over four years and seems to overwhelm the staff which has not met any of their deadlines. In their revisions, the zoning writers have responded to some of the requests from the Food Policy Council and Urban Agriculture Working Group, but we have more work to do. The April 2026 Draft turns out to be their final language. Now it is up to City Council which has the power to make amendments or to accept the draft as is. If you want to support community gardening, please attend one of these sessions and speak up or send in written comments! The zoning revisions process bears the tit",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/541c7509e4dd05ad96f19b47.json"
+    },
+    {
+      "id": "c70e4048671a41e18f73307e",
+      "title": "High School Protests Can Transform France’s Election Campaign",
+      "url": "https://jacobin.com/2026/10/yellow-vests-youth-melenchon-france-insoumise",
+      "author": "Solange Manche",
+      "source": "Jacobin",
+      "published_at": "2026-10-16T13:23:26+00:00",
+      "content_excerpt": "Since the outbreak of high school blockades and students protests in French Guiana and Mayotte this September , Jean-Luc Mélenchon’s party, La France Insoumise, has continued to rise in the polls. After a rally in Clermont-Ferrand last Sunday, filling the city’s biggest arena — the third-largest in France — Mélenchon was for the first time projected to make it to the runoff of the 2027 presidential election, in all possible scenarios lining up different candidates. Marine Le Pen, projected to win 35 percent of the vote in the first round, will almost certainly be his opponent in the final showdown for power. As the movement has yet to reach its peak, these figures could still radically change. On Tuesday, 480,000 people protested across France . With over a million people having already ta",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/c70e4048671a41e18f73307e.json"
+    },
+    {
+      "id": "a878c6f9132de587a3bbcbcc",
+      "title": "Musk, Koch Spend Millions Against Socialism",
+      "url": "https://democraticleft.dsausa.org/2026/10/16/musk-koch-spend-millions-against-socialism",
+      "author": "tfrasca@yahoo.com",
+      "source": "Democratic Left",
+      "published_at": "2026-10-16T11:51:18+00:00",
+      "content_excerpt": "Ilhan Omar raid illustrates “fascist police state,” Mamdani under pressure over NYPD boss Tisch, and more in this edition of “Red All Over,” Democratic Left’s occasional news roundup. The post Musk, Koch Spend Millions Against Socialism appeared first on Democratic Left .",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/a878c6f9132de587a3bbcbcc.json"
+    },
+    {
+      "id": "401e71da60fa64a559a16cea",
+      "title": "Polls in the Hole",
+      "url": "https://www.laprogressive.com/election-and-campaigns/polls-in-the-hole",
+      "author": "John Peeler",
+      "source": "LA Progressive",
+      "published_at": "2026-10-16T06:42:38+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Republicans hope—and Democrats Fear—that the recent pattern of polls underestimating Republican (and Trump) support will save them this year. And there are certainly grounds to hope that. In 2016, most polls had Trump losing, but of course, he won. Polls overestimated Hillary Clinton’s support by 3 percent. In 2020, polls overestimated Democratic numbers by 4.7 percent (but they won anyway). In 2024, Democrats were overestimated by 2.9 percent, and of course Trump won a narrow victory (not the landslide he claims). The mid-term bias has been smaller. In 2018, GOP support was overestimated by a mere 0.5 percent; in 2022, Democratic support was overstated by a scarcely larger",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/401e71da60fa64a559a16cea.json"
+    },
+    {
+      "id": "3b8ba3b09263167a2d10175c",
+      "title": "Congo's Elite Struggle for Power While Imperialist Control and Violence Decimate the Country",
+      "url": "https://www.blackagendareport.com/congos-elite-struggle-power-while-imperialist-control-and-violence-decimate-country",
+      "author": "bareditors",
+      "source": "Black Agenda Report",
+      "published_at": "2026-10-16T03:55:04+00:00",
+      "content_excerpt": "Congo's Elite Struggle for Power While Imperialist Control and Violence Decimate the Country Authors Black Agenda Radio with Margaret Kimberley bareditors Fri, 10/16/2026 - 04:45 Joseph Kabila, former president of the Democratic Republic of Congo, named himself president of the Front for the Rebuilding of the Nation. He is now formally allied with M23, the Rwanda-backed militia that has terrorized eastern provinces for many years. In addition, Ebola virus disease continues to spread in the DRC. Maurice Carney is the executive director of Friends of the Congo , and he joins us from Washington to provide analysis. Africa Congo M23 Rwanda Ebola US Imperialism",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/3b8ba3b09263167a2d10175c.json"
+    },
+    {
+      "id": "35ca46a66c16c0cbfc3640f1",
+      "title": "The Canadian and U.S. Partnership in Settler Colonialism, Enslavement, and Imperialism",
+      "url": "https://www.blackagendareport.com/canadian-and-us-partnership-settler-colonialism-enslavement-and-imperialism",
+      "author": "bareditors",
+      "source": "Black Agenda Report",
+      "published_at": "2026-10-16T03:55:04+00:00",
+      "content_excerpt": "The Canadian and U.S. Partnership in Settler Colonialism, Enslavement, and Imperialism Authors Black Agenda Radio with Margaret Kimberley bareditors Fri, 10/16/2026 - 04:28 Isaac Saney is a Cuba and Black Studies specialist and historian at Dalhousie University in Halifax, Nova Scotia, Canada. He discusses the U.S./Canadian partnership in settler colonialism, enslavement, and imperialism. International Canada United States imperialism Colonialism",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/35ca46a66c16c0cbfc3640f1.json"
+    },
+    {
+      "id": "211fde087b447d48596786dc",
+      "title": "Jobs Fair: It’s Time to Get These Socialists to Work",
+      "url": "https://medium.com/dsa-detroit-newspaper/jobs-fair-its-time-to-get-these-socialists-to-work-d12693ffaefe?source=rss-160b7baee925------2",
+      "author": "Detroit DSA",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-10-15T23:35:06+00:00",
+      "content_excerpt": "by Jo Blocton An early 1900s IWW comic on grounding thought in organizing on the ground. Unions are the only space in American society where socialist values of solidarity and “us vs. them” are openly spoken and encouraged, outside of DSA. It is about time for us to take back this space to fight for workers’ rights. Detroit DSA’s Jobs Fair on September 19th was as much about education as it was about encouraging folks to consider new job options. During the fair, about 60 participants heard from five different union members about why going to work within their fields can create legitimate change for the whole working class, while also improving their individual lives. The purpose was to bring socialists to the front line of the workforce, where we can build political power on all fronts fo",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/211fde087b447d48596786dc.json"
+    },
     {
       "id": "6a97a90ac9c589b84a3ca583",
       "title": "When Workers, Driving Customers or Saving Lives in the ER, Become Independent Contractors",
@@ -21,291 +306,6 @@
       "priority": 1,
       "date_missing": false,
       "article_path": "articles/6a97a90ac9c589b84a3ca583.json"
-    },
-    {
-      "id": "2377655c595af352d6255f4e",
-      "title": "Tenant Power on Display in Jersey City",
-      "url": "https://north.dsanj.org/tenant-power-on-display-in-jersey-city",
-      "author": "Statements from North New Jersey DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-10-15T20:41:19+00:00",
-      "content_excerpt": "By Dominick C. On Sunday, September 13th, a crowd of a few dozen organizers and tenants living at 150 and 154 Belmont Ave. swelled outside their buildings. Their voices rang […]",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/2377655c595af352d6255f4e.json"
-    },
-    {
-      "id": "e0d240d7ea137f0f245e1f66",
-      "title": "Socialist Stories: What is the State?",
-      "url": "https://north.dsanj.org/socialist-stories-what-is-the-state",
-      "author": "Statements from North New Jersey DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-10-15T20:41:19+00:00",
-      "content_excerpt": "By Andrew W. Socialism is for everyone, and education provides power to the people. That’s why every issue of Garden State Socialist features this column, Socialist Stories: a short, educational […]",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/e0d240d7ea137f0f245e1f66.json"
-    },
-    {
-      "id": "1f25acd6200c0cb0baadf2ca",
-      "title": "Why I Started Judging the Judges: The Election That Changed How I Vote",
-      "url": "https://www.laprogressive.com/judging-the-judges/judging-the-judges-the-election-that-changed-how-i-vote",
-      "author": "Sharon Kyle",
-      "source": "LA Progressive",
-      "published_at": "2026-10-15T20:40:48+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. When I watched a tough-on-crime prosecutor reinvent himself before a room full of progressive voters, I realized how little we really knew about the people we were electing to the bench. That experience eventually led me to create LA Progressive's Judging the Judges series. Every election season, millions of Americans confront a familiar problem. They are asked to make decisions about candidates they know almost nothing about. Nowhere is this problem more apparent than in judicial elections. Most voters can tell you something about the candidates running for president, governor, or mayor. They may have heard them speak, watched them debate, or read about their positions on ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/1f25acd6200c0cb0baadf2ca.json"
-    },
-    {
-      "id": "3d9ff3e04427c8cc49e7de3b",
-      "title": "Turkey Risks Being Drawn Into Saudi Arabia’s War in Yemen",
-      "url": "https://jacobin.com/2026/10/turkey-yemen-saudi-mecca-agreement",
-      "author": "Oğul Tuna",
-      "source": "Jacobin",
-      "published_at": "2026-10-15T20:02:16+00:00",
-      "content_excerpt": "There are few places outside Turkey that occupy such a mournful place in the country’s popular memory as Yemen. For generations, Turks who knew little about the politics of the Arabian Peninsula nevertheless knew Yemen through folk songs. They were ballads about young men sent from Anatolia to fight in Yemen, many of whom never returned. They told of mothers waiting for sons, women waiting for husbands, and a distant land associated above all with death. One of the most haunting was recorded by Ruhi Su, the great communist interpreter of Turkish folk music. Its refrain addresses the country with a bitter grandeur: Yemen, Yemen, glorious Yemen, Yemen, Yemen, your soil soaked in blood. The glory belonged to the empire. The dead belonged overwhelmingly to ordinary families. More than a centur",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/3d9ff3e04427c8cc49e7de3b.json"
-    },
-    {
-      "id": "8852f61905f84eba1ecd4b6e",
-      "title": "Client Lifecycle Management",
-      "url": "https://www.laprogressive.com/sponsored/client-lifecycle-management",
-      "author": "Tiqua Jackson",
-      "source": "LA Progressive",
-      "published_at": "2026-10-15T19:43:31+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Financial institutions manage client relationships through onboarding, verification, account servicing, reviews, and closure. Each stage creates tasks, decisions, records, and compliance obligations that require consistent handling. When teams manage these activities separately, information becomes fragmented, and delays increase. That is where a structured, end-to-end process adds the most value. Client lifecycle management connects the full relationship into one structured process, giving teams clearer ownership, better data, and stronger oversight. The approach becomes easier to understand by examining its main stages and practical value. Here is a closer look at what th",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/8852f61905f84eba1ecd4b6e.json"
-    },
-    {
-      "id": "0e591eb3d03fc2f7bdf537f6",
-      "title": "It Won’t Stop With Ilhan Omar",
-      "url": "https://jacobin.com/2026/10/trump-vance-politicized-deportation-omar",
-      "author": "Branko Marcetic",
-      "source": "Jacobin",
-      "published_at": "2026-10-15T18:56:56+00:00",
-      "content_excerpt": "Up until now, the Donald Trump-J. D. Vance administration has been busy weaponizing the US immigration system against fairly low-level political opponents: college students protesting US support for Israel’s genocide, independent journalists applying scrutiny to government policies, or random tourists who happened to be critical of the president and his lackeys. Now it’s taking the unprecedented step of turning it against a sitting member of Congress. The federal raid on Squad member Rep. Ilhan Omar’s home carried out earlier this week has now all but officially been confirmed to be an immigration-related investigation trying to strip her of US citizenship and deport her, as sources separately relayed to Fox News , the New York Post , the Washington Post , and the Wall Street Journal . It ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/0e591eb3d03fc2f7bdf537f6.json"
-    },
-    {
-      "id": "1c235d9c81293c07bc0ae859",
-      "title": "World War Z and the Hollywood hasbara apparatus",
-      "url": "https://scalawagmagazine.org/2026/10/world-war-z-and-the-hollywood-hasbara-apparatus",
-      "author": "Sherronda J. Brown",
-      "source": "Scalawag",
-      "published_at": "2026-10-15T18:31:06+00:00",
-      "content_excerpt": "A century of Hollywood hasbara has worked to desensitize Western audiences to Israel’s war crimes and to normalize the prioritization of Israel's political and military interests. The entertainment industry's complicity is a necropolitical tool of zombifying Palestinians and sustaining Israel's death-world. Read more via Scalawag : World War Z and the Hollywood hasbara apparatus .",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/1c235d9c81293c07bc0ae859.json"
-    },
-    {
-      "id": "73bbab75eb6ae4ffacb0fa48",
-      "title": "Sons of Vietnamese Refugees",
-      "url": "https://www.laprogressive.com/election-and-campaigns/sons-of-vietnamese-refugees",
-      "author": "Reia Li",
-      "source": "LA Progressive",
-      "published_at": "2026-10-15T17:43:25+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. California has just a handful of truly competitive congressional races this year, as a nationwide redistricting battle and a new map approved under Gov. Gavin Newsom’s Proposition 50 have reshaped the electoral landscape. The tightest contests are in the Central Valley and San Diego County, but the fight also extends to Orange County, a onetime Republican stronghold where Democratic Rep. Derek Tran is defending his seat. This year marks the first time two Vietnamese Americans are running to represent the district, which includes Little Saigon, the largest concentration of people of Vietnamese ancestry outside of Vietnam. Roughly 13% of the district’s population is Vietnames",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/73bbab75eb6ae4ffacb0fa48.json"
-    },
-    {
-      "id": "f44814294b66353c90c4be15",
-      "title": "How Israel Controls Palestinian Land",
-      "url": "https://www.laprogressive.com/foreign-policy/how-israel-controls-palestinian-land",
-      "author": "Vijay Prashad",
-      "source": "LA Progressive",
-      "published_at": "2026-10-15T17:22:33+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Israel’s genocidal bombing campaign has devastated Gaza’s wastewater system, destroying or damaging nearly 90% of the territory’s water and sanitation infrastructure since 2023. Every day, 45,000 cubic metres of untreated sewage are discharged into the Mediterranean Sea while an additional 15,000 cubic metres seep into the ground. This collapse of sanitation infrastructure has led to an infestation of rats and other rodents in Gaza, with two in three children living in displacement sites plagued by these vermin. In September 2026, an exceptional algal bloom clogged filtration systems at five of Israel’s six desalination plants, with the Israeli environmental group Zalul war",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/f44814294b66353c90c4be15.json"
-    },
-    {
-      "id": "7fc45a0f6de77399a3579127",
-      "title": "Women Politicians Under Attack",
-      "url": "https://www.laprogressive.com/gender-discrimination/women-politicians-under-attack",
-      "author": "Steven Hill",
-      "source": "LA Progressive",
-      "published_at": "2026-10-15T17:08:16+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Bernadet Greene-Placentia, the Democratic candidate for Arizona’s 8th Congressional District, claimed a week ago that she was struck in the head, knocked unconscious and raped by two men while she was repairing one of her campaign signs. Greene-Placentia, who is no shrinking violet having worked as a long-haul trucker and small business owner, filed an official incident report with the Maricopa County Sheriff’s Office (MCSO), but didn’t do so until 17 days after the alleged event occurred. Due to that delay, some are doubting her story , calling it a publicity stunt to boost her campaign in a Republican-leaning district. But according to the police report, Greene-Placentia ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/7fc45a0f6de77399a3579127.json"
-    },
-    {
-      "id": "a06e1c713b0ca961b00a66fa",
-      "title": "Death of Journalism",
-      "url": "https://www.laprogressive.com/the-media-in-the-united-states/death-of-journalism",
-      "author": "Sonali Kolhatkar",
-      "source": "LA Progressive",
-      "published_at": "2026-10-15T16:47:56+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Journalism is experiencing one of its worst crises when it’s needed the most. Overall, news consumption is dropping . And it’s worse among young people , who largely get their news through social media, not news outlets. People under 30, more than any other age group, trust social media sources of news. The problem is that it’s hard to tell if your favorite social media source is a citizen journalist or a paid promoter. In a recent in-depth report , The New York Times revealed that social media platforms are rife with accounts that are paid to promote campaigns parading as personal opinion. Rather than hire well-known influencers with huge followings, politicians and organi",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/a06e1c713b0ca961b00a66fa.json"
-    },
-    {
-      "id": "ef0d7f835d80be067e78a164",
-      "title": "Trump Is Steering",
-      "url": "https://www.laprogressive.com/progressive-issues/trump-is-steering",
-      "author": "Tom Engelhardt",
-      "source": "LA Progressive",
-      "published_at": "2026-10-15T16:47:56+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Here’s the truth of it: after all these years, today I don’t know what to write about. I mean, in this ever-stranger world of ours, where even to start? Oh, wait, give me a second and I’ll be right back! I don’t want to miss the latest ads featuring our president , paid for with millions of our tax dollars. It’s obviously important to check them out since, as he told us recently, “I’m not promoting myself because I’m not running for office. I’m promoting the country.” And who wouldn’t want him to reassure us about the state of this fair land of ours? As he put it in one of those ads, “America will never be a communist country.” Whew! Who among us wasn’t worried about that! ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/ef0d7f835d80be067e78a164.json"
-    },
-    {
-      "id": "2a34ff6acae7a2a42f294f11",
-      "title": "Climate Policies Can Bring Relief on Affordability and Beyond",
-      "url": "https://jacobin.com/2026/10/climate-change-affordability-energy-extreme-weather",
-      "author": "Rithika Ramamurthy",
-      "source": "Jacobin",
-      "published_at": "2026-10-15T16:05:17+00:00",
-      "content_excerpt": "As the US midterm elections approach, one word keeps coming up in campaign promises and headlines: “ affordability .” That working people in the United States are struggling to afford basic necessities is a problem that many are willing to acknowledge, but there is very little agreement on what should be done to tackle a core driver of the affordability crisis: climate change. The climate crisis is already making life more expensive . Electricity rates skyrocketed in 2025 due to historic heat waves; home insurance rates are rising as disasters and extreme weather patterns increase; transportation costs have become one of the biggest sources of financial burden because of the volatile price of fossil fuels. Meanwhile, the Trump administration has withdrawn from global climate commitments, l",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/2a34ff6acae7a2a42f294f11.json"
-    },
-    {
-      "id": "ff60fe01c60f8c894f37bf81",
-      "title": "Historian Eric Hobsbawm Was a “Communist Polymath”",
-      "url": "https://jacobin.com/2026/10/hobsbawm-history-europe-university-communism",
-      "author": "Emile Chabal",
-      "source": "Jacobin",
-      "published_at": "2026-10-15T15:10:22+00:00",
-      "content_excerpt": "Eric Hobsbawm’s life began just as the “long nineteenth century” was drawing to a close. Born in Alexandria, Egypt, and formed as a youth in Red Vienna and Weimar-era Berlin, he came to intellectual maturity in interwar Cambridge and postwar London. His Ages tetralogy firmly established him on course syllabi and on the bookshelves of what he called, in The Age of Revolution , “the intelligent and educated citizen, who is not merely curious about the past, but wishes to understand how and why the world has come to be what it is today and whither it is going.” And he was, paradoxically for someone who rose to such popular heights, a proud communist who, for better or worse depending on whom you ask, bound himself to a particular vision of a better future as he bore witness to an epoch he dub",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/ff60fe01c60f8c894f37bf81.json"
-    },
-    {
-      "id": "009b2d9c82d0481f7124bbba",
-      "title": "How Bernie’s Campaigns Reorganized the Organized Left",
-      "url": "https://jacobin.com/2026/10/bernie-campaigns-iso-democrats-strategy",
-      "author": "Hadas Thier",
-      "source": "Jacobin",
-      "published_at": "2026-10-15T14:07:23+00:00",
-      "content_excerpt": "Ten years ago, while socialist Bernie Sanders was making his historic run for the Democratic presidential nomination that drew millions of supporters and promised a “political revolution” to live long past his campaign, I was part of a small revolutionary organization that pooh-poohed him as a faux renegade. The socialist left at the time had been largely marginal to the American political landscape. This was not only because so few socialists sat in political offices. Organized socialists were unable to insert our ideas, strategies, or demands beyond small meetings and study groups, only occasionally influencing national discourse by being part of movements that showed themselves on the street in mass numbers. But movements naturally ebb and flow, and in their absence, much of the Left wo",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/009b2d9c82d0481f7124bbba.json"
-    },
-    {
-      "id": "34d9786e94fa14b0b41d7491",
-      "title": "Proles: A Story of Post-Sixties’ Salting Among the “Salt of The Earth”",
-      "url": "https://www.californiadsa.org/news/book-review-proles-oct26",
-      "author": "California DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-10-15T14:05:46+00:00",
-      "content_excerpt": "In the early 1970s, when many student activists were migrating from campus to industrial jobs to promote working class radicalization, no labor film was more influential than Salt of the Earth. This pioneering docudrama was made two decades earlier by a producer, writer, director, and several actors who were unemployable in Hollywood, due to McCarthy era-blacklisting. This left-wing creative team recruited a cast of workers and their families from the International Union of Mine, Mill, and Smelter Workers (IUMMSW) to play themselves in a fictional account of a long strike at the Empire Zinc Company in Grant County, New Mexico. Local 890 members knew something about red-baiting too. Shortly before their 1951 fight for better conditions and an end to wage disparities between Anglo and Chican",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/34d9786e94fa14b0b41d7491.json"
-    },
-    {
-      "id": "0dc02cbe72fcb04bc3a83f44",
-      "title": "Press Release: MN Chapters of the DSA Condemn Escalating Zenophobic Attacks Against Our Somali and Immigrant Communities",
-      "url": "https://twinportsdsa.org/chapter-news/2026/10/14/press-release-mn-chapters-of-the-dsa-condemn-escalating-zenophobic-attacks-against-our-somali-and-immigrant-communities",
-      "author": "Twin Ports DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-10-15T14:05:46+00:00",
-      "content_excerpt": "We, the undersigned DSA chapters of the State of Minnesota, denounce and strongly condemn the escalation of xenophobic rhetoric that the Trump administration is intentionally directing at our communities. The President’s recent othering and dehumanizing of Minnesota's Somali communities encourages violence, both from his supporters and the violent and unaccountable national security state. Minnesota is stronger because of our Somali and other immigrant communities. Immigrants are our friends, co-workers, teachers, community leaders, and more. As Minnesotans, we know who we are and we won’t fall for dishonest actors spreading disinformation and hateful, divisive rhetoric about our immigrant neighbors. No Minnesotan should feel unsafe or unwelcome because of their faith, heritage, or backgro",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/0dc02cbe72fcb04bc3a83f44.json"
-    },
-    {
-      "id": "54242809591ac96cff76fc9f",
-      "title": "The Margin of Effort: How Election Volunteering Can Help Save Democracy",
-      "url": "https://www.laprogressive.com/election-and-campaigns/the-margin-of-effort",
-      "author": "Paul Rogat Loeb",
-      "source": "LA Progressive",
-      "published_at": "2026-10-15T13:18:09+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Sometimes it’s the humble actions that matter, an important lesson for our dangerous time. For years, I’ve volunteered to get out the vote for my preferred candidates. In one election, knocking on doors in a Seattle neighborhood, I spoke with three people who supported my candidate for governor but wouldn’t have voted had I not contacted them: One forgot it was Election Day. Another didn’t know how to submit an absentee ballot. The third needed a ride to the polls. My impact had nothing to do with eloquence or skill and everything to do with simply showing up. After three recounts, my candidate won by 133 votes in a state of 6.2 million. I’d personally gotten one-fiftieth o",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/54242809591ac96cff76fc9f.json"
-    },
-    {
-      "id": "e770300001d5d62adf0c35ca",
-      "title": "Britain’s Military-Industrial Complex Is Promoting War Fever",
-      "url": "https://jacobin.com/2026/10/uk-military-contractors-intelligence-media",
-      "author": "John Rees",
-      "source": "Jacobin",
-      "published_at": "2026-10-15T13:05:07+00:00",
-      "content_excerpt": "War fever has gripped the European political establishment. War in Ukraine and rumors of continent-wide conflict with Russia are now the staple justification for rearmament, ballooning arms budgets, and the reintroduction of conscription across Europe. Popular consent for this lurch to militarization is very limited indeed, so the political establishment is deploying military and security service officers, past and present, in an unprecedented propaganda blitz to make the case for war. Astounding statistics underline how far this process has gone. In the last twelve months, there have been approximately nine hundred appearances by serving or former military or security service officers on Britain’s mainstream media. That’s roughly seventy-five contributions every month, or seventeen a week",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/e770300001d5d62adf0c35ca.json"
     }
   ]
 }

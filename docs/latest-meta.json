@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-15T22:34:35.686073+00:00",
-  "generated_at_jst": "2026-10-16T07:34:35.686073+09:00",
-  "period_start": "2026-10-14T16:34:35.686073+00:00",
+  "generated_at": "2026-10-16T22:09:58.231540+00:00",
+  "generated_at_jst": "2026-10-17T07:09:58.231540+09:00",
+  "period_start": "2026-10-15T16:09:58.231540+00:00",
   "lookback_hours": 30,
   "raw_item_count": 40,
   "recent_item_count_before_dedup": 39,

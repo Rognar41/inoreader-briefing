@@ -1,12 +1,252 @@
 {
-  "generated_at": "2026-10-15T22:34:35.686073+00:00",
-  "generated_at_jst": "2026-10-16T07:34:35.686073+09:00",
-  "period_start": "2026-10-14T16:34:35.686073+00:00",
+  "generated_at": "2026-10-16T22:09:58.231540+00:00",
+  "generated_at_jst": "2026-10-17T07:09:58.231540+09:00",
+  "period_start": "2026-10-15T16:09:58.231540+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
   "article_count": 19,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "fc52a828eb09169ad30018c1",
+      "title": "Mayor Mamdani can stop the sale of stolen Palestinian land",
+      "url": "https://mondoweiss.net/2026/10/mayor-mamdani-can-stop-the-sale-of-stolen-palestinian-land",
+      "author": "Pal-Awda NY/NJ",
+      "source": "Mondoweiss",
+      "published_at": "2026-10-16T20:34:01+00:00",
+      "content_excerpt": "The Palestine solidarity movement is exerting pressure on illegal Palestinian land sales in New York and New Jersey, but only Mayor Mamdani can ban them once and for all.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/fc52a828eb09169ad30018c1.json"
+    },
+    {
+      "id": "e54978d9cd69d4997f92f68d",
+      "title": "Hundreds of US soldiers being deployed to Latin America, according to NYT",
+      "url": "https://breakthroughnews.org/2026/10/16/hundreds-of-us-soldiers-being-deployed-to-latin-america-according-to-nyt",
+      "author": "Pablo Meriguet",
+      "source": "BT News",
+      "published_at": "2026-10-16T19:38:53+00:00",
+      "content_excerpt": "The New York Times reported on Wednesday that the US government is preparing to send troops to Latin America under the pretext of combating drug trafficking in the region. According to the US publication , 600 troops from the 10th Mountain Division at Fort Drum, NY, have already begun deploying to the jungles of Panama to conduct exercises alongside the local military. In addition, it was reported that members of this detachment will participate in operations in other countries in the future: “The troops will eventually train with local forces in Colombia and Honduras, and could also support US Special Operations troops advising militaries conducting raids against accused drug traffickers, the officials said.” The peoples of the region, alongside anti-imperialist and progressive forces, ha",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/e54978d9cd69d4997f92f68d.json"
+    },
+    {
+      "id": "b036a7a56b3aec59c4f559ad",
+      "title": "“Abolish & Replace ICE”: Rep. Analilia Mejia Blasts ICE for Secretly Using NJ Warehouse",
+      "url": "https://www.democracynow.org/2026/10/16/new_jersey_ice_warehouse",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-10-16T15:19:20+00:00",
+      "content_excerpt": "Earlier this week, ICE confirmed it had secretly used a federal government warehouse in Roxbury, New Jersey, to stage and to process detentions in September, despite an order from a judge barring the site’s use until an environmental study was complete. ” ICE and this administration cherry-picks which laws it adheres to, and then breaks due process and equal protection for the many,” says New Jersey Democratic Congressmember Analilia Mejia. “This administration is just moving with a level of impunity and cruelty that, frankly, should shock every single American.”",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/b036a7a56b3aec59c4f559ad.json"
+    },
+    {
+      "id": "6c895775815990acf2ce84fd",
+      "title": "Meet Estrella, an Undocumented Trans Woman Jailed for 9 Years, Then Deported to Mexico",
+      "url": "https://www.democracynow.org/2026/10/16/estrella",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-10-16T15:19:20+00:00",
+      "content_excerpt": "We’re joined by Latino USA host Maria Hinojosa as she shares the story of Estrella Diamantina González, an undocumented transgender woman and trafficking survivor from Mexico caught up in the United States’ criminal and immigration systems. This summer, after serving a nine-year sentence in a Texas men’s prison, Diamantina González was released, but she wasn’t free. She was immediately transferred to an immigration detention facility and then deported. Hinojosa, who has been reporting on Diamantina González’s ordeal for the last decade, followed her to Mexico in the new audio documentary “Estrella: Bittersweet Freedom for a 'Bad Mexican.'”",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/6c895775815990acf2ce84fd.json"
+    },
+    {
+      "id": "c39b88712e93cf09c6036510",
+      "title": "“Against Tech Oligarchy”: Inside the Worker Resistance in the World’s Most Powerful Industry",
+      "url": "https://www.democracynow.org/2026/10/16/against_tech_oligarchy",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-10-16T15:19:20+00:00",
+      "content_excerpt": "Longtime tech worker organizers Clarissa Redwine and JS Tan’s new book, Against Tech Oligarchy: Worker Resistance in the World’s Most Powerful Industry , draws on the authors’ experiences at major tech companies to chronicle the rise and fall of the tech worker movement, its early victories, and the repression and slide to corporate control that followed. “Over the course of the 2010s, what we saw was that the tech industry wasn’t quite the industry that it had promised to its workers and to the public. Rather than making the world more open, more democratic, we saw it really be the culprit of misinformation,” says Tan, who was pushed out of Microsoft after raising objections to the company’s ties to fossil fuel companies. Silicon Valley’s slide to the right was influenced by corporate bac",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/c39b88712e93cf09c6036510.json"
+    },
+    {
+      "id": "1e633537aa1cbd895afa0df8",
+      "title": "Meta acknowledges the reduced reach of Lula’s profiles",
+      "url": "https://mronline.org/2026/10/16/meta-acknowledges-the-reduced-reach-of-lulas-profiles",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-16T12:27:43+00:00",
+      "content_excerpt": "The company, which controls WhatsApp, Facebook, and Instagram, claims that “technical issues” affected the reach of Lula’s presidential campaign, and rejects accusations of favoring Flávio Bolsonaro. The post Meta acknowledges the reduced reach of Lula’s profiles appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/1e633537aa1cbd895afa0df8.json"
+    },
+    {
+      "id": "10364950db5b05b337612007",
+      "title": "Development is the production of life",
+      "url": "https://mronline.org/2026/10/16/development-is-the-production-of-life",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-16T12:27:43+00:00",
+      "content_excerpt": "Dependency and the Reproduction of Life in the Global South. The post Development is the production of life appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/10364950db5b05b337612007.json"
+    },
+    {
+      "id": "58a311cff8d2d94d2a81a245",
+      "title": "From capitalist crisis to crisis of whiteness: Rubio, Western decline, and the defense of white supremacy",
+      "url": "https://mronline.org/2026/10/16/from-capitalist-crisis-to-crisis-of-whiteness-rubio-western-decline-and-the-defense-of-white-supremacy",
+      "author": "Ajamu Baraka",
+      "source": "MR Online",
+      "published_at": "2026-10-16T12:27:43+00:00",
+      "content_excerpt": "Marco Rubio's appeals to Western civilization, Christian heritage, and the defense of Western dominance are fundamental to the consolidating global fascist project, functioning to transform a crisis of political economy into a crisis of what he and others refer to as civilization. The post From capitalist crisis to crisis of whiteness: Rubio, Western decline, and the defense of white supremacy appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/58a311cff8d2d94d2a81a245.json"
+    },
+    {
+      "id": "5486de92324afbd0a8c962ab",
+      "title": "The specificity of neo-fascism",
+      "url": "https://mronline.org/2026/10/16/the-specificity-of-neo-fascism",
+      "author": "Prabhat Patnaik",
+      "source": "MR Online",
+      "published_at": "2026-10-16T12:27:43+00:00",
+      "content_excerpt": "If democracy is to be preserved in the country, then the struggle for democracy, instead of accepting the attitude of the judiciary as it exists at any given time, must incorporate a struggle for sensitizing the judiciary to the fundamental need for consciously going beyond an inherited hierarchical perception of society. The post The specificity of neo-fascism appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/5486de92324afbd0a8c962ab.json"
+    },
+    {
+      "id": "2a01941b452c3d29dda031c6",
+      "title": "Who Gets to Turn Numbers into Evidence?",
+      "url": "https://thetricontinental.org/who-gets-to-turn-numbers-into-evidence",
+      "author": "Author and Editors",
+      "source": "[:en]THE TRICONTINENTAL[:es]TRICONTINENTAL[:]",
+      "published_at": "2026-10-16T09:16:34+00:00",
+      "content_excerpt": "Turning numbers into evidence is a form of labour – and in the Global South, that labour is unevenly distributed. 1. Who Gets to Question the Numbers? By the end of 2018, India’s National Sample Survey Office had completed its 2017–18 Periodic Labour Force Survey (PLFS) – the government’s own instrument for measuring employment. The report was not released. Weeks later, a version leaked to the press showed unemployment at 6.1%, its highest level in forty-five years. Two members of the National Statistical Commission, which had approved the report, resigned over its withholding. 1 The immediate dispute was not over a mathematical error in the figure, but over whether the public would be allowed to see it. The PLFS controversy showed how much political weight a number can carry. Numbers are ",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/2a01941b452c3d29dda031c6.json"
+    },
+    {
+      "id": "0176afc224cd2b43d932c596",
+      "title": "Madrid teachers and students launch strike to defend public schools",
+      "url": "https://breakthroughnews.org/2026/10/15/madrid-teachers-and-students-launch-strike-to-defend-public-schools",
+      "author": "Ana Vračar",
+      "source": "BT News",
+      "published_at": "2026-10-15T23:40:25+00:00",
+      "content_excerpt": "The public education system in Madrid – teachers and students alike – launched an indefinite strike on Wednesday, October 14. Tens of thousands emptied classrooms and took to the streets, demanding an end to the regional government’s education policy – warning that it promotes privatization. Episodes of police violence were reported near part of the education sites. Read more: Spanish unions announce general strike over housing A joint union front, including sectoral branches of the General Union of Workers (Unión General de Trabajadores, UGT), the Workers’ Commissions (Comisiones Obreras, CCOO), and the General Confederation of Labor (Confederación General del Trabajo, CGT), among others, started building the mobilization months ago. While preparing the strike, they tabled demands includi",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/0176afc224cd2b43d932c596.json"
+    },
+    {
+      "id": "5809ee2f296b54dc5d85f113",
+      "title": "Bukele announces a possible mass release of inmates",
+      "url": "https://breakthroughnews.org/2026/10/15/bukele-announces-a-possible-mass-release-of-inmates",
+      "author": "Pablo Meriguet",
+      "source": "BT News",
+      "published_at": "2026-10-15T23:40:25+00:00",
+      "content_excerpt": "El Salvador’s President Nayib Bukele announced on October 13 his intention to release nearly 50% of the prisoners accused of collaborating with gangs in the country. According to the president, the measure would involve early release, albeit conditional. “We have a plan that would benefit roughly 50% (give or take) of the prisoners in El Salvador who have collaborated with gangs … In other words, early release – meaning they are guilty but are released conditionally. Released under supervision,” Bukele told the press. In this regard, he said that his government would evaluate the situation of each detainee to keep the country free from the structural violence that has plagued it for decades: “Considering that we come from a country where violence was part of everyday life and gangs were th",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/5809ee2f296b54dc5d85f113.json"
+    },
+    {
+      "id": "cfaa40b37bca668d4662882a",
+      "title": "Brazil’s Congress ends 6×1 work schedule",
+      "url": "https://breakthroughnews.org/2026/10/15/brazils-congress-ends-6x1-work-schedule",
+      "author": "Brasil de Fato",
+      "source": "BT News",
+      "published_at": "2026-10-15T23:40:25+00:00",
+      "content_excerpt": "The approval of Constitutional Amendment Proposal (PEC) 221 of 2019 by the Federal Senate establishes the most profound alteration in the organization of the Brazilian work schedule since the promulgation of the 1988 Constitution. The text eliminates the model of six days of work followed by one day of rest and sets a maximum work week of 40 hours with two paid weekly rest days, without salary reduction. Because it is a constitutional amendment, the text does not depend on the sanction or veto of President Luiz Inácio Lula da Silva (PT). Promulgation is the responsibility of the presiding officers of the Chamber of Deputies and the Senate in a joint session of the National Congress. Once promulgated and published in the Official Gazette of the Union (DOU), the amendment enters into force i",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/cfaa40b37bca668d4662882a.json"
+    },
+    {
+      "id": "eee8eb5604ef8ad1ef4ab48b",
+      "title": "Continued closure of the Strait of Hormuz will cause food crisis in Asia and Africa, says UN",
+      "url": "https://breakthroughnews.org/2026/10/15/continued-closure-of-the-strait-of-hormuz-will-cause-food-crisis-in-asia-and-africa-says-un",
+      "author": "Abdul Rahman",
+      "source": "BT News",
+      "published_at": "2026-10-15T22:38:46+00:00",
+      "content_excerpt": "The continuing blockade of the Strait of Hormuz could cause an increase in food insecurity in Asia and Africa, an UN official warned on Wednesday, October 14, asking both the US and Iran to allow free shipments, particularly of fertilizers. “It is absolutely crucial to get the deal in the next few weeks. Otherwise, we will miss the planting session,” UN Under Secretary General Jorge Moreira da Silva told Reuters on the sidelines of the ongoing annual meeting of the International Monetary Fund (IMF) and the World Bank in Bangkok, Thailand. Almost one third of all global supplies of urea and around half of sulphur used to pass through the Strait of Hormuz before the US-Israeli war on Iran began in late February and Iran blocked traffic through it in retaliation. Most countries in Asia and Af",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/eee8eb5604ef8ad1ef4ab48b.json"
+    },
+    {
+      "id": "986ab394fcf839128be685b3",
+      "title": "Netanyahu presses Trump to renew aggression on Iran ahead of Israeli elections",
+      "url": "https://breakthroughnews.org/2026/10/15/netanyahu-presses-trump-to-renew-aggression-on-iran-ahead-of-israeli-elections",
+      "author": "Aseel Saleh",
+      "source": "BT News",
+      "published_at": "2026-10-15T22:38:46+00:00",
+      "content_excerpt": "Two weeks before the Israeli legislative elections scheduled on October 27, 2026, the far-right Israeli government, led by Prime Minister Benjamin Netanyahu, has revealed its intentions to further perpetuate and expand its three-year multi-front war across West Asia. On Tuesday, October 13, Netanyahu appeared in a televised speech during a visit to the apartheid wall established inside the occupied West Bank, threatening the Palestinian Authority. Standing near the Tulkarm refugee camp alongside Israel’s Defense Minister Israel Katz, the Israeli PM confirmed that the camp’s displaced residents, whom he described as “terrorists,” will not return to their homes despite an order from the Israeli Supreme Court authorizing their return. The Tulkarm Refugee Camp was among the three largest Pales",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/986ab394fcf839128be685b3.json"
+    },
+    {
+      "id": "c0cfbb4788b6660e0f30acd0",
+      "title": "US-Saudi war on Yemen was decades in the making",
+      "url": "https://breakthroughnews.org/2026/10/15/us-saudi-war-on-yemen-was-decades-in-the-making",
+      "author": "Layan Sima Fuleihan",
+      "source": "BT News",
+      "published_at": "2026-10-15T22:38:46+00:00",
+      "content_excerpt": "The war in the Middle East is widening and people around the world are feeling the impact. Resistance forces in Yemen have delivered crippling blows to key infrastructure in Saudi Arabia, a key US ally. Brian Becker and Layan Fuleihan discuss the roots of the war between Yemen and Saudi Arabia, how the current conflict was triggered by the unprovoked US-Israeli war against Iran, and how this conflict goes back several decades.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/c0cfbb4788b6660e0f30acd0.json"
+    },
     {
       "id": "546cbe43db09773a06696f1a",
       "title": "Students Shut Down French High Schools in the Face of Class and Racial Oppression",
@@ -51,246 +291,6 @@
       "priority": 2,
       "date_missing": false,
       "article_path": "articles/b2f0c7643c10cf1d86c0cdb3.json"
-    },
-    {
-      "id": "26576c3f499082cfef733130",
-      "title": "U.S. Sanctions ICC in a Bid to Avoid “Criminal Liability”: War Crimes Prosecutor Reed Brody",
-      "url": "https://www.democracynow.org/2026/10/15/reed_brody_icc",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-10-15T15:10:59+00:00",
-      "content_excerpt": "This is a rush transcript. Copy may not be in its final form. NERMEEN SHAIKH : The Trump administration has placed sweeping sanctions on the International Criminal Court. The sanctions target the institution as a whole. This comes on top of earlier sanctions targeting individual ICC judges and personnel. The Trump administration announced the sanctions on Friday, just hours after former ICC Judge Navi Pillay was awarded the Nobel Peace Prize. Pillay criticized President Trump’s new sanctions. NAVI PILLAY : So, I think it’s very unfortunate. However, the plans of targeting international criminal justice through the ICC was brewing all the time. We all heard these threats against the court. So, the timing of how they announced the threat and made it official is curious. … It can’t be coincid",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/26576c3f499082cfef733130.json"
-    },
-    {
-      "id": "76fd4272245f4f4617723422",
-      "title": "The Midterm Battle over Data Centers: Memphis House Candidate Justin Pearson Fights Elon Musk’s xAI",
-      "url": "https://www.democracynow.org/2026/10/15/xai_justin_pearson",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-10-15T15:10:59+00:00",
-      "content_excerpt": "The energy needs of the AI boom and the construction of massive data centers in states across the country have created a backlash from both Democratic and Republican voters. The battle against data centers is at the heart of a campaign in Tennessee: Democratic state Representative Justin J. Pearson is opposed to the Colossus data centers built by Elon Musk’s xAI in the Memphis area. Pearson is running against Republican state Senator Brent Taylor in Tennessee’s 9th Congressional District, which, after recent redistricting, includes parts of Memphis, as well as rural and suburban counties. “Across the 15 counties that I’ve traveled, I’ve yet to meet anyone, including folks who are Republicans who are voting for us, who want data centers,” says Pearson. “Gas is high; groceries are high; heal",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/76fd4272245f4f4617723422.json"
-    },
-    {
-      "id": "345edea08e445b3d83f2326f",
-      "title": "“Hyperscale”: Paris Marx on Excess of Big Tech Data Empires & His Critique of Bernie Sanders’ AI Bill",
-      "url": "https://www.democracynow.org/2026/10/15/hyperscale_paris_marx",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-10-15T15:10:59+00:00",
-      "content_excerpt": "We speak with tech journalist Paris Marx about his new book, Hyperscale: The Ambition and Excess of Big Tech’s Data Empires . In the book, Marx exposes the deceptive ways tech companies are taking resources from vulnerable communities in order to build massive AI data centers. “We have seen the tech companies that, back in 2019, 2020, wanted us to see them as climate leaders … completely throw their targets out the window in order to pursue generative AI and this data center buildout,” says Marx. He notes that after failing to connect to electrical grids in the locations where they were building data centers, some AI companies have pivoted to building “on-site gas plants,” further increasing dependency on fossil fuels. Tech companies “want us to believe” that AI models are “starting to bec",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/345edea08e445b3d83f2326f.json"
-    },
-    {
-      "id": "e4880892bb5f846ff6c45328",
-      "title": "Gaza’s child amputees are growing faster than their prosthetics allow",
-      "url": "https://mondoweiss.net/2026/10/gazas-child-amputees-are-growing-faster-than-their-prosthetics-allow",
-      "author": "Mohanad El-Hemrawi",
-      "source": "Mondoweiss",
-      "published_at": "2026-10-15T14:35:21+00:00",
-      "content_excerpt": "Israel is restricting prosthetics and rehabilitation equipment from entering Gaza, leaving thousands of children waiting for a medical evacuation that may never come.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/e4880892bb5f846ff6c45328.json"
-    },
-    {
-      "id": "d9550ce376dd7aef94b0db64",
-      "title": "‘Totally beyond the pale’: angry judge shuts down Trump administration’s mass destruction of DC trees",
-      "url": "https://mronline.org/2026/10/15/totally-beyond-the-pale-angry-judge-shuts-down-trump-administrations-mass-destruction-of-dc-trees",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-15T13:39:28+00:00",
-      "content_excerpt": "U.S. District Judge Ana Reyes said the Trump administration’s weekend removal of hundreds of trees at the East Potomac Golf Links “has cost the government all of its credibility.” The post ‘Totally beyond the pale’: angry judge shuts down Trump administration’s mass destruction of DC trees appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/d9550ce376dd7aef94b0db64.json"
-    },
-    {
-      "id": "6289e3856a7a77299579ce57",
-      "title": "How unequal exchange shapes our world",
-      "url": "https://mronline.org/2026/10/15/how-unequal-exchange-shapes-our-world",
-      "author": "Jason Hickel",
-      "source": "MR Online",
-      "published_at": "2026-10-15T12:43:00+00:00",
-      "content_excerpt": "Jason Hickel on the persistent inequalities of the post-colonial order. The post How unequal exchange shapes our world appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/6289e3856a7a77299579ce57.json"
-    },
-    {
-      "id": "cd441d2434e6bca42ccf35e5",
-      "title": "Turnout doubles as French protesters demand Macron’s government resign",
-      "url": "https://mronline.org/2026/10/15/turnout-doubles-as-french-protesters-demand-macrons-government-resign",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-15T11:47:33+00:00",
-      "content_excerpt": "Clashes, arrests, and tear gas in Paris marked a nationwide day of protest backed by students and unions, with 161,500 people rallying across France. The post Turnout doubles as French protesters demand Macron’s government resign appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/cd441d2434e6bca42ccf35e5.json"
-    },
-    {
-      "id": "2f67cdbe1c99a720005e46a5",
-      "title": "The travails of being mineral-rich",
-      "url": "https://mronline.org/2026/10/15/the-travails-of-being-mineral-rich",
-      "author": "Prabhat Patnaik",
-      "source": "MR Online",
-      "published_at": "2026-10-15T10:44:05+00:00",
-      "content_excerpt": "If some particular mineral of commercial use is found in a country of the global South, then multinational corporations from the North descend upon that country to extract this mineral wealth. The post The travails of being mineral-rich appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/2f67cdbe1c99a720005e46a5.json"
-    },
-    {
-      "id": "a10a56b56d5cfd21e3129373",
-      "title": "The German Democratic Republic, a socialist state still villainized long after its demise",
-      "url": "https://mronline.org/2026/10/15/the-german-democratic-republic-a-socialist-state-still-villainized-long-after-its-demise",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-15T09:49:57+00:00",
-      "content_excerpt": "Oct. 7, 2024, marks the 75th anniversary of the founding of the German Democratic Republic. For several years in the 1980s, People’s World Editor John Wojcik served as chair of the U.S. Committee for Friendship with the GDR. The post The German Democratic Republic, a socialist state still villainized long after its demise appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/a10a56b56d5cfd21e3129373.json"
-    },
-    {
-      "id": "1ffe7cf58cf16692457d34b0",
-      "title": "BT LIVE: Yemen Hits Back at Saudi | Mercenaries in the DRC | California ICE Surge | + The China Report",
-      "url": "https://breakthroughnews.org/2026/10/15/oct-15-26",
-      "author": "BreakThrough News",
-      "source": "BT News",
-      "published_at": "2026-10-15T05:01:23+00:00",
-      "content_excerpt": "This content is for members only. Visit the site and log in/register to read.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/1ffe7cf58cf16692457d34b0.json"
-    },
-    {
-      "id": "a18ea6976f6356e9dd2e824d",
-      "title": "Burkina Faso moves to decolonize education through curriculum reform",
-      "url": "https://breakthroughnews.org/2026/10/15/burkina-faso-moves-to-decolonize-education-through-curriculum-reform",
-      "author": "Nicholas Mwangi",
-      "source": "BT News",
-      "published_at": "2026-10-15T05:01:23+00:00",
-      "content_excerpt": "Burkina Faso has begun reviewing its history, geography and civic education curricula. The government says the aim is to “decolonize” the country’s schools by removing colonial-era portrayals of African history and giving more space to national history, African resistance, cultural values, and local knowledge. Speaking during a meeting with education officials in Ouagadougou, Secondary Education Minister Moumouni Zoungrana criticized the language used in school textbooks to describe European colonialists. “Those who came to conquer Africa are called explorers, conquerors. Were they conquerors? They were spies…. They were invaders,” the minister said, according to APA News . The minister said certain terms in the current materials serve to “infantilize” and “animalize” Africans in the teach",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/a18ea6976f6356e9dd2e824d.json"
-    },
-    {
-      "id": "a5bea8d3fb3a6b01472dcd1d",
-      "title": "‘Taxpayer uprising’ targets Trump’s $1.5 trillion Pentagon budget",
-      "url": "https://breakthroughnews.org/2026/10/14/taxpayer-uprising-targets-trumps-1-5-trillion-pentagon-budget",
-      "author": "Rania Khalek",
-      "source": "BT News",
-      "published_at": "2026-10-15T02:10:01+00:00",
-      "content_excerpt": "Trump’s war on Iran has already cost the average American household $2,000 according to Moody’s, and the bill keeps climbing. Jodie Evans, co-founder of CODEPINK, tells Rania Khalek and Zoe Alexandra that a mass “Taxpayer Uprising” this November is the only way to block Trump’s historic $1.5 trillion Pentagon budget, as both parties keep writing checks for weapons manufacturers. Evans breaks down how military contractors, Big Oil, and AI tech giants “make a killing on killing,” and explains why Republicans and Democrats are both at fault for a US war economy that funnels taxpayer money to billionaires, militarizes the police, and criminalizes Gaza solidarity and calls for peace. She warns about the push to merge the US and Israeli military industries, and responds to allegations from Marco",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/a5bea8d3fb3a6b01472dcd1d.json"
-    },
-    {
-      "id": "ea14b3966d3fbe837fc693f2",
-      "title": "India’s mass protests in defense of democracy continue into second week",
-      "url": "https://breakthroughnews.org/2026/10/14/indias-mass-protests-in-defense-of-democracy-continue-into-second-week",
-      "author": "Abdul Rahman",
-      "source": "BT News",
-      "published_at": "2026-10-14T23:02:37+00:00",
-      "content_excerpt": "Thousands participated in a joint delegation of opposition groups in India who were attempting to meet the Chief Justice (CJI) of the country on Monday, October 12. The delegation sought to raise concerns over the alleged irregularities and fraud in the national and state level elections. The police and security forces, yet again, tried to block the protesters from marching and used force to disperse them. The CJI refused to meet the delegation claiming the matter was subjudice. Monday was the tenth consecutive day of the mass protests in the country which broke out on October 2, days after a newspaper report claimed the Chief Election Commissioner (CEC) Gyanesh Kumar violated rules and took arbitrary decisions on crucial matters related to electoral rolls revisions, or the so-called Speci",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/ea14b3966d3fbe837fc693f2.json"
-    },
-    {
-      "id": "75aa4fb3a9f6472b185beda2",
-      "title": "Students in France are fighting for stronger public education",
-      "url": "https://breakthroughnews.org/2026/10/14/students-in-france-are-fighting-for-stronger-public-education",
-      "author": "Ana Vračar",
-      "source": "BT News",
-      "published_at": "2026-10-14T23:02:37+00:00",
-      "content_excerpt": "High school and university students in France continued their protests on Tuesday, October 13, demanding government investment in public education. Approximately 480,000 protesters took to the streets in the latest iteration of the mobilization, with families, teachers, and trade unions backing students’ demands. Read more: French students shut down schools in historic strike against austerity The mobilization remains marked by widespread police violence. Police used tear gas and dispersal grenades on crowds, including at Tuesday’s central march in Paris. Hundreds of students were injured and thousands arrested in these incidents, prompting reactions from human rights organizations . In response, the public joined students as they blocked high schools and organized marches to physically sh",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/75aa4fb3a9f6472b185beda2.json"
-    },
-    {
-      "id": "15806847a4aae12703f9cde8",
-      "title": "Trump’s war on Iran is poised to sink his party in the midterms",
-      "url": "https://mondoweiss.net/2026/10/trumps-war-on-iran-is-poised-to-sink-his-party-in-the-midterms",
-      "author": "Michael Arria",
-      "source": "Mondoweiss",
-      "published_at": "2026-10-14T19:51:42+00:00",
-      "content_excerpt": "Trump's war on Iran is broadly unpopular among Americans, and it's poised to sink the GOP in the upcoming midterms.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/15806847a4aae12703f9cde8.json"
-    },
-    {
-      "id": "b8cc0795c9707ef2c133a858",
-      "title": "“Musk” Filmmaker Alex Gibney on Why Elon Musk Fears Democrats Will Win Midterms",
-      "url": "https://www.democracynow.org/2026/10/14/musk_filmmaker_alex_gibney_on_why",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-10-14T18:33:55+00:00",
-      "content_excerpt": "This is a rush transcript. Copy may not be in its final form. AMY GOODMAN : This is Democracy Now! , democracynow.org, The War and Peace Report . I’m Amy Goodman, as we bring you Part 2 of our conversation with Alex Gibney, Academy Award-winning director. His new film is Musk . Last week, Defense Secretary Pete Hegseth announced a new Pentagon project on the future of warfare. Elon Musk will lead the task force along with former Republican House Speaker Newt Gingrich and Trump donor and weapons entrepreneur Palmer Luckey. This comes as The New York Times reports Musk has spent $366 million to help Republicans in the midterms. Now, according to NPR , SpaceX, Musk’s company, has secured over $8 billion in U.S. military contracts in this year alone. So, if he can keep the Republicans in power",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/b8cc0795c9707ef2c133a858.json"
     }
   ]
 }
