@@ -1,12 +1,253 @@
 {
-  "generated_at": "2026-10-16T22:09:58.231540+00:00",
-  "generated_at_jst": "2026-10-17T07:09:58.231540+09:00",
-  "period_start": "2026-10-15T16:09:58.231540+00:00",
+  "generated_at": "2026-10-17T21:37:08.186043+00:00",
+  "generated_at_jst": "2026-10-18T06:37:08.186043+09:00",
+  "period_start": "2026-10-16T15:37:08.186043+00:00",
   "lookback_hours": 30,
   "folder": "00_毎日確認",
   "article_count": 20,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "ad9b798c8ff63d40a10a1eea",
+      "title": "AI Is Coming for You, But You Can Fight Back: The Hidden Costs of Artificial Intelligence",
+      "url": "https://www.laprogressive.com/techie-tips/hidden-costs-of-artificial-intelligence",
+      "author": "Frieda Afary",
+      "source": "LA Progressive",
+      "published_at": "2026-10-17T21:04:28+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Artificial intelligence is being sold to the public as the next great technological revolution, promising unprecedented productivity, scientific breakthroughs, and solutions to some of humanity's most difficult problems. But who benefits from this transformation, who pays its costs, and who gets to decide how the technology is deployed? Those questions drove a panel titled “AI Is Coming for You, But You Can Fight Back” at the fourth annual Left Coast Forum, held October 2–4, 2026, at California State University, Los Angeles. Moderated by Iranian American writer, librarian, and socialist feminist Frieda Afary, the discussion featured environmental scientist Pablo Ortiz Parti",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/ad9b798c8ff63d40a10a1eea.json"
+    },
+    {
+      "id": "bc79b0ef5507c39b52f6eca8",
+      "title": "U.S. Complicity Shaped a Catastrophe",
+      "url": "https://www.laprogressive.com/foreign-policy/u-s-complicity-shaped-a-catastrophe",
+      "author": "Rick Chertoff, Dick Price, Robert Corsini",
+      "source": "LA Progressive",
+      "published_at": "2026-10-17T19:11:18+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. The Israeli assault on Gaza cannot be understood by beginning the story on October 7, 2023. That was one of the central arguments advanced during a panel titled “The Gaza Genocide” at the fourth annual Left Coast Forum, held October 2–4, 2026, at California State University, Los Angeles. Featuring longtime Jewish peace activist Rick Chertoff and historian Dr. Mahmood Ibrahim, the discussion challenged familiar narratives about the Israeli-Palestinian conflict and examined the history of dispossession, occupation, failed diplomatic initiatives, and American military support that preceded the current catastrophe. The panel also confronted a question that has become increasing",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/bc79b0ef5507c39b52f6eca8.json"
+    },
+    {
+      "id": "86854dc1cdfa071fd27c83dc",
+      "title": "Workers Can Govern, but They Need Power First",
+      "url": "https://jacobin.com/2026/10/working-class-candidates-representation-unions",
+      "author": "Jared Abbott",
+      "source": "Jacobin",
+      "published_at": "2026-10-17T17:27:55+00:00",
+      "content_excerpt": "According to data from a sweeping new study of working-class legislators by political scientists Nicholas Carnes and Noam Lupu, only about 2 percent of legislators across the world’s democracies held a working-class job — which the authors define as manual, service, or clerical work — before getting into politics. Yet as the authors document in their new book , Keeping Workers Off the Ballot: How Democracy Undermines Working-Class Representation , about seven in ten jobs in a typical democracy are working-class jobs, from construction workers and truck drivers to servers, cashiers, receptionists, data-entry clerks, day laborers, and street vendors. In the United States, working-class people make up more than half of the labor force but just 5 percent of candidates for state, county, and lo",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/86854dc1cdfa071fd27c83dc.json"
+    },
+    {
+      "id": "d8147480755147d9aadb386a",
+      "title": "What Happens to Art",
+      "url": "https://www.laprogressive.com/election-and-campaigns/is-all-art-political-artistic-freedom",
+      "author": "William J. Astore",
+      "source": "LA Progressive",
+      "published_at": "2026-10-17T16:31:40+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. There’s a kerfuffle about art being political, with journalists and writers I respect, such as Matt Taibbi and Caitlin Johnstone , coming down on opposite sides of the issue. Johnstone puts it bluntly : “I have no respect for this idea that art is somehow separable from politics. ALL art is political when you live in a genocidal dystopia, because all your expression exists in relation to our freakish civilization.” While I sympathize with Johnston’s opposition to the ongoing genocide in Gaza, and have written plenty of articles myself against this genocide, I don’t define all my writing as reducible to politics. Writing is a form of self-expression, a creative act, and thou",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/d8147480755147d9aadb386a.json"
+    },
+    {
+      "id": "a2380941e1d637cf95c8fcde",
+      "title": "Colombia’s President Wants US Boots on the Ground",
+      "url": "https://jacobin.com/2026/10/espriella-plan-colombia-us-military-domestic-repression",
+      "author": "Carlos Cruz Mosquera",
+      "source": "Jacobin",
+      "published_at": "2026-10-17T16:30:13+00:00",
+      "content_excerpt": "In the ten weeks since multimillionaire lawyer Abelardo de la Espriella was inaugurated as Colombia’s president, the country has undergone a significant political shift with respect to asserting its national sovereignty, with Colombia returning to — and potentially deepening — its subordinate position vis-à-vis the United States. Less than a week after the change of government in Colombia, US Secretary of Defense Pete Hegseth announced a major shift in US-Colombian military cooperation, stating at a press conference that de la Espriella had approved an agreement for joint operations in Colombia. US Southern Command (SOUTHCOM) commander General Francis Donovan had met with Colombia’s highest-ranking military officials by the end of the month to begin planning those joint operations against ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/a2380941e1d637cf95c8fcde.json"
+    },
+    {
+      "id": "810b74c0846d4a59d12a1a84",
+      "title": "Italian Students Join French",
+      "url": "https://www.laprogressive.com/foreign-policy/italy-student-strike-meloni-education-protests",
+      "author": "Phil Pasquini",
+      "source": "LA Progressive",
+      "published_at": "2026-10-17T15:56:20+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Italian high school and university students along with teachers demonstrated and marched during a consolidated nationwide day-long school strike across the country on October 16. The students have been inspired by the recent French student blockades and protests and in reaction to Italian Prime Minister Giorgia Meloni’s proposed cuts in educational spending along with a recently adopted decree-law which has banned the wearing of face coverings including burqas and niqabs in class. Additionally, the new law limits non-Italian speaking students to no more than 30 percent of the class size. In reference to this, many carried signs calling for an end to such blatant racism. Opp",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/810b74c0846d4a59d12a1a84.json"
+    },
+    {
+      "id": "43650950dec27d80bdc012f5",
+      "title": "January 6 Come on January 3",
+      "url": "https://www.laprogressive.com/law-and-justice/trump-2026-midterms-congress-constitutional-crisis",
+      "author": "Bill Blum",
+      "source": "LA Progressive",
+      "published_at": "2026-10-17T15:31:23+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Those who vote decide nothing. Those who count the vote decide everything.”— attributed to Joseph Stalin If the Trump administration fails to stop Democrats from taking back Congress in next month’s midterms, as nearly all major polls suggest, the MAGA cult is unlikely to accede quietly. The White House and its allies will file a flurry of lawsuits claiming election fraud, demand recounts across the country, pump out incessant propaganda about Chinese and Iranian cyber-interference, threaten to prosecute state election officials and perhaps even seize voting machines , among other gambits. Should these maneuvers fail, they will set the stage for a decisive “High Noon”-style",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/43650950dec27d80bdc012f5.json"
+    },
+    {
+      "id": "b4bf91c3b6105065f0ab2c09",
+      "title": "Exploring the Mirror World of the Chinese Internet",
+      "url": "https://jacobin.com/2026/10/china-tech-internet-censorship-great-firewall",
+      "author": "Yi-Ling Liu",
+      "source": "Jacobin",
+      "published_at": "2026-10-17T15:27:26+00:00",
+      "content_excerpt": "China’s internet is known for a vast system of censorship and surveillance that has evolved alongside its booming digital economy. Yet the story of the Chinese internet is not simply one of authoritarian control or unrestricted growth. In her book , The Wall Dancers: Searching for Freedom and Connection on the Chinese Internet , journalist and author Yi-Ling Liu explores how people navigate within the constantly shifting boundaries of censorship, carving out creative spaces for communities and political expression. In an interview with Jacobin , Liu talks about how the Chinese internet has evolved from a space of relative openness into an increasingly tightly controlled digital ecosystem, and how the Communist Party of China’s efforts to regulate online life intersect with its broader atte",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/b4bf91c3b6105065f0ab2c09.json"
+    },
+    {
+      "id": "523917250b54b1cf2c6b7ca2",
+      "title": "Curbing Cancerous Capitalism",
+      "url": "https://www.laprogressive.com/economic-equality/curbing-cancerous-capitalism",
+      "author": "Peter Laarman",
+      "source": "LA Progressive",
+      "published_at": "2026-10-17T15:01:26+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. A recent public webinar presented in tribute to the late great Rev. James M. Lawson, Jr. on his birthday reminded me that this latter-day prophet often invited us to use his term, “plantation capitalism,” to describe how things really work in the U.S. economy. In using this expression, Lawson did not mean to suggest that contemporary wealth creation depends on actual slavery—on human trafficking—although to some degree it clearly does . What he meant is that the economic operating system we inherit, in which mostly white men and white-adjacent men enjoy unlimited freedom to exploit others, is built upon a foundation laid by centuries of chattel slavery: centuries during whi",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/523917250b54b1cf2c6b7ca2.json"
+    },
+    {
+      "id": "aacf38f2221ce3b37423a604",
+      "title": "The Left Needs an Answer to the Center’s New Cold War Program",
+      "url": "https://jacobin.com/2026/10/centrism-china-cold-war-defense-spending-tech",
+      "author": "Caleb Brennan",
+      "source": "Jacobin",
+      "published_at": "2026-10-17T14:26:14+00:00",
+      "content_excerpt": "Between the Israeli genocide in Gaza and the calamitous stalemate of Donald Trump’s war in Iran, the American foreign policy consensus has been coming apart. Popular support for the United States’ violent foreign policy has reached an unprecedented nadir , as Americans increasingly recognize the downsides of maintaining a global empire. In particular, US military largesse has come at the cost of spending on domestic needs , and voters are increasingly unhappy about this trade-off. According to polling by ReThink Media and the Costs of War Project at Brown University, 59 percent of respondents found the Trump administration’s proposed 2027 Pentagon budget of $1.5 trillion to be excessive. This new epoch has ruptured elite unanimity over how the United States should proceed with its Atlas-li",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/aacf38f2221ce3b37423a604.json"
+    },
+    {
+      "id": "825100eee90ec7794650cc36",
+      "title": "The British State Is Dodging Accountability for the Troubles",
+      "url": "https://jacobin.com/2026/10/uk-labour-legislation-ireland-troubles-military",
+      "author": "Ethan Rooney",
+      "source": "Jacobin",
+      "published_at": "2026-10-17T13:23:54+00:00",
+      "content_excerpt": "Britain’s latest prime minister, Andy Burnham, raised hackles on his first trip to the North of Ireland when he declared a referendum on Irish unity to be “off the table.” Burnham may simply have intended to say that it wasn’t on the short-term agenda, since there is no sign as yet that a majority of people in the North would vote for a united Ireland. But his choice of words implied that it was for the British government to decide whether a referendum should happen, which angered nationalists. Burnham’s secretary of state for Northern Ireland, Chris Bryant, made another clumsy intervention when the unionist Orange Order tried to march down the nationalist Garvaghy Road in Portadown. The Parades Commission, which regulates all public parades in the North, had denied permission for the marc",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/825100eee90ec7794650cc36.json"
+    },
+    {
+      "id": "b7118c34aaefee763e701cc9",
+      "title": "Can the Boss’s Technology Dismantle the Boss’s Penthouse?A Case for Ecological Operaismo",
+      "url": "https://socialistforum.dsausa.org/issues/spring-summer-2026/can-the-bosss-technology-dismantle-the-bosss-penthousea-case-for-ecological-operaismo",
+      "author": "Socialist Forum",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-10-17T12:18:13+00:00",
+      "content_excerpt": "“The smarter our life, the less control we have over it.” —Jathan Sadowski [1] In a world where Big Tech too often sets the terms and conditions of basic human interaction within and beyond the workplace, more and more people are wondering how many of the supposedly “necessary” or “inevitable” algorithmic technologies we really need. Is it even possible for this digital machinery to serve the long-term interests of the many instead of the short-term interests of the few? For French Marxist philosopher and first-wave eco-socialist André Gorz, the answer, in many cases, was no. “It is only because capital needs consumers for its products that production also serves human needs,” he wrote. But “they are needs and desires which have been produced to satisfy capital’s need for profitability.” [",
+      "source_folders": [
+        "00_毎日確認",
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/b7118c34aaefee763e701cc9.json"
+    },
+    {
+      "id": "ff70b16ab45d6c8fefa81c23",
+      "title": "Bryan Stevenson: America Cannot Repair Racial Injustice Until It Confronts the Lies That Sustain It",
+      "url": "https://www.laprogressive.com/racism/bryan-stevenson-gavin-newsom-on-reparations",
+      "author": "Sharon Kyle",
+      "source": "LA Progressive",
+      "published_at": "2026-10-17T07:01:11+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. The Civil War ended slavery, but it did not end the ideas that made slavery possible. That distinction, according to civil rights attorney Bryan Stevenson, helps explain why racial injustice has remained a permanent fixture in American institutions long after the abolition of slavery, the end of Jim Crow, and the victories of the civil rights movement. Speaking with California Governor Gavin Newsom in Montgomery, Alabama, Stevenson offered an analysis of American history that challenges conventional accounts of racial progress. The country's central failure, he argued, has not simply been its unwillingness to acknowledge particular atrocities. It has been its refusal to con",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/ff70b16ab45d6c8fefa81c23.json"
+    },
+    {
+      "id": "6541487462f7367d67d86102",
+      "title": "Palestinians Face Down the Israeli Genocid",
+      "url": "https://www.laprogressive.com/left-coast-forum/palestinians-face-down-the-israeli-genocid",
+      "author": "Ramzy Baroud, Robert Corsini, Dick Price, Sharon Kyle",
+      "source": "LA Progressive",
+      "published_at": "2026-10-17T05:51:58+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. On October 3, 2026, Palestinian American journalist, author, and historian Ramzy Baroud delivered a powerful keynote address at the Fourth Annual Left Coast Forum at California State University, Los Angeles. Speaking about Israel's genocide in Gaza and the Palestinian struggle for liberation, Baroud combined family history, anti-colonial analysis, and an urgent call for international solidarity. His central message was unmistakable: Palestinians are not simply victims of history. They are active participants in shaping it, and their refusal to disappear represents a fundamental challenge to the colonial system seeking to displace them. Ramzy Baroud: Left Coast Forum (49:29)",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/6541487462f7367d67d86102.json"
+    },
+    {
+      "id": "12b6693fa53f1737d374109f",
+      "title": "Rubber Bullets",
+      "url": "https://www.laprogressive.com/law-and-justice/rubber-bullets",
+      "author": "Cerise Castle",
+      "source": "LA Progressive",
+      "published_at": "2026-10-16T23:01:41+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Tucker Collins, 19, has undergone a series of changes since last year. He started his freshman year as an astronautical engineering student at the University of Southern California. He moved to a new part of Los Angeles. And on March 28, he lost an eye from an injury sustained at a protest against federal immigration enforcement. That afternoon, the amateur photographer and filmmaker decided to go to a No Kings protest in downtown Los Angeles with a new camera his parents gave him as a Christmas gift, he told Capital & Main. He was there to film and photograph Department of Homeland Security agents who have carried out a series of aggressive immigration raids under Presiden",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/12b6693fa53f1737d374109f.json"
+    },
+    {
+      "id": "4f491be15b4054e644f4d256",
+      "title": "Considerations for the Utah 2026 General Election",
+      "url": "https://saltlakedsa.org/2026/10/16/considerations-for-the-utah-2026-general-election",
+      "author": "Democratic Socialists of Salt Lake",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-10-16T23:01:19+00:00",
+      "content_excerpt": "This post is a shared statement by Salt Lake DSA’s Electoral Working Group explaining how we’re thinking about the upcoming election in Utah. Introduction The 2026 general election is fast approaching, and once again the working class faces a crucial question: how should we participate in an electoral system structured to disempower us? As always, voting is neither the beginning nor the end of politics. Building a better future requires building collective power to take action and affect the conditions of our lives year-round. Nevertheless, voting plays a distinct and important role in expanding our capacity to organize and advance the socialist movement. Our enemies understand this. The far-right Trump regime has continually sought to undermine elections , threaten voters , and attack lef",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/4f491be15b4054e644f4d256.json"
+    },
     {
       "id": "3e3e79cf4fedd2c260acfbf2",
       "title": "UAW President Shawn Fain, International Executive Board Sworn In for New Four-Year Term",
@@ -66,246 +307,6 @@
       "priority": 1,
       "date_missing": false,
       "article_path": "articles/058de4725cd9deda74b4e8a7.json"
-    },
-    {
-      "id": "786cd9696e3c5a43e1dd524a",
-      "title": "In India, “Cockroaches” Are Leading the Fight for Democracy",
-      "url": "https://jacobin.com/2026/10/india-cockroach-protests-elections-democracy",
-      "author": "Prajwal Bhat",
-      "source": "Jacobin",
-      "published_at": "2026-10-16T17:19:58+00:00",
-      "content_excerpt": "On October 10, India’s capital city, New Delhi, was turned into a fortress as protesters tried to oppose a countrywide exercise to revise the electoral rolls. The protests were called by the Gen Z movement known as the Cockroach Janta Party (CJP), working with left-wing student groups, which forced the resignation of the minister of education in July. In response, the Indian government deployed more than twenty thousand police officers and paramilitary personnel, suspended internet access in central Delhi, and barricaded the city center. Thousands of protesters, including the leaders of the CJP and prominent opposition politicians, were detained. The protests stem from a massive government effort, known as the Special Intensive Revision (SIR), to revise India’s electoral rolls by removing ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/786cd9696e3c5a43e1dd524a.json"
-    },
-    {
-      "id": "4ffb070082ffa5c38eec4165",
-      "title": "Black Agenda Report October 16, 2026",
-      "url": "https://www.blackagendareport.com/black-agenda-report-october-16-2026",
-      "author": "bareditors",
-      "source": "Black Agenda Report",
-      "published_at": "2026-10-16T16:50:54+00:00",
-      "content_excerpt": "Black Agenda Report October 16, 2026 Authors Black Agenda Radio with Margaret Kimberley bareditors Fri, 10/16/2026 - 21:46 Black Agenda Radio · Black Agenda Report October 16, 2026 In this week’s segment, we see through supposed disagreements between the US and Canada and recognize their partnership in settler colonialism, enslavement, and imperialism. But we begin with a discussion of the Democratic Republic of Congo, where elites jockey for power while colluding with imperialist forces that decimate the country. International Canada Congo US Imperialism M23 settler colonialism Democratic Republic of Congo",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/4ffb070082ffa5c38eec4165.json"
-    },
-    {
-      "id": "5aa609f120cd5cae4d91c753",
-      "title": "France's Youth Revolt",
-      "url": "https://www.laprogressive.com/education-reform/frances-youth-revolt",
-      "author": "Kevin Anderson",
-      "source": "LA Progressive",
-      "published_at": "2026-10-16T16:46:30+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Beginning in the marginalized banlieues, France’s high school revolt has become national in scope, taking on economic and racial oppression as well as police brutality. By October 13, the high school protest movement in France had mushroomed, prompting up to half a million people to take to the streets across the country. On that day, Swedish climate activist Greta Thunberg made a solidarity visit to one of the high schools where it all started, Lycée Paul Eluard, in the impoverished Paris banlieue (suburb) of Saint-Denis. Thunberg intoned that “the whole world is watching” and that it is “proud of the French students.” [1] With a two-week school vacation beginning on Octob",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/5aa609f120cd5cae4d91c753.json"
-    },
-    {
-      "id": "ca2d1687e0f96e792bacf7ae",
-      "title": "The Social Reckoning Needed David Fincher",
-      "url": "https://jacobin.com/2026/10/review-sorkin-social-reckoning-facebook-zuckerberg",
-      "author": "Eileen Jones",
-      "source": "Jacobin",
-      "published_at": "2026-10-16T16:21:26+00:00",
-      "content_excerpt": "Reporting on how badly Aaron Sorkin’s Facebook drama The Social Reckoning is flopping, I won’t bother to do any better than USA Today ’s mild zinger , “Moviegoers are unfriending The Social Reckoning.” Meanwhile, the critically panned horror film Other Mommy is crushing it at the box office. But that’s unsurprising, because The Social Reckoning doesn’t have Jessica Chastain’s grinning, spider-crawling monster-mommy to draw people in during a Halloween season when the horror film pickings this year are rather slim. Of course, as The Social Reckoning ’s featured creature, Facebook CEO Mark Zuckerberg is pretty monstrous too, but even with Jeremy Strong playing him, he can’t convey the skin-crawling repulsiveness of this deeply weird billionaire tech mogul who strikes the public as so sociopa",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/ca2d1687e0f96e792bacf7ae.json"
-    },
-    {
-      "id": "3668d288d376285f33260d1e",
-      "title": "Beyond Israeli Apartheid",
-      "url": "https://www.laprogressive.com/foreign-policy/beyond-israeli-apartheid",
-      "author": "Ramzy Baroud",
-      "source": "LA Progressive",
-      "published_at": "2026-10-16T16:04:37+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. The Green Party has put the conversation back on track: the problem is not the lack of creative solutions to the Israeli occupation of Palestine. The problem is Zionism itself. To appreciate the significance of Motion A105, adopted by the Green Party of England and Wales on Oct. 4, consider its basic tenets. The party is now formally anti-Zionist. It endorses the Palestinian right of return, supports one democratic state throughout historic Palestine, reaffirms its commitment to the Boycott, Divestment and Sanctions movement, distinguishes anti-Zionism from antisemitism, and calls for a full arms embargo against Israel. Though the decision may seem revolutionary within Brit",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/3668d288d376285f33260d1e.json"
-    },
-    {
-      "id": "11323d7111678106755973e3",
-      "title": "Leftists Should Learn to Organize Like Evangelicals",
-      "url": "https://jacobin.com/2026/10/evangelicals-warren-organizing-community-socialism",
-      "author": "Eric Blanc",
-      "source": "Jacobin",
-      "published_at": "2026-10-16T15:22:05+00:00",
-      "content_excerpt": "If progressives and radicals had all read Rick Warren’s The Purpose Driven Church when it came out in 1995, we’d be far stronger today. It’s the most important book on organizing that most leftists haven’t read. Luckily, it’s not too late to discover it. Warren founded Saddleback Church in suburban Orange County in 1980, starting with a Bible study in his home. Fifteen years later, more than ten thousand people were attending its services each weekend, and Saddleback had planted twenty-six other churches. The Purpose Driven Church was Warren’s attempt to explain how he’d done it, so that other pastors could do the same. It became a founding manual of “seeker-sensitive” Evangelicalism, which designs churches around the people who don’t yet attend one. By 2004, Warren’s book had sold more th",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/11323d7111678106755973e3.json"
-    },
-    {
-      "id": "50c5d86e4a1480c30bcff863",
-      "title": "Sweden’s Left Faces a Political Deadlock",
-      "url": "https://jacobin.com/2026/10/swedish-elections-left-center-deadlock",
-      "author": "Rikard Warlenius",
-      "source": "Jacobin",
-      "published_at": "2026-10-16T14:26:22+00:00",
-      "content_excerpt": "After four years of a right-wing government that the far-right Sweden Democrats (SD) heavily influenced, the parties that refuse to cooperate with the SD secured a narrow victory in the general election on September 13. However, the winning side consists of four parties that are politically very far apart and have so far been unable to agree on a new government. While the Left Party refuses to support a government in which it does not hold cabinet posts, the neoliberal Center Party refuses to support a government that includes Left Party ministers. Nobody wants a snap election or a repeat of the extremely slow, 134-day process of forming a government that followed the 2018 election. But there is still no solution in sight to this stalemate. Ultimately, Sweden’s dilemma is bigger than the q",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/50c5d86e4a1480c30bcff863.json"
-    },
-    {
-      "id": "92dba3a88f2aecb540b2d45e",
-      "title": "UAW President Shawn Fain, Abdul El-Sayed in Candid Conversation on 2026 Midterm Stakes",
-      "url": "https://uaw.org/uaw-president-shawn-fain-abdul-el-sayed-in-candid-conversation-on-2026-midterm-stakes",
-      "author": "Justin Mayhugh",
-      "source": "UAW",
-      "published_at": "2026-10-16T14:09:07+00:00",
-      "content_excerpt": "Today, the UAW released an hour-long conversation between UAW President Shawn Fain and Michigan Senate candidate Abdul El-Sayed. Recorded the previous week at the UAW’s Solidarity House in Detroit, MI, the two Midwest-made trailblazers in their respective fields covered a wide range of topics — from faith and family to healthcare, retirement security, trade, AI and technology, and other important issues that matter to working-class voters ahead of Election Day. Michigan is one of several states where the UAW is running its most ambitious political operation in decades. As an early endorser of Abdul El-Sayed in the high-profile U.S. Senate race in Michigan, the UAW is also throwing down in several priority House races and potential Republican flip districts where the UAW’s density is larger",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/92dba3a88f2aecb540b2d45e.json"
-    },
-    {
-      "id": "541c7509e4dd05ad96f19b47",
-      "title": "Getting Grounded October – Zoning Final Draft Fails Community Gardens and Urban Farms",
-      "url": "https://rocdsa.org/blog/getting-grounded-october-zoning-final-draft-fails-community-gardens-and-urban-farms",
-      "author": "Rochester Red Star: News from Rochester DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-10-16T13:56:37+00:00",
-      "content_excerpt": "by Elizabeth Henderson Revisions of zoning codes happen at long intervals, so this is a chance for Rochester to make changes that will govern the city for at least the next decade. The process has been underway for over four years and seems to overwhelm the staff which has not met any of their deadlines. In their revisions, the zoning writers have responded to some of the requests from the Food Policy Council and Urban Agriculture Working Group, but we have more work to do. The April 2026 Draft turns out to be their final language. Now it is up to City Council which has the power to make amendments or to accept the draft as is. If you want to support community gardening, please attend one of these sessions and speak up or send in written comments! The zoning revisions process bears the tit",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/541c7509e4dd05ad96f19b47.json"
-    },
-    {
-      "id": "c70e4048671a41e18f73307e",
-      "title": "High School Protests Can Transform France’s Election Campaign",
-      "url": "https://jacobin.com/2026/10/yellow-vests-youth-melenchon-france-insoumise",
-      "author": "Solange Manche",
-      "source": "Jacobin",
-      "published_at": "2026-10-16T13:23:26+00:00",
-      "content_excerpt": "Since the outbreak of high school blockades and students protests in French Guiana and Mayotte this September , Jean-Luc Mélenchon’s party, La France Insoumise, has continued to rise in the polls. After a rally in Clermont-Ferrand last Sunday, filling the city’s biggest arena — the third-largest in France — Mélenchon was for the first time projected to make it to the runoff of the 2027 presidential election, in all possible scenarios lining up different candidates. Marine Le Pen, projected to win 35 percent of the vote in the first round, will almost certainly be his opponent in the final showdown for power. As the movement has yet to reach its peak, these figures could still radically change. On Tuesday, 480,000 people protested across France . With over a million people having already ta",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/c70e4048671a41e18f73307e.json"
-    },
-    {
-      "id": "a878c6f9132de587a3bbcbcc",
-      "title": "Musk, Koch Spend Millions Against Socialism",
-      "url": "https://democraticleft.dsausa.org/2026/10/16/musk-koch-spend-millions-against-socialism",
-      "author": "tfrasca@yahoo.com",
-      "source": "Democratic Left",
-      "published_at": "2026-10-16T11:51:18+00:00",
-      "content_excerpt": "Ilhan Omar raid illustrates “fascist police state,” Mamdani under pressure over NYPD boss Tisch, and more in this edition of “Red All Over,” Democratic Left’s occasional news roundup. The post Musk, Koch Spend Millions Against Socialism appeared first on Democratic Left .",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/a878c6f9132de587a3bbcbcc.json"
-    },
-    {
-      "id": "401e71da60fa64a559a16cea",
-      "title": "Polls in the Hole",
-      "url": "https://www.laprogressive.com/election-and-campaigns/polls-in-the-hole",
-      "author": "John Peeler",
-      "source": "LA Progressive",
-      "published_at": "2026-10-16T06:42:38+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Republicans hope—and Democrats Fear—that the recent pattern of polls underestimating Republican (and Trump) support will save them this year. And there are certainly grounds to hope that. In 2016, most polls had Trump losing, but of course, he won. Polls overestimated Hillary Clinton’s support by 3 percent. In 2020, polls overestimated Democratic numbers by 4.7 percent (but they won anyway). In 2024, Democrats were overestimated by 2.9 percent, and of course Trump won a narrow victory (not the landslide he claims). The mid-term bias has been smaller. In 2018, GOP support was overestimated by a mere 0.5 percent; in 2022, Democratic support was overstated by a scarcely larger",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/401e71da60fa64a559a16cea.json"
-    },
-    {
-      "id": "3b8ba3b09263167a2d10175c",
-      "title": "Congo's Elite Struggle for Power While Imperialist Control and Violence Decimate the Country",
-      "url": "https://www.blackagendareport.com/congos-elite-struggle-power-while-imperialist-control-and-violence-decimate-country",
-      "author": "bareditors",
-      "source": "Black Agenda Report",
-      "published_at": "2026-10-16T03:55:04+00:00",
-      "content_excerpt": "Congo's Elite Struggle for Power While Imperialist Control and Violence Decimate the Country Authors Black Agenda Radio with Margaret Kimberley bareditors Fri, 10/16/2026 - 04:45 Joseph Kabila, former president of the Democratic Republic of Congo, named himself president of the Front for the Rebuilding of the Nation. He is now formally allied with M23, the Rwanda-backed militia that has terrorized eastern provinces for many years. In addition, Ebola virus disease continues to spread in the DRC. Maurice Carney is the executive director of Friends of the Congo , and he joins us from Washington to provide analysis. Africa Congo M23 Rwanda Ebola US Imperialism",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/3b8ba3b09263167a2d10175c.json"
-    },
-    {
-      "id": "35ca46a66c16c0cbfc3640f1",
-      "title": "The Canadian and U.S. Partnership in Settler Colonialism, Enslavement, and Imperialism",
-      "url": "https://www.blackagendareport.com/canadian-and-us-partnership-settler-colonialism-enslavement-and-imperialism",
-      "author": "bareditors",
-      "source": "Black Agenda Report",
-      "published_at": "2026-10-16T03:55:04+00:00",
-      "content_excerpt": "The Canadian and U.S. Partnership in Settler Colonialism, Enslavement, and Imperialism Authors Black Agenda Radio with Margaret Kimberley bareditors Fri, 10/16/2026 - 04:28 Isaac Saney is a Cuba and Black Studies specialist and historian at Dalhousie University in Halifax, Nova Scotia, Canada. He discusses the U.S./Canadian partnership in settler colonialism, enslavement, and imperialism. International Canada United States imperialism Colonialism",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/35ca46a66c16c0cbfc3640f1.json"
-    },
-    {
-      "id": "211fde087b447d48596786dc",
-      "title": "Jobs Fair: It’s Time to Get These Socialists to Work",
-      "url": "https://medium.com/dsa-detroit-newspaper/jobs-fair-its-time-to-get-these-socialists-to-work-d12693ffaefe?source=rss-160b7baee925------2",
-      "author": "Detroit DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-10-15T23:35:06+00:00",
-      "content_excerpt": "by Jo Blocton An early 1900s IWW comic on grounding thought in organizing on the ground. Unions are the only space in American society where socialist values of solidarity and “us vs. them” are openly spoken and encouraged, outside of DSA. It is about time for us to take back this space to fight for workers’ rights. Detroit DSA’s Jobs Fair on September 19th was as much about education as it was about encouraging folks to consider new job options. During the fair, about 60 participants heard from five different union members about why going to work within their fields can create legitimate change for the whole working class, while also improving their individual lives. The purpose was to bring socialists to the front line of the workforce, where we can build political power on all fronts fo",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/211fde087b447d48596786dc.json"
-    },
-    {
-      "id": "6a97a90ac9c589b84a3ca583",
-      "title": "When Workers, Driving Customers or Saving Lives in the ER, Become Independent Contractors",
-      "url": "https://bostondsa.org/2026/10/15/when-workers-driving-customers-or-saving-lives-in-the-er-become-independent-contractors",
-      "author": "Boston DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-10-15T20:41:19+00:00",
-      "content_excerpt": "[[{“value”:” By: Matt Wolfinger BOSTON – There’s a loophole in our labor laws spreading across the economy. From delivery drivers to nurses, corporations are classifying workers as independent contractors and using the promise of flexible work to cudgel labor rights. Nearly 12 million people in the United States, or seven percent of the workforce, describe independent contractor work as their primary source of income, according to the most recent data from the Bureau of Labor Statistics. Independent contractors aren’t protected under the National Labor Relations Act (NLRA), so they can’t unionize, aren’t entitled to benefits, a minimum wage, or overtime and can be fired at will. Companies like Uber, Lyft and Amazon have spent hundreds of millions to keep their workers classified as self-em",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/6a97a90ac9c589b84a3ca583.json"
     }
   ]
 }

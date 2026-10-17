@@ -1,12 +1,178 @@
 {
-  "generated_at": "2026-10-16T22:09:58.231540+00:00",
-  "generated_at_jst": "2026-10-17T07:09:58.231540+09:00",
-  "period_start": "2026-10-15T16:09:58.231540+00:00",
+  "generated_at": "2026-10-17T21:37:08.186043+00:00",
+  "generated_at_jst": "2026-10-18T06:37:08.186043+09:00",
+  "period_start": "2026-10-16T15:37:08.186043+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
-  "article_count": 19,
+  "article_count": 13,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "b7118c34aaefee763e701cc9",
+      "title": "Can the Boss’s Technology Dismantle the Boss’s Penthouse?A Case for Ecological Operaismo",
+      "url": "https://socialistforum.dsausa.org/issues/spring-summer-2026/can-the-bosss-technology-dismantle-the-bosss-penthousea-case-for-ecological-operaismo",
+      "author": "Socialist Forum",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-10-17T12:18:13+00:00",
+      "content_excerpt": "“The smarter our life, the less control we have over it.” —Jathan Sadowski [1] In a world where Big Tech too often sets the terms and conditions of basic human interaction within and beyond the workplace, more and more people are wondering how many of the supposedly “necessary” or “inevitable” algorithmic technologies we really need. Is it even possible for this digital machinery to serve the long-term interests of the many instead of the short-term interests of the few? For French Marxist philosopher and first-wave eco-socialist André Gorz, the answer, in many cases, was no. “It is only because capital needs consumers for its products that production also serves human needs,” he wrote. But “they are needs and desires which have been produced to satisfy capital’s need for profitability.” [",
+      "source_folders": [
+        "00_毎日確認",
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/b7118c34aaefee763e701cc9.json"
+    },
+    {
+      "id": "7343e9b4bcb59b462acf186f",
+      "title": "One barricade after another: How protesters marched on the garrisoned heart of India’s capital",
+      "url": "https://breakthroughnews.org/2026/10/17/one-barricade-after-another-how-protesters-marched-on-the-garrisoned-heart-of-indias-capital",
+      "author": "Pavan Kulkarni",
+      "source": "BT News",
+      "published_at": "2026-10-17T18:58:45+00:00",
+      "content_excerpt": "60,000 security personnel were deployed across India’s national capital on October 10.​ This included the police of Delhi and neighboring states, as well as paramilitary forces pulled from regions of India affected by armed insurgencies. They sealed off central Delhi to stop protesters opposing the mass disenfranchisement of 130 million voters from reaching Jantar Mantar, the designated protest site on Parliament Street.​ The railways cancelled over 250 trains to Delhi. “So far as I remember, it has never happened in the history of Indian Railways that so many trains were cancelled just because of a protest or agitation,” said Shiv Gopal Mishra, general secretary of the All India Railwaymen’s Federation (AIRF).​ Scores of activists already travelling to the national capital from other stat",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/7343e9b4bcb59b462acf186f.json"
+    },
+    {
+      "id": "0c9a9734c6ece36f7371de61",
+      "title": "South Africa anti-immigrant protests turns violent",
+      "url": "https://breakthroughnews.org/2026/10/17/south-africa-anti-immigrant-protests-turns-violent",
+      "author": "Nicholas Mwangi",
+      "source": "BT News",
+      "published_at": "2026-10-17T16:52:54+00:00",
+      "content_excerpt": "Last week, anti-immigrant protests in South Africa turned violent, with looting, destruction of property, and reports of 24 vehicles being burnt as tensions escalated in Johannesburg and Durban. The unrest followed growing anger over a government directive on asylum applications, which the Department of Home Affairs has since withdrawn. The directive, issued on September 28, instructed Refugee Reception Offices (RROs) to process all asylum applications immediately. Massive queues of foreign nationals subsequently formed at immigration offices, which were met with demonstrations and violence from anti-immigrant groups. Protests were reported in Soweto township, Johannesburg, and Durban, in KwaZulu-Natal province. Demonstrations in Durban continued for a second day, prompting police to stren",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/0c9a9734c6ece36f7371de61.json"
+    },
+    {
+      "id": "0f9a10d7bc926c848912ae3b",
+      "title": "Sally Rooney’s books withdrawn from UK market over Palestine solidarity",
+      "url": "https://mronline.org/2026/10/17/sally-rooneys-books-withdrawn-from-uk-market-over-palestine-solidarity",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-17T13:34:54+00:00",
+      "content_excerpt": "Irish novelist Sally Rooney’s publisher has halted UK distribution of her books, citing terrorism legislation linked to her Palestine Action support. The post Sally Rooney’s books withdrawn from UK market over Palestine solidarity appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/0f9a10d7bc926c848912ae3b.json"
+    },
+    {
+      "id": "1dbc892b456c24d4d83ec0ce",
+      "title": "The dangerous advance of the far Right in Latin America: U.S. hegemony, Israeli expansion, and Evangelical Zionism in the face of resistance",
+      "url": "https://mronline.org/2026/10/17/the-dangerous-advance-of-the-far-right-in-latin-america-u-s-hegemony-israeli-expansion-and-evangelical-zionism-in-the-face-of-resistance",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-17T12:40:21+00:00",
+      "content_excerpt": "Latin America’s far-right turn is consolidating a hemispheric bloc aligned with Washington and Tel Aviv, driven by US interventionism, the Isaac Accords, Christian Zionism and Israeli security technology. The post The dangerous advance of the far Right in Latin America: U.S. hegemony, Israeli expansion, and Evangelical Zionism in the face of resistance appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/1dbc892b456c24d4d83ec0ce.json"
+    },
+    {
+      "id": "8d48a4b81d097005d03da65e",
+      "title": "ICE spies on unions and enforces the Cuba blockade",
+      "url": "https://mronline.org/2026/10/17/ice-spies-on-unions-and-enforces-the-cuba-blockade",
+      "author": "Gary Wilson",
+      "source": "MR Online",
+      "published_at": "2026-10-17T11:44:58+00:00",
+      "content_excerpt": "The federal agents who searched Rep. Ilhan Omar’s home on Oct. 12 belong to the same agency that is seizing fuel bound for Cuba. The post ICE spies on unions and enforces the Cuba blockade appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/8d48a4b81d097005d03da65e.json"
+    },
+    {
+      "id": "2e45b3006fb3692bcc3f12b2",
+      "title": "ALL art is political when you live in a genocidal dystopia",
+      "url": "https://mronline.org/2026/10/17/all-art-is-political-when-you-live-in-a-genocidal-dystopia",
+      "author": "Caitlin A. Johnstone",
+      "source": "MR Online",
+      "published_at": "2026-10-17T10:38:31+00:00",
+      "content_excerpt": "I have no respect for this idea that art is somehow separable from politics. ALL art is political when you live in a genocidal dystopia, because all your expression exists in relation to our freakish civilization. The post ALL art is political when you live in a genocidal dystopia appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/2e45b3006fb3692bcc3f12b2.json"
+    },
+    {
+      "id": "f04881ba9dc55c5887077d53",
+      "title": "Back to Keynes for ‘the good life’",
+      "url": "https://mronline.org/2026/10/17/back-to-keynes-for-the-good-life",
+      "author": "Michael Roberts",
+      "source": "MR Online",
+      "published_at": "2026-10-17T09:36:25+00:00",
+      "content_excerpt": "There is a new play in London’s West End at the moment. The post Back to Keynes for ‘the good life’ appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/f04881ba9dc55c5887077d53.json"
+    },
+    {
+      "id": "877c73db358813851adb0f9f",
+      "title": "China, BRICS & Brazil: what Lula vs. Bolsonaro means for the Global South",
+      "url": "https://breakthroughnews.org/2026/10/16/china-brics-brazil-what-lula-vs-bolsonaro-means-for-the-global-south",
+      "author": "Amanda Yee",
+      "source": "BT News",
+      "published_at": "2026-10-17T01:21:29+00:00",
+      "content_excerpt": "As Brazil heads into the October 25 runoff election between President Luiz Inácio Lula da Silva and Flávio Bolsonaro, the country stands as a crucial battleground in Washington’s strategy to contain China, as well as global geopolitics. What does this election mean for the future of China-Brazil ties, the BRICS alliance, and independent technological sovereignty across the Global South? Tings Chak – researcher, writer, and art director for the Tricontinental: Institute for Social Research – joins Amanda Yee to break down the two competing paths for Brazil represented by Lula and Bolsonaro. Read Chak’s article: “How Brazil’s election could reshape relations with China”",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/877c73db358813851adb0f9f.json"
+    },
+    {
+      "id": "934d3ee00767aad8dcf96ea2",
+      "title": "In the crosshairs of AI (part two)",
+      "url": "https://tempestmag.org/2026/10/in-the-crosshairs-of-ai-part-two",
+      "author": "Ashley Smith",
+      "source": "Tempest",
+      "published_at": "2026-10-16T22:56:56+00:00",
+      "content_excerpt": "I n their mad rush for profit and power, the tech oligarchs have unleashed artificial intelligence (AI) into nearly every corner of life on this planet. Firms are investing billions in data centers, which house the infrastructure to process the enormous amounts of information that power AI. They are also plowing ever more money into research and development. Their hope is that the technology will overcome global capitalism’s slump , which the system has been trapped in since the Great Recession, and trigger a new epoch of expansion. States are incorporating it into their police forces for domestic surveillance as well as their militaries for cyberwarfare and high-tech weapons. Ominously, the struggle for AI supremacy is now at the center of the imperialist rivalry between the U.S. and Chin",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/934d3ee00767aad8dcf96ea2.json"
+    },
+    {
+      "id": "63f4739d1be5634498dc024a",
+      "title": "Palestinian prisoner Dana Joudeh gave birth shackled to a bed, with a rifle pointed at her",
+      "url": "https://breakthroughnews.org/2026/10/16/palestinian-prisoner-dana-joudeh-gave-birth-shackled-to-a-bed-with-a-rifle-pointed-at-her",
+      "author": "Aseel Saleh",
+      "source": "BT News",
+      "published_at": "2026-10-16T22:24:04+00:00",
+      "content_excerpt": "When Dana Joudeh , 35, went into labor in mid-September, she was six months pregnant and being held at Israel’s Damon Prison. Her daughter, Lia, was born premature, and her family says she gave birth shackled to a bed, with a rifle pointed at her. Joudeh spent almost her entire pregnancy in Damon prison, held under a six-month administrative detention order. There she endured the conditions Palestinian prisoners have described since October 2023: medical neglect, inadequate healthcare, food deprivation, and sharp cuts to hygiene supplies. Read more: “We are here to kill you”: Released Palestinian prisoner exposes torture and medical neglect in Israeli prisons A day after giving birth, Dana and Lia were released from Damon Prison. Their time in detention exposed blatant Israeli violations, ",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/63f4739d1be5634498dc024a.json"
+    },
     {
       "id": "fc52a828eb09169ad30018c1",
       "title": "Mayor Mamdani can stop the sale of stolen Palestinian land",
@@ -36,261 +202,6 @@
       "priority": 2,
       "date_missing": false,
       "article_path": "articles/e54978d9cd69d4997f92f68d.json"
-    },
-    {
-      "id": "b036a7a56b3aec59c4f559ad",
-      "title": "“Abolish & Replace ICE”: Rep. Analilia Mejia Blasts ICE for Secretly Using NJ Warehouse",
-      "url": "https://www.democracynow.org/2026/10/16/new_jersey_ice_warehouse",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-10-16T15:19:20+00:00",
-      "content_excerpt": "Earlier this week, ICE confirmed it had secretly used a federal government warehouse in Roxbury, New Jersey, to stage and to process detentions in September, despite an order from a judge barring the site’s use until an environmental study was complete. ” ICE and this administration cherry-picks which laws it adheres to, and then breaks due process and equal protection for the many,” says New Jersey Democratic Congressmember Analilia Mejia. “This administration is just moving with a level of impunity and cruelty that, frankly, should shock every single American.”",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/b036a7a56b3aec59c4f559ad.json"
-    },
-    {
-      "id": "6c895775815990acf2ce84fd",
-      "title": "Meet Estrella, an Undocumented Trans Woman Jailed for 9 Years, Then Deported to Mexico",
-      "url": "https://www.democracynow.org/2026/10/16/estrella",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-10-16T15:19:20+00:00",
-      "content_excerpt": "We’re joined by Latino USA host Maria Hinojosa as she shares the story of Estrella Diamantina González, an undocumented transgender woman and trafficking survivor from Mexico caught up in the United States’ criminal and immigration systems. This summer, after serving a nine-year sentence in a Texas men’s prison, Diamantina González was released, but she wasn’t free. She was immediately transferred to an immigration detention facility and then deported. Hinojosa, who has been reporting on Diamantina González’s ordeal for the last decade, followed her to Mexico in the new audio documentary “Estrella: Bittersweet Freedom for a 'Bad Mexican.'”",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/6c895775815990acf2ce84fd.json"
-    },
-    {
-      "id": "c39b88712e93cf09c6036510",
-      "title": "“Against Tech Oligarchy”: Inside the Worker Resistance in the World’s Most Powerful Industry",
-      "url": "https://www.democracynow.org/2026/10/16/against_tech_oligarchy",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-10-16T15:19:20+00:00",
-      "content_excerpt": "Longtime tech worker organizers Clarissa Redwine and JS Tan’s new book, Against Tech Oligarchy: Worker Resistance in the World’s Most Powerful Industry , draws on the authors’ experiences at major tech companies to chronicle the rise and fall of the tech worker movement, its early victories, and the repression and slide to corporate control that followed. “Over the course of the 2010s, what we saw was that the tech industry wasn’t quite the industry that it had promised to its workers and to the public. Rather than making the world more open, more democratic, we saw it really be the culprit of misinformation,” says Tan, who was pushed out of Microsoft after raising objections to the company’s ties to fossil fuel companies. Silicon Valley’s slide to the right was influenced by corporate bac",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/c39b88712e93cf09c6036510.json"
-    },
-    {
-      "id": "1e633537aa1cbd895afa0df8",
-      "title": "Meta acknowledges the reduced reach of Lula’s profiles",
-      "url": "https://mronline.org/2026/10/16/meta-acknowledges-the-reduced-reach-of-lulas-profiles",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-16T12:27:43+00:00",
-      "content_excerpt": "The company, which controls WhatsApp, Facebook, and Instagram, claims that “technical issues” affected the reach of Lula’s presidential campaign, and rejects accusations of favoring Flávio Bolsonaro. The post Meta acknowledges the reduced reach of Lula’s profiles appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/1e633537aa1cbd895afa0df8.json"
-    },
-    {
-      "id": "10364950db5b05b337612007",
-      "title": "Development is the production of life",
-      "url": "https://mronline.org/2026/10/16/development-is-the-production-of-life",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-16T12:27:43+00:00",
-      "content_excerpt": "Dependency and the Reproduction of Life in the Global South. The post Development is the production of life appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/10364950db5b05b337612007.json"
-    },
-    {
-      "id": "58a311cff8d2d94d2a81a245",
-      "title": "From capitalist crisis to crisis of whiteness: Rubio, Western decline, and the defense of white supremacy",
-      "url": "https://mronline.org/2026/10/16/from-capitalist-crisis-to-crisis-of-whiteness-rubio-western-decline-and-the-defense-of-white-supremacy",
-      "author": "Ajamu Baraka",
-      "source": "MR Online",
-      "published_at": "2026-10-16T12:27:43+00:00",
-      "content_excerpt": "Marco Rubio's appeals to Western civilization, Christian heritage, and the defense of Western dominance are fundamental to the consolidating global fascist project, functioning to transform a crisis of political economy into a crisis of what he and others refer to as civilization. The post From capitalist crisis to crisis of whiteness: Rubio, Western decline, and the defense of white supremacy appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/58a311cff8d2d94d2a81a245.json"
-    },
-    {
-      "id": "5486de92324afbd0a8c962ab",
-      "title": "The specificity of neo-fascism",
-      "url": "https://mronline.org/2026/10/16/the-specificity-of-neo-fascism",
-      "author": "Prabhat Patnaik",
-      "source": "MR Online",
-      "published_at": "2026-10-16T12:27:43+00:00",
-      "content_excerpt": "If democracy is to be preserved in the country, then the struggle for democracy, instead of accepting the attitude of the judiciary as it exists at any given time, must incorporate a struggle for sensitizing the judiciary to the fundamental need for consciously going beyond an inherited hierarchical perception of society. The post The specificity of neo-fascism appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/5486de92324afbd0a8c962ab.json"
-    },
-    {
-      "id": "2a01941b452c3d29dda031c6",
-      "title": "Who Gets to Turn Numbers into Evidence?",
-      "url": "https://thetricontinental.org/who-gets-to-turn-numbers-into-evidence",
-      "author": "Author and Editors",
-      "source": "[:en]THE TRICONTINENTAL[:es]TRICONTINENTAL[:]",
-      "published_at": "2026-10-16T09:16:34+00:00",
-      "content_excerpt": "Turning numbers into evidence is a form of labour – and in the Global South, that labour is unevenly distributed. 1. Who Gets to Question the Numbers? By the end of 2018, India’s National Sample Survey Office had completed its 2017–18 Periodic Labour Force Survey (PLFS) – the government’s own instrument for measuring employment. The report was not released. Weeks later, a version leaked to the press showed unemployment at 6.1%, its highest level in forty-five years. Two members of the National Statistical Commission, which had approved the report, resigned over its withholding. 1 The immediate dispute was not over a mathematical error in the figure, but over whether the public would be allowed to see it. The PLFS controversy showed how much political weight a number can carry. Numbers are ",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/2a01941b452c3d29dda031c6.json"
-    },
-    {
-      "id": "0176afc224cd2b43d932c596",
-      "title": "Madrid teachers and students launch strike to defend public schools",
-      "url": "https://breakthroughnews.org/2026/10/15/madrid-teachers-and-students-launch-strike-to-defend-public-schools",
-      "author": "Ana Vračar",
-      "source": "BT News",
-      "published_at": "2026-10-15T23:40:25+00:00",
-      "content_excerpt": "The public education system in Madrid – teachers and students alike – launched an indefinite strike on Wednesday, October 14. Tens of thousands emptied classrooms and took to the streets, demanding an end to the regional government’s education policy – warning that it promotes privatization. Episodes of police violence were reported near part of the education sites. Read more: Spanish unions announce general strike over housing A joint union front, including sectoral branches of the General Union of Workers (Unión General de Trabajadores, UGT), the Workers’ Commissions (Comisiones Obreras, CCOO), and the General Confederation of Labor (Confederación General del Trabajo, CGT), among others, started building the mobilization months ago. While preparing the strike, they tabled demands includi",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/0176afc224cd2b43d932c596.json"
-    },
-    {
-      "id": "5809ee2f296b54dc5d85f113",
-      "title": "Bukele announces a possible mass release of inmates",
-      "url": "https://breakthroughnews.org/2026/10/15/bukele-announces-a-possible-mass-release-of-inmates",
-      "author": "Pablo Meriguet",
-      "source": "BT News",
-      "published_at": "2026-10-15T23:40:25+00:00",
-      "content_excerpt": "El Salvador’s President Nayib Bukele announced on October 13 his intention to release nearly 50% of the prisoners accused of collaborating with gangs in the country. According to the president, the measure would involve early release, albeit conditional. “We have a plan that would benefit roughly 50% (give or take) of the prisoners in El Salvador who have collaborated with gangs … In other words, early release – meaning they are guilty but are released conditionally. Released under supervision,” Bukele told the press. In this regard, he said that his government would evaluate the situation of each detainee to keep the country free from the structural violence that has plagued it for decades: “Considering that we come from a country where violence was part of everyday life and gangs were th",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/5809ee2f296b54dc5d85f113.json"
-    },
-    {
-      "id": "cfaa40b37bca668d4662882a",
-      "title": "Brazil’s Congress ends 6×1 work schedule",
-      "url": "https://breakthroughnews.org/2026/10/15/brazils-congress-ends-6x1-work-schedule",
-      "author": "Brasil de Fato",
-      "source": "BT News",
-      "published_at": "2026-10-15T23:40:25+00:00",
-      "content_excerpt": "The approval of Constitutional Amendment Proposal (PEC) 221 of 2019 by the Federal Senate establishes the most profound alteration in the organization of the Brazilian work schedule since the promulgation of the 1988 Constitution. The text eliminates the model of six days of work followed by one day of rest and sets a maximum work week of 40 hours with two paid weekly rest days, without salary reduction. Because it is a constitutional amendment, the text does not depend on the sanction or veto of President Luiz Inácio Lula da Silva (PT). Promulgation is the responsibility of the presiding officers of the Chamber of Deputies and the Senate in a joint session of the National Congress. Once promulgated and published in the Official Gazette of the Union (DOU), the amendment enters into force i",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/cfaa40b37bca668d4662882a.json"
-    },
-    {
-      "id": "eee8eb5604ef8ad1ef4ab48b",
-      "title": "Continued closure of the Strait of Hormuz will cause food crisis in Asia and Africa, says UN",
-      "url": "https://breakthroughnews.org/2026/10/15/continued-closure-of-the-strait-of-hormuz-will-cause-food-crisis-in-asia-and-africa-says-un",
-      "author": "Abdul Rahman",
-      "source": "BT News",
-      "published_at": "2026-10-15T22:38:46+00:00",
-      "content_excerpt": "The continuing blockade of the Strait of Hormuz could cause an increase in food insecurity in Asia and Africa, an UN official warned on Wednesday, October 14, asking both the US and Iran to allow free shipments, particularly of fertilizers. “It is absolutely crucial to get the deal in the next few weeks. Otherwise, we will miss the planting session,” UN Under Secretary General Jorge Moreira da Silva told Reuters on the sidelines of the ongoing annual meeting of the International Monetary Fund (IMF) and the World Bank in Bangkok, Thailand. Almost one third of all global supplies of urea and around half of sulphur used to pass through the Strait of Hormuz before the US-Israeli war on Iran began in late February and Iran blocked traffic through it in retaliation. Most countries in Asia and Af",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/eee8eb5604ef8ad1ef4ab48b.json"
-    },
-    {
-      "id": "986ab394fcf839128be685b3",
-      "title": "Netanyahu presses Trump to renew aggression on Iran ahead of Israeli elections",
-      "url": "https://breakthroughnews.org/2026/10/15/netanyahu-presses-trump-to-renew-aggression-on-iran-ahead-of-israeli-elections",
-      "author": "Aseel Saleh",
-      "source": "BT News",
-      "published_at": "2026-10-15T22:38:46+00:00",
-      "content_excerpt": "Two weeks before the Israeli legislative elections scheduled on October 27, 2026, the far-right Israeli government, led by Prime Minister Benjamin Netanyahu, has revealed its intentions to further perpetuate and expand its three-year multi-front war across West Asia. On Tuesday, October 13, Netanyahu appeared in a televised speech during a visit to the apartheid wall established inside the occupied West Bank, threatening the Palestinian Authority. Standing near the Tulkarm refugee camp alongside Israel’s Defense Minister Israel Katz, the Israeli PM confirmed that the camp’s displaced residents, whom he described as “terrorists,” will not return to their homes despite an order from the Israeli Supreme Court authorizing their return. The Tulkarm Refugee Camp was among the three largest Pales",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/986ab394fcf839128be685b3.json"
-    },
-    {
-      "id": "c0cfbb4788b6660e0f30acd0",
-      "title": "US-Saudi war on Yemen was decades in the making",
-      "url": "https://breakthroughnews.org/2026/10/15/us-saudi-war-on-yemen-was-decades-in-the-making",
-      "author": "Layan Sima Fuleihan",
-      "source": "BT News",
-      "published_at": "2026-10-15T22:38:46+00:00",
-      "content_excerpt": "The war in the Middle East is widening and people around the world are feeling the impact. Resistance forces in Yemen have delivered crippling blows to key infrastructure in Saudi Arabia, a key US ally. Brian Becker and Layan Fuleihan discuss the roots of the war between Yemen and Saudi Arabia, how the current conflict was triggered by the unprovoked US-Israeli war against Iran, and how this conflict goes back several decades.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/c0cfbb4788b6660e0f30acd0.json"
-    },
-    {
-      "id": "546cbe43db09773a06696f1a",
-      "title": "Students Shut Down French High Schools in the Face of Class and Racial Oppression",
-      "url": "https://mronline.org/2026/10/15/students-shut-down-french-high-schools-in-face-of-class-and-racial-oppression",
-      "author": "Kevin B. Anderson",
-      "source": "MR Online",
-      "published_at": "2026-10-15T21:35:11+00:00",
-      "content_excerpt": "A new challenge from the left, and from the youngest of the youth, has been hurled at a racialized capitalist system which in France, as in so many other places, is moving in the direction of outright neofascism. The post Students Shut Down French High Schools in the Face of Class and Racial Oppression appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/546cbe43db09773a06696f1a.json"
-    },
-    {
-      "id": "89bf35d0a5682e641b39c966",
-      "title": "Inside the fight to stop Israel-bound weapons at the East Coast’s biggest port",
-      "url": "https://mondoweiss.net/2026/10/inside-the-fight-to-stop-israel-bound-weapons-at-the-east-coasts-biggest-port",
-      "author": "Joseph Mogul",
-      "source": "Mondoweiss",
-      "published_at": "2026-10-15T18:28:27+00:00",
-      "content_excerpt": "At Port Newark-Elizabeth, activists are escalating their tactics to stop weapons shipments to Israel. Mondoweiss reports from the port’s front lines.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/89bf35d0a5682e641b39c966.json"
-    },
-    {
-      "id": "b2f0c7643c10cf1d86c0cdb3",
-      "title": "A Referendum on Freedom w/Jane Fonda & Nadine Bloch",
-      "url": "https://convergencemag.com/podcast/a-referendum-on-freedom-w-jane-fonda-nadine-bloch",
-      "author": "Scot Nakagawa",
-      "source": "Convergence",
-      "published_at": "2026-10-15T17:10:49+00:00",
-      "content_excerpt": "When authoritarian regimes consolidate power, they come for the artists first because artists name what is happening, make people feel what is true, and keep moral imagination alive when everything else is being suppressed. In this episode, Scot talks with two people who have spent their lives at the intersection of art and resistance: Jane Fonda, one of the most consequential activist artists of… Source",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/b2f0c7643c10cf1d86c0cdb3.json"
     }
   ]
 }
