@@ -1,12 +1,147 @@
 {
-  "generated_at": "2026-10-17T21:37:08.186043+00:00",
-  "generated_at_jst": "2026-10-18T06:37:08.186043+09:00",
-  "period_start": "2026-10-16T15:37:08.186043+00:00",
+  "generated_at": "2026-10-18T21:40:34.565851+00:00",
+  "generated_at_jst": "2026-10-19T06:40:34.565851+09:00",
+  "period_start": "2026-10-17T15:40:34.565851+00:00",
   "lookback_hours": 30,
   "folder": "00_毎日確認",
-  "article_count": 20,
+  "article_count": 15,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "7ab3046b49857d556227dfd7",
+      "title": "University of California",
+      "url": "https://www.laprogressive.com/education-reform/university-of-california",
+      "author": "Joe Mathews",
+      "source": "LA Progressive",
+      "published_at": "2026-10-18T18:01:29+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Do you have a brilliant child who makes you proud—but is also a pain in the butt? So does the Golden State. Its great, infuriating child is the University of California. In her terrific new book, California Dreams: The Making and Remaking of the University of California , journalist and author Miriam Pawel (my former L.A. Times colleague) tags all the bases of UC history, from the university’s 1868 founding in the Berkeley Hills through its expansion into a $60 billion educational and economic engine encompassing 10 campuses, six health systems, and three national laboratories. But the book is really something more intimate: an examination of the fraught, familial relations",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/7ab3046b49857d556227dfd7.json"
+    },
+    {
+      "id": "57eeaf00dc3e5e8bd09cc4f9",
+      "title": "Jewish Identity",
+      "url": "https://www.laprogressive.com/law-and-justice/jewish-identity",
+      "author": "H. Scott Prosterman",
+      "source": "LA Progressive",
+      "published_at": "2026-10-18T17:41:25+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. On December 11, 2019, convicted felon Donald Trump signed Executive Order 13899 , which declared Judaism to be a separate “race” and “ethnicity;” and all Jews of common “national origin.” The purpose was to twist Title VI of the 1964 Civil Rights Act into a tool for speech suppression. It had the “hat trick” effect of patronizing Jews and persecuting Palestinians; and prosecuting an attack on free speech. Indirectly, this was a misappropriation of the Civil Rights Act, and it also undermines the prospects for a two-state solution between Israel and Palestinians. Despite 1000 years of pogroms, culminating with the Holocaust, most Jews have resisted being categorized as a spe",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/57eeaf00dc3e5e8bd09cc4f9.json"
+    },
+    {
+      "id": "1a1e494098657fd9f62bb1e1",
+      "title": "Charity Begins at Home",
+      "url": "https://www.laprogressive.com/progressive-issues/charity-begins-at-home",
+      "author": "Eva Amar",
+      "source": "LA Progressive",
+      "published_at": "2026-10-18T16:59:55+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. October is Domestic Violence Awareness Month, a time to recognize victims, honor survivors, and acknowledge the people and organizations that help them escape abuse. It is also an appropriate time to examine how organizations entrusted with protecting vulnerable people spend their resources. According to an October 13 investigation by the Los Angeles Times, 1736 Family Crisis Center, a Southern California nonprofit that receives nearly 94 percent of its revenue from government grants, provides its CEO, Carol Adelkoff, with a luxury Santa Monica apartment costing approximately $6,500 a month and a leased BMW for her use in Hawaii, where she maintains her primary residence. F",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/1a1e494098657fd9f62bb1e1.json"
+    },
+    {
+      "id": "eb5be5ec8cb903ce1e307830",
+      "title": "Double Standard on War Crimes",
+      "url": "https://www.laprogressive.com/law-and-justice/double-standard-on-war-crimes",
+      "author": "Marjorie Cohn",
+      "source": "LA Progressive",
+      "published_at": "2026-10-18T16:26:33+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. The U.S. government has long sought to incapacitate the International Criminal Court (ICC), the world’s first global court that was created to prosecute the most atrocious crimes. As the ICC seeks to provide accountability for Israeli crimes, the Trump administration has become increasingly aggressive in its attempts to hobble the court. On October 9, 2026, Team Trump imposed punitive sanctions against the court itself, which constitutes the gravest intensification of its war on the ICC. But there are several strategies available to mitigate the worst effects of these sanctions. Executive Order 14203, Signed February 2025 In February 2025, Donald Trump issued Executive Orde",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/eb5be5ec8cb903ce1e307830.json"
+    },
+    {
+      "id": "edf2bc102b7b035e81771732",
+      "title": "Jacobin Is International",
+      "url": "https://jacobin.com/2026/10/jacobin-international-europe-latin-america",
+      "author": "Asher Dupuy-Spencer",
+      "source": "Jacobin",
+      "published_at": "2026-10-18T14:09:06+00:00",
+      "content_excerpt": "Jacobin began in the United States, but our emancipatory project has always been internationalist. The questions we’re focused on — about who holds power in our societies, about how capitalism shapes our lives, and how working people can abolish class society — extend across borders. Alongside our English-language magazine, Jacobin publishes regularly in six other languages: Dutch: Jacobin Nederland Greek: Jacobin Greece German: Jacobin Magazin Italian: Jacobin Italia Portuguese: Jacobin Brasil , based in Brazil Spanish: Jacobin América Latina , based in Argentina We’re also working on launching editions in French, Romanian, and Urdu. We’ll share more as those projects develop. Building a socialist left means learning from struggles everywhere, and it means exchanges at a more theoretical ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/edf2bc102b7b035e81771732.json"
+    },
+    {
+      "id": "1031d8b3f502b6b46970cac0",
+      "title": "The Video Game Industry’s Crisis Is a Crisis of Capitalism",
+      "url": "https://jacobin.com/2026/10/montreal-video-game-developers-layoffs-unions",
+      "author": "Alexandre Paquet",
+      "source": "Jacobin",
+      "published_at": "2026-10-18T14:09:06+00:00",
+      "content_excerpt": "Montreal has been touted as a major creative hub for the video game industry for over twenty years, leading the province of Quebec’s efforts to develop its digital creative sector. The industry reportedly generates CAD$1.4 billion in annual revenues within the province, yet game workers feel the lack of job security more than ever. At the end of the summer, games workers rallied in Montreal to support the Bethesda employees affected by recent layoffs. Back in July, Microsoft announced it was eliminating 3,200 jobs within the Xbox division before the end of the year. Among the employees affected is Simon Préfontaine, a designer with over nine years under his belt at Bethesda Montreal. He explains that layoffs have become an annual occurrence across Xbox studios and the industry more broadly",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/1031d8b3f502b6b46970cac0.json"
+    },
+    {
+      "id": "aa33cc126ea37e69bdfc9158",
+      "title": "Anwar Shaikh Changed My Life",
+      "url": "https://jacobin.com/2026/10/shaikh-obituary-marxist-economics-teaching",
+      "author": "E. Ahmet Tonak",
+      "source": "Jacobin",
+      "published_at": "2026-10-18T14:09:06+00:00",
+      "content_excerpt": "Anwar Shaikh, one of the most important Marxist economists of his generation, died on October 6 at the age of eighty in New York City. Two years ago, a conference was held to mark his retirement from the Department of Economics at the New School for Social Research, where he had taught for fifty years. I was one of the speakers on the first panel. I opened my talk by adapting the famous first line of Orhan Pamuk’s Yeni Hayat ( The New Life ), knowing that Pamuk was one of Anwar’s favorite writers: “I met Anwar Shaikh, and my whole life changed!” That is truly what happened. After the 1971 military coup in Turkey, I went first to Sweden and then came to the United States. While doing political organizing with Turkish students in New York, I was also trying to finish a master’s degree in app",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/aa33cc126ea37e69bdfc9158.json"
+    },
+    {
+      "id": "29ba5ce762937da34a5ff591",
+      "title": "Tax the Rich and Slash the Military Budget",
+      "url": "https://jacobin.com/2026/10/inequality-taxation-defense-spending-welfare-state",
+      "author": "Nancy Folbre",
+      "source": "Jacobin",
+      "published_at": "2026-10-18T14:09:06+00:00",
+      "content_excerpt": "Here’s a question progressives get asked constantly: Fine, you want universal childcare, Medicare for All, and a green economy — but how are you going to pay for it? As part of the Game Changers project , economists Gerald Epstein and Aaron Medlin just answered it with a full accounting. They price out the thirty policies in the Game Changers initiative and show, line by line, how to fund them without adding a dime to the deficit — by taxing wealth and capital the same way the United States already taxes wages and by shrinking a military and immigration-enforcement budget that is both bloated and destructive. The burden of the increased taxes they propose would fall most heavily on those in the upper reaches of the top 1 percent. The Underlying Problem Let’s start with the scale of inequal",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/29ba5ce762937da34a5ff591.json"
+    },
+    {
+      "id": "4b37655b18c143ee5fd7d358",
+      "title": "The Political Economy of the Restaurant",
+      "url": "https://jacobin.com/2026/10/review-uk-restaurants-cuisine-class-empire",
+      "author": "Ed Luker",
+      "source": "Jacobin",
+      "published_at": "2026-10-18T14:09:06+00:00",
+      "content_excerpt": "English food does not have a good reputation. In 1806, Grimod de La Reynière, a pioneering French food critic, wrote that “[England’s] cooking is limited to boiled chickens.” More than two hundred years later, stereotypes about the country’s food have hardly improved. Looking at the staple icons of English cuisine today — fish and chips, the Sunday roast, the full English breakfast — one might agree with Grimod’s point. These dishes are brutish mounds of meat and carbs, the product of a culture that has often seemed more interested in excess than culinary refinement. They hardly suggest the level of technique and attention to simple, high-quality ingredients associated with French or Japanese food. It’s not only the nation’s cuisine that’s in a sorry state. Ultraprocessed food accounts for",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/4b37655b18c143ee5fd7d358.json"
+    },
     {
       "id": "ad9b798c8ff63d40a10a1eea",
       "title": "AI Is Coming for You, But You Can Fight Back: The Hidden Costs of Artificial Intelligence",
@@ -96,217 +231,6 @@
       "priority": 1,
       "date_missing": false,
       "article_path": "articles/810b74c0846d4a59d12a1a84.json"
-    },
-    {
-      "id": "43650950dec27d80bdc012f5",
-      "title": "January 6 Come on January 3",
-      "url": "https://www.laprogressive.com/law-and-justice/trump-2026-midterms-congress-constitutional-crisis",
-      "author": "Bill Blum",
-      "source": "LA Progressive",
-      "published_at": "2026-10-17T15:31:23+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Those who vote decide nothing. Those who count the vote decide everything.”— attributed to Joseph Stalin If the Trump administration fails to stop Democrats from taking back Congress in next month’s midterms, as nearly all major polls suggest, the MAGA cult is unlikely to accede quietly. The White House and its allies will file a flurry of lawsuits claiming election fraud, demand recounts across the country, pump out incessant propaganda about Chinese and Iranian cyber-interference, threaten to prosecute state election officials and perhaps even seize voting machines , among other gambits. Should these maneuvers fail, they will set the stage for a decisive “High Noon”-style",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/43650950dec27d80bdc012f5.json"
-    },
-    {
-      "id": "b4bf91c3b6105065f0ab2c09",
-      "title": "Exploring the Mirror World of the Chinese Internet",
-      "url": "https://jacobin.com/2026/10/china-tech-internet-censorship-great-firewall",
-      "author": "Yi-Ling Liu",
-      "source": "Jacobin",
-      "published_at": "2026-10-17T15:27:26+00:00",
-      "content_excerpt": "China’s internet is known for a vast system of censorship and surveillance that has evolved alongside its booming digital economy. Yet the story of the Chinese internet is not simply one of authoritarian control or unrestricted growth. In her book , The Wall Dancers: Searching for Freedom and Connection on the Chinese Internet , journalist and author Yi-Ling Liu explores how people navigate within the constantly shifting boundaries of censorship, carving out creative spaces for communities and political expression. In an interview with Jacobin , Liu talks about how the Chinese internet has evolved from a space of relative openness into an increasingly tightly controlled digital ecosystem, and how the Communist Party of China’s efforts to regulate online life intersect with its broader atte",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/b4bf91c3b6105065f0ab2c09.json"
-    },
-    {
-      "id": "523917250b54b1cf2c6b7ca2",
-      "title": "Curbing Cancerous Capitalism",
-      "url": "https://www.laprogressive.com/economic-equality/curbing-cancerous-capitalism",
-      "author": "Peter Laarman",
-      "source": "LA Progressive",
-      "published_at": "2026-10-17T15:01:26+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. A recent public webinar presented in tribute to the late great Rev. James M. Lawson, Jr. on his birthday reminded me that this latter-day prophet often invited us to use his term, “plantation capitalism,” to describe how things really work in the U.S. economy. In using this expression, Lawson did not mean to suggest that contemporary wealth creation depends on actual slavery—on human trafficking—although to some degree it clearly does . What he meant is that the economic operating system we inherit, in which mostly white men and white-adjacent men enjoy unlimited freedom to exploit others, is built upon a foundation laid by centuries of chattel slavery: centuries during whi",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/523917250b54b1cf2c6b7ca2.json"
-    },
-    {
-      "id": "aacf38f2221ce3b37423a604",
-      "title": "The Left Needs an Answer to the Center’s New Cold War Program",
-      "url": "https://jacobin.com/2026/10/centrism-china-cold-war-defense-spending-tech",
-      "author": "Caleb Brennan",
-      "source": "Jacobin",
-      "published_at": "2026-10-17T14:26:14+00:00",
-      "content_excerpt": "Between the Israeli genocide in Gaza and the calamitous stalemate of Donald Trump’s war in Iran, the American foreign policy consensus has been coming apart. Popular support for the United States’ violent foreign policy has reached an unprecedented nadir , as Americans increasingly recognize the downsides of maintaining a global empire. In particular, US military largesse has come at the cost of spending on domestic needs , and voters are increasingly unhappy about this trade-off. According to polling by ReThink Media and the Costs of War Project at Brown University, 59 percent of respondents found the Trump administration’s proposed 2027 Pentagon budget of $1.5 trillion to be excessive. This new epoch has ruptured elite unanimity over how the United States should proceed with its Atlas-li",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/aacf38f2221ce3b37423a604.json"
-    },
-    {
-      "id": "825100eee90ec7794650cc36",
-      "title": "The British State Is Dodging Accountability for the Troubles",
-      "url": "https://jacobin.com/2026/10/uk-labour-legislation-ireland-troubles-military",
-      "author": "Ethan Rooney",
-      "source": "Jacobin",
-      "published_at": "2026-10-17T13:23:54+00:00",
-      "content_excerpt": "Britain’s latest prime minister, Andy Burnham, raised hackles on his first trip to the North of Ireland when he declared a referendum on Irish unity to be “off the table.” Burnham may simply have intended to say that it wasn’t on the short-term agenda, since there is no sign as yet that a majority of people in the North would vote for a united Ireland. But his choice of words implied that it was for the British government to decide whether a referendum should happen, which angered nationalists. Burnham’s secretary of state for Northern Ireland, Chris Bryant, made another clumsy intervention when the unionist Orange Order tried to march down the nationalist Garvaghy Road in Portadown. The Parades Commission, which regulates all public parades in the North, had denied permission for the marc",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/825100eee90ec7794650cc36.json"
-    },
-    {
-      "id": "b7118c34aaefee763e701cc9",
-      "title": "Can the Boss’s Technology Dismantle the Boss’s Penthouse?A Case for Ecological Operaismo",
-      "url": "https://socialistforum.dsausa.org/issues/spring-summer-2026/can-the-bosss-technology-dismantle-the-bosss-penthousea-case-for-ecological-operaismo",
-      "author": "Socialist Forum",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-10-17T12:18:13+00:00",
-      "content_excerpt": "“The smarter our life, the less control we have over it.” —Jathan Sadowski [1] In a world where Big Tech too often sets the terms and conditions of basic human interaction within and beyond the workplace, more and more people are wondering how many of the supposedly “necessary” or “inevitable” algorithmic technologies we really need. Is it even possible for this digital machinery to serve the long-term interests of the many instead of the short-term interests of the few? For French Marxist philosopher and first-wave eco-socialist André Gorz, the answer, in many cases, was no. “It is only because capital needs consumers for its products that production also serves human needs,” he wrote. But “they are needs and desires which have been produced to satisfy capital’s need for profitability.” [",
-      "source_folders": [
-        "00_毎日確認",
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/b7118c34aaefee763e701cc9.json"
-    },
-    {
-      "id": "ff70b16ab45d6c8fefa81c23",
-      "title": "Bryan Stevenson: America Cannot Repair Racial Injustice Until It Confronts the Lies That Sustain It",
-      "url": "https://www.laprogressive.com/racism/bryan-stevenson-gavin-newsom-on-reparations",
-      "author": "Sharon Kyle",
-      "source": "LA Progressive",
-      "published_at": "2026-10-17T07:01:11+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. The Civil War ended slavery, but it did not end the ideas that made slavery possible. That distinction, according to civil rights attorney Bryan Stevenson, helps explain why racial injustice has remained a permanent fixture in American institutions long after the abolition of slavery, the end of Jim Crow, and the victories of the civil rights movement. Speaking with California Governor Gavin Newsom in Montgomery, Alabama, Stevenson offered an analysis of American history that challenges conventional accounts of racial progress. The country's central failure, he argued, has not simply been its unwillingness to acknowledge particular atrocities. It has been its refusal to con",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/ff70b16ab45d6c8fefa81c23.json"
-    },
-    {
-      "id": "6541487462f7367d67d86102",
-      "title": "Palestinians Face Down the Israeli Genocid",
-      "url": "https://www.laprogressive.com/left-coast-forum/palestinians-face-down-the-israeli-genocid",
-      "author": "Ramzy Baroud, Robert Corsini, Dick Price, Sharon Kyle",
-      "source": "LA Progressive",
-      "published_at": "2026-10-17T05:51:58+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. On October 3, 2026, Palestinian American journalist, author, and historian Ramzy Baroud delivered a powerful keynote address at the Fourth Annual Left Coast Forum at California State University, Los Angeles. Speaking about Israel's genocide in Gaza and the Palestinian struggle for liberation, Baroud combined family history, anti-colonial analysis, and an urgent call for international solidarity. His central message was unmistakable: Palestinians are not simply victims of history. They are active participants in shaping it, and their refusal to disappear represents a fundamental challenge to the colonial system seeking to displace them. Ramzy Baroud: Left Coast Forum (49:29)",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/6541487462f7367d67d86102.json"
-    },
-    {
-      "id": "12b6693fa53f1737d374109f",
-      "title": "Rubber Bullets",
-      "url": "https://www.laprogressive.com/law-and-justice/rubber-bullets",
-      "author": "Cerise Castle",
-      "source": "LA Progressive",
-      "published_at": "2026-10-16T23:01:41+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Tucker Collins, 19, has undergone a series of changes since last year. He started his freshman year as an astronautical engineering student at the University of Southern California. He moved to a new part of Los Angeles. And on March 28, he lost an eye from an injury sustained at a protest against federal immigration enforcement. That afternoon, the amateur photographer and filmmaker decided to go to a No Kings protest in downtown Los Angeles with a new camera his parents gave him as a Christmas gift, he told Capital & Main. He was there to film and photograph Department of Homeland Security agents who have carried out a series of aggressive immigration raids under Presiden",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/12b6693fa53f1737d374109f.json"
-    },
-    {
-      "id": "4f491be15b4054e644f4d256",
-      "title": "Considerations for the Utah 2026 General Election",
-      "url": "https://saltlakedsa.org/2026/10/16/considerations-for-the-utah-2026-general-election",
-      "author": "Democratic Socialists of Salt Lake",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-10-16T23:01:19+00:00",
-      "content_excerpt": "This post is a shared statement by Salt Lake DSA’s Electoral Working Group explaining how we’re thinking about the upcoming election in Utah. Introduction The 2026 general election is fast approaching, and once again the working class faces a crucial question: how should we participate in an electoral system structured to disempower us? As always, voting is neither the beginning nor the end of politics. Building a better future requires building collective power to take action and affect the conditions of our lives year-round. Nevertheless, voting plays a distinct and important role in expanding our capacity to organize and advance the socialist movement. Our enemies understand this. The far-right Trump regime has continually sought to undermine elections , threaten voters , and attack lef",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/4f491be15b4054e644f4d256.json"
-    },
-    {
-      "id": "3e3e79cf4fedd2c260acfbf2",
-      "title": "UAW President Shawn Fain, International Executive Board Sworn In for New Four-Year Term",
-      "url": "https://uaw.org/uaw-president-shawn-fain-international-executive-board-sworn-in-for-new-four-year-term",
-      "author": "Justin Mayhugh",
-      "source": "UAW",
-      "published_at": "2026-10-16T19:10:55+00:00",
-      "content_excerpt": "United Auto Workers (UAW) President Shawn Fain and the union’s newly elected International Executive Board (IEB) were sworn into office for a new four-year term in a ceremony honoring the will of the membership and reaffirming the union’s commitment to fighting for its members and all working-class people. Press is encouraged to use photos from the swearing-in ceremony . The ceremony marked the beginning of a new term for Fain and the International Executive Board, who pledged to faithfully serve the union’s membership and advance the interests of UAW members, families, and their communities. UAW member and longtime union leader Paul Caucci administered the oath of office to Fain, who begins his second term as International Union president. Fain then administered the constitutional obligat",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/3e3e79cf4fedd2c260acfbf2.json"
-    },
-    {
-      "id": "6425eefdbf9aefe81309cf95",
-      "title": "Economics News for Workers, October 2026",
-      "url": "https://www.ueunion.org/ue-news/2026/economics-news-for-workers-october-2026",
-      "author": "",
-      "source": "UE NEWS Updates | UE",
-      "published_at": "2026-10-16T18:40:23+00:00",
-      "content_excerpt": "On September 16, the Federal Reserve Board raised its benchmark interest rate by a quarter of a percent, the first rate hike in three years. Minutes from the meeting which were released in early October indicate that the board of governors expects to impose another rate increase before the end of the year. They meet again on October 28 and December 9. The rate increase, while justified as a means to fight inflation, was primarily meant to reassure international financial markets that the U.S. will make good on its debt, which has spiraled due to the combination of tax cuts for the wealthy and military spending. Higher interest rates are essentially a tax imposed on working people, who will pay higher rates on credit cards and mortgages while also bearing the brunt of slower job growth. (Wh",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/6425eefdbf9aefe81309cf95.json"
-    },
-    {
-      "id": "1e9a187e065f0afd1f441989",
-      "title": "Dattner’s Architects Say They Want a Union",
-      "url": "https://jacobin.com/2026/10/dattner-architects-union-iam-nyc",
-      "author": "Alex N. Press",
-      "source": "Jacobin",
-      "published_at": "2026-10-16T18:15:44+00:00",
-      "content_excerpt": "On the west side of Manhattan, near the entrance to the Holland Tunnel, there is a nearly seventy-foot-tall concrete building containing five thousand tons of road salt. The walls of the Spring Street Salt Shed slope inward and outward in enormous pale planes; the whole thing is meant to resemble a grain of salt. Across the street stands a much larger garage that accommodates more than 150 sanitation vehicles, its long facades covered in glass and aluminum louvers. The two buildings were designed together, an attempt to make a sprawling sanitation facility fit into a residential neighborhood where residents had initially fought its construction. Writing about the complex in 2016, Architectural Record called the shed “as compelling as many pieces of public art in Manhattan.” The Salt Shed i",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/1e9a187e065f0afd1f441989.json"
-    },
-    {
-      "id": "058de4725cd9deda74b4e8a7",
-      "title": "More Than Ball Fields",
-      "url": "https://www.laprogressive.com/los-angeles-2/more-than-ball-fields",
-      "author": "Bill Gould",
-      "source": "LA Progressive",
-      "published_at": "2026-10-16T17:26:32+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. For generations of Altadena families, Charles S. Farnsworth Park has been much more than ballfields at the foot of the San Gabriel Mountains. It has been one of the places where Altadena comes together. Children learned to throw and catch there, parents watched from the stands, coaches became mentors and neighbors became friends. But Farnsworth has always served a broader community. Its playgrounds, tennis and pickleball courts and basketball courts provided recreation for all ages. The historic Davies Building and amphitheater hosted plays, concerts, voting and community celebrations. Farnsworth was not simply a park; it was part of Altadena’s civic life. As someone whose ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/058de4725cd9deda74b4e8a7.json"
     }
   ]
 }

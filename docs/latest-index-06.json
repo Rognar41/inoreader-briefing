@@ -1,27 +1,26 @@
 {
-  "generated_at": "2026-10-17T21:37:08.186043+00:00",
-  "generated_at_jst": "2026-10-18T06:37:08.186043+09:00",
-  "period_start": "2026-10-16T15:37:08.186043+00:00",
+  "generated_at": "2026-10-18T21:40:34.565851+00:00",
+  "generated_at_jst": "2026-10-19T06:40:34.565851+09:00",
+  "period_start": "2026-10-17T15:40:34.565851+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
-  "article_count": 13,
+  "article_count": 3,
   "excerpt_chars": 800,
   "articles": [
     {
-      "id": "b7118c34aaefee763e701cc9",
-      "title": "Can the Boss’s Technology Dismantle the Boss’s Penthouse?A Case for Ecological Operaismo",
-      "url": "https://socialistforum.dsausa.org/issues/spring-summer-2026/can-the-bosss-technology-dismantle-the-bosss-penthousea-case-for-ecological-operaismo",
-      "author": "Socialist Forum",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-10-17T12:18:13+00:00",
-      "content_excerpt": "“The smarter our life, the less control we have over it.” —Jathan Sadowski [1] In a world where Big Tech too often sets the terms and conditions of basic human interaction within and beyond the workplace, more and more people are wondering how many of the supposedly “necessary” or “inevitable” algorithmic technologies we really need. Is it even possible for this digital machinery to serve the long-term interests of the many instead of the short-term interests of the few? For French Marxist philosopher and first-wave eco-socialist André Gorz, the answer, in many cases, was no. “It is only because capital needs consumers for its products that production also serves human needs,” he wrote. But “they are needs and desires which have been produced to satisfy capital’s need for profitability.” [",
+      "id": "13a4d55f550446bac383424f",
+      "title": "I’m a journalist. Israel detained me for documenting the olive harvest in the West Bank.",
+      "url": "https://mondoweiss.net/2026/10/im-a-journalist-israel-detained-me-for-documenting-the-olive-harvest-in-the-west-bank",
+      "author": "Ricardo Esteves Ribeiro",
+      "source": "Mondoweiss",
+      "published_at": "2026-10-18T13:34:57+00:00",
+      "content_excerpt": "Israel is detaining international observers for one simple reason: to prevent us from reporting on its ethnic cleansing project in Palestine.",
       "source_folders": [
-        "00_毎日確認",
         "06_左派ニュース・社会主義戦略"
       ],
-      "priority": 1,
+      "priority": 2,
       "date_missing": false,
-      "article_path": "articles/b7118c34aaefee763e701cc9.json"
+      "article_path": "articles/13a4d55f550446bac383424f.json"
     },
     {
       "id": "7343e9b4bcb59b462acf186f",
@@ -52,156 +51,6 @@
       "priority": 2,
       "date_missing": false,
       "article_path": "articles/0c9a9734c6ece36f7371de61.json"
-    },
-    {
-      "id": "0f9a10d7bc926c848912ae3b",
-      "title": "Sally Rooney’s books withdrawn from UK market over Palestine solidarity",
-      "url": "https://mronline.org/2026/10/17/sally-rooneys-books-withdrawn-from-uk-market-over-palestine-solidarity",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-17T13:34:54+00:00",
-      "content_excerpt": "Irish novelist Sally Rooney’s publisher has halted UK distribution of her books, citing terrorism legislation linked to her Palestine Action support. The post Sally Rooney’s books withdrawn from UK market over Palestine solidarity appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/0f9a10d7bc926c848912ae3b.json"
-    },
-    {
-      "id": "1dbc892b456c24d4d83ec0ce",
-      "title": "The dangerous advance of the far Right in Latin America: U.S. hegemony, Israeli expansion, and Evangelical Zionism in the face of resistance",
-      "url": "https://mronline.org/2026/10/17/the-dangerous-advance-of-the-far-right-in-latin-america-u-s-hegemony-israeli-expansion-and-evangelical-zionism-in-the-face-of-resistance",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-17T12:40:21+00:00",
-      "content_excerpt": "Latin America’s far-right turn is consolidating a hemispheric bloc aligned with Washington and Tel Aviv, driven by US interventionism, the Isaac Accords, Christian Zionism and Israeli security technology. The post The dangerous advance of the far Right in Latin America: U.S. hegemony, Israeli expansion, and Evangelical Zionism in the face of resistance appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/1dbc892b456c24d4d83ec0ce.json"
-    },
-    {
-      "id": "8d48a4b81d097005d03da65e",
-      "title": "ICE spies on unions and enforces the Cuba blockade",
-      "url": "https://mronline.org/2026/10/17/ice-spies-on-unions-and-enforces-the-cuba-blockade",
-      "author": "Gary Wilson",
-      "source": "MR Online",
-      "published_at": "2026-10-17T11:44:58+00:00",
-      "content_excerpt": "The federal agents who searched Rep. Ilhan Omar’s home on Oct. 12 belong to the same agency that is seizing fuel bound for Cuba. The post ICE spies on unions and enforces the Cuba blockade appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/8d48a4b81d097005d03da65e.json"
-    },
-    {
-      "id": "2e45b3006fb3692bcc3f12b2",
-      "title": "ALL art is political when you live in a genocidal dystopia",
-      "url": "https://mronline.org/2026/10/17/all-art-is-political-when-you-live-in-a-genocidal-dystopia",
-      "author": "Caitlin A. Johnstone",
-      "source": "MR Online",
-      "published_at": "2026-10-17T10:38:31+00:00",
-      "content_excerpt": "I have no respect for this idea that art is somehow separable from politics. ALL art is political when you live in a genocidal dystopia, because all your expression exists in relation to our freakish civilization. The post ALL art is political when you live in a genocidal dystopia appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/2e45b3006fb3692bcc3f12b2.json"
-    },
-    {
-      "id": "f04881ba9dc55c5887077d53",
-      "title": "Back to Keynes for ‘the good life’",
-      "url": "https://mronline.org/2026/10/17/back-to-keynes-for-the-good-life",
-      "author": "Michael Roberts",
-      "source": "MR Online",
-      "published_at": "2026-10-17T09:36:25+00:00",
-      "content_excerpt": "There is a new play in London’s West End at the moment. The post Back to Keynes for ‘the good life’ appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/f04881ba9dc55c5887077d53.json"
-    },
-    {
-      "id": "877c73db358813851adb0f9f",
-      "title": "China, BRICS & Brazil: what Lula vs. Bolsonaro means for the Global South",
-      "url": "https://breakthroughnews.org/2026/10/16/china-brics-brazil-what-lula-vs-bolsonaro-means-for-the-global-south",
-      "author": "Amanda Yee",
-      "source": "BT News",
-      "published_at": "2026-10-17T01:21:29+00:00",
-      "content_excerpt": "As Brazil heads into the October 25 runoff election between President Luiz Inácio Lula da Silva and Flávio Bolsonaro, the country stands as a crucial battleground in Washington’s strategy to contain China, as well as global geopolitics. What does this election mean for the future of China-Brazil ties, the BRICS alliance, and independent technological sovereignty across the Global South? Tings Chak – researcher, writer, and art director for the Tricontinental: Institute for Social Research – joins Amanda Yee to break down the two competing paths for Brazil represented by Lula and Bolsonaro. Read Chak’s article: “How Brazil’s election could reshape relations with China”",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/877c73db358813851adb0f9f.json"
-    },
-    {
-      "id": "934d3ee00767aad8dcf96ea2",
-      "title": "In the crosshairs of AI (part two)",
-      "url": "https://tempestmag.org/2026/10/in-the-crosshairs-of-ai-part-two",
-      "author": "Ashley Smith",
-      "source": "Tempest",
-      "published_at": "2026-10-16T22:56:56+00:00",
-      "content_excerpt": "I n their mad rush for profit and power, the tech oligarchs have unleashed artificial intelligence (AI) into nearly every corner of life on this planet. Firms are investing billions in data centers, which house the infrastructure to process the enormous amounts of information that power AI. They are also plowing ever more money into research and development. Their hope is that the technology will overcome global capitalism’s slump , which the system has been trapped in since the Great Recession, and trigger a new epoch of expansion. States are incorporating it into their police forces for domestic surveillance as well as their militaries for cyberwarfare and high-tech weapons. Ominously, the struggle for AI supremacy is now at the center of the imperialist rivalry between the U.S. and Chin",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/934d3ee00767aad8dcf96ea2.json"
-    },
-    {
-      "id": "63f4739d1be5634498dc024a",
-      "title": "Palestinian prisoner Dana Joudeh gave birth shackled to a bed, with a rifle pointed at her",
-      "url": "https://breakthroughnews.org/2026/10/16/palestinian-prisoner-dana-joudeh-gave-birth-shackled-to-a-bed-with-a-rifle-pointed-at-her",
-      "author": "Aseel Saleh",
-      "source": "BT News",
-      "published_at": "2026-10-16T22:24:04+00:00",
-      "content_excerpt": "When Dana Joudeh , 35, went into labor in mid-September, she was six months pregnant and being held at Israel’s Damon Prison. Her daughter, Lia, was born premature, and her family says she gave birth shackled to a bed, with a rifle pointed at her. Joudeh spent almost her entire pregnancy in Damon prison, held under a six-month administrative detention order. There she endured the conditions Palestinian prisoners have described since October 2023: medical neglect, inadequate healthcare, food deprivation, and sharp cuts to hygiene supplies. Read more: “We are here to kill you”: Released Palestinian prisoner exposes torture and medical neglect in Israeli prisons A day after giving birth, Dana and Lia were released from Damon Prison. Their time in detention exposed blatant Israeli violations, ",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/63f4739d1be5634498dc024a.json"
-    },
-    {
-      "id": "fc52a828eb09169ad30018c1",
-      "title": "Mayor Mamdani can stop the sale of stolen Palestinian land",
-      "url": "https://mondoweiss.net/2026/10/mayor-mamdani-can-stop-the-sale-of-stolen-palestinian-land",
-      "author": "Pal-Awda NY/NJ",
-      "source": "Mondoweiss",
-      "published_at": "2026-10-16T20:34:01+00:00",
-      "content_excerpt": "The Palestine solidarity movement is exerting pressure on illegal Palestinian land sales in New York and New Jersey, but only Mayor Mamdani can ban them once and for all.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/fc52a828eb09169ad30018c1.json"
-    },
-    {
-      "id": "e54978d9cd69d4997f92f68d",
-      "title": "Hundreds of US soldiers being deployed to Latin America, according to NYT",
-      "url": "https://breakthroughnews.org/2026/10/16/hundreds-of-us-soldiers-being-deployed-to-latin-america-according-to-nyt",
-      "author": "Pablo Meriguet",
-      "source": "BT News",
-      "published_at": "2026-10-16T19:38:53+00:00",
-      "content_excerpt": "The New York Times reported on Wednesday that the US government is preparing to send troops to Latin America under the pretext of combating drug trafficking in the region. According to the US publication , 600 troops from the 10th Mountain Division at Fort Drum, NY, have already begun deploying to the jungles of Panama to conduct exercises alongside the local military. In addition, it was reported that members of this detachment will participate in operations in other countries in the future: “The troops will eventually train with local forces in Colombia and Honduras, and could also support US Special Operations troops advising militaries conducting raids against accused drug traffickers, the officials said.” The peoples of the region, alongside anti-imperialist and progressive forces, ha",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/e54978d9cd69d4997f92f68d.json"
     }
   ]
 }
