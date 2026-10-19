@@ -1,56 +1,281 @@
 {
-  "generated_at": "2026-10-18T21:40:34.565851+00:00",
-  "generated_at_jst": "2026-10-19T06:40:34.565851+09:00",
-  "period_start": "2026-10-17T15:40:34.565851+00:00",
+  "generated_at": "2026-10-19T22:59:47.235068+00:00",
+  "generated_at_jst": "2026-10-20T07:59:47.235068+09:00",
+  "period_start": "2026-10-18T16:59:47.235068+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
-  "article_count": 3,
+  "article_count": 18,
   "excerpt_chars": 800,
   "articles": [
     {
-      "id": "13a4d55f550446bac383424f",
-      "title": "I’m a journalist. Israel detained me for documenting the olive harvest in the West Bank.",
-      "url": "https://mondoweiss.net/2026/10/im-a-journalist-israel-detained-me-for-documenting-the-olive-harvest-in-the-west-bank",
-      "author": "Ricardo Esteves Ribeiro",
+      "id": "cd3f5725fc7fbd5b40c032c8",
+      "title": "BT LIVE: Europe’s Youth Uprising | Mercenaries in the DRC | Justice for Nolan Wells",
+      "url": "https://breakthroughnews.org/2026/10/19/october-20-26",
+      "author": "BreakThrough News",
+      "source": "BT News",
+      "published_at": "2026-10-19T22:37:37+00:00",
+      "content_excerpt": "This content is for members only. Visit the site and log in/register to read.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/cd3f5725fc7fbd5b40c032c8.json"
+    },
+    {
+      "id": "e4ea2c13c626586ee3f08f10",
+      "title": "Food aid cut for half a million Palestinians in Gaza, as fatal Israeli strikes continue",
+      "url": "https://breakthroughnews.org/2026/10/19/food-aid-cut-for-half-a-million-palestinians-in-gaza-as-fatal-israeli-strikes-continue",
+      "author": "Aseel Saleh",
+      "source": "BT News",
+      "published_at": "2026-10-19T22:37:37+00:00",
+      "content_excerpt": "At least eight Palestinians, including four children, were killed in Israeli assaults in different parts of the Gaza Strip over the last two days. On Monday, October 19, Israeli forces launched drone strikes on north-central Gaza City and the southern city of Khan Younis, killing a Palestinian man and two children. One day earlier, five Palestinians were killed and several others were injured in Israeli shelling and gunfire across the besieged enclave. This includes two children, who were shot dead by Israeli soldiers in separate attacks. One of the slain children was identified as 13-year-old Tamer Soboh , who was killed in the northern city of Beit Lahia; the other was Misk al-Dalu , who died after Israeli troops opened fire at tents sheltering displaced people in al-Maghazi refugee camp",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/e4ea2c13c626586ee3f08f10.json"
+    },
+    {
+      "id": "2c4c67cac25ff53bf2544063",
+      "title": "Curfews imposed in French cities as rebellion against austerity grows nationwide",
+      "url": "https://breakthroughnews.org/2026/10/19/curfews-imposed-in-french-cities-as-rebellion-against-austerity-grows-nationwide",
+      "author": "Ana Vračar",
+      "source": "BT News",
+      "published_at": "2026-10-19T19:46:22+00:00",
+      "content_excerpt": "Mass mobilizations against austerity policies and their effects are not winding down in France. On Saturday, October 17 , roughly 800,000 people joined protests across more than 1,700 assembly points, according to union figures – amplifying demands tabled over a month of student protests and demanding urgent action on the cost of living crisis. In the aftermath of the protests, the government expanded local authorities’ powers to introduce curfews. This led to overnight movement limitation orders introduced in several cities, including central parts of Paris, Lille, Lyon, and Nice. Many of the curfews target young people in particular, reflecting institutional concern about the success of their recent mobilizations. Over the past weeks, students launched a wave of school strikes and occupa",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/2c4c67cac25ff53bf2544063.json"
+    },
+    {
+      "id": "ce416f74ea6e546d4764c6e0",
+      "title": "Capitalism, Peasants, Family Farms: A Bibliographical Essay",
+      "url": "https://www.historicalmaterialism.org/9930-2",
+      "author": "Panagiotis Sotiris",
+      "source": "Historical Materialism",
+      "published_at": "2026-10-19T19:07:15+00:00",
+      "content_excerpt": "By the end of 2015 some forty percent or more of China’s rural workforce was thought to consist of roughly 250 million peasant migrants known as mingong, a cross between nongmin (peasant) and gongren (worker). They are ‘socialist’ China’s version of Fanon’s ‘wretched of the earth’, a drastically uprooted peasantry forced to survive on ‘dirty, dangerous and demeaning’ jobs in mining, construction and other sectors and seen by state and middle class alike as a ‘tidal wave’ threatening to flood their cities (Schultz 2018). In films like Still Life (by the brilliant director Jia Zhangke), they are neither peasants nor workers but a massive reservoir of commodified bodies with no real sense of their past lives, since the places they grew up in lie effaced in submerged landscapes, and no sense o",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/ce416f74ea6e546d4764c6e0.json"
+    },
+    {
+      "id": "08565db68638a388b32f1e29",
+      "title": "Students across the US South demand justice for Nolan Wells",
+      "url": "https://breakthroughnews.org/2026/10/19/students-across-the-us-south-demand-justice-for-nolan-wells",
+      "author": "Devin B. Martinez",
+      "source": "BT News",
+      "published_at": "2026-10-19T18:41:59+00:00",
+      "content_excerpt": "Calls for justice and for the reopening of Nolan Wells’ case are mounting after a grand jury declined to bring criminal charges, despite the question of Wells’ cause of death remaining unanswered. Wells, a young Black student at Southwest Mississippi Community College, went on a boating trip on July 4 to Horn Island, just off the coast of Mississippi, with several white friends. He never returned. His friends, who returned to the mainland with Wells’ cell phone but without him, claimed he chose to stay behind. Wells’ body was found in the water near Horn Island two days later. A state medical examiner declared the 18-year-old’s cause of death “undetermined.” The grand jury, however, claimed that the conditions of his death were “consistent with drowning.” When the autopsy reports were publ",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/08565db68638a388b32f1e29.json"
+    },
+    {
+      "id": "1b1ca63bcc31519f0d2797b7",
+      "title": "Iran says its peace proposal is still on the table, warns the US and Israel against a ‘miscalculation’",
+      "url": "https://breakthroughnews.org/2026/10/19/iran-says-its-peace-proposal-is-still-on-the-table-warns-the-us-and-israel-against-a-miscalculation",
+      "author": "Abdul Rahman",
+      "source": "BT News",
+      "published_at": "2026-10-19T18:41:59+00:00",
+      "content_excerpt": "Iranian Foreign Minister Abbas Araghchi reiterated that his country’s proposal to end the war with the US and to restart nuclear negotiations is “still on the table,” claiming the Iranian conditions are “completely clear” and “unchanging.” Talking to Iranian state media on the sidelines of the 52nd session of the Council of Foreign Ministers of the Organization of Islamic Cooperation (OIC) in Baghdad on Sunday, October 18, Araghchi also said that Iran is currently studying the US response to its proposals. If the US meets its conditions, “the Strait of Hormuz will be reopened on the sixth day, and negotiations will resume on the seventh,” Araghchi said. Though Araghchi did not talk about them explicitly, he reiterated that the Iranian conditions are the same as what the US had agreed to un",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/1b1ca63bcc31519f0d2797b7.json"
+    },
+    {
+      "id": "64ca673d51deedb8389655e3",
+      "title": "Can AIPAC stop an El-Sayed victory in Michigan?",
+      "url": "https://mondoweiss.net/2026/10/can-aipac-stop-an-el-sayed-victory-in-michigan",
+      "author": "Michael Arria",
       "source": "Mondoweiss",
-      "published_at": "2026-10-18T13:34:57+00:00",
-      "content_excerpt": "Israel is detaining international observers for one simple reason: to prevent us from reporting on its ethnic cleansing project in Palestine.",
+      "published_at": "2026-10-19T17:30:48+00:00",
+      "content_excerpt": "AIPAC recently spent $100,000 on mailers targeting Abdul El-Sayed in Michigan's Senate race. Is it too little, too late?",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/13a4d55f550446bac383424f.json"
+      "article_path": "articles/64ca673d51deedb8389655e3.json"
     },
     {
-      "id": "7343e9b4bcb59b462acf186f",
-      "title": "One barricade after another: How protesters marched on the garrisoned heart of India’s capital",
-      "url": "https://breakthroughnews.org/2026/10/17/one-barricade-after-another-how-protesters-marched-on-the-garrisoned-heart-of-indias-capital",
-      "author": "Pavan Kulkarni",
-      "source": "BT News",
-      "published_at": "2026-10-17T18:58:45+00:00",
-      "content_excerpt": "60,000 security personnel were deployed across India’s national capital on October 10.​ This included the police of Delhi and neighboring states, as well as paramilitary forces pulled from regions of India affected by armed insurgencies. They sealed off central Delhi to stop protesters opposing the mass disenfranchisement of 130 million voters from reaching Jantar Mantar, the designated protest site on Parliament Street.​ The railways cancelled over 250 trains to Delhi. “So far as I remember, it has never happened in the history of Indian Railways that so many trains were cancelled just because of a protest or agitation,” said Shiv Gopal Mishra, general secretary of the All India Railwaymen’s Federation (AIRF).​ Scores of activists already travelling to the national capital from other stat",
+      "id": "40a5ed3a0d2caff2328f5847",
+      "title": "‘The Nerd Reich’ – Jesse Welles",
+      "url": "https://mronline.org/2026/10/19/the-nerd-reich-jesse-welles",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-19T16:58:09+00:00",
+      "content_excerpt": "Listen up. The post ‘The Nerd Reich’ – Jesse Welles appeared first on MR Online .",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/7343e9b4bcb59b462acf186f.json"
+      "article_path": "articles/40a5ed3a0d2caff2328f5847.json"
     },
     {
-      "id": "0c9a9734c6ece36f7371de61",
-      "title": "South Africa anti-immigrant protests turns violent",
-      "url": "https://breakthroughnews.org/2026/10/17/south-africa-anti-immigrant-protests-turns-violent",
-      "author": "Nicholas Mwangi",
-      "source": "BT News",
-      "published_at": "2026-10-17T16:52:54+00:00",
-      "content_excerpt": "Last week, anti-immigrant protests in South Africa turned violent, with looting, destruction of property, and reports of 24 vehicles being burnt as tensions escalated in Johannesburg and Durban. The unrest followed growing anger over a government directive on asylum applications, which the Department of Home Affairs has since withdrawn. The directive, issued on September 28, instructed Refugee Reception Offices (RROs) to process all asylum applications immediately. Massive queues of foreign nationals subsequently formed at immigration offices, which were met with demonstrations and violence from anti-immigrant groups. Protests were reported in Soweto township, Johannesburg, and Durban, in KwaZulu-Natal province. Demonstrations in Durban continued for a second day, prompting police to stren",
+      "id": "88b2e7c56dbe2b6e9971ac98",
+      "title": "French Gov’t Cracks Down on Mass Protests over Cost of Living, Education Cuts; 2,400+ Arrested",
+      "url": "https://www.democracynow.org/2026/10/19/france_student_protests",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-10-19T15:22:32+00:00",
+      "content_excerpt": "Hundreds of thousands of protesters marched in over 140 cities across France on Saturday, demanding relief from the high cost of living, more funding for public services and improvements to deteriorating schools, among other grievances. The demonstrations were the latest — and largest — in a series of protests that began in September with high schooler-led demonstrations against overcrowded classrooms and crumbling school infrastructure. Some cities saw property destruction, arson and theft on Saturday, with city halls and other symbols of the state coming under attack. Officials said nearly 1,000 police officers were injured and some 2,400 people were arrested. “What is frustrating to see is how little the police violence is addressed and talked about, which is really the main violence an",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/0c9a9734c6ece36f7371de61.json"
+      "article_path": "articles/88b2e7c56dbe2b6e9971ac98.json"
+    },
+    {
+      "id": "2168ecf6a210765071455e4d",
+      "title": "Masked Israeli Settlers Nearly Kill Washington Post Journalist as Attacks on Palestinians Escalate",
+      "url": "https://www.democracynow.org/2026/10/19/west_bank_journalists",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-10-19T15:22:32+00:00",
+      "content_excerpt": "Israeli settlers backed by IDF soldiers brutally assaulted Palestinian olive farmers in the village of Abu Falah, northeast of Ramallah, on Friday. Witnesses say dozens of masked Israeli settlers armed with clubs, sticks, slingshots and guns hurled rocks at Palestinian farmers, set olive trees ablaze and drove people from their fields. Veteran Washington Post photojournalist Heidi Levine, a 64-year-old American, was documenting the attack when settlers began beating her. She suffered stab wounds, a broken rib, four broken vertebrae and a severe hand injury. Levine was wearing a clearly marked press vest and a helmet at the time of the attack. According to the Israeli human rights group Yesh Din, Israeli settlers have carried out at least 170 attacks against Palestinians in the occupied Wes",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/2168ecf6a210765071455e4d.json"
+    },
+    {
+      "id": "67a782acfa194add40eafbee",
+      "title": "Juan Francisco Solórzano Foppa: Prominent Anti-Corruption Lawyer in Guatemala Assassinated",
+      "url": "https://www.democracynow.org/2026/10/19/guatemala",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-10-19T15:22:32+00:00",
+      "content_excerpt": "The prominent Guatemalan anti-corruption lawyer Juan Francisco Solórzano Foppa was fatally shot along with another man on Saturday at a sports center in Guatemala City. For years, Solórzano Foppa had been outspoken against Guatemala’s most powerful politicians, business leaders and companies. He was known for his anti-corruption work as head of the Criminal Investigations Directorate within the Public Prosecutor’s Office and later as head of Guatemala’s tax authority, when he helped prosecute dozens of powerful Guatemalan business figures. “In more recent years, he developed a social media presence, and he was forcefully denouncing corruption,” says Roman Gressier, a journalist based in Guatemala City. “We were thinking about [the killing of Solórzano Foppa] not only as an assassination, b",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/67a782acfa194add40eafbee.json"
+    },
+    {
+      "id": "abb9b72c0b79d617941878e9",
+      "title": "Shackled and defiant, Maduro and Flores reject new bogus charges",
+      "url": "https://mronline.org/2026/10/19/shackled-and-defiant-maduro-and-flores-reject-new-bogus-charges",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-19T13:57:09+00:00",
+      "content_excerpt": "Venezuelan President Nicolás Maduro Moros and First Combatant Cilia Adela Flores were brought to a federal court in Manhattan this morning shackled and defiant. Facing Judge Alvin Hellerstein, both prisoners of war were arraigned on phony charges of torture. The post Shackled and defiant, Maduro and Flores reject new bogus charges appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/abb9b72c0b79d617941878e9.json"
+    },
+    {
+      "id": "66de066edb3506154c6de02d",
+      "title": "Saudi Arabia turned down Israel’s offer to help fight Ansar Allah, but that could change soon",
+      "url": "https://mondoweiss.net/2026/10/saudi-arabia-turned-down-israels-offer-to-help-fight-ansar-allah-but-that-could-change-soon",
+      "author": "Mitchell Plitnick",
+      "source": "Mondoweiss",
+      "published_at": "2026-10-19T13:26:20+00:00",
+      "content_excerpt": "Mohammed bin Salman rejected Benjamin Netanyahu’s offer to help fight Ansar Allah in Yemen, but the Crown Prince may soon run out of options as Israel seeks to exploit Saudi concerns to its advantage.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/66de066edb3506154c6de02d.json"
+    },
+    {
+      "id": "c25eef0e9e47b158117983e8",
+      "title": "Belgium: Massive anti-fascist protest in Brussels",
+      "url": "https://mronline.org/2026/10/19/belgium-massive-anti-fascist-protest-in-brussels",
+      "author": "teleSUR Desk",
+      "source": "MR Online",
+      "published_at": "2026-10-19T12:59:36+00:00",
+      "content_excerpt": "The young people, among whom there are also teachers and trade unionists, according to the Belga news agency, began a march peacefully towards Brussels South station in the middle of the morning and followed by a large police deployment. The post Belgium: Massive anti-fascist protest in Brussels appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/c25eef0e9e47b158117983e8.json"
+    },
+    {
+      "id": "845d1a6e125dc34bfe4189b4",
+      "title": "Western media accept Trump’s plundering of Venezuelan oil as business as usual",
+      "url": "https://mronline.org/2026/10/19/western-media-accept-trumps-plundering-of-venezuelan-oil-as-business-as-usual",
+      "author": "Ricardo Vaz",
+      "source": "MR Online",
+      "published_at": "2026-10-19T11:03:55+00:00",
+      "content_excerpt": "Trump is looking to secure cheap crude supplies at a time when his disastrous Iran debacle has thrown global energy markets into upheaval. The post Western media accept Trump’s plundering of Venezuelan oil as business as usual appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/845d1a6e125dc34bfe4189b4.json"
+    },
+    {
+      "id": "2889a661c6f551fa7b350e1d",
+      "title": "French movement defies police brutality with biggest demonstrations yet",
+      "url": "https://mronline.org/2026/10/19/french-movement-defies-police-brutality-with-biggest-demonstrations-yet",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-19T11:03:55+00:00",
+      "content_excerpt": "Mass demonstrations in France show that the movement is escalating despite police violence, reports Shabbir Lakha from the protest in Paris. The post French movement defies police brutality with biggest demonstrations yet appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/2889a661c6f551fa7b350e1d.json"
+    },
+    {
+      "id": "e63cb009c99ad84e28169274",
+      "title": "Culture and the Moment",
+      "url": "https://convergencemag.com/articles/culture-and-the-moment",
+      "author": "Sage Crump",
+      "source": "Convergence",
+      "published_at": "2026-10-19T10:02:36+00:00",
+      "content_excerpt": "Artists and cultural workers are an integral part of all revolutionary movements across geography and time. From Chinese puppetry, to the harmonies of Sweet Honey in the Rock, to the Místicas of the Landless Workers Movement (MST) in Brazil, culture has added to the canon of what resistance can look like. Living in a time of authoritarianism and proto-fascism means culture has been hijacked. Source",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/e63cb009c99ad84e28169274.json"
+    },
+    {
+      "id": "ea96d9a1e596bde73f8459a4",
+      "title": "‘God help us authors’: Helm’s defense of Rooney ignites Downing Street Row",
+      "url": "https://mronline.org/2026/10/19/god-help-us-authors-helms-defense-of-rooney-ignites-downing-street-row",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-19T09:59:31+00:00",
+      "content_excerpt": "Police are assessing Sarah Helm’s Palestine Action post as hundreds of writers condemn restrictions forcing Sally Rooney from Britain’s market. The post ‘God help us authors’: Helm’s defense of Rooney ignites Downing Street Row appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/ea96d9a1e596bde73f8459a4.json"
     }
   ]
 }

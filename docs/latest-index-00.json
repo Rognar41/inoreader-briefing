@@ -1,236 +1,311 @@
 {
-  "generated_at": "2026-10-18T21:40:34.565851+00:00",
-  "generated_at_jst": "2026-10-19T06:40:34.565851+09:00",
-  "period_start": "2026-10-17T15:40:34.565851+00:00",
+  "generated_at": "2026-10-19T22:59:47.235068+00:00",
+  "generated_at_jst": "2026-10-20T07:59:47.235068+09:00",
+  "period_start": "2026-10-18T16:59:47.235068+00:00",
   "lookback_hours": 30,
   "folder": "00_毎日確認",
-  "article_count": 15,
+  "article_count": 20,
   "excerpt_chars": 800,
   "articles": [
     {
-      "id": "7ab3046b49857d556227dfd7",
-      "title": "University of California",
-      "url": "https://www.laprogressive.com/education-reform/university-of-california",
-      "author": "Joe Mathews",
+      "id": "767a26f982540d0e75d83f2c",
+      "title": "Beyond Plantation Capitalism",
+      "url": "https://www.laprogressive.com/racism/beyond-plantation-capitalism",
+      "author": "Dick Price, Sharon Kyle, Peter Laarman",
       "source": "LA Progressive",
-      "published_at": "2026-10-18T18:01:29+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Do you have a brilliant child who makes you proud—but is also a pain in the butt? So does the Golden State. Its great, infuriating child is the University of California. In her terrific new book, California Dreams: The Making and Remaking of the University of California , journalist and author Miriam Pawel (my former L.A. Times colleague) tags all the bases of UC history, from the university’s 1868 founding in the Berkeley Hills through its expansion into a $60 billion educational and economic engine encompassing 10 campuses, six health systems, and three national laboratories. But the book is really something more intimate: an examination of the fraught, familial relations",
+      "published_at": "2026-10-19T21:43:41+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. An interview with Rev. Peter Laarman by Dick Price and Sharon Kyle What will it take to dismantle an economic system that concentrates extraordinary wealth in the hands of a tiny elite while millions of working people struggle to survive? And how do we build a movement capable of changing not only the policies that sustain inequality but also the values that make such inequality seem acceptable? These questions were at the center of a recent LA Progressive conversation with Rev. Peter Laarman, a retired minister who formerly led Progressive Christians Uniting in Los Angeles. A member of the National Council of Elders, Laarman also serves on its King and Breaking Silence tea",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/7ab3046b49857d556227dfd7.json"
+      "article_path": "articles/767a26f982540d0e75d83f2c.json"
     },
     {
-      "id": "57eeaf00dc3e5e8bd09cc4f9",
-      "title": "Jewish Identity",
-      "url": "https://www.laprogressive.com/law-and-justice/jewish-identity",
-      "author": "H. Scott Prosterman",
-      "source": "LA Progressive",
-      "published_at": "2026-10-18T17:41:25+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. On December 11, 2019, convicted felon Donald Trump signed Executive Order 13899 , which declared Judaism to be a separate “race” and “ethnicity;” and all Jews of common “national origin.” The purpose was to twist Title VI of the 1964 Civil Rights Act into a tool for speech suppression. It had the “hat trick” effect of patronizing Jews and persecuting Palestinians; and prosecuting an attack on free speech. Indirectly, this was a misappropriation of the Civil Rights Act, and it also undermines the prospects for a two-state solution between Israel and Palestinians. Despite 1000 years of pogroms, culminating with the Holocaust, most Jews have resisted being categorized as a spe",
+      "id": "dacedddef1dd51252e3d2513",
+      "title": "OPINION: No on Q3 – Jungle Primaries are Bad for Working People’s Interests",
+      "url": "https://working-mass.com/2026/10/19/opinion-no-on-q3-jungle-primaries-are-bad-for-working-peoples-interests",
+      "author": "Working Mass: The Massachusetts DSA Labor Outlet",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-10-19T21:34:50+00:00",
+      "content_excerpt": "Boston during a nor’easter approaching Election Day (Working Mass) By: Jonathan Cohn The most dangerous words in the English language are: “we’re from private equity, and we’re here to help.” When private equity swoops in to “help” a struggling business, that typically means worsening labor conditions and worsening product quality—but increasing the money of those private equity executives. That’s exactly what private equity executives are trying to do with democracy in Massachusetts with this year’s Question 3, making it a place where they can more easily buy candidates and forestall progressive victories at the state and federal level. These donors are seeking to curb the rise of more populist messaging and policy that centers working people rather than the rich and large corporations. T",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/57eeaf00dc3e5e8bd09cc4f9.json"
+      "article_path": "articles/dacedddef1dd51252e3d2513.json"
     },
     {
-      "id": "1a1e494098657fd9f62bb1e1",
-      "title": "Charity Begins at Home",
-      "url": "https://www.laprogressive.com/progressive-issues/charity-begins-at-home",
-      "author": "Eva Amar",
-      "source": "LA Progressive",
-      "published_at": "2026-10-18T16:59:55+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. October is Domestic Violence Awareness Month, a time to recognize victims, honor survivors, and acknowledge the people and organizations that help them escape abuse. It is also an appropriate time to examine how organizations entrusted with protecting vulnerable people spend their resources. According to an October 13 investigation by the Los Angeles Times, 1736 Family Crisis Center, a Southern California nonprofit that receives nearly 94 percent of its revenue from government grants, provides its CEO, Carol Adelkoff, with a luxury Santa Monica apartment costing approximately $6,500 a month and a leased BMW for her use in Hawaii, where she maintains her primary residence. F",
+      "id": "a75cb193e1d299b016e4c291",
+      "title": "A Call to Action in a World of Inaction",
+      "url": "https://democraticleft.dsausa.org/2026/10/19/a-call-to-action-in-a-world-of-inaction",
+      "author": "gdsnyc@verizon.net",
+      "source": "Democratic Left",
+      "published_at": "2026-10-19T20:21:23+00:00",
+      "content_excerpt": "Alejandro González Iñárritu’s controversial new film \"Digger\" implicates us all in the climate crisis. The post A Call to Action in a World of Inaction appeared first on Democratic Left .",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/1a1e494098657fd9f62bb1e1.json"
+      "article_path": "articles/a75cb193e1d299b016e4c291.json"
     },
     {
-      "id": "eb5be5ec8cb903ce1e307830",
-      "title": "Double Standard on War Crimes",
-      "url": "https://www.laprogressive.com/law-and-justice/double-standard-on-war-crimes",
-      "author": "Marjorie Cohn",
-      "source": "LA Progressive",
-      "published_at": "2026-10-18T16:26:33+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. The U.S. government has long sought to incapacitate the International Criminal Court (ICC), the world’s first global court that was created to prosecute the most atrocious crimes. As the ICC seeks to provide accountability for Israeli crimes, the Trump administration has become increasingly aggressive in its attempts to hobble the court. On October 9, 2026, Team Trump imposed punitive sanctions against the court itself, which constitutes the gravest intensification of its war on the ICC. But there are several strategies available to mitigate the worst effects of these sanctions. Executive Order 14203, Signed February 2025 In February 2025, Donald Trump issued Executive Orde",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/eb5be5ec8cb903ce1e307830.json"
-    },
-    {
-      "id": "edf2bc102b7b035e81771732",
-      "title": "Jacobin Is International",
-      "url": "https://jacobin.com/2026/10/jacobin-international-europe-latin-america",
-      "author": "Asher Dupuy-Spencer",
+      "id": "cd2990fc037f979a78b3bddb",
+      "title": "The Unhinged Racist Response to France’s School Protests",
+      "url": "https://jacobin.com/2026/10/france-student-protests-islamist-panic",
+      "author": "Marlon Ettinger",
       "source": "Jacobin",
-      "published_at": "2026-10-18T14:09:06+00:00",
-      "content_excerpt": "Jacobin began in the United States, but our emancipatory project has always been internationalist. The questions we’re focused on — about who holds power in our societies, about how capitalism shapes our lives, and how working people can abolish class society — extend across borders. Alongside our English-language magazine, Jacobin publishes regularly in six other languages: Dutch: Jacobin Nederland Greek: Jacobin Greece German: Jacobin Magazin Italian: Jacobin Italia Portuguese: Jacobin Brasil , based in Brazil Spanish: Jacobin América Latina , based in Argentina We’re also working on launching editions in French, Romanian, and Urdu. We’ll share more as those projects develop. Building a socialist left means learning from struggles everywhere, and it means exchanges at a more theoretical ",
+      "published_at": "2026-10-19T18:13:58+00:00",
+      "content_excerpt": "After protests and riots swept France this weekend following the escalating social movement sparked by high schooler blockades, right-wingers internationally responded with a straightforwardly racist narrative. They’re portraying the protests as the work of Muslim invaders, in a treasonous alliance with astroturfed left-wingers, who are working to torch the country. “France is burning!” Donald Trump reacted . “The immigration of people from an entirely different world, people with hatred in their hearts, has shattered that once great country. Close your Borders and take control, before it is too late!” “Western liberals imported the third world into France and other countries in the name of diversity and compassion. They ignored fundamental questions of assimilation and compatibility. They",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/edf2bc102b7b035e81771732.json"
+      "article_path": "articles/cd2990fc037f979a78b3bddb.json"
     },
     {
-      "id": "1031d8b3f502b6b46970cac0",
-      "title": "The Video Game Industry’s Crisis Is a Crisis of Capitalism",
-      "url": "https://jacobin.com/2026/10/montreal-video-game-developers-layoffs-unions",
-      "author": "Alexandre Paquet",
+      "id": "ba2ceb5d44725ad0703519a0",
+      "title": "Why I started a record label (and other people should, too)",
+      "url": "https://scalawagmagazine.org/2026/10/why-i-started-a-record-label-and-other-people-should-too",
+      "author": "Aja Arnold",
+      "source": "Scalawag",
+      "published_at": "2026-10-19T17:27:07+00:00",
+      "content_excerpt": "While DIY music culture has typically been credited as being pioneered by the white- and male-dominated punk and later hardcore scenes of the 1970s and 1980s, independent (or DIY) labels have been historic markers in the fight for creative and financial independence for artists of all genres—particularly Black artists—since as early as the 1920s. Read more via Scalawag : Why I started a record label (and other people should, too) .",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/ba2ceb5d44725ad0703519a0.json"
+    },
+    {
+      "id": "9c7aefcf102624b39f1497a9",
+      "title": "Joint labor/socialist effort made Tax the Rich Day on October 10 a statewide success",
+      "url": "https://www.californiadsa.org/news/joint-laborsocialist-effort-made-tax-the-rich-day-on-october-10-a-statewide-success",
+      "author": "California DSA",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-10-19T16:19:50+00:00",
+      "content_excerpt": "California is the fourth largest economy in the world, with a growing number of billionaires, and an expanding crisis of poverty due to concentration of wealth and divestment from public goods like education and healthcare. This has been exacerbated by the Trump administration’s HR1 (“the big beautiful bill”), which cut $1 trillion from Medicaid nationally, resulting in a $100 billion cut to Medi-Cal, and a $20 billion cut to Calfresh, public programs that support our most vulnerable neighbors. After the California Federation of Labor Unions, led by Lorena Gonzalez, voted at its August 4 convention to endorse two ballot measures to tax the rich – Propositions 3 and 40 – California DSA took the opportunity to reach out with a proposal: a California “Tax the Rich Day” on October 10. Gonzalez",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/9c7aefcf102624b39f1497a9.json"
+    },
+    {
+      "id": "2809931b2b4a1f1bb23a6abe",
+      "title": "Two weeks: Time to Overdo it",
+      "url": "https://www.californiadsa.org/news/overdo-it-glass",
+      "author": "California DSA",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-10-19T16:19:50+00:00",
+      "content_excerpt": "“You can sleep when you’re dead.” —Benjamin Franklin There are just two weeks to go before one of the most consequential elections in the history of California. Driving the existential nature of this election is the onset and growth of the fascist cancer within American capitalism, pushed into metastatic overdrive by the election of Donald Trump to his second term in 2024. In the two years since, he has checked every box in any rational person’s understanding of what the word “fascism” means. As a result we are facing End Times Fascism — the term (and the title of their new book) coined by Naomi Klein and Astra Taylor—meaning that this time around, fascists are sucking us down the chutes of climate destruction, democratic devolution, and rapidly eroding institutional means to reverse the t",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/2809931b2b4a1f1bb23a6abe.json"
+    },
+    {
+      "id": "e124c4cdb2fb64fba78e1327",
+      "title": "The Midterms May Be America’s Last Best Chance to Stop End Times Fascism",
+      "url": "https://www.californiadsa.org/news/book-review-end-times-fascism",
+      "author": "California DSA",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-10-19T16:19:50+00:00",
+      "content_excerpt": "“The new lords of the global village are not just Wall Street insiders or run-of-the-mill plutocrats; they are a disparate, distinctly more anarchic group of powerful forces.” Just in time for the midterms, Naomi Klein and Astra Taylor have delivered an incredibly relevant new book, End Times Fascism and the Fight for the Living World , that quite plainly lays out what is at stake in the coming election. We are living under a new form of authoritarianism that has already deeply weakened our democracy and threatens to push us over the cliff toward a dystopian future where only our new oligarchs will be able to survive the harsh social, economic, and environmental realities we face. Klein and Taylor survey the landscape of contemporary analyses of authoritarianism and name the present system",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/e124c4cdb2fb64fba78e1327.json"
+    },
+    {
+      "id": "417d5cac03b1c7ac2bbc7881",
+      "title": "How Revolutionary, Really, Was Christianity?",
+      "url": "https://jacobin.com/2026/10/christianity-roman-empire-whitmarsh-review",
+      "author": "Molly Judd",
       "source": "Jacobin",
-      "published_at": "2026-10-18T14:09:06+00:00",
-      "content_excerpt": "Montreal has been touted as a major creative hub for the video game industry for over twenty years, leading the province of Quebec’s efforts to develop its digital creative sector. The industry reportedly generates CAD$1.4 billion in annual revenues within the province, yet game workers feel the lack of job security more than ever. At the end of the summer, games workers rallied in Montreal to support the Bethesda employees affected by recent layoffs. Back in July, Microsoft announced it was eliminating 3,200 jobs within the Xbox division before the end of the year. Among the employees affected is Simon Préfontaine, a designer with over nine years under his belt at Bethesda Montreal. He explains that layoffs have become an annual occurrence across Xbox studios and the industry more broadly",
+      "published_at": "2026-10-19T16:07:28+00:00",
+      "content_excerpt": "In the Acts of the Apostles, the followers of Jesus Christ are repeatedly described as belonging to “the Way.” In the modern Christian lexicon, this phrase is often understood as a spiritual path rather than a physical one. One travels the Way from a life without Christ to one with him. Returning to the original ancient Greek texts, the classicist Tim Whitmarsh points out that the word that underpins the idea of the Way, hodos , can mean a spiritual path, but it can also, and more often, means a physical road — or a journey along one. Paul and other early Christian missionaries were on a spiritual journey, but they were also on what Whitmarsh calls a literal road trip, traveling across modern-day Turkey, Syria, Greece, and elsewhere to convert anyone who would listen. They made these journ",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/1031d8b3f502b6b46970cac0.json"
+      "article_path": "articles/417d5cac03b1c7ac2bbc7881.json"
     },
     {
-      "id": "aa33cc126ea37e69bdfc9158",
-      "title": "Anwar Shaikh Changed My Life",
-      "url": "https://jacobin.com/2026/10/shaikh-obituary-marxist-economics-teaching",
-      "author": "E. Ahmet Tonak",
-      "source": "Jacobin",
-      "published_at": "2026-10-18T14:09:06+00:00",
-      "content_excerpt": "Anwar Shaikh, one of the most important Marxist economists of his generation, died on October 6 at the age of eighty in New York City. Two years ago, a conference was held to mark his retirement from the Department of Economics at the New School for Social Research, where he had taught for fifty years. I was one of the speakers on the first panel. I opened my talk by adapting the famous first line of Orhan Pamuk’s Yeni Hayat ( The New Life ), knowing that Pamuk was one of Anwar’s favorite writers: “I met Anwar Shaikh, and my whole life changed!” That is truly what happened. After the 1971 military coup in Turkey, I went first to Sweden and then came to the United States. While doing political organizing with Turkish students in New York, I was also trying to finish a master’s degree in app",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/aa33cc126ea37e69bdfc9158.json"
-    },
-    {
-      "id": "29ba5ce762937da34a5ff591",
-      "title": "Tax the Rich and Slash the Military Budget",
-      "url": "https://jacobin.com/2026/10/inequality-taxation-defense-spending-welfare-state",
-      "author": "Nancy Folbre",
-      "source": "Jacobin",
-      "published_at": "2026-10-18T14:09:06+00:00",
-      "content_excerpt": "Here’s a question progressives get asked constantly: Fine, you want universal childcare, Medicare for All, and a green economy — but how are you going to pay for it? As part of the Game Changers project , economists Gerald Epstein and Aaron Medlin just answered it with a full accounting. They price out the thirty policies in the Game Changers initiative and show, line by line, how to fund them without adding a dime to the deficit — by taxing wealth and capital the same way the United States already taxes wages and by shrinking a military and immigration-enforcement budget that is both bloated and destructive. The burden of the increased taxes they propose would fall most heavily on those in the upper reaches of the top 1 percent. The Underlying Problem Let’s start with the scale of inequal",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/29ba5ce762937da34a5ff591.json"
-    },
-    {
-      "id": "4b37655b18c143ee5fd7d358",
-      "title": "The Political Economy of the Restaurant",
-      "url": "https://jacobin.com/2026/10/review-uk-restaurants-cuisine-class-empire",
-      "author": "Ed Luker",
-      "source": "Jacobin",
-      "published_at": "2026-10-18T14:09:06+00:00",
-      "content_excerpt": "English food does not have a good reputation. In 1806, Grimod de La Reynière, a pioneering French food critic, wrote that “[England’s] cooking is limited to boiled chickens.” More than two hundred years later, stereotypes about the country’s food have hardly improved. Looking at the staple icons of English cuisine today — fish and chips, the Sunday roast, the full English breakfast — one might agree with Grimod’s point. These dishes are brutish mounds of meat and carbs, the product of a culture that has often seemed more interested in excess than culinary refinement. They hardly suggest the level of technique and attention to simple, high-quality ingredients associated with French or Japanese food. It’s not only the nation’s cuisine that’s in a sorry state. Ultraprocessed food accounts for",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/4b37655b18c143ee5fd7d358.json"
-    },
-    {
-      "id": "ad9b798c8ff63d40a10a1eea",
-      "title": "AI Is Coming for You, But You Can Fight Back: The Hidden Costs of Artificial Intelligence",
-      "url": "https://www.laprogressive.com/techie-tips/hidden-costs-of-artificial-intelligence",
-      "author": "Frieda Afary",
+      "id": "5af2445673fe104a975383d9",
+      "title": "End of the Melting Pot",
+      "url": "https://www.laprogressive.com/foreign-policy/rise-of-hispanic-america",
+      "author": "Javier A. Hernandez",
       "source": "LA Progressive",
-      "published_at": "2026-10-17T21:04:28+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Artificial intelligence is being sold to the public as the next great technological revolution, promising unprecedented productivity, scientific breakthroughs, and solutions to some of humanity's most difficult problems. But who benefits from this transformation, who pays its costs, and who gets to decide how the technology is deployed? Those questions drove a panel titled “AI Is Coming for You, But You Can Fight Back” at the fourth annual Left Coast Forum, held October 2–4, 2026, at California State University, Los Angeles. Moderated by Iranian American writer, librarian, and socialist feminist Frieda Afary, the discussion featured environmental scientist Pablo Ortiz Parti",
+      "published_at": "2026-10-19T15:56:36+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. The most significant demographic shift happening in the U.S. is not just the rise of a Hispanic minority, but the creation of a lasting, multicultural Hispanic-American community spanning various states and metro areas. This community is supported by millions of people, trillions in economic activity, a growing voter base, established Spanish-language institutions, and ongoing cultural ties to Latin America and Spain. While English remains the dominant language nationwide and language assimilation persists over generations, the large scale of Hispanic America shows that integration no longer means cultural loss. Instead, Hispanics are both becoming more American and enrichi",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/ad9b798c8ff63d40a10a1eea.json"
+      "article_path": "articles/5af2445673fe104a975383d9.json"
     },
     {
-      "id": "bc79b0ef5507c39b52f6eca8",
-      "title": "U.S. Complicity Shaped a Catastrophe",
-      "url": "https://www.laprogressive.com/foreign-policy/u-s-complicity-shaped-a-catastrophe",
-      "author": "Rick Chertoff, Dick Price, Robert Corsini",
+      "id": "6bf4fc42f2db2136a8ac1cc7",
+      "title": "Tenant Displacement",
+      "url": "https://www.laprogressive.com/housing-and-homlessness/tenant-displacement",
+      "author": "Jack Ross",
       "source": "LA Progressive",
-      "published_at": "2026-10-17T19:11:18+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. The Israeli assault on Gaza cannot be understood by beginning the story on October 7, 2023. That was one of the central arguments advanced during a panel titled “The Gaza Genocide” at the fourth annual Left Coast Forum, held October 2–4, 2026, at California State University, Los Angeles. Featuring longtime Jewish peace activist Rick Chertoff and historian Dr. Mahmood Ibrahim, the discussion challenged familiar narratives about the Israeli-Palestinian conflict and examined the history of dispossession, occupation, failed diplomatic initiatives, and American military support that preceded the current catastrophe. The panel also confronted a question that has become increasing",
+      "published_at": "2026-10-19T15:22:55+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Behind every door was a chance to make money. It was 2020, and Matt DeBoth and Angel Escobar were canvassing Koreatown, Highland Park and other gentrifying Los Angeles neighborhoods, trying to get tenants, mostly working-class immigrants, to give up some of the city’s most affordable apartments. Each time a tenant agreed, DeBoth later said in a deposition, he and Escobar could get a bonus of up to $1,000. They worked for K3 Holdings LLC, a landlord based in Beverly Hills, California, which was rapidly acquiring dozens of rent-controlled properties across L.A. The company’s plan was to pay the longtime tenants to leave their homes — usually tens of thousands of dollars — and",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/bc79b0ef5507c39b52f6eca8.json"
+      "article_path": "articles/6bf4fc42f2db2136a8ac1cc7.json"
     },
     {
-      "id": "86854dc1cdfa071fd27c83dc",
-      "title": "Workers Can Govern, but They Need Power First",
-      "url": "https://jacobin.com/2026/10/working-class-candidates-representation-unions",
-      "author": "Jared Abbott",
+      "id": "62c5bac45b6f6f028385f4b5",
+      "title": "The Political Economy of Cognitive Dissonance",
+      "url": "https://jacobin.com/2026/10/cognitive-dissonance-powerlessness",
+      "author": "Peter Dorman",
       "source": "Jacobin",
-      "published_at": "2026-10-17T17:27:55+00:00",
-      "content_excerpt": "According to data from a sweeping new study of working-class legislators by political scientists Nicholas Carnes and Noam Lupu, only about 2 percent of legislators across the world’s democracies held a working-class job — which the authors define as manual, service, or clerical work — before getting into politics. Yet as the authors document in their new book , Keeping Workers Off the Ballot: How Democracy Undermines Working-Class Representation , about seven in ten jobs in a typical democracy are working-class jobs, from construction workers and truck drivers to servers, cashiers, receptionists, data-entry clerks, day laborers, and street vendors. In the United States, working-class people make up more than half of the labor force but just 5 percent of candidates for state, county, and lo",
+      "published_at": "2026-10-19T15:03:19+00:00",
+      "content_excerpt": "Silkwood , a 1983 dramatization of the life of worker-activist Karen Silkwood , starring Cher, Kurt Russell and Meryl Streep, is the best and probably the only Hollywood movie about occupational safety and health. It tells the story of the transformation of Silkwood from a carefree worker in a Kerr-McGee nuclear processing plant into a soberly effective opponent of corporate malfeasance. The focus is on her, but the changing attitudes of her coworkers play an important supporting role. A wonderful detail occurs early on, when Silkwood, showing her disdain for even the minimal safety precautions in the plant, sashays up to a radiation monitor designed to flag excessive exposure and briefly flutters her hand in front of it. Later the same device will trigger intense, terrifying experiences f",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/86854dc1cdfa071fd27c83dc.json"
+      "article_path": "articles/62c5bac45b6f6f028385f4b5.json"
     },
     {
-      "id": "d8147480755147d9aadb386a",
-      "title": "What Happens to Art",
-      "url": "https://www.laprogressive.com/election-and-campaigns/is-all-art-political-artistic-freedom",
-      "author": "William J. Astore",
+      "id": "27accda8bb77be6b3094764b",
+      "title": "Bombers or Solar Panels",
+      "url": "https://www.laprogressive.com/defense/bombers-or-solar-panels",
+      "author": "Paul deLespinasse",
       "source": "LA Progressive",
-      "published_at": "2026-10-17T16:31:40+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. There’s a kerfuffle about art being political, with journalists and writers I respect, such as Matt Taibbi and Caitlin Johnstone , coming down on opposite sides of the issue. Johnstone puts it bluntly : “I have no respect for this idea that art is somehow separable from politics. ALL art is political when you live in a genocidal dystopia, because all your expression exists in relation to our freakish civilization.” While I sympathize with Johnston’s opposition to the ongoing genocide in Gaza, and have written plenty of articles myself against this genocide, I don’t define all my writing as reducible to politics. Writing is a form of self-expression, a creative act, and thou",
+      "published_at": "2026-10-19T15:01:15+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. At the very time that the Trump administration seeks a huge increase in an already gigantic military budget, the recent withdrawal of a dozen B-1 bombers from their English base suggests that a larger budget will not necessarily increase our national security. It depends on exactly what the money is spent on. The threat to the bombers in England was primarily thought to be drones launched by Iranian operatives or sympathizers. It is instructive to consider the relative costs of B-1 bombers and drones. Each B-1 bomber costs about $317,000,000—nearly one third of a billion dollars. The twelve evacuated bombers therefore were worth a total of nearly four billion dollars. As th",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/d8147480755147d9aadb386a.json"
+      "article_path": "articles/27accda8bb77be6b3094764b.json"
     },
     {
-      "id": "a2380941e1d637cf95c8fcde",
-      "title": "Colombia’s President Wants US Boots on the Ground",
-      "url": "https://jacobin.com/2026/10/espriella-plan-colombia-us-military-domestic-repression",
-      "author": "Carlos Cruz Mosquera",
-      "source": "Jacobin",
-      "published_at": "2026-10-17T16:30:13+00:00",
-      "content_excerpt": "In the ten weeks since multimillionaire lawyer Abelardo de la Espriella was inaugurated as Colombia’s president, the country has undergone a significant political shift with respect to asserting its national sovereignty, with Colombia returning to — and potentially deepening — its subordinate position vis-à-vis the United States. Less than a week after the change of government in Colombia, US Secretary of Defense Pete Hegseth announced a major shift in US-Colombian military cooperation, stating at a press conference that de la Espriella had approved an agreement for joint operations in Colombia. US Southern Command (SOUTHCOM) commander General Francis Donovan had met with Colombia’s highest-ranking military officials by the end of the month to begin planning those joint operations against ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/a2380941e1d637cf95c8fcde.json"
-    },
-    {
-      "id": "810b74c0846d4a59d12a1a84",
-      "title": "Italian Students Join French",
-      "url": "https://www.laprogressive.com/foreign-policy/italy-student-strike-meloni-education-protests",
-      "author": "Phil Pasquini",
+      "id": "3b4d34f746fd844096bf8ad3",
+      "title": "Language of Denial",
+      "url": "https://www.laprogressive.com/racism/language-of-denial",
+      "author": "Norman Solomon",
       "source": "LA Progressive",
-      "published_at": "2026-10-17T15:56:20+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Italian high school and university students along with teachers demonstrated and marched during a consolidated nationwide day-long school strike across the country on October 16. The students have been inspired by the recent French student blockades and protests and in reaction to Italian Prime Minister Giorgia Meloni’s proposed cuts in educational spending along with a recently adopted decree-law which has banned the wearing of face coverings including burqas and niqabs in class. Additionally, the new law limits non-Italian speaking students to no more than 30 percent of the class size. In reference to this, many carried signs calling for an end to such blatant racism. Opp",
+      "published_at": "2026-10-19T14:41:44+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Nearly two years ago, Human Rights Watch and Amnesty International released in-depth reports documenting that Israel had committed genocide in Gaza. Months later, Israeli human rights groups did likewise. Support for Israel has declined steeply among Americans, but its defenders continue to maintain a siege of buzzwords against Palestinian rights. As historian Rashid Khalidi emphasized in his book Brokers of Deceit: How the U.S. Has Undermined Peace in the Middle East , “language matters.” Standard terms and tropes “are the essential building blocks of a lofty and solid edifice of denial of an entire narrative, of the existence of an entire people, which is basic to the aff",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/810b74c0846d4a59d12a1a84.json"
+      "article_path": "articles/3b4d34f746fd844096bf8ad3.json"
+    },
+    {
+      "id": "af7cacb019234848c5dc4856",
+      "title": "Hold the Line: On Nithya Raman",
+      "url": "https://reformandrevolution.org/2026/10/19/on-nithya-raman",
+      "author": "",
+      "source": "Reform & Revolution",
+      "published_at": "2026-10-19T10:16:12+00:00",
+      "content_excerpt": "This statement was approved by the Steering Committee of Reform & Revolution . The conflict between national DSA and Los Angeles DSA (DSA-LA) over the chapter’s endorsement of Nithya Raman reflects a failure of organizational unity and leadership that one resolution cannot fix. Still, we cannot fix it by never taking action. Reform & Revolution co-authored “On Nithya Raman,” the resolution brought to the DSA’s National Political Committee with comrades in Bread & Roses. This resolution affirms that DSA-LA’s endorsement was not made in compliance with R22, as the chapter never asked Raman about her support for BDS, and outlines how her record on Palestine is not in line with DSA. It asks NPC members to work with DSA-LA’s leadership on a members-only meeting by October 25th (preferably with ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/af7cacb019234848c5dc4856.json"
+    },
+    {
+      "id": "fb721129d0a6661bd078a96e",
+      "title": "Chattel Slavery vs. Wage Labor: Who Is Really Free?",
+      "url": "https://www.laprogressive.com/labor-social-justice/chattel-slavery-vs-wage-labor-who-is-free",
+      "author": "Sharon Kyle",
+      "source": "LA Progressive",
+      "published_at": "2026-10-19T02:07:46+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. In 1860, nearly four million Black people were enslaved in the United States. Their labor produced enormous wealth, but they had virtually no control over what they made or who benefited from it. They planted and harvested cotton, cultivated tobacco and sugar, built homes, maintained households, and practiced skilled trades. Today, American workers produce goods and services on a scale unimaginable in 1860. Yet millions struggle to afford housing, healthcare, education, childcare, food, and retirement. The question connecting these eras is not whether the systems are the same. They are profoundly different. It is this: Who controls the wealth people create, and who is reall",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/fb721129d0a6661bd078a96e.json"
+    },
+    {
+      "id": "4232e31e365c0d9122a6e917",
+      "title": "Car Accident Claims",
+      "url": "https://www.laprogressive.com/sponsored/fault-rules-affect-car-accident-claims",
+      "author": "Tiqua Jackson",
+      "source": "LA Progressive",
+      "published_at": "2026-10-19T00:48:33+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. California’s comparative fault rules allow people injured in car accidents to seek compensation even when they share some responsibility for the crash, although their compensation may be reduced by their percentage of fault. Ventura, California, is a coastal city where drivers travel along busy roads, local streets, and major routes such as Highway 101. Traffic congestion, changing road conditions, and driver mistakes can contribute to collisions throughout the area. After a crash, consulting a Ventura, CA, car accident lawyer can help an injured person understand how fault may affect an insurance claim or personal injury lawsuit. California follows a pure comparative negli",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/4232e31e365c0d9122a6e917.json"
+    },
+    {
+      "id": "376396bf4a0c804430844191",
+      "title": "Titanium Over Traditional Option",
+      "url": "https://www.laprogressive.com/sponsored/titanium-over-traditional-option",
+      "author": "Sejal Desai",
+      "source": "LA Progressive",
+      "published_at": "2026-10-18T23:15:33+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Men approach jewellery with great consideration of compatibility with what they always do. That’s the short answer to the curiosity behind the preference for titanium rings. Those who always get dirt on their hands or have to work with harsh machinery know that their job can easily destroy an expensive soft gold band within weeks. But if that isn’t enough reason to convince, here’s a list of more rationale behind the shift to this particular metal. Scratch and Dent Resistance As we pointed out, gold is soft. It’s one of the reasons why they work well in fine jewellery. However, it’s also the reason why they easily pick up dents and scratches from daily manual work. Just see",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/376396bf4a0c804430844191.json"
+    },
+    {
+      "id": "6d0ce6ac2392a2464f77d6b0",
+      "title": "Specialized Memory Care",
+      "url": "https://www.laprogressive.com/sponsored/specialized-memory-care",
+      "author": "Britta Hedlund",
+      "source": "LA Progressive",
+      "published_at": "2026-10-18T23:00:57+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Memory loss changes how a person moves through the day, manages medication, and responds to unfamiliar situations. Specialized memory care combines supervision with familiar routines, calm spaces, and support matched to cognitive needs. Staff monitor health, guide personal care, and respond quickly when confusion or distress appears. These practices protect safety while preserving dignity, choice, and comfort. Daily details show why the right setting matters for families and residents alike. Why Specialized Memory Care Matters Memory care begins with a setting arranged around predictable needs. Clear paths, visible common areas, and consistent staff routines reduce hazards ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/6d0ce6ac2392a2464f77d6b0.json"
+    },
+    {
+      "id": "db1a27beb3ee19a91690b6e2",
+      "title": "richardson-hats.com",
+      "url": "https://www.laprogressive.com/sponsored/richardson-hats-com",
+      "author": "Tiqua Jackson",
+      "source": "LA Progressive",
+      "published_at": "2026-10-18T22:16:43+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. With bulk branded headwear, even a small color mismatch can make a logo look noticeably off from the rest of a company's brand. Not every wholesale supplier is set up to catch that before production begins, and once a full run has been embroidered, the mistake is expensive to fix. richardson-hats.com is a wholesale Richardson hat distributor with more than 40 years of experience in the United States, backed by a direct partnership with Richardson Sport and offering both blank and custom-embroidered headwear. Why Color Accuracy Is Harder Than Picking From a Catalog A logo that matches the brand guidelines on screen can still look wrong on a cap. The Pantone or hex codes can ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/db1a27beb3ee19a91690b6e2.json"
     }
   ]
 }
