@@ -1,12 +1,222 @@
 {
-  "generated_at": "2026-10-19T22:59:47.235068+00:00",
-  "generated_at_jst": "2026-10-20T07:59:47.235068+09:00",
-  "period_start": "2026-10-18T16:59:47.235068+00:00",
+  "generated_at": "2026-10-20T22:31:14.812882+00:00",
+  "generated_at_jst": "2026-10-21T07:31:14.812882+09:00",
+  "period_start": "2026-10-19T16:31:14.812882+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
-  "article_count": 18,
+  "article_count": 20,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "f164dd8e25727aa81bd42cb3",
+      "title": "10 major press freedom and civil liberties groups demand Congress stop ‘unconstitutional’ targeting of BreakThrough News",
+      "url": "https://breakthroughnews.org/2026/10/20/10-major-press-freedom-and-civil-liberties-groups-demand-congress-stop-unconstitutional-targeting-of-breakthrough-news",
+      "author": "BreakThrough News",
+      "source": "BT News",
+      "published_at": "2026-10-20T22:14:47+00:00",
+      "content_excerpt": "A coalition of press freedom and civil liberties organizations is calling on the House Ways and Means Committee to abandon its threat to subpoena staffers at BreakThrough News . The House committee has demanded that BreakThrough employees testify before Congress unless the outlet withdraws its First Amendment and other objections to the committee’s earlier subpoenas and document requests by October 20. The committee says its inquiry is part of a tax-related investigation into one of BreakThrough ’s donors. But the committee and its chairman, Rep. Jason Smith, R-Mo., have also accused the outlet of “anti-American rhetoric” and “messaging that mirrors hostile government propaganda,” pointing to its criticism of immigration enforcement and of US and Israeli foreign policy. The letter outlines",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/f164dd8e25727aa81bd42cb3.json"
+    },
+    {
+      "id": "a7c5a835a6a9e6708481165e",
+      "title": "Italian government to deploy troops to Milan after anti-austerity protests",
+      "url": "https://breakthroughnews.org/2026/10/20/italian-government-to-deploy-troops-to-milan-after-anti-austerity-protests",
+      "author": "Ana Vračar",
+      "source": "BT News",
+      "published_at": "2026-10-20T21:20:59+00:00",
+      "content_excerpt": "Giorgia Meloni’s administration has announced the deployment of 500 military troops to Milan after a weekend of intense protests and riots resulted in broken windows at luxury shops. But while mainstream coverage has focused on exclusive brands hiding inventory from angry demonstrators, progressive organizations emphasize that the rage witnessed on the streets of several northern Italian cities is a result of the government’s own policies . “A Louis Vuitton bag can cost €5,600, while the monthly maximum for the wage guarantee fund in 2026 is €1,340,” wrote the grassroots union Unione Sindacale di Base (USB). In a statement on Tuesday, the union cited devastating national statistics, including data showing that over 14% of working-class families live in absolute poverty. Broken windows can ",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/a7c5a835a6a9e6708481165e.json"
+    },
+    {
+      "id": "564154cc4f48d8350f9637cd",
+      "title": "Cereal production rises to a historic high: Burkina Faso’s pursuit of food sovereignty",
+      "url": "https://breakthroughnews.org/2026/10/20/cereal-production-rises-to-a-historic-high-burkina-fasos-pursuit-of-food-sovereignty",
+      "author": "Pavan Kulkarni",
+      "source": "BT News",
+      "published_at": "2026-10-20T20:26:32+00:00",
+      "content_excerpt": "Cereal production in Burkina Faso has risen 53% to a record high under the government of Capt. Ibrahim Traoré, who has made food self-sufficiency an urgent priority since coming to power. ​ The country has produced 124% of the national cereal needs, the agricultural minister, Commander Ismaël Sombié, said earlier this month at the 3rd edition of the National Days of Patriotic Engagement and Citizen Participation (JEPPC). Paddy rice production for the first time exceeded a million tons in 2025, while Maize production reached well over 2,68 million tons, he added in his address to a panel titled “From field to market: producing and consuming Burkinabe to strengthen our sovereignty.” Including all other cereals, the total production of over seven million tons is a historic high. It was only 4",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/564154cc4f48d8350f9637cd.json"
+    },
+    {
+      "id": "222b6c2809265ca883c0c533",
+      "title": "Colombia’s far-right president faces first round of major protests",
+      "url": "https://breakthroughnews.org/2026/10/20/colombias-far-right-president-faces-first-round-of-major-protests",
+      "author": "BreakThrough News",
+      "source": "BT News",
+      "published_at": "2026-10-20T20:26:32+00:00",
+      "content_excerpt": "On October 14, tens of thousands of Colombians took to the streets to protest against the government of far-right leader Abelardo de la Espriella, who has been in office for just two months. The protests demonstrated the opposition’s clear ability to mobilize its base and fill the streets of several Colombian cities, even though the new government is still in its early days. Protesters – including members of labor unions, Indigenous organizations, opposition parties, and students – marched through the streets of the capital, Bogotá, as well as other major cities across the country, such as Cali, Medellín, Bucaramanga, Riohacha, and Pereira. In an address to the nation, De la Espriella stated that 98% of the protests were peaceful, though he also warned the demonstrators: “From the very fir",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/222b6c2809265ca883c0c533.json"
+    },
+    {
+      "id": "640a6945b51ac0f79ae9a574",
+      "title": "The outsourced risk: how newsrooms rely on Gaza’s freelancers without protecting them",
+      "url": "https://mondoweiss.net/2026/10/the-outsourced-risk-how-newsrooms-rely-on-gazas-freelancers-without-protecting-them",
+      "author": "Ismail Nofal",
+      "source": "Mondoweiss",
+      "published_at": "2026-10-20T17:22:19+00:00",
+      "content_excerpt": "Freelance journalists in Gaza are risking their lives to document the genocide, often with no protections from the news agencies that hire them and rely on their work.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/640a6945b51ac0f79ae9a574.json"
+    },
+    {
+      "id": "1cee0edc5a4553cbdc655b62",
+      "title": "What is Cultural Justice?",
+      "url": "https://convergencemag.com/articles/what-is-cultural-justice",
+      "author": "Vanessa Whang",
+      "source": "Convergence",
+      "published_at": "2026-10-20T14:39:36+00:00",
+      "content_excerpt": "“Cultural justice” is not a term we hear very often—or perhaps at all. We hear and read about social justice and racial justice, economic justice and environmental justice, gender justice and disability justice, and retributive justice and restorative justice. So, when asked if I would write what I thought about cultural justice, my first thought was, Yes! This was immediately followed by, Wait… Source",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/1cee0edc5a4553cbdc655b62.json"
+    },
+    {
+      "id": "179c818058bfa5fda1e32a43",
+      "title": "Nobel Peace Laureate Navi Pillay on ICC, Gaza, Rape as War Crime, Her South African Roots & Mandela",
+      "url": "https://www.democracynow.org/2026/10/20/navi_pillay",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-10-20T14:26:38+00:00",
+      "content_excerpt": "We speak with the acclaimed South African human rights lawyer and international jurist Navi Pillay, who was awarded this year’s Nobel Peace Prize. Pillay has been the United Nations high commissioner for human rights and a judge at both the International Criminal Court and at an international tribunal investigating the 1994 genocide in Rwanda. Most recently, she led the U.N. Independent International Commission of Inquiry that concluded Israel had committed genocide in Gaza. Hours after Pillay was announced as winner of the Nobel Prize, the United States imposed sweeping new sanctions against the International Criminal Court. “It’s extremely shocking to me, totally unacceptable, that the United States administration can today impose sanctions against the International Criminal Court,” says",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/179c818058bfa5fda1e32a43.json"
+    },
+    {
+      "id": "b3c680cbc24f1f0022063d74",
+      "title": "A Wealth Tax on Billionaires? California Voters to Decide Prop 40",
+      "url": "https://www.democracynow.org/2026/10/20/california_billionaire_tax",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-10-20T14:26:38+00:00",
+      "content_excerpt": "As voters across the United States cast ballots on November 3, Californians are weighing whether to approve a one-time 5% tax on the wealth of billionaires in the state. The tax would apply to roughly 250 Californians who now hold an estimated $2.3 trillion in wealth. Supporters say the wealth tax could raise up to $100 billion, with about 90% going toward healthcare. The remaining funds would support education and food assistance programs. If Proposition 40 passes, it will mark the first time a government in the U.S. successfully taxes the wealth — rather than just the income — of the ultra-rich. “It’s past time that billionaires pay their fair share,” says Lorena Gonzalez, president of the California Federation of Labor Unions, which is backing the initiative. We also speak with Californ",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/b3c680cbc24f1f0022063d74.json"
+    },
+    {
+      "id": "6bf187a5381d8b00fcd054cd",
+      "title": "‘Nuke Brazil’ Missile Prop Exposes Cozy Bolsonaro-Trump relationship",
+      "url": "https://www.brasildefato.com.br/2026/10/20/nuke-brazil-missile-prop-exposes-cozy-bolsonaro-trump-relationship",
+      "author": "",
+      "source": "Brasil de Fato",
+      "published_at": "2026-10-20T14:07:08+00:00",
+      "content_excerpt": "On Sunday, October 18, supporters of presidential candidate Senator Flávio Bolsonaro paraded down Paulista Avenue in São Paulo, clutching an inflatable toy missile bearing a call for a nuclear strike on Brazil. Senator Bolsonaro, who attended the rally with allies such as far right Rep. Nikolas Ferreira, made no comment about it. The white structure, raised above the crowd, bore the English language inscription “Trump nuke Brazil.” Images from the event show people dressed in green and yellow standing near the object, draped in Brazilian flags. By calling on a foreign power to launch a nuclear attack on their own country, these demonstrators took a stance that amounts to treason and a direct affront to Brazilian sovereignty. The display comes amid a growing alliance between U.S. President ",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/6bf187a5381d8b00fcd054cd.json"
+    },
+    {
+      "id": "974ff6f8f1ba8619b3d3ae7e",
+      "title": "Rappers for regime change: How the CIA recruits hip hop artists around the world",
+      "url": "https://mronline.org/2026/10/20/rappers-for-regime-change-how-the-cia-recruits-hip-hop-artists-around-the-world",
+      "author": "Alan MacLeod",
+      "source": "MR Online",
+      "published_at": "2026-10-20T12:27:18+00:00",
+      "content_excerpt": "Washington has spent tens of millions of dollars funding, training, and promoting artists who foment public discontent, organize protests, and lead color revolutions in nations in its crosshairs. The post Rappers for regime change: How the CIA recruits hip hop artists around the world appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/974ff6f8f1ba8619b3d3ae7e.json"
+    },
+    {
+      "id": "7a3dcefe94b48f7f0211bd28",
+      "title": "Burkina Faso: Thomas Sankara, the cut-short revolution, and the legacy of feminism",
+      "url": "https://mronline.org/2026/10/20/burkina-faso-thomas-sankara-the-cut-short-revolution-and-the-legacy-of-feminism",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-20T11:31:59+00:00",
+      "content_excerpt": "The original distinctiveness of Sankarist thought lies in having simultaneously attacked three pillars of structural oppression: imperialist dependence, through the outright rejection of international public debt, defined as a “neocolonial instrument of reconquest and the economic assassination of peoples”; the internal class structure and bureaucratic rent, through the dismantling of the privileges of the parasitic state bourgeoisie—nourished by French aid funds and disconnected from the material needs of the peasant masses; and patriarchal oppression. The post Burkina Faso: Thomas Sankara, the cut-short revolution, and the legacy of feminism appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/7a3dcefe94b48f7f0211bd28.json"
+    },
+    {
+      "id": "b4b07829c526ad71e910914c",
+      "title": "The Congo as a site of capital accumulation: Erik Prince and the privatization of war",
+      "url": "https://mronline.org/2026/10/20/the-congo-as-a-site-of-capital-accumulation-erik-prince-and-the-privatization-of-war",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-20T10:32:13+00:00",
+      "content_excerpt": "Erik Prince's mercenary operations in the Democratic Republic of the Congo serve U.S. imperial and corporate interests in critical minerals and violate the Congolese peoples' sovereignty. The post The Congo as a site of capital accumulation: Erik Prince and the privatization of war appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/b4b07829c526ad71e910914c.json"
+    },
+    {
+      "id": "2d105b9b8028da9a842753db",
+      "title": "The ‘total strike’ has come for France",
+      "url": "https://mronline.org/2026/10/20/the-total-strike-has-come-for-france",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-20T09:35:25+00:00",
+      "content_excerpt": "The people are in revolt, and the entire social order is collapsing. The post The ‘total strike’ has come for France appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/2d105b9b8028da9a842753db.json"
+    },
+    {
+      "id": "f737101cc42532af97ecf9d4",
+      "title": "Attention Economy Navigator – October 2026 w/Evan Greer",
+      "url": "https://convergencemag.com/podcast/attention-economy-navigator-october-2026-w-evan-greer",
+      "author": "Cayden Mak",
+      "source": "Convergence",
+      "published_at": "2026-10-19T23:40:28+00:00",
+      "content_excerpt": "This week we are building our Attention Economy Navigator for the month of October 2026. It’s our guide to what you should be paying more attention to, and what you can probably pay less attention to. And why those stories might not be what you’d assume. Joining to help build this month’s Attention Economy Navigator in real time are Director at Fight for the Future, Evan Greer and Senior… Source",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/f737101cc42532af97ecf9d4.json"
+    },
     {
       "id": "cd3f5725fc7fbd5b40c032c8",
       "title": "BT LIVE: Europe’s Youth Uprising | Mercenaries in the DRC | Justice for Nolan Wells",
@@ -96,186 +306,6 @@
       "priority": 2,
       "date_missing": false,
       "article_path": "articles/1b1ca63bcc31519f0d2797b7.json"
-    },
-    {
-      "id": "64ca673d51deedb8389655e3",
-      "title": "Can AIPAC stop an El-Sayed victory in Michigan?",
-      "url": "https://mondoweiss.net/2026/10/can-aipac-stop-an-el-sayed-victory-in-michigan",
-      "author": "Michael Arria",
-      "source": "Mondoweiss",
-      "published_at": "2026-10-19T17:30:48+00:00",
-      "content_excerpt": "AIPAC recently spent $100,000 on mailers targeting Abdul El-Sayed in Michigan's Senate race. Is it too little, too late?",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/64ca673d51deedb8389655e3.json"
-    },
-    {
-      "id": "40a5ed3a0d2caff2328f5847",
-      "title": "‘The Nerd Reich’ – Jesse Welles",
-      "url": "https://mronline.org/2026/10/19/the-nerd-reich-jesse-welles",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-19T16:58:09+00:00",
-      "content_excerpt": "Listen up. The post ‘The Nerd Reich’ – Jesse Welles appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/40a5ed3a0d2caff2328f5847.json"
-    },
-    {
-      "id": "88b2e7c56dbe2b6e9971ac98",
-      "title": "French Gov’t Cracks Down on Mass Protests over Cost of Living, Education Cuts; 2,400+ Arrested",
-      "url": "https://www.democracynow.org/2026/10/19/france_student_protests",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-10-19T15:22:32+00:00",
-      "content_excerpt": "Hundreds of thousands of protesters marched in over 140 cities across France on Saturday, demanding relief from the high cost of living, more funding for public services and improvements to deteriorating schools, among other grievances. The demonstrations were the latest — and largest — in a series of protests that began in September with high schooler-led demonstrations against overcrowded classrooms and crumbling school infrastructure. Some cities saw property destruction, arson and theft on Saturday, with city halls and other symbols of the state coming under attack. Officials said nearly 1,000 police officers were injured and some 2,400 people were arrested. “What is frustrating to see is how little the police violence is addressed and talked about, which is really the main violence an",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/88b2e7c56dbe2b6e9971ac98.json"
-    },
-    {
-      "id": "2168ecf6a210765071455e4d",
-      "title": "Masked Israeli Settlers Nearly Kill Washington Post Journalist as Attacks on Palestinians Escalate",
-      "url": "https://www.democracynow.org/2026/10/19/west_bank_journalists",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-10-19T15:22:32+00:00",
-      "content_excerpt": "Israeli settlers backed by IDF soldiers brutally assaulted Palestinian olive farmers in the village of Abu Falah, northeast of Ramallah, on Friday. Witnesses say dozens of masked Israeli settlers armed with clubs, sticks, slingshots and guns hurled rocks at Palestinian farmers, set olive trees ablaze and drove people from their fields. Veteran Washington Post photojournalist Heidi Levine, a 64-year-old American, was documenting the attack when settlers began beating her. She suffered stab wounds, a broken rib, four broken vertebrae and a severe hand injury. Levine was wearing a clearly marked press vest and a helmet at the time of the attack. According to the Israeli human rights group Yesh Din, Israeli settlers have carried out at least 170 attacks against Palestinians in the occupied Wes",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/2168ecf6a210765071455e4d.json"
-    },
-    {
-      "id": "67a782acfa194add40eafbee",
-      "title": "Juan Francisco Solórzano Foppa: Prominent Anti-Corruption Lawyer in Guatemala Assassinated",
-      "url": "https://www.democracynow.org/2026/10/19/guatemala",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-10-19T15:22:32+00:00",
-      "content_excerpt": "The prominent Guatemalan anti-corruption lawyer Juan Francisco Solórzano Foppa was fatally shot along with another man on Saturday at a sports center in Guatemala City. For years, Solórzano Foppa had been outspoken against Guatemala’s most powerful politicians, business leaders and companies. He was known for his anti-corruption work as head of the Criminal Investigations Directorate within the Public Prosecutor’s Office and later as head of Guatemala’s tax authority, when he helped prosecute dozens of powerful Guatemalan business figures. “In more recent years, he developed a social media presence, and he was forcefully denouncing corruption,” says Roman Gressier, a journalist based in Guatemala City. “We were thinking about [the killing of Solórzano Foppa] not only as an assassination, b",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/67a782acfa194add40eafbee.json"
-    },
-    {
-      "id": "abb9b72c0b79d617941878e9",
-      "title": "Shackled and defiant, Maduro and Flores reject new bogus charges",
-      "url": "https://mronline.org/2026/10/19/shackled-and-defiant-maduro-and-flores-reject-new-bogus-charges",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-19T13:57:09+00:00",
-      "content_excerpt": "Venezuelan President Nicolás Maduro Moros and First Combatant Cilia Adela Flores were brought to a federal court in Manhattan this morning shackled and defiant. Facing Judge Alvin Hellerstein, both prisoners of war were arraigned on phony charges of torture. The post Shackled and defiant, Maduro and Flores reject new bogus charges appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/abb9b72c0b79d617941878e9.json"
-    },
-    {
-      "id": "66de066edb3506154c6de02d",
-      "title": "Saudi Arabia turned down Israel’s offer to help fight Ansar Allah, but that could change soon",
-      "url": "https://mondoweiss.net/2026/10/saudi-arabia-turned-down-israels-offer-to-help-fight-ansar-allah-but-that-could-change-soon",
-      "author": "Mitchell Plitnick",
-      "source": "Mondoweiss",
-      "published_at": "2026-10-19T13:26:20+00:00",
-      "content_excerpt": "Mohammed bin Salman rejected Benjamin Netanyahu’s offer to help fight Ansar Allah in Yemen, but the Crown Prince may soon run out of options as Israel seeks to exploit Saudi concerns to its advantage.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/66de066edb3506154c6de02d.json"
-    },
-    {
-      "id": "c25eef0e9e47b158117983e8",
-      "title": "Belgium: Massive anti-fascist protest in Brussels",
-      "url": "https://mronline.org/2026/10/19/belgium-massive-anti-fascist-protest-in-brussels",
-      "author": "teleSUR Desk",
-      "source": "MR Online",
-      "published_at": "2026-10-19T12:59:36+00:00",
-      "content_excerpt": "The young people, among whom there are also teachers and trade unionists, according to the Belga news agency, began a march peacefully towards Brussels South station in the middle of the morning and followed by a large police deployment. The post Belgium: Massive anti-fascist protest in Brussels appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/c25eef0e9e47b158117983e8.json"
-    },
-    {
-      "id": "845d1a6e125dc34bfe4189b4",
-      "title": "Western media accept Trump’s plundering of Venezuelan oil as business as usual",
-      "url": "https://mronline.org/2026/10/19/western-media-accept-trumps-plundering-of-venezuelan-oil-as-business-as-usual",
-      "author": "Ricardo Vaz",
-      "source": "MR Online",
-      "published_at": "2026-10-19T11:03:55+00:00",
-      "content_excerpt": "Trump is looking to secure cheap crude supplies at a time when his disastrous Iran debacle has thrown global energy markets into upheaval. The post Western media accept Trump’s plundering of Venezuelan oil as business as usual appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/845d1a6e125dc34bfe4189b4.json"
-    },
-    {
-      "id": "2889a661c6f551fa7b350e1d",
-      "title": "French movement defies police brutality with biggest demonstrations yet",
-      "url": "https://mronline.org/2026/10/19/french-movement-defies-police-brutality-with-biggest-demonstrations-yet",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-19T11:03:55+00:00",
-      "content_excerpt": "Mass demonstrations in France show that the movement is escalating despite police violence, reports Shabbir Lakha from the protest in Paris. The post French movement defies police brutality with biggest demonstrations yet appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/2889a661c6f551fa7b350e1d.json"
-    },
-    {
-      "id": "e63cb009c99ad84e28169274",
-      "title": "Culture and the Moment",
-      "url": "https://convergencemag.com/articles/culture-and-the-moment",
-      "author": "Sage Crump",
-      "source": "Convergence",
-      "published_at": "2026-10-19T10:02:36+00:00",
-      "content_excerpt": "Artists and cultural workers are an integral part of all revolutionary movements across geography and time. From Chinese puppetry, to the harmonies of Sweet Honey in the Rock, to the Místicas of the Landless Workers Movement (MST) in Brazil, culture has added to the canon of what resistance can look like. Living in a time of authoritarianism and proto-fascism means culture has been hijacked. Source",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/e63cb009c99ad84e28169274.json"
-    },
-    {
-      "id": "ea96d9a1e596bde73f8459a4",
-      "title": "‘God help us authors’: Helm’s defense of Rooney ignites Downing Street Row",
-      "url": "https://mronline.org/2026/10/19/god-help-us-authors-helms-defense-of-rooney-ignites-downing-street-row",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-19T09:59:31+00:00",
-      "content_excerpt": "Police are assessing Sarah Helm’s Palestine Action post as hundreds of writers condemn restrictions forcing Sally Rooney from Britain’s market. The post ‘God help us authors’: Helm’s defense of Rooney ignites Downing Street Row appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/ea96d9a1e596bde73f8459a4.json"
     }
   ]
 }
