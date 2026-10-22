@@ -1,12 +1,252 @@
 {
-  "generated_at": "2026-10-21T22:35:45.211422+00:00",
-  "generated_at_jst": "2026-10-22T07:35:45.211422+09:00",
-  "period_start": "2026-10-20T16:35:45.211422+00:00",
+  "generated_at": "2026-10-22T22:37:50.701602+00:00",
+  "generated_at_jst": "2026-10-23T07:37:50.701602+09:00",
+  "period_start": "2026-10-21T16:37:50.701602+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
   "article_count": 20,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "8efe17214275a64315c82296",
+      "title": "As drug prices in Europe soar, Public Pharma advocates are charting a new course",
+      "url": "https://breakthroughnews.org/2026/10/22/as-drug-prices-in-europe-soar-public-pharma-advocates-are-charting-a-new-course",
+      "author": "Peoples Health Dispatch",
+      "source": "BT News",
+      "published_at": "2026-10-22T22:28:54+00:00",
+      "content_excerpt": "Health workers, activists, and access to medicines advocates have gathered in Frankfurt on October 22-23 for the 2nd Public Pharma Conference . The event builds on roughly two years of work by the Public Pharma for Europe Coalition , which aims to construct an alternative vision for the region’s pharmaceutical landscape – and to strengthen the links needed to turn that vision into reality. “When we had the first conference in 2024, we realized there are many people practically working on this topic who shared a similar vision and a similar goal,” Frauke Heller from medico international told BreakThrough News . The new conference aims to open the space to even more advocates, she added, in a region where the Big Pharma lobby remains extremely influential. Read more: Public pharma infrastruc",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/8efe17214275a64315c82296.json"
+    },
+    {
+      "id": "1585603e0c7a7afb20a5089a",
+      "title": "Luisa González, former presidential candidate and opposition leader, is arrested in Ecuador",
+      "url": "https://breakthroughnews.org/2026/10/22/luisa-gonzalez-former-presidential-candidate-and-opposition-leader-is-arrested-in-ecuador",
+      "author": "BreakThrough News",
+      "source": "BT News",
+      "published_at": "2026-10-22T22:28:54+00:00",
+      "content_excerpt": "Former President Rafael Correa (2007–2017) posted on X in the early hours of the morning in Ecuador that Luisa González, a two-time presidential candidate (2023 and 2025) for the Citizen Revolution (RC) party, had been arrested. “They arrested Luisa González. ENOUGH IS ENOUGH!” wrote the former progressive leader. The National Police confirmed this to the media outlet PRIMICIAS . González was reportedly arrested on suspicion of money laundering. The National Prosecutor’s Office also confirmed this, reporting that the arrest is related to alleged irregularities in political financing and campaign spending in 2023. González, who advanced to the runoff in both elections and lost both times to the current president, right-wing candidate Daniel Noboa, has repeatedly claimed that the legal proce",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/1585603e0c7a7afb20a5089a.json"
+    },
+    {
+      "id": "a36b501735dff1c82d1cdbad",
+      "title": "Mehdi Hasan on AIPAC’s Role in El-Sayed vs. Rogers Race in Michigan & Trump’s Targeting of Ilhan Omar",
+      "url": "https://www.democracynow.org/2026/10/22/el_sayed_omar",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-10-22T15:21:57+00:00",
+      "content_excerpt": "This is a rush transcript. Copy may not be in its final form. AMY GOODMAN : We are less than two weeks away from the November 3rd midterm elections that’ll determine control of Congress. To win the Senate, Democrats need to flip four Republican seats and hold three of their own, including Michigan, one of the most closely watched races. Democrat Dr. Abdul El-Sayed and Republican Mike Rogers are in a tight race for an open seat. El-Sayed is a former public health official who’s campaigning on a platform of Medicare for All, ending military aid to Israel, and getting corporate money out of politics. Rogers is a former Republican congressmember backed by President Trump. On Wednesday, The New York Times reported that AIPAC , the American Israel Public Affairs Committee, has plans to quietly g",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/a36b501735dff1c82d1cdbad.json"
+    },
+    {
+      "id": "f28d6fdb1b783511d37e66a5",
+      "title": "Should AIPAC Register as a Foreign Agent? Zeteo Examines Pro-Israel Lobby’s Influence on Elections",
+      "url": "https://www.democracynow.org/2026/10/22/zeteo_aipac",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-10-22T15:21:57+00:00",
+      "content_excerpt": "The growing controversy over AIPAC’s impact on U.S. politics is the subject of a new Zeteo documentary titled Night Flower: Inside AIPAC’s Fight for Influence . The film examines AIPAC’s history and its role in shaping U.S. policy toward Israel, and questions whether its activities warrant further scrutiny under the Foreign Agents Registration Act, or FARA . “It says that you have to register under this law if you are acting at the request of a foreign government,” says Dion Nissenbaum, the filmmaker behind Night Flower: Inside AIPAC’s Fight for Influence . “And we talked to numerous people who showed us several examples of how AIPAC is acting at the request of Israel.” Referencing the title of the film, Night Flower , Zeteo editor-in-chief Mehdi Hasan says AIPAC “blossoms in the dark, shr",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/f28d6fdb1b783511d37e66a5.json"
+    },
+    {
+      "id": "a7e182144cc2801d26d21097",
+      "title": "“A Spark from the Cockroaches”: Arundhati Roy on India’s Youth Protests & Modi’s Crackdown",
+      "url": "https://www.democracynow.org/2026/10/22/arundhati_roy",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-10-22T15:21:57+00:00",
+      "content_excerpt": "A court in India on Wednesday ordered the release of two leaders of the Cockroach Janta Party, the youth-led movement that has led historic waves of protests in India since the summer. Ashutosh Ranka and Saurav Das were detained amid massive protests last week after they scaled a barricade to enter a site popular for protest, unfurled the national flag and called for the resignation of Chief Election Commissioner Gyanesh Kumar. Kumar oversaw the deletion of 130 million names from the voter rolls in India since June of last year. Opposition parties say those impacted are primarily Muslims and other minorities less likely to support the BJP , the Hindu nationalist ruling party of Prime Minister Narendra Modi. “You have a deep and wide — an ideologically wide — historical culture of resistanc",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/a7e182144cc2801d26d21097.json"
+    },
+    {
+      "id": "6e2d3128dc6722ed3eab6180",
+      "title": "Drone strikes kill hundreds in just days in Sudan",
+      "url": "https://breakthroughnews.org/2026/10/22/drone-strikes-kill-hundreds-in-just-days-in-sudan",
+      "author": "Pavan Kulkarni",
+      "source": "BT News",
+      "published_at": "2026-10-22T15:20:24+00:00",
+      "content_excerpt": "Drone strikes in war-torn Sudan have killed hundreds in just three days. Most of the deaths were in West Kordofan state, including in an area contested with South Sudan, sparking fears of a spillover of the war. The paramilitary Rapid Support Forces (RSF) reportedly killed 41 people by striking a gathering of Internally Displaced People (IDPs) near Sudan’s southeastern border with Ethiopia in the Blue Nile state last Friday, October 9. Later on Sunday, October 18, air defenses of the Sudanese Armed Forces (SAF), which heads the government, intercepted multiple suicide drones launched by the RSF. The drones targeted Upper Atbara and Setit dam complex in Gedaref state, and the Khashm El-Girba dam in neighboring Kassala. The following day, on October 19, the RSF launched a wave of drones towa",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/6e2d3128dc6722ed3eab6180.json"
+    },
+    {
+      "id": "83bdd0cdbeb861412df3a6e1",
+      "title": "We beat the Trump administration in court. Now we’re going to the ICC to hold the U.S. accountable for the Gaza genocide",
+      "url": "https://mondoweiss.net/2026/10/we-beat-the-trump-administration-in-court-now-were-going-to-the-icc-to-hold-the-u-s-accountable-for-the-gaza-genocide",
+      "author": "Tariq Ra’ouf",
+      "source": "Mondoweiss",
+      "published_at": "2026-10-22T14:32:25+00:00",
+      "content_excerpt": "A recent lawsuit successfully challenged the Trump administration's assault on the International Criminal Court. Now, families like mine, whose relatives have been killed with U.S.-supplied weapons in Gaza, might finally have a chance at justice.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/83bdd0cdbeb861412df3a6e1.json"
+    },
+    {
+      "id": "d2ba6b90e785ddf902e8533e",
+      "title": "The blinkers of bigotry",
+      "url": "https://mronline.org/2026/10/22/the-blinkers-of-bigotry",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-22T13:33:30+00:00",
+      "content_excerpt": "The current struggle of students and youth, though organized around specific and apparently limited objectives, like getting Gyanesh Kumar to resign as Chief Election Commissioner, is in reality against this entire social, political and economic counter-revolution that seeks to push the country back by centuries. The post The blinkers of bigotry appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/d2ba6b90e785ddf902e8533e.json"
+    },
+    {
+      "id": "4be6c59fa267becbd23f8079",
+      "title": "‘Once Upon a Time in Harlem’ film review: A must-see on Black history, arts, and politics",
+      "url": "https://mronline.org/2026/10/22/once-upon-a-time-in-harlem-film-review-a-must-see-on-black-history-arts-and-politics",
+      "author": "Ed Rampell",
+      "source": "MR Online",
+      "published_at": "2026-10-22T12:33:42+00:00",
+      "content_excerpt": "The Harlem Renaissance was a Black awakening in the arts, politics, fashion, etc., during circa the 1920s/1930s that, decades before the “Black Power” and “Black is Beautiful” movements, heralded the advent of “the New Negro.” The post ‘Once Upon a Time in Harlem’ film review: A must-see on Black history, arts, and politics appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/4be6c59fa267becbd23f8079.json"
+    },
+    {
+      "id": "10e023725b5c2a89178f7c5a",
+      "title": "Trump is sunk",
+      "url": "https://tempestmag.org/2026/10/trump-is-sunk",
+      "author": "Tempest National Committee",
+      "source": "Tempest",
+      "published_at": "2026-10-22T11:51:15+00:00",
+      "content_excerpt": "T o put it mildly, Trump is not having a good day. He is facing challenges from above: The Federal Reserve increased interest rates against his wishes. The Supreme Court ruled against his attempt to limit voting by mail. Judges have thwarted him on such issues as the Kennedy Center and his attempt to ban news outlets from the White House. Previously loyal Republicans are fleeing now that a Trump endorsement has become a curse . Major far-right media figures such as Tucker Carlson, Marjorie Taylor Greene and Joe Rogan have broken with him. Impeachment and corruption charges are looming. In addition, he is facing discontent from below: His approval ratings are at record lows . According to polls, 65 percent of voters disapprove of Trump, more than twice as many as the 32 percent who approve.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/10e023725b5c2a89178f7c5a.json"
+    },
+    {
+      "id": "90de51182ca15a443e24b2ba",
+      "title": "Doctors mobilize to hold Israeli Medical Association accountable",
+      "url": "https://mronline.org/2026/10/22/doctors-mobilize-to-hold-israeli-medical-association-accountable",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-22T11:33:43+00:00",
+      "content_excerpt": "Health workers demanded the World Medical Association suspend the Israeli Medical Association over medical ethics violations during the Gaza genocide. The post Doctors mobilize to hold Israeli Medical Association accountable appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/90de51182ca15a443e24b2ba.json"
+    },
+    {
+      "id": "90f5a129d9dcf666c051732e",
+      "title": "When protests serve the West, they are “revolutions”. When they challenge it, they are “violent riots”",
+      "url": "https://mronline.org/2026/10/22/when-protests-serve-the-west-they-are-revolutions-when-they-challenge-it-they-are-violent-riots",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-22T10:28:53+00:00",
+      "content_excerpt": "What matters is whose power is threatened, whose interests are served and whether the existing capitalist order is being challenged or strengthened. After all, democracy has never been independent of class interests. The post When protests serve the West, they are “revolutions”. When they challenge it, they are “violent riots” appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/90f5a129d9dcf666c051732e.json"
+    },
+    {
+      "id": "565a4afc57d997e669254ecb",
+      "title": "The long march at ninety: Sovereignty and dual power: The Twentieth Asia Newsletter (2026)",
+      "url": "https://mronline.org/2026/10/22/the-long-march-at-ninety-sovereignty-and-dual-power-the-twentieth-asia-newsletter-2026",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-22T09:25:06+00:00",
+      "content_excerpt": "Years before victory in 1949, Chinese communists built a state from below in the mountains of Ruijin–with its own bank, currency, schools, and recallable officials–offering lessons the Global South still needs today. The post The long march at ninety: Sovereignty and dual power: The Twentieth Asia Newsletter (2026) appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/565a4afc57d997e669254ecb.json"
+    },
+    {
+      "id": "90140687b5358d4dd9937b37",
+      "title": "In defense of abolition",
+      "url": "https://tempestmag.org/2026/10/in-defense-of-abolition-2",
+      "author": "Tempest Collective POC Caucus",
+      "source": "Tempest",
+      "published_at": "2026-10-22T09:01:05+00:00",
+      "content_excerpt": "T he Tempest Collective POC caucus invites you to a national Zoom panel and discussion on defending abolition. The event will take place this Saturday, October 24th, 2026 at 2 pm ET/1 pm CT/12 pm MT/11 am PT. You can register for the event here . Share the event flyer here . Opinions expressed in signed articles do not necessarily represent the views of the editors or the Tempest Collective. For more information, see “ About Tempest Collective .” Featured Image credit: Andrew Ratto , Fibonacci Blue ; modified by Tempest. The post In defense of abolition appeared first on Tempest .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/90140687b5358d4dd9937b37.json"
+    },
+    {
+      "id": "f7f4036ccf6e996232f645cd",
+      "title": "Cuba says arrest warrant against Raúl Castro is ‘pathetic Miami circus, with an electoral agenda’",
+      "url": "https://breakthroughnews.org/2026/10/22/cuba-says-arrest-warrant-against-raul-castro-is-pathetic-miami-circus-with-an-electoral-agenda",
+      "author": "Pablo Meriguet",
+      "source": "BT News",
+      "published_at": "2026-10-22T03:39:27+00:00",
+      "content_excerpt": "Last March, the US justice system reopened a case regarding the alleged responsibility of former Cuban President Raúl Castro in the shooting down of small planes belonging to the organization Brothers to the Rescue in 1996. Cuba has categorically rejected the US accusations. The Caribbean nation argues that the accusation is a distortion of the truth, given that Brothers to the Rescue is considered an organization linked to acts of terrorism and provocation against the country’s government. According to Havana , the aircraft were conducting illegal flights over Cuban airspace. They were reportedly asked repeatedly to refrain from entering Cuban airspace, but these requests were ignored, according to the Cuban justice system. Furthermore, according to the Cuban Foreign Ministry, Havana aske",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/f7f4036ccf6e996232f645cd.json"
+    },
+    {
+      "id": "2a92a7fec61e6b73e05dc926",
+      "title": "Israel deemed main ‘source of insecurity and instability’ in Asia at Baku conference",
+      "url": "https://breakthroughnews.org/2026/10/21/israel-deemed-main-source-of-insecurity-and-instability-in-asia-at-baku-conference",
+      "author": "Abdul Rahman",
+      "source": "BT News",
+      "published_at": "2026-10-21T22:41:58+00:00",
+      "content_excerpt": "Iran demanded Israel’s expulsion from the Conference on Interaction and Confidence Building Measures in Asia (CICA) for its crimes against Palestinians and other countries, calling it “the most important source of insecurity and instability” in the region. “If the international community does not stop America and Israel today, their aggression will spread to all independent countries … it is time for this [Zionist] regime to be expelled from the CICA mechanism,” Iran’s deputy Foreign Minister Kazem Gharibabadi said during its meeting on Thursday, October 15. The seventh summit of the 29 member CICA process, formed in 1999 as an inter-governmental forum for establishing peace, security, and stability in Asia was held in Baku, Azerbaijan on Thursday. Prior to Iran putting its demand for Isra",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/2a92a7fec61e6b73e05dc926.json"
+    },
     {
       "id": "723749d3845e8c8b0d611b72",
       "title": "BT LIVE: Iran War on the Brink | Lula-Bolsonaro Runoff in Brazil | Israel Votes",
@@ -66,246 +306,6 @@
       "priority": 2,
       "date_missing": false,
       "article_path": "articles/080407f27460a1633260b9ed.json"
-    },
-    {
-      "id": "0485af5cb817a8e9bd791c1c",
-      "title": "‘Palestine is about land’: Tanzania’s peasant farmers stand with Gaza and Havana",
-      "url": "https://breakthroughnews.org/2026/10/21/palestine-is-about-land-tanzanias-peasant-farmers-stand-with-gaza-and-havana",
-      "author": "Jonis Ghedi Alasow",
-      "source": "BT News",
-      "published_at": "2026-10-21T18:47:43+00:00",
-      "content_excerpt": "On the opening day of its National Smallholder Farmers’ Conference and 31st Annual General Meeting (AGM), held from September 29 to October 1, MVIWATA, Tanzania’s national network of smallholder farmers’ groups, set aside time during a program on land, seed, and markets to state solidarity with the peoples of Palestine and Cuba, with the ambassadors of both countries present in the hall. “We, the members of MVIWATA, who have convened in Morogoro for our 31st Annual General Meeting, wish to give a brief statement in support of the people of Palestine and the Cuban people,” read Theodora Pius, MVIWATA’s head of program, opening the statement. The organization said it was “extremely angered by the ongoing genocide of the Palestinian people” and “frustrated to see an open silence on war crimes",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/0485af5cb817a8e9bd791c1c.json"
-    },
-    {
-      "id": "4493f023df6236f755cf8528",
-      "title": "BreakThrough responds to Congressional threats to ‘hold the staff hostage’",
-      "url": "https://breakthroughnews.org/2026/10/21/breakthrough-responds-to-congressional-threats-to-hold-the-staff-hostage",
-      "author": "BreakThrough News",
-      "source": "BT News",
-      "published_at": "2026-10-21T15:51:09+00:00",
-      "content_excerpt": "In October, BreakThrough News received a letter from Rep. Jason Smith of the House Ways and Means Committee, threatening to personally subpoena seven members of our journalistic, editorial and administrative staff — including Rania Khalek, Zoe Alexandra and Amanda Yee — unless we handed over our financial records and internal communications. Through its attorneys, BreakThrough News has now issued an official response, which you can read below. Once again, we expressed that we would not surrender our First Amendment rights in the face of a blatantly unconstitutional abuse of power, and that no legitimate legislative basis has been established for this inquiry. In his own statements, Rep. Smith has made no attempt to disguise the fact that his Committee subpoenas are fueled by opposition to ",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/4493f023df6236f755cf8528.json"
-    },
-    {
-      "id": "adc304a00c0baf1e879d74a1",
-      "title": "Flamingo Revolution: Albania Protests Escalate over Corruption & Kushner/Trump Luxury Resort",
-      "url": "https://www.democracynow.org/2026/10/21/albania_protests_edi_rama",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-10-21T15:22:02+00:00",
-      "content_excerpt": "This is a rush transcript. Copy may not be in its final form. AMY GOODMAN : In Albania, student-led anti-government protests have rocked the capital Tirana for more than a week, as thousands have taken to the streets to call for the resignation of Prime Minister Edi Rama. Last week, the Albanian Student Union called for strikes and demonstrations at the Ministry of Education to protest high tuition costs, poor university conditions, a lack of jobs, and corruption. At least half a million young Albanians have left the country over the last decade in search of better economic opportunities. Initial protests have escalated into ongoing clashes with police, leading to hundreds of injuries and arrests, widespread damage to government buildings, street lights and private property. Riot police ha",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/adc304a00c0baf1e879d74a1.json"
-    },
-    {
-      "id": "a5be9e3f9d8fe23cc938f79f",
-      "title": "“When the Bubble Bursts”: Naomi Klein & Astra Taylor on Reclaiming Democracy from AI Oligarchs",
-      "url": "https://www.democracynow.org/2026/10/21/naomi_klein_astra_taylor_ai",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-10-21T15:22:02+00:00",
-      "content_excerpt": "We’re joined by Naomi Klein and Astra Taylor, co-authors of the book End Times Fascism , for a wide-ranging conversation on the multitrillion-dollar global investment in artificial intelligence and its reverberating effects around the world. Klein recently spoke at the People’s AI Assembly, alongside other critics of the artificial intelligence industry, including New York City Mayor Zohran Mamdani and former chair of the Federal Trade Commission Lina Khan. “The resistance to AI is taking many forms, and it’s really a resistance to oligarch power, which is concentrated in the hands of these tech companies,” Klein tells Democracy Now! “After 50 years of outsourcing and hollowing out of public functions of the state, the very last stage is the outsourcing of thinking, of intelligence itself.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/a5be9e3f9d8fe23cc938f79f.json"
-    },
-    {
-      "id": "468e14d3f6847345117d1171",
-      "title": "PFAS found in America’s lakes and streams",
-      "url": "https://mronline.org/2026/10/21/pfas-found-in-americas-lakes-and-streams",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-21T13:00:56+00:00",
-      "content_excerpt": "“Forever chemicals” are contaminating waterways across the United States. The post PFAS found in America’s lakes and streams appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/468e14d3f6847345117d1171.json"
-    },
-    {
-      "id": "a7d872d52738807e464e59e9",
-      "title": "Brazil protesters accuse Meta of election interference",
-      "url": "https://mronline.org/2026/10/21/brazil-protesters-accuse-meta-of-election-interference",
-      "author": "teleSUR Desk",
-      "source": "MR Online",
-      "published_at": "2026-10-21T12:03:28+00:00",
-      "content_excerpt": "Hundreds of Brazilians protested against alleged Meta interference in the presidential runoff, accusing the company of restricting Lula’s campaign content while boosting Flávio Bolsonaro’s. The Superior Electoral Court has given Meta 24 hours to demonstrate compliance with orders requiring equal treatment of both campaigns. The post Brazil protesters accuse Meta of election interference appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/a7d872d52738807e464e59e9.json"
-    },
-    {
-      "id": "d70ee553e9367b92f2eb0a40",
-      "title": "‘Economics’ is an ideology of the global North",
-      "url": "https://mronline.org/2026/10/21/economics-is-an-ideology-of-the-global-north",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-21T12:03:28+00:00",
-      "content_excerpt": "The latest Nobel award confirms that conventional mainstream economics is a northern ideology dominated by a few U.S. universities. The discipline doesn’t have much to say about the majority world. The post ‘Economics’ is an ideology of the global North appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/d70ee553e9367b92f2eb0a40.json"
-    },
-    {
-      "id": "0784d8b988f385e164c07e21",
-      "title": "Experience As a Whole: Expanding the Boundaries of Cultural Strategy",
-      "url": "https://convergencemag.com/articles/experience-as-a-whole-expanding-the-boundaries-of-cultural-strategy",
-      "author": "Evan Bissell",
-      "source": "Convergence",
-      "published_at": "2026-10-21T11:45:22+00:00",
-      "content_excerpt": "Just as sunlight on a sunny morning isn’t experienced as separated wavelengths and colors, we don’t live our lives as beings split into economic, cultural and political parts. For those of us working primarily with and through culture, how does this shape our work? In 1944, the anticolonial surrealist, writer and politician Aimé Césaire argued for the importance of “poetic knowledge” in… Source",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/0784d8b988f385e164c07e21.json"
-    },
-    {
-      "id": "aafdcfe7ee391af86eddcb52",
-      "title": "Europe: another 1968?",
-      "url": "https://mronline.org/2026/10/21/europe-another-1968",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-21T11:01:09+00:00",
-      "content_excerpt": "The revolt in Europe continues to grow and has echoes of the uprisings in 1968, writes John Rees. The post Europe: another 1968? appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/aafdcfe7ee391af86eddcb52.json"
-    },
-    {
-      "id": "9655bd46b06e57b924e6788f",
-      "title": "Despite Zionist attacks, pro-Palestine momentum grows",
-      "url": "https://mronline.org/2026/10/21/despite-zionist-attacks-pro-palestine-momentum-grows",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-21T09:59:26+00:00",
-      "content_excerpt": "The popular response to Canada’s support for genocide is the most significant and sustained internationally focussed social movement in this country’s history. The post Despite Zionist attacks, pro-Palestine momentum grows appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/9655bd46b06e57b924e6788f.json"
-    },
-    {
-      "id": "78d94aaa112a8d37fecee801",
-      "title": "Europe’s youth uprising: why millions are taking to the streets",
-      "url": "https://breakthroughnews.org/2026/10/20/europes-youth-uprising-why-millions-are-taking-to-the-streets",
-      "author": "Rania Khalek",
-      "source": "BT News",
-      "published_at": "2026-10-21T02:09:30+00:00",
-      "content_excerpt": "Schools without heat but billions for war: Across Europe, young people have had enough. Amina Vandenheuvel, MP for the Workers’ Party of Belgium (PTB) and a member of its youth movement RedFox, joins Zoe Alexandra and Rania Khalek as a rebellion against austerity and war sweeps the continent, from student blockades in Belgium and France to strikes against the draft in Germany and housing encampments in Spain. Vandenheuvel condemns the police repression of protesters, and explains why politicians keep the focus on property damage to discredit the movement – as the war on Iran and Europe’s rush to rearm for war with Russia push ordinary people to the brink. But she also argues anger alone isn’t enough: young people need political awareness, organization, and an anti-capitalist framework for ",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/78d94aaa112a8d37fecee801.json"
-    },
-    {
-      "id": "0ac39f36917cc912649f82d0",
-      "title": "From Nolan Wells to Kohen Wiley: racist killings ‘justified’ in Mississippi",
-      "url": "https://breakthroughnews.org/2026/10/20/from-nolan-wells-to-kohen-wiley-racist-killings-justified-in-mississippi",
-      "author": "Rania Khalek",
-      "source": "BT News",
-      "published_at": "2026-10-21T02:09:30+00:00",
-      "content_excerpt": "Mississippi just said a cop was justified in killing 1-year-old Kohen Wiley, and that no one will be held accountable in the suspicious death of 18-year-old Nolan Wells. Prince Williams, an organizer with the Party for Socialism and Liberation in North Carolina, and Jaden Foy, a student organizer at NC State, join Zoe Alexandra and Rania Khalek to explain why hundreds of HBCU students across five Southern states walked out of classes on the 60th anniversary of the founding of the Black Panther Party to demand justice for Nolan, Kohen, and all the Black youth robbed of their futures by militarized police. Williams and Foy react to Monday’s ruling that the Senatobia police officer was “justified” in firing into the car where Kohen Wiley sat on his mother’s lap, while responding to a call ove",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/0ac39f36917cc912649f82d0.json"
-    },
-    {
-      "id": "7a4e5a3ef4cd79197d9b2d62",
-      "title": "PTI demands whereabouts of Khyber Pukhtunkhwa’s CM and other detained leaders",
-      "url": "https://breakthroughnews.org/2026/10/20/pti-demands-whereabouts-of-khyber-pukhtunkhwas-cm-and-other-detained-leaders",
-      "author": "Abdul Rahman",
-      "source": "BT News",
-      "published_at": "2026-10-20T23:10:06+00:00",
-      "content_excerpt": "Pakistan Tehreek-e-Insaaf (PTI), the main opposition party in the country demanded, on Monday, October 29, the whereabouts of several of its leaders, including the Chief Minister of Khyber Pakhtunkhwa (KP), Sohail Afridi, kept in “preventive detention” by the state. The PTI has claimed that Afridi, Speaker of the Provincial Assembly Babar Saleem Swati, and at least six other members of the KP provincial assembly were “missing” since the dismissal of the elected government in the province on October 11 . Afridi and other PTI legislatures were arrested on October 11, hours after Pakistan’s federal government imposed a state of emergency and governor’s rule in the province. Though the Pakistan government has maintained that the concerned leaders are all in preventive detention, it has neither",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/7a4e5a3ef4cd79197d9b2d62.json"
-    },
-    {
-      "id": "f164dd8e25727aa81bd42cb3",
-      "title": "10 major press freedom and civil liberties groups demand Congress stop ‘unconstitutional’ targeting of BreakThrough News",
-      "url": "https://breakthroughnews.org/2026/10/20/10-major-press-freedom-and-civil-liberties-groups-demand-congress-stop-unconstitutional-targeting-of-breakthrough-news",
-      "author": "BreakThrough News",
-      "source": "BT News",
-      "published_at": "2026-10-20T22:14:47+00:00",
-      "content_excerpt": "A coalition of press freedom and civil liberties organizations is calling on the House Ways and Means Committee to abandon its threat to subpoena staffers at BreakThrough News . The House committee has demanded that BreakThrough employees testify before Congress unless the outlet withdraws its First Amendment and other objections to the committee’s earlier subpoenas and document requests by October 20. The committee says its inquiry is part of a tax-related investigation into one of BreakThrough ’s donors. But the committee and its chairman, Rep. Jason Smith, R-Mo., have also accused the outlet of “anti-American rhetoric” and “messaging that mirrors hostile government propaganda,” pointing to its criticism of immigration enforcement and of US and Israeli foreign policy. The letter outlines",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/f164dd8e25727aa81bd42cb3.json"
-    },
-    {
-      "id": "a7c5a835a6a9e6708481165e",
-      "title": "Italian government to deploy troops to Milan after anti-austerity protests",
-      "url": "https://breakthroughnews.org/2026/10/20/italian-government-to-deploy-troops-to-milan-after-anti-austerity-protests",
-      "author": "Ana Vračar",
-      "source": "BT News",
-      "published_at": "2026-10-20T21:20:59+00:00",
-      "content_excerpt": "Giorgia Meloni’s administration has announced the deployment of 500 military troops to Milan after a weekend of intense protests and riots resulted in broken windows at luxury shops. But while mainstream coverage has focused on exclusive brands hiding inventory from angry demonstrators, progressive organizations emphasize that the rage witnessed on the streets of several northern Italian cities is a result of the government’s own policies . “A Louis Vuitton bag can cost €5,600, while the monthly maximum for the wage guarantee fund in 2026 is €1,340,” wrote the grassroots union Unione Sindacale di Base (USB). In a statement on Tuesday, the union cited devastating national statistics, including data showing that over 14% of working-class families live in absolute poverty. Broken windows can ",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/a7c5a835a6a9e6708481165e.json"
-    },
-    {
-      "id": "564154cc4f48d8350f9637cd",
-      "title": "Cereal production rises to a historic high: Burkina Faso’s pursuit of food sovereignty",
-      "url": "https://breakthroughnews.org/2026/10/20/cereal-production-rises-to-a-historic-high-burkina-fasos-pursuit-of-food-sovereignty",
-      "author": "Pavan Kulkarni",
-      "source": "BT News",
-      "published_at": "2026-10-20T20:26:32+00:00",
-      "content_excerpt": "Cereal production in Burkina Faso has risen 53% to a record high under the government of Capt. Ibrahim Traoré, who has made food self-sufficiency an urgent priority since coming to power. ​ The country has produced 124% of the national cereal needs, the agricultural minister, Commander Ismaël Sombié, said earlier this month at the 3rd edition of the National Days of Patriotic Engagement and Citizen Participation (JEPPC). Paddy rice production for the first time exceeded a million tons in 2025, while Maize production reached well over 2,68 million tons, he added in his address to a panel titled “From field to market: producing and consuming Burkinabe to strengthen our sovereignty.” Including all other cereals, the total production of over seven million tons is a historic high. It was only 4",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/564154cc4f48d8350f9637cd.json"
     }
   ]
 }
