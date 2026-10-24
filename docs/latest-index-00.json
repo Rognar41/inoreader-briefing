@@ -1,12 +1,192 @@
 {
-  "generated_at": "2026-10-23T22:30:32.703713+00:00",
-  "generated_at_jst": "2026-10-24T07:30:32.703713+09:00",
-  "period_start": "2026-10-22T16:30:32.703713+00:00",
+  "generated_at": "2026-10-24T21:45:15.984327+00:00",
+  "generated_at_jst": "2026-10-25T06:45:15.984327+09:00",
+  "period_start": "2026-10-23T15:45:15.984327+00:00",
   "lookback_hours": 30,
   "folder": "00_毎日確認",
   "article_count": 20,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "76f69238e1421e01f75dde34",
+      "title": "Political Revolt in California",
+      "url": "https://www.laprogressive.com/election-and-campaigns/political-revolt-in-california",
+      "author": "Zoë Meyers",
+      "source": "LA Progressive",
+      "published_at": "2026-10-24T20:58:36+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Retired probation officer Diana Salcedo had downsized to a home in Imperial’s Paseo del Sol neighborhood and was looking forward to a new chapter in her life caring for her mother and young grandchildren. Then Salcedo found out about a proposal to build what could be California’s largest data center across the street. The more she learned about how data centers affect energy, water and quality of life for those living nearby, the more upset she became. “I was so angry,” she said. “I even cried.” That outrage inspired Salcedo, 65, a Republican who supports President Donald Trump, to join a grassroots movement of local residents fighting the proposed Imperial Valley Computer ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/76f69238e1421e01f75dde34.json"
+    },
+    {
+      "id": "7140caf70a9174f2629895d4",
+      "title": "They Voted for Trump",
+      "url": "https://www.laprogressive.com/election-and-campaigns/they-voted-for-trump",
+      "author": "Gabriel Thompson",
+      "source": "LA Progressive",
+      "published_at": "2026-10-24T18:48:59+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. On a sunny September afternoon, Juan Carlos stands behind the counter of his compact variety shop in California’s Central Valley, notes the lack of customers and pulls out a binder full of questions. During breaks, the slender 47-year-old is studying for his U.S. citizenship test. With business down 30% from a year ago, there’s plenty of time to study. “The other stores are also struggling,” he said. “Prices keep going up, so people are not spending.” Juan Carlos’ store, which sells a bit of everything — cowboy boots and piñatas, toiletries and backpacks — is in downtown Livingston, a small city in Merced County best known for its sprawling Foster Farms poultry plant and si",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/7140caf70a9174f2629895d4.json"
+    },
+    {
+      "id": "800fc1f016a5852748eff950",
+      "title": "Medicaid Cuts Pose Political Risk for Six-Term Congressman",
+      "url": "https://www.laprogressive.com/healthcare/medicaid-cuts",
+      "author": "Elizabeth Aguilera",
+      "source": "LA Progressive",
+      "published_at": "2026-10-24T18:07:11+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Danielle Velling depends on monthly injections to keep her severe asthma at bay in California’s Central Valley, one of the most polluted regions in the U.S., where asthma rates exceed those in other parts of the state. She receives the medication thanks to Medicaid, the government-funded insurance program, known in California as Medi-Cal. But now she worries she could lose that insurance. Concern about cuts to health care prompted Velling, and dozens of others, to spend a record hot evening last month campaigning for upstart Democrat Randy Villegas. The college professor and local school board member aims to unseat longtime Republican Rep. David Valadao in a congressional r",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/800fc1f016a5852748eff950.json"
+    },
+    {
+      "id": "b9fe66364b8ffc08bd4c4c85",
+      "title": "Trump's One-Man Horror Show Continues",
+      "url": "https://www.laprogressive.com/american-history/trumps-one-man-horror-show-continues",
+      "author": "William J. Astore",
+      "source": "LA Progressive",
+      "published_at": "2026-10-24T18:01:26+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Donald Trump is a one-man horror show. Call him “annihilation man” for threatening to exterminate nearly 93 million Iranians for the crime of defying his will (and that of Israel and Netanyahu). I don’t write about Trump a lot because he’s so scrutable. He is what he is, an utterly shameless con man, a bullying narcissist who’s always on the make. What he isn’t, what he’s never been, what he never will be, is a public servant. Sadly, he has a lot of company. Few prominent politicians today really are, and if they are, the system does its best to corrupt them or expunge them if they can’t be corrupted. Trump came pre-corrupted, so to speak. Put more charitably, the powers th",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/b9fe66364b8ffc08bd4c4c85.json"
+    },
+    {
+      "id": "ffec67915b592ec0fe501e25",
+      "title": "Upsurges Bubble Around the Globe but Will it Evolve into Effective Change?",
+      "url": "https://www.laprogressive.com/civil-liberties-and-civil-rights/upsurges-bubble",
+      "author": "Michael Albert",
+      "source": "LA Progressive",
+      "published_at": "2026-10-24T17:54:25+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Reports show activism of many minds, addressing many topics and reaching considerable scale erupting in many places. Education, housing, corruption, jobs, prices, immigration, regimentation, fascism, war, data centers, weather, electoral campaigns, and more. France, Spain, Belgium, Albania, Brazil, Serbia, India, Nepal, Bangladesh, and more. What to do? On the one hand, where you are, if it arrives, participate. If it hasn’t yet arrived, try to initiate it. So far, so obvious. But a larger, overarching possibility beckons. Spread the eruption. Enlarge each outbreak. Make it all last. Still obvious. But how? What can turn a temporary eruption that may or may not win some spe",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/ffec67915b592ec0fe501e25.json"
+    },
+    {
+      "id": "1212e273468cf824fef73454",
+      "title": "World Record Presidency",
+      "url": "https://www.laprogressive.com/progressive-issues/world-record-presidency",
+      "author": "Steve Hochstadt",
+      "source": "LA Progressive",
+      "published_at": "2026-10-24T17:41:37+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Although the Nobel Prize for Peace has eluded Donald Trump thus far, proper recognition of his peacemaking abilities will certainly come eventually. In the meantime, I believe that his unprecedented achievements should be enumerated and recognized. I propose to seek the approval of that arbiter of the extraordinary, the Guinness World Records, for Trump’s supremacy in the following categories, only a sampling of the possibilities. Largest number of high-ranking female administration officials, personally chosen, fired in one week. See stories about Kimberly Ann Guilfoyle and Kate Sharon Zacharia. The tidbit that one announced the firing of the other cannot be encompassed in",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/1212e273468cf824fef73454.json"
+    },
+    {
+      "id": "e33c1f6e0cd8fe6c1d97869f",
+      "title": "A New Israeli Government Won’t Stop the Settlements",
+      "url": "https://jacobin.com/2026/10/israel-palestine-elections-settlements-occupation",
+      "author": "Diana Buttu",
+      "source": "Jacobin",
+      "published_at": "2026-10-24T16:42:07+00:00",
+      "content_excerpt": "Next Tuesday, Israel will hold its first general election since the October 7 attacks and the destruction of Gaza. The election campaign has again illustrated the radicalization of Israeli politics, even beyond Benjamin Netanyahu’s government, and the breadth of political forces who staunchly resist the creation of a Palestinian state. In an interview, Palestinian Canadian lawyer and analyst Diana Buttu, who lives in Haifa, explains why she will cast her ballot in this election while rejecting Israel’s claim to be a democracy. Speaking to Elias Feroz for Jacobin , she discusses what a change of government could — and could not — mean for Palestinians, the new death penalty law, and the planned Palestinian elections next month. Elias Feroz Recent polls indicate that Benjamin Netanyahu may b",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/e33c1f6e0cd8fe6c1d97869f.json"
+    },
+    {
+      "id": "a83a8016a26ebf77ffd2c2ab",
+      "title": "Brazil’s Far-Right Trajectory Is a Warning for Us All",
+      "url": "https://jacobin.com/2026/10/brazil-far-right-social-disintegration-exploitation",
+      "author": "Rodrigo Nunes",
+      "source": "Jacobin",
+      "published_at": "2026-10-24T15:45:10+00:00",
+      "content_excerpt": "Attempts to make generalizations from what happens in the United States and Europe to the rest of the planet do not, as a rule, meet with much surprise; these are, after all, generally assumed to be the most advanced edges of world history, where processes that will eventually spread to other regions first take hold. Most of the literature on the lethal danger surrounding democracies that has flourished in the last decade implicitly assumes these central countries as the normative standard from which others — and increasingly themselves — can be measured as deviations. Starting from a place like Brazil, on the other hand, does not enjoy the same air of self-evidence and seems to require some explaining. Countries on the periphery are supposed to be somehow quirky and unique, partaking in w",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/a83a8016a26ebf77ffd2c2ab.json"
+    },
+    {
+      "id": "5518bacabb793d9c35abb70d",
+      "title": "Hyman Minsky Was a Powerful Critic of Capitalism",
+      "url": "https://jacobin.com/2026/10/minsky-finance-instability-capitalism-stages",
+      "author": "Riccardo Bellofiore",
+      "source": "Jacobin",
+      "published_at": "2026-10-24T14:44:27+00:00",
+      "content_excerpt": "Thirty years after Hyman Minsky’s death, his name is more familiar than his political economy. Whenever asset prices collapse, leverage suddenly matters, or a financial boom turns into panic, someone announces a new “Minsky moment.” The phrase has become shorthand for the point at which a speculative expansion can no longer sustain itself. Hedge finance turns into speculative finance, speculative finance into Ponzi finance, and a structure that appeared stable suddenly discovers that everybody cannot become liquid at the same time. This posthumous fame has narrowed our understanding of Minsky’s legacy . He was not primarily a prophet of crashes. Rather, he was a theorist of a capitalism that changes its institutional form, and of the ways financial instability itself helps produce those ch",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/5518bacabb793d9c35abb70d.json"
+    },
+    {
+      "id": "0a06b8fdd1584bd862ca9e7c",
+      "title": "Israel’s Rogue State Behavior Is Somehow Only Worsening",
+      "url": "https://jacobin.com/2026/10/israel-gaza-iran-crimes-settlers",
+      "author": "Branko Marcetic",
+      "source": "Jacobin",
+      "published_at": "2026-10-24T13:39:28+00:00",
+      "content_excerpt": "I t is not a novel point that Israel acts like a rogue state , or that its behavior toward the United States often more closely resembles the behavior of an adversary than that of an ally. But it’s still worth periodically noting just how extreme its misbehavior on the world stage is, given that it is underwritten by the US taxpayers, even as majorities of Americans don’t want it to be. Let’s just keep it to things that have happened roughly this past week; otherwise this piece could end up being the length of a medium-sized book. There was the incident where illegal Israeli settlers in the West Bank — who are financed , armed , enabled , and otherwise supported in every possible way by the Israeli government — viciously attacked a Washington Post photojournalist, breaking her ribs and fra",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/0a06b8fdd1584bd862ca9e7c.json"
+    },
+    {
+      "id": "9b77cf75c564358e9889d7ea",
+      "title": "Pressure Campaigns",
+      "url": "https://www.laprogressive.com/left-coast-forum/pressure-campaigns",
+      "author": "Guest Author",
+      "source": "LA Progressive",
+      "published_at": "2026-10-24T03:41:34+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. What happens when activists stop asking corporations to do the right thing and start making it expensive for them to do the wrong thing? That question was at the heart of “Pressure Campaigns: The Power of Boycotts and Direct Action,” a panel at the fourth annual Left Coast Forum, held October 2–4, 2026, at Cal State Los Angeles. Moderated by MaryLinda Moss , artist, activist, and founding member of NELA Alliance for Democracy, the discussion brought together Miriam Arghandiwal , an organizer with the Boycott Home Depot Coalition and Entertainment Labor for Palestine; Chris Abrahamsen , co-founder of Grassroots Activist International Association and regional director of ICEB",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/9b77cf75c564358e9889d7ea.json"
+    },
+    {
+      "id": "d058fa4bb9fd5d0f28692397",
+      "title": "The Impact of ICE",
+      "url": "https://www.laprogressive.com/left-coast-forum/the-impact-of-ice",
+      "author": "Guest Author",
+      "source": "LA Progressive",
+      "published_at": "2026-10-24T00:46:49+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. A mother detained while seeking her green card. A woman arrested outside her home in pajamas and slippers. A transgender immigrant forced to choose between prolonged isolation and the threat of violence. A 60-year-old woman imprisoned for months after immigration agents allegedly mistook her for a 25-year-old. These were not hypothetical scenarios. They were among the experiences described by immigrant rights advocates at the fourth annual Left Coast Forum , held October 2–4, 2026, at California State University, Los Angeles. The panel, “The Impact of ICE: The Fight to Shut Down the Concentration Camps in California,” brought together organizers confronting the expansion of",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/d058fa4bb9fd5d0f28692397.json"
+    },
     {
       "id": "e56e6ffb0d0264e840e549de",
       "title": "There’s No End in Sight to Yemen’s Destructive War",
@@ -126,186 +306,6 @@
       "priority": 1,
       "date_missing": false,
       "article_path": "articles/36d7ad30792b555e48d5e8e2.json"
-    },
-    {
-      "id": "9fe8390969e28f49588481bd",
-      "title": "Lula Must Win. Now It Looks Like He Can.",
-      "url": "https://jacobin.com/2026/10/election-bolsonaro-crime-corruption-scandal",
-      "author": "Benjamin Fogel",
-      "source": "Jacobin",
-      "published_at": "2026-10-23T15:19:15+00:00",
-      "content_excerpt": "As Brazil heads to the polls on Sunday, the latest polls show Flávio Bolsonaro’s lead over incumbent president Luiz Inácio Lula da Silva narrowing. One pollster, Qeast , had the eldest of Jair’s brood on 45 percent, just 1 point ahead of Lula. Flávio’s rejection rates have been steadily climbing since he flopped in last Sunday’s debate. While there is a good chance Brazil may still elect the crooked son of a convicted idiot, three weeks after his first-round victory, it’s also clear that Lula is back in the game thanks to a historic mobilization. Bolsonaro’s campaign has largely tried to keep him out of the limelight while portraying him as a more moderate version of his father and pushing anti-incumbent messaging through influencers and proxies. After winning the first round by 2 percent,",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/9fe8390969e28f49588481bd.json"
-    },
-    {
-      "id": "9859fdde437b9bd25aadf105",
-      "title": "Let Them Eat Touchdowns",
-      "url": "https://www.laprogressive.com/foreign-policy/let-them-eat-touchdowns",
-      "author": "Desi Cortez",
-      "source": "LA Progressive",
-      "published_at": "2026-10-23T14:18:14+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. The Pittsburgh Steelers and New Orleans Saints are headed to Paris for Sunday's NFL alley fight, , bringing helmets, shoulder pads, cleats, television cameras, Wall Street sponsors, luxury fatcat suites, and football's favorite religion: **the almighty American dollar.** Meanwhile, beyond the stadium gates, France is burning, ablaze. Repeat, France is on FIRE! Students are protesting deteriorating schools. Workers are pissed, and I mean pissed, about the cost of living and erosion of public services. Everyday people, those souls who cook the meals, sweep the floors, teach the children, and keep somewhat civilized civilization up and running, are demanding something more tha",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/9859fdde437b9bd25aadf105.json"
-    },
-    {
-      "id": "cc2e7d53dc03763eb4ad758a",
-      "title": "Wall Street Is Getting Very Nervous About AI",
-      "url": "https://jacobin.com/2026/10/artificial-intelligence-investors-finance-bubble",
-      "author": "Branko Marcetic",
-      "source": "Jacobin",
-      "published_at": "2026-10-23T14:15:08+00:00",
-      "content_excerpt": "For an industry that we’re told is central to our collective future, the artificial intelligence (AI) industry increasingly seems to be built on a combination of artificially inflated hopes and bad accounting. The industry’s critics have been raising concerns about its finances for a while: the fact that most of its flagship firms are grossly unprofitable , that they’ve had to jack up their prices to try break even (leading their business customers to pump the brakes on using their products), or that many of the eye-popping investment announcements that are meant to show demand for AI is strong have actually been circular financing — meaning different AI firms cycling money to and from each other. But none of it has seemed to slow the industry’s boom or the relentless hype machine behind i",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/cc2e7d53dc03763eb4ad758a.json"
-    },
-    {
-      "id": "9fc4e1aedede9983dcd68320",
-      "title": "Class Struggle in the Major Leagues",
-      "url": "https://reformandrevolution.org/2026/10/23/class-struggle-in-the-major-leagues",
-      "author": "",
-      "source": "Reform & Revolution",
-      "published_at": "2026-10-23T13:47:58+00:00",
-      "content_excerpt": "On December 1st, 2026, at 11:59 PM, the collective bargaining agreement between Major League Baseball (MLB) and the Major League Baseball Player’s Association (MLBPA) will expire. Within a minute of the expiration, MLB owners will institute a lock-out of players , even though it is the off-season. Their likenesses will be scrubbed from all public-facing MLB media; teams will no longer be able to communicate with players and vice-versa. This will lead to a stalemate: neither side will make concessions, each waiting until the start of “spring training”, the pre-season for MLB. It is at this point that the struggle begins in earnest, as delays threaten the loss of paychecks and game revenue. Public pressure will begin to mount on both sides. In other sports, the risk of missed paychecks usual",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/9fc4e1aedede9983dcd68320.json"
-    },
-    {
-      "id": "79a5bffdce55eeb86aa4bf20",
-      "title": "Homelessness Crisis",
-      "url": "https://www.laprogressive.com/housing-and-homlessness/olympics-homelessness-crisis",
-      "author": "Dick Platkin",
-      "source": "LA Progressive",
-      "published_at": "2026-10-23T13:22:52+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. After two years of reported declines, homelessness rose again in Los Angeles in 2026. The city's unsheltered population increased by nearly 8% , underscoring the urgency of addressing housing insecurity as the 2028 Olympic Games approach. The 2028 Olympic Organizing Committee has an answer to this development: send the homeless out to the desert . Infact, this has already begun. While there are non-profits, such as the Economic Roundtable which offer more compassionate solutions , everything costs money, and what they offer is unfunded strategies, such as restoring the lives of the homeless through small financial grants, jobs, and housing. “Restoring the lives of unshelter",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/79a5bffdce55eeb86aa4bf20.json"
-    },
-    {
-      "id": "74b55005122a41c741145656",
-      "title": "Chris Wickham Revolutionized Our View of the Middle Ages",
-      "url": "https://jacobin.com/2026/10/wickham-marxism-history-middle-ages",
-      "author": "Paolo Tedesco",
-      "source": "Jacobin",
-      "published_at": "2026-10-23T13:09:52+00:00",
-      "content_excerpt": "With the passing of Chris Wickham earlier this month, we have lost the greatest medieval historian since Marc Bloch, and one of the most original Marxist historians ever. In his career, which spanned half a century, Wickham wrote more than twenty books and two hundred articles. In these works, he showed how the social and economic structures of Europe and the Mediterranean transformed in the period from 500 to 1500. Key factors in his analysis were the rise and fall of the state, the political and economic role of the landowning elites, and the protagonism of the peasants. His massive intellectual production revolutionized not only our idea of the Middle Ages but above all our understanding of how societies function and change across time. Formative Years Chris Wickham was born on May 18, ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/74b55005122a41c741145656.json"
-    },
-    {
-      "id": "62aebc0b30209aba81c27dcc",
-      "title": "anti-Somali Hysteria",
-      "url": "https://www.laprogressive.com/racism/anti-somali-hysteria",
-      "author": "Ann Garrison",
-      "source": "LA Progressive",
-      "published_at": "2026-10-23T12:33:01+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. On the morning of October 12, 2026, federal agents from Donald Trump’s Department of Homeland Security raided the Washington, D.C., home of Minnesota’s Democratic Congressmember Ilhan Omar, a Somali American who represents the state’s Fifth District. She has not been charged with a crime but according to sources her phone was seized and possible charges include conspiracy and making false statements in immigration paperwork. It is also reported that one dozen subpoenas have been issued. Trump followed up with one of his most deranged Somali-hating rants yet at a Youngstown, Ohio rally for Republican Senate candidate Jon Husted: I call it [Minnesota] Somalia land, not Somali",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/62aebc0b30209aba81c27dcc.json"
-    },
-    {
-      "id": "783587beb3967e66586ac2e1",
-      "title": "Black Panthers at 60",
-      "url": "https://www.laprogressive.com/racism/black-panthers-at-60",
-      "author": "Melina Abdullah",
-      "source": "LA Progressive",
-      "published_at": "2026-10-23T12:04:04+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Over the last several weeks, we have been slapped with the reality that this nation’s systems were never designed to benefit or bring justice to Black people. In fact, the nation was built on our backs and profits from our exploitation and oppression. Most recent verdicts and rulings in the murders of Baby #KohenWiley, #NolanWells, #MarchelloWoodard, Sr. Airman #RogerFortson, #JaylenLewis, and #FrankTyson, are emblematic of the ways in which we are constantly betrayed by the entire (in)justice system. Politicians unleash pol(ICE) to kill at will. Even the best and brightest among us (Karmelo Anthony) are sentenced to lifetimes in cages after being forced to defend themselve",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/783587beb3967e66586ac2e1.json"
-    },
-    {
-      "id": "0d622d8f8627f500e6e153fe",
-      "title": "October Surprise? Bloomberg’s $80 Million for Democrats Leaves Out Democratic Socialists",
-      "url": "https://democraticleft.dsausa.org/2026/10/23/october-surprise-bloombergs-80-million-for-democrats-leaves-out-democratic-socialists",
-      "author": "tfrasca@yahoo.com",
-      "source": "Democratic Left",
-      "published_at": "2026-10-23T11:57:42+00:00",
-      "content_excerpt": "Bernie joins Angie Nixon in Florida, Larry David joins DSA, and more in this edition of “Red All Over,” Democratic Left’s occasional news roundup. The post October Surprise? Bloomberg’s $80 Million for Democrats Leaves Out Democratic Socialists appeared first on Democratic Left .",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/0d622d8f8627f500e6e153fe.json"
-    },
-    {
-      "id": "f345999221411cd5baf6f400",
-      "title": "California Mushrooms",
-      "url": "https://www.laprogressive.com/sponsored/california-mushrooms",
-      "author": "Britta Hedlund",
-      "source": "LA Progressive",
-      "published_at": "2026-10-23T00:07:01+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. If you live in California, you've probably watched mushrooms pop up overnight in your yard after the first good rain. Maybe you spotted something bright orange on a trail, or a perfect white cap growing near an oak tree and thought — what is that thing? California's wet winters (roughly November through March) create ideal conditions for fungi. Whether you're in San Diego, the Bay Area, or somewhere in between, these are 20 species you're most likely to run into. If you want a second opinion in the field, try MushDex mushroom identifier — a free mushroom identification tool you can use online or through its mobile app. One thing before we dive in: never eat a wild mushroom ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/f345999221411cd5baf6f400.json"
-    },
-    {
-      "id": "6726ac76b521d07908726aec",
-      "title": "Prepare Your E-Bike",
-      "url": "https://www.laprogressive.com/sponsored/prepare-your-e-bike",
-      "author": "Sejal Desai",
-      "source": "LA Progressive",
-      "published_at": "2026-10-22T23:52:30+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Winter can bring cold temperatures, snow, rain, ice, and shorter days. These conditions can affect your electric bike's battery, tires, brakes, and other important parts. Preparing your e-bike before winter arrives can help you ride more safely, maintain reliable performance, and protect your bike from unnecessary wear. Whether you use your e-bike for daily commuting, weekend adventures, or outdoor activities, a little preparation can make a big difference. You do not need expensive equipment or advanced mechanical skills to get started. Simple steps, such as checking your battery, cleaning your bike, inspecting your brakes, and choosing suitable tires, can help you enjoy m",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/6726ac76b521d07908726aec.json"
-    },
-    {
-      "id": "30ed8cf30e04cfac96907942",
-      "title": "Black Agenda Report October 23, 2026",
-      "url": "https://www.blackagendareport.com/black-agenda-report-october-23-2026",
-      "author": "bareditors",
-      "source": "Black Agenda Report",
-      "published_at": "2026-10-22T23:38:48+00:00",
-      "content_excerpt": "Black Agenda Report October 23, 2026 Authors Black Agenda Radio with Margaret Kimberley bareditors Fri, 10/23/2026 - 04:13 Black Agenda Radio · Black Agenda Report October 23, 2026 In this week’s segment, we hear about the ongoing uprising in France against neo-liberal austerity, colonialism, and white supremacy. But first, we discuss a new report that reveals a 25% decline in wealth held by Black people in the United States. African America black wealth US Economy Racism white supremacy France imperialism Neoliberalism Education",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/30ed8cf30e04cfac96907942.json"
     }
   ]
 }

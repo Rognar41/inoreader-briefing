@@ -1,12 +1,177 @@
 {
-  "generated_at": "2026-10-23T22:30:32.703713+00:00",
-  "generated_at_jst": "2026-10-24T07:30:32.703713+09:00",
-  "period_start": "2026-10-22T16:30:32.703713+00:00",
+  "generated_at": "2026-10-24T21:45:15.984327+00:00",
+  "generated_at_jst": "2026-10-25T06:45:15.984327+09:00",
+  "period_start": "2026-10-23T15:45:15.984327+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
   "article_count": 20,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "3dfae6d144d4fe4bd22f6118",
+      "title": "Brazil’s election is a referendum on Israel, and the last hurdle for Latin America’s pro-Israel right",
+      "url": "https://mondoweiss.net/2026/10/brazils-election-is-a-referendum-on-israel-and-the-last-hurdle-for-latin-americas-pro-israel-right",
+      "author": "Ana Maria Monjardino",
+      "source": "Mondoweiss",
+      "published_at": "2026-10-24T18:28:36+00:00",
+      "content_excerpt": "Brazil’s Oct. 25 presidential runoff is a referendum on Israel and the final test of Latin America’s rightward swing, with Lula and Flávio Bolsonaro offering starkly different paths for Palestine.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/3dfae6d144d4fe4bd22f6118.json"
+    },
+    {
+      "id": "852da18e75ba218af607b027",
+      "title": "Latin America: the ‘cultural battle’ as a facade for neoliberalism",
+      "url": "https://breakthroughnews.org/2026/10/24/latin-america-the-cultural-battle-as-a-facade-for-neoliberalism",
+      "author": "Pablo Meriguet",
+      "source": "BT News",
+      "published_at": "2026-10-24T16:42:54+00:00",
+      "content_excerpt": "For several years now, politicians, influencers, and intellectuals from Latin America’s new radical right have been speaking about the importance of the “cultural battle” to recover a sort of perspective lost in the past and to underpin a civilizational project that prioritizes the individual, individual freedom, and the free market above all else. Probably the first to insist on this idea in the media was Javier Milei, the current president of Argentina, who initially made a name for himself as an economist who had no problem insulting his opponents and defending orthodox neoliberal thought. At that time, Milei, along with his intellectual allies, called for a stand against a purported culture imposed by so-called left-wing elites who had tarnished common sense, Christian morality, and in",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/852da18e75ba218af607b027.json"
+    },
+    {
+      "id": "6fe3a6ecd563f741d43d6750",
+      "title": "Tanzania’s smallholder farmers set their course in Morogoro",
+      "url": "https://breakthroughnews.org/2026/10/24/tanzanias-smallholder-farmers-set-their-course-in-morogoro",
+      "author": "Jonis Ghedi Alasow",
+      "source": "BT News",
+      "published_at": "2026-10-24T16:42:54+00:00",
+      "content_excerpt": "Some 850 smallholder farmers from across mainland Tanzania and Zanzibar met in Morogoro from September 29 to October 1 for the National Smallholder Farmers’ Conference and the 31st Annual General Meeting (AGM) of MVIWATA, the network of Tanzania’s smallholder farmers’ groups. The theme was “Towards Food Sovereignty: Land Security, Agroecology and Economic Justice for Smallholder Farmers” (“Kuelekea Uhuru wa Chakula: Uhakika wa Ardhi, Kilimo Ikolojia na Haki Uchumi kwa Wakulima Wadogo”). The AGM is MVIWATA’s highest body. Founded by farmers in 1993, the organization interacted directly with 58,916 farmers last year, 57% of whom were women, according to its own count. Two days of conference debate precede the AGM, allowing members to debate policy before coming together to decide the way for",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/6fe3a6ecd563f741d43d6750.json"
+    },
+    {
+      "id": "d327a8a8edd0ca8de5743036",
+      "title": "Netanyahu declares full lockdown of West Bank after two Israeli soldiers killed in Hebron",
+      "url": "https://breakthroughnews.org/2026/10/24/netanyahu-declares-full-lockdown-of-west-bank-after-two-israeli-soldiers-killed-in-hebron",
+      "author": "Aseel Saleh",
+      "source": "BT News",
+      "published_at": "2026-10-24T16:42:54+00:00",
+      "content_excerpt": "Two Palestinian men carried out a shooting attack , targeting a group of Israeli soldiers near the Farsh al-Hawa military checkpoint in the southern West Bank governorate of Hebron on Friday, October 23. According to media reports, the attackers were assassinated by the Israeli forces after engaging in an exchange of fire for about 20 minutes. They were later identified as Firas al-Ju’ba and Hamoudah al-Ju’ba. The attack also resulted in the killing of two Israeli soldiers and the injury of three others. Netanyahu announces refugee-camp model campaign in Hebron and broader West Bank operation In response to the attack, Israeli Prime Minister Benjamin Netanyahu declared a full lockdown in the West Bank and a large-scale operation that will start from the city of Hebron and the neighboring c",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/d327a8a8edd0ca8de5743036.json"
+    },
+    {
+      "id": "176c1e83bdeb5783173af927",
+      "title": "Dominican Republic becomes latest Latin American country to adopt IHRA antisemitism definition amid regional shift to the right",
+      "url": "https://mondoweiss.net/2026/10/dominican-republic-becomes-latest-latin-american-country-to-adopt-ihra-antisemitism-definition-amid-regional-shift-to-the-right",
+      "author": "Simón Rodríguez",
+      "source": "Mondoweiss",
+      "published_at": "2026-10-24T13:40:44+00:00",
+      "content_excerpt": "Adopting the IHRA definition of antisemitism has become a marker of Latin America's rightward shift, as governments across the region align with Israeli foreign policy and move to criminalize solidarity with Palestine.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/176c1e83bdeb5783173af927.json"
+    },
+    {
+      "id": "486fcae23b08874334b57db3",
+      "title": "Is the best mathematician in the world an AI model?",
+      "url": "https://mronline.org/2026/10/24/is-the-best-mathematician-in-the-world-an-ai-model",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-24T13:03:17+00:00",
+      "content_excerpt": "ON October 6, 2026, OpenAI put out a document announcing new solutions to longstanding mathematical problems proved by an Artificial Intelligence (AI) model. The post Is the best mathematician in the world an AI model? appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/486fcae23b08874334b57db3.json"
+    },
+    {
+      "id": "ac423ab6945d8bffaf7a1082",
+      "title": "The normality of evil: Reflections on the “NAZA” documentary",
+      "url": "https://mronline.org/2026/10/24/the-normality-of-evil-reflections-on-the-naza-documentary",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-24T13:03:17+00:00",
+      "content_excerpt": "Hannah Arendt’s characterization of Eichmann as representing “The Banality of Evil,” the subtitle of her book Eichmann in Jerusalem, shocked many people. The post The normality of evil: Reflections on the “NAZA” documentary appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/ac423ab6945d8bffaf7a1082.json"
+    },
+    {
+      "id": "15b8b0b60b8eeb7e0b316700",
+      "title": "William Morris: Art, Revolution, and the Dream of a Different Society",
+      "url": "https://mronline.org/2026/10/24/william-morris-art-revolution-and-the-dream-of-a-different-society",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-24T12:00:16+00:00",
+      "content_excerpt": "In 1883 Morris joined the Democratic Federation. He lectured, sold socialist newspapers, and poured his money into the cause. “Apart from the desire to produce beautiful things,” he wrote, “the leading passion of my life has been and is hatred of modern civilisation.” The post William Morris: Art, Revolution, and the Dream of a Different Society appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/15b8b0b60b8eeb7e0b316700.json"
+    },
+    {
+      "id": "8f1969a23a1edb44f7729597",
+      "title": "Is China’s foreign policy good enough?",
+      "url": "https://mronline.org/2026/10/24/is-chinas-foreign-policy-good-enough",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-24T11:00:55+00:00",
+      "content_excerpt": "BEN CHACKO recommends corrective to the scaremongering: a collection of essays whose common theme is that China’s rise is overwhelmingly positive. The post Is China’s foreign policy good enough? appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/8f1969a23a1edb44f7729597.json"
+    },
+    {
+      "id": "b6cd3053c1660cd41d7e06ca",
+      "title": "Don’t pretend the ‘War on Drugs’ has anything to do with fighting drugs",
+      "url": "https://mronline.org/2026/10/24/dont-pretend-the-war-on-drugs-has-anything-to-do-with-fighting-drugs",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-24T09:56:53+00:00",
+      "content_excerpt": "Addressing the UN General Assembly in September, Donald Trump gloated about his strategy toward “narcoterrorist” cartels, the menace du jour in the United States’ self-declared backyard. Pulling numbers out of his ass per usual, Trump claimed that the manic bombing campaign against alleged seafaring narcoterrorists (read: fishermen) in Central and South America has cut maritime […] The post Don’t pretend the ‘War on Drugs’ has anything to do with fighting drugs appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/b6cd3053c1660cd41d7e06ca.json"
+    },
+    {
+      "id": "c36a3be6f8a394df8d2f5c9e",
+      "title": "Justice for Oscar Belgal",
+      "url": "https://tempestmag.org/2026/10/justice-for-oscar-belgal",
+      "author": "Compas de la Diáspora",
+      "source": "Tempest",
+      "published_at": "2026-10-24T02:37:38+00:00",
+      "content_excerpt": "W e join the voices in New York City and the nation in denouncing the most recent ICE shooting and subsequent kidnapping of 28 year old Dominican immigrant and father Oscar Belgal. On October 8, Oscar was surrounded by ICE agents and shot at seven times while in his vehicle during a busy afternoon when many children and parents were around. One of the shots hit his neck. Eyewitnesses describe how he was held by ICE agents and NYPD officers as 20 minutes passed before any ambulance arrived at the crime scene. Oscar was taken to nearby Allen Pavilion hospital and then later kidnapped by ICE agents to an unknown location. We demand his immediate freedom. The shooter has been identified as Kevin Brodowsky. Also on the scene was notorious ICE goon Brenden Cuni who was wearing a construction ves",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/c36a3be6f8a394df8d2f5c9e.json"
+    },
     {
       "id": "bb1927a2d2cd18dae0cdfe3c",
       "title": "Albania’s protests show no signs of backing down",
@@ -141,171 +306,6 @@
       "priority": 2,
       "date_missing": false,
       "article_path": "articles/f031d0f15ad6d02420037d53.json"
-    },
-    {
-      "id": "7ebe706dd6dcee14c6f4c2ac",
-      "title": "Arundhati Roy: Artificial Intelligence is Capitalism’s Final Destination",
-      "url": "https://www.democracynow.org/2026/10/23/arundhati_roy_artificial_intelligence_is_capitalism",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-10-23T15:53:23+00:00",
-      "content_excerpt": "Pt. of our conversation with Arundhati Roy talking about AI and her new essay, “Apocalypse Now and Then: Artificial Intelligence is Capitalism’s Final Destination.” Topics Guests",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/7ebe706dd6dcee14c6f4c2ac.json"
-    },
-    {
-      "id": "b8cc7d694d2987180c798f5c",
-      "title": "Kenyan Communist leader Booker Omole acquitted on all counts",
-      "url": "https://breakthroughnews.org/2026/10/23/kenyan-communist-leader-booker-omole-acquitted-on-all-counts",
-      "author": "Nicholas Mwangi",
-      "source": "BT News",
-      "published_at": "2026-10-23T15:46:03+00:00",
-      "content_excerpt": "Booker Ngesa Omole, general secretary of the Communist Party Marxist–Kenya (CPM-K), has been acquitted by the Mavoko Law Courts in Machakos County, ending a prosecution that the party has described as politically motivated since his arrest in February 2026. In a statement issued on October 22, the party’s Central Organizing Committee welcomed the ruling as a victory for democratic rights and called for accountability over what it described as Omole’s abduction, torture, and political persecution. Speaking outside the court after the ruling, Omole said the verdict confirmed the party’s position that the charges against him were intended to target his political activities. “With finality, the court sitting today at Mavoko Law Courts has clearly indicted the current Ruto regime,” he said. “It",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/b8cc7d694d2987180c798f5c.json"
-    },
-    {
-      "id": "1b871a48732f23d0cc01a2e9",
-      "title": "Ohio Governor’s Race: Trump Backs Ramaswamy Ad Siding with Opponent’s Indicted Childhood Rapist",
-      "url": "https://www.democracynow.org/2026/10/23/ohio_election",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-10-23T14:49:23+00:00",
-      "content_excerpt": "This is a rush transcript. Copy may not be in its final form. AMY GOODMAN : In the Ohio governor’s race, an attack ad has set off a firestorm of criticism from Democrats and many Republicans. Republican gubernatorial candidate Vivek Ramaswamy, a tech billionaire, says he will spend $4 million more to promote the ad ahead of the midterm elections, even though it’s drawn criticism from members of his own party. The ad features his Democratic opponent Dr. Amy Acton’s estranged mother, in which she denies her daughter was sexually abused as a child. This is a brief clip. DONNA ARTHUR : I love my daughter, but when I saw her lying about her opponent, it’s not easy for a mother to say this, but Amy has a serious problem. AMY GOODMAN : The ad first began circulating on social media earlier this w",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/1b871a48732f23d0cc01a2e9.json"
-    },
-    {
-      "id": "9d6d952a29dfcdca6acc58e9",
-      "title": "Brazil Elections: How AI, Meta and Evangelicals Could Sway the Presidential Race for Bolsonaro",
-      "url": "https://www.democracynow.org/2026/10/23/brazil_election",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-10-23T14:49:23+00:00",
-      "content_excerpt": "Brazilian voters are heading to the polls on Sunday for the presidential runoff between incumbent President Luiz Inácio Lula da Silva and far-right Senator Flávio Bolsonaro, with polls showing a tight race that will decide whether Brazil remains led by the left or joins the right-wing surge across Latin America. According to The Intercept Brasil , Bolsonaro’s campaign paid 600,000 Brazilian reais (about $119,000 USD ) to a U.S. company, Elytron, that specializes in election manipulation, including through online disinformation and “psychological warfare techniques” to undermine opponents. Reporter Laís Martins says that while it’s not clear whether or how the Bolsonaro campaign used Elytron’s services, it adds to suspicion of U.S. interference in the election, including Meta’s restrictions",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/9d6d952a29dfcdca6acc58e9.json"
-    },
-    {
-      "id": "9e0868d2bcf365c519bbd0c8",
-      "title": "“Dying in Detention”: Al Jazeera Investigates Immigrant Deaths in California’s Adelanto ICE Jail",
-      "url": "https://www.democracynow.org/2026/10/23/dying_in_detention",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-10-23T14:49:23+00:00",
-      "content_excerpt": "At least 59 people have died in ICE custody since the start of President Donald Trump’s second term, the highest number in more than a decade. Many deaths have been linked to medical neglect, including four of five recent deaths at California’s Adelanto Processing Center, according to a 2026 report by the state attorney general. Al Jazeera English’s Fault Lines investigated deaths at the facility, which is operated by the private prison company GEO Group, in the new documentary Dying in Detention . “ GEO Group has made over a billion dollars in profits from immigration detention. They have given more than a million dollars … to help reelect Donald Trump,” says correspondent Natasha Del Toro. “That raises a lot of questions for us about the relationship between GEO and the federal governmen",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/9e0868d2bcf365c519bbd0c8.json"
-    },
-    {
-      "id": "3dcfe23d439a3590535cb833",
-      "title": "The world order beyond polarity: The Forty-Third Newsletter (2026)",
-      "url": "https://mronline.org/2026/10/23/the-world-order-beyond-polarity-the-forty-third-newsletter-2026",
-      "author": "Vijay Prashad",
-      "source": "MR Online",
-      "published_at": "2026-10-23T14:33:01+00:00",
-      "content_excerpt": "The relative decline of Washington’s unipolar command creates vital geopolitical openings, yet shifting centres of power do not by themselves dismantle the corporate monopolies that shape international finance, technology, and production. The post The world order beyond polarity: The Forty-Third Newsletter (2026) appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/3dcfe23d439a3590535cb833.json"
-    },
-    {
-      "id": "660b98c54974d427395b0e7b",
-      "title": "DSA, Teamsters, Amazon workers fight to pass the Delivery Protection Act",
-      "url": "https://mronline.org/2026/10/23/dsa-teamsters-amazon-workers-fight-to-pass-the-delivery-protection-act",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-23T12:26:12+00:00",
-      "content_excerpt": "The Delivery Protection Act would curb Amazon outsourcing hiring delivery drivers through contractors, and increase worker protections for these drivers. The post DSA, Teamsters, Amazon workers fight to pass the Delivery Protection Act appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/660b98c54974d427395b0e7b.json"
-    },
-    {
-      "id": "5ef3694b81e027310d408ef5",
-      "title": "Hind Rajab’s killer visits U.S., HRF demands his arrest",
-      "url": "https://mronline.org/2026/10/23/hind-rajabs-killer-visits-u-s-hrf-demands-his-arrest",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-23T11:30:21+00:00",
-      "content_excerpt": "The Hind Rajab Foundation has called on the U.S. government to arrest the commander of an Israeli military unit believed responsible for the killing of five-year-old Palestinian girl Hind Rajab in Gaza, who is currently visiting the United States. The post Hind Rajab’s killer visits U.S., HRF demands his arrest appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/5ef3694b81e027310d408ef5.json"
-    },
-    {
-      "id": "6bb63c71c5a3c50962b15a93",
-      "title": "The Encampment movement against evictions and gentrification",
-      "url": "https://mronline.org/2026/10/23/the-encampment-movement-against-evictions-and-gentrification",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-23T10:31:46+00:00",
-      "content_excerpt": "A Report from Madrid and Barcelona. The post The Encampment movement against evictions and gentrification appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/6bb63c71c5a3c50962b15a93.json"
-    },
-    {
-      "id": "7f72c82c8ce865ae1fd88faa",
-      "title": "Press freedom groups oppose House Committee threat to subpoena BreakThrough News Staff",
-      "url": "https://mronline.org/2026/10/23/press-freedom-groups-oppose-house-committee-threat-to-subpoena-breakthrough-news-staff",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-23T09:28:11+00:00",
-      "content_excerpt": "\"The threatened subpoenas are clearly designed to target BreakThrough for reporting and editorial viewpoints with which the Committee disagrees,\" the groups declared. The post Press freedom groups oppose House Committee threat to subpoena BreakThrough News Staff appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/7f72c82c8ce865ae1fd88faa.json"
-    },
-    {
-      "id": "89b0a016470e3a7e505292c1",
-      "title": "Israeli setrike on Iran is imminent | w/ Trita Parsi",
-      "url": "https://breakthroughnews.org/2026/10/22/israeli-setrike-on-iran-is-imminent-w-trita-parsi",
-      "author": "Zoe Alexandra",
-      "source": "BT News",
-      "published_at": "2026-10-23T08:42:08+00:00",
-      "content_excerpt": "Trita Parsi puts the odds of a new round of US-Israeli war on Iran at 90% – and it could start as soon as this weekend. The US and Israeli militaries have plans for renewed strikes after the midterms, the New York Times reports; three aircraft carriers are en route to the region, and Netanyahu, trailing ahead of Tuesday’s elections, says he’s ordered Israel’s military and Mossad to topple Iran’s government. Parsi, executive vice president of the Quincy Institute for Responsible Statecraft, tells Rania Khalek and Zoe Alexandra why Trump’s third round will be far worse than the first two. Parsi argues that Trump, initially driven by hubris, is now out for revenge against a Tehran he believes is deliberately dragging out the war to destroy his presidency. He explains why time is on Iran’s sid",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/89b0a016470e3a7e505292c1.json"
     }
   ]
 }
