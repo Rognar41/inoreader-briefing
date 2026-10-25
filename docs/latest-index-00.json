@@ -1,12 +1,147 @@
 {
-  "generated_at": "2026-10-24T21:45:15.984327+00:00",
-  "generated_at_jst": "2026-10-25T06:45:15.984327+09:00",
-  "period_start": "2026-10-23T15:45:15.984327+00:00",
+  "generated_at": "2026-10-25T21:58:53.712680+00:00",
+  "generated_at_jst": "2026-10-26T06:58:53.712680+09:00",
+  "period_start": "2026-10-24T15:58:53.712680+00:00",
   "lookback_hours": 30,
   "folder": "00_毎日確認",
-  "article_count": 20,
+  "article_count": 16,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "e55b999c86a544e8a09ab8dc",
+      "title": "Controlling Unalienable Rights",
+      "url": "https://www.laprogressive.com/healthcare/controlling-unalienable-rights",
+      "author": "Chuck Yates",
+      "source": "LA Progressive",
+      "published_at": "2026-10-25T18:21:42+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Early voting opened here in Idaho on October 19, and we were among the first to go in and exercise our franchise. The ballot this time includes four measures for voters to consider. One is an invitation to designate the official state gun. Choices include one modern rifle, two World War II icons, and three Wild West classics. In a state where six of every ten people own guns, this measure is not surprising. The others are less frivolous. Two of them would amend the state constitution in consequential ways. House Joint Resolution 4 would grant the legislature sole authority to legalize marijuana and other psychoactive substances, depriving voters of any further say in the ma",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/e55b999c86a544e8a09ab8dc.json"
+    },
+    {
+      "id": "2c248efbed6476c63ae8075b",
+      "title": "Trump Is Helping Putin",
+      "url": "https://www.laprogressive.com/war-and-peace/trump-is-helping-putin",
+      "author": "Mel Gurtov",
+      "source": "LA Progressive",
+      "published_at": "2026-10-25T17:52:34+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. In the past week the President of the US has revealed his true colors on Russia’s war more clearly than ever. The rift between Trump and Ukraine’s President Volodymyr Zelensky has grown very wide—much wider than in February 2025 when Trump admonished Zelensky in the White House for being ungrateful about US aid–and might not be bridgeable. Ukraine: Now Putin’s and Trump’s Common Enemy The signs of the rift are clear enough: · Trump is putting money in Russia’s hands with a major oil deal that involves both family members (Jared Kushner), members of his inner circle (Steve Witkoff), and various Middle East sheikhs and investors. The deal is backed by the US International Fin",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/2c248efbed6476c63ae8075b.json"
+    },
+    {
+      "id": "0bc89e82c59b262e037a4735",
+      "title": "Hell Is Real",
+      "url": "https://www.laprogressive.com/gender-discrimination/hell-is-real",
+      "author": "Eva Amar",
+      "source": "LA Progressive",
+      "published_at": "2026-10-25T17:07:17+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. In 2010, I was driving along Interstate 65 toward Bloomington, Indiana, when an enormous roadside billboard caught my attention. HELL IS REAL. I was returning to Indiana University, where my daughter had been raped four years earlier. Of all the messages I might have encountered along that highway, those three words seemed almost deliberately placed in my path. Back in the mid-1970s, when I worked as a systems support technician, my colleagues nicknamed me “Queen Irony.” If I said the sky was blue, it would almost immediately turn black and start pouring. The irony of that billboard was certainly not lost on me. I'd made that trip many times, returning for Take Back the Nig",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/0bc89e82c59b262e037a4735.json"
+    },
+    {
+      "id": "59048d96248555827ccd597d",
+      "title": "Generation Revolts Against Capitalism",
+      "url": "https://www.laprogressive.com/foreign-policy/generation-revolts-against-capitalism",
+      "author": "Henry A. Giroux",
+      "source": "LA Progressive",
+      "published_at": "2026-10-25T16:26:53+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Across France, Spain, India, Italy, Albania, and other parts of the world, young people are taking to the streets, giving voice to a growing international revolt against the collapse of social protections, the underfunding of education, the erosion of democratic rights, and the cruel politics of austerity. Despite their different national histories, these struggles share a growing anger at the savage machinery of neoliberal capitalism, its abandonment of the young, its concentration of wealth and power in the hands of ruling elites, its embrace of militarism, and its systematic destruction of the public institutions and social protections on which democratic life depends. Y",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/59048d96248555827ccd597d.json"
+    },
+    {
+      "id": "3093dd0644451e995b5ff4d2",
+      "title": "Adolph Reed on What It Will Take to Defeat Trumpism",
+      "url": "https://jacobin.com/2026/10/reed-fascism-trump-class-universalism",
+      "author": "Adolph Reed",
+      "source": "Jacobin",
+      "published_at": "2026-10-25T13:55:00+00:00",
+      "content_excerpt": "With the 2026 midterm elections approaching and Donald Trump’s approval ratings at record lows , it’s easy to hope that we might someday soon find the politics of Trumpism behind us. But it’s far from clear that the Democratic Party can effectively capitalize on anti-Trump sentiment, and Democrats certainly are not offering a clear, compelling program that could address widespread political discontent. In a wide-ranging interview with the European Center for Populism Studies’s Selcuk Gultasli, political scientist and longtime socialist organizer Adolph Reed Jr offers a political-economic interpretation of Trumpism, arguing that the structural contradictions underlying authoritarian nationalism remain fundamentally unresolved. Reed discusses the tensions between capitalist accumulation and ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/3093dd0644451e995b5ff4d2.json"
+    },
+    {
+      "id": "7f5633f3b8e38b48289656f2",
+      "title": "Israel’s Election Offers a Bleak Future for the Palestinians",
+      "url": "https://jacobin.com/2026/10/israeli-election-eisenkot-netanyahu-palestine-occupation",
+      "author": "Ambra Suriano",
+      "source": "Jacobin",
+      "published_at": "2026-10-25T13:55:00+00:00",
+      "content_excerpt": "Israel’s parliamentary elections are fast approaching on October 27, with Benjamin Netanyahu facing a challenge from the opposition leader Gadi Eisenkot. Netanyahu is backed by a coalition of religious ultranationalist parties, while Eisenkot advocates a more liberal or secular form of Zionism, pledging to achieve what his party describes as a Zionist goal: “to make Israel, by 2048, a prosperous model state — a source of pride, built on partnership, fellowship and mutual responsibility.” But what would a victory for either bloc mean for Palestinian society in the West Bank and the Gaza Strip? Unfortunately, whoever wins the election, there is not going to be any change to Israel’s denial of basic rights to the Palestinian people. Whatever else may divide them, the two rival coalitions shar",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/7f5633f3b8e38b48289656f2.json"
+    },
+    {
+      "id": "464bed315570adcb69287dd2",
+      "title": "When Gas Diplomacy Sounds Like Regime Change",
+      "url": "https://jacobin.com/2026/10/greece-guilfoyle-lng-affordability-sovereignty",
+      "author": "Christos Avramidis",
+      "source": "Jacobin",
+      "published_at": "2026-10-25T13:55:00+00:00",
+      "content_excerpt": "“We can do this to any country we want. We can do it here too.” According to a Wall Street Journal investigation published on September 25, Kimberly Guilfoyle, Donald Trump’s ambassador to Greece, conveyed this message during a March dinner in Athens while discussing the expected fall of the Romanian government with Greek Minister for the Environment and Energy Stavros Papastavrou. Papastavrou replied that the United States could not replace a Greek government elected by the Greek people. Although Guilfoyle’s lawyer disputes the newspaper’s description of the exchange, the report immediately caused political controversy in both Greece and Romania. In Greece, the alleged words landed on particularly sensitive ground. They sounded less like an eccentric diplomatic indiscretion than an update",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/464bed315570adcb69287dd2.json"
+    },
+    {
+      "id": "53c297ab7d3f1656724a115d",
+      "title": "Natural Progress and the Gilded Age: A Review of Our Kindred Creatures",
+      "url": "https://rocdsa.org/blog/natural-progress-and-the-gilded-age-a-review-of-our-kindred-creatures",
+      "author": "Rochester Red Star: News from Rochester DSA",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-10-25T13:06:44+00:00",
+      "content_excerpt": "by Travis Covitz Combining my long-standing interest in animal welfare with Gilded Age politics, Our Kindred Creatures: How Americans Came to Feel the Way They Do About Animals by Bill Wasik and Monica Murphy caught my eye at the local library. This 2024 book explores the rise of the American animal welfare movement from the 1860s through the 1890s, looking at pets, livestock, scientific research, wildlife, circuses, and more. Although I was frequently underwhelmed with the politics of the authors, I found this book quite thought-provoking. It is absolutely true that the relationship between the average American and different animals has completely transformed in the past 150 years. Anybody who wants to achieve social change should learn how this came to be. Today the street is considered ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/53c297ab7d3f1656724a115d.json"
+    },
+    {
+      "id": "7c1bc7edc8862994ac315737",
+      "title": "UAW Members at Triumph Group Vote 99% to Authorize Strike",
+      "url": "https://uaw.org/uaw-members-at-triumph-group-vote-99-to-authorize-strike",
+      "author": "Justin Mayhugh",
+      "source": "UAW",
+      "published_at": "2026-10-24T22:04:52+00:00",
+      "content_excerpt": "After a two-day vote, UAW Local 405 members at Triumph Group who make engine controls and other components for U.S. military aircrafts voted 99% (148-1 with 86% turning out) in favor of authorizing a strike for any time after the current union contract expires at midnight on October 31. Core demands include sectoral standard wages, job security, cost-of-living protection, affordable healthcare and no concessions, among other priority issues the company has not even attempted to meet the bargaining committee on. “This vote should send a clear message to Triumph Group that UAW Local 405 members are not settling for their abysmal proposals,” said UAW Region 9A Director Brandon Mancilla. “During the life of our last contract, Triumph Group made $680 million off the work of these members. Our m",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/7c1bc7edc8862994ac315737.json"
+    },
     {
       "id": "76f69238e1421e01f75dde34",
       "title": "Political Revolt in California",
@@ -111,201 +246,6 @@
       "priority": 1,
       "date_missing": false,
       "article_path": "articles/e33c1f6e0cd8fe6c1d97869f.json"
-    },
-    {
-      "id": "a83a8016a26ebf77ffd2c2ab",
-      "title": "Brazil’s Far-Right Trajectory Is a Warning for Us All",
-      "url": "https://jacobin.com/2026/10/brazil-far-right-social-disintegration-exploitation",
-      "author": "Rodrigo Nunes",
-      "source": "Jacobin",
-      "published_at": "2026-10-24T15:45:10+00:00",
-      "content_excerpt": "Attempts to make generalizations from what happens in the United States and Europe to the rest of the planet do not, as a rule, meet with much surprise; these are, after all, generally assumed to be the most advanced edges of world history, where processes that will eventually spread to other regions first take hold. Most of the literature on the lethal danger surrounding democracies that has flourished in the last decade implicitly assumes these central countries as the normative standard from which others — and increasingly themselves — can be measured as deviations. Starting from a place like Brazil, on the other hand, does not enjoy the same air of self-evidence and seems to require some explaining. Countries on the periphery are supposed to be somehow quirky and unique, partaking in w",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/a83a8016a26ebf77ffd2c2ab.json"
-    },
-    {
-      "id": "5518bacabb793d9c35abb70d",
-      "title": "Hyman Minsky Was a Powerful Critic of Capitalism",
-      "url": "https://jacobin.com/2026/10/minsky-finance-instability-capitalism-stages",
-      "author": "Riccardo Bellofiore",
-      "source": "Jacobin",
-      "published_at": "2026-10-24T14:44:27+00:00",
-      "content_excerpt": "Thirty years after Hyman Minsky’s death, his name is more familiar than his political economy. Whenever asset prices collapse, leverage suddenly matters, or a financial boom turns into panic, someone announces a new “Minsky moment.” The phrase has become shorthand for the point at which a speculative expansion can no longer sustain itself. Hedge finance turns into speculative finance, speculative finance into Ponzi finance, and a structure that appeared stable suddenly discovers that everybody cannot become liquid at the same time. This posthumous fame has narrowed our understanding of Minsky’s legacy . He was not primarily a prophet of crashes. Rather, he was a theorist of a capitalism that changes its institutional form, and of the ways financial instability itself helps produce those ch",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/5518bacabb793d9c35abb70d.json"
-    },
-    {
-      "id": "0a06b8fdd1584bd862ca9e7c",
-      "title": "Israel’s Rogue State Behavior Is Somehow Only Worsening",
-      "url": "https://jacobin.com/2026/10/israel-gaza-iran-crimes-settlers",
-      "author": "Branko Marcetic",
-      "source": "Jacobin",
-      "published_at": "2026-10-24T13:39:28+00:00",
-      "content_excerpt": "I t is not a novel point that Israel acts like a rogue state , or that its behavior toward the United States often more closely resembles the behavior of an adversary than that of an ally. But it’s still worth periodically noting just how extreme its misbehavior on the world stage is, given that it is underwritten by the US taxpayers, even as majorities of Americans don’t want it to be. Let’s just keep it to things that have happened roughly this past week; otherwise this piece could end up being the length of a medium-sized book. There was the incident where illegal Israeli settlers in the West Bank — who are financed , armed , enabled , and otherwise supported in every possible way by the Israeli government — viciously attacked a Washington Post photojournalist, breaking her ribs and fra",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/0a06b8fdd1584bd862ca9e7c.json"
-    },
-    {
-      "id": "9b77cf75c564358e9889d7ea",
-      "title": "Pressure Campaigns",
-      "url": "https://www.laprogressive.com/left-coast-forum/pressure-campaigns",
-      "author": "Guest Author",
-      "source": "LA Progressive",
-      "published_at": "2026-10-24T03:41:34+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. What happens when activists stop asking corporations to do the right thing and start making it expensive for them to do the wrong thing? That question was at the heart of “Pressure Campaigns: The Power of Boycotts and Direct Action,” a panel at the fourth annual Left Coast Forum, held October 2–4, 2026, at Cal State Los Angeles. Moderated by MaryLinda Moss , artist, activist, and founding member of NELA Alliance for Democracy, the discussion brought together Miriam Arghandiwal , an organizer with the Boycott Home Depot Coalition and Entertainment Labor for Palestine; Chris Abrahamsen , co-founder of Grassroots Activist International Association and regional director of ICEB",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/9b77cf75c564358e9889d7ea.json"
-    },
-    {
-      "id": "d058fa4bb9fd5d0f28692397",
-      "title": "The Impact of ICE",
-      "url": "https://www.laprogressive.com/left-coast-forum/the-impact-of-ice",
-      "author": "Guest Author",
-      "source": "LA Progressive",
-      "published_at": "2026-10-24T00:46:49+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. A mother detained while seeking her green card. A woman arrested outside her home in pajamas and slippers. A transgender immigrant forced to choose between prolonged isolation and the threat of violence. A 60-year-old woman imprisoned for months after immigration agents allegedly mistook her for a 25-year-old. These were not hypothetical scenarios. They were among the experiences described by immigrant rights advocates at the fourth annual Left Coast Forum , held October 2–4, 2026, at California State University, Los Angeles. The panel, “The Impact of ICE: The Fight to Shut Down the Concentration Camps in California,” brought together organizers confronting the expansion of",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/d058fa4bb9fd5d0f28692397.json"
-    },
-    {
-      "id": "e56e6ffb0d0264e840e549de",
-      "title": "There’s No End in Sight to Yemen’s Destructive War",
-      "url": "https://jacobin.com/2026/10/yemen-war-houthis-saudi-arabia",
-      "author": "Helen Lackner",
-      "source": "Jacobin",
-      "published_at": "2026-10-23T20:36:22+00:00",
-      "content_excerpt": "Yet again, the world is failing to give Yemen the attention it deserves. Well over a month into the renewal of the war between Ansar Allah, known as the Huthis, and the internationally recognized government (IRG), there have already been thousands of military and civilian casualties on both sides. Fierce fighting is going on in different parts of the country, and more than 250,000 people have been displaced, most of whom are moving from one active front line to areas that might be swept up in the conflict within hours. The humanitarian situation is disastrous, with famine threatening in some parts of the country. One of Yemen’s largest cities, Taiz, is under siege by the Huthis, with hardly any medical supplies, food, or water arriving for the population, now swollen by the 120,000 or so p",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/e56e6ffb0d0264e840e549de.json"
-    },
-    {
-      "id": "f58c40a37c4172067969996f",
-      "title": "Milwaukee’s Proud History of Baseball — and Socialism",
-      "url": "https://jacobin.com/2026/10/baseball-milwaukee-brewers-socialism-veeck",
-      "author": "Peter Dreier",
-      "source": "Jacobin",
-      "published_at": "2026-10-23T18:30:36+00:00",
-      "content_excerpt": "Organizers like to say that all politics boils down to a battle between organized money and organized people. Candidates with the largest war chests tend to win, but contenders who refuse to take donations from corporate interests can prevail if their supporters are well-organized, inspired, and strategic. Likewise, big employers can spend huge sums on union busting, but employees can win union organizing drives if they know how to mobilize workers to stick together and not be intimidated. The same is true in baseball. Teams in big markets with large payrolls have a decided advantage when it comes to recruiting talented players who command huge salaries, but feisty, scrappy teams with fewer stars can sometimes win championships. Since 2000, more than 80 percent of the teams that have advan",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/f58c40a37c4172067969996f.json"
-    },
-    {
-      "id": "205be384ddbad888e440e545",
-      "title": "How American History Celebrates Enslavers and Erases Their Victims",
-      "url": "https://www.laprogressive.com/racism/american-history-celebrates-enslavers",
-      "author": "Sharon Kyle",
-      "source": "LA Progressive",
-      "published_at": "2026-10-23T16:58:18+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Recently, a friend asked whether I had seen the documentary Natchez . Knowing of my involvement in Coming to the Table , he sent a link, encouraged me to watch, and asked whether I would write about it afterward. Coming to the Table brings together descendants of enslaved people and enslavers, along with others committed to racial justice, to uncover history, build relationships, pursue healing, and take action. Through that work, I have come to know Tom DeWolf, a founding member and longtime leader. His ancestors, the DeWolfs of Bristol, Rhode Island, were the largest slave-trading family in U.S. history, responsible for trafficking approximately 10,000 Africans into slave",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/205be384ddbad888e440e545.json"
-    },
-    {
-      "id": "dfbaab9eadfd0aac13a452df",
-      "title": "Vancouver Is in the Middle of a Socialist Surge",
-      "url": "https://jacobin.com/2026/10/vancouver-socialism-elections-cope-housing",
-      "author": "James Adair",
-      "source": "Jacobin",
-      "published_at": "2026-10-23T16:24:52+00:00",
-      "content_excerpt": "Vancouver’s contrasts are visible on its streets. Luxury cars cruise past some of North America’s worst homeless encampments. Last Saturday, October 17, the city produced a political contrast to match: after four years of a center-right city hall, its municipal council has transformed into one of the most left-wing in North America. The breakthrough comes alongside strong socialist showings in municipal elections around the world, from Zohran Mamdani’s win in New York to Die Linke’s recent state election victory in Berlin. The Coalition of Progressive Electors (COPE), a democratic socialist party, elected all twelve candidates it ran: four to council, four to school board, and four to park board. COPE’s Sean Orr topped the council ballot in raw votes. Together with the four Green councilor",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/dfbaab9eadfd0aac13a452df.json"
-    },
-    {
-      "id": "8a1337283be708b84f963440",
-      "title": "It’s the Rent, Actually",
-      "url": "https://inthesetimes.com/article/its-the-rent-actually",
-      "author": "",
-      "source": "In These Times",
-      "published_at": "2026-10-23T15:45:56+00:00",
-      "content_excerpt": "Deanna Muz, a retired nurse living in Saginaw, Mich., has typically voted Republican. But with ​ “ the way our economy is and all the BS going on,” she says, ​ “ I’m in that ​ ‘ I’m not sure’ phase.” Chief among Muz’s economic concerns is her housing — specifically, the sale of her manufactured home community to the private equity firm Brookfield Asset Management, and the possibility that subsequent rent and fee increases will force her to leave. In other words, she’s the kind of voter Democrats might hope to woo with an appeal to affordability, the political watchword of the moment. But for millions of struggling renters, that appeal may still sound fuzzy, at best. In June, Congress passed the 21 st Century ROAD to Housing Act, major bipartisan legislation aimed at boosting housing supply",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/8a1337283be708b84f963440.json"
-    },
-    {
-      "id": "f0c0ca882f8ccec48bdd4143",
-      "title": "A Sweeping Reelection Victory for Shawn Fain and His Slate at UAW",
-      "url": "https://inthesetimes.com/article/uaw-election-shawn-fain-stand-up-strike-labor",
-      "author": "",
-      "source": "In These Times",
-      "published_at": "2026-10-23T15:45:56+00:00",
-      "content_excerpt": "United Auto Workers President Shawn Fain is poised to win a second four-year term, with an overwhelming lead in member balloting for the union’s top officers. The election was a referendum on the new fighting direction Fain has taken the union by leading 2023 ’s Stand-Up Strike against the Big 3 automakers, other bold contract fights and new organizing campaigns. It marks the second time members have voted for their top officers in the union’s 91 years. UAW members voted to switch to a one-member-one-vote system in December 2021 . Fain took more than two-thirds of the vote, against five opponents. His nearest competitor, incumbent vice president Rich Boyer, had around 13 %. Fain is running as part of the United UAW slate. His slate-mate for secretary-treasurer, Brandon Campbell, has also g",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/f0c0ca882f8ccec48bdd4143.json"
-    },
-    {
-      "id": "d6a7ccb2146b95474214c03d",
-      "title": "“They’re Trying to Starve Us”: BP Opposes Unemployment Benefits for Locked-Out Workers",
-      "url": "https://inthesetimes.com/article/bp-oil-refinery-workers-lockout-unemployment-appeal-benefits",
-      "author": "",
-      "source": "In These Times",
-      "published_at": "2026-10-23T15:45:56+00:00",
-      "content_excerpt": "WHITING, IND.— Six and a half months after being locked out of his job as a British Petroleum (BP) operator, Jon is still showing up to picket shifts. I met him on the side of a road, the refinery spewing smoke behind him. For a while, unemployment benefits of around $ 335 a week helped ease the financial burden, he tells me, but those went away at the end of September when he hit the six-month mark. And now, BP is appealing the locked-out workers’ unemployment with the state of Indiana. It’s a move that could result in workers like Jon having to pay back the assistance they’ve already received. The appeal comes on top of a bruising lockout that has left some families dependent on donated pantry items for food, diapers and toilet paper. “ British Petroleum made a deliberate choice to chall",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/d6a7ccb2146b95474214c03d.json"
-    },
-    {
-      "id": "36d7ad30792b555e48d5e8e2",
-      "title": "From the Green Line to the Yellow Line: A Story of Colonization in Palestine",
-      "url": "https://inthesetimes.com/article/gaza-yellow-line-green-line-genocide-israel-borders",
-      "author": "",
-      "source": "In These Times",
-      "published_at": "2026-10-23T15:45:56+00:00",
-      "content_excerpt": "In October 2025 , a ceasefire agreement between Israel and the Palestinian factions was supposed to bring calm to a Gaza devastated by genocide. Instead, Israel has continued to violate the ceasefire, murdering more than a thousand Palestinians since the agreement began and usurping more land via the ​ “ yellow line” — an arbitrary line splitting the Gaza Strip into eastern and western halves. A year since the ceasefire, Israel has continued to push the yellow line inwards and now controls nearly 70 percent of the Gaza Strip and continues to kill Palestinians on a daily basis simply for being near the arbitrary line. Ahmad, a father of two who lives near the yellow line in Al-Tuffah in Gaza City, talked about how difficult life is for Palestinians living near the yellow line. “ It’s a very",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/36d7ad30792b555e48d5e8e2.json"
     }
   ]
 }

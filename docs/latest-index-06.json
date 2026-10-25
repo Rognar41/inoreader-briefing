@@ -1,12 +1,42 @@
 {
-  "generated_at": "2026-10-24T21:45:15.984327+00:00",
-  "generated_at_jst": "2026-10-25T06:45:15.984327+09:00",
-  "period_start": "2026-10-23T15:45:15.984327+00:00",
+  "generated_at": "2026-10-25T21:58:53.712680+00:00",
+  "generated_at_jst": "2026-10-26T06:58:53.712680+09:00",
+  "period_start": "2026-10-24T15:58:53.712680+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
-  "article_count": 20,
+  "article_count": 6,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "84fd2ee0ed43d01a94990931",
+      "title": "The Israeli elections have become a fight over October 7, but only Zionist opinions are allowed",
+      "url": "https://mondoweiss.net/2026/10/the-israeli-elections-have-become-a-fight-over-october-7-but-only-zionist-opinions-are-allowed",
+      "author": "Jonathan Ofir",
+      "source": "Mondoweiss",
+      "published_at": "2026-10-25T13:10:06+00:00",
+      "content_excerpt": "Israeli election season has been dominated by Zionist debate over October 7, but this debate has not included discussion of ending the Gaza genocide because no one in Israeli society wants this to happen.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/84fd2ee0ed43d01a94990931.json"
+    },
+    {
+      "id": "a9c3d1fc804aaea6a0faf8e7",
+      "title": "Food as an Act of Resistance",
+      "url": "https://thetricontinental.org/art-bulletin-food-and-resistance",
+      "author": "",
+      "source": "[:en]THE TRICONTINENTAL[:es]TRICONTINENTAL[:]",
+      "published_at": "2026-10-25T03:05:34+00:00",
+      "content_excerpt": "The Thirty-Second Art Bulletin (October 2026) The images in this art bulletin are from the exhibition MST: 40 Years , an online exhibition of illustrations celebrating four decades of struggle for land and agrarian reform by Brazil’s Landless Rural Workers’ Movement (MST) , organised in partnership with Tricontinental: Institute for Social Research and other organisations. Listen to ‘ A desalambrar ’ (Tear Down the Fences!), written and performed by Uruguayan singer-songwriter Daniel Viglietti and also performed by Chilean singer-songwriter and theatre director Víctor Jara. ‘A desalambrar’ raises a fundamental question: who owns the land, and who has the right to cultivate it? The song’s call for agrarian reform and collective control over the resources that sustain life resonates with the",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/a9c3d1fc804aaea6a0faf8e7.json"
+    },
     {
       "id": "3dfae6d144d4fe4bd22f6118",
       "title": "Brazil’s election is a referendum on Israel, and the last hurdle for Latin America’s pro-Israel right",
@@ -66,246 +96,6 @@
       "priority": 2,
       "date_missing": false,
       "article_path": "articles/d327a8a8edd0ca8de5743036.json"
-    },
-    {
-      "id": "176c1e83bdeb5783173af927",
-      "title": "Dominican Republic becomes latest Latin American country to adopt IHRA antisemitism definition amid regional shift to the right",
-      "url": "https://mondoweiss.net/2026/10/dominican-republic-becomes-latest-latin-american-country-to-adopt-ihra-antisemitism-definition-amid-regional-shift-to-the-right",
-      "author": "Simón Rodríguez",
-      "source": "Mondoweiss",
-      "published_at": "2026-10-24T13:40:44+00:00",
-      "content_excerpt": "Adopting the IHRA definition of antisemitism has become a marker of Latin America's rightward shift, as governments across the region align with Israeli foreign policy and move to criminalize solidarity with Palestine.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/176c1e83bdeb5783173af927.json"
-    },
-    {
-      "id": "486fcae23b08874334b57db3",
-      "title": "Is the best mathematician in the world an AI model?",
-      "url": "https://mronline.org/2026/10/24/is-the-best-mathematician-in-the-world-an-ai-model",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-24T13:03:17+00:00",
-      "content_excerpt": "ON October 6, 2026, OpenAI put out a document announcing new solutions to longstanding mathematical problems proved by an Artificial Intelligence (AI) model. The post Is the best mathematician in the world an AI model? appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/486fcae23b08874334b57db3.json"
-    },
-    {
-      "id": "ac423ab6945d8bffaf7a1082",
-      "title": "The normality of evil: Reflections on the “NAZA” documentary",
-      "url": "https://mronline.org/2026/10/24/the-normality-of-evil-reflections-on-the-naza-documentary",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-24T13:03:17+00:00",
-      "content_excerpt": "Hannah Arendt’s characterization of Eichmann as representing “The Banality of Evil,” the subtitle of her book Eichmann in Jerusalem, shocked many people. The post The normality of evil: Reflections on the “NAZA” documentary appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/ac423ab6945d8bffaf7a1082.json"
-    },
-    {
-      "id": "15b8b0b60b8eeb7e0b316700",
-      "title": "William Morris: Art, Revolution, and the Dream of a Different Society",
-      "url": "https://mronline.org/2026/10/24/william-morris-art-revolution-and-the-dream-of-a-different-society",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-24T12:00:16+00:00",
-      "content_excerpt": "In 1883 Morris joined the Democratic Federation. He lectured, sold socialist newspapers, and poured his money into the cause. “Apart from the desire to produce beautiful things,” he wrote, “the leading passion of my life has been and is hatred of modern civilisation.” The post William Morris: Art, Revolution, and the Dream of a Different Society appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/15b8b0b60b8eeb7e0b316700.json"
-    },
-    {
-      "id": "8f1969a23a1edb44f7729597",
-      "title": "Is China’s foreign policy good enough?",
-      "url": "https://mronline.org/2026/10/24/is-chinas-foreign-policy-good-enough",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-24T11:00:55+00:00",
-      "content_excerpt": "BEN CHACKO recommends corrective to the scaremongering: a collection of essays whose common theme is that China’s rise is overwhelmingly positive. The post Is China’s foreign policy good enough? appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/8f1969a23a1edb44f7729597.json"
-    },
-    {
-      "id": "b6cd3053c1660cd41d7e06ca",
-      "title": "Don’t pretend the ‘War on Drugs’ has anything to do with fighting drugs",
-      "url": "https://mronline.org/2026/10/24/dont-pretend-the-war-on-drugs-has-anything-to-do-with-fighting-drugs",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-24T09:56:53+00:00",
-      "content_excerpt": "Addressing the UN General Assembly in September, Donald Trump gloated about his strategy toward “narcoterrorist” cartels, the menace du jour in the United States’ self-declared backyard. Pulling numbers out of his ass per usual, Trump claimed that the manic bombing campaign against alleged seafaring narcoterrorists (read: fishermen) in Central and South America has cut maritime […] The post Don’t pretend the ‘War on Drugs’ has anything to do with fighting drugs appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/b6cd3053c1660cd41d7e06ca.json"
-    },
-    {
-      "id": "c36a3be6f8a394df8d2f5c9e",
-      "title": "Justice for Oscar Belgal",
-      "url": "https://tempestmag.org/2026/10/justice-for-oscar-belgal",
-      "author": "Compas de la Diáspora",
-      "source": "Tempest",
-      "published_at": "2026-10-24T02:37:38+00:00",
-      "content_excerpt": "W e join the voices in New York City and the nation in denouncing the most recent ICE shooting and subsequent kidnapping of 28 year old Dominican immigrant and father Oscar Belgal. On October 8, Oscar was surrounded by ICE agents and shot at seven times while in his vehicle during a busy afternoon when many children and parents were around. One of the shots hit his neck. Eyewitnesses describe how he was held by ICE agents and NYPD officers as 20 minutes passed before any ambulance arrived at the crime scene. Oscar was taken to nearby Allen Pavilion hospital and then later kidnapped by ICE agents to an unknown location. We demand his immediate freedom. The shooter has been identified as Kevin Brodowsky. Also on the scene was notorious ICE goon Brenden Cuni who was wearing a construction ves",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/c36a3be6f8a394df8d2f5c9e.json"
-    },
-    {
-      "id": "bb1927a2d2cd18dae0cdfe3c",
-      "title": "Albania’s protests show no signs of backing down",
-      "url": "https://breakthroughnews.org/2026/10/23/albanias-protests-show-no-signs-of-backing-down",
-      "author": "Ana Vračar",
-      "source": "BT News",
-      "published_at": "2026-10-23T21:51:04+00:00",
-      "content_excerpt": "The months-long protests in Albania have reached a new escalation, with university students strengthening their mobilization since mid-October. Concerns about study expenses, poor employment prospects, and low wages have added impetus to a movement that has demanded the resignation of Prime Minister Edi Rama and urgent action on the widespread corruption weighing on the country. “Students have brought the Flamingo Revolution into a new phase,” wrote the Solidarity Albania platform. “In a capital where living costs devour 170% of the median net wage, public universities are starved to force youth into economic exile.” “When a generation rises for its basic rights, the only legitimate response is total solidarity,” they added. “Tirana’s struggle stands shoulder-to-shoulder with student strik",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/bb1927a2d2cd18dae0cdfe3c.json"
-    },
-    {
-      "id": "66785c7274a12cef5a1e73c9",
-      "title": "Protests against electoral fraud continue in India",
-      "url": "https://breakthroughnews.org/2026/10/23/protests-against-electoral-fraud-continue-in-india",
-      "author": "Abdul Rahman",
-      "source": "BT News",
-      "published_at": "2026-10-23T21:51:04+00:00",
-      "content_excerpt": "Thousands of protesters marched to the headquarters of the Election Commission of India (ECI) in Delhi and to other government offices in several cities across India on Friday, October 23, as part of the ongoing nationwide demonstrations against alleged electoral fraud and manipulations. Protesters in Delhi carrying the national flag shouted slogans against the election fraud and the attacks on people’s right to vote, right to protest, and basic democracy in the country. They were stopped by the security forces deployed in large numbers who had barricaded all the routes leading to the ECI office hours before the protests began. Some of the protesters were also detained. Similar protests were held across different parts of the country on Friday and earlier this week . The protests in Delhi ",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/66785c7274a12cef5a1e73c9.json"
-    },
-    {
-      "id": "fd5e517f3de3bcb7d551d785",
-      "title": "Miko Peled: ‘Israel is collapsing from within’",
-      "url": "https://breakthroughnews.org/2026/10/23/miko-peled-israel-is-collapsing-from-within",
-      "author": "Rania Khalek",
-      "source": "BT News",
-      "published_at": "2026-10-23T21:51:04+00:00",
-      "content_excerpt": "Benjamin Netanyahu will almost certainly stay as prime minister after Israel’s elections on Tuesday, Miko Peled predicts – but he argues it won’t really matter if he doesn’t. The Israeli-American author, activist and founder of Palestine House of Freedom in Washington, DC tells Rania Khalek and Zoe Alexandra who wins control of Knesset doesn’t really change things for Palestinians in Gaza and the West Bank; with challengers like Gadi Eisenkot, the ex-army chief behind the Dahiya doctrine of flattening civilian neighborhoods, and ex-premier and settlement champ Naftali Bennett who vows to block a Palestinian state, the war machine stays the same. But Peled says the ultra-Orthodox fight over the military draft and growing demands for an October 7 investigation are tearing Israeli society apa",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/fd5e517f3de3bcb7d551d785.json"
-    },
-    {
-      "id": "8d4cdfb25f32f22152d8c8f5",
-      "title": "Nicholas Denning Reviews The Dialectics of Ecology; John Bellamy Foster Responds",
-      "url": "https://mronline.org/2026/10/23/nicholas-denning-reviews-the-dialectics-of-ecology-john-bellamy-foster-responds",
-      "author": "Nicholas Denning",
-      "source": "MR Online",
-      "published_at": "2026-10-23T19:38:02+00:00",
-      "content_excerpt": "Can the dialectical logic with which Marx imagined a global proletarian revolution so many years ago be leveraged towards an ecological revolution today? The post Nicholas Denning Reviews <em>The Dialectics of Ecology</em>; John Bellamy Foster Responds appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/8d4cdfb25f32f22152d8c8f5.json"
-    },
-    {
-      "id": "c562eaf200b736d971298210",
-      "title": "The Left Needs to Revisit Spirituality and History: Lessons from Walter Benjamin",
-      "url": "https://convergencemag.com/articles/the-left-needs-to-revisit-spirituality-and-history-lessons-from-walter-benjamin",
-      "author": "Christopher Impiglia",
-      "source": "Convergence",
-      "published_at": "2026-10-23T18:29:29+00:00",
-      "content_excerpt": "As the Left, epitomized by the Democratic Socialists of America, resurges and Marxist thought returns to the fore as a real force, not simply as a bogeyman; as the midterms loom and, through them, we get our first taste of the 2028 Presidential election, I revisit Walter Benjamin, specifically his Theses on the Philosophy of History. Throughout this piece, Roman numerals are used to indicate each… Source",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/c562eaf200b736d971298210.json"
-    },
-    {
-      "id": "4dffc7dce9620a0075cc935f",
-      "title": "Protests banned and curfews declared ahead of next major mobilization in France",
-      "url": "https://breakthroughnews.org/2026/10/23/protests-banned-and-curfews-declared-ahead-of-next-major-mobilization-in-france",
-      "author": "Ana Vračar",
-      "source": "BT News",
-      "published_at": "2026-10-23T17:40:47+00:00",
-      "content_excerpt": "Hundreds of thousands are set to take to the streets in cities across France on Saturday, October 24, once again protesting austerity and the cost of living crisis. Demonstrations are set to go ahead despite an extremely repressive response from the government and local authorities, including curfews and bans . Over the past couple of days, a growing number of cities and regions have announced protest bans, drawing criticism from trade unions and progressive groups. “The government has banned demonstrations on Saturday in Lyon, Marseille, Rouen, Grenoble, Le Havre, Bourg-en-Bresse, Le Mans, Toulon, Chambéry, Perpignan,” wrote Clémence Guetté of La France Insoumise on October 22. “New bans are coming down every hour. Is this what democracy looks like?” Many of the bans are being contested i",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/4dffc7dce9620a0075cc935f.json"
-    },
-    {
-      "id": "641f676b84561bd813a41082",
-      "title": "How the upcoming U.S. and Israeli elections could lead to the third round of the Iran war",
-      "url": "https://mondoweiss.net/2026/10/how-the-upcoming-u-s-and-israeli-elections-could-lead-to-the-third-round-of-the-iran-war",
-      "author": "Mitchell Plitnick",
-      "source": "Mondoweiss",
-      "published_at": "2026-10-23T17:28:01+00:00",
-      "content_excerpt": "The upcoming U.S. and Israeli elections will likely lead Donald Trump and Benjamin Netanyahu to renew their misguided war on Iran with even greater ferocity than before in an effort to save their political lives.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/641f676b84561bd813a41082.json"
-    },
-    {
-      "id": "43241514bee677f3366c46bb",
-      "title": "Accountability as Accompaniment: Moving from Punishment Towards Co-Responsibility",
-      "url": "https://convergencemag.com/articles/accountability-as-accompaniment-moving-from-punishment-towards-co-responsibility",
-      "author": "Kazu Haga",
-      "source": "Convergence",
-      "published_at": "2026-10-23T17:26:42+00:00",
-      "content_excerpt": "In conversations around cancel culture, the four of us have constantly heard the word ‘accountability’ used, but rarely do we build a shared understanding of what it means. That is our intention in this piece: to explore accountability as part of the healing process. We propose that reframing accountability as accompaniment can restore dignity and be as generative for the person who caused harm as… Source",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/43241514bee677f3366c46bb.json"
-    },
-    {
-      "id": "f031d0f15ad6d02420037d53",
-      "title": "Chicano Cultural Resistance, a Case Study Across Generations",
-      "url": "https://convergencemag.com/articles/chicano-cultural-resistance-a-case-study-across-generations",
-      "author": "Tanya Mote",
-      "source": "Convergence",
-      "published_at": "2026-10-23T17:26:42+00:00",
-      "content_excerpt": "Denver has ranked among the top seven most gentrified cities in the country every decade since the 1970s. During the pandemic, it was one of the fastest gentrifying cities in the country, second only to San Francisco. Surging eviction rates in 2024 forced thousands of people out of affordable housing and the record pace continues in 2025. Tenant representation is historically low. In 2026… Source",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/f031d0f15ad6d02420037d53.json"
     }
   ]
 }
