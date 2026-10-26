@@ -1,101 +1,281 @@
 {
-  "generated_at": "2026-10-25T21:58:53.712680+00:00",
-  "generated_at_jst": "2026-10-26T06:58:53.712680+09:00",
-  "period_start": "2026-10-24T15:58:53.712680+00:00",
+  "generated_at": "2026-10-26T23:15:11.483673+00:00",
+  "generated_at_jst": "2026-10-27T08:15:11.483673+09:00",
+  "period_start": "2026-10-25T17:15:11.483673+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
-  "article_count": 6,
+  "article_count": 18,
   "excerpt_chars": 800,
   "articles": [
     {
-      "id": "84fd2ee0ed43d01a94990931",
-      "title": "The Israeli elections have become a fight over October 7, but only Zionist opinions are allowed",
-      "url": "https://mondoweiss.net/2026/10/the-israeli-elections-have-become-a-fight-over-october-7-but-only-zionist-opinions-are-allowed",
-      "author": "Jonathan Ofir",
-      "source": "Mondoweiss",
-      "published_at": "2026-10-25T13:10:06+00:00",
-      "content_excerpt": "Israeli election season has been dominated by Zionist debate over October 7, but this debate has not included discussion of ending the Gaza genocide because no one in Israeli society wants this to happen.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/84fd2ee0ed43d01a94990931.json"
-    },
-    {
-      "id": "a9c3d1fc804aaea6a0faf8e7",
-      "title": "Food as an Act of Resistance",
-      "url": "https://thetricontinental.org/art-bulletin-food-and-resistance",
-      "author": "",
-      "source": "[:en]THE TRICONTINENTAL[:es]TRICONTINENTAL[:]",
-      "published_at": "2026-10-25T03:05:34+00:00",
-      "content_excerpt": "The Thirty-Second Art Bulletin (October 2026) The images in this art bulletin are from the exhibition MST: 40 Years , an online exhibition of illustrations celebrating four decades of struggle for land and agrarian reform by Brazil’s Landless Rural Workers’ Movement (MST) , organised in partnership with Tricontinental: Institute for Social Research and other organisations. Listen to ‘ A desalambrar ’ (Tear Down the Fences!), written and performed by Uruguayan singer-songwriter Daniel Viglietti and also performed by Chilean singer-songwriter and theatre director Víctor Jara. ‘A desalambrar’ raises a fundamental question: who owns the land, and who has the right to cultivate it? The song’s call for agrarian reform and collective control over the resources that sustain life resonates with the",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/a9c3d1fc804aaea6a0faf8e7.json"
-    },
-    {
-      "id": "3dfae6d144d4fe4bd22f6118",
-      "title": "Brazil’s election is a referendum on Israel, and the last hurdle for Latin America’s pro-Israel right",
-      "url": "https://mondoweiss.net/2026/10/brazils-election-is-a-referendum-on-israel-and-the-last-hurdle-for-latin-americas-pro-israel-right",
-      "author": "Ana Maria Monjardino",
-      "source": "Mondoweiss",
-      "published_at": "2026-10-24T18:28:36+00:00",
-      "content_excerpt": "Brazil’s Oct. 25 presidential runoff is a referendum on Israel and the final test of Latin America’s rightward swing, with Lula and Flávio Bolsonaro offering starkly different paths for Palestine.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/3dfae6d144d4fe4bd22f6118.json"
-    },
-    {
-      "id": "852da18e75ba218af607b027",
-      "title": "Latin America: the ‘cultural battle’ as a facade for neoliberalism",
-      "url": "https://breakthroughnews.org/2026/10/24/latin-america-the-cultural-battle-as-a-facade-for-neoliberalism",
+      "id": "781ee9b73527626653406c5c",
+      "title": "Lula scores an epic victory in Brazil",
+      "url": "https://breakthroughnews.org/2026/10/26/lula-scores-an-epic-victory-in-brazil",
       "author": "Pablo Meriguet",
       "source": "BT News",
-      "published_at": "2026-10-24T16:42:54+00:00",
-      "content_excerpt": "For several years now, politicians, influencers, and intellectuals from Latin America’s new radical right have been speaking about the importance of the “cultural battle” to recover a sort of perspective lost in the past and to underpin a civilizational project that prioritizes the individual, individual freedom, and the free market above all else. Probably the first to insist on this idea in the media was Javier Milei, the current president of Argentina, who initially made a name for himself as an economist who had no problem insulting his opponents and defending orthodox neoliberal thought. At that time, Milei, along with his intellectual allies, called for a stand against a purported culture imposed by so-called left-wing elites who had tarnished common sense, Christian morality, and in",
+      "published_at": "2026-10-26T19:53:50+00:00",
+      "content_excerpt": "Brazilian progressive leader and incumbent president Luiz Inácio Lula da Silva made history last night, defeating far-right Flávio Bolsonaro of the Liberal Party in the second round after coming in second in the first round. The results were awaited with bated breath after a judge ordered polls to be open for two more hours following complaints from voters who claimed they had been unable to reach polling places due to transportation problems. First the Workers’ Party (PT), and then the Liberal Party (PL), requested the extension, which paused the vote count until 7:00 pm in Brasília, the capital. With 51.79% of the valid votes, the former union leader, metalworker, and head of the Workers’ Party staged a historic comeback against Bolsonaro, who lost the initial momentum he had in the firs",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/852da18e75ba218af607b027.json"
+      "article_path": "articles/781ee9b73527626653406c5c.json"
     },
     {
-      "id": "6fe3a6ecd563f741d43d6750",
-      "title": "Tanzania’s smallholder farmers set their course in Morogoro",
-      "url": "https://breakthroughnews.org/2026/10/24/tanzanias-smallholder-farmers-set-their-course-in-morogoro",
-      "author": "Jonis Ghedi Alasow",
+      "id": "429be55cf4e38cd020a1f154",
+      "title": "Student List defeats Vučić’s Serbian Progressive Party",
+      "url": "https://breakthroughnews.org/2026/10/26/student-list-defeats-vucics-serbian-progressive-party",
+      "author": "Ana Vračar",
       "source": "BT News",
-      "published_at": "2026-10-24T16:42:54+00:00",
-      "content_excerpt": "Some 850 smallholder farmers from across mainland Tanzania and Zanzibar met in Morogoro from September 29 to October 1 for the National Smallholder Farmers’ Conference and the 31st Annual General Meeting (AGM) of MVIWATA, the network of Tanzania’s smallholder farmers’ groups. The theme was “Towards Food Sovereignty: Land Security, Agroecology and Economic Justice for Smallholder Farmers” (“Kuelekea Uhuru wa Chakula: Uhakika wa Ardhi, Kilimo Ikolojia na Haki Uchumi kwa Wakulima Wadogo”). The AGM is MVIWATA’s highest body. Founded by farmers in 1993, the organization interacted directly with 58,916 farmers last year, 57% of whom were women, according to its own count. Two days of conference debate precede the AGM, allowing members to debate policy before coming together to decide the way for",
+      "published_at": "2026-10-26T19:53:50+00:00",
+      "content_excerpt": "On October 25, an election list formed after two years of student-led protests in Serbia toppled Aleksandar Vučić and the Serbian Progressive Party (SNS). The announcement was met with street celebrations that continued throughout the night, recognizing the outcome as a chance to break with 12 years of the former president’s anti-people policies. Election turnout surged to almost 70% of registered voters. The Student List secured roughly 53% of the vote and the SNS came in second with close to 39%. The two options are set to be the only forces in parliament except for minority representatives. “These results have shown that a genuinely homegrown – even if heterogeneous – movement can articulate social discontent with SNS rule, provided it makes a decisive break with the baggage of the pro-",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/6fe3a6ecd563f741d43d6750.json"
+      "article_path": "articles/429be55cf4e38cd020a1f154.json"
     },
     {
-      "id": "d327a8a8edd0ca8de5743036",
-      "title": "Netanyahu declares full lockdown of West Bank after two Israeli soldiers killed in Hebron",
-      "url": "https://breakthroughnews.org/2026/10/24/netanyahu-declares-full-lockdown-of-west-bank-after-two-israeli-soldiers-killed-in-hebron",
-      "author": "Aseel Saleh",
+      "id": "dbac798aa9d0bc9aa2b2152e",
+      "title": "ECOWAS and AES open talks to rebuild relations",
+      "url": "https://breakthroughnews.org/2026/10/26/ecowas-and-aes-open-talks-to-rebuild-relations",
+      "author": "Nicholas Mwangi",
       "source": "BT News",
-      "published_at": "2026-10-24T16:42:54+00:00",
-      "content_excerpt": "Two Palestinian men carried out a shooting attack , targeting a group of Israeli soldiers near the Farsh al-Hawa military checkpoint in the southern West Bank governorate of Hebron on Friday, October 23. According to media reports, the attackers were assassinated by the Israeli forces after engaging in an exchange of fire for about 20 minutes. They were later identified as Firas al-Ju’ba and Hamoudah al-Ju’ba. The attack also resulted in the killing of two Israeli soldiers and the injury of three others. Netanyahu announces refugee-camp model campaign in Hebron and broader West Bank operation In response to the attack, Israeli Prime Minister Benjamin Netanyahu declared a full lockdown in the West Bank and a large-scale operation that will start from the city of Hebron and the neighboring c",
+      "published_at": "2026-10-26T18:49:36+00:00",
+      "content_excerpt": "The Economic Community of West African States (ECOWAS) and the Alliance of Sahel States (AES) have opened talks to establish a framework for cooperation, marking a new attempt to rebuild relations following years of political tensions over sovereignty, military coups, and regional sanctions. The two blocs held their inaugural ministerial dialogue in Dakar, Senegal, on October 17, 2026, where they agreed to establish joint thematic working groups to develop a Cooperation Framework Agreement. The meeting brought together representatives of ECOWAS and the AES Confederation, comprising Burkina Faso, Mali, and Niger. In a joint communiqué issued after the meeting, both sides welcomed the “spirit of fraternity, mutual respect, and openness” that characterized their discussions, recalling the his",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/d327a8a8edd0ca8de5743036.json"
+      "article_path": "articles/dbac798aa9d0bc9aa2b2152e.json"
+    },
+    {
+      "id": "18b774b9833cb63b06d657a7",
+      "title": "A victory for the Brazilian people once more through Lula",
+      "url": "https://breakthroughnews.org/2026/10/26/a-victory-for-the-brazilian-people-once-more-through-lula",
+      "author": "Vijay Prashad",
+      "source": "BT News",
+      "published_at": "2026-10-26T18:49:36+00:00",
+      "content_excerpt": "The week before October 25 in Brazil was frenetic. It appeared that every one of the over 200 million Brazilians had a political opinion about the presidential election. The country was fundamentally polarized. Polls showed that the vote was going to be tight, with most polls favoring the challenger Flávio Bolsonaro, son of the former president Jair Bolsonaro, and the standard bearer of the far right of a special type. But the incumbent Luiz Inácio Lula da Silva, known as Lula and president of Brazil from 2003 to 2011 and then since 2023, would not allow the polls to stop him. He traveled the length and breadth of the country, holding massive and energetic rallies to mobilize people to vote. In the first round, 21% of the voters did not turn out in a process that is otherwise compulsory (a",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/18b774b9833cb63b06d657a7.json"
+    },
+    {
+      "id": "74c8c05022798c838fe013bb",
+      "title": "No to abolition",
+      "url": "https://socialistforum.dsausa.org/issues/no-to-abolition",
+      "author": "Socialist Forum",
+      "source": "Socialist Forum",
+      "published_at": "2026-10-26T17:53:23+00:00",
+      "content_excerpt": "Editorial note: The following is a letter response to Hazel W.’s piece, “ In Defense of Abolition .” In July, the Democratic Socialists of America (DSA) amended its program to call for “abolishing the police and prison system.” Taken literally, that is a mistake. Society needs institutions to patrol and isolate the dangerous few. Even the most radical socialist societies understood this. For example, the Paris Commune — that libertarian-left experiment — had a prefecture of police. It established neighborhood watches and incarcerated thousands as “hostages of the people of Paris.” The commune is not proof of concept for prison and police abolition. It is stark evidence of just how foundational, including under socialism, those institutions are. Even the society you might least expect to ha",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/74c8c05022798c838fe013bb.json"
+    },
+    {
+      "id": "7fd56a22d2898fde09b39895",
+      "title": "Gaza’s displaced families are struggling to keep the lights on",
+      "url": "https://mondoweiss.net/2026/10/gazas-displaced-families-are-struggling-to-keep-the-lights-on",
+      "author": "Hayat Yildiz",
+      "source": "Mondoweiss",
+      "published_at": "2026-10-26T17:28:30+00:00",
+      "content_excerpt": "With Gaza’s power grid destroyed and Israel restricting the entry of fuel, private generator owners are charging high fees to provide electricity, leaving many displaced families in the dark.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/7fd56a22d2898fde09b39895.json"
+    },
+    {
+      "id": "17fe79bd089d072fe43e8769",
+      "title": "‘Many Houses’: A Warao Community between the Delta and the City (Part I)",
+      "url": "https://mronline.org/2026/10/26/many-houses-a-warao-community-between-the-delta-and-the-city-part-i",
+      "author": "Cira Pascual Marquina",
+      "source": "MR Online",
+      "published_at": "2026-10-26T16:51:43+00:00",
+      "content_excerpt": "\"We must teach our children and the younger generations to keep our culture alive: our spirituality, our dances, our ways of weaving, and, above all, our language.\" The post ‘Many Houses’: A Warao Community between the Delta and the City (Part I) appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/17fe79bd089d072fe43e8769.json"
+    },
+    {
+      "id": "ddb5e79cd54b65e9eea01db4",
+      "title": "Lula Draws Hundreds of Thousands in São Paulo for Final Campaign Rally Ahead of Brazilian Elections",
+      "url": "https://www.brasildefato.com.br/2026/10/26/lula-draws-hundreds-of-thousands-in-sao-paulo-for-final-campaign-rally-ahead-of-brazilian-elections",
+      "author": "",
+      "source": "Brasil de Fato",
+      "published_at": "2026-10-26T15:32:51+00:00",
+      "content_excerpt": "The final campaign rally for President Luiz Inácio Lula da Silva filled Paulista Avenue in São Paulo this Saturday afternoon, September 24. It was filled with emotion and a strong commitment to defending democracy. By noon, two hours before the official start of the gathering, Paulista Avenue was already a sea of ​​red. It was interspersed with Brazilian flags, LGBTQ+ pride flags, and banners representing grassroots movements, political parties, student organizations, and even soccer clubs. In the crowd were entire families and people of all ages, beliefs, ethnicities, and regions. Some traveled all night to reach São Paulo. Among them was student Isabelle Ramos, who traveled from Paraná, where she studies, to take part in the demonstration and cast her vote this Sunday, October 25. The pr",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/ddb5e79cd54b65e9eea01db4.json"
+    },
+    {
+      "id": "54724310708348679acddd5d",
+      "title": "Lula Highlights Class Divide in Final Presidential Debate",
+      "url": "https://www.brasildefato.com.br/2026/10/26/lula-highlights-class-divide-in-final-presidential-debate",
+      "author": "",
+      "source": "Brasil de Fato",
+      "published_at": "2026-10-26T15:32:51+00:00",
+      "content_excerpt": "",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/54724310708348679acddd5d.json"
+    },
+    {
+      "id": "8bac984237ffcbf1892a365e",
+      "title": "Brazil: Lula Wins Stunning Upset Over Flávio Bolsonaro in Blow to Far Right & Trump",
+      "url": "https://www.democracynow.org/2026/10/26/brazil_election_lula_beats_bolsonaro",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-10-26T15:25:17+00:00",
+      "content_excerpt": "This is a rush transcript. Copy may not be in its final form. AMY GOODMAN : Well, I’m in Denver to speak after the screening of the film about Democracy Now! , Steal This Story, Please! , at CU Boulder this afternoon at 3:30. But right now we go to today’s top headline. We begin in Brazil, where President Luiz Inácio Lula da Silva has pulled off a stunning comeback to defeat far-right challenger Flávio Bolsonaro, but Bolsonaro is refusing to concede. Just three weeks ago, Bolsonaro won the first round of voting, but on Sunday, Lula defeated him by more than 4 million votes. Flávio Bolsonaro is the son of Brazil’s former far-right President Jair Bolsonaro, who remains under house arrest after being sentenced to 27 years in prison for plotting a coup following his defeat to Lula four years a",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/8bac984237ffcbf1892a365e.json"
+    },
+    {
+      "id": "4bcc81155a2988163a06eb2c",
+      "title": "Serbia’s Student-Led Movement Ousts Strongman Aleksander Vučić in Shock Election Result",
+      "url": "https://www.democracynow.org/2026/10/26/serbia_aleksandar_vucic",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-10-26T15:25:17+00:00",
+      "content_excerpt": "Serbia’s longtime leader Aleksander Vučić has been swept out of power by a historic student-led opposition movement against Vučić’s right-wing Serbian Progressive Party. Candidates from the Student List, who are not students themselves but largely first-time politicians selected by student-led popular assemblies, won a majority of seats in Sunday’s parliamentary elections, marking a seismic shift in Serbian politics. Their victory comes two years into a student-led movement sparked by the collapse of a roof at a train station in the city of Novi Sad, which killed 16 people. The disaster became a focal point for anti-government protests over corruption, cronyism, political violence and democratic backsliding. “Students really changed the whole political landscape of the country, and maybe e",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/4bcc81155a2988163a06eb2c.json"
+    },
+    {
+      "id": "5145d43bf57145877c4e6932",
+      "title": "Will Ousting Netanyahu Change Anything for Palestinians? Diana Buttu on Upcoming Israeli Elections",
+      "url": "https://www.democracynow.org/2026/10/26/israel_election_west_bank_closure",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-10-26T15:25:17+00:00",
+      "content_excerpt": "Israeli parliamentary elections are being held on Tuesday, the first since Hamas’s October 7, 2023, attack and Israel’s subsequent assault on Gaza. Israeli Prime Minister Benjamin Netanyahu, who is currently embroiled in a corruption scandal in Israel, is up for reelection. On Friday, after two Israeli soldiers were killed at a checkpoint near Hebron, just days before Israeli polls are set to open, Netanyahu announced heavy restrictions on the movement of Palestinians out of the West Bank. Since then, Israeli forces have detained and expelled thousands of Palestinian residents from the area and begun home demolitions to clear the way for future Israeli settlements. “The reason that they’re doing this is because this entire election is about who is going to be tougher on Palestinians,” says",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/5145d43bf57145877c4e6932.json"
+    },
+    {
+      "id": "fc6c35462141818d03c3470f",
+      "title": "Pink Floyd’s Roger Waters Backs Lula: ‘For Marielle Franco, Go and Vote’",
+      "url": "https://www.brasildefato.com.br/2026/10/26/pink-floyds-roger-waters-backs-lula-for-marielle-franco-go-and-vote",
+      "author": "",
+      "source": "Brasil de Fato",
+      "published_at": "2026-10-26T14:38:08+00:00",
+      "content_excerpt": "British musician and founder of the legendary progressive rock band Pink Floyd, Roger Waters, posted a video on his social media channels expressing his support for the candidacy of President Luiz Inácio Lula da Silva. Waters harshly criticized far-right candidate Flávio Bolsonaro, highlighting his ties to U.S. President Donald Trump. “[Flávio] Bolsonaro, who is the son of an asshole, he’s an asshole himself; he comes from a long line of assholes. He is in cahoots with the United States of America, who want to steal everything you have in Brazil, not just the Amazon rainforest, but also any minerals or anything that you might have,” he said. The musician also mentioned that he had met Lula, describing him as “a man who has worked for you all his life, and you should let him go on working f",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/fc6c35462141818d03c3470f.json"
+    },
+    {
+      "id": "b353b566b9cf66ca3bf75c6f",
+      "title": "Hundreds Protest at Meta Headquarters in Brazil Against Far-Right Bias",
+      "url": "https://www.brasildefato.com.br/2026/10/26/hundreds-protest-at-meta-headquarters-in-brazil-against-far-right-bias",
+      "author": "",
+      "source": "Brasil de Fato",
+      "published_at": "2026-10-26T14:38:08+00:00",
+      "content_excerpt": "Manifestantes usaram faixas, cartazes e bonecos para denunciar a atuação da Meta nas eleições | Crédito: Igor Carvalho/Brasil de Fato Protesters targeted the multinational corporation Meta, on Monday, October 19, in Itaim Bibi, a neighborhood in São Paulo. Meta owns WhatsApp, Instagram, and Facebook. According to the organizers, roughly 500 people showed up to protest in front of Meta’s headquarters in São Paulo. Those in attendance criticized Meta’s biased interference ahead of the Brazilian elections. “We cannot claim to have fair elections when a company uses its economic, technical, and technological power to tip the scales in public opinion, which is exactly what is happening,” said Dani Silva, executive director of Ctrl+Z, one of the organizations behind the demonstration. Sociologis",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/b353b566b9cf66ca3bf75c6f.json"
+    },
+    {
+      "id": "f0200c2df79b76b89375c3a7",
+      "title": "Late stage capitalism is ruining Halloween in Canada",
+      "url": "https://mronline.org/2026/10/26/late-stage-capitalism-is-ruining-halloween-in-canada",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-26T12:43:41+00:00",
+      "content_excerpt": "Canadians are spending more money on Halloween than ever. But who is benefiting from that consumption? The post Late stage capitalism is ruining Halloween in Canada appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/f0200c2df79b76b89375c3a7.json"
+    },
+    {
+      "id": "ac7fd6603f8e8369ccfd580e",
+      "title": "Fascists: Why they love to burn books",
+      "url": "https://mronline.org/2026/10/26/fascists-why-they-love-to-burn-books",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-26T11:43:17+00:00",
+      "content_excerpt": "On the night of 10 May 1933, Hitler’s followers marched into a Berlin square with torches. The post Fascists: Why they love to burn books appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/ac7fd6603f8e8369ccfd580e.json"
+    },
+    {
+      "id": "e6e8a4da923801bfde6de6ae",
+      "title": "France’s pouvoir d’achat crisis",
+      "url": "https://mronline.org/2026/10/26/frances-pouvoir-dachat-crisis",
+      "author": "Michael Roberts",
+      "source": "MR Online",
+      "published_at": "2026-10-26T10:38:26+00:00",
+      "content_excerpt": "The crisis in France stems from the degradation of public services under austerity, yet government debt is the result of capitalist crises, not state spending, explains Michael Roberts. The post France’s pouvoir d’achat crisis appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/e6e8a4da923801bfde6de6ae.json"
+    },
+    {
+      "id": "aa63ac2bb222758e52c73af7",
+      "title": "‘Gig companies take the position their workers aren’t employees who have rights’",
+      "url": "https://mronline.org/2026/10/26/gig-companies-take-the-position-their-workers-arent-employees-who-have-rights",
+      "author": "Janine Jackson",
+      "source": "MR Online",
+      "published_at": "2026-10-26T09:39:51+00:00",
+      "content_excerpt": "CounterSpin interview with Terri Gerstein on gig workers' rights. The post ‘Gig companies take the position their workers aren’t employees who have rights’ appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/aa63ac2bb222758e52c73af7.json"
     }
   ]
 }

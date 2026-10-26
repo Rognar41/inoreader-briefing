@@ -1,251 +1,311 @@
 {
-  "generated_at": "2026-10-25T21:58:53.712680+00:00",
-  "generated_at_jst": "2026-10-26T06:58:53.712680+09:00",
-  "period_start": "2026-10-24T15:58:53.712680+00:00",
+  "generated_at": "2026-10-26T23:15:11.483673+00:00",
+  "generated_at_jst": "2026-10-27T08:15:11.483673+09:00",
+  "period_start": "2026-10-25T17:15:11.483673+00:00",
   "lookback_hours": 30,
   "folder": "00_毎日確認",
-  "article_count": 16,
+  "article_count": 20,
   "excerpt_chars": 800,
   "articles": [
     {
-      "id": "e55b999c86a544e8a09ab8dc",
-      "title": "Controlling Unalienable Rights",
-      "url": "https://www.laprogressive.com/healthcare/controlling-unalienable-rights",
-      "author": "Chuck Yates",
-      "source": "LA Progressive",
-      "published_at": "2026-10-25T18:21:42+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Early voting opened here in Idaho on October 19, and we were among the first to go in and exercise our franchise. The ballot this time includes four measures for voters to consider. One is an invitation to designate the official state gun. Choices include one modern rifle, two World War II icons, and three Wild West classics. In a state where six of every ten people own guns, this measure is not surprising. The others are less frivolous. Two of them would amend the state constitution in consequential ways. House Joint Resolution 4 would grant the legislature sole authority to legalize marijuana and other psychoactive substances, depriving voters of any further say in the ma",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/e55b999c86a544e8a09ab8dc.json"
-    },
-    {
-      "id": "2c248efbed6476c63ae8075b",
-      "title": "Trump Is Helping Putin",
-      "url": "https://www.laprogressive.com/war-and-peace/trump-is-helping-putin",
-      "author": "Mel Gurtov",
-      "source": "LA Progressive",
-      "published_at": "2026-10-25T17:52:34+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. In the past week the President of the US has revealed his true colors on Russia’s war more clearly than ever. The rift between Trump and Ukraine’s President Volodymyr Zelensky has grown very wide—much wider than in February 2025 when Trump admonished Zelensky in the White House for being ungrateful about US aid–and might not be bridgeable. Ukraine: Now Putin’s and Trump’s Common Enemy The signs of the rift are clear enough: · Trump is putting money in Russia’s hands with a major oil deal that involves both family members (Jared Kushner), members of his inner circle (Steve Witkoff), and various Middle East sheikhs and investors. The deal is backed by the US International Fin",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/2c248efbed6476c63ae8075b.json"
-    },
-    {
-      "id": "0bc89e82c59b262e037a4735",
-      "title": "Hell Is Real",
-      "url": "https://www.laprogressive.com/gender-discrimination/hell-is-real",
-      "author": "Eva Amar",
-      "source": "LA Progressive",
-      "published_at": "2026-10-25T17:07:17+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. In 2010, I was driving along Interstate 65 toward Bloomington, Indiana, when an enormous roadside billboard caught my attention. HELL IS REAL. I was returning to Indiana University, where my daughter had been raped four years earlier. Of all the messages I might have encountered along that highway, those three words seemed almost deliberately placed in my path. Back in the mid-1970s, when I worked as a systems support technician, my colleagues nicknamed me “Queen Irony.” If I said the sky was blue, it would almost immediately turn black and start pouring. The irony of that billboard was certainly not lost on me. I'd made that trip many times, returning for Take Back the Nig",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/0bc89e82c59b262e037a4735.json"
-    },
-    {
-      "id": "59048d96248555827ccd597d",
-      "title": "Generation Revolts Against Capitalism",
-      "url": "https://www.laprogressive.com/foreign-policy/generation-revolts-against-capitalism",
-      "author": "Henry A. Giroux",
-      "source": "LA Progressive",
-      "published_at": "2026-10-25T16:26:53+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Across France, Spain, India, Italy, Albania, and other parts of the world, young people are taking to the streets, giving voice to a growing international revolt against the collapse of social protections, the underfunding of education, the erosion of democratic rights, and the cruel politics of austerity. Despite their different national histories, these struggles share a growing anger at the savage machinery of neoliberal capitalism, its abandonment of the young, its concentration of wealth and power in the hands of ruling elites, its embrace of militarism, and its systematic destruction of the public institutions and social protections on which democratic life depends. Y",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/59048d96248555827ccd597d.json"
-    },
-    {
-      "id": "3093dd0644451e995b5ff4d2",
-      "title": "Adolph Reed on What It Will Take to Defeat Trumpism",
-      "url": "https://jacobin.com/2026/10/reed-fascism-trump-class-universalism",
-      "author": "Adolph Reed",
-      "source": "Jacobin",
-      "published_at": "2026-10-25T13:55:00+00:00",
-      "content_excerpt": "With the 2026 midterm elections approaching and Donald Trump’s approval ratings at record lows , it’s easy to hope that we might someday soon find the politics of Trumpism behind us. But it’s far from clear that the Democratic Party can effectively capitalize on anti-Trump sentiment, and Democrats certainly are not offering a clear, compelling program that could address widespread political discontent. In a wide-ranging interview with the European Center for Populism Studies’s Selcuk Gultasli, political scientist and longtime socialist organizer Adolph Reed Jr offers a political-economic interpretation of Trumpism, arguing that the structural contradictions underlying authoritarian nationalism remain fundamentally unresolved. Reed discusses the tensions between capitalist accumulation and ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/3093dd0644451e995b5ff4d2.json"
-    },
-    {
-      "id": "7f5633f3b8e38b48289656f2",
-      "title": "Israel’s Election Offers a Bleak Future for the Palestinians",
-      "url": "https://jacobin.com/2026/10/israeli-election-eisenkot-netanyahu-palestine-occupation",
-      "author": "Ambra Suriano",
-      "source": "Jacobin",
-      "published_at": "2026-10-25T13:55:00+00:00",
-      "content_excerpt": "Israel’s parliamentary elections are fast approaching on October 27, with Benjamin Netanyahu facing a challenge from the opposition leader Gadi Eisenkot. Netanyahu is backed by a coalition of religious ultranationalist parties, while Eisenkot advocates a more liberal or secular form of Zionism, pledging to achieve what his party describes as a Zionist goal: “to make Israel, by 2048, a prosperous model state — a source of pride, built on partnership, fellowship and mutual responsibility.” But what would a victory for either bloc mean for Palestinian society in the West Bank and the Gaza Strip? Unfortunately, whoever wins the election, there is not going to be any change to Israel’s denial of basic rights to the Palestinian people. Whatever else may divide them, the two rival coalitions shar",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/7f5633f3b8e38b48289656f2.json"
-    },
-    {
-      "id": "464bed315570adcb69287dd2",
-      "title": "When Gas Diplomacy Sounds Like Regime Change",
-      "url": "https://jacobin.com/2026/10/greece-guilfoyle-lng-affordability-sovereignty",
-      "author": "Christos Avramidis",
-      "source": "Jacobin",
-      "published_at": "2026-10-25T13:55:00+00:00",
-      "content_excerpt": "“We can do this to any country we want. We can do it here too.” According to a Wall Street Journal investigation published on September 25, Kimberly Guilfoyle, Donald Trump’s ambassador to Greece, conveyed this message during a March dinner in Athens while discussing the expected fall of the Romanian government with Greek Minister for the Environment and Energy Stavros Papastavrou. Papastavrou replied that the United States could not replace a Greek government elected by the Greek people. Although Guilfoyle’s lawyer disputes the newspaper’s description of the exchange, the report immediately caused political controversy in both Greece and Romania. In Greece, the alleged words landed on particularly sensitive ground. They sounded less like an eccentric diplomatic indiscretion than an update",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/464bed315570adcb69287dd2.json"
-    },
-    {
-      "id": "53c297ab7d3f1656724a115d",
-      "title": "Natural Progress and the Gilded Age: A Review of Our Kindred Creatures",
-      "url": "https://rocdsa.org/blog/natural-progress-and-the-gilded-age-a-review-of-our-kindred-creatures",
-      "author": "Rochester Red Star: News from Rochester DSA",
+      "id": "5a8524faacfa064132c9ae70",
+      "title": "Fifteen Years Later",
+      "url": "https://working-mass.com/2026/10/26/fifteen-years-later",
+      "author": "Working Mass: The Massachusetts DSA Labor Outlet",
       "source": "DSA Feed - Global",
-      "published_at": "2026-10-25T13:06:44+00:00",
-      "content_excerpt": "by Travis Covitz Combining my long-standing interest in animal welfare with Gilded Age politics, Our Kindred Creatures: How Americans Came to Feel the Way They Do About Animals by Bill Wasik and Monica Murphy caught my eye at the local library. This 2024 book explores the rise of the American animal welfare movement from the 1860s through the 1890s, looking at pets, livestock, scientific research, wildlife, circuses, and more. Although I was frequently underwhelmed with the politics of the authors, I found this book quite thought-provoking. It is absolutely true that the relationship between the average American and different animals has completely transformed in the past 150 years. Anybody who wants to achieve social change should learn how this came to be. Today the street is considered ",
+      "published_at": "2026-10-26T21:28:57+00:00",
+      "content_excerpt": "Madrid in Winter 2026, six months before the eviction of Maricarmen (Working Mass) By : Javier Moreno Zacarés This was originally published in New Left Review on October 9, 2026. Fifteen years after the indignados occupied the Puerta del Sol, Madrid’s central plaza is once again the locus of a mass movement that has brought Spain to a political impasse. How are we back here again? The immediate trigger was the eviction of an elderly tenant. Maricarmen Abascal, who had occupied her rent-capped apartment in central Madrid since 1956, was expelled from her home on 23 September after the investment fund Urbagestión acquired the property and exploited a legal loophole to quintuple her rent. Maricarmen’s age and vulnerability – the 87-year-old was removed on a hospital bed and has since died – m",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/53c297ab7d3f1656724a115d.json"
+      "article_path": "articles/5a8524faacfa064132c9ae70.json"
     },
     {
-      "id": "7c1bc7edc8862994ac315737",
-      "title": "UAW Members at Triumph Group Vote 99% to Authorize Strike",
-      "url": "https://uaw.org/uaw-members-at-triumph-group-vote-99-to-authorize-strike",
-      "author": "Justin Mayhugh",
-      "source": "UAW",
-      "published_at": "2026-10-24T22:04:52+00:00",
-      "content_excerpt": "After a two-day vote, UAW Local 405 members at Triumph Group who make engine controls and other components for U.S. military aircrafts voted 99% (148-1 with 86% turning out) in favor of authorizing a strike for any time after the current union contract expires at midnight on October 31. Core demands include sectoral standard wages, job security, cost-of-living protection, affordable healthcare and no concessions, among other priority issues the company has not even attempted to meet the bargaining committee on. “This vote should send a clear message to Triumph Group that UAW Local 405 members are not settling for their abysmal proposals,” said UAW Region 9A Director Brandon Mancilla. “During the life of our last contract, Triumph Group made $680 million off the work of these members. Our m",
+      "id": "850b7e8fbb2c79c856018584",
+      "title": "WFTU for Oct. 30 dockworkers’ antiwar action: No sacrifice for imperialist profits & wars!",
+      "url": "https://working-mass.com/2026/10/26/wftu-for-oct-30-dockworkers-antiwar-action-no-sacrifice-for-imperialist-profits-wars",
+      "author": "Working Mass: The Massachusetts DSA Labor Outlet",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-10-26T21:28:57+00:00",
+      "content_excerpt": "The steelworks and docks (Working Mass) This appeal was issued by the World Federation of Trade Unions. The World Federation of Trade Unions issues a militant, class-oriented and internationalist call to its member organizations and trade unions around the world to make the 2nd International Day of Action of Dockworkers on Oct. 30, 2026, their own cause and support it. The mobilization is taking place at a critical time, as military conflicts are spreading and war fronts are dangerously expanding and becoming interconnected, from Ukraine to the Middle East. The murderous state of Israel, with the support of the U.S., the European Union and NATO, continues its crime against the Palestinian people and escalates its military aggression against Iran and Lebanon, increasing the danger of an eve",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/7c1bc7edc8862994ac315737.json"
+      "article_path": "articles/850b7e8fbb2c79c856018584.json"
     },
     {
-      "id": "76f69238e1421e01f75dde34",
-      "title": "Political Revolt in California",
-      "url": "https://www.laprogressive.com/election-and-campaigns/political-revolt-in-california",
-      "author": "Zoë Meyers",
-      "source": "LA Progressive",
-      "published_at": "2026-10-24T20:58:36+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Retired probation officer Diana Salcedo had downsized to a home in Imperial’s Paseo del Sol neighborhood and was looking forward to a new chapter in her life caring for her mother and young grandchildren. Then Salcedo found out about a proposal to build what could be California’s largest data center across the street. The more she learned about how data centers affect energy, water and quality of life for those living nearby, the more upset she became. “I was so angry,” she said. “I even cried.” That outrage inspired Salcedo, 65, a Republican who supports President Donald Trump, to join a grassroots movement of local residents fighting the proposed Imperial Valley Computer ",
+      "id": "1b46a5e203d495b83be73b73",
+      "title": "No to abolition",
+      "url": "https://socialistforum.dsausa.org/issues/fall-winter-2026-issues/no-to-abolition",
+      "author": "Socialist Forum",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-10-26T21:28:57+00:00",
+      "content_excerpt": "Editorial note: The following is a letter response to Hazel W.’s piece, “ In Defense of Abolition .” In July, the Democratic Socialists of America (DSA) amended its program to call for “abolishing the police and prison system.” Taken literally, that is a mistake. Society needs institutions to patrol and isolate the dangerous few. Even the most radical socialist societies understood this. For example, the Paris Commune — that libertarian-left experiment — had a prefecture of police. It established neighborhood watches and incarcerated thousands as “hostages of the people of Paris.” The commune is not proof of concept for prison and police abolition. It is stark evidence of just how foundational, including under socialism, those institutions are. Even the society you might least expect to ha",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/76f69238e1421e01f75dde34.json"
+      "article_path": "articles/1b46a5e203d495b83be73b73.json"
     },
     {
-      "id": "7140caf70a9174f2629895d4",
-      "title": "They Voted for Trump",
-      "url": "https://www.laprogressive.com/election-and-campaigns/they-voted-for-trump",
-      "author": "Gabriel Thompson",
-      "source": "LA Progressive",
-      "published_at": "2026-10-24T18:48:59+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. On a sunny September afternoon, Juan Carlos stands behind the counter of his compact variety shop in California’s Central Valley, notes the lack of customers and pulls out a binder full of questions. During breaks, the slender 47-year-old is studying for his U.S. citizenship test. With business down 30% from a year ago, there’s plenty of time to study. “The other stores are also struggling,” he said. “Prices keep going up, so people are not spending.” Juan Carlos’ store, which sells a bit of everything — cowboy boots and piñatas, toiletries and backpacks — is in downtown Livingston, a small city in Merced County best known for its sprawling Foster Farms poultry plant and si",
+      "id": "e1a4abb975b1f44a1bc6d43b",
+      "title": "Insane Tax Evasion System (ITEP)",
+      "url": "https://brdsa.org/blog/2026-10-26-itep",
+      "author": "Baton Rouge DSA",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-10-26T21:28:57+00:00",
+      "content_excerpt": "We need to talk about the insanity of Louisiana’s corporate welfare handouts, better known as the Industrial Tax Exemption Program (ITEP). Tax the rich – end corporate welfare! Let the people of Louisiana decide our future.",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/7140caf70a9174f2629895d4.json"
+      "article_path": "articles/e1a4abb975b1f44a1bc6d43b.json"
     },
     {
-      "id": "800fc1f016a5852748eff950",
-      "title": "Medicaid Cuts Pose Political Risk for Six-Term Congressman",
-      "url": "https://www.laprogressive.com/healthcare/medicaid-cuts",
-      "author": "Elizabeth Aguilera",
-      "source": "LA Progressive",
-      "published_at": "2026-10-24T18:07:11+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Danielle Velling depends on monthly injections to keep her severe asthma at bay in California’s Central Valley, one of the most polluted regions in the U.S., where asthma rates exceed those in other parts of the state. She receives the medication thanks to Medicaid, the government-funded insurance program, known in California as Medi-Cal. But now she worries she could lose that insurance. Concern about cuts to health care prompted Velling, and dozens of others, to spend a record hot evening last month campaigning for upstart Democrat Randy Villegas. The college professor and local school board member aims to unseat longtime Republican Rep. David Valadao in a congressional r",
+      "id": "b5f0731717efad879e04557e",
+      "title": "Tufts Library Workers Unionize with SEIU 888",
+      "url": "https://working-mass.com/2026/10/24/tufts-library-workers-unionize-with-seiu-888",
+      "author": "Working Mass: The Massachusetts DSA Labor Outlet",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-10-26T21:28:57+00:00",
+      "content_excerpt": "Tufts rally on October 19 (Fiona P) By: Travis Wayne, Fiona P MEDFORD – On October 19, Tufts library workers organized with SEIU 888 rallied to demand union recognition in their fight for a contract that affords them fair and sufficient compensation to be able to live in Medford, Somerville, or anywhere else in Greater Boston. The Tufts library workers support major research infrastructure for the university, as well as community initiatives. Six weeks before the October 18 rally, library workers — both librarians and other library staff — organized with SEIU 888 delivered their petition for unionization to Tufts University. Campus locksmith and 32BJ SEIU member urging workers to vote yes (Fiona P) Library workers were joined by the other campus unions at both the march on the university a",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/800fc1f016a5852748eff950.json"
+      "article_path": "articles/b5f0731717efad879e04557e.json"
     },
     {
-      "id": "b9fe66364b8ffc08bd4c4c85",
-      "title": "Trump's One-Man Horror Show Continues",
-      "url": "https://www.laprogressive.com/american-history/trumps-one-man-horror-show-continues",
-      "author": "William J. Astore",
-      "source": "LA Progressive",
-      "published_at": "2026-10-24T18:01:26+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Donald Trump is a one-man horror show. Call him “annihilation man” for threatening to exterminate nearly 93 million Iranians for the crime of defying his will (and that of Israel and Netanyahu). I don’t write about Trump a lot because he’s so scrutable. He is what he is, an utterly shameless con man, a bullying narcissist who’s always on the make. What he isn’t, what he’s never been, what he never will be, is a public servant. Sadly, he has a lot of company. Few prominent politicians today really are, and if they are, the system does its best to corrupt them or expunge them if they can’t be corrupted. Trump came pre-corrupted, so to speak. Put more charitably, the powers th",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/b9fe66364b8ffc08bd4c4c85.json"
-    },
-    {
-      "id": "ffec67915b592ec0fe501e25",
-      "title": "Upsurges Bubble Around the Globe but Will it Evolve into Effective Change?",
-      "url": "https://www.laprogressive.com/civil-liberties-and-civil-rights/upsurges-bubble",
-      "author": "Michael Albert",
-      "source": "LA Progressive",
-      "published_at": "2026-10-24T17:54:25+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Reports show activism of many minds, addressing many topics and reaching considerable scale erupting in many places. Education, housing, corruption, jobs, prices, immigration, regimentation, fascism, war, data centers, weather, electoral campaigns, and more. France, Spain, Belgium, Albania, Brazil, Serbia, India, Nepal, Bangladesh, and more. What to do? On the one hand, where you are, if it arrives, participate. If it hasn’t yet arrived, try to initiate it. So far, so obvious. But a larger, overarching possibility beckons. Spread the eruption. Enlarge each outbreak. Make it all last. Still obvious. But how? What can turn a temporary eruption that may or may not win some spe",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/ffec67915b592ec0fe501e25.json"
-    },
-    {
-      "id": "1212e273468cf824fef73454",
-      "title": "World Record Presidency",
-      "url": "https://www.laprogressive.com/progressive-issues/world-record-presidency",
-      "author": "Steve Hochstadt",
-      "source": "LA Progressive",
-      "published_at": "2026-10-24T17:41:37+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Although the Nobel Prize for Peace has eluded Donald Trump thus far, proper recognition of his peacemaking abilities will certainly come eventually. In the meantime, I believe that his unprecedented achievements should be enumerated and recognized. I propose to seek the approval of that arbiter of the extraordinary, the Guinness World Records, for Trump’s supremacy in the following categories, only a sampling of the possibilities. Largest number of high-ranking female administration officials, personally chosen, fired in one week. See stories about Kimberly Ann Guilfoyle and Kate Sharon Zacharia. The tidbit that one announced the firing of the other cannot be encompassed in",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/1212e273468cf824fef73454.json"
-    },
-    {
-      "id": "e33c1f6e0cd8fe6c1d97869f",
-      "title": "A New Israeli Government Won’t Stop the Settlements",
-      "url": "https://jacobin.com/2026/10/israel-palestine-elections-settlements-occupation",
-      "author": "Diana Buttu",
+      "id": "d875ba7cb6fa9026b1a5369c",
+      "title": "Lula’s Win Is a Defeat for Donald Trump and MAGA",
+      "url": "https://jacobin.com/2026/10/lula-brazil-election-trump-interference",
+      "author": "Branko Marcetic",
       "source": "Jacobin",
-      "published_at": "2026-10-24T16:42:07+00:00",
-      "content_excerpt": "Next Tuesday, Israel will hold its first general election since the October 7 attacks and the destruction of Gaza. The election campaign has again illustrated the radicalization of Israeli politics, even beyond Benjamin Netanyahu’s government, and the breadth of political forces who staunchly resist the creation of a Palestinian state. In an interview, Palestinian Canadian lawyer and analyst Diana Buttu, who lives in Haifa, explains why she will cast her ballot in this election while rejecting Israel’s claim to be a democracy. Speaking to Elias Feroz for Jacobin , she discusses what a change of government could — and could not — mean for Palestinians, the new death penalty law, and the planned Palestinian elections next month. Elias Feroz Recent polls indicate that Benjamin Netanyahu may b",
+      "published_at": "2026-10-26T20:48:40+00:00",
+      "content_excerpt": "Luiz Inácio ​Lula da Silva’s election victory last night in Brazil is being widely celebrated as one of the great political comebacks of our time: the first time any Brazilian presidential candidate has come back from a first-round loss, achieved on the back of a reenergized Brazilian left and a newly launched digital strategy, by a candidate who had been stuck in a prison cell as recently as 2019. But it’s all the more impressive because it required Lula to overcome not just the powerful forces arrayed against the Left inside Brazil, but also a hostile administration in Washington bent on removing him from power outside of it. In line with its updated National Security Strategy, the Donald Trump administration has been busy over the past twenty-one months putting its thumb on the scales w",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/e33c1f6e0cd8fe6c1d97869f.json"
+      "article_path": "articles/d875ba7cb6fa9026b1a5369c.json"
+    },
+    {
+      "id": "dbea68619c0c8c7639837261",
+      "title": "Whom Did God Give Land",
+      "url": "https://www.laprogressive.com/foreign-policy/whom-did-god-give-land",
+      "author": "Paul deLespinasse",
+      "source": "LA Progressive",
+      "published_at": "2026-10-26T20:01:56+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Disputes over land have long riled the human race. A popular argument has been that a particular group was given rights to land by God. Numerous passages in Genesis, the first book of the Bible’s Old Testament, assert that God gave particular lands forever to the people now referred to as Israelis. In Exodus 3:7-8 we are told: “And the LORD said, I have surely seen the affliction of my people which are in Egypt, and have heard their cry by reason of their taskmasters; for I know their sorrows; “And I am come down to deliver them out of the hand of the Egyptians, and to bring them up out of that land unto a good land and a large, unto a land flowing with milk and honey; unto",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/dbea68619c0c8c7639837261.json"
+    },
+    {
+      "id": "dd59ee98be7b00863581cee9",
+      "title": "Major Jason Watson",
+      "url": "https://www.laprogressive.com/defense/major-jason-watson",
+      "author": "Jeffrey Sterling",
+      "source": "LA Progressive",
+      "published_at": "2026-10-26T19:37:50+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. For almost two months, an Air Force officer has been sitting alone in a cell, twenty-four hours a day. When they let him out to eat or exercise, he’s still alone, according to his attorney . His name is Major Jason Watson. He hasn’t been convicted of anything. Under military law he is presumed innocent, yet he’s still in that cell. I know something about solitary confinement. I also know what it feels like when a government would rather silence you than answer for its transgressions. That’s why I can’t stay quiet about Major Watson. And it’s why I think we need to talk about the kind of courage this country says it admires, right up until someone actually shows it. What Maj",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/dd59ee98be7b00863581cee9.json"
+    },
+    {
+      "id": "f0d8624c96d27f23915287b1",
+      "title": "New World Crimes",
+      "url": "https://www.laprogressive.com/science-and-religion/new-world-crimes",
+      "author": "Peter Laarman",
+      "source": "LA Progressive",
+      "published_at": "2026-10-26T19:11:31+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Subjugation, domination, exploitation, extraction: it no longer strikes anyone as odd to associate these behaviors with Americans who are eager to call themselves Christians. But many observers also think of this excrescence as a new development in Christianity. If only!! Those with some grasp of the backstory can find a discernable line of descent from the English Puritans, a self-described “chosen” people who took it upon themselves to purify the Protestant project, ridding it of all popish residues. They began as dissenters in England only to end as theocrats here, crushing all dissent in governing their settlements in Connecticut and Massachusetts. They also took it upo",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/f0d8624c96d27f23915287b1.json"
+    },
+    {
+      "id": "7bf6f5f13fe275b2984b80bc",
+      "title": "UFCW Members Protect Local Election After Sham Merger Attempt",
+      "url": "https://labornotes.org/2026/10/ufcw-members-protect-local-election-after-sham-merger-attempt",
+      "author": "Lisa Xu",
+      "source": "",
+      "published_at": "2026-10-26T19:10:35+00:00",
+      "content_excerpt": "An insurgent slate is challenging the longtime incumbents in Local 8-Golden State, one of the largest locals in the United Food and Commercial Workers (UFCW), in what may be the local’s first competitive election in decades. And now, after protecting the election from a sham merger attempt that would have canceled the election, the battle is on. Ballots are set to be mailed on November 21. But when members first saw the election notice in the local’s newsletter, they discovered a big “but.” The notice stated that the election would not proceed if Local 8 merged with another union, the Staffing Agencies Federated Employees (SAFE), before the end of the year. Members said they had never heard about this possible merger, or SAFE, before reading about it in the final sentence of the election n",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/7bf6f5f13fe275b2984b80bc.json"
+    },
+    {
+      "id": "2509c9733dd41094f4e02e45",
+      "title": "Who’s Afraid of Gen Z Socialism?",
+      "url": "https://jacobin.com/2026/10/gen-z-protests-socialism-neoliberalism",
+      "author": "Elias Koenig",
+      "source": "Jacobin",
+      "published_at": "2026-10-26T17:45:33+00:00",
+      "content_excerpt": "What’s on the mind of the ruling class these days? If the pages of The Economist are a reliable indicator, it’s the specter of “ Gen Z socialism ”: the rising support among young people for taxing billionaires, socializing the economy, and stopping the genocide in Gaza, as evidenced by the popularity of politicians like New York Mayor Zohran Mamdani, England’s Green Party leader Zack Polanski, or French presidential candidate Jean-Luc Mélenchon. Earlier this summer, the magazine dedicated a whole issue to “fighting back” against this “threat to prosperity,” calling on fellow free-market liberals to “stop apologizing” and level a “punchier defense of capitalism.” The rage bait worked: the magazine’s mailbox was flooded with critical responses, a selection of which it later published in a se",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/2509c9733dd41094f4e02e45.json"
+    },
+    {
+      "id": "4305adba07097acff35f2d5b",
+      "title": "Alberta’s Separation Ballot Ended With a Whimper",
+      "url": "https://jacobin.com/2026/10/alberta-independence-ucp-smith-oil",
+      "author": "Gerard Di Trolio",
+      "source": "Jacobin",
+      "published_at": "2026-10-26T16:47:54+00:00",
+      "content_excerpt": "No country treats referendums as less definitive than Canada. Two sovereignty referendums in Quebec have not totally put to bed the independence question in la belle province , and in spite of declining referendum support, the new Parti Québécois government is promising a third when Donald Trump leaves office. Voters rejected a set of constitutional amendments known as the Charlottetown Accord in 1992, but constitutional issues continue to fester with no federal government willing to touch them. This history matters when considering Alberta’s recent referendum. On the surface, the repudiation of Albertan independence was decisive, with 75.05 percent voting for Alberta to remain a province of Canada instead of beginning the legal process toward a binding referendum on separation. But voters",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/4305adba07097acff35f2d5b.json"
+    },
+    {
+      "id": "33becf52c58b112320ef758f",
+      "title": "AOC 2028: A Historic Opportunity to Build the Socialist Movement",
+      "url": "https://socialistcall.com/2026/10/26/aoc-2028-opportunity",
+      "author": "Elliot Lewis and James Hernández",
+      "source": "The Call",
+      "published_at": "2026-10-26T16:06:58+00:00",
+      "content_excerpt": "Why DSA Members Should Support AOC 2028 Alexandria Ocasio-Cortez is a DSA member and a champion of popular reforms like Medicare for All, blocking all military aid to Israel, the PRO Act, and a Green New Deal. She is also the only potential democratic socialist contender for President in 2028. Bernie Sanders’ 2016 and 2020 Presidential campaigns caused DSA to grow enormously. We saw the importance of having a left-wing candidate contest the Presidency, to spread socialist ideas and jump-start an opportunity for organizing on a big scale. Conversely we saw how demobilizing it was in 2024 to have no alternative to the centrist candidate that had been handed the nomination. Electing a democratic socialist President would give us an unprecedented opportunity to build the labor movement and the",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/33becf52c58b112320ef758f.json"
+    },
+    {
+      "id": "7ee5d5ab272f931a2983da83",
+      "title": "Lula’s Surprise Victory Is a Beam of Hope in a Dark World",
+      "url": "https://jacobin.com/2026/10/brazil-elections-lula-bolsonaro-comeback",
+      "author": "Hugo Albuquerque",
+      "source": "Jacobin",
+      "published_at": "2026-10-26T15:46:01+00:00",
+      "content_excerpt": "Following a stunning, inspiring turnaround driven by mass mobilization of the Brazilian people, Luiz Inácio Lula da Silva has won his fourth presidential election. This achievement marks an unprecedented shift in Brazilian political history: never before has a candidate who trailed in the first round managed to come back and win. The election — which pitted Lula against Flávio Bolsonaro, son of former president Jair Bolsonaro, who is currently imprisoned for an attempted coup d’état following his defeat in the 2022 elections — was marked by obscene interference from the Trump administration, with Big Tech companies like Meta acting shamelessly in favor of the far right. All this in a context where other interventions in the region by Trump were successful, leading to the election of far-ri",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/7ee5d5ab272f931a2983da83.json"
+    },
+    {
+      "id": "5c43dc919c3f4d8c19f84a83",
+      "title": "The DSA National Political Committee must commit to Palestine and Upholding National Convention!",
+      "url": "https://www.pghdsa.org/dsa-npc-must-follow-convention-mandates",
+      "author": "Pittsburgh DSA",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-10-26T15:29:19+00:00",
+      "content_excerpt": "In August 2025, National DSA convened DSA’s highest decision-making body, the biannual National Convention. Pittsburgh DSA elected 12 delegates to represent our hundreds of members and joined with delegates across the country in deciding the direction of DSA. At convention, hundreds of delegates representing tens of thousands of members voted to adopt Resolution 22 (R22), “For a Fighting Anti-Zionist DSA ,” a decision that was shaped by the national reckoning of the genocide in Gaza, the duty of socialists to fight imperialism, and a refusal to sacrifice our principles. R22 provides a framework for Palestine organizing in DSA, which includes expectations and requirements for candidates to be endorsed by any DSA chapter or National DSA. To ensure candidates meet such standards, chapters are",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/5c43dc919c3f4d8c19f84a83.json"
+    },
+    {
+      "id": "800e5ea974ffb69c063147e4",
+      "title": "Israel Is Accelerating Plans to Annex Neighboring Lands",
+      "url": "https://jacobin.com/2026/10/israel-nakba-gaza-lebanon-ethnic-cleansing",
+      "author": "Gilbert Achcar",
+      "source": "Jacobin",
+      "published_at": "2026-10-26T14:43:18+00:00",
+      "content_excerpt": "To fully grasp what has been going on since October 7, 2023, in the territories newly reoccupied by Israel in Gaza and Lebanon, it is necessary to examine the pattern of these occupations against previous ones conducted by the Zionist state. As is well known, the very birth of Israel was inseparable from occupation. The new state proclaimed on May 15, 1948, spanned over 56 percent of British Mandate Palestine between the Jordan River and the Mediterranean Sea — the territory attributed to the “Jewish State” by the partition resolution adopted by the United Nations General Assembly in November 1947. By the end of the first Arab Israeli war in 1948–49, Israel ended up controlling 78 percent of that area. During that war, the exodus of Palestinians fleeing for fear of harm at the hands of Zio",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/800e5ea974ffb69c063147e4.json"
+    },
+    {
+      "id": "b7c227a73a2fb0183896d012",
+      "title": "1956 Was a Missed Opportunity for Socialist Reform in Poland",
+      "url": "https://jacobin.com/2026/10/poland-socialism-strikes-reform-soviets",
+      "author": "Gavin Rae",
+      "source": "Jacobin",
+      "published_at": "2026-10-26T13:39:15+00:00",
+      "content_excerpt": "In June 1956, a delegation of renowned British left-wing economists, including Joan Robinson and Maurice Dobb, traveled to Poland to learn about its socialist transformation. The newly installed socialist government had driven through a program of economic modernization, as the country industrialized and urbanized, and free universal health care and education were being provided for the first time. While visiting the city of Poznań, they expected to admire the material achievements of the new Polish People’s Republic (PRL). Instead they witnessed Polish soldiers manning Soviet tanks as they put down a workers’ revolt. Living standards had not kept up with industrial expansion, and a wave of strikes and demonstrations broke out. Government repression left an estimated fifty-seven people dea",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/b7c227a73a2fb0183896d012.json"
+    },
+    {
+      "id": "6af62ebf97ba8980cc49f432",
+      "title": "A Working-Class Testimony: From Grief to Homelessness and the Struggle for Stability",
+      "url": "https://democraticleft.dsausa.org/2026/10/26/a-working-class-testimony-from-grief-to-homelessness-and-the-struggle-for-stability",
+      "author": "cale_t",
+      "source": "Democratic Left",
+      "published_at": "2026-10-26T11:27:14+00:00",
+      "content_excerpt": "A testimonial from a comrade working their way through America’s war on the homeless. The post A Working-Class Testimony: From Grief to Homelessness and the Struggle for Stability appeared first on Democratic Left .",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/6af62ebf97ba8980cc49f432.json"
+    },
+    {
+      "id": "08988fcb82b05e8851898d2f",
+      "title": "Black Women’s Rights and Leadership: An Interview with Carole Boyce Davies",
+      "url": "https://www.aaihs.org/black-womens-rights-and-leadership-an-interview-with-carole-boyce-davies",
+      "author": "AAIHS Editors",
+      "source": "AAIHS",
+      "published_at": "2026-10-26T09:33:46+00:00",
+      "content_excerpt": "In today’s post, editors of Global Black Thought interview Carole Boyce Davies about her research and writing on Black feminist The post Black Women’s Rights and Leadership: An Interview with Carole Boyce Davies first appeared on AAIHS .",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/08988fcb82b05e8851898d2f.json"
+    },
+    {
+      "id": "6df23bb4c7ac8e25549b3c43",
+      "title": "What I'll Be Watching",
+      "url": "https://www.laprogressive.com/election-and-campaigns/what-ill-be-watching",
+      "author": "John Peeler",
+      "source": "LA Progressive",
+      "published_at": "2026-10-26T03:51:36+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. On the brink of the 2026 midterms, it’s time for clear thinking about what to expect. Moreover, the drama won’t end on election night. Vote counting in numerous close elections will be contested as the Trump administration calls into question any close results that go against Republicans. And even the timely swearing-in of the new Congress cannot be taken for granted as the outgoing majority may try to block some or all newly elected Democrats. First, the straight-up election results. All indicators point to a very good day for the Democrats as independent voters swing decisively to the Democrats, reacting to escalating cost of living, especially fuel prices, largely due to",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/6df23bb4c7ac8e25549b3c43.json"
     }
   ]
 }
