@@ -1,12 +1,222 @@
 {
-  "generated_at": "2026-10-27T23:03:26.578865+00:00",
-  "generated_at_jst": "2026-10-28T08:03:26.578865+09:00",
-  "period_start": "2026-10-26T17:03:26.578865+00:00",
+  "generated_at": "2026-10-28T23:24:14.436664+00:00",
+  "generated_at_jst": "2026-10-29T08:24:14.436664+09:00",
+  "period_start": "2026-10-27T17:24:14.436664+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
-  "article_count": 20,
+  "article_count": 18,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "8e3d2bb75d5642b1381cce89",
+      "title": "ICE arrests of Dominicans in Puerto Rico spark outrage and reignite calls for independence",
+      "url": "https://breakthroughnews.org/2026/10/28/ice-arrests-of-dominicans-in-puerto-rico-spark-outrage-and-reignite-calls-for-independence",
+      "author": "Devin B. Martinez",
+      "source": "BT News",
+      "published_at": "2026-10-28T22:23:24+00:00",
+      "content_excerpt": "Masked Immigration and Customs Enforcement (ICE) agents carrying long guns swept through working-class neighborhoods in San Juan, Puerto Rico between October 22-25. About a dozen workers, largely Dominican immigrants, were reportedly detained from Río Piedras, Capetillo, Villa Palmeras, Villa Capri, and Barrio Obrero. Local leaders and community members have expressed outrage over the ICE deployment to the island. Protests have also broken out, demanding ICE out of Puerto Rico and elevating calls for independence from the United States. During the operations, federal agents claimed that they were detaining criminals, but locals say they were all hard working people, many with families. Elected officials speak out against ICE deployment The Dominican Republic sits about 50 miles from Puerto",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/8e3d2bb75d5642b1381cce89.json"
+    },
+    {
+      "id": "d6e86ff738bc1e083b73b554",
+      "title": "How did Lula win the election?",
+      "url": "https://breakthroughnews.org/2026/10/28/how-did-lula-win-the-election",
+      "author": "Pablo Meriguet",
+      "source": "BT News",
+      "published_at": "2026-10-28T20:24:10+00:00",
+      "content_excerpt": "On October 25, Brazil’s three-time and current president, Luiz Inácio Lula da Silva, surprised the entire world by overcoming an electoral setback in the first round (in which he was defeated by the far-right candidate Flávio Bolsonaro) and securing victory and the presidential seat in Brasília. Lula, the legendary union leader during the dictatorship, secured 51.79%, equivalent to 64,256,232 votes, while Bolsonaro (son of the detained former president Jair Bolsonaro) received 48.21%, or 59,826,041 votes. What is truly surprising about Bolsonaro’s defeat (given that most pollsters had predicted a very likely victory for him) is the enormous number of votes Lula managed to gain during the three weeks between the first and second rounds of voting. In that first round , Bolsonaro took first p",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/d6e86ff738bc1e083b73b554.json"
+    },
+    {
+      "id": "8ca8012ebbd2a18519a81810",
+      "title": "Israel’s elections: all roads lead to genocide",
+      "url": "https://breakthroughnews.org/2026/10/28/israels-elections-all-roads-lead-to-genocide",
+      "author": "Aseel Saleh",
+      "source": "BT News",
+      "published_at": "2026-10-28T20:24:10+00:00",
+      "content_excerpt": "Israelis headed to voting centers on Tuesday, October 27, in legislative elections to choose the members of the parliament, known as the Knesset. The event marks Israel’s first general election since the October 7 attacks, which Netanyahu’s government expanded into a multi-front regional war. Who is competing in the elections? For many, these elections serve as a direct referendum on Prime Minister Benjamin Netanyahu and the far-right bloc he heads. The Pro-Netanyahu Bloc This bloc comprises the National Liberal Party ( Likud ) led by Netanyahu, the Religious Zionist Party ( HaTzionut HaDatit ) led by current Finance Minister Bezalel Smotrich, and Jewish Power Party ( Otzma Yehudit ) led by National Security Minister Itamar Ben-Gvir. The coalition advocates for the consolidation of Israeli",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/8ca8012ebbd2a18519a81810.json"
+    },
+    {
+      "id": "abff65eededd4d9e3993531a",
+      "title": "BT LIVE: Bolsonaro Flees | Sudan’s Drone War | The China Report",
+      "url": "https://breakthroughnews.org/2026/10/28/oct-29-26",
+      "author": "BreakThrough News",
+      "source": "BT News",
+      "published_at": "2026-10-28T19:30:09+00:00",
+      "content_excerpt": "This content is for members only. Visit the site and log in/register to read.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/abff65eededd4d9e3993531a.json"
+    },
+    {
+      "id": "1ea92fe0411644626de8db65",
+      "title": "One hour to leave: Hebron families displaced by Israel’s military operation don’t know when they’ll return",
+      "url": "https://mondoweiss.net/2026/10/one-hour-to-leave-hebron-families-displaced-by-israels-military-operation-dont-know-when-theyll-return",
+      "author": "Monjed Jadou",
+      "source": "Mondoweiss",
+      "published_at": "2026-10-28T16:28:58+00:00",
+      "content_excerpt": "Israeli forces have forced 407 Palestinian families, nearly 2,650 people, from their homes in Hebron, sealing the city’s entrances and closing the Ibrahimi Mosque to Muslim worshipers. Displaced residents describe being given one hour and one bag.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/1ea92fe0411644626de8db65.json"
+    },
+    {
+      "id": "8fb331e153d537fb1b023f5b",
+      "title": "Uyghur genocide psy-op exposed",
+      "url": "https://mronline.org/2026/10/28/uyghur-genocide-psy-op-exposed",
+      "author": "Jeremy Kuzmarov",
+      "source": "MR Online",
+      "published_at": "2026-10-28T13:20:00+00:00",
+      "content_excerpt": "The Uyghur genocide allegations draw on racist yellow-peril caricatures that first gained prominence in the 19 th century as part of a Sinophobic campaign directed against Chinese migrant laborers. The post Uyghur genocide psy-op exposed appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/8fb331e153d537fb1b023f5b.json"
+    },
+    {
+      "id": "5dc33fd2e97d0093027cb8d5",
+      "title": "Hold the Line: What You Can Do to Defend Democracy this Election Season",
+      "url": "https://convergencemag.com/articles/hold-the-line-what-you-can-do-to-defend-democracy-this-election-season",
+      "author": "Hardy Merriman",
+      "source": "Convergence",
+      "published_at": "2026-10-28T12:54:26+00:00",
+      "content_excerpt": "The 2026 midterm elections are less than one week away – and right now, our freedom to vote, to have our votes counted, and to have the results respected are all under threat. With increasing frequency, the Trump Administration makes its intentions clear. Its actions appear designed to stoke fear among voters, intimidate election officials, prevent eligible Americans from casting their… Source",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/5dc33fd2e97d0093027cb8d5.json"
+    },
+    {
+      "id": "f25935a8eab9b153c325eb50",
+      "title": "The human cost of Canadian gold: Communities in the Caribbean speak out",
+      "url": "https://mronline.org/2026/10/28/the-human-cost-of-canadian-gold-communities-in-the-caribbean-speak-out",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-28T12:15:37+00:00",
+      "content_excerpt": "Dominicans and Haitians impacted by Canadian mining are taking their fight to Ottawa. The post The human cost of Canadian gold: Communities in the Caribbean speak out appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/f25935a8eab9b153c325eb50.json"
+    },
+    {
+      "id": "1e242c1832648d2d9bd5e248",
+      "title": "On Google killing 400,000 trees to build data centers in Finland",
+      "url": "https://mronline.org/2026/10/28/on-googlekilling-400000-trees-to-build-data-centers-in-finland",
+      "author": "Caitlin A. Johnstone",
+      "source": "MR Online",
+      "published_at": "2026-10-28T11:12:55+00:00",
+      "content_excerpt": "I don’t know who first coined the saying “If the penalty is a fine, then it’s legal for rich people,” but it certainly applies here. The post On Google killing 400,000 trees to build data centers in Finland appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/1e242c1832648d2d9bd5e248.json"
+    },
+    {
+      "id": "0f2b92dbac87bf5aef7eadb7",
+      "title": "Early Marx for contemporary Indian Marxists: Philosophical insights and social applications",
+      "url": "https://mronline.org/2026/10/28/early-marx-for-contemporary-indian-marxists-philosophical-insights-and-social-applications",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-28T10:12:05+00:00",
+      "content_excerpt": "Karl Marx’s early philosophical writings offer important resources for understanding the social, economic and cultural contradictions of contemporary India. The post Early Marx for contemporary Indian Marxists: Philosophical insights and social applications appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/0f2b92dbac87bf5aef7eadb7.json"
+    },
+    {
+      "id": "56ef15926afda745dc590925",
+      "title": "Ports of resistance: Dockworkers across the world prepare October 30 strike against imperialist wars",
+      "url": "https://mronline.org/2026/10/28/ports-of-resistance-dockworkers-across-the-world-prepare-october-30-strike-against-imperialist-wars",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-28T09:06:03+00:00",
+      "content_excerpt": "The second International Day of Action of Dockworkers is expected to involve around 100 ports worldwide, as workers refuse to allow ports and transport infrastructure to become vital links in the machinery of imperialist war. The post Ports of resistance: Dockworkers across the world prepare October 30 strike against imperialist wars appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/56ef15926afda745dc590925.json"
+    },
+    {
+      "id": "3c664ced6bab3bc25f63acd2",
+      "title": "We are the Lorax and must speak for the trees",
+      "url": "https://tempestmag.org/2026/10/we-are-the-lorax-and-must-speak-for-the-trees",
+      "author": "Rose",
+      "source": "Tempest",
+      "published_at": "2026-10-28T04:52:25+00:00",
+      "content_excerpt": "I sit down on a thick wooden fence-post under a native coastal live oak at the mouth of the hidden oasis that is a section of San Pascual Park. Joining me are Amada Segura and Josh Kashapata, two stellar LA resident volunteers with the Save San Pascual Park group. For Amada and Josh, their Save San Pascual Park journey started with spotting yard signs in their neighborhood. Soon after, they attended a land defense meeting at the Coyotl + Macehualli Lending Library community space in El Sereno. There they met one of the main organizers in the defense of this park: a proud long-time Angeleno and land defender hailing from East LA, Clara Solis. Since then, Amanda and Josh have joined the park defense, offering their talents to aid in the battle against corrupt city governments, golf course ma",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/3c664ced6bab3bc25f63acd2.json"
+    },
+    {
+      "id": "cb59e1976fbf3eddf9e15df6",
+      "title": "Lula’s Comeback: Gen Z, Short-Form Video, and the Digital Political Reversal",
+      "url": "https://mronline.org/2026/10/27/lulas-comeback-gen-z-short-form-video-and-the-digital-political-reversal",
+      "author": "Sit Tsui",
+      "source": "MR Online",
+      "published_at": "2026-10-28T01:05:24+00:00",
+      "content_excerpt": "The \"Lula Army\" inherited the Brazilian left's longstanding legacy of grassroots street mobilization while waging fierce competition for influence within digital spaces. The post Lula’s Comeback: Gen Z, Short-Form Video, and the Digital Political Reversal appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/cb59e1976fbf3eddf9e15df6.json"
+    },
+    {
+      "id": "fc6c3c914aa81fbd6bd205b6",
+      "title": "Midterms 2026: Massachusetts Senate Candidate Forum hosted by BT",
+      "url": "https://breakthroughnews.org/2026/10/27/midterms-2026-massachusetts-senate-candidate-forum-hosted-by-bt",
+      "author": "BreakThrough News",
+      "source": "BT News",
+      "published_at": "2026-10-28T00:00:57+00:00",
+      "content_excerpt": "LIVE | Tuesday, October 27 | Socialist Joe Tache and Republican John Deaton are vying for Democrat Ed Markey’s Senate seat in Massachusetts. But with only one televised candidate debate, voters still have questions. BT Live hosts Zoe Alexandra and Rania Khalek press the 2026 midterm challengers on everything from Trump’s war on Iran and incursion into Latin America to Medicare for All, ICE and immigration reform – and why Massachusetts voters are getting so few chances to hear from the candidates courting their votes. (Ed Markey was invited but his team did not respond.)",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/fc6c3c914aa81fbd6bd205b6.json"
+    },
     {
       "id": "a856178868ca81b4f93cd40e",
       "title": "Transforming Donors: The Revolution Could Be Funded",
@@ -66,246 +276,6 @@
       "priority": 2,
       "date_missing": false,
       "article_path": "articles/121a858f370230d76d99b1e4.json"
-    },
-    {
-      "id": "4eb2e88230638ba93f58d8d3",
-      "title": "New poll upends narrative that Democratic voters are split on El-Sayed",
-      "url": "https://mondoweiss.net/2026/10/new-poll-upends-narrative-that-democratic-voters-are-split-on-el-sayed",
-      "author": "Michael Arria",
-      "source": "Mondoweiss",
-      "published_at": "2026-10-27T14:18:13+00:00",
-      "content_excerpt": "The mainstream media continues to insist Democrats are divided on Israel despite clear evidence to the contrary. Now the media is following the Israel lobby's lead and manufacturing a similar split in Michigan. A new poll shows it's not working.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/4eb2e88230638ba93f58d8d3.json"
-    },
-    {
-      "id": "642f65c397ab97dda63e1929",
-      "title": "Trump Is Already Undermining Confidence in Midterm Election Results from Alaska to California: ACLU",
-      "url": "https://www.democracynow.org/2026/10/27/voting_2026",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-10-27T14:11:09+00:00",
-      "content_excerpt": "A competitive Senate race has gripped the once reliably Republican state of Alaska. If Democratic challenger Mary Peltola wins the election against incumbent Republican Senator Dan Sullivan, it could tip the balance of power in Washington. Attorneys for Peltola and the Democratic Senatorial Campaign Committee have submitted a motion to dismiss a Department of Justice lawsuit filed last week that seeks to block the certification of the election results in Alaska if Sullivan loses. President Trump confirmed on Friday he had ordered the DOJ to file the lawsuit, which alleges that the appearance of another candidate on the ballot with a similar name, Daniel J. Sullivan Jr., would mislead voters. The Alaska Supreme Court ruled ahead of the primary that Sullivan Jr., a retired schoolteacher who ",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/642f65c397ab97dda63e1929.json"
-    },
-    {
-      "id": "a116fdec1f3ffc7aac25f030",
-      "title": "“Anti-Fascist Economics”: Isabella Weber on How Inequality Fuels Extremism & Erodes Democracy",
-      "url": "https://www.democracynow.org/2026/10/27/isabella_weber",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-10-27T14:11:09+00:00",
-      "content_excerpt": "With the U.S. midterm elections just a week away, the affordability crisis — intensified by President Trump’s tariffs and war on Iran — has emerged as a major campaign issue. Across the country, families are struggling to make ends meet, while oil and gas companies have reported record profits during recent periods of price shocks. Economist Isabella Weber’s new book, Anti-Fascist Economics: In Defense of Affordability, Dignity, and Democracy , warns economic insecurity can fuel the rise of authoritarian movements, and argues protecting democracy requires making life affordable for everybody. Anti-fascist economics is “not about getting rid of the market,” says Weber. “It’s about having public players that behave differently, and by behaving differently, changing the dynamic of the market ",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/a116fdec1f3ffc7aac25f030.json"
-    },
-    {
-      "id": "192eb86c5c88c9ed15196011",
-      "title": "“Dark Day for Journalism”: Egypt Shutters Independent News Site Mada Masr, Detains Editor",
-      "url": "https://www.democracynow.org/2026/10/27/egypt_press",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-10-27T14:11:09+00:00",
-      "content_excerpt": "A court in Cairo has ordered the closure of the independent Egyptian news site Mada Masr . The court also ordered the site’s editor-in-chief, Lina Attalah, to be detained until she pays a fine of over $50,000. She was convicted on charges of managing an unlicensed website. Mada Masr is “the flagship independent media outlet in Egypt and a pillar of independent media in the region,” says Sharif Abdel Kouddous of Drop Site News , who previously worked at Mada Masr . The independent outlet was founded in 2013 “in the midst of Egypt’s revolution and counterrevolution” and has “managed to survive all of those years in one of the most hostile media environments” in the world. Still, “what happened today is an unprecedented escalation” because Attalah and Mada Masr had never before been referred ",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/192eb86c5c88c9ed15196011.json"
-    },
-    {
-      "id": "a1e03e7a165a26fd4f7d5aa7",
-      "title": "Palestinians who fled Gaza for Egypt are being scammed and exploited by fake charities",
-      "url": "https://mondoweiss.net/2026/10/palestinians-who-fled-gaza-for-egypt-are-being-scammed-and-exploited-by-fake-charities",
-      "author": "Shaimaa Al Youssef",
-      "source": "Mondoweiss",
-      "published_at": "2026-10-27T13:13:12+00:00",
-      "content_excerpt": "Fake charities and brokers in Egypt are exploiting desperate Palestinian refugees from Gaza who receive little aid and are legally barred from working.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/a1e03e7a165a26fd4f7d5aa7.json"
-    },
-    {
-      "id": "a786edf9742664590675f225",
-      "title": "Mexico detains ex-prosecutor on treason charges over CIA raid",
-      "url": "https://mronline.org/2026/10/27/mexico-detains-ex-prosecutor-on-treason-charges-over-cia-raid",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-27T13:07:31+00:00",
-      "content_excerpt": "A Mexican federal judge has ordered pretrial detention for former Chihuahua prosecutor César Jáuregui Moreno over a drug-lab operation involving CIA agents. The case has intensified tensions between state and federal authorities over national sovereignty and foreign involvement in security operations. The post Mexico detains ex-prosecutor on treason charges over CIA raid appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/a786edf9742664590675f225.json"
-    },
-    {
-      "id": "b943ace07af73714d75e2ea4",
-      "title": "The epidemic of billionaires",
-      "url": "https://mronline.org/2026/10/27/the-epidemic-of-billionaires",
-      "author": "Craig Murray",
-      "source": "MR Online",
-      "published_at": "2026-10-27T12:09:19+00:00",
-      "content_excerpt": "It takes a lot to get tens of thousands of people to riot. The post The epidemic of billionaires appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/b943ace07af73714d75e2ea4.json"
-    },
-    {
-      "id": "45ea9794857dc4f6a0013415",
-      "title": "Inside the French student revolt",
-      "url": "https://tempestmag.org/2026/10/inside-the-french-student-revolt",
-      "author": "Janette Zahia Corcelius and Jane-Léonie Bellay",
-      "source": "Tempest",
-      "published_at": "2026-10-27T11:33:48+00:00",
-      "content_excerpt": "What started as high school students striking for better learning conditions has now become a widespread revolt against austerity, racism, and neocolonialism. Looming over the protests are the threat of an electoral victory for the fascist Marine Le Pen in next year’s presidential election. The following interviews are a result of collaboration between U.S. revolutionary socialist Janette Zahia Corcelius and French Marxist Jane-Léonie Bellay . They were concluded on October 16, the day before major protests nationwide, when well over half a million faced a ferocious police response featuring explosive weapons and mass arrests. French trade unions such as the CGT, CNT, CFDT, UNSA, Solidaires, & FSU, FO & Solidaires have announced that they will launch a nationwide general strike on Thursday",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/45ea9794857dc4f6a0013415.json"
-    },
-    {
-      "id": "d1c9c95378b91f7e88191f46",
-      "title": "How Israel used AI to relentlessly murder Palestinian journalists and their families in their homes",
-      "url": "https://mronline.org/2026/10/27/how-israel-used-ai-to-relentlessly-murder-palestinian-journalists-and-their-families-in-their-homes",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-27T11:09:45+00:00",
-      "content_excerpt": "My new research establishes how the AI program “Where’s Daddy?” was used on an almost daily basis from October to December 2023, when 68 journalists, and hundreds of their family members, were killed. - Andy Worthington The post How Israel used AI to relentlessly murder Palestinian journalists and their families in their homes appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/d1c9c95378b91f7e88191f46.json"
-    },
-    {
-      "id": "a0ec5f6f5541fa372386a50f",
-      "title": "The distance from the Paris climate change goals keeps growing",
-      "url": "https://mronline.org/2026/10/27/the-distance-from-the-paris-climate-change-goals-keeps-growing",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-27T10:13:13+00:00",
-      "content_excerpt": "On the current course, warming would reach 2.6 degrees by the end of the century and keep climbing in the decades after that. The post The distance from the Paris climate change goals keeps growing appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/a0ec5f6f5541fa372386a50f.json"
-    },
-    {
-      "id": "8575b091ee55d00782e12801",
-      "title": "‘East of Eden’ review: A sprawling and relevant critique of American values",
-      "url": "https://mronline.org/2026/10/27/east-of-eden-review-a-sprawling-and-relevant-critique-of-american-values",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-27T09:14:55+00:00",
-      "content_excerpt": "The series begins and ends with two wars, the Civil War and World War I, with the Native American genocide in the middle of these. The post ‘East of Eden’ review: A sprawling and relevant critique of American values appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/8575b091ee55d00782e12801.json"
-    },
-    {
-      "id": "8bee7bdcdbe66d6a7525101e",
-      "title": "Nine killed in shooting attack on church in Jordan",
-      "url": "https://breakthroughnews.org/2026/10/26/nine-killed-in-shooting-attack-on-church-in-jordan",
-      "author": "Aseel Saleh",
-      "source": "BT News",
-      "published_at": "2026-10-27T00:36:30+00:00",
-      "content_excerpt": "At least nine people were killed and dozens of others wounded after masked gunmen opened fire on people attending a funeral procession at a church in the village of Hmoud, in Jordan’s southern governorate of Karak on Friday October, 23. Jordanian Government Communication Minister and Official Government Spokesperson Mohammad Momani condemned the offensive as a cowardly terrorist action, asserting that “this crime is an assault against Jordan as a whole.” He also described the attackers as “treacherous and extremists,” confirming that they will face “comeuppance thanks to the capabilities” of the Jordanian security forces. “Jordanian Christians are an integral part of the country’s national fabric and have contributed to its past, present and future,” Momani asserted. Meanwhile, Jordan’s Ki",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/8bee7bdcdbe66d6a7525101e.json"
-    },
-    {
-      "id": "bb1b2a39089b4d7385358462",
-      "title": "Hate State – Discrimination on Colorado’s Ballot w/Ann Marie Awad",
-      "url": "https://convergencemag.com/podcast/hate-state-discrimination-on-colorados-ballot-w-ann-marie-awad",
-      "author": "Cayden Mak",
-      "source": "Convergence",
-      "published_at": "2026-10-26T23:26:39+00:00",
-      "content_excerpt": "In 1992, the state of Colorado let voters decide to whether to discriminate against LGBTQ individuals by proposing Amendment 2, a law that would prohibit the state from enforcing anti-discrimination protections on the basis of sexual orientation. Voters passed it and earned Colorado the moniker “hate state” in certain circles. More than 30 years later, hate is back on the ballot in Colorado. Source",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/bb1b2a39089b4d7385358462.json"
-    },
-    {
-      "id": "781ee9b73527626653406c5c",
-      "title": "Lula scores an epic victory in Brazil",
-      "url": "https://breakthroughnews.org/2026/10/26/lula-scores-an-epic-victory-in-brazil",
-      "author": "Pablo Meriguet",
-      "source": "BT News",
-      "published_at": "2026-10-26T19:53:50+00:00",
-      "content_excerpt": "Brazilian progressive leader and incumbent president Luiz Inácio Lula da Silva made history last night, defeating far-right Flávio Bolsonaro of the Liberal Party in the second round after coming in second in the first round. The results were awaited with bated breath after a judge ordered polls to be open for two more hours following complaints from voters who claimed they had been unable to reach polling places due to transportation problems. First the Workers’ Party (PT), and then the Liberal Party (PL), requested the extension, which paused the vote count until 7:00 pm in Brasília, the capital. With 51.79% of the valid votes, the former union leader, metalworker, and head of the Workers’ Party staged a historic comeback against Bolsonaro, who lost the initial momentum he had in the firs",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/781ee9b73527626653406c5c.json"
-    },
-    {
-      "id": "429be55cf4e38cd020a1f154",
-      "title": "Student List defeats Vučić’s Serbian Progressive Party",
-      "url": "https://breakthroughnews.org/2026/10/26/student-list-defeats-vucics-serbian-progressive-party",
-      "author": "Ana Vračar",
-      "source": "BT News",
-      "published_at": "2026-10-26T19:53:50+00:00",
-      "content_excerpt": "On October 25, an election list formed after two years of student-led protests in Serbia toppled Aleksandar Vučić and the Serbian Progressive Party (SNS). The announcement was met with street celebrations that continued throughout the night, recognizing the outcome as a chance to break with 12 years of the former president’s anti-people policies. Election turnout surged to almost 70% of registered voters. The Student List secured roughly 53% of the vote and the SNS came in second with close to 39%. The two options are set to be the only forces in parliament except for minority representatives. “These results have shown that a genuinely homegrown – even if heterogeneous – movement can articulate social discontent with SNS rule, provided it makes a decisive break with the baggage of the pro-",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/429be55cf4e38cd020a1f154.json"
-    },
-    {
-      "id": "dbac798aa9d0bc9aa2b2152e",
-      "title": "ECOWAS and AES open talks to rebuild relations",
-      "url": "https://breakthroughnews.org/2026/10/26/ecowas-and-aes-open-talks-to-rebuild-relations",
-      "author": "Nicholas Mwangi",
-      "source": "BT News",
-      "published_at": "2026-10-26T18:49:36+00:00",
-      "content_excerpt": "The Economic Community of West African States (ECOWAS) and the Alliance of Sahel States (AES) have opened talks to establish a framework for cooperation, marking a new attempt to rebuild relations following years of political tensions over sovereignty, military coups, and regional sanctions. The two blocs held their inaugural ministerial dialogue in Dakar, Senegal, on October 17, 2026, where they agreed to establish joint thematic working groups to develop a Cooperation Framework Agreement. The meeting brought together representatives of ECOWAS and the AES Confederation, comprising Burkina Faso, Mali, and Niger. In a joint communiqué issued after the meeting, both sides welcomed the “spirit of fraternity, mutual respect, and openness” that characterized their discussions, recalling the his",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/dbac798aa9d0bc9aa2b2152e.json"
     }
   ]
 }
