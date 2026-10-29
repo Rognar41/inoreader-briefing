@@ -1,12 +1,192 @@
 {
-  "generated_at": "2026-10-28T23:24:14.436664+00:00",
-  "generated_at_jst": "2026-10-29T08:24:14.436664+09:00",
-  "period_start": "2026-10-27T17:24:14.436664+00:00",
+  "generated_at": "2026-10-29T23:29:28.675143+00:00",
+  "generated_at_jst": "2026-10-30T08:29:28.675143+09:00",
+  "period_start": "2026-10-28T17:29:28.675143+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
-  "article_count": 18,
+  "article_count": 16,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "1536e4c1c15fc0bb174d8e98",
+      "title": "Israel kills six Palestinians in Gaza on eve of announcement of election results",
+      "url": "https://breakthroughnews.org/2026/10/29/israel-kills-six-palestinians-in-gaza-on-eve-of-announcement-of-election-results",
+      "author": "Aseel Saleh",
+      "source": "BT News",
+      "published_at": "2026-10-29T23:05:02+00:00",
+      "content_excerpt": "The Israeli military intensified its deadly attacks on Palestinians in different parts of the Gaza Strip in the last 24 hours that preceded the announcement of the Knesset election results, which are expected by the morning of Friday, October 30. Read more: Israel’s elections: all roads lead to genocide At least six Palestinians were killed and dozens of others wounded in Israeli strikes that targeted different areas of the war-torn enclave. The fatalities include four government employees , who were killed in an Israeli strike on the Ministry of Economy in the Al-Mawasi area, west of the southern city of Rafah. Thirty others were wounded in the same offensive. The Gaza-based government media office condemned the assault in a statement published on Telegram, describing it as “a new crime a",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/1536e4c1c15fc0bb174d8e98.json"
+    },
+    {
+      "id": "6b1fa7f4a9350c17faef96b7",
+      "title": "The world once again calls for an end to the US blockade on Cuba",
+      "url": "https://breakthroughnews.org/2026/10/29/the-world-once-again-calls-for-an-end-to-the-us-blockade-on-cuba",
+      "author": "Pablo Meriguet",
+      "source": "BT News",
+      "published_at": "2026-10-29T23:05:02+00:00",
+      "content_excerpt": "Last Wednesday, October 28, the United Nations General Assembly voted (for the thirty-fourth time) in favor of ending the economic and commercial embargo – which many refer to as a blockade – that the United States has unilaterally imposed on Cuba for more than sixty years. With 130 votes in favor, 17 against, and 25 abstentions, the international community once again demanded that the United States end an embargo that has caused unimaginable hardship for the Cuban people and has slowed the Caribbean nation’s development. One of the countries that voted against the embargo was South Africa, whose ambassador emphasized his concern about the negative consequences the Cuban people are suffering as a result of Washington’s decisions. He also called for Cuba to be removed from the list of count",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/6b1fa7f4a9350c17faef96b7.json"
+    },
+    {
+      "id": "869c57e6bbe68fd2d59b2da0",
+      "title": "Thousands of farmers march for land rights in India’s Maharashtra",
+      "url": "https://breakthroughnews.org/2026/10/29/thousands-of-farmers-march-for-land-rights-in-indias-maharashtra",
+      "author": "Abdul Rahman",
+      "source": "BT News",
+      "published_at": "2026-10-29T22:10:29+00:00",
+      "content_excerpt": "Earlier this week, thousands of farmers in India’s western state of Maharashtra marched to its capital, Mumbai, and forced the state government to recognize their right to the land they have tilled for years and fulfill their demands. Over 12,000 in number, the farmers, carrying red flags and shouting slogans against the ultra-right-wing government led by the Hindu-supremacist Bharatiya Janata Party (BJP), were led by the All India Kisan Sabha (AIKS), a left-wing farmers’ union. The farmers were also supported by several other left-wing mass organizations, such as the Center for Indian Trade Unions (CITU) and Democratic Youth Federation of India (DYFI). The farmers started their march on foot and in hundreds of vehicles from Akole on Monday and were aiming to reach the residence of the sta",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/869c57e6bbe68fd2d59b2da0.json"
+    },
+    {
+      "id": "0de0ae76c8f68cb0962cb002",
+      "title": "Netanyahu’s stalemate and the liberal fantasy of a new Israel",
+      "url": "https://mondoweiss.net/2026/10/netanyahus-stalemate-and-the-liberal-fantasy-of-a-new-israel",
+      "author": "Abdaljawad Omar",
+      "source": "Mondoweiss",
+      "published_at": "2026-10-29T19:24:00+00:00",
+      "content_excerpt": "Liberal commentary frames Israel’s elections as a struggle for its soul, but the opposition offers only better management of the same system. Record Palestinian turnout reflects hope for modest relief, not real change.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/0de0ae76c8f68cb0962cb002.json"
+    },
+    {
+      "id": "1b3fe390a1b9069947d331e7",
+      "title": "No seat at the table: Israel’s post-election message to its Palestinian citizens",
+      "url": "https://mondoweiss.net/2026/10/no-seat-at-the-table-israels-post-election-message-to-its-palestinian-citizens",
+      "author": "Qassam Muaddi",
+      "source": "Mondoweiss",
+      "published_at": "2026-10-29T18:27:57+00:00",
+      "content_excerpt": "Netanyahu's party and the Israeli opposition are at an electoral stalemate that only an alliance with the Palestinian citizens of Israel can break, but neither camp is willing to extend their democratic ideals to the Arab lists who won 19 seats in the latest election.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/1b3fe390a1b9069947d331e7.json"
+    },
+    {
+      "id": "2a50c8165441afa9a6c80a41",
+      "title": "Meet AI Engineer Who Resigned from DeepMind over “Google’s Complicity in the Gaza Genocide”",
+      "url": "https://www.democracynow.org/2026/10/29/sofia_liguori_google_military_tech_ai",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-10-29T15:15:21+00:00",
+      "content_excerpt": "Several tech workers at Google’s AI unit DeepMind have resigned in protest over the tech giant’s work with the U.S. and Israeli militaries. Last week, DeepMind research engineer Sofia Liguori announced her resignation in a letter to her colleagues titled “Stay Human.” She denounced what she called “Google’s complicity in the Gaza genocide” and the increasing integration of Google’s technology into military and surveillance systems. “I felt I could not, in good faith, send this message of building AI to benefit humanity while ignoring that our company was complicit in a genocide,” Liguori tells Democracy Now! “The problem is that when the focus is on the model capabilities and on the potential for agents 'going rogue,' we are shifting the attention from a specific human choice … which is th",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/2a50c8165441afa9a6c80a41.json"
+    },
+    {
+      "id": "fedab83407776e325ba736a6",
+      "title": "Israeli Elections to Global Movements: Tariq Ali, Rashid Khalidi on New Book “The Neck and the Sword”",
+      "url": "https://www.democracynow.org/2026/10/28/the_neck_and_the_sword",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-10-29T15:15:21+00:00",
+      "content_excerpt": "This is a rush transcript. Copy may not be in its final form. ANJALI KAMAT : Israel is facing possible political gridlock after neither Prime Minister Benjamin Netanyahu nor his chief challenger, Gadi Eisenkot, won enough seats to form a new government in Tuesday’s election. The final tally could take days. The election marked the first time Israelis went to the polls since the October 7th, 2023, attack and the ensuing wars on Gaza, Lebanon and Iran. The vote drew record turnout. With over 70% of the vote counted, Israeli — Netanyahu’s Likud party leads with the 27 seats, ahead of former military chief Gadi Eisenkot’s Yashar party at 22. According to Haaretz , a possible pro-Netanyahu coalition currently has 54 seats, while a possible pro-Eisenkot bloc has 49 seats. Palestinian-led parties",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/fedab83407776e325ba736a6.json"
+    },
+    {
+      "id": "9b4e1c4dc00606adb0968f20",
+      "title": "Bulldozers, glyphosate, white phosphorus: Israel’s destruction of South Lebanon’s olive groves",
+      "url": "https://mondoweiss.net/2026/10/bulldozers-glyphosate-white-phosphorus-israels-destruction-of-south-lebanons-olive-groves",
+      "author": "Vanessa Kallas",
+      "source": "Mondoweiss",
+      "published_at": "2026-10-29T13:37:17+00:00",
+      "content_excerpt": "Lebanese farmers are losing their livelihood as Israeli forces uproot centuries-old trees, destroy olive groves, and demolish entire towns and villages, rendering them uninhabitable.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/9b4e1c4dc00606adb0968f20.json"
+    },
+    {
+      "id": "f19d2b368a9df2ffcd92f4e1",
+      "title": "Days of hope and rage in France",
+      "url": "https://mronline.org/2026/10/29/days-of-hope-and-rage-in-france",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-29T12:23:45+00:00",
+      "content_excerpt": "For almost a month now, a mass student revolt has been rocking France, in one of the deepest political crises seen in the country in decades. The post Days of hope and rage in France appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/f19d2b368a9df2ffcd92f4e1.json"
+    },
+    {
+      "id": "5df011d1d6835523c1336eef",
+      "title": "Record flooding hits the U.S. as powerful tropical storms threaten Asia",
+      "url": "https://mronline.org/2026/10/29/record-flooding-hits-the-u-s-as-powerful-tropical-storms-threaten-asia",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-29T11:28:54+00:00",
+      "content_excerpt": "Miami faces its longest-ever streak of moderate coastal flooding, historic floods sweep across the Southwest, and Typhoon In-fa and Cyclone Arnab threaten the Northern Mariana Islands and eastern India. The post Record flooding hits the U.S. as powerful tropical storms threaten Asia appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/5df011d1d6835523c1336eef.json"
+    },
+    {
+      "id": "789709e39a9f79cbfc68f990",
+      "title": "Killing Haiti: Bukele and Prince join the U.S. and the UN on mission to murder",
+      "url": "https://mronline.org/2026/10/29/killing-haiti-bukele-and-prince-join-the-u-s-and-the-un-on-mission-to-murder",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-29T10:25:15+00:00",
+      "content_excerpt": "Haiti is the next battle ground for Nayib Bukele, El Salvador’s despotic, right-wing, Christian zionist president. The post Killing Haiti: Bukele and Prince join the U.S. and the UN on mission to murder appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/789709e39a9f79cbfc68f990.json"
+    },
+    {
+      "id": "b32bdf6010c54eb3f2027cc5",
+      "title": "Google gags its engineers and sells AI for war",
+      "url": "https://mronline.org/2026/10/29/google-gags-its-engineers-and-sells-ai-for-war",
+      "author": "Gary Wilson",
+      "source": "MR Online",
+      "published_at": "2026-10-29T09:20:41+00:00",
+      "content_excerpt": "The Pentagon sets the terms. OpenAI, Amazon, Microsoft, Oracle, Nvidia and Elon Musk’s SpaceX signed similar contracts this year. The post Google gags its engineers and sells AI for war appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/b32bdf6010c54eb3f2027cc5.json"
+    },
     {
       "id": "8e3d2bb75d5642b1381cce89",
       "title": "ICE arrests of Dominicans in Puerto Rico spark outrage and reignite calls for independence",
@@ -66,216 +246,6 @@
       "priority": 2,
       "date_missing": false,
       "article_path": "articles/abff65eededd4d9e3993531a.json"
-    },
-    {
-      "id": "1ea92fe0411644626de8db65",
-      "title": "One hour to leave: Hebron families displaced by Israel’s military operation don’t know when they’ll return",
-      "url": "https://mondoweiss.net/2026/10/one-hour-to-leave-hebron-families-displaced-by-israels-military-operation-dont-know-when-theyll-return",
-      "author": "Monjed Jadou",
-      "source": "Mondoweiss",
-      "published_at": "2026-10-28T16:28:58+00:00",
-      "content_excerpt": "Israeli forces have forced 407 Palestinian families, nearly 2,650 people, from their homes in Hebron, sealing the city’s entrances and closing the Ibrahimi Mosque to Muslim worshipers. Displaced residents describe being given one hour and one bag.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/1ea92fe0411644626de8db65.json"
-    },
-    {
-      "id": "8fb331e153d537fb1b023f5b",
-      "title": "Uyghur genocide psy-op exposed",
-      "url": "https://mronline.org/2026/10/28/uyghur-genocide-psy-op-exposed",
-      "author": "Jeremy Kuzmarov",
-      "source": "MR Online",
-      "published_at": "2026-10-28T13:20:00+00:00",
-      "content_excerpt": "The Uyghur genocide allegations draw on racist yellow-peril caricatures that first gained prominence in the 19 th century as part of a Sinophobic campaign directed against Chinese migrant laborers. The post Uyghur genocide psy-op exposed appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/8fb331e153d537fb1b023f5b.json"
-    },
-    {
-      "id": "5dc33fd2e97d0093027cb8d5",
-      "title": "Hold the Line: What You Can Do to Defend Democracy this Election Season",
-      "url": "https://convergencemag.com/articles/hold-the-line-what-you-can-do-to-defend-democracy-this-election-season",
-      "author": "Hardy Merriman",
-      "source": "Convergence",
-      "published_at": "2026-10-28T12:54:26+00:00",
-      "content_excerpt": "The 2026 midterm elections are less than one week away – and right now, our freedom to vote, to have our votes counted, and to have the results respected are all under threat. With increasing frequency, the Trump Administration makes its intentions clear. Its actions appear designed to stoke fear among voters, intimidate election officials, prevent eligible Americans from casting their… Source",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/5dc33fd2e97d0093027cb8d5.json"
-    },
-    {
-      "id": "f25935a8eab9b153c325eb50",
-      "title": "The human cost of Canadian gold: Communities in the Caribbean speak out",
-      "url": "https://mronline.org/2026/10/28/the-human-cost-of-canadian-gold-communities-in-the-caribbean-speak-out",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-28T12:15:37+00:00",
-      "content_excerpt": "Dominicans and Haitians impacted by Canadian mining are taking their fight to Ottawa. The post The human cost of Canadian gold: Communities in the Caribbean speak out appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/f25935a8eab9b153c325eb50.json"
-    },
-    {
-      "id": "1e242c1832648d2d9bd5e248",
-      "title": "On Google killing 400,000 trees to build data centers in Finland",
-      "url": "https://mronline.org/2026/10/28/on-googlekilling-400000-trees-to-build-data-centers-in-finland",
-      "author": "Caitlin A. Johnstone",
-      "source": "MR Online",
-      "published_at": "2026-10-28T11:12:55+00:00",
-      "content_excerpt": "I don’t know who first coined the saying “If the penalty is a fine, then it’s legal for rich people,” but it certainly applies here. The post On Google killing 400,000 trees to build data centers in Finland appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/1e242c1832648d2d9bd5e248.json"
-    },
-    {
-      "id": "0f2b92dbac87bf5aef7eadb7",
-      "title": "Early Marx for contemporary Indian Marxists: Philosophical insights and social applications",
-      "url": "https://mronline.org/2026/10/28/early-marx-for-contemporary-indian-marxists-philosophical-insights-and-social-applications",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-28T10:12:05+00:00",
-      "content_excerpt": "Karl Marx’s early philosophical writings offer important resources for understanding the social, economic and cultural contradictions of contemporary India. The post Early Marx for contemporary Indian Marxists: Philosophical insights and social applications appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/0f2b92dbac87bf5aef7eadb7.json"
-    },
-    {
-      "id": "56ef15926afda745dc590925",
-      "title": "Ports of resistance: Dockworkers across the world prepare October 30 strike against imperialist wars",
-      "url": "https://mronline.org/2026/10/28/ports-of-resistance-dockworkers-across-the-world-prepare-october-30-strike-against-imperialist-wars",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-28T09:06:03+00:00",
-      "content_excerpt": "The second International Day of Action of Dockworkers is expected to involve around 100 ports worldwide, as workers refuse to allow ports and transport infrastructure to become vital links in the machinery of imperialist war. The post Ports of resistance: Dockworkers across the world prepare October 30 strike against imperialist wars appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/56ef15926afda745dc590925.json"
-    },
-    {
-      "id": "3c664ced6bab3bc25f63acd2",
-      "title": "We are the Lorax and must speak for the trees",
-      "url": "https://tempestmag.org/2026/10/we-are-the-lorax-and-must-speak-for-the-trees",
-      "author": "Rose",
-      "source": "Tempest",
-      "published_at": "2026-10-28T04:52:25+00:00",
-      "content_excerpt": "I sit down on a thick wooden fence-post under a native coastal live oak at the mouth of the hidden oasis that is a section of San Pascual Park. Joining me are Amada Segura and Josh Kashapata, two stellar LA resident volunteers with the Save San Pascual Park group. For Amada and Josh, their Save San Pascual Park journey started with spotting yard signs in their neighborhood. Soon after, they attended a land defense meeting at the Coyotl + Macehualli Lending Library community space in El Sereno. There they met one of the main organizers in the defense of this park: a proud long-time Angeleno and land defender hailing from East LA, Clara Solis. Since then, Amanda and Josh have joined the park defense, offering their talents to aid in the battle against corrupt city governments, golf course ma",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/3c664ced6bab3bc25f63acd2.json"
-    },
-    {
-      "id": "cb59e1976fbf3eddf9e15df6",
-      "title": "Lula’s Comeback: Gen Z, Short-Form Video, and the Digital Political Reversal",
-      "url": "https://mronline.org/2026/10/27/lulas-comeback-gen-z-short-form-video-and-the-digital-political-reversal",
-      "author": "Sit Tsui",
-      "source": "MR Online",
-      "published_at": "2026-10-28T01:05:24+00:00",
-      "content_excerpt": "The \"Lula Army\" inherited the Brazilian left's longstanding legacy of grassroots street mobilization while waging fierce competition for influence within digital spaces. The post Lula’s Comeback: Gen Z, Short-Form Video, and the Digital Political Reversal appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/cb59e1976fbf3eddf9e15df6.json"
-    },
-    {
-      "id": "fc6c3c914aa81fbd6bd205b6",
-      "title": "Midterms 2026: Massachusetts Senate Candidate Forum hosted by BT",
-      "url": "https://breakthroughnews.org/2026/10/27/midterms-2026-massachusetts-senate-candidate-forum-hosted-by-bt",
-      "author": "BreakThrough News",
-      "source": "BT News",
-      "published_at": "2026-10-28T00:00:57+00:00",
-      "content_excerpt": "LIVE | Tuesday, October 27 | Socialist Joe Tache and Republican John Deaton are vying for Democrat Ed Markey’s Senate seat in Massachusetts. But with only one televised candidate debate, voters still have questions. BT Live hosts Zoe Alexandra and Rania Khalek press the 2026 midterm challengers on everything from Trump’s war on Iran and incursion into Latin America to Medicare for All, ICE and immigration reform – and why Massachusetts voters are getting so few chances to hear from the candidates courting their votes. (Ed Markey was invited but his team did not respond.)",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/fc6c3c914aa81fbd6bd205b6.json"
-    },
-    {
-      "id": "a856178868ca81b4f93cd40e",
-      "title": "Transforming Donors: The Revolution Could Be Funded",
-      "url": "https://convergencemag.com/articles/transforming-donors-the-revolution-could-be-funded",
-      "author": "Isaac Lev Szmonko",
-      "source": "Convergence",
-      "published_at": "2026-10-27T22:57:21+00:00",
-      "content_excerpt": "When funders are retrenching and we’re worried about making our budget, it can be hard to dream wildly about how to sustain not just our own organizations, but a vibrant Left ecosystem that has enough funding and scaled infrastructure to steadily march us past both authoritarianism and the racist neoliberalism that got us here. But we are living in the culmination of 60 years of right-wing funding… Source",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/a856178868ca81b4f93cd40e.json"
-    },
-    {
-      "id": "586429ca53a2381723a9c7e2",
-      "title": "French student protests set to continue as Macron and Lecornu fail to meet demands",
-      "url": "https://breakthroughnews.org/2026/10/27/french-student-protests-set-to-continue-as-macron-and-lecornu-fail-to-meet-demands",
-      "author": "Ana Vračar",
-      "source": "BT News",
-      "published_at": "2026-10-27T20:49:47+00:00",
-      "content_excerpt": "France is gearing up for another round of anti-austerity mobilizations on Saturday, October 31. As the weekend approaches, President Emmanuel Macron and Prime Minister Sébastien Lecornu have still not substantially addressed the protest demands tabled by the student movement. For the past weeks, students and their organizations have taken to the streets in the hundreds of thousands, denouncing the state of the education sector, including overcrowded classrooms, overworked teachers, and dilapidated buildings. Authorities have responded with a full-blown crackdown – police violence, curfews, and protest bans – while avoiding meaningful conversation about the protests’ causes. “The authorities’ top priority is to strip the movement of the political meaning it carries: the condemnation of the ",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/586429ca53a2381723a9c7e2.json"
-    },
-    {
-      "id": "effb61499e2f49cdc4958780",
-      "title": "Saudi Arabia, Türkiye, and Pakistan seek security cooperation with Iran",
-      "url": "https://breakthroughnews.org/2026/10/27/saudi-arabia-turkiye-and-pakistan-seek-security-cooperation-with-iran",
-      "author": "Abdul Rahman",
-      "source": "BT News",
-      "published_at": "2026-10-27T20:49:47+00:00",
-      "content_excerpt": "The constituents of the recently created Mecca Defence Alliance held their maiden meeting with Iran in Tehran on Monday, October 26, seeking ways to end the ongoing conflict between Saudi Arabia and Yemen and a larger understanding over regional security. The participants agreed “to continue the dialogue to strengthen cooperation among the four regional countries, including for peace and security in the region,” a brief joint press statement , issued after the meeting said. Saudi Arabia, Pakistan, and Türkiye created the Mecca Pact in August amidst the ongoing US-Israeli war on Iran and the growing fear of Israeli expansionism. The members have claimed the pact is based on the principle of collective security and was defensive in nature. Some of them have also hinted they are seeking to ex",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/effb61499e2f49cdc4958780.json"
-    },
-    {
-      "id": "121a858f370230d76d99b1e4",
-      "title": "Risk grows of continental spread of Ebola after case is reported in Nigeria",
-      "url": "https://breakthroughnews.org/2026/10/27/risk-grows-of-continental-spread-of-ebola-after-case-is-reported-in-nigeria",
-      "author": "Pavan Kulkarni",
-      "source": "BT News",
-      "published_at": "2026-10-27T20:49:47+00:00",
-      "content_excerpt": "The risk of continental spread of Ebola looms as Nigeria becomes the fourth African country to report a confirmed case of the deadly virus since the outbreak was declared in the Democratic Republic of Congo (DRC) in mid-May. Caused by the rare Bundibugyo strain of the virus, it has since become the world’s second-deadliest Ebola outbreak ever and the fastest-growing on record. It has killed 4,803 patients , nearly half of all the 9,876 confirmed cases in the eight provinces of DRC’s eastern region as of October 23​ The real scale of deaths is likely much higher, since community transmission of the virus had already begun in DRC’s Ituri province by mid-February , three months before it was detected and officially declared an outbreak on May 15.​ Neighboring Uganda, which is backing armed gr",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/121a858f370230d76d99b1e4.json"
     }
   ]
 }
