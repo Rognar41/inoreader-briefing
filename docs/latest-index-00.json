@@ -1,12 +1,282 @@
 {
-  "generated_at": "2026-10-29T23:29:28.675143+00:00",
-  "generated_at_jst": "2026-10-30T08:29:28.675143+09:00",
-  "period_start": "2026-10-28T17:29:28.675143+00:00",
+  "generated_at": "2026-10-30T23:06:04.591189+00:00",
+  "generated_at_jst": "2026-10-31T08:06:04.591189+09:00",
+  "period_start": "2026-10-29T17:06:04.591189+00:00",
   "lookback_hours": 30,
   "folder": "00_毎日確認",
   "article_count": 20,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "f419e97b24014fc5234baefc",
+      "title": "From Daryl Gates to Digital Surveillance: Is Los Angeles Really Protecting Immigrants?",
+      "url": "https://www.laprogressive.com/civil-liberties-and-civil-rights/daryl-gates-digital-surveillance",
+      "author": "Sharon Kyle",
+      "source": "LA Progressive",
+      "published_at": "2026-10-30T22:46:40+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. In the 2026 Los Angeles mayoral race, City Councilmember Nithya Raman has accused Mayor Karen Bass of failing to adequately protect immigrant communities from federal immigration enforcement. That is a serious charge. It deserves serious examination. But Raman's criticism has raised another question, one that connects directly to Los Angeles's history of policing. During a mayoral debate, Raman invoked the LAPD's 1979 Special Order 40 as a model of immigrant protection, describing the policy associated with the Daryl Gates era as a “gold standard.” She subsequently clarified that she was praising the policy, not Gates himself. That distinction matters. So does the extraordi",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/f419e97b24014fc5234baefc.json"
+    },
+    {
+      "id": "f833c2f078fca92cc720dfb3",
+      "title": "UAW Members Drive Ambitious Political Operation to Oust Commissioner Responsible for 8-Month Strike",
+      "url": "https://uaw.org/uaw-members-drive-ambitious-political-operation-to-oust-commissioner-responsible-for-8-month-strike",
+      "author": "Justin Mayhugh",
+      "source": "UAW",
+      "published_at": "2026-10-30T21:18:27+00:00",
+      "content_excerpt": "After months of organizing that began in the summer, the UAW is on track to knock the doors of tens of thousands of union members in Lorain County to turn out the vote against County Commissioner Jeff Riddell. Since February 18, UAW Local 2192 members from Lorain County Job and Family Services have been out on strike due to Commissioners like Riddell refusing to bargain in good faith and denying the $1 per hour raises the workforce needs to afford to survive today’s affordability crisis. Already the longest public-sector strike in Ohio’s history, the Lorain Country Job and Family Services strike is weeks from becoming the longest public-sector strike in U.S. history. In May’s primary, Riddell defeated his Republican opponent by only 18 votes – after initially making it into the seat in 202",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/f833c2f078fca92cc720dfb3.json"
+    },
+    {
+      "id": "1a94386a879e739ba5c8546f",
+      "title": "Where Did Black Los Angeles Go? The Disappearance of a Community That Built the City",
+      "url": "https://www.laprogressive.com/racism/black-los-angeles-disappearance",
+      "author": "Sharon Kyle",
+      "source": "LA Progressive",
+      "published_at": "2026-10-30T20:56:32+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Part Two of Who Gets to Lead Los Angeles? Los Angeles celebrates its diversity. Its leaders routinely invoke the contributions of the many communities that have shaped the city. But something extraordinary has happened to one of those communities. Black Los Angeles has been disappearing. In 1980, approximately 496,000 Black people lived in Los Angeles, representing nearly 17 percent of its population. By 2020, that number had fallen to approximately 367,000, or about 9 percent. The city lost more than one-quarter of its Black population even as its overall population grew. Those numbers represent families leaving neighborhoods, businesses losing customers, churches losing c",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/1a94386a879e739ba5c8546f.json"
+    },
+    {
+      "id": "a74150d9c8323e0a3f42ab35",
+      "title": "Minneapolis Refused to Take Trump’s Bait. It Paid Off.",
+      "url": "https://jacobin.com/2026/10/trump-ice-minneapolis-protest-nonviolence",
+      "author": "Eric Blanc",
+      "source": "Jacobin",
+      "published_at": "2026-10-30T18:36:03+00:00",
+      "content_excerpt": "All signs point toward a resounding rebuke of Donald Trump in Tuesday’s midterm elections. Democrats have opened up a commanding lead in national polls , Trump’s popularity has sunk to historic lows, and even many of his former supporters are turning against him. There are plenty of reasons for this collapse, from rising prices to Trump’s disastrous war with Iran. But we shouldn’t forget what was arguably the single most important turning point of his presidency: the defeat of his militarized assault on Minneapolis. In January, Trump’s administration set out to terrorize immigrants, crush resistance, and establish the precedent that federal forces could occupy American cities against the wishes of their residents and elected officials. Instead, it encountered a mass movement whose courage ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/a74150d9c8323e0a3f42ab35.json"
+    },
+    {
+      "id": "2f9083a7b741d021bc3edaf5",
+      "title": "Socialists Need Our Own Foreign Policy Agenda",
+      "url": "https://jacobin.com/2026/10/imperialism-hegemony-socialism-foreign-policy",
+      "author": "Max B. Sawicky",
+      "source": "Jacobin",
+      "published_at": "2026-10-30T17:35:40+00:00",
+      "content_excerpt": "It is common for mainstream news outlets and political commentators in the United States to describe socialists as “very liberal” or simply “progressive,” or to puzzle over how to draw ideological lines between democratic socialists and others on the broad Left. There are, in fact, serious differences — differences that socialists would do well to sharpen and articulate for the public. At the same time, as the Democratic Socialists of America (DSA) grows by leaps and bounds, some commentators prefer to highlight those DSA positions that are furthest from common agreement. I have previously tried to distinguish between socialists and liberals when it comes to domestic economic policy. But what about foreign policy? Here I propose a socialist agenda for this field. Again, one of my objective",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/2f9083a7b741d021bc3edaf5.json"
+    },
+    {
+      "id": "431d60b2116708f6d3c372e9",
+      "title": "Black Zombie: Voodoo, colonial consumption, and the monsterization of Haiti",
+      "url": "https://scalawagmagazine.org/2026/10/black-zombie-voodoo-colonial-consumption-and-the-monsterization-of-haiti",
+      "author": "Sherronda J. Brown",
+      "source": "Scalawag",
+      "published_at": "2026-10-30T17:17:21+00:00",
+      "content_excerpt": "Black Zombie illustrates how the zombie exploded in Western culture with occultist and explorer William Seabrook's The Magic Island in 1929, a travelogue in which he claims to have seen Haitian zombies working in sugarcane fields. Read more via Scalawag : Black Zombie: Voodoo, colonial consumption, and the monsterization of Haiti .",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/431d60b2116708f6d3c372e9.json"
+    },
+    {
+      "id": "2604a827098ee951d3637355",
+      "title": "Jobs Fair: It’s Time to Get These Socialists to Work",
+      "url": "https://socialistcall.com/2026/10/30/jobs-fair-its-time-to-get-these-socialists-to-work",
+      "author": "Jo Blocton",
+      "source": "The Call",
+      "published_at": "2026-10-30T17:12:26+00:00",
+      "content_excerpt": "Unions are the only space in American society where socialist values of solidarity and “us vs. them” are openly spoken and encouraged, outside of DSA. It is about time for us to take back this space to fight for workers’ rights. Detroit DSA’s Jobs Fair last month was as much about education as it was about encouraging folks to consider new job options. During the fair, about 60 participants heard from five different union members about why going to work in their fields can create legitimate change for the whole working class, while also improving their individual lives. The purpose was to bring socialists to the front line of the workforce, where we can build political power on all fronts for the working class. These union trades didn’t come to play; the salaries of union workers represent",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/2604a827098ee951d3637355.json"
+    },
+    {
+      "id": "6caca094fc5aadafefb01f49",
+      "title": "Netanyahu Lost Israel's Election",
+      "url": "https://www.laprogressive.com/foreign-policy/netanyahu-lost-israels-election",
+      "author": "Jeffrey Sachs",
+      "source": "LA Progressive",
+      "published_at": "2026-10-30T16:57:04+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Benjamin Netanyahu , Itamar Ben-Gvir, and Bezalel Smotrich decisively lost Israel’s election on October 27. The governing coalition of Likud, the far right, and the ultra-Orthodox parties fell from 64 seats in 2022 to 53 , eight short of a majority in the 120-seat Knesset. The other 67 seats went to parties that campaigned to replace the government: 48 to the Jewish-led opposition headed by Gadi Eisenkot, a former army chief of staff, and 19 to the two Arab parties. Turnout was 77.9 percent, the highest since 1999, and Arab citizens, who make up about one-fifth of Israel’s population, voted at an estimated rate of about 80 percent , up from 53 percent in 2022 . The results ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/6caca094fc5aadafefb01f49.json"
+    },
+    {
+      "id": "44a8fddfa8c0c5e57bbc51d3",
+      "title": "California Voter Suppression Fears",
+      "url": "https://www.laprogressive.com/election-and-campaigns/california-voter-suppression-fears",
+      "author": "Mark Kreidler",
+      "source": "LA Progressive",
+      "published_at": "2026-10-30T16:41:35+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Immigrant rights groups in California are certain about two things: President Donald Trump’s administration is trying to intimidate immigrants into not voting in the 2026 midterms; and Only a concerted effort to reinforce those voters’ rights can ensure that the scheme doesn’t work. With next Tuesday’s Election Day closing in, it’s impossible to know if the surge in federal anti-immigrant activity in California over the past few months will indeed produce a chilling effect on immigrant turnout. But California has seen this movie before, including last year’s vicious ICE raids up and down the state. And what has developed out of that is a network of organizations coordinatin",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/44a8fddfa8c0c5e57bbc51d3.json"
+    },
+    {
+      "id": "0d05724d2343516a2486946a",
+      "title": "Nithya Raman, Daryl Gates, and the History a Mayor Should Know",
+      "url": "https://www.laprogressive.com/election-and-campaigns/nithya-raman-daryl-gates",
+      "author": "Sharon Kyle",
+      "source": "LA Progressive",
+      "published_at": "2026-10-30T16:26:38+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Who Gets to Lead Los Angeles? Part One of a Four Part Series A friend recently asked me what I thought about the Los Angeles mayoral race. Before I could answer, she brought up something City Councilmember Nithya Raman had said during an October debate with Mayor Karen Bass. Raman had invoked former LAPD Chief Daryl Gates while criticizing the city's cooperation with federal immigration enforcement. For many Black Angelenos, hearing Gates's name associated with a supposed “gold standard” of police policy was deeply disturbing and for some it was triggering, I understand that reaction. I also believe the controversy has been used for political advantage. Both things can be t",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/0d05724d2343516a2486946a.json"
+    },
+    {
+      "id": "b5a714cf6d4a84a991a97573",
+      "title": "My Peace Shrine",
+      "url": "https://www.laprogressive.com/war-and-peace/my-peace-shrine",
+      "author": "Pat Hynes",
+      "source": "LA Progressive",
+      "published_at": "2026-10-30T16:21:27+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Each morning, I walk to a peace shrine near me to contemplate what seems to be an unending cycle of wars and to pray for peace in the universal language of the heart shared among those who yearn for peace in our world. The shrine consists of a sturdy rusted iron circle enclosing a thin vertical metal rod and two shorter ones at acute angles to form a distinctive peace sign, placed atop a wooden support. It stands about five feet from the driveway’s edge near a small forest. Plants, such as jewelweed, a species of buckwheat with a distinct stem of pink flowers, and lamb’s quarters, are nearby companions. A year and a half ago, the peace sign held a set of small multicolored,",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/b5a714cf6d4a84a991a97573.json"
+    },
+    {
+      "id": "9bd32cf27cb2d2af10a4a35f",
+      "title": "A Palestinian Prisoner on the Nightmare Behind Israeli Bars",
+      "url": "https://jacobin.com/2026/10/jarrar-palestine-prison-education-elections",
+      "author": "Khalida Jarrar",
+      "source": "Jacobin",
+      "published_at": "2026-10-30T15:39:56+00:00",
+      "content_excerpt": "Born in Nablus in 1963, Khalida Jarrar is one of the foremost voices of the Palestinian left — feminist, secular, socialist — and one of the towering figures of the political prisoners’ movement. For more than a decade she led Addameer, the main Palestinian prisoner support organization. In 2006, voters elected her to the Palestinian Legislative Council, where she chaired the prisoners’ commission, and she later served on the national committee that prepared Palestine’s accession to the International Criminal Court. Today she is a researcher at the Muwatin Institute at Birzeit University, where she is conducting a pioneering study of the class and gender dimensions of the women prisoners’ movement since 1967. She has paid for each of these roles with her own freedom. Israel has imprisoned ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/9bd32cf27cb2d2af10a4a35f.json"
+    },
+    {
+      "id": "dc8aef36ff1cdd893860effd",
+      "title": "A Midterm Rout Will Hurt the GOP, but Trumpism Will Endure",
+      "url": "https://jacobin.com/2026/10/trump-maga-elections-economy-populism",
+      "author": "Joseph G. Peschek",
+      "source": "Jacobin",
+      "published_at": "2026-10-30T14:39:07+00:00",
+      "content_excerpt": "Observers across the spectrum expect Democrats to make significant gains in the upcoming midterms, in House and Senate races and beyond. There are good reasons to trust in their predictions. Nonpresidential elections in the US are increasingly “nationalized,” meaning that evaluations of presidential and national politics strongly influence down-ballot choices. And President Donald Trump, having behaved cruelly and erratically while presiding over a weak economy and an unpopular war with Iran, has not set Republicans up for success. With inflation rates high, wages stagnant, and borrowing costs elevated, economic issues are central to the GOP’s current quandary. In a recent Washington Post –ABC News–Ipsos poll, Trump’s economic approval rating stands at just 28 percent. By a three-to-one ma",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/dc8aef36ff1cdd893860effd.json"
+    },
+    {
+      "id": "8fd64106fc60f0dcb93553ad",
+      "title": "In Italy, Giorgia Meloni Is Hardening Her Calls for Order",
+      "url": "https://jacobin.com/2026/10/italy-meloni-cost-of-living-protest-repression",
+      "author": "Richard Braude",
+      "source": "Jacobin",
+      "published_at": "2026-10-30T13:41:12+00:00",
+      "content_excerpt": "There’s a story doing the rounds. A woman is sitting in a bar in tourist-filled Turin; you can imagine the glass panes looking out onto the square, the little tables for spritzes and olives. Kids and chitchat. Then, out of nowhere, everyone starts coughing and wheezing; she feels a burning sensation in her eyes. The air is filled with white fumes, tear gas engulfing the little tables. Everyone rushes inside, they lock themselves in. Only afterward do they spy, through the fumes, a few hooded protesters running towards the piazza. Only afterward — when they can breathe more easily and slip into the side streets to make their way home — are the squares and streets fully taken over by skirmishes and barricades. The great Italian critical theorist Furio Jesi , thinking of his native Turin, wro",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/8fd64106fc60f0dcb93553ad.json"
+    },
+    {
+      "id": "87d4ad1b89a42f56868b4a68",
+      "title": "Trump Polls Tank, DC’s DSA Mayor, Voters’ Scary Halloween",
+      "url": "https://democraticleft.dsausa.org/2026/10/30/trump-polls-tank-dcs-dsa-mayor-voters-scary-halloween",
+      "author": "tfrasca@yahoo.com",
+      "source": "Democratic Left",
+      "published_at": "2026-10-30T12:04:13+00:00",
+      "content_excerpt": "DSA is on the rise, Trump’s polls are sinking fast, voters brace for Election Day, and more in this edition of “Red All Over,” Democratic Left’s occasional news roundup. The post Trump Polls Tank, DC’s DSA Mayor, Voters’ Scary Halloween appeared first on Democratic Left .",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/87d4ad1b89a42f56868b4a68.json"
+    },
+    {
+      "id": "e7969d710c7064b4f1335f3c",
+      "title": "The Day After",
+      "url": "https://www.laprogressive.com/los-angeles-2/the-day-after",
+      "author": "Mike Guynn",
+      "source": "LA Progressive",
+      "published_at": "2026-10-30T06:17:20+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. On November 3, 2026, Los Angeles voters will decide who leads their city. But on November 4, 2026 the rent will still be due. Homelessness, housing affordability, public safety, neighborhood services, and public trust will remain urgent concerns. The election will change the leadership question, not eliminate the challenges. The real test is not simply whether Karen Bass wins reelection or Nithya Raman becomes mayor. It is whether residents can turn their expectations into measurable commitments and ensure that whoever occupies City Hall answers to the people. If Raman Wins, the Scrutiny Begins A new mayor would inherit a city confronting difficult questions about housing, ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/e7969d710c7064b4f1335f3c.json"
+    },
+    {
+      "id": "84532a7257e8beed882cb474",
+      "title": "But Who Profits?",
+      "url": "https://www.laprogressive.com/war-and-peace/but-who-profits",
+      "author": "Bruce Altschuler",
+      "source": "LA Progressive",
+      "published_at": "2026-10-30T05:56:41+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Everyone knows that since the start of the war with Iran, Americans have been paying much more money for gas and other energy. That money has to be going somewhere and, in case we didn’t know where, Donald Trump has revealed the not so hidden secret. At a campaign rally in Perry, Georgia, he admitted, “I don’t give a damn. I’m gonna say it. We’re making a freaking fortune.” Who is this “we”? It is certainly not the average American who has to pay at the pump. One obvious answer is the energy companies. According to the Oil & Gas Journal , during the second quarter of this year, American oil and gas companies saw revenues rise to $439 billion and net income to $62 billion, n",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/84532a7257e8beed882cb474.json"
+    },
+    {
+      "id": "b4129ac7217c4429486ef7bf",
+      "title": "Trump Struggles Against Easy, Hard and Personal Questions",
+      "url": "https://www.laprogressive.com/civil-liberties-and-civil-rights/trump-personal-questions",
+      "author": "Julien Hennefeld",
+      "source": "LA Progressive",
+      "published_at": "2026-10-30T05:45:57+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Trump’s amazing brain is well documented. On each of his three short stays in the hospital Trump was given a cognitive exam designed to test for early signs of dementia and cognitive decline. And each time he aced them with a perfect score. The first question typically tested visual perceptiveness, like given pictures of a lion, a giraffe, a bear and a shark, which one was the bear? Not that hard, but the right level of difficulty for Joe Biden. However, later questions were extremely difficult. At a rally, Trump wowed the crowd by revealing one of the harder questions. It involved performing calculations in quick succession without pencil and paper. Here is the question: P",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/b4129ac7217c4429486ef7bf.json"
+    },
     {
       "id": "a072e9191a8f8e171b9aae8a",
       "title": "Move-Away Case",
@@ -36,276 +306,6 @@
       "priority": 1,
       "date_missing": false,
       "article_path": "articles/0d584ef3364bc3faf369ef69.json"
-    },
-    {
-      "id": "5ef2537e463ca07661a83a29",
-      "title": "Self-Defense Claim",
-      "url": "https://www.laprogressive.com/sponsored/self-defense-claim",
-      "author": "Britta Hedlund",
-      "source": "LA Progressive",
-      "published_at": "2026-10-29T22:40:58+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Confrontations can become dangerous in a matter of seconds. A person may have to decide whether someone poses a real threat before there is time to step back and think through every possible consequence. Later, however, that decision may be examined closely in court. Understanding self-defense laws Idaho follows can help a person to protect themselves or another person with reasonable force in certain circumstances. The law also says a person does not have to wait until they know with certainty that a danger is real before acting. Instead, the law considers whether the circumstances would have led a reasonable person to believe that immediate action was necessary. A Person ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/5ef2537e463ca07661a83a29.json"
-    },
-    {
-      "id": "61b1e81d31d3c32e42f9159b",
-      "title": "Can a Virtual Office Help",
-      "url": "https://www.laprogressive.com/sponsored/can-a-virtual-office-help",
-      "author": "Tiqua Jackson",
-      "source": "LA Progressive",
-      "published_at": "2026-10-29T22:25:40+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Melbourne is one of Australia's most competitive business markets, and your address matters more than most people expect. Clients form impressions before they've spoken a word to you, and a virtual office can shift those impressions in your favour without the cost of a full lease. The real question isn't whether a virtual office works. It's whether the right one, in the right location, can actually change how Melbourne clients respond to your business. What a Virtual Office Actually Gives You in Melbourne If you're trying to establish a business presence in Melbourne , a virtual office puts a premium CBD address on your business card, your website, your proposals, and your ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/61b1e81d31d3c32e42f9159b.json"
-    },
-    {
-      "id": "f3d15e9a18215f34f6dac6bf",
-      "title": "AI Is Changing Mental Health Care",
-      "url": "https://www.laprogressive.com/sponsored/ai-is-changing-mental-health-care",
-      "author": "Tiqua Jackson",
-      "source": "LA Progressive",
-      "published_at": "2026-10-29T22:25:40+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Artificial intelligence is finding its way into mental health care, changing how people seek help, receive diagnoses, and connect with treatment providers. What once required a phone call or an office visit can now begin with a chatbot, an online questionnaire, or an automated screening tool. For people who have spent weeks trying to find a therapist, that sounds like progress. But the growing use of AI in mental health services is also raising concerns about patient safety, privacy, and the loss of human connection. Healthcare providers are under pressure to serve more patients while keeping costs down. Technology offers one answer. Yet researchers and mental health profes",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/f3d15e9a18215f34f6dac6bf.json"
-    },
-    {
-      "id": "2a8f1d0f41b81702cb813e3d",
-      "title": "Livorno Dockworkers Are Trying to Block the Weapons of War",
-      "url": "https://jacobin.com/2026/10/livorno-dockworkers-flotilla-gaza-weapons",
-      "author": "Alex Colston",
-      "source": "Jacobin",
-      "published_at": "2026-10-29T21:47:55+00:00",
-      "content_excerpt": "Livorno, Italy — “Sunaid X, Sunaid X, Sunaid X, this is Sumud, do you copy?” “You’re calling Sunaid X.” “Sunaid X, you are carrying supplies to a military base that is deeply involved in Zionists’ warfare and the genocide of the Palestinian people. The port is blocked for you. You’re not welcome here.” So went last Thursday’s radio exchange between Global Sumud Flotilla (GSF) activist Luca Poggi and the bridge of the Sunaid X, a container ship that local unions had identified as a supplier of the NATO military base Sigonella, the US Navy’s air station in Sicily. After lying in wait for a week, living aboard three GSF sailboats at the port, around ten GSF members sprang into action midday on October 22. A Global Sumud Flotilla sailboat faces a Guardia di Finanza patrol boat at the mouth of ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/2a8f1d0f41b81702cb813e3d.json"
-    },
-    {
-      "id": "d3fb09c30e3b8d5a109ef753",
-      "title": "Busy Morning",
-      "url": "https://www.laprogressive.com/sponsored/busy-morning",
-      "author": "Sejal Desai",
-      "source": "LA Progressive",
-      "published_at": "2026-10-29T21:33:08+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Mornings rarely go exactly as planned. Sometimes there is barely enough time to choose an outfit, prepare breakfast, and get ready for the day, let alone create an attractive hairstyle. For anyone who wants beautiful hair without a complicated morning routine, OQ Hair Headband Wigs offer an interesting styling option. These wigs combine convenience with versatility, helping you explore different looks while keeping your preparation simple. A headband wig features a wig cap with a fabric band positioned at the front. Unlike many traditional lace wigs, this design does not require lace trimming or adhesive application in the same way. The headband covers the front edge, creat",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/d3fb09c30e3b8d5a109ef753.json"
-    },
-    {
-      "id": "1c3649d49a79a00ddd34f0bf",
-      "title": "Roof Repair Protects Your Home",
-      "url": "https://www.laprogressive.com/sponsored/roof-repair-protects-your-home",
-      "author": "Britta Hedlund",
-      "source": "LA Progressive",
-      "published_at": "2026-10-29T21:24:53+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Your roof rarely gets much attention until something goes wrong. One missing shingle can seem harmless, then a hard rain turns your ceiling into a warning sign. If you own a home, understanding roof repair helps you avoid bigger costs, protect resale value, and keep your place structurally sound. In a city like Atlanta, where heat, storms, humidity, and heavy tree cover all show up in the same year, roof problems can escalate faster than most people expect. How timely repair saves you money in the long run Roof repair is usually far cheaper than replacing a full roofing system or fixing interior water damage. The math gets ugly fast when a minor issue spreads into rotten de",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/1c3649d49a79a00ddd34f0bf.json"
-    },
-    {
-      "id": "caf23672dbd5eafb11c4ef21",
-      "title": "Beyond the Makeover",
-      "url": "https://www.laprogressive.com/sponsored/beyond-the-makeover",
-      "author": "Tiqua Jackson",
-      "source": "LA Progressive",
-      "published_at": "2026-10-29T21:24:53+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. A renovation can make a house look impressive without making it more valuable. Finishes attract attention, but buyers also notice awkward layouts and neglected maintenance. The challenge is choosing improvements that support daily living and lasting future value. Consider the property, likely buyers, and surrounding market. Spending wisely takes careful thought. Fix What Buyers Would Worry About First A polished interior cannot distract everyone from peeling exterior finishes, recurring leaks, or windows that barely open. These issues raise questions about what else has been neglected. Before choosing decorative upgrades, inspect the roof, siding, drainage, and visible sign",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/caf23672dbd5eafb11c4ef21.json"
-    },
-    {
-      "id": "6f8d1c7f97caff631edf3630",
-      "title": "Members Alarmed by End-Run around Democracy at Buffalo Health Care Local",
-      "url": "https://labornotes.org/2026/10/members-alarmed-end-run-around-democracy-buffalo-health-care-local",
-      "author": "Sarah Hughes",
-      "source": "",
-      "published_at": "2026-10-29T21:21:21+00:00",
-      "content_excerpt": "Things had been tense for some time inside the leadership of Communications Workers (CWA) Local 1168, a 4,800-member health care union based near Buffalo, New York. Still, it was a high-functioning local with a busy calendar of events, stewards handling grievances, organizers pursuing leads, and leaders organizing at work. So it was a surprise to members in June when their parent union, CWA, put the local into trusteeship, at the request of the local’s president and seven of the nineteen executive board members. Trusteeship meant the union’s bylaws and elected leaders were suspended, and most of its work temporarily ground to a halt. The appointed Director of Organizing and Mobilizing Mary Nowocien and elected Vice President Patrick Weisansal II found themselves locked out of their group c",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/6f8d1c7f97caff631edf3630.json"
-    },
-    {
-      "id": "4319c1f613c130db2aabc95a",
-      "title": "One Step, Then Another",
-      "url": "https://midwestsocialist.com/2026/10/29/one-step-then-another",
-      "author": "Midwestern Socialist -- Chicago DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-10-29T21:15:57+00:00",
-      "content_excerpt": "This speech was delivered by Jenny HB on October 3rd at CDSA’s Field Day event. The text has been edited for clarity. Comrades, we stand today in a moment unlike anything our movement has seen. Capitalism has developed itself into such a state of chronic dysfunction that even those most deeply committed to the status quo find themselves completely unable to articulate a path forward. As the political mainstream continues to lose the consent of the people, our party grows stronger with each passing day and with the deepening crises we face. We are able to offer a credible alternative to the status quo because, unlike the unprincipled liberal and reformist progressives, we have the ability to understand and engage with the world through a Marxist framework. This gives us not just moral clari",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/4319c1f613c130db2aabc95a.json"
-    },
-    {
-      "id": "8449283ab85b169e97fb52e2",
-      "title": "Memphis Communities Fight Elon Musk's Data Center",
-      "url": "https://www.blackagendareport.com/memphis-communities-fight-elon-musks-data-center",
-      "author": "bareditors",
-      "source": "Black Agenda Report",
-      "published_at": "2026-10-29T20:49:11+00:00",
-      "content_excerpt": "Memphis Communities Fight Elon Musk's Data Center Authors Black Agenda Radio with Margaret Kimberley bareditors Fri, 10/30/2026 - 01:28 KeShaun Pearson of Memphis Community Against Pollution discusses the struggles against Musk and Memphis' compromised elected officials. African America Memphis data centers Artificial Intelligence Elon Musk",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/8449283ab85b169e97fb52e2.json"
-    },
-    {
-      "id": "eb8310ac7e54a7ecc6ce929a",
-      "title": "Black Agenda Report October 30, 2026",
-      "url": "https://www.blackagendareport.com/black-agenda-report-october-30-2026",
-      "author": "bareditors",
-      "source": "Black Agenda Report",
-      "published_at": "2026-10-29T20:49:11+00:00",
-      "content_excerpt": "Black Agenda Report October 30, 2026 Authors Black Agenda Radio with Margaret Kimberley bareditors Fri, 10/30/2026 - 01:19 Black Agenda Radio · Black Agenda Report October 30, 2026 In this week’s segment, we discuss Brazil's presidential election, where the incumbent president secured victory after losing in the first round of voting. But we begin with a conversation about an Elon Musk data center in Memphis, Tennessee, where the community is organizing for a moratorium on data centers in opposition to their elected officials, who answer to business interests instead of to their constituents. African America Brazil Memphis Tennessee Elections Elon Musk Artificial Intelligence Fascism",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/eb8310ac7e54a7ecc6ce929a.json"
-    },
-    {
-      "id": "e98ffc1eecbef3b997bb2796",
-      "title": "How Lula Won in Brazil",
-      "url": "https://www.blackagendareport.com/how-lula-won-brazil",
-      "author": "bareditors",
-      "source": "Black Agenda Report",
-      "published_at": "2026-10-29T20:49:11+00:00",
-      "content_excerpt": "How Lula Won in Brazil Authors Black Agenda Radio with Margaret Kimberley bareditors Fri, 10/30/2026 - 01:14 Robert Wilson analyzes Lula da Silva's comeback from defeat in the first round of voting in Brazil's presidential election. International Brazil Lula da Silva Elections",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/e98ffc1eecbef3b997bb2796.json"
-    },
-    {
-      "id": "c5ba53a19d896d505cd83480",
-      "title": "Election Denial Is Now Normal for the Right Everywhere",
-      "url": "https://jacobin.com/2026/10/trump-bolsonaro-netanyahu-election-denial",
-      "author": "Branko Marcetic",
-      "source": "Jacobin",
-      "published_at": "2026-10-29T20:43:03+00:00",
-      "content_excerpt": "The series of recent elections across the globe have been read as a stinging defeat for right-wing authoritarians, which they are. But maybe more notable is another element: that denial of and efforts to simply reverse unfavorable election results now seem to have become de rigueur for the transnational Right. All four of the major elections taking place in the ten-day period from October 25 to November 3 have seen or are seeing efforts by right-wing politicians to cast doubt on results where they lost or are likely to, and to engineer a way to change them in their favor. In Brazil, right-wing candidate Flávio Bolsonaro — whose father is serving a twenty-seven-year prison sentence for trying to organize a coup when he lost the presidential election four years ago — responded to his own sho",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/c5ba53a19d896d505cd83480.json"
-    },
-    {
-      "id": "1509079168199c8b7e741ef8",
-      "title": "Bottom-Up Organizing: How We Got Clean Porta-Johns",
-      "url": "https://labornotes.org/blogs/2026/10/bottom-organizing-how-we-got-clean-porta-johns",
-      "author": "",
-      "source": "",
-      "published_at": "2026-10-29T17:29:21+00:00",
-      "content_excerpt": "The first day I showed up on the Marriott construction site in downtown Detroit, everyone warned me about the state of our bathrooms. You could smell them halfway across most floors. They were full in 24 hours, urinals were often clogged, and some people had taken to using buckets and hiding them in closets. Every electrician already had the same idea: we wanted the cleaning schedule changed from twice a week to three times. I had a long conversation with the steward about what had been tried. The first instinct of a construction worker is to “drag” (quit), drive over to the union hall, and pick up a new job. As expected, there was a steady trickle of drags, but no improvement to conditions. OSHA had been called and walked the site, only to say that the number of bathrooms was up to their ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/1509079168199c8b7e741ef8.json"
-    },
-    {
-      "id": "e872b6ea92249b67e61b7deb",
-      "title": "The US Is Starving Cuba. Will It Invade Too?",
-      "url": "https://jacobin.com/2026/10/cuba-blockade-deaths-trump-invasion",
-      "author": "Kurt Hackbarth",
-      "source": "Jacobin",
-      "published_at": "2026-10-29T17:28:27+00:00",
-      "content_excerpt": "On September 25, CBS News announced that it had obtained “exclusive new information” regarding potential US military action against Cuba. According to an Army Reserve memo reviewed by the network, the Pentagon was looking at the possibility of mobilizing police forces, medical personnel, and other units to support such an operation. Vague on details, the conveniently timed piece appeared suited to coincide with Donald Trump’s speech at the United Nations three days prior, where he asserted that his administration was seeking a “fundamental change in the situation” with the Cuban government, which is “failing like never before” and “will fall.” The very night of its report, however, CBS published another article effectively walking it back, quoting a defense expert who claimed that the memo",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/e872b6ea92249b67e61b7deb.json"
-    },
-    {
-      "id": "e1e33c7b48ceb13a7f296dcf",
-      "title": "Is There Life After AI? Cory Doctorow Thinks So.",
-      "url": "https://jacobin.com/2026/10/ai-bubble-labor-copyright-competition",
-      "author": "Cory Doctorow",
-      "source": "Jacobin",
-      "published_at": "2026-10-29T16:24:45+00:00",
-      "content_excerpt": "The artificial intelligence boom is fueled by an elite wager that software can supplant expensive human expertise. The tech industry and its investors are pumping hundreds of billions of dollars into the technology — Goldman Sachs forecasts that global AI-related investment will soon exceed $1 trillion . At the same time, government regulatory regimes are inadequate and consumer use cases often vague, misleading, or utterly counterproductive. The economics of AI don’t make sense unless one factors in what its backers hope to gain: a way to displace workers. In his most recent book, The Reverse Centaur’s Guide to Life After AI , Cory Doctorow explains how people have become tools of the machines and the capitalists who own them. Doctorow recently spoke to Jacobin to discuss the rise of AI, ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/e1e33c7b48ceb13a7f296dcf.json"
-    },
-    {
-      "id": "f78ee960fa4b4796b08d69e6",
-      "title": "Occupation of Palestine Will Continue",
-      "url": "https://www.laprogressive.com/foreign-policy/occupation-of-palestine-will-continue",
-      "author": "Ramzy Baroud",
-      "source": "LA Progressive",
-      "published_at": "2026-10-29T16:01:17+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. In the past, many Palestinians and Arabs followed Israeli elections closely. They did so not because they entertained illusions that a Zionist leader would deliver peace and justice, dismantle the occupation or remove illegal settlements. Rather, they feared that some Israeli leaders were worse than others. They hoped to avert the worst-case scenario. Over time, however, that distinction gave way to the belief that all Israeli leaders were essentially the same. This is not pessimism. It is experience. Consider, for example, the expansion of illegal Jewish settlements during the Oslo peace process under Israeli Prime Minister Yitzhak Rabin. Between 1992 and 1995, the number ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/f78ee960fa4b4796b08d69e6.json"
-    },
-    {
-      "id": "26d8bf187c434bf42d6df0a2",
-      "title": "No Kings Protest I Missed",
-      "url": "https://www.laprogressive.com/progressive-issues/no-kings-protest-i-missed",
-      "author": "Tom Engelhardt",
-      "source": "LA Progressive",
-      "published_at": "2026-10-29T15:21:33+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Yes, I’ve done this twice before, both times in 2025. Consider this my third (post-)No Kings Day piece, which, like the previous ones, won’t appear until days after that protest holiday (of sorts) goes down in history. Unfortunately, in the latest version, there will be a distinct emphasis on the “no.” The news coverage of the most recent No Kings Day appeared significantly more subdued than in the past and the marches and rallies that day seemingly (or at least reportedly ) were smaller than once upon a time. It evidently mattered not at all that we are now in a world where kingships (a politely outmoded word for dictatorships or autocracies) seem to be spreading. After al",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/26d8bf187c434bf42d6df0a2.json"
     }
   ]
 }

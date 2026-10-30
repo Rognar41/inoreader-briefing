@@ -1,12 +1,282 @@
 {
-  "generated_at": "2026-10-29T23:29:28.675143+00:00",
-  "generated_at_jst": "2026-10-30T08:29:28.675143+09:00",
-  "period_start": "2026-10-28T17:29:28.675143+00:00",
+  "generated_at": "2026-10-30T23:06:04.591189+00:00",
+  "generated_at_jst": "2026-10-31T08:06:04.591189+09:00",
+  "period_start": "2026-10-29T17:06:04.591189+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
-  "article_count": 16,
+  "article_count": 20,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "4fc1808c4e90f70e82eb16ab",
+      "title": "The Brazilian victory: left unity and digital autonomy",
+      "url": "https://breakthroughnews.org/2026/10/30/the-brazilian-victory-left-unity-and-digital-autonomy",
+      "author": "Rezgar Akrawi",
+      "source": "BT News",
+      "published_at": "2026-10-30T23:03:22+00:00",
+      "content_excerpt": "The leftist leader Luiz Inácio Lula da Silva secured a historic victory in Brazil’s presidential election on October 25, 2026. The result came amid intense political and social polarization and the growing influence of the far right in Brazil and across Latin America, backed by the US far right led by Donald Trump. The significance of this electoral victory extends beyond Lula securing a fourth term. It also lies in the political and organizational experience that helped make it possible, above all the ability of diverse left-wing and progressive forces, with different programs and ideological outlooks, to forge a broad electoral alliance around common ground in confronting the far right. A broad left-wing and progressive alliance despite differences Lula contested the election with the su",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/4fc1808c4e90f70e82eb16ab.json"
+    },
+    {
+      "id": "777087c8bc5b6e21870f6c64",
+      "title": "Thousands of people in Gaza are missing without answers, as Israel withholds information from their families",
+      "url": "https://mondoweiss.net/2026/10/thousands-of-people-in-gaza-are-missing-without-answers-as-israel-withholds-information-from-their-families",
+      "author": "Mohamed Solaimane",
+      "source": "Mondoweiss",
+      "published_at": "2026-10-30T20:35:33+00:00",
+      "content_excerpt": "More than a year after the October 2025 ceasefire, Palestinian families are still searching for loved ones who vanished during Israel’s genocide in Gaza.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/777087c8bc5b6e21870f6c64.json"
+    },
+    {
+      "id": "7a05ef7bbd5c5348ee5198b2",
+      "title": "Western Sahara at a tipping point as US pushes for Moroccan ‘autonomy’ plan",
+      "url": "https://breakthroughnews.org/2026/10/30/western-sahara-at-a-tipping-point-as-us-pushes-for-moroccan-autonomy-plan",
+      "author": "Nicholas Mwangi",
+      "source": "BT News",
+      "published_at": "2026-10-30T20:04:37+00:00",
+      "content_excerpt": "Large numbers of Sahrawi citizens took to the streets in El Aaiún , the largest city in Western Sahara, on Monday, to demand a just United Nations-sponsored solution that guarantees their right to freedom, self-determination, and independence. The demonstrations come as the United States allegedly pushes a draft UN Security Council resolution that would make Morocco’s autonomy plan the sole basis for negotiations over the future of the territory. The US-drafted text, reportedly circulated among Security Council members on October 22, has drawn strong objections from the Polisario Front, the Sahrawi independence movement, as well as human rights and solidarity organizations. Arguing the proposal risks predetermining the outcome of negotiations by placing Morocco’s plan over Western Sahara a",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/7a05ef7bbd5c5348ee5198b2.json"
+    },
+    {
+      "id": "5523e41ca2e9583a9bfd0f80",
+      "title": "Liberal Zionists are trying to distance themselves from the reality that Israeli voters overwhelmingly want genocide",
+      "url": "https://mondoweiss.net/2026/10/liberal-zionists-are-trying-to-distance-themselves-from-the-reality-that-israeli-voters-overwhelmingly-want-genocide",
+      "author": "Jonathan Ofir",
+      "source": "Mondoweiss",
+      "published_at": "2026-10-30T18:35:41+00:00",
+      "content_excerpt": "Liberal Zionists bemoan both ultra-nationalist extremists and pro-Palestine activists, but Israel's latest elections show how they ultimately come to the defense of apartheid every time.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/5523e41ca2e9583a9bfd0f80.json"
+    },
+    {
+      "id": "cc0ffdbf64b446445f990cb9",
+      "title": "‘We Are Still Here’: A Warao Community Between the Blockade and the Commune (Part II)",
+      "url": "https://mronline.org/2026/10/30/we-are-still-here-a-warao-community-between-the-blockade-and-the-commune-part-ii",
+      "author": "Cira Pascual Marquina",
+      "source": "MR Online",
+      "published_at": "2026-10-30T18:22:19+00:00",
+      "content_excerpt": "\"We helped one another, like brothers and sisters. As hard as those years were, they brought us closer instead of driving us apart. We should not unlearn what we learned then.\" The post ‘We Are Still Here’: A Warao Community Between the Blockade and the Commune (Part II) appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/cc0ffdbf64b446445f990cb9.json"
+    },
+    {
+      "id": "fb1135b642ec21b2e1f4fcac",
+      "title": "Dockworkers at 110 ports worldwide strike against war and genocide",
+      "url": "https://breakthroughnews.org/2026/10/30/dockworkers-at-110-ports-worldwide-strike-against-war-and-genocide",
+      "author": "Ana Vračar",
+      "source": "BT News",
+      "published_at": "2026-10-30T17:54:56+00:00",
+      "content_excerpt": "Dockworkers across five continents and more than 110 ports launched a second historic international day of action against militarization and genocide on October 30. “We no longer want to work for war nor to pay for it,” José Nivoi of the Autonomous Collective of Port Workers (Coordinamento Autonomo Lavoratori Portuali, CALP) in Genoa said as actions kicked off. “Because the conditions we’re experiencing in Italy today, they’re the same conditions being experienced on five different continents.” Ports must serve life, not destruction The port workers’ actions are grounded in the Istanbul Declaration adopted earlier this year, which analyzes the impact of the growing arms transports on work in harbors worldwide. In the declaration and the interventions that followed, dockworkers outlined how",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/fb1135b642ec21b2e1f4fcac.json"
+    },
+    {
+      "id": "8573cf0edb074d5301af5b11",
+      "title": "One year after the election killings, Tanzania still awaits justice",
+      "url": "https://breakthroughnews.org/2026/10/30/one-year-after-the-election-killings-tanzania-still-awaits-justice",
+      "author": "Nicholas Mwangi",
+      "source": "BT News",
+      "published_at": "2026-10-30T17:00:07+00:00",
+      "content_excerpt": "One year ago, Tanzanians went to the polls in an election followed by deadly protests and a violent security crackdown. The immediate unrest has since subsided, but the wounds remain, and the demand for justice continues. President Samia Suluhu Hassan was declared the winner with 97.66% of the vote, an overwhelming margin that came with the exclusion of opposition forces and mounting restrictions on political activities. The disputed election and the violence that followed exposed deep tensions over Tanzania’s political realities, democratic participation, and the state’s response to dissent. A year on, not a single official has been held responsible, and justice for the victims and their families remains out of reach. A disputed election and a deadly crackdown The violence of October 2025",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/8573cf0edb074d5301af5b11.json"
+    },
+    {
+      "id": "33a13f139d02feda7b533eee",
+      "title": "Coming Up: Democracy Now! Election Night Special",
+      "url": "https://www.democracynow.org/live/coming_up_democracy_now_election_night",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-10-30T15:09:54+00:00",
+      "content_excerpt": "Tune in to Democracy Now! on election night, Tuesday, November 3, for a 4-hour special broadcast. Join us from 8 p.m. to midnight ET. Democracy Now! will speak with guests from around the country about this historic midterm election as results come in. We will be streaming live at DemocracyNow.org and on our YouTube channel. Check your local Democracy Now! station for listings.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/33a13f139d02feda7b533eee.json"
+    },
+    {
+      "id": "cd01df778c4385bcc0cd6828",
+      "title": "Dolores Huerta, Legendary Farmworker Organizer & Activist, Dies at 96",
+      "url": "https://www.democracynow.org/2026/10/29/dolores_huerta_death_maria_hinojosa",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-10-30T14:14:30+00:00",
+      "content_excerpt": "This is a rush transcript. Copy may not be in its final form. AMY GOODMAN : This is Democracy Now! , democracynow.org, The War and Peace Report . I’m Amy Goodman. The legendary labor organizer, feminist and civil rights activist Dolores Huerta has died at the age of 96. She was co-founder of the National Farm Workers Association in 1962 and then the United Farm Workers of America. She worked with Cesar Chavez at both groups. The United Farm Workers grew out of a merger between the National Farm Workers Association and the Filipino-led Agricultural Workers Organizing Committee. Dolores Huerta coined the phrase ” ¡Sí se puede! ,” “Yes, we can!” It became a rallying cry for farmworkers, a lasting slogan for social justice movements. Dolores Huerta appeared on Democracy Now! many times. We’ll ",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/cd01df778c4385bcc0cd6828.json"
+    },
+    {
+      "id": "95af30e71b28b24ed8616b32",
+      "title": "Statement by the Editorial Board of Historical Materialism",
+      "url": "https://www.historicalmaterialism.org/statement-of-the-editorial-board-of-historical-materialism",
+      "author": "Panagiotis Sotiris",
+      "source": "Historical Materialism",
+      "published_at": "2026-10-30T12:57:20+00:00",
+      "content_excerpt": "The decision of the UK government to deny Andreas Malm, a member of our Editorial Board, entrance to the United Kingdom, is shocking and disturbing. An internationally recognised academic, whose work has shaped the way the very question of climate change is discussed globally, is now facing the outrageous claim that his ‘presence in the UK is not considered to be conductive to the public good’. The fact that he has repeatedly expressed his solidarity to the Palestinian people and has condemned the genocide in Gaza, in the same manner as millions of UK citizens in the past years, provides no ground for such a ban, unless the UK government has opted to assault the right to free speech and endorse censorship. We unite our voice with all the voices that protest this outrageous decision and dem",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/95af30e71b28b24ed8616b32.json"
+    },
+    {
+      "id": "61946dff5ceb529a4464264a",
+      "title": "Down Home North Carolina is Transforming the State, County by County",
+      "url": "https://convergencemag.com/articles/down-home-north-carolina-is-transforming-the-state-county-by-county",
+      "author": "Delaney Vandergrift",
+      "source": "Convergence",
+      "published_at": "2026-10-30T12:52:11+00:00",
+      "content_excerpt": "Every two years national media and political pundits characterize North Carolina as purple, blue, red, or an unexplainable secret fourth thing. Cycle after cycle, the media gets it wrong because they’re missing the growing independent political power being built by organizations fighting for working people in corners of the state that political parties have abandoned. Source",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/61946dff5ceb529a4464264a.json"
+    },
+    {
+      "id": "3c49462e30a6de770594f657",
+      "title": "The AI-energy-fascism nexus",
+      "url": "https://mronline.org/2026/10/30/the-ai-energy-fascism-nexus",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-30T12:33:40+00:00",
+      "content_excerpt": "On the value of knowing your enemy through their alliances. The post The AI-energy-fascism nexus appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/3c49462e30a6de770594f657.json"
+    },
+    {
+      "id": "5018ebde385b8f36f2fb42b4",
+      "title": "Expansion of ‘Yellow Line’ forcing Palestinians out of their homes",
+      "url": "https://mronline.org/2026/10/30/expansion-of-yellow-line-forcing-palestinians-out-of-their-homes",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-30T11:33:02+00:00",
+      "content_excerpt": "Israeli occupation's Yellow Line expansion is forcing Palestinian families to relocate and restricting access to homes, farmland, and essential services, the Gaza Rights Center warns. The post Expansion of ‘Yellow Line’ forcing Palestinians out of their homes appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/5018ebde385b8f36f2fb42b4.json"
+    },
+    {
+      "id": "572cc0c6f8a9f56140d60953",
+      "title": "Ulm5 — Germany’s show trial sets a dangerous precedent",
+      "url": "https://mronline.org/2026/10/30/ulm5-germanys-show-trial-sets-a-dangerous-precedent",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-30T10:28:56+00:00",
+      "content_excerpt": "In a show-trial riddled with procedural irregularities, Germany is seeking to make an example of five activists who organized against the genocide in Gaza. The post Ulm5 — Germany’s show trial sets a dangerous precedent appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/572cc0c6f8a9f56140d60953.json"
+    },
+    {
+      "id": "6363bc1bcbfccb72f705678b",
+      "title": "Broad international support for Cuba at the United Nations General Assembly",
+      "url": "https://mronline.org/2026/10/30/broad-international-support-for-cuba-at-the-united-nations-general-assembly",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-10-30T09:32:31+00:00",
+      "content_excerpt": "The United Nations General Assembly has once again approved the resolution calling for an end to the economic, commercial, and financial blockade imposed by the United States against Cuba. The post Broad international support for Cuba at the United Nations General Assembly appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/6363bc1bcbfccb72f705678b.json"
+    },
+    {
+      "id": "ad55bc9175ff83879f899e5e",
+      "title": "How the UAE is fueling Sudan’s catastrophic war",
+      "url": "https://breakthroughnews.org/2026/10/29/how-the-uae-is-fueling-sudans-catastrophic-war",
+      "author": "Zoe Alexandra",
+      "source": "BT News",
+      "published_at": "2026-10-30T00:01:32+00:00",
+      "content_excerpt": "Sudan’s “civil war” is a proxy war for gold, now waged from above with foreign-armed drones. Journalist and researcher Mosaab Baba says Sudan’s “gold curse” has both the army and the UAE-backed Rapid Support Forces (RSF) increasingly striking civilian targets in a neocolonial war entering its fourth year, which has already killed thousands of civilians and left millions facing famine. With most of Sudan’s gold now funneled to Abu Dhabi, Baba tells Rania Khalek and Zoe Alexandra the country has become a “backyard” for the UAE, Egypt, Saudi Arabia and Turkey to extract precious minerals, farmland and access to the Red Sea. A year after the fall of El Fasher, he also explains why the world’s largest humanitarian crisis keeps slipping out of the headlines. Baba also unpacks how the legacy of t",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/ad55bc9175ff83879f899e5e.json"
+    },
+    {
+      "id": "2b56a9a36fcc17ebb811c7a8",
+      "title": "Lula wins, Bolsonaro flees: What’s next for Brazil?",
+      "url": "https://breakthroughnews.org/2026/10/29/lula-wins-bolsonaro-flees-whats-next-for-brazil",
+      "author": "Zoe Alexandra",
+      "source": "BT News",
+      "published_at": "2026-10-30T00:01:32+00:00",
+      "content_excerpt": "Lula’s comeback to victory in Brazil’s 2026 presidential election was no accident. After trailing far-right Flávio, son of imprisoned former president Jair Bolsonaro, by 2 million votes in the first round, President Luiz Inácio Lula da Silva won the runoff by more than twice that, powered by a movement that deployed mass street mobilizations and a “Lula’s Army” WhatsApp channel to turn the race around in just three weeks. Now Flávio Bolsonaro has fled to Miami, defying a court order and claiming the vote was stolen. But lawyer and Movimento Brasil Popular organizer Ana Júlia Guedes credits a disciplined campaign that exposed the far right’s criminal ties. And she tells Zoe Alexandra and Rania Khalek the honeymoon will be short: Lula still faces a deeply conservative Congress, rising politi",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/2b56a9a36fcc17ebb811c7a8.json"
+    },
+    {
+      "id": "85308f7c7c60c46e86cd3b3d",
+      "title": "The struggle for a new west asian order: The Forty-Fourth Newsletter (2026)",
+      "url": "https://mronline.org/2026/10/29/the-struggle-for-a-new-west-asian-order-the-forty-fourth-newsletter-2026",
+      "author": "Vijay Prashad",
+      "source": "MR Online",
+      "published_at": "2026-10-29T23:32:08+00:00",
+      "content_excerpt": "As Iran and Ansar Allah strain the U.S. security architecture in West Asia, regional powers are building new arrangements of their own, raising one central question: whose security do these arrangements serve? The post The struggle for a new west asian order: The Forty-Fourth Newsletter (2026) appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/85308f7c7c60c46e86cd3b3d.json"
+    },
     {
       "id": "1536e4c1c15fc0bb174d8e98",
       "title": "Israel kills six Palestinians in Gaza on eve of announcement of election results",
@@ -36,216 +306,6 @@
       "priority": 2,
       "date_missing": false,
       "article_path": "articles/6b1fa7f4a9350c17faef96b7.json"
-    },
-    {
-      "id": "869c57e6bbe68fd2d59b2da0",
-      "title": "Thousands of farmers march for land rights in India’s Maharashtra",
-      "url": "https://breakthroughnews.org/2026/10/29/thousands-of-farmers-march-for-land-rights-in-indias-maharashtra",
-      "author": "Abdul Rahman",
-      "source": "BT News",
-      "published_at": "2026-10-29T22:10:29+00:00",
-      "content_excerpt": "Earlier this week, thousands of farmers in India’s western state of Maharashtra marched to its capital, Mumbai, and forced the state government to recognize their right to the land they have tilled for years and fulfill their demands. Over 12,000 in number, the farmers, carrying red flags and shouting slogans against the ultra-right-wing government led by the Hindu-supremacist Bharatiya Janata Party (BJP), were led by the All India Kisan Sabha (AIKS), a left-wing farmers’ union. The farmers were also supported by several other left-wing mass organizations, such as the Center for Indian Trade Unions (CITU) and Democratic Youth Federation of India (DYFI). The farmers started their march on foot and in hundreds of vehicles from Akole on Monday and were aiming to reach the residence of the sta",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/869c57e6bbe68fd2d59b2da0.json"
-    },
-    {
-      "id": "0de0ae76c8f68cb0962cb002",
-      "title": "Netanyahu’s stalemate and the liberal fantasy of a new Israel",
-      "url": "https://mondoweiss.net/2026/10/netanyahus-stalemate-and-the-liberal-fantasy-of-a-new-israel",
-      "author": "Abdaljawad Omar",
-      "source": "Mondoweiss",
-      "published_at": "2026-10-29T19:24:00+00:00",
-      "content_excerpt": "Liberal commentary frames Israel’s elections as a struggle for its soul, but the opposition offers only better management of the same system. Record Palestinian turnout reflects hope for modest relief, not real change.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/0de0ae76c8f68cb0962cb002.json"
-    },
-    {
-      "id": "1b3fe390a1b9069947d331e7",
-      "title": "No seat at the table: Israel’s post-election message to its Palestinian citizens",
-      "url": "https://mondoweiss.net/2026/10/no-seat-at-the-table-israels-post-election-message-to-its-palestinian-citizens",
-      "author": "Qassam Muaddi",
-      "source": "Mondoweiss",
-      "published_at": "2026-10-29T18:27:57+00:00",
-      "content_excerpt": "Netanyahu's party and the Israeli opposition are at an electoral stalemate that only an alliance with the Palestinian citizens of Israel can break, but neither camp is willing to extend their democratic ideals to the Arab lists who won 19 seats in the latest election.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/1b3fe390a1b9069947d331e7.json"
-    },
-    {
-      "id": "2a50c8165441afa9a6c80a41",
-      "title": "Meet AI Engineer Who Resigned from DeepMind over “Google’s Complicity in the Gaza Genocide”",
-      "url": "https://www.democracynow.org/2026/10/29/sofia_liguori_google_military_tech_ai",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-10-29T15:15:21+00:00",
-      "content_excerpt": "Several tech workers at Google’s AI unit DeepMind have resigned in protest over the tech giant’s work with the U.S. and Israeli militaries. Last week, DeepMind research engineer Sofia Liguori announced her resignation in a letter to her colleagues titled “Stay Human.” She denounced what she called “Google’s complicity in the Gaza genocide” and the increasing integration of Google’s technology into military and surveillance systems. “I felt I could not, in good faith, send this message of building AI to benefit humanity while ignoring that our company was complicit in a genocide,” Liguori tells Democracy Now! “The problem is that when the focus is on the model capabilities and on the potential for agents 'going rogue,' we are shifting the attention from a specific human choice … which is th",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/2a50c8165441afa9a6c80a41.json"
-    },
-    {
-      "id": "fedab83407776e325ba736a6",
-      "title": "Israeli Elections to Global Movements: Tariq Ali, Rashid Khalidi on New Book “The Neck and the Sword”",
-      "url": "https://www.democracynow.org/2026/10/28/the_neck_and_the_sword",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-10-29T15:15:21+00:00",
-      "content_excerpt": "This is a rush transcript. Copy may not be in its final form. ANJALI KAMAT : Israel is facing possible political gridlock after neither Prime Minister Benjamin Netanyahu nor his chief challenger, Gadi Eisenkot, won enough seats to form a new government in Tuesday’s election. The final tally could take days. The election marked the first time Israelis went to the polls since the October 7th, 2023, attack and the ensuing wars on Gaza, Lebanon and Iran. The vote drew record turnout. With over 70% of the vote counted, Israeli — Netanyahu’s Likud party leads with the 27 seats, ahead of former military chief Gadi Eisenkot’s Yashar party at 22. According to Haaretz , a possible pro-Netanyahu coalition currently has 54 seats, while a possible pro-Eisenkot bloc has 49 seats. Palestinian-led parties",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/fedab83407776e325ba736a6.json"
-    },
-    {
-      "id": "9b4e1c4dc00606adb0968f20",
-      "title": "Bulldozers, glyphosate, white phosphorus: Israel’s destruction of South Lebanon’s olive groves",
-      "url": "https://mondoweiss.net/2026/10/bulldozers-glyphosate-white-phosphorus-israels-destruction-of-south-lebanons-olive-groves",
-      "author": "Vanessa Kallas",
-      "source": "Mondoweiss",
-      "published_at": "2026-10-29T13:37:17+00:00",
-      "content_excerpt": "Lebanese farmers are losing their livelihood as Israeli forces uproot centuries-old trees, destroy olive groves, and demolish entire towns and villages, rendering them uninhabitable.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/9b4e1c4dc00606adb0968f20.json"
-    },
-    {
-      "id": "f19d2b368a9df2ffcd92f4e1",
-      "title": "Days of hope and rage in France",
-      "url": "https://mronline.org/2026/10/29/days-of-hope-and-rage-in-france",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-29T12:23:45+00:00",
-      "content_excerpt": "For almost a month now, a mass student revolt has been rocking France, in one of the deepest political crises seen in the country in decades. The post Days of hope and rage in France appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/f19d2b368a9df2ffcd92f4e1.json"
-    },
-    {
-      "id": "5df011d1d6835523c1336eef",
-      "title": "Record flooding hits the U.S. as powerful tropical storms threaten Asia",
-      "url": "https://mronline.org/2026/10/29/record-flooding-hits-the-u-s-as-powerful-tropical-storms-threaten-asia",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-29T11:28:54+00:00",
-      "content_excerpt": "Miami faces its longest-ever streak of moderate coastal flooding, historic floods sweep across the Southwest, and Typhoon In-fa and Cyclone Arnab threaten the Northern Mariana Islands and eastern India. The post Record flooding hits the U.S. as powerful tropical storms threaten Asia appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/5df011d1d6835523c1336eef.json"
-    },
-    {
-      "id": "789709e39a9f79cbfc68f990",
-      "title": "Killing Haiti: Bukele and Prince join the U.S. and the UN on mission to murder",
-      "url": "https://mronline.org/2026/10/29/killing-haiti-bukele-and-prince-join-the-u-s-and-the-un-on-mission-to-murder",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-29T10:25:15+00:00",
-      "content_excerpt": "Haiti is the next battle ground for Nayib Bukele, El Salvador’s despotic, right-wing, Christian zionist president. The post Killing Haiti: Bukele and Prince join the U.S. and the UN on mission to murder appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/789709e39a9f79cbfc68f990.json"
-    },
-    {
-      "id": "b32bdf6010c54eb3f2027cc5",
-      "title": "Google gags its engineers and sells AI for war",
-      "url": "https://mronline.org/2026/10/29/google-gags-its-engineers-and-sells-ai-for-war",
-      "author": "Gary Wilson",
-      "source": "MR Online",
-      "published_at": "2026-10-29T09:20:41+00:00",
-      "content_excerpt": "The Pentagon sets the terms. OpenAI, Amazon, Microsoft, Oracle, Nvidia and Elon Musk’s SpaceX signed similar contracts this year. The post Google gags its engineers and sells AI for war appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/b32bdf6010c54eb3f2027cc5.json"
-    },
-    {
-      "id": "8e3d2bb75d5642b1381cce89",
-      "title": "ICE arrests of Dominicans in Puerto Rico spark outrage and reignite calls for independence",
-      "url": "https://breakthroughnews.org/2026/10/28/ice-arrests-of-dominicans-in-puerto-rico-spark-outrage-and-reignite-calls-for-independence",
-      "author": "Devin B. Martinez",
-      "source": "BT News",
-      "published_at": "2026-10-28T22:23:24+00:00",
-      "content_excerpt": "Masked Immigration and Customs Enforcement (ICE) agents carrying long guns swept through working-class neighborhoods in San Juan, Puerto Rico between October 22-25. About a dozen workers, largely Dominican immigrants, were reportedly detained from Río Piedras, Capetillo, Villa Palmeras, Villa Capri, and Barrio Obrero. Local leaders and community members have expressed outrage over the ICE deployment to the island. Protests have also broken out, demanding ICE out of Puerto Rico and elevating calls for independence from the United States. During the operations, federal agents claimed that they were detaining criminals, but locals say they were all hard working people, many with families. Elected officials speak out against ICE deployment The Dominican Republic sits about 50 miles from Puerto",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/8e3d2bb75d5642b1381cce89.json"
-    },
-    {
-      "id": "d6e86ff738bc1e083b73b554",
-      "title": "How did Lula win the election?",
-      "url": "https://breakthroughnews.org/2026/10/28/how-did-lula-win-the-election",
-      "author": "Pablo Meriguet",
-      "source": "BT News",
-      "published_at": "2026-10-28T20:24:10+00:00",
-      "content_excerpt": "On October 25, Brazil’s three-time and current president, Luiz Inácio Lula da Silva, surprised the entire world by overcoming an electoral setback in the first round (in which he was defeated by the far-right candidate Flávio Bolsonaro) and securing victory and the presidential seat in Brasília. Lula, the legendary union leader during the dictatorship, secured 51.79%, equivalent to 64,256,232 votes, while Bolsonaro (son of the detained former president Jair Bolsonaro) received 48.21%, or 59,826,041 votes. What is truly surprising about Bolsonaro’s defeat (given that most pollsters had predicted a very likely victory for him) is the enormous number of votes Lula managed to gain during the three weeks between the first and second rounds of voting. In that first round , Bolsonaro took first p",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/d6e86ff738bc1e083b73b554.json"
-    },
-    {
-      "id": "8ca8012ebbd2a18519a81810",
-      "title": "Israel’s elections: all roads lead to genocide",
-      "url": "https://breakthroughnews.org/2026/10/28/israels-elections-all-roads-lead-to-genocide",
-      "author": "Aseel Saleh",
-      "source": "BT News",
-      "published_at": "2026-10-28T20:24:10+00:00",
-      "content_excerpt": "Israelis headed to voting centers on Tuesday, October 27, in legislative elections to choose the members of the parliament, known as the Knesset. The event marks Israel’s first general election since the October 7 attacks, which Netanyahu’s government expanded into a multi-front regional war. Who is competing in the elections? For many, these elections serve as a direct referendum on Prime Minister Benjamin Netanyahu and the far-right bloc he heads. The Pro-Netanyahu Bloc This bloc comprises the National Liberal Party ( Likud ) led by Netanyahu, the Religious Zionist Party ( HaTzionut HaDatit ) led by current Finance Minister Bezalel Smotrich, and Jewish Power Party ( Otzma Yehudit ) led by National Security Minister Itamar Ben-Gvir. The coalition advocates for the consolidation of Israeli",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/8ca8012ebbd2a18519a81810.json"
-    },
-    {
-      "id": "abff65eededd4d9e3993531a",
-      "title": "BT LIVE: Bolsonaro Flees | Sudan’s Drone War | The China Report",
-      "url": "https://breakthroughnews.org/2026/10/28/oct-29-26",
-      "author": "BreakThrough News",
-      "source": "BT News",
-      "published_at": "2026-10-28T19:30:09+00:00",
-      "content_excerpt": "This content is for members only. Visit the site and log in/register to read.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/abff65eededd4d9e3993531a.json"
     }
   ]
 }
