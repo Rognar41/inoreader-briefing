@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-10-31T22:42:06.013158+00:00",
-  "generated_at_jst": "2026-11-01T07:42:06.013158+09:00",
-  "period_start": "2026-10-30T16:42:06.013158+00:00",
+  "generated_at": "2026-11-01T22:57:12.752597+00:00",
+  "generated_at_jst": "2026-11-02T07:57:12.752597+09:00",
+  "period_start": "2026-10-31T16:57:12.752597+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
-  "article_count": 20,
+  "article_count": 4,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "b2f6d6ee6f9dc862edfbba5b",
+      "title": "Book Review: A guide to how the media sanitized Israel’s genocide in Gaza",
+      "url": "https://mondoweiss.net/2026/11/book-review-a-guide-to-how-the-media-sanitized-israels-genocide-in-gaza",
+      "author": "James North",
+      "source": "Mondoweiss",
+      "published_at": "2026-11-01T14:12:48+00:00",
+      "content_excerpt": "Assal Rad's 'Don't Say Palestine' is a masterpiece on language distortion and dishonesty, combining brilliant analysis with searing moral outrage and destined to become a classic read for years to come.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/b2f6d6ee6f9dc862edfbba5b.json"
+    },
     {
       "id": "28bb9c00e42ebb23c3152402",
       "title": "What Israel’s Election Deadlock Means for Palestine, and Trump’s Iran Buildup",
@@ -51,261 +66,6 @@
       "priority": 2,
       "date_missing": false,
       "article_path": "articles/c32aa3884522730481cbadb0.json"
-    },
-    {
-      "id": "2af3c6609841685b9d986b21",
-      "title": "Gulf states scramble to avert another U.S.-Israeli war on Iran they cannot stop",
-      "url": "https://mondoweiss.net/2026/10/gulf-states-scramble-to-avert-another-u-s-israeli-war-on-iran-they-cannot-stop",
-      "author": "Mitchell Plitnick",
-      "source": "Mondoweiss",
-      "published_at": "2026-10-31T13:28:39+00:00",
-      "content_excerpt": "Saudi Arabia, Pakistan, and Türkiye sent top security officials to Tehran as fears grow of a renewed U.S.-Israeli attack on Iran. With little leverage over Trump, the Gulf states face devastating consequences if the war resumes.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/2af3c6609841685b9d986b21.json"
-    },
-    {
-      "id": "0a4e05d32dd48d3b94fdf9d5",
-      "title": "Venezuela demands Bank of England return its gold reserves",
-      "url": "https://mronline.org/2026/10/31/venezuela-demands-bank-of-england-return-its-gold-reserves",
-      "author": "teleSUR Desk",
-      "source": "MR Online",
-      "published_at": "2026-10-31T13:17:13+00:00",
-      "content_excerpt": "Acting President Delcy Rodriguez demanded Wednesday that the Bank of England return Venezuela’s gold, calling the metal a Central Bank reserve that belongs to the Venezuelan people and declaring that no excuse remains. The post Venezuela demands Bank of England return its gold reserves appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/0a4e05d32dd48d3b94fdf9d5.json"
-    },
-    {
-      "id": "7e4f9a8ba422ab2c93540fc5",
-      "title": "Chris Wickham (1950-2026)",
-      "url": "https://www.historicalmaterialism.org/christopher-wickham-1950-2026",
-      "author": "sociality",
-      "source": "Historical Materialism",
-      "published_at": "2026-10-31T12:51:37+00:00",
-      "content_excerpt": "In honour of Chris Wickham, the following articles are freely available for a limited period of time: Productive Forces and the Economic Logic of the Feudal Mode of Production, Author: Chris Wickham https://brill.com/view/journals/hima/16/2/article-p3_1.xml Editorial Introduction to the Symposium on “Framing the Early Middle Ages”, Author: Paul Blackledge https://brill.com/view/journals/hima/19/1/article-p37_2.xml Framing the Early Middle Ages, Author: John Haldon https://brill.com/view/journals/hima/19/1/article-p47_3.xml Centuries of Transition, Author: Neil Davidson https://brill.com/view/journals/hima/19/1/article-p73_4.xml Chris Wickham’s Framing the Early Middle Ages, Author: Chris Harman https://brill.com/view/journals/hima/19/1/article-p98_5.xml Late Antiquity to the Early Middle A",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/7e4f9a8ba422ab2c93540fc5.json"
-    },
-    {
-      "id": "0dbba7eb5b03c2bb2e079c41",
-      "title": "Transcendental Marxism and 21st Century Quantum Science",
-      "url": "https://mronline.org/2026/10/31/transcendental-marxism-and-21st-century-quantum-science",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-31T12:18:10+00:00",
-      "content_excerpt": "A Reflection on Matter, Relations, and the Radical Redefinition of Reality. The post Transcendental Marxism and 21st Century Quantum Science appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/0dbba7eb5b03c2bb2e079c41.json"
-    },
-    {
-      "id": "04d148fb41d5e8fb073c35ae",
-      "title": "Climate Refugees: The notion remains largely taboo",
-      "url": "https://mronline.org/2026/10/31/climate-refugees-the-notion-remains-largely-taboo",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-31T11:19:55+00:00",
-      "content_excerpt": "\"Migration in response to environmental changes has been a constant throughout human history and represents a rational adaptation strategy,” UN Secretary-General Antonio Guterres once said when he was still UN High Commissioner for Refugees. The post Climate Refugees: The notion remains largely taboo appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/04d148fb41d5e8fb073c35ae.json"
-    },
-    {
-      "id": "46c235f32be013fd1140a063",
-      "title": "Political Capitalism in Perspective: An Interview with Dylan Riley",
-      "url": "https://www.historicalmaterialism.org/political-capitalism-in-perspective-an-interview-with-dylan-riley",
-      "author": "Panagiotis Sotiris",
-      "source": "Historical Materialism",
-      "published_at": "2026-10-31T10:50:28+00:00",
-      "content_excerpt": "In this interview with Historical Materialism , Dylan Riley offers an anatomy of his concept of ‘political capitalism’ in dialogue with theorists of technofeudalism and those who claim we are returning to a ‘normal capitalism’. He reflects on how the Left should think about the role of material interests in the struggle against a rising Far Right under political-capitalist conditions, and assesses Trump II in light of recent events . Teddy Paikin : In your recent piece in the Ideas Letter and in several contributions to the New Left Review , you and Robert Brenner have further developed the ‘political capitalism’ thesis, the view that capitalist reproduction increasingly relies on upward redistribution via ‘politically engineered support for high asset prices’ rather than traditional forms",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/46c235f32be013fd1140a063.json"
-    },
-    {
-      "id": "630fb4ba6b903a09f553cb8e",
-      "title": "ICE arrests of Dominicans in Puerto Rico spark outrage and reignite calls for independence",
-      "url": "https://mronline.org/2026/10/31/ice-arrests-of-dominicans-in-puerto-rico-spark-outrage-and-reignite-calls-for-independence",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-31T10:15:13+00:00",
-      "content_excerpt": "About a dozen mostly Dominican immigrants were detained by ICE over the weekend, provoking debate about the relationship between federal and state governments. The post ICE arrests of Dominicans in Puerto Rico spark outrage and reignite calls for independence appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/630fb4ba6b903a09f553cb8e.json"
-    },
-    {
-      "id": "8b735412e69cea0e294840eb",
-      "title": "Neofascism’s war against education",
-      "url": "https://mronline.org/2026/10/31/neofascisms-war-against-education",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-10-31T09:14:36+00:00",
-      "content_excerpt": "The one area of social life which neofascism specifically, single-mindedly, and shamelessly seeks to destroy is education. The post Neofascism’s war against education appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/8b735412e69cea0e294840eb.json"
-    },
-    {
-      "id": "f672d5834bebde7300d25897",
-      "title": "Final vote count for Israeli elections yields no clear winner",
-      "url": "https://breakthroughnews.org/2026/10/30/final-vote-count-for-israeli-elections-yields-no-clear-winner",
-      "author": "Aseel Saleh",
-      "source": "BT News",
-      "published_at": "2026-10-31T00:07:39+00:00",
-      "content_excerpt": "Israel’s Central Elections Committee (CEC) released the final vote count on Friday, October 30, confirming that neither major political coalition managed to reach the 61-seat majority threshold necessary to form a government in the 120-seat parliament (known as Knesset). The results show that the pro-Netanyahu bloc secured 53 seats, while the anti-Netanyahu bloc led by Gadi Eisenkot reached 48 seats. Meanwhile, Arab-led lists combined attained 19 seats, achieving an all-time high record in the history of Israel’s Knesset. The complete official results will be formally presented to Israeli President Isaac Herzog on Wednesday, November 4 once the CEC finalizes the review of any pending complaints or errors. Read more: Israel’s elections: all roads lead to genocide What do these results mean ",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/f672d5834bebde7300d25897.json"
-    },
-    {
-      "id": "e564134b8bfa89081dfd2898",
-      "title": "‘The Klan never stopped’: Two Black families fight for justice in Mississippi",
-      "url": "https://breakthroughnews.org/2026/10/30/the-klan-never-stopped-two-black-families-fight-for-justice-in-mississippi",
-      "author": "Rania Khalek",
-      "source": "BT News",
-      "published_at": "2026-10-31T00:07:39+00:00",
-      "content_excerpt": "Marquell Bridges says the story the public’s been sold about what happened right before Senatobia Sgt. Hunter Foster shot and killed 1-year-old Kohen Wiley was a lie from the start. The Mississippi-based organizer and founder of the Building Bridges Coalition tells Zoe Alexandra and Rania Khalek police at Walmart were never responding to a shoplifting call, that no one in the car has been charged, and that Baby Kohen’s death is part of a long pattern of impunity for racist murder in Mississippi, from Emmett Till to the unsolved 2022 death of Rasheem Carter. Bridges breaks down Attorney General Lynn Fitch’s ruling Foster was “justified” in opening fire, weeks after a Jackson County grand jury declined to bring charges in 18-year-old Nolan Wells’s death, saying it was “consistent with drowni",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/e564134b8bfa89081dfd2898.json"
-    },
-    {
-      "id": "4fc1808c4e90f70e82eb16ab",
-      "title": "The Brazilian victory: left unity and digital autonomy",
-      "url": "https://breakthroughnews.org/2026/10/30/the-brazilian-victory-left-unity-and-digital-autonomy",
-      "author": "Rezgar Akrawi",
-      "source": "BT News",
-      "published_at": "2026-10-30T23:03:22+00:00",
-      "content_excerpt": "The leftist leader Luiz Inácio Lula da Silva secured a historic victory in Brazil’s presidential election on October 25, 2026. The result came amid intense political and social polarization and the growing influence of the far right in Brazil and across Latin America, backed by the US far right led by Donald Trump. The significance of this electoral victory extends beyond Lula securing a fourth term. It also lies in the political and organizational experience that helped make it possible, above all the ability of diverse left-wing and progressive forces, with different programs and ideological outlooks, to forge a broad electoral alliance around common ground in confronting the far right. A broad left-wing and progressive alliance despite differences Lula contested the election with the su",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/4fc1808c4e90f70e82eb16ab.json"
-    },
-    {
-      "id": "777087c8bc5b6e21870f6c64",
-      "title": "Thousands of people in Gaza are missing without answers, as Israel withholds information from their families",
-      "url": "https://mondoweiss.net/2026/10/thousands-of-people-in-gaza-are-missing-without-answers-as-israel-withholds-information-from-their-families",
-      "author": "Mohamed Solaimane",
-      "source": "Mondoweiss",
-      "published_at": "2026-10-30T20:35:33+00:00",
-      "content_excerpt": "More than a year after the October 2025 ceasefire, Palestinian families are still searching for loved ones who vanished during Israel’s genocide in Gaza.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/777087c8bc5b6e21870f6c64.json"
-    },
-    {
-      "id": "7a05ef7bbd5c5348ee5198b2",
-      "title": "Western Sahara at a tipping point as US pushes for Moroccan ‘autonomy’ plan",
-      "url": "https://breakthroughnews.org/2026/10/30/western-sahara-at-a-tipping-point-as-us-pushes-for-moroccan-autonomy-plan",
-      "author": "Nicholas Mwangi",
-      "source": "BT News",
-      "published_at": "2026-10-30T20:04:37+00:00",
-      "content_excerpt": "Large numbers of Sahrawi citizens took to the streets in El Aaiún , the largest city in Western Sahara, on Monday, to demand a just United Nations-sponsored solution that guarantees their right to freedom, self-determination, and independence. The demonstrations come as the United States allegedly pushes a draft UN Security Council resolution that would make Morocco’s autonomy plan the sole basis for negotiations over the future of the territory. The US-drafted text, reportedly circulated among Security Council members on October 22, has drawn strong objections from the Polisario Front, the Sahrawi independence movement, as well as human rights and solidarity organizations. Arguing the proposal risks predetermining the outcome of negotiations by placing Morocco’s plan over Western Sahara a",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/7a05ef7bbd5c5348ee5198b2.json"
-    },
-    {
-      "id": "5523e41ca2e9583a9bfd0f80",
-      "title": "Liberal Zionists are trying to distance themselves from the reality that Israeli voters overwhelmingly want genocide",
-      "url": "https://mondoweiss.net/2026/10/liberal-zionists-are-trying-to-distance-themselves-from-the-reality-that-israeli-voters-overwhelmingly-want-genocide",
-      "author": "Jonathan Ofir",
-      "source": "Mondoweiss",
-      "published_at": "2026-10-30T18:35:41+00:00",
-      "content_excerpt": "Liberal Zionists bemoan both ultra-nationalist extremists and pro-Palestine activists, but Israel's latest elections show how they ultimately come to the defense of apartheid every time.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/5523e41ca2e9583a9bfd0f80.json"
-    },
-    {
-      "id": "cc0ffdbf64b446445f990cb9",
-      "title": "‘We Are Still Here’: A Warao Community Between the Blockade and the Commune (Part II)",
-      "url": "https://mronline.org/2026/10/30/we-are-still-here-a-warao-community-between-the-blockade-and-the-commune-part-ii",
-      "author": "Cira Pascual Marquina",
-      "source": "MR Online",
-      "published_at": "2026-10-30T18:22:19+00:00",
-      "content_excerpt": "\"We helped one another, like brothers and sisters. As hard as those years were, they brought us closer instead of driving us apart. We should not unlearn what we learned then.\" The post ‘We Are Still Here’: A Warao Community Between the Blockade and the Commune (Part II) appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/cc0ffdbf64b446445f990cb9.json"
-    },
-    {
-      "id": "fb1135b642ec21b2e1f4fcac",
-      "title": "Dockworkers at 110 ports worldwide strike against war and genocide",
-      "url": "https://breakthroughnews.org/2026/10/30/dockworkers-at-110-ports-worldwide-strike-against-war-and-genocide",
-      "author": "Ana Vračar",
-      "source": "BT News",
-      "published_at": "2026-10-30T17:54:56+00:00",
-      "content_excerpt": "Dockworkers across five continents and more than 110 ports launched a second historic international day of action against militarization and genocide on October 30. “We no longer want to work for war nor to pay for it,” José Nivoi of the Autonomous Collective of Port Workers (Coordinamento Autonomo Lavoratori Portuali, CALP) in Genoa said as actions kicked off. “Because the conditions we’re experiencing in Italy today, they’re the same conditions being experienced on five different continents.” Ports must serve life, not destruction The port workers’ actions are grounded in the Istanbul Declaration adopted earlier this year, which analyzes the impact of the growing arms transports on work in harbors worldwide. In the declaration and the interventions that followed, dockworkers outlined how",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/fb1135b642ec21b2e1f4fcac.json"
-    },
-    {
-      "id": "8573cf0edb074d5301af5b11",
-      "title": "One year after the election killings, Tanzania still awaits justice",
-      "url": "https://breakthroughnews.org/2026/10/30/one-year-after-the-election-killings-tanzania-still-awaits-justice",
-      "author": "Nicholas Mwangi",
-      "source": "BT News",
-      "published_at": "2026-10-30T17:00:07+00:00",
-      "content_excerpt": "One year ago, Tanzanians went to the polls in an election followed by deadly protests and a violent security crackdown. The immediate unrest has since subsided, but the wounds remain, and the demand for justice continues. President Samia Suluhu Hassan was declared the winner with 97.66% of the vote, an overwhelming margin that came with the exclusion of opposition forces and mounting restrictions on political activities. The disputed election and the violence that followed exposed deep tensions over Tanzania’s political realities, democratic participation, and the state’s response to dissent. A year on, not a single official has been held responsible, and justice for the victims and their families remains out of reach. A disputed election and a deadly crackdown The violence of October 2025",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/8573cf0edb074d5301af5b11.json"
     }
   ]
 }

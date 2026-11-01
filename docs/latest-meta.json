@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-31T22:42:06.013158+00:00",
-  "generated_at_jst": "2026-11-01T07:42:06.013158+09:00",
-  "period_start": "2026-10-30T16:42:06.013158+00:00",
+  "generated_at": "2026-11-01T22:57:12.752597+00:00",
+  "generated_at_jst": "2026-11-02T07:57:12.752597+09:00",
+  "period_start": "2026-10-31T16:57:12.752597+00:00",
   "lookback_hours": 30,
   "raw_item_count": 40,
-  "recent_item_count_before_dedup": 40,
-  "article_count": 40,
-  "article_count_00": 20,
-  "article_count_06": 20,
+  "recent_item_count_before_dedup": 21,
+  "article_count": 21,
+  "article_count_00": 17,
+  "article_count_06": 4,
   "feed_status": [
     {
       "folder": "00_毎日確認",
