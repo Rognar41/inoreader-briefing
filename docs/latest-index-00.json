@@ -1,266 +1,311 @@
 {
-  "generated_at": "2026-11-01T22:57:12.752597+00:00",
-  "generated_at_jst": "2026-11-02T07:57:12.752597+09:00",
-  "period_start": "2026-10-31T16:57:12.752597+00:00",
+  "generated_at": "2026-11-03T01:44:00.751758+00:00",
+  "generated_at_jst": "2026-11-03T10:44:00.751758+09:00",
+  "period_start": "2026-11-01T19:44:00.751758+00:00",
   "lookback_hours": 30,
   "folder": "00_毎日確認",
-  "article_count": 17,
+  "article_count": 20,
   "excerpt_chars": 800,
   "articles": [
     {
-      "id": "448d606d3fe4c4a2f5db87f9",
-      "title": "Independent Newsroom Production",
-      "url": "https://www.laprogressive.com/sponsored/independent-newsroom-production",
-      "author": "Britta Hedlund",
-      "source": "LA Progressive",
-      "published_at": "2026-11-01T22:12:39+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Documentary reporting relies on compelling visual assets to contextualize local investigative stories, yet independent publications face severe production bottlenecks when attempting to produce broadcast-quality video packages. When editorial desks face rapid publication deadlines for local feature stories, integrating viddo ai gives independent reporters a way to animate documentary stills without booking broadcast bays. Small media organizations operate under strict operational constraints where every editorial dollar must directly support investigative reporting and community coverage. Dispatching commercial camera operators and sound recordists to capture background b-r",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/448d606d3fe4c4a2f5db87f9.json"
-    },
-    {
-      "id": "d6ff43ebf5c167bacbadcd93",
-      "title": "AI Video Generator Community",
-      "url": "https://www.laprogressive.com/sponsored/ai-video-generator-community",
-      "author": "Tiqua Jackson",
-      "source": "LA Progressive",
-      "published_at": "2026-11-01T21:56:28+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. A leafy square fills the screen. Tables sit in warm light, bicycles pass quietly, and every part of the proposed space seems settled. A resident who disagrees with the arrangement now has to argue against a finished-looking place. Yet the actual question may still be whether the square should favour seating, a market, or an open area for informal use. Community groups using an AI Video Generator can avoid that imbalance by showing alternatives with comparable treatment. A single polished vision tends to hide the choices that produced it. Several clearly identified concepts can expose those choices, provided that the images remain illustrations and the discussion stays open ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/d6ff43ebf5c167bacbadcd93.json"
-    },
-    {
-      "id": "eac4e5ad40b03bb02c4a3445",
-      "title": "Bloated Military Budget",
-      "url": "https://www.laprogressive.com/left-coast-forum/bloated-military-budget",
-      "author": "Matthew Hoh",
-      "source": "LA Progressive",
-      "published_at": "2026-11-01T21:21:09+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. The United States can always find money for war. But when Americans need healthcare, education, housing, or investments in their communities, the familiar refrain is that there simply isn't enough money. That contradiction framed Our Bloated Military Budget , a session at the 2026 Left Coast Forum, held October 2–4 at California State University, Los Angeles. Featuring military veteran and peace advocate Matthew Hoh and foreign policy analyst Ben Freeman , the discussion examined the human and moral consequences of American militarism and the political culture that allows it to continue. Freeman, director of the Democratizing Foreign Policy program at the Quincy Institute, ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/eac4e5ad40b03bb02c4a3445.json"
-    },
-    {
-      "id": "85cd9a364f4341781b2d95d4",
-      "title": "Reclaiming Universal Civil Rights",
-      "url": "https://www.laprogressive.com/gender-discrimination/reclaiming-universal-civil-rights",
-      "author": "Rich Procida",
-      "source": "LA Progressive",
-      "published_at": "2026-11-01T17:56:15+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Standfirst: Liberal democracy cannot survive when half of its population is systematically excluded from the civil rights movement, denied legitimate advocacy, and subjected to public ridicule. To protect democracy, advance true gender equality for women, and dismantle the Polarization Trap, progressive movements must expand their umbrella to recognize male vulnerability and embrace men as full partners in human rights. 1. The Universal Civil Rights Principle: Why Equality for Men Promotes Equality for All The fundamental premise of the modern civil rights movement has always been universal human dignity. From the founding ideals of constitutional democracy to the monumenta",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/85cd9a364f4341781b2d95d4.json"
-    },
-    {
-      "id": "ded19b5c84ac62f818db9710",
-      "title": "What I Learned in Nagasaki",
-      "url": "https://www.laprogressive.com/war-and-peace/what-i-learned-in-nagasaki",
-      "author": "Chuck Yates",
-      "source": "LA Progressive",
-      "published_at": "2026-11-01T15:55:47+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. One day in 1964, at the age of nineteen, I rode around Nagasaki on a tour bus with a Japanese friend. Profoundly ignorant of Japan, I was ill equipped to process the sights we saw—the broken ruins of Urakami Cathedral, near the hypocenter, and the peace park with its monumental statue sitting atop the hill, right hand pointing to the sky as if warning of danger from above, left hand extended palm down as if urging peace and harmony, eyes closed as if in prayer. Nor was I prepared for the city’s A-bomb museum. In one room, there was a section of the wooden outer wall of a building, unremarkable except for the human silhouette burned into it. As I stood there trying to take i",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/ded19b5c84ac62f818db9710.json"
-    },
-    {
-      "id": "dac062575c048dede2a9664f",
-      "title": "Lord of Bench Is Fighting for Your Right to Sit",
-      "url": "https://jacobin.com/2026/11/nyc-public-space-viral-movement-lord-of-bench",
-      "author": "Liza Featherstone",
-      "source": "Jacobin",
-      "published_at": "2026-11-01T15:16:29+00:00",
-      "content_excerpt": "A plaza just outside 780 Third Avenue in Midtown Manhattan, brimming with well-tended flowers in warm weather and furnished with elegant stone benches, looks like an inviting place to sit down and enjoy a slice of pizza. Or at least Wade Phillips certainly thought so. Phillips, a hospitality and security worker, used to take his breaks in that plaza every day. (“Wade Phillips” isn’t his real name, but a nom de guerre , or what its user refers to as “my please-don’t-fire-me name”). He describes himself as “kind of a Good Will Hunting guy,” referring to the Matt Damon character in Gus Van Sant’s 1997 movie about a self-taught working-class genius who has survived an abusive childhood. “I don’t really have a family,” says Phillips, “I’ve had kind of a rough road.” For the past few decades, wo",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/dac062575c048dede2a9664f.json"
-    },
-    {
-      "id": "9a022ef63d6f6afb6ca12e6c",
-      "title": "Rabid Anti-Communism Still Shapes the Politics of California",
-      "url": "https://jacobin.com/2026/11/california-anti-communism-nixon-reagan-vietnam",
-      "author": "Michael G. Vann",
-      "source": "Jacobin",
-      "published_at": "2026-11-01T15:16:29+00:00",
-      "content_excerpt": "Donald Trump’s political vocabulary is not especially original. When he calls Democrats “radical left,” “Marxists,” or “hardcore godless communists,” he recycles one of the oldest weapons in American political life: the charge that political opponents are not merely wrong but fundamentally un-American because of their alleged leftist ideology. In his rambling social media posts and ham-fisted rants, Trump uses anti-communism as a blunt political instrument. He labels proposals for expanded health care, rent control, stronger unions, and higher taxes on the wealthy as evidence of some sort of communist conspiracy. Obviously, this is not analytical precision but brutish intimidation. California, home of coastal elites who pride themselves on leading a progressive bastion of resistance to MAG",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/9a022ef63d6f6afb6ca12e6c.json"
-    },
-    {
-      "id": "c9cbecb1457b4a4b51cdab05",
-      "title": "Public Ownership of Key Economic Sectors Is Popular",
-      "url": "https://jacobin.com/2026/11/nationalization-democrats-popularism-affordability-health-care",
-      "author": "Chance Phillips",
-      "source": "Jacobin",
-      "published_at": "2026-11-01T15:16:29+00:00",
-      "content_excerpt": "Democratic voters overwhelmingly support the public ownership and operation of several key industries. At least one of the Democratic politicians who want to win the party’s next presidential primary should take note. A poll I recently commissioned from the Center for Strategic Politics found that a supermajority of Democratic voters support public ownership and operation of health care and the electrical grid. A slight majority supports public ownership of the nation’s railroads. And far more voters said they would support public ownership and operation of artificial intelligence than opposed it. Per other polling conducted back in June, Bernie Sanders’s proposal to partially nationalize AI companies is also incredibly popular across the political spectrum. Maybe it’s the number of social",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/c9cbecb1457b4a4b51cdab05.json"
-    },
-    {
-      "id": "c0afe67a79bea67ba16c54fa",
-      "title": "Harold Cruse, the Loneliest Black Radical Intellectual",
-      "url": "https://jacobin.com/2026/11/cruse-biography-black-radical-intellectual",
-      "author": "Alan Wald",
-      "source": "Jacobin",
-      "published_at": "2026-11-01T15:16:29+00:00",
-      "content_excerpt": "Harold Wright Cruse (1916–2005), my colleague at the University of Michigan for decades, may have been the most flamboyantly paradoxical radical intellectual ever to roam our institution’s halls. An astonishing autodidact with a wealth of knowledge about cultural and political history, Cruse authored a foundational work in black studies: The Crisis of the Negro Intellectual: A Historical Analysis of the Failure of Black Leadership (1967). Now, two decades after his death, a short, pacy biography by Villanova University theologian and Africana studies scholar Vincent W. Lloyd titled Harold Cruse: Critic, Writer, Teacher captures many of Cruse’s idiosyncrasies to present a riot of contradictions. Cruse, a high school dropout with no college degrees, was recruited to the Michigan history depa",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/c0afe67a79bea67ba16c54fa.json"
-    },
-    {
-      "id": "dbd96fbef8cba59018f54512",
-      "title": "Replace Mitch McConnell",
-      "url": "https://www.laprogressive.com/election-and-campaigns/charles-booker-kentucky-senate-race-2026",
-      "author": "Berry Craig",
-      "source": "LA Progressive",
-      "published_at": "2026-11-01T15:11:26+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Charles Booker lost bids for the U.S. Senate in 2020 and 2022. “I didn't think I would ever run again,” Kentucky's Democratic Senate hopeful told about 100 supporters who gathered in front of Paducah’s historic old Hotel Metropolitan. “This is Rocky 3 for me.” The crowd laughed, cheered and waved Booker-for-Senate 2026 signs appreciatively. A 42-year-old former state lawmaker from Louisville, his hometown, Booker is the first African American to win a major party nomination for the Senate in Kentucky. In previous campaigns, he had stopped at the hotel, now a museum, which dated to Jim Crow times when segregation and race discrimination were the law and the social order in t",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/dbd96fbef8cba59018f54512.json"
-    },
-    {
-      "id": "cb589abcf027997057dbd4ce",
-      "title": "Hold Trump Accountable",
-      "url": "https://www.laprogressive.com/election-and-campaigns/emocrats-trump-accountability-2026-midterms",
-      "author": "Bill Blum",
-      "source": "LA Progressive",
-      "published_at": "2026-11-01T14:46:26+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. It’s not enough for the Democrats to win the midterms. Whether they take back one or both chambers of Congress, their overriding objective must be to cripple the remainder of Donald Trump ’s presidency and dismantle the MAGA movement he leads. Holding Trump and his key enablers to account for their lawlessness and corruption will be the standard for success. Without accountability, there will be no justice and no end to the growing threat of fascism in America. Of all the accountability tools that will be available should the Democrats prevail on Nov. 3, impeachment and court reform stand out as the most powerful. Both are implicitly on the midterm ballot, and while neither",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/cb589abcf027997057dbd4ce.json"
-    },
-    {
-      "id": "08dba8eb1499c798ea8d5b2f",
-      "title": "DSA NPC Gives Raman Last Chance on Endorsement - YDSA",
-      "url": "https://y.dsausa.org/the-activist/dsa-npc-gives-raman-last-chance-on-endorsement",
-      "author": "",
-      "source": "The Activist Archive - YDSA",
-      "published_at": "2026-11-01T04:55:55+00:00",
-      "content_excerpt": "The Democratic Socialists of America’s National Political Committee (NPC) passed two resolutions on October 26, each one giving Los Angeles mayoral candidate Nithya Raman an opportunity to clarify her position on Boycott, Divestment, and Sanctions(BDS) The resolution rescinding Raman’s endorsement passed, amended, 14-13. It calls for a meeting to be held on October 31. During the gathering Raman will be asked the following questions: Do you support the Palestinian call for Boycott, Divestment and Sanctions (BDS) to pressure Israel until it complies with international law by ending the occupation, instituting equal rights for its Palestinian citizens and respecting Palestinian refugees’ right to return? What is your stance on pressuring the Israeli government to end its occupation of Palest",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/08dba8eb1499c798ea8d5b2f.json"
-    },
-    {
-      "id": "8d188181775b5a6ed84086d8",
-      "title": "Transform the Democratic Party",
-      "url": "https://www.laprogressive.com/left-coast-forum/transform-the-democratic-party",
-      "author": "Alan Minsky",
-      "source": "LA Progressive",
-      "published_at": "2026-11-01T03:46:47+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Can the Democratic Party become a genuinely progressive, pro-working-class political force? Or is it, as many on the American left have long argued, the place where progressive movements go to die? Alan Minsky, executive director of Progressive Democrats of America (PDA), came to Left Coast Forum 2026 with a provocative answer: The Democratic Party can be transformed, but only if progressives organize to take control of it. Speaking at Cal State Los Angeles on October 4, Minsky challenged an audience of left activists to reconsider their relationship with electoral politics, particularly their longstanding frustration with the Democratic Party. A lifelong socialist and memb",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/8d188181775b5a6ed84086d8.json"
-    },
-    {
-      "id": "b748951af445b5e3583242b7",
-      "title": "WFTU for Oct. 30 dockworkers’ antiwar action: No sacrifice for imperialist profits & wars!",
-      "url": "https://bostondsa.org/2026/10/26/wftu-for-oct-30-dockworkers-antiwar-action-no-sacrifice-for-imperialist-profits-wars",
-      "author": "Boston DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-10-31T20:12:59+00:00",
-      "content_excerpt": "[[{“value”:” The steelworks and docks (Working Mass) This appeal was issued by the World Federation of Trade Unions. The World Federation of Trade Unions issues a militant, class-oriented and internationalist call to its member organizations and trade unions around the world to make the 2nd International Day of Action of Dockworkers on Oct. 30, 2026, their own cause and support it. The mobilization is taking place at a critical time, as military conflicts are spreading and war fronts are dangerously expanding and becoming interconnected, from Ukraine to the Middle East. The murderous state of Israel, with the support of the U.S., the European Union and NATO, continues its crime against the Palestinian people and escalates its military aggression against Iran and Lebanon, increasing the dan",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/b748951af445b5e3583242b7.json"
-    },
-    {
-      "id": "363974c5f483d0e9515c31cc",
-      "title": "Representation Is Not Liberation",
-      "url": "https://www.laprogressive.com/election-and-campaigns/representation-is-not-liberation",
-      "author": "Melina Abdullah",
-      "source": "LA Progressive",
-      "published_at": "2026-10-31T19:01:25+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. “You’re not supporting Karen for mayor?!?!? Wow. That’s crazy!” Before I could make it in the door to the voter education event, a longtime sister-friend greeted me with those words of hello. Not a hug or a “thanks for coming.” My response? “I think it’s crazy to give away a billion dollars in raises to police, to appoint Jim McDonnell as chief, and to call it not-a-genocide in Palestine.” Days before the election, it is not my intent to write another column critical of the current mayor. I have tried to lovingly call her in with previous pieces in hopes of her changing course. That did not happen and I will vote accordingly. But this piece is not about Karen Bass. It is ab",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/363974c5f483d0e9515c31cc.json"
-    },
-    {
-      "id": "436026c926dff27f5070d8e9",
-      "title": "Why LA Progressive Is Changing Its Voter Guide Recommendation to Colin Hernandez",
-      "url": "https://www.laprogressive.com/election-and-campaigns/why-la-progressive-is-changing-its-voter-guide-recommendation-to-colin-hernandez",
+      "id": "30c529426197f0b9fd3fda03",
+      "title": "Vote Yes on Proposition 4: Democracy Shouldn’t Depend on Wealth",
+      "url": "https://www.laprogressive.com/election-and-campaigns/vote-yes-on-proposition-4-democracy-shouldnt-depend-on-wealth",
       "author": "Sharon Kyle",
       "source": "LA Progressive",
-      "published_at": "2026-10-31T18:30:22+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. LA Progressive has updated its Progressive Voter Guide for California’s 51st Assembly District, replacing Rick Chavez Zbur with Colin Hernandez. A reader recently asked us to revisit this race, pointing to a contradiction between our publication’s defense of free expression and Zbur’s role as a lead author of Assembly Bill 715. That request deserved a serious response. Our voter guide is intended to help readers make informed choices. When readers raise substantive concerns about its contents, we have a responsibility to examine them—and to make changes when the evidence warrants it. Readers ultimately decide which candidates best represent their values and priorities. AB 7",
+      "published_at": "2026-11-02T22:56:31+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. A person should not need wealthy friends to run for public office. And a voter’s influence should not depend on the size of a campaign contribution. Those principles sound basic. Yet when raising money becomes the first test of political viability, people with deep pockets gain an advantage before voters ever hear the candidates debate. Community knowledge, public service, and good ideas can take a back seat to access to donors. California’s Proposition 4, the California Fair Elections Act, offers a practical step toward changing that imbalance. On November 3, vote yes. Give communities the power to act Proposition 4 would remove California’s prohibition on public campaign ",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/436026c926dff27f5070d8e9.json"
+      "article_path": "articles/30c529426197f0b9fd3fda03.json"
     },
     {
-      "id": "6f3d78f15b1a5bc83a0bbf54",
-      "title": "Coalition to Protest Lynn Fitch’s Decision in Police Killing of Baby Kohen Wiley",
-      "url": "https://www.laprogressive.com/law-and-justice/decision-in-police-killing-of-baby-kohen-wiley",
-      "author": "Sharon Kyle",
-      "source": "LA Progressive",
-      "published_at": "2026-10-31T18:01:30+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Press Release Black Lives Matter Grassroots, Building Bridges Coalition, Movement for Black Lives, Jackson People’s Assembly, and a host of community groups are planning to protest Mississippi Attorney General Lynn Fitch to unequivocally denounce her determination that the murder of baby Kohen Wiley was “justified.” Senatobia police Sergeant Hunter Foster. Foster, who has a documented history of racism and violence, shot the one-year-old dead in his mother’s arms on June 14, 2026. This is one of the most egregious and horrifying acts of anti-Black violence that we have seen from police anywhere. Police should have never been called. Sergeant Foster should never have fired h",
+      "id": "c120450fc9b8a352794028d7",
+      "title": "Book Review: A Model for U.S.-Mexico Cross-Border Solidarity",
+      "url": "https://labornotes.org/2026/11/book-review-model-us-mexico-cross-border-solidarity",
+      "author": "Dan DiMaggio",
+      "source": "",
+      "published_at": "2026-11-02T21:22:15+00:00",
+      "content_excerpt": "Labor law reform in Mexico has opened up a major opportunity for workers fighting for genuine, independent unions. What can U.S. unions do to support our brothers and sisters there? And how can we build cross-border campaigns to confront our common employers? Unions asking these questions will find valuable ideas in the e-book International Solidarity in Action: The Relationship Between the United Electrical Workers (UE) and Frente Auténtico del Trabajo (FAT) , available for free download here . Author Robin Alexander, retired director of international affairs for UE, led her union’s partnership with the FAT, which began in 1992, during the campaign to oppose the North American Free Trade Agreement (NAFTA). UE members were seeing their employers cut manufacturing jobs in the U.S. and shift",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/6f3d78f15b1a5bc83a0bbf54.json"
+      "article_path": "articles/c120450fc9b8a352794028d7.json"
+    },
+    {
+      "id": "8056a20e3563cc040852b1af",
+      "title": "Genocide Charges Against Israeli Leaders",
+      "url": "https://www.laprogressive.com/foreign-policy/genocide-charges-against-israeli-leaders",
+      "author": "Marjorie Cohn",
+      "source": "LA Progressive",
+      "published_at": "2026-11-02T21:06:39+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. A s Israelis went to the polls last Tuesday to decide who will next preside over Israel’s continuing genocide, a U.N. Commission issued a devastating report on the day before the election. It documents how Israel is importing its Gaza strategy of total destruction into the West Bank. And as the Trump administration escalates its efforts to disable the International Criminal Court with punishing sanctions to prevent prosecution of Israeli leaders for their crimes, the Commission’s report recommends that the ICC seriously consider charging Israeli leaders with genocide in addition to war crimes and crimes against humanity. In November 2024, the ICC issued arrest warrants for ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/8056a20e3563cc040852b1af.json"
+    },
+    {
+      "id": "4be6648538660b27e9bd51d2",
+      "title": "MAGA Offensive in Latin America",
+      "url": "https://www.laprogressive.com/foreign-policy/maga-offensive-in-latin-america",
+      "author": "John Perry, Roger D. Harris",
+      "source": "LA Progressive",
+      "published_at": "2026-11-02T20:47:15+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Ecuadorian leftist leader Luisa González recently warned that there is “a whole sinister network involving Marco Rubio, MAGA, and Latin American presidents who are destroying our countries to turn Latin America into their backyard.” A few days after her eerily prescient statement, she was arrested on politically motivated charges. MAGA, in this context, refers to the larger US imperial project under Donald Trump. A key tool in MAGA’s offensive in Latin America is the intensified use of “lawfare.” This politically selective use of a country’s legal and judicial institutions against progressives often involves accusations of corruption and related crimes. The term gained prom",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/4be6648538660b27e9bd51d2.json"
+    },
+    {
+      "id": "baac85a57c357ec31be73579",
+      "title": "100,000 California State Workers Struck Last Month",
+      "url": "https://jacobin.com/2026/11/california-seiu-state-strike-newsom",
+      "author": "Kari Thompson",
+      "source": "Jacobin",
+      "published_at": "2026-11-02T20:08:00+00:00",
+      "content_excerpt": "State workers went on a one-day unfair labor practice strike across California on October 21, with picket lines in Sacramento, San Francisco, Los Angeles, and other cities. They’re demanding better pay, affordable health care coverage, and flexibility to work from home. This was the first strike in the history of Service Employees International Union (SEIU) Local 1000, which represents about one hundred thousand government employees, ranging from accountants to custodians to nurses at state offices, hospitals, and prisons. They have been working without a contract since July 1. Some five thousand employees were excluded from striking. Governor Gavin Newsom’s “return-to-office” mandate went into effect this past summer. It requires workers to be in the office four days per week — even thoug",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/baac85a57c357ec31be73579.json"
+    },
+    {
+      "id": "64f75f54a43ac3a09d4d7ba2",
+      "title": "Sí, Se Puede",
+      "url": "https://www.laprogressive.com/immigration-reform/s%C3%AD-se-puede",
+      "author": "Steve Appleford",
+      "source": "LA Progressive",
+      "published_at": "2026-11-02T19:12:28+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. At a vigil in downtown Los Angeles for Dolores Huerta, mourners gathered to remember the veteran labor organizer and civil rights activist with affection and awe. Behind the small crowd of dignitaries loomed a seven-story mural depicting Huerta as a young organizer, arms crossed, her face composed with quiet strength. There were tears and speeches from politicians and activists, along with repeated chants of the slogan Huerta popularized decades ago: “¡Sí, se puede!” (“Yes, we can!”). Admirers gathered at a vigil for the late labor organizer Dolores Huerta in downtown Los Angeles. Photo by Steve Appleford for Capital & Main. In the early evening dusk on Wednesday, hours aft",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/64f75f54a43ac3a09d4d7ba2.json"
+    },
+    {
+      "id": "f1b43b881faee061945bf579",
+      "title": "Data Centers Shape the 2026 Midterm Elections",
+      "url": "https://www.laprogressive.com/election-and-campaigns/data-centers-shape-the-2026-midterm-elections",
+      "author": "Marcus Baram",
+      "source": "LA Progressive",
+      "published_at": "2026-11-02T18:56:36+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. In the final stretch of the 2026 midterm campaigns, the most potent climate issue in American politics arrived by delivery truck across the country. The average price of heating oil hit $6.23 a gallon for the week of Oct. 26, up from $3.60 a year earlier, according to the Energy Information Administration . At that price, filling a 250-gallon tank cost about $1,557 — roughly $657 more than the year before. As cold weather settled over the Northeast, Democrats turned that bill into an attack on Republican candidates. In New Hampshire, where about 43% of residents heat with oil, Democratic nominee for U.S. Senate Chris Pappas said energy costs and heating oil prices were “the",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/f1b43b881faee061945bf579.json"
+    },
+    {
+      "id": "613631e740242e12925087f5",
+      "title": "Election Live Blog: DSA Chapters Weigh in on Their Campaigns",
+      "url": "https://democraticleft.dsausa.org/2026/11/02/live-blog-midterms-cap-a-historic-cycle-for-socialists",
+      "author": "Democratic Left",
+      "source": "Democratic Left",
+      "published_at": "2026-11-02T18:13:09+00:00",
+      "content_excerpt": "Denver DSA builds on central role in election of Kiros to U.S. House; Salem (Ore.) DSA thinks socialism can activate Oregon’s multiracial working class. The post Election Live Blog: DSA Chapters Weigh in on Their Campaigns appeared first on Democratic Left .",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/613631e740242e12925087f5.json"
+    },
+    {
+      "id": "332ab625bacf9c9f6fb30b3b",
+      "title": "Iran-Contra at 40",
+      "url": "https://www.laprogressive.com/law-and-justice/iran-contra-at-40",
+      "author": "Christian Parenti",
+      "source": "LA Progressive",
+      "published_at": "2026-11-02T18:06:29+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. On Nov. 3, 1986, almost exactly 40 years ago, a Lebanese magazine called Ash Shiraa reported that the United States, with Israel as intermediary, had clandestinely sold millions of dollars of anti-aircraft missiles to Ayatollah Khomeini’s Iran in exchange for the release of six American hostages held by Hezbollah in Lebanon. It was one of a cascade of revelations about the covert workings of the American state that came to be known as the Iran-Contra affair. Forty years on, the state too often operates along similar lines, but for a rare moment in the late 1980s, there was real accountability. The first shock came about a month earlier, on Oct. 5, 1986, when the world awoke",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/332ab625bacf9c9f6fb30b3b.json"
+    },
+    {
+      "id": "f0b0712f2f39ae826ce4c4f3",
+      "title": "The US Electorate Is Permanently Mobilized and Unable to Move",
+      "url": "https://jacobin.com/2026/11/midterms-us-politics-elections-reform",
+      "author": "Corey Robin",
+      "source": "Jacobin",
+      "published_at": "2026-11-02T18:04:03+00:00",
+      "content_excerpt": "Six theses on the midterm elections: Early voting tallies are through the roof . If the patterns continue, turnout is expected to match that of the midterm elections in 2018 , which saw the highest turnout rate in a midterm election since 1914. This comes in the wake of turnout for the 2020 election, which was the highest since 1900. Turnout in the 2026 midterm election is supposed to be especially high among black, Latino, and independent voters. Despite nearly a decade’s worth of record turnout, the electorate remains still roughly evenly divided, oscillating around the 50/50 mark. Even when one party manages to seize control of all the elected branches of the federal government, it doesn’t make a lasting dent in the divided nature of the electorate. Even when that party manages to push ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/f0b0712f2f39ae826ce4c4f3.json"
+    },
+    {
+      "id": "26dce87d6db59cb559d6754a",
+      "title": "Democratic Congress",
+      "url": "https://www.laprogressive.com/election-and-campaigns/democratic-congress",
+      "author": "Jack Rasmus",
+      "source": "LA Progressive",
+      "published_at": "2026-11-02T17:23:10+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. The French have a saying: “Plus ca change; rien ca change”. Translated it means ‘everything changes, nothing changes’; or, depending on your French, ‘everything changes but everything remains the same’. That likely describes the current midterm 2026 US elections. Whichever party takes the House or the Senate, the policies of recent years will not change much. US foreign policy under Trump’s last two years will remain on its current disaster trajectory. And the domestic policy excesses of the past two years will remain mostly intact. Trump Will Simply Ignore the House Should the Democrats retake the House, Trump will continue his imperialist wars and regime change operations",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/26dce87d6db59cb559d6754a.json"
+    },
+    {
+      "id": "50116177ba0087cdf122a5cc",
+      "title": "Captain Picard Was a Socialist, and So Was Patrick Stewart",
+      "url": "https://jacobin.com/2026/11/patrick-stewart-socialism-picard-sci-fi",
+      "author": "Alexander Deley",
+      "source": "Jacobin",
+      "published_at": "2026-11-02T17:06:59+00:00",
+      "content_excerpt": "For those of us who grew up watching Star Trek: The Next Generation , Patrick Stewart’s death last week was an enormous loss. Stewart was an actor of extraordinary talent, commanding every scene he appeared in while bringing emotional depth to even the most imposing characters. Equally comfortable with Shakespearean tragedy, science fiction, and comedy, Stewart could do it all. There was also something about his premature baldness that aged him — adding to his already impressive natural gravitas — but also gave him an ageless quality over the decades. Whether he was performing Shakespeare onstage or appearing in sci-fi shlock like the naked-space-vampire thriller Lifeforce (1985), he always fully embodied the characters that he played. Best remembered for his portrayal of Captain Jean-Luc ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/50116177ba0087cdf122a5cc.json"
+    },
+    {
+      "id": "883b0449fb16e7e2a012e200",
+      "title": "Lula’s Historic Victory Repels Fascism and Opens a New Phase for Brazil",
+      "url": "https://mltoday.com/lulas-historic-victory-repels-fascism-and-opens-a-new-phase-for-brazil",
+      "author": "MLToday",
+      "source": "MLToday",
+      "published_at": "2026-11-02T16:10:56+00:00",
+      "content_excerpt": "By the CP of Brazil (CPdoB) October 26, 2026 Editorial by Portal Vermelho The people, with the youth at the forefront, led an epic triumph that opens a new chapter of social and democratic progress and the defense of national sovereignty. The reelection of President Luiz Inácio Lula da Silva is, above all, a victory for the Brazilian people, with the youth playing a prominent role over the far-right forces that tried to stifle their hopes, curtail their rights, and subordinate the country to the greed of U.S. imperialism. It affirms a Brazil moving toward national development, with social inclusion, sovereignty, democratic freedoms, and rights for the people. This great achievement by the Brazilian people transcends the country’s borders. Amid the international rise of the far right, Lula’",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/883b0449fb16e7e2a012e200.json"
+    },
+    {
+      "id": "33f6b08efa3a4193ca330054",
+      "title": "“We Do Not Work for War”: Dockworkers in 113 Ports across Five Continents Join International Strike",
+      "url": "https://mltoday.com/we-do-not-work-for-war-dockworkers-in-113-ports-across-five-continents-join-international-strike",
+      "author": "MLToday",
+      "source": "MLToday",
+      "published_at": "2026-11-02T16:10:56+00:00",
+      "content_excerpt": "By Nikos Mottas October 31, 2026 In Defense of Communism From the Mediterranean to the Indian Ocean, from Australia to the Americas, dockworkers and seafarers joined an unprecedented international day of coordinated industrial action on Friday, October 30, declaring that ports must serve the needs of the people rather than become logistical bases for imperialist wars.According to trade unions involved in the mobilization, workers in 113 ports across 22 countries and five continents participated in strikes, work stoppages, demonstrations and solidarity actions under the common slogan: “We do not work for war!” The international mobilization, supported by more than 25 trade unions, brought together workers from Greece, Italy, France, Spain, Turkey, Morocco, Germany, India and numerous other ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/33f6b08efa3a4193ca330054.json"
+    },
+    {
+      "id": "4527156652608a616987f206",
+      "title": "Brazilian Communist Parties React to Lula’s Electoral Victory and Bolsonaro’s Flight to the US",
+      "url": "https://mltoday.com/brazilian-communist-parties-react-to-lulas-electoral-victory-and-bolsonaros-flight-to-the-us",
+      "author": "MLToday",
+      "source": "MLToday",
+      "published_at": "2026-11-02T16:10:56+00:00",
+      "content_excerpt": "By Nikos Mottas October 30, 2026 In Defense of Communism EDITOR’S NOTE: Brazil has three Communist Parties. The PCdoB is part of the Lula governing coalition. The PCB and PCBR are not. Brazil’s communist parties have responded to the re-election of social-democrat Luiz Inácio Lula da Silva and the subsequent flight of defeated far-right presidential candidate Flávio Bolsonaro to the United States, warning that the electoral defeat of Bolsonarism does not eliminate the threat of reactionary forces, coup attempts and imperialist interference.In separate statements, the Brazilian Communist Party (PCB) and the Brazilian Revolutionary Communist Party (PCBR) stressed the necessity of mass mobilization and independent working-class struggle, while offering distinct assessments of the post-electio",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/4527156652608a616987f206.json"
+    },
+    {
+      "id": "2eb7f8678d9ea94633889e30",
+      "title": "Venezuela: From Revolution to Recolonization",
+      "url": "https://mltoday.com/venezuela-from-revolution-to-recolonization",
+      "author": "MLToday",
+      "source": "MLToday",
+      "published_at": "2026-11-02T16:10:56+00:00",
+      "content_excerpt": "By Lucas Koerne r, Ricardo Vaz October 20, 2026 Internationalist 360 Between smiles and a handshake, Venezuelan Acting President Delcy Rodríguez thanked US President Donald Trump for “supporting the country’s return to multilateral forums,” following a face-to-face meeting on September 22 that she called “historic.” In her address before the UN General Assembly one day later, Rodríguez reiterated her gratitude to Trump while promising a “democratic transformation” of her country. The acting leader’s trip to New York, a mere nine months after the January 3 US bombings and kidnapping of President Nicolás Maduro and First Lady Cilia Flores, perfectly encapsulated the Venezuelan government’s international and domestic realignment with US imperialism in general and its MAGA faction in particula",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/2eb7f8678d9ea94633889e30.json"
+    },
+    {
+      "id": "12feb0a2a19a22d0af517137",
+      "title": "The Democratic Party Still Hates the Left",
+      "url": "https://mltoday.com/the-democratic-party-still-hates-the-left",
+      "author": "MLToday",
+      "source": "MLToday",
+      "published_at": "2026-11-02T16:10:56+00:00",
+      "content_excerpt": "By Margaret Kimberley, BAR Exec. Editor & Senior Columnist October 21, 2026 Black Agenda Report The Democratic Party is terrified of even small liberal reforms and will not abide left leaning democrats thwarting their plans for austerity and neoliberal orthodoxy. “I would rather the Republicans keep the House by five than the Democrats win by five, because if that happens, they’re hostage to the DSA. Hakeem cannot move. There’s no place for him to go.” – James Carville Polls indicate that democrats can win control of the House of Representatives in the November 3, 2026 mid-term elections. If accurate, left leaning democrats may win some of those seats and those victories would mean that voters are looking for progressive change. But James Carville, eminence grise of conservative democrats,",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/12feb0a2a19a22d0af517137.json"
+    },
+    {
+      "id": "f97fd5676c6c880418547b62",
+      "title": "New Biography of Elizabeth Gurley Flynn",
+      "url": "https://mltoday.com/new-biography-of-elizabeth-gurley-flynn",
+      "author": "MLToday",
+      "source": "MLToday",
+      "published_at": "2026-11-02T16:10:56+00:00",
+      "content_excerpt": "By Mary Anne Trasciatti, Rosemary Feurer October 10, 2026 In Elizabeth Gurley Flynn: The Rebel Girl, Democracy, and Revolution (Rutgers University Press, 2025), historian Mary Anne Trasciatti traces Elizabeth Gurley Flynn’s path to becoming one of the most important labor radicals in US history, taking part in almost every major left campaign of the first half of the twentieth century. Often seen in biography and popular memory as a relic of the IWW, the Flynn of Trasciatti’s new book instead takes form as a dynamic and profoundly talented organizer who consistently devoted her life to building an American left tradition committed to free speech, democracy, and working-class power. A strong advocate for racial and gender equality, her skill and commitment to these principles made her a cri",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/f97fd5676c6c880418547b62.json"
+    },
+    {
+      "id": "bb32568fc10c07450f834344",
+      "title": "Demonstrations throughout Colombia Target New President and US Intervention",
+      "url": "https://mltoday.com/demonstrations-throughout-colombia-target-new-president-and-us-intervention",
+      "author": "MLToday",
+      "source": "MLToday",
+      "published_at": "2026-11-02T16:10:56+00:00",
+      "content_excerpt": "By W.T. Whitney Jr. October 21, 2026 The anti-government demonstrations that recently rocked Colombia erupted only two months after President Abelardo de la Espriella took office, on August 7. The framework surrounding them is large. Colombian academician Manuel Humberto Restrepo Domínguez refers to a “humanistic outburst against fascism and capitalism in its genocidal phase … circulating through the streets of major cities in Europe, Latin America, and — starting on October 14 — in Colombia.” On that day, Colombians pilloried both the new president and US pretensions. Demonstrations took place in 62 locations and the capital cities of all 31 departments. Marshalled against the far-right De la Espriella, a novice politician, were thousands of protesting and marching unionists, workers, stu",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/bb32568fc10c07450f834344.json"
+    },
+    {
+      "id": "2ddddf4ccd4795d612189b66",
+      "title": "The French People Are Taking to the Streets — But Where is a Communist Party to Lead Them?",
+      "url": "https://mltoday.com/the-french-people-are-taking-to-the-streets-but-where-is-a-communist-party-to-lead-them",
+      "author": "MLToday",
+      "source": "MLToday",
+      "published_at": "2026-11-02T16:10:56+00:00",
+      "content_excerpt": "By Nikos Mottas October 24, 2026 In Defense of Communism France is once again a country of protests, strikes and growing popular anger. Young people are mobilizing against deteriorating schools and an increasingly uncertain future, while workers confront austerity, rising living costs and attacks on public services. The French state finds enormous resources for military expenditure, yet workers and their families are told that sacrifices are unavoidable. There is no shortage of people willing to fight. What is missing, however, is a powerful revolutionary Communist Party, rooted in the working class and guided by Marxism-Leninism, capable of giving these struggles a clear socialist direction. This absence is particularly striking in France. The country of the Paris Commune, the great worke",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/2ddddf4ccd4795d612189b66.json"
     }
   ]
 }

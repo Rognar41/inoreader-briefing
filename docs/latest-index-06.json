@@ -1,71 +1,266 @@
 {
-  "generated_at": "2026-11-01T22:57:12.752597+00:00",
-  "generated_at_jst": "2026-11-02T07:57:12.752597+09:00",
-  "period_start": "2026-10-31T16:57:12.752597+00:00",
+  "generated_at": "2026-11-03T01:44:00.751758+00:00",
+  "generated_at_jst": "2026-11-03T10:44:00.751758+09:00",
+  "period_start": "2026-11-01T19:44:00.751758+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
-  "article_count": 4,
+  "article_count": 17,
   "excerpt_chars": 800,
   "articles": [
     {
-      "id": "b2f6d6ee6f9dc862edfbba5b",
-      "title": "Book Review: A guide to how the media sanitized Israel’s genocide in Gaza",
-      "url": "https://mondoweiss.net/2026/11/book-review-a-guide-to-how-the-media-sanitized-israels-genocide-in-gaza",
-      "author": "James North",
-      "source": "Mondoweiss",
-      "published_at": "2026-11-01T14:12:48+00:00",
-      "content_excerpt": "Assal Rad's 'Don't Say Palestine' is a masterpiece on language distortion and dishonesty, combining brilliant analysis with searing moral outrage and destined to become a classic read for years to come.",
+      "id": "db92ba99c969b80dbcf7a0bd",
+      "title": "Demand Democracy Defense w/ May Day Strong",
+      "url": "https://convergencemag.com/podcast/demand-democracy-defense-w-may-day-strong",
+      "author": "Cayden Mak",
+      "source": "Convergence",
+      "published_at": "2026-11-03T00:25:35+00:00",
+      "content_excerpt": "Over the past few months Convergence has been discussing the many different ways people are organizing around the country to ensure the integrity of the midterm elections. We’ve also covered the myriad ways the Trump administration has signaled their intent to disrupt election results, refute them, and generally sow chaos, such as the raid on the Ohio Organizing Collaborative back in June or the… Source",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/b2f6d6ee6f9dc862edfbba5b.json"
+      "article_path": "articles/db92ba99c969b80dbcf7a0bd.json"
     },
     {
-      "id": "28bb9c00e42ebb23c3152402",
-      "title": "What Israel’s Election Deadlock Means for Palestine, and Trump’s Iran Buildup",
-      "url": "https://breakthroughnews.org/2026/10/31/what-israels-election-deadlock-means-for-palestine-and-trumps-iran-buildup",
-      "author": "johnprysner",
+      "id": "dcddb91db240058798dfb0b5",
+      "title": "Why US soldiers keep killing women in Okinawa — and why they go unpunished",
+      "url": "https://breakthroughnews.org/2026/11/02/why-us-soldiers-keep-killing-women-in-okinawa-and-why-they-go-unpunished",
+      "author": "Amanda Yee",
       "source": "BT News",
-      "published_at": "2026-10-31T19:08:11+00:00",
-      "content_excerpt": "This content is for members only. Visit the site and log in/register to read.",
+      "published_at": "2026-11-03T00:09:13+00:00",
+      "content_excerpt": "In October, 39-year-old Ann Yagi was found dead in a Naha hotel. Shortly after, US marine Devin Jacob Ballard was arrested on charges of murder-robbery. But the Yagi’s killing reignited a decades-old question Okinawa can’t escape: Who pays the price for Washington’s military bases? Okinawan scholar and peace activist Keiko Yonaha joins Amanda Yee to lay out what the headlines leave out — countless sexual assaults by US soldiers and near-total impunity, a Japanese government that covers up case after case, and what Prime Minister Sanae Takaichi’s rapid militarization means for an island already marked as a potential battlefield. Yonaha also takes direct aim at the new Cold War narrative driving it all, arguing there is no “China threat” to Okinawa or Japan, that the story is being amplified",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/28bb9c00e42ebb23c3152402.json"
+      "article_path": "articles/dcddb91db240058798dfb0b5.json"
     },
     {
-      "id": "ae834fbc06f35473f2501dc7",
-      "title": "Bukele deploys thousands of soldiers to Haiti",
-      "url": "https://breakthroughnews.org/2026/10/31/bukele-deploys-thousands-of-soldiers-to-haiti",
-      "author": "Pablo Meriguet",
+      "id": "0e9e922d4dc8b266f689ea40",
+      "title": "How Much Is Our Freedom Worth? Ending Corporate Support for Fascism",
+      "url": "https://convergencemag.com/articles/how-much-is-our-freedom-worth-ending-corporate-support-for-fascism",
+      "author": "Saqib Bhatti",
+      "source": "Convergence",
+      "published_at": "2026-11-02T23:31:07+00:00",
+      "content_excerpt": "Americans are guaranteed the right to have a say in who represents us in making decisions about our healthcare system, the quality of air we breathe, and how immigrants are treated. Yet the Trump regime has been laying the groundwork to interfere with our right to vote for months, and that effort will likely continue long after tomorrow’s elections. Trump and his allies are pushing an… Source",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/0e9e922d4dc8b266f689ea40.json"
+    },
+    {
+      "id": "c19e1716a88cb2679864f517",
+      "title": "Algeria sends troops to Niger as security ties deepen",
+      "url": "https://breakthroughnews.org/2026/11/02/algeria-sends-troops-to-niger-as-security-ties-deepen",
+      "author": "Pavan Kulkarni",
       "source": "BT News",
-      "published_at": "2026-10-31T19:08:11+00:00",
-      "content_excerpt": "El Salvador’s right-wing president, Nayib Bukele, announced on October 29, that he will deploy a military force of nearly 2,000 soldiers to Haiti. The Salvadoran president has justified the measure by citing the disappearance of four Salvadoran soldiers on October 18. The Salvadoran soldiers reportedly went missing following an armed attack in Croix-des-Bouquets, near the capital Port-au-Prince, involving the armored vehicle in which they were traveling. According to some reports , the attackers used very powerful weapons and explosives. Since then, the whereabouts of the soldiers remain unknown, and it is unclear whether they are still alive. According to Bukele, thousands of Salvadoran soldiers are conducting search operations. Several critics have claimed that the deployment amounts to ",
+      "published_at": "2026-11-02T22:06:13+00:00",
+      "content_excerpt": "On October 30, the first convoy of Algerian troops arrived in its southern neighbor Niger as security ties continue to deepen between the two countries. It is Algeria’s first foreign deployment since it sent troops to Egypt during the 1973 Arab-Israeli war. The deployment was approved by both houses of the parliament on October 25. “Niger’s security is part of Algeria’s security,” said Foreign Minister Ahmed Attaf, who tabled the proposal before legislators. Algeria shares a 951 km-long border with Niger in the Sahara Desert, which became a hotbed for terror groups after the destruction of Libya by NATO powers in 2011. Groups affiliated with Al-Qaeda and the Islamic State have carried out multiple attacks in recent times in Niger, where Algeria has strategic energy projects. Strategic infr",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/ae834fbc06f35473f2501dc7.json"
+      "article_path": "articles/c19e1716a88cb2679864f517.json"
     },
     {
-      "id": "c32aa3884522730481cbadb0",
-      "title": "Half a million join youth-led protests in France",
-      "url": "https://breakthroughnews.org/2026/10/31/half-a-million-join-youth-led-protests-in-france",
+      "id": "97e28ae23e129e0af6201fbe",
+      "title": "Over 4,000 arrested under Palestine Action ban",
+      "url": "https://breakthroughnews.org/2026/11/02/over-4000-arrested-under-palestine-action-ban",
       "author": "Ana Vračar",
       "source": "BT News",
-      "published_at": "2026-10-31T19:08:11+00:00",
-      "content_excerpt": "Saturday, October 31, opened as another day of mass mobilizations across France. For almost two months – led by high school and university student demands for stronger public education – hundreds of thousands of people have been joining demonstrations against the policies of President Emmanuel Macron and successive administrations. According to student unions , at least 500,000 people joined the demonstrations on Saturday, including 200,000 in the capital. “We are now in the sixth week of mobilization by high school students and, more broadly, the youth,” Christophe Benoît, deputy general secretary of the General Confederation of Labor (Confédération Générale du Travail, CGT) in Lille, told BreakThrough News . “It’s a movement best summed up in the words of a high school student speaking a",
+      "published_at": "2026-11-02T22:06:13+00:00",
+      "content_excerpt": "New arrests of Palestine solidarity activists on October 31 brought the total number of arrests related to the Palestine Action ban in Britain to over 4,000, advocacy groups warned on Saturday. The arrests were made during an action in front of the US embassy in London, as law enforcement agencies once again decided to charge protesters holding signs expressing their opposition to the genocide in Gaza. The action was mirrored in the proximity of the US consulate in Edinburgh, where no arrests were made on the day. Since July 2025 – when Keir Starmer’s government proscribed direct action group Palestine Action – police forces around the country have disrupted peaceful protests against the ban. This has led to legal consequences for thousands of people, many of them elderly people, public se",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/c32aa3884522730481cbadb0.json"
+      "article_path": "articles/97e28ae23e129e0af6201fbe.json"
+    },
+    {
+      "id": "79704e00e0e8c421215da0e6",
+      "title": "Haley Stevens is trying to ratf–k the El-Sayed campaign over Israel",
+      "url": "https://mondoweiss.net/2026/11/haley-stevens-is-trying-to-ratf-k-the-el-sayed-campaign-over-israel",
+      "author": "Michael Arria",
+      "source": "Mondoweiss",
+      "published_at": "2026-11-02T21:21:45+00:00",
+      "content_excerpt": "In a shock move, Rep. Haley Stevens endorsed Republican Mike Rogers over fellow Democrat Abdul El-Sayed. While the exact reasons are unclear, there is no doubt Israel played a central role.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/79704e00e0e8c421215da0e6.json"
+    },
+    {
+      "id": "4f4615b7c2fe9482493db96d",
+      "title": "The Global South, Political Parties, and Pathways to Modernization: History, Theory and Practice",
+      "url": "https://mronline.org/2026/11/02/the-global-south-political-parties-and-pathways-to-modernization-history-theory-and-practice",
+      "author": "Solly Mapaila",
+      "source": "MR Online",
+      "published_at": "2026-11-02T18:55:47+00:00",
+      "content_excerpt": "The question is not whether productive forces should develop. It is who owns them? Who controls them? Who benefits from them? And toward what social purpose are they developed? The post The Global South, Political Parties, and Pathways to Modernization: History, Theory and Practice appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/4f4615b7c2fe9482493db96d.json"
+    },
+    {
+      "id": "2652bfcc8f1e65dca98a9fe5",
+      "title": "“Princes and Thieves” Author Matthew Cole on Jared Kushner & the “Secret Plot to Remake Middle East”",
+      "url": "https://www.democracynow.org/2026/11/2/matthew_cole_jared_kushner_book",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-11-02T16:01:03+00:00",
+      "content_excerpt": "Vanity Fair recently published an excerpt from longtime investigative reporter Mathhew Cole’s new book, Princes and Thieves: Jared Kushner and Mohamed bin Zayed’s Secret Plot to Remake the Middle East . The excerpt alleged that during President Trump’s first term, Saudi and Emirati leaders secretly put at least $2 billion into bank accounts and gave access to Kushner. At the time, Jared Kushner was serving as senior adviser to President Trump, his father-in-law. He is now Trump’s special envoy. Kushner’s lawyers responded by demanding that Vanity Fair retract the article and threatening legal action against the book publisher, Simon & Schuster. Jared Kushner denied the report, saying, “The allegations made by this author are completely insane, categorically false, and never happened. We de",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/2652bfcc8f1e65dca98a9fe5.json"
+    },
+    {
+      "id": "3efb3d31b1c5b8bc403fb743",
+      "title": "“Ungrounding”: Eyal Weizman on Gaza Genocide & Israel’s “Permanent Architecture of Control”",
+      "url": "https://www.democracynow.org/2026/10/30/forensic_architecture_eyal_weizman_gaza_genocice",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-11-02T16:01:03+00:00",
+      "content_excerpt": "This is a rush transcript. Copy may not be in its final form. AMY GOODMAN : Israel is continuing to commit genocide in Gaza long past the so-called ceasefire agreement. That’s according to a new report out this week from the U.N. Independent International Commission of Inquiry on the Occupied Palestinian Territory. The report also accuses Israeli forces of committing crimes against humanity in the West Bank, including extermination, torture and rape. The Israeli Mission in Geneva said the latest report was part of a “misinformation campaign to demonize the State of Israel” and to, quote, “destroy the Jewish state,” unquote. The United Nations-commissioned experts said Israel was, quote, “continuing to commit genocidal acts with the genocidal intent to destroy, in whole or in part, the Pale",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/3efb3d31b1c5b8bc403fb743.json"
+    },
+    {
+      "id": "044d57b95858d0a5d3a7d378",
+      "title": "Fatboy Slim – Don’t Let The Man Get You Down (Official 4K Video)",
+      "url": "https://mronline.org/2026/11/02/fatboy-slim-dont-let-the-man-get-you-down-official-4k-video",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-11-02T14:57:06+00:00",
+      "content_excerpt": "The song “Don’t Let the Man Get You Down” by Fatboy Slim is a powerful anthem that carries deep meaning and resonates with listeners on multiple levels. The post Fatboy Slim – Don’t Let The Man Get You Down (Official 4K Video) appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/044d57b95858d0a5d3a7d378.json"
+    },
+    {
+      "id": "5c505dcd59fd766a79f883f0",
+      "title": "I have not eaten rice since I left Gaza. The taste is a painful reminder of the genocide.",
+      "url": "https://mondoweiss.net/2026/11/i-have-not-eaten-rice-since-i-left-gaza-the-taste-is-a-painful-reminder-of-the-genocide",
+      "author": "Roaa Shamallakh",
+      "source": "Mondoweiss",
+      "published_at": "2026-11-02T14:06:41+00:00",
+      "content_excerpt": "In Gaza, hunger and siege changed the meanings of bread, rice, khobeiza, and oud. Three years after reaching Cairo, ordinary foods and fragrances still return me to the war.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/5c505dcd59fd766a79f883f0.json"
+    },
+    {
+      "id": "b25bf4daea091116e9dab99d",
+      "title": "Organizing for the Long Haul Means Remaining Open Minded",
+      "url": "https://convergencemag.com/articles/organizing-for-the-long-haul-means-remaining-open-minded",
+      "author": "Chris Dixon",
+      "source": "Convergence",
+      "published_at": "2026-11-02T13:23:52+00:00",
+      "content_excerpt": "One vital quality for staying involved in movements is openness. This is a willingness to consider that we might sometimes be wrong, an eagerness to learn from our mistakes, an ongoing sense of curiosity about the world, and a receptivity to new developments and ideas. Openness means maintaining some critical consciousness about our habitual patterns in political activity while generously engaging… Source",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/b25bf4daea091116e9dab99d.json"
+    },
+    {
+      "id": "2e4f169ec053544ec2c177bd",
+      "title": "November 2026 (Volume 78, Number 6)",
+      "url": "https://monthlyreview.org/articles/mr-078-06-2026-10_0",
+      "author": "Jamil Jonna",
+      "source": "Articles Archive - Monthly Review",
+      "published_at": "2026-11-02T01:22:06+00:00",
+      "content_excerpt": "In this election season, the MR Editors consider the history of U.S. interventions in foreign elections throughout the twentieth and twenty-first century and, in particular, the notable uptick in such meddling in the post-Cold War era. Throughout the capitalist world, Western “democracies”—which are democratic in form only and oligarchic in their content—continue to look away while the United States covertly and overtly engineers interference in elections around the globe on behalf of Trump-aligned, right-wing demagogues. The post November 2026 (Volume 78, Number 6) appeared first on Monthly Review .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/2e4f169ec053544ec2c177bd.json"
+    },
+    {
+      "id": "d5a226363bd9b1f7f087dff8",
+      "title": "The Cultural Apparatus, Materialist Aesthetics, and the Critique of Eurocentrism",
+      "url": "https://monthlyreview.org/articles/the-cultural-apparatus-materialist-aesthetics-and-the-critique-of-eurocentrism",
+      "author": "Jamil Jonna",
+      "source": "Articles Archive - Monthly Review",
+      "published_at": "2026-11-02T01:22:06+00:00",
+      "content_excerpt": "John Bellamy Foster discusses the tradition of cultural analysis in Monthly Review with Jennifer Ponce de León and Gabriel Rockhill. “ MR ‘s approach…over its long history,” Foster explains, “has been a product of its deep commitment to historical materialism.” Drawing parallels between Bertolt Brecht’s observations during Hitler’s rise in Germany and an analysis of MAGA-style fascism under Trump today, it becomes clear that “control of the intellectual and cultural life of the nation is integral to the neofascist project.” However, there is also hope, as culture “constantly emerges from below in revolutionary new forms, which cannot be entirely repressed.” The post The Cultural Apparatus, Materialist Aesthetics, and the Critique of Eurocentrism appeared first on Monthly Review .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/d5a226363bd9b1f7f087dff8.json"
+    },
+    {
+      "id": "9f7df146789ccf473d198c12",
+      "title": "Ecological Materialism and Ecological Civilization",
+      "url": "https://monthlyreview.org/articles/ecological-materialism-and-ecological-civilization",
+      "author": "Jamil Jonna",
+      "source": "Articles Archive - Monthly Review",
+      "published_at": "2026-11-02T01:22:06+00:00",
+      "content_excerpt": "The post Ecological Materialism and Ecological Civilization appeared first on Monthly Review .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/9f7df146789ccf473d198c12.json"
+    },
+    {
+      "id": "8b0c1af8167743bd08da210f",
+      "title": "Nietzsche’s French Legacy: Fascism and the Compatible Left",
+      "url": "https://monthlyreview.org/articles/nietzsches-french-legacy",
+      "author": "Jamil Jonna",
+      "source": "Articles Archive - Monthly Review",
+      "published_at": "2026-11-02T01:22:06+00:00",
+      "content_excerpt": "MR is pleased to be able to share with readers Gabriel Rockhill’s Introduction to The Poverty of Left Nietzscheanism by Aymeric Monville (Iskra Books, 2026). Rockhill provides readers with a thorough account of the rehabilitation of Nietzsche within French Theory and its consequences within the non-communist left. Fascism, Rockhill argues, “can only be understood and contested through materialist analysis and anticapitalist praxis”—a fitting preamble to a book that acts as “an insightful indictment of the dominant capitalist ideologies while clearly articulating the political path forward.” The post Nietzsche’s French Legacy: Fascism and the Compatible Left appeared first on Monthly Review .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/8b0c1af8167743bd08da210f.json"
+    },
+    {
+      "id": "886b2652d7228a16264734e6",
+      "title": "Foreword to ‘The Exterminating Empire’",
+      "url": "https://monthlyreview.org/articles/foreword-to-the-exterminating-empire",
+      "author": "Jamil Jonna",
+      "source": "Articles Archive - Monthly Review",
+      "published_at": "2026-11-02T01:22:06+00:00",
+      "content_excerpt": "In this stirring foreword to Chris Kaspar de Ploeg’s The Exterminating Empire (Monthly Review Press, 2026), Jason Hickel decries a world in which cruelty, genocide, and rapacious capitalism have become de rigueur, seemingly with no consequences for the Western elites perpetuating these atrocities in the Global South. “The narrative of ‘double standards,'” Hickel writes, “presupposes that they have at least some shred of morality. But they do not. For them there is but one standard: the law of capital.” The post Foreword to ‘The Exterminating Empire’ appeared first on Monthly Review .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/886b2652d7228a16264734e6.json"
     }
   ]
 }
