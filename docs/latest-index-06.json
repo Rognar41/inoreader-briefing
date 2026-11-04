@@ -1,12 +1,297 @@
 {
-  "generated_at": "2026-11-03T01:44:00.751758+00:00",
-  "generated_at_jst": "2026-11-03T10:44:00.751758+09:00",
-  "period_start": "2026-11-01T19:44:00.751758+00:00",
+  "generated_at": "2026-11-04T00:06:36.411222+00:00",
+  "generated_at_jst": "2026-11-04T09:06:36.411222+09:00",
+  "period_start": "2026-11-02T18:06:36.411222+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
-  "article_count": 17,
+  "article_count": 20,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "5ea3f8245f5acf590787c110",
+      "title": "China calls on US to end blockade on Cuba and respect its sovereignty",
+      "url": "https://breakthroughnews.org/2026/10/31/china-calls-on-us-to-end-blockade-on-cuba-and-respect-its-sovereignty",
+      "author": "Abdul Rahman",
+      "source": "BT News",
+      "published_at": "2026-11-03T20:09:01+00:00",
+      "content_excerpt": "A day after joining the overwhelming majority of countries in the UN General Assembly to vote on a resolution demanding the lifting of the US blockade and sanctions on Cuba, China called on the US to immediately stop its threats of force against the country. “The illegal economic embargo and unilateral economic sanctions imposed by the US against Cuba have lasted for 64 years inflicting untold suffering on Cuban people,” Guo Jiakun, official spokesperson of China’s Ministry of Foreign Affairs, said during a regular press conference on Thursday, October 29. Claiming that “the overwhelming majority of countries in the world are outraged by the US’s serious violation of the purposes and principles of the UN Charter,” China reiterated the “international community’s longstanding call for the US",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/5ea3f8245f5acf590787c110.json"
+    },
+    {
+      "id": "1ae1e7ef91c29b7dd8041ea5",
+      "title": "Israel’s election exposes the limits of liberal Zionism",
+      "url": "https://mondoweiss.net/2026/11/israels-election-exposes-the-limits-of-liberal-zionism",
+      "author": "Philip Weiss",
+      "source": "Mondoweiss",
+      "published_at": "2026-11-03T19:33:59+00:00",
+      "content_excerpt": "Netanyahu’s strong showing in the Israeli elections is a blow to liberal Zionists and their effort to continue to deny Israeli apartheid.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/1ae1e7ef91c29b7dd8041ea5.json"
+    },
+    {
+      "id": "050ba22195c01e5a9b371d2a",
+      "title": "The Global Energy and Emissions Footprint of AI Diffusion",
+      "url": "https://mronline.org/2026/11/03/the-global-energy-and-emissions-footprint-of-ai-diffusion",
+      "author": "Jesse Damiani",
+      "source": "MR Online",
+      "published_at": "2026-11-03T19:11:42+00:00",
+      "content_excerpt": "AI is a global megamachine devouring everything in its path. We can subject it to the same kind of lifecycle analysis used for other industries. The post The Global Energy and Emissions Footprint of AI Diffusion appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/050ba22195c01e5a9b371d2a.json"
+    },
+    {
+      "id": "58949ac6141fbd4e3c8f7967",
+      "title": "Amid deepening financial crisis, UNRWA conducts mass layoffs in Gaza",
+      "url": "https://mondoweiss.net/2026/11/amid-deepening-financial-crisis-unrwa-conducts-mass-layoffs-in-gaza",
+      "author": "Mohamed Solaimane",
+      "source": "Mondoweiss",
+      "published_at": "2026-11-03T18:11:41+00:00",
+      "content_excerpt": "UNRWA says it is forced to cut services because it cannot cover a $70 million shortfall. But laid-off employees, its staff union, and its former spokesperson say the cuts are aimed at something broader: the refugee question itself.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/58949ac6141fbd4e3c8f7967.json"
+    },
+    {
+      "id": "087edd03f1d799ac5ea8fe6f",
+      "title": "“Democracy Itself Is on the Ballot”: Voters Weigh 150+ Ballot Initiatives, from Wealth Tax to Abortion",
+      "url": "https://www.democracynow.org/2026/11/3/midterm_ballot_measures",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-11-03T15:47:40+00:00",
+      "content_excerpt": "This is a rush transcript. Copy may not be in its final form. AMY GOODMAN : It’s Election Day across the United States, following the most expensive election cycle in U.S. history. The group Open Secrets projects spending will reach nearly $12 billion. The New York Times reports the trillionaire Elon Musk has spent almost half a billion dollars, $474 million, in an attempt to help Republicans keep control of the House and Senate. On the campaign trail, Texas Democratic Senate candidate James Talarico blasted Elon Musk’s role supporting his rival. REP . JAMES TALARICO : I have a legislative record; Ken Paxton has a criminal record. That is the contrast in this race. This election is about whether you want a senator who puts money in your pocket or who puts money in their own. This election ",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/087edd03f1d799ac5ea8fe6f.json"
+    },
+    {
+      "id": "d6e3feca14841840b1edbedb",
+      "title": "Election Protection: NAACP Warns of Voter Suppression & Deployment of Federal Agents to the Polls",
+      "url": "https://www.democracynow.org/2026/11/3/voting_rights_election_protection",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-11-03T15:47:40+00:00",
+      "content_excerpt": "As President Donald Trump continues to cast doubt on the integrity of U.S. elections, signaling his intentions to challenge results unfavorable to Republicans, we go to Washington, D.C., where a federal judge ruled Monday night that the Department of Justice can deploy election monitors to polling sites across the country, as long as they are not law enforcement officers with the power to make arrests. “In some respects, this is a victory for voters. Every voter in our country deserves to be able to cast a ballot today, free from intimidation,” says Kristen Clarke of the NAACP , which sued to challenge the DOJ’s plans to deploy ICE agents and other armed officers to the polls. The NAACP was also part of a coalition that intervened when the Trump administration attempted to force California",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/d6e3feca14841840b1edbedb.json"
+    },
+    {
+      "id": "857c91ed52ab16cf4d403ce4",
+      "title": "Democratic Socialists on the Rise: Darializa Avila Chevalier & Claire Valdez Set to Win House Seats",
+      "url": "https://www.democracynow.org/2026/11/3/claire_valdez_darializa_avila_chevalier",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-11-03T15:47:40+00:00",
+      "content_excerpt": "New York City is preparing to send two DSA members, presumptive election night winners Darializa Avila Chevalier and Claire Valdez, to Capitol Hill. DSA -backed candidates made historic gains in this year’s Democratic primaries, with at least five expected to join current DSA members Rashida Tlaib and Alexandria Ocasio-Cortez in the House. But can socialism really make headway in the halls of Congress? Democracy Now! fellows Amba Guerguerian and Diego Ramos report. “Our task is going to be winning our colleagues over to our position and finding common ground,” Valdez tells Democracy Now! “Some of the most popular policies in our country’s history have been socialist policies,” says Avila Chevalier. “They have been the things that working people have organized for and won.”",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/857c91ed52ab16cf4d403ce4.json"
+    },
+    {
+      "id": "d1dff2bb2dee7a93e12652c4",
+      "title": "Latino Voters Swing Away from Trump for “Terrorizing Our Communities”: Marisa Franco of Mijente",
+      "url": "https://www.democracynow.org/2026/11/3/latino_voters_2026_midterms",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-11-03T15:47:40+00:00",
+      "content_excerpt": "In 2024, Donald Trump won the presidency with the support of 44% of Hispanic voters, suggesting that a major realignment in party preferences might be underway. But just two years later, it appears much of that support has eroded. Sixty-one percent of Hispanic voters say they will now support Democrats in the midterms, including 11% who previously had voted for President Trump. We get a bird’s-eye view of what to expect from the Latino vote from Marisa Franco, the co-founder and director of the advocacy organization Mijente. While ICE brutality will be at the front of voters’ minds, she says, Democrats cannot continue to take Latino voters for granted. “The vast majority of Latinos are working-class. Quite simply, they voted for Trump because they were looking at issues of economy, cost, i",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/d1dff2bb2dee7a93e12652c4.json"
+    },
+    {
+      "id": "720595045e2239385fe4b7a2",
+      "title": "Trump WH plans to govern by executive action if Democrats win Congress",
+      "url": "https://mronline.org/2026/11/03/trump-wh-plans-to-govern-by-executive-action-if-democrats-win-congress",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-11-03T14:54:19+00:00",
+      "content_excerpt": "Stephen Miller, Russell Vought, and White House counsel have worked since April on tariffs, visa rules, housing costs, and grant changes that would let political appointees steer funding without Congress. The post Trump WH plans to govern by executive action if Democrats win Congress appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/720595045e2239385fe4b7a2.json"
+    },
+    {
+      "id": "907abb2c2f22bc97cc325ad9",
+      "title": "On Marx, Al-Hallaj and all iIn between",
+      "url": "https://mronline.org/2026/11/03/on-marx-al-hallaj-and-all-iin-between",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-11-03T13:59:03+00:00",
+      "content_excerpt": "Hadi al-‘Alawi wove together Marx, Sufism and Taoism, and lived what he wrote: no meat, no property, no comfort. A portrait of the Iraqi thinker who chose exile over silence, and whose questions still matter to a generation shaped by the Arab Spring. The post On Marx, Al-Hallaj and all iIn between appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/907abb2c2f22bc97cc325ad9.json"
+    },
+    {
+      "id": "dab2f641247285827d1d6501",
+      "title": "Students Celebrate Lula’s Victory and Denounce Violence Against Indigenous Peoples",
+      "url": "https://www.brasildefato.com.br/2026/11/03/students-celebrate-lulas-victory-and-denounce-violence-against-indigenous-peoples",
+      "author": "",
+      "source": "Brasil de Fato",
+      "published_at": "2026-11-03T13:00:17+00:00",
+      "content_excerpt": "One week after the historic victory of President Luiz Inácio Lula da Silva in the second round of the 2026 elections, the National Union of Students is holding nationwide mobilizations this Sunday, November 1. The rallies were titled “Brazil with an ‘S’” (“Brasil com S”). The actions came in response to statements made by supporters of defeated far-right Senator Flávio Bolsonaro, who questioned the election results. Beyond celebrating Lula’s win, the mobilizations also denounced and condemned the attacks against Indigenous peoples following the election. According to Brazil’s largest Indigenous organization, the Articulation of Indigenous Peoples of Brazil, APIB, there have been more than 30 reports of violence against Indigenous individuals since the election. For Camila Moraes, secretary",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/dab2f641247285827d1d6501.json"
+    },
+    {
+      "id": "4e1b336b5dd5f7f7ae0232a2",
+      "title": "The witch as rebel",
+      "url": "https://mronline.org/2026/11/03/the-witch-as-rebel",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-11-03T12:58:17+00:00",
+      "content_excerpt": "JOHN CALLOW looks at how a French historian reassigned the feared and maligned into an personification of of liberty, equality and independence. The post The witch as rebel appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/4e1b336b5dd5f7f7ae0232a2.json"
+    },
+    {
+      "id": "de7b7f29a71dbc95b0476115",
+      "title": "A statement in response to Andreas Malm being denied entry into the United Kingdom",
+      "url": "https://mronline.org/2026/11/03/a-statement-in-response-to-andreas-malm-being-denied-entry-into-the-united-kingdom",
+      "author": "Tariq Ali",
+      "source": "MR Online",
+      "published_at": "2026-11-03T11:02:40+00:00",
+      "content_excerpt": "Verso author Andreas Malm has been denied permission to enter the UK ahead of the Historical Materialism Conference. Tariq Ali issued this statement. The post A statement in response to Andreas Malm being denied entry into the United Kingdom appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/de7b7f29a71dbc95b0476115.json"
+    },
+    {
+      "id": "a636f242baf01dc2010eef37",
+      "title": "Special issue on Strategy: Call for website papers to continue the debate",
+      "url": "https://www.historicalmaterialism.org/special-issue-on-strategy-call-for-website-papers-to-continue-the-debate",
+      "author": "Panagiotis Sotiris",
+      "source": "Historical Materialism",
+      "published_at": "2026-11-03T10:50:46+00:00",
+      "content_excerpt": "The latest issue of Historical Materialism, a Special Issue on Strategy (Volume 33, Issue 4), aims to help reopen the strategic debate at a particularly complex time where challenges are mounting. The issue, naturally, does not cover all potential areas of strategic thinking and raises more questions than answers. It is a further step in an open discussion that needs to be continued. For this reason, with the aim of deepening the debate, we are launching a call for website papers, as a second phase of our strategic discussion. We are seeking contributions that we will run on our website ( www.historicalmaterialism.org ) that explicitly engage with one or many of the articles in the special issue, either in full or in part. Submissions: We are looking for full-length articles, to assess the",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/a636f242baf01dc2010eef37.json"
+    },
+    {
+      "id": "c57d136c399322c75602cdb1",
+      "title": "Book Review: A guide to how the media sanitized Israel’s genocide in Gaza",
+      "url": "https://mronline.org/2026/11/03/book-review-a-guide-to-how-the-media-sanitized-israels-genocide-in-gaza",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-11-03T10:04:08+00:00",
+      "content_excerpt": "Assal Rad's 'Don't Say Palestine' is a masterpiece on language distortion and dishonesty, combining brilliant analysis with searing moral outrage and destined to become a classic read for years to come. The post Book Review: A guide to how the media sanitized Israel’s genocide in Gaza appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/c57d136c399322c75602cdb1.json"
+    },
+    {
+      "id": "ea3df157e2c32bf43893a02f",
+      "title": "The Bund, anti-Zionism and the Jewish Left",
+      "url": "https://tempestmag.org/2026/11/the-bund-anti-zionism-and-the-jewish-left",
+      "author": "Janey Stone",
+      "source": "Tempest",
+      "published_at": "2026-11-03T03:33:33+00:00",
+      "content_excerpt": "W ho would have imagined a few years ago that masses of people around the world would be reading, praising, arguing over, and condemning a book about an obscure Jewish socialist organization that effectively came to an end nearly 80 years ago? 1 https://bookmarks.reviews/reviews/all/here-where-we-live-is-our-country-the-story-of-the-jewish-bund/ A book about an uncompromisingly anti-Zionist organization? Who would have imagined such a book having rave reviews in the New York Review of Books 2 Adam Hochschild, “A Dream of a Socialist Commonwealth”, New York Review of Books, 28 May 2026; https://www.nybooks.com/articles/2026/05/28/a-dream-of-a-socialist-commonwealth-the-jewish-bund/ and The New York Times and being on the latter’s bestsellers list? 3 Max Strasser, “What Does Judaism Look Lik",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/ea3df157e2c32bf43893a02f.json"
+    },
+    {
+      "id": "8e38ae0dfd92db020cf7faeb",
+      "title": "Left parties in Pakistan rally in solidarity with Cuba",
+      "url": "https://breakthroughnews.org/2026/11/03/left-parties-in-pakistan-rally-in-solidarity-with-cuba",
+      "author": "Abdul Rahman",
+      "source": "BT News",
+      "published_at": "2026-11-03T02:12:40+00:00",
+      "content_excerpt": "Hundreds participated in a solidarity rally in Lahore, Pakistan, earlier this week, demanding an end to the oppressive decades-long US blockade and sanctions on Cuba and denouncing its targeting of Raul Castro, leader of the Cuban revolution and former president. The participants raised slogans throughout the rally proclaiming the death of US imperialism and its inhuman blockade against the socialist nation. They expressed solidarity with Cuba, its people, the government, and Raul Castro in their fight against US hegemonic endeavors. Hundreds of e-rickshaws decorated with red flags moved across Pakistan’s second largest city on Sunday. The riders of the rickshaws, which generally carry people going to work, were holding banners and posters displaying solidarity messages in Urdu, Cuban flag",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/8e38ae0dfd92db020cf7faeb.json"
+    },
+    {
+      "id": "61a5f719a573b36f144ec99d",
+      "title": "War in Africa: the political economy of the richest continent in the world",
+      "url": "https://breakthroughnews.org/2026/11/03/war-in-africa-the-political-economy-of-the-richest-continent-in-the-world",
+      "author": "Nicholas Mwangi",
+      "source": "BT News",
+      "published_at": "2026-11-03T02:12:40+00:00",
+      "content_excerpt": "Mainstream news has rediscovered Africa, and it is recycling old narratives: armed conflict, state collapse, and humanitarian catastrophe. Tigray is at war again. Darfur and Kordofan bleed under the Rapid Support Forces. M23 carves up eastern Congo. Northern Mozambique is still emptying its villages. Across the Sahel, jihadist attacks and blockades strangle whole towns, and Somalia’s war grinds on into its fourth decade. All of this is real. People are dying, and millions are displaced. But why is the story always told the same way it was told in the 1990s and early 2000s, as a continent of chaos and hunger, a cautionary tale, an example of what not to be? As an African reporter who covers these wars, I read the briefings and explainers sent out to the world and often struggle to recognize",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/61a5f719a573b36f144ec99d.json"
+    },
+    {
+      "id": "80c69eb304a1ba5fdda5505d",
+      "title": "Across the Red Sea, the wars feed each other",
+      "url": "https://breakthroughnews.org/2026/11/03/across-the-red-sea-the-wars-feed-each-other",
+      "author": "Vijay Prashad",
+      "source": "BT News",
+      "published_at": "2026-11-03T02:12:40+00:00",
+      "content_excerpt": "Sudan’s war is usually described as an African catastrophe, Yemen’s as an Arabian conflict, and the war around Iran as a Gulf crisis. Such divisions obscure the movement of weapons, money, soldiers, and commercial interests between them. Look from Africa’s Red Sea coast, and another picture emerges. These wars have distinct origins, but they increasingly sustain one another through military patronage, competition over ports, and the destruction of civilian livelihoods. The starting point must be Sudan’s people. The World Food Program currently estimates that 19.5 million face acute hunger, while around 8.6 million are internally displaced. It reports that sorghum prices are nearly three times higher than a year ago and wheat flour prices have almost doubled. Maritime disruption is raising ",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/80c69eb304a1ba5fdda5505d.json"
+    },
     {
       "id": "db92ba99c969b80dbcf7a0bd",
       "title": "Demand Democracy Defense w/ May Day Strong",
@@ -21,246 +306,6 @@
       "priority": 2,
       "date_missing": false,
       "article_path": "articles/db92ba99c969b80dbcf7a0bd.json"
-    },
-    {
-      "id": "dcddb91db240058798dfb0b5",
-      "title": "Why US soldiers keep killing women in Okinawa — and why they go unpunished",
-      "url": "https://breakthroughnews.org/2026/11/02/why-us-soldiers-keep-killing-women-in-okinawa-and-why-they-go-unpunished",
-      "author": "Amanda Yee",
-      "source": "BT News",
-      "published_at": "2026-11-03T00:09:13+00:00",
-      "content_excerpt": "In October, 39-year-old Ann Yagi was found dead in a Naha hotel. Shortly after, US marine Devin Jacob Ballard was arrested on charges of murder-robbery. But the Yagi’s killing reignited a decades-old question Okinawa can’t escape: Who pays the price for Washington’s military bases? Okinawan scholar and peace activist Keiko Yonaha joins Amanda Yee to lay out what the headlines leave out — countless sexual assaults by US soldiers and near-total impunity, a Japanese government that covers up case after case, and what Prime Minister Sanae Takaichi’s rapid militarization means for an island already marked as a potential battlefield. Yonaha also takes direct aim at the new Cold War narrative driving it all, arguing there is no “China threat” to Okinawa or Japan, that the story is being amplified",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/dcddb91db240058798dfb0b5.json"
-    },
-    {
-      "id": "0e9e922d4dc8b266f689ea40",
-      "title": "How Much Is Our Freedom Worth? Ending Corporate Support for Fascism",
-      "url": "https://convergencemag.com/articles/how-much-is-our-freedom-worth-ending-corporate-support-for-fascism",
-      "author": "Saqib Bhatti",
-      "source": "Convergence",
-      "published_at": "2026-11-02T23:31:07+00:00",
-      "content_excerpt": "Americans are guaranteed the right to have a say in who represents us in making decisions about our healthcare system, the quality of air we breathe, and how immigrants are treated. Yet the Trump regime has been laying the groundwork to interfere with our right to vote for months, and that effort will likely continue long after tomorrow’s elections. Trump and his allies are pushing an… Source",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/0e9e922d4dc8b266f689ea40.json"
-    },
-    {
-      "id": "c19e1716a88cb2679864f517",
-      "title": "Algeria sends troops to Niger as security ties deepen",
-      "url": "https://breakthroughnews.org/2026/11/02/algeria-sends-troops-to-niger-as-security-ties-deepen",
-      "author": "Pavan Kulkarni",
-      "source": "BT News",
-      "published_at": "2026-11-02T22:06:13+00:00",
-      "content_excerpt": "On October 30, the first convoy of Algerian troops arrived in its southern neighbor Niger as security ties continue to deepen between the two countries. It is Algeria’s first foreign deployment since it sent troops to Egypt during the 1973 Arab-Israeli war. The deployment was approved by both houses of the parliament on October 25. “Niger’s security is part of Algeria’s security,” said Foreign Minister Ahmed Attaf, who tabled the proposal before legislators. Algeria shares a 951 km-long border with Niger in the Sahara Desert, which became a hotbed for terror groups after the destruction of Libya by NATO powers in 2011. Groups affiliated with Al-Qaeda and the Islamic State have carried out multiple attacks in recent times in Niger, where Algeria has strategic energy projects. Strategic infr",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/c19e1716a88cb2679864f517.json"
-    },
-    {
-      "id": "97e28ae23e129e0af6201fbe",
-      "title": "Over 4,000 arrested under Palestine Action ban",
-      "url": "https://breakthroughnews.org/2026/11/02/over-4000-arrested-under-palestine-action-ban",
-      "author": "Ana Vračar",
-      "source": "BT News",
-      "published_at": "2026-11-02T22:06:13+00:00",
-      "content_excerpt": "New arrests of Palestine solidarity activists on October 31 brought the total number of arrests related to the Palestine Action ban in Britain to over 4,000, advocacy groups warned on Saturday. The arrests were made during an action in front of the US embassy in London, as law enforcement agencies once again decided to charge protesters holding signs expressing their opposition to the genocide in Gaza. The action was mirrored in the proximity of the US consulate in Edinburgh, where no arrests were made on the day. Since July 2025 – when Keir Starmer’s government proscribed direct action group Palestine Action – police forces around the country have disrupted peaceful protests against the ban. This has led to legal consequences for thousands of people, many of them elderly people, public se",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/97e28ae23e129e0af6201fbe.json"
-    },
-    {
-      "id": "79704e00e0e8c421215da0e6",
-      "title": "Haley Stevens is trying to ratf–k the El-Sayed campaign over Israel",
-      "url": "https://mondoweiss.net/2026/11/haley-stevens-is-trying-to-ratf-k-the-el-sayed-campaign-over-israel",
-      "author": "Michael Arria",
-      "source": "Mondoweiss",
-      "published_at": "2026-11-02T21:21:45+00:00",
-      "content_excerpt": "In a shock move, Rep. Haley Stevens endorsed Republican Mike Rogers over fellow Democrat Abdul El-Sayed. While the exact reasons are unclear, there is no doubt Israel played a central role.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/79704e00e0e8c421215da0e6.json"
-    },
-    {
-      "id": "4f4615b7c2fe9482493db96d",
-      "title": "The Global South, Political Parties, and Pathways to Modernization: History, Theory and Practice",
-      "url": "https://mronline.org/2026/11/02/the-global-south-political-parties-and-pathways-to-modernization-history-theory-and-practice",
-      "author": "Solly Mapaila",
-      "source": "MR Online",
-      "published_at": "2026-11-02T18:55:47+00:00",
-      "content_excerpt": "The question is not whether productive forces should develop. It is who owns them? Who controls them? Who benefits from them? And toward what social purpose are they developed? The post The Global South, Political Parties, and Pathways to Modernization: History, Theory and Practice appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/4f4615b7c2fe9482493db96d.json"
-    },
-    {
-      "id": "2652bfcc8f1e65dca98a9fe5",
-      "title": "“Princes and Thieves” Author Matthew Cole on Jared Kushner & the “Secret Plot to Remake Middle East”",
-      "url": "https://www.democracynow.org/2026/11/2/matthew_cole_jared_kushner_book",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-11-02T16:01:03+00:00",
-      "content_excerpt": "Vanity Fair recently published an excerpt from longtime investigative reporter Mathhew Cole’s new book, Princes and Thieves: Jared Kushner and Mohamed bin Zayed’s Secret Plot to Remake the Middle East . The excerpt alleged that during President Trump’s first term, Saudi and Emirati leaders secretly put at least $2 billion into bank accounts and gave access to Kushner. At the time, Jared Kushner was serving as senior adviser to President Trump, his father-in-law. He is now Trump’s special envoy. Kushner’s lawyers responded by demanding that Vanity Fair retract the article and threatening legal action against the book publisher, Simon & Schuster. Jared Kushner denied the report, saying, “The allegations made by this author are completely insane, categorically false, and never happened. We de",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/2652bfcc8f1e65dca98a9fe5.json"
-    },
-    {
-      "id": "3efb3d31b1c5b8bc403fb743",
-      "title": "“Ungrounding”: Eyal Weizman on Gaza Genocide & Israel’s “Permanent Architecture of Control”",
-      "url": "https://www.democracynow.org/2026/10/30/forensic_architecture_eyal_weizman_gaza_genocice",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-11-02T16:01:03+00:00",
-      "content_excerpt": "This is a rush transcript. Copy may not be in its final form. AMY GOODMAN : Israel is continuing to commit genocide in Gaza long past the so-called ceasefire agreement. That’s according to a new report out this week from the U.N. Independent International Commission of Inquiry on the Occupied Palestinian Territory. The report also accuses Israeli forces of committing crimes against humanity in the West Bank, including extermination, torture and rape. The Israeli Mission in Geneva said the latest report was part of a “misinformation campaign to demonize the State of Israel” and to, quote, “destroy the Jewish state,” unquote. The United Nations-commissioned experts said Israel was, quote, “continuing to commit genocidal acts with the genocidal intent to destroy, in whole or in part, the Pale",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/3efb3d31b1c5b8bc403fb743.json"
-    },
-    {
-      "id": "044d57b95858d0a5d3a7d378",
-      "title": "Fatboy Slim – Don’t Let The Man Get You Down (Official 4K Video)",
-      "url": "https://mronline.org/2026/11/02/fatboy-slim-dont-let-the-man-get-you-down-official-4k-video",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-11-02T14:57:06+00:00",
-      "content_excerpt": "The song “Don’t Let the Man Get You Down” by Fatboy Slim is a powerful anthem that carries deep meaning and resonates with listeners on multiple levels. The post Fatboy Slim – Don’t Let The Man Get You Down (Official 4K Video) appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/044d57b95858d0a5d3a7d378.json"
-    },
-    {
-      "id": "5c505dcd59fd766a79f883f0",
-      "title": "I have not eaten rice since I left Gaza. The taste is a painful reminder of the genocide.",
-      "url": "https://mondoweiss.net/2026/11/i-have-not-eaten-rice-since-i-left-gaza-the-taste-is-a-painful-reminder-of-the-genocide",
-      "author": "Roaa Shamallakh",
-      "source": "Mondoweiss",
-      "published_at": "2026-11-02T14:06:41+00:00",
-      "content_excerpt": "In Gaza, hunger and siege changed the meanings of bread, rice, khobeiza, and oud. Three years after reaching Cairo, ordinary foods and fragrances still return me to the war.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/5c505dcd59fd766a79f883f0.json"
-    },
-    {
-      "id": "b25bf4daea091116e9dab99d",
-      "title": "Organizing for the Long Haul Means Remaining Open Minded",
-      "url": "https://convergencemag.com/articles/organizing-for-the-long-haul-means-remaining-open-minded",
-      "author": "Chris Dixon",
-      "source": "Convergence",
-      "published_at": "2026-11-02T13:23:52+00:00",
-      "content_excerpt": "One vital quality for staying involved in movements is openness. This is a willingness to consider that we might sometimes be wrong, an eagerness to learn from our mistakes, an ongoing sense of curiosity about the world, and a receptivity to new developments and ideas. Openness means maintaining some critical consciousness about our habitual patterns in political activity while generously engaging… Source",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/b25bf4daea091116e9dab99d.json"
-    },
-    {
-      "id": "2e4f169ec053544ec2c177bd",
-      "title": "November 2026 (Volume 78, Number 6)",
-      "url": "https://monthlyreview.org/articles/mr-078-06-2026-10_0",
-      "author": "Jamil Jonna",
-      "source": "Articles Archive - Monthly Review",
-      "published_at": "2026-11-02T01:22:06+00:00",
-      "content_excerpt": "In this election season, the MR Editors consider the history of U.S. interventions in foreign elections throughout the twentieth and twenty-first century and, in particular, the notable uptick in such meddling in the post-Cold War era. Throughout the capitalist world, Western “democracies”—which are democratic in form only and oligarchic in their content—continue to look away while the United States covertly and overtly engineers interference in elections around the globe on behalf of Trump-aligned, right-wing demagogues. The post November 2026 (Volume 78, Number 6) appeared first on Monthly Review .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/2e4f169ec053544ec2c177bd.json"
-    },
-    {
-      "id": "d5a226363bd9b1f7f087dff8",
-      "title": "The Cultural Apparatus, Materialist Aesthetics, and the Critique of Eurocentrism",
-      "url": "https://monthlyreview.org/articles/the-cultural-apparatus-materialist-aesthetics-and-the-critique-of-eurocentrism",
-      "author": "Jamil Jonna",
-      "source": "Articles Archive - Monthly Review",
-      "published_at": "2026-11-02T01:22:06+00:00",
-      "content_excerpt": "John Bellamy Foster discusses the tradition of cultural analysis in Monthly Review with Jennifer Ponce de León and Gabriel Rockhill. “ MR ‘s approach…over its long history,” Foster explains, “has been a product of its deep commitment to historical materialism.” Drawing parallels between Bertolt Brecht’s observations during Hitler’s rise in Germany and an analysis of MAGA-style fascism under Trump today, it becomes clear that “control of the intellectual and cultural life of the nation is integral to the neofascist project.” However, there is also hope, as culture “constantly emerges from below in revolutionary new forms, which cannot be entirely repressed.” The post The Cultural Apparatus, Materialist Aesthetics, and the Critique of Eurocentrism appeared first on Monthly Review .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/d5a226363bd9b1f7f087dff8.json"
-    },
-    {
-      "id": "9f7df146789ccf473d198c12",
-      "title": "Ecological Materialism and Ecological Civilization",
-      "url": "https://monthlyreview.org/articles/ecological-materialism-and-ecological-civilization",
-      "author": "Jamil Jonna",
-      "source": "Articles Archive - Monthly Review",
-      "published_at": "2026-11-02T01:22:06+00:00",
-      "content_excerpt": "The post Ecological Materialism and Ecological Civilization appeared first on Monthly Review .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/9f7df146789ccf473d198c12.json"
-    },
-    {
-      "id": "8b0c1af8167743bd08da210f",
-      "title": "Nietzsche’s French Legacy: Fascism and the Compatible Left",
-      "url": "https://monthlyreview.org/articles/nietzsches-french-legacy",
-      "author": "Jamil Jonna",
-      "source": "Articles Archive - Monthly Review",
-      "published_at": "2026-11-02T01:22:06+00:00",
-      "content_excerpt": "MR is pleased to be able to share with readers Gabriel Rockhill’s Introduction to The Poverty of Left Nietzscheanism by Aymeric Monville (Iskra Books, 2026). Rockhill provides readers with a thorough account of the rehabilitation of Nietzsche within French Theory and its consequences within the non-communist left. Fascism, Rockhill argues, “can only be understood and contested through materialist analysis and anticapitalist praxis”—a fitting preamble to a book that acts as “an insightful indictment of the dominant capitalist ideologies while clearly articulating the political path forward.” The post Nietzsche’s French Legacy: Fascism and the Compatible Left appeared first on Monthly Review .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/8b0c1af8167743bd08da210f.json"
-    },
-    {
-      "id": "886b2652d7228a16264734e6",
-      "title": "Foreword to ‘The Exterminating Empire’",
-      "url": "https://monthlyreview.org/articles/foreword-to-the-exterminating-empire",
-      "author": "Jamil Jonna",
-      "source": "Articles Archive - Monthly Review",
-      "published_at": "2026-11-02T01:22:06+00:00",
-      "content_excerpt": "In this stirring foreword to Chris Kaspar de Ploeg’s The Exterminating Empire (Monthly Review Press, 2026), Jason Hickel decries a world in which cruelty, genocide, and rapacious capitalism have become de rigueur, seemingly with no consequences for the Western elites perpetuating these atrocities in the Global South. “The narrative of ‘double standards,'” Hickel writes, “presupposes that they have at least some shred of morality. But they do not. For them there is but one standard: the law of capital.” The post Foreword to ‘The Exterminating Empire’ appeared first on Monthly Review .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/886b2652d7228a16264734e6.json"
     }
   ]
 }
