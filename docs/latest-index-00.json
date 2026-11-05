@@ -1,12 +1,282 @@
 {
-  "generated_at": "2026-11-04T00:06:36.411222+00:00",
-  "generated_at_jst": "2026-11-04T09:06:36.411222+09:00",
-  "period_start": "2026-11-02T18:06:36.411222+00:00",
+  "generated_at": "2026-11-05T00:28:48.512018+00:00",
+  "generated_at_jst": "2026-11-05T09:28:48.512018+09:00",
+  "period_start": "2026-11-03T18:28:48.512018+00:00",
   "lookback_hours": 30,
   "folder": "00_毎日確認",
   "article_count": 20,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "2f64e167699f255069c42dc6",
+      "title": "In Last Night’s Midterms, the Left Proved It Can Win",
+      "url": "https://jacobin.com/2026/11/midterms-socialists-democrats-el-sayed",
+      "author": "Branko Marcetic",
+      "source": "Jacobin",
+      "published_at": "2026-11-04T22:22:23+00:00",
+      "content_excerpt": "The Left has been so conditioned in the Trump era to look aghast and horrified at election results that it is still hard to fully believe the outcome today. Yet the historic events of last night really did happen: Donald Trump and Republicans suffered a historic rebuke from voters, handing Democrats wins up and down the ballot all across the country, flipping both chambers of Congress in their favor, and handing them the largest congressional majorities they’ve had since Barack Obama’s election. In many ways, the result is simple. Across poll after poll leading into the election and exit poll after exit poll leading out of it, the message from voters was the same: they think the economy sucks, they think prices are too high, and they’re angry at Trump and blame him squarely for this entire",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/2f64e167699f255069c42dc6.json"
+    },
+    {
+      "id": "259806f7f6f9156cb588fed1",
+      "title": "Reform Candidate Says UFCW Rep Tailed Him for 300 Miles to Thwart Petition Effort",
+      "url": "https://labornotes.org/2026/11/reform-candidate-says-ufcw-rep-tailed-him-300-miles-thwart-petition-effort",
+      "author": "Lisa Xu",
+      "source": "",
+      "published_at": "2026-11-04T21:46:27+00:00",
+      "content_excerpt": "In a union that has been headed by one family with no competitive elections since 1984, a group of grocery workers is organizing for change. But this week, they say, union staff who back the incumbent administration went to outrageous lengths in an attempt to make sure there’s no election this year either. On Monday afternoon, Eric Marcuz, a veteran Northern California Safeway worker, stopped at the union office to pick up blank petitions to get on the ballot in the union’s upcoming election. Marcuz is running for president on the At What Cost slate in the 23,000-member United Food and Commercial Workers (UFCW) Local 8-Golden State, one of the largest locals in the union. To get on the ballot, Marcuz and his slate-mates have to collect 443 petition signatures—2 percent of the local’s activ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/259806f7f6f9156cb588fed1.json"
+    },
+    {
+      "id": "a2fe3b2a05b58282628e9e3a",
+      "title": "California Election Results 2026: Statewide Races, Propositions and Los Angeles Returns",
+      "url": "https://www.laprogressive.com/election-and-campaigns/california-election-results-2026-statewide-races-propositions-los-angeles-mayor",
+      "author": "Sharon Kyle",
+      "source": "LA Progressive",
+      "published_at": "2026-11-04T20:20:49+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. California’s election returns present a mixed picture for the candidates and ballot positions listed in the LA Progressive November 2026 Voter Guide . Xavier Becerra holds a substantial statewide lead for governor, Jane Kim leads for insurance commissioner, and many congressional and legislative candidates in the guide are ahead. But several are trailing, and statewide voters are taking a different course from Los Angeles County on some major propositions. The distinction matters most for Proposition 4, concerning public campaign financing, and Proposition 40, the billionaire wealth tax. Both have more Yes than No votes in Los Angeles County. Both are trailing statewide. Th",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/a2fe3b2a05b58282628e9e3a.json"
+    },
+    {
+      "id": "35b54bebf284df3b05173738",
+      "title": "UAW Statement on John Deere Plans to Close Two Plants in Iowa",
+      "url": "https://uaw.org/uaw-statement-on-john-deere-plans-to-close-two-plants-in-iowa",
+      "author": "Justin Mayhugh",
+      "source": "UAW",
+      "published_at": "2026-11-04T20:06:35+00:00",
+      "content_excerpt": "The UAW is disgusted by John Deere’s latest attack on the working class of Iowa. The UAW will use every tool at our disposal, from our contract negotiations in 2027, to legislative and executive action, to keep good jobs in Iowa and stop the one-sided class war waged by John Deere. We are done seeing the massive profits our labor generates given away to Wall Street and our jobs being destroyed so some executive can make an extra buck. It’s time for America to come together to save John Deere from its own corporate greed, and fight back in the war on America’s factory workers.",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/35b54bebf284df3b05173738.json"
+    },
+    {
+      "id": "a4604e0bdeec29e4bd434677",
+      "title": "DSA Launches Arms Embargo Campaign",
+      "url": "https://democraticleft.dsausa.org/2026/11/04/dsa-launches-arms-embargo-campaign",
+      "author": "Democratic Left",
+      "source": "Democratic Left",
+      "published_at": "2026-11-04T19:25:14+00:00",
+      "content_excerpt": "The multi-pronged effort aims to stop the U.S. arms shipments to Israel that fuel the genocide in Gaza. The post DSA Launches Arms Embargo Campaign appeared first on Democratic Left .",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/a4604e0bdeec29e4bd434677.json"
+    },
+    {
+      "id": "c60c91014005f8b069092cbc",
+      "title": "Perilous Future of the Republic",
+      "url": "https://www.laprogressive.com/election-and-campaigns/perilous-future-of-the-republic",
+      "author": "Peter McLaren",
+      "source": "LA Progressive",
+      "published_at": "2026-11-04T17:45:12+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. American democracy is confronting a crisis that extends far beyond the personality, policies, or political ambitions of any single president. What is at stake is the historical meaning of democracy itself: whether a republic founded upon the promise of popular sovereignty can survive the concentration of executive power, the systematic weakening of institutional restraints, the mobilization of political resentment, and the transformation of public life into an arena of permanent ideological warfare. Donald Trump represents the culmination of political tendencies that have been developing within American society for decades. His presidency did not create every contradiction ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/c60c91014005f8b069092cbc.json"
+    },
+    {
+      "id": "a8a83476cf11e184d3441c8c",
+      "title": "The 1956 Hungarian Uprising Was a Working-Class Revolt",
+      "url": "https://jacobin.com/2026/11/hungary-ussr-1956-workers-uprising",
+      "author": "Adam Fabry",
+      "source": "Jacobin",
+      "published_at": "2026-11-04T17:33:00+00:00",
+      "content_excerpt": "On October 23, 1956, tens of thousands of Hungarians took to the streets of Budapest. What began as a demonstration led largely by students rapidly became a popular uprising against the country’s Stalinist government. Within days, the authority of the Hungarian Communist Party had crumbled, Soviet troops had been forced to withdraw, and workers across the country were establishing their own councils to organize production and exercise political power. The Soviet leadership called it a “counterrevolution,” while Western governments celebrated it as a “revolt against communism.” Both interpretations obscured something fundamental: the Hungarian Revolution was driven by workers and ordinary people who wanted to free themselves from a system that claimed to represent their interests. The upris",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/a8a83476cf11e184d3441c8c.json"
+    },
+    {
+      "id": "2b027b0751af5f69cee766e0",
+      "title": "Blue Wave Is Here",
+      "url": "https://www.laprogressive.com/election-and-campaigns/blue-wave-is-here",
+      "author": "William J. Astore",
+      "source": "LA Progressive",
+      "published_at": "2026-11-04T17:16:24+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. I woke to the news of a “blue wave” as Democrats regained control of the House and Senate by margins that few predicted. It was a resounding rebuke to the Trump and MAGA crowd, which can’t be a bad thing. But it isn’t a moment where, as the saying goes, we can all go back to brunch and let a Democrat-controlled Congress handle things. We have to stay involved, for the mess in Washington is very much a bipartisan one. The “new” House and Senate majority leaders will be Hakeem Jeffries and Chuck Schumer, corporate Democrats who support Zionist Israel and gleefully accept money and marching orders from AIPAC. That is unlikely to change much, as the power exercised by these men",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/2b027b0751af5f69cee766e0.json"
+    },
+    {
+      "id": "a45393cd08efc9436546b9e1",
+      "title": "OPINION: Understanding 2026 State Ballot Questions in Massachusetts",
+      "url": "https://working-mass.com/2026/11/03/opinion-understanding-2026-state-ballot-questions-in-massachusetts",
+      "author": "Working Mass: The Massachusetts DSA Labor Outlet",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-11-04T17:08:48+00:00",
+      "content_excerpt": "By: Central Mass & Worcester DSA The views expressed in this article are the authors’ own and do not represent the official position of Working Mass. Our goal in putting out this explainer is not mainly to convince you to vote one way or another. In fact, this explainer is not targeted only at voters. We want all working-class people to understand what a circus so much of this is and also where our real power lies. You’ll notice not all nine of this year’s ballot questions are here. Again, we don’t aim to offer a comprehensive set of voting instructions to guide you through voting for each question. This is not a voter guide. Instead, we hope this explainer will illuminate causes, solutions, and forces at play, and we see the ballot questions that we’ve selected as being well-suited to tha",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/a45393cd08efc9436546b9e1.json"
+    },
+    {
+      "id": "24f3be593683676300d5e24c",
+      "title": "Mandate Is Affordability",
+      "url": "https://www.laprogressive.com/election-and-campaigns/mandate-is-affordability",
+      "author": "Unai Montes-Irueste",
+      "source": "LA Progressive",
+      "published_at": "2026-11-04T17:01:38+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Before we’re buried in hot takes on what the midterms mean, here is what we know: no one can afford anything. The mandate of this election is that costs have to come down and wages have to go up. Voters told pollsters that the cost of living and government corruption weighed heavily on them , and they voted accordingly. Democrats won, and in historic fashion. The party is projected to hold at least 54 Senate seats after flipping seven Republican-held seats , and NBC News estimates Democrats will hold at least 258 House seats, the widest House margin in 33 years. Counts are still being finalized. The GOP could lose even more. But the Democratic Party writ large still has a n",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/24f3be593683676300d5e24c.json"
+    },
+    {
+      "id": "3b536271cd97763a6f41ce29",
+      "title": "We Need a Socialist Congressional Caucus",
+      "url": "https://jacobin.com/2026/11/democratic-party-congress-socialist-caucus-dsa",
+      "author": "Nick French",
+      "source": "Jacobin",
+      "published_at": "2026-11-04T16:35:16+00:00",
+      "content_excerpt": "With last night’s election results , it’s official: after new members are sworn in this coming January, socialists will hold more seats in Congress than they ever have in US history. Six freshmen congress members backed by the Democratic Socialists of America (DSA) — Claire Valdez and Darializa Avila Chevalier of New York, Chris Rabb of Philadelphia, Melat Kiros of Colorado, Donavan McKinney of Michigan, and Angela Gonzales-Torres of Los Angeles — are joining fellow DSA members Alexandria Ocasio-Cortez and Rashida Tlaib in the House of Representatives. Counting also Sen. Bernie Sanders, long a self-described democratic socialist though not officially affiliated with DSA, the United States will have nine socialist members of Congress. The new socialist legislators, all of whom ran on the De",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/3b536271cd97763a6f41ce29.json"
+    },
+    {
+      "id": "6420cb8418a72df33dc71cd7",
+      "title": "In the Midterms, America Rebuked Trump’s Authoritarianism",
+      "url": "https://jacobin.com/2026/11/midterms-trump-authoritarianism-election-democrats",
+      "author": "Ben Burgis",
+      "source": "Jacobin",
+      "published_at": "2026-11-04T16:35:16+00:00",
+      "content_excerpt": "Perhaps a more competent would-be despot than Donald Trump could have pulled it off. He could have consolidated his power gradually, choosing his battles against immigrants and the Left and imagined foreign adversaries wisely and making sure he didn’t alienate his existing base of support by keeping his finger on the pulse of American sentiment and staying in tune with the struggles of average people, like the high cost of living and the exhaustion with illegal foreign wars. We’ll never know. The reaction of the bulk of the American people to the cruelty and authoritarianism they’ve seen in the last two years has been abject disgust. And they have reacted positively to the pro-worker rhetoric of Bernie Sanders and the rising Left he has inspired. Candidate after candidate seemed to have fi",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/6420cb8418a72df33dc71cd7.json"
+    },
+    {
+      "id": "da536bbf6930729ff35bdaee",
+      "title": "Fight Against Gangster Capitalism",
+      "url": "https://www.laprogressive.com/election-and-campaigns/fight-against-gangster-capitalism",
+      "author": "Henry A. Giroux",
+      "source": "LA Progressive",
+      "published_at": "2026-11-04T16:26:38+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. With the Democratic Party’s landslide victory, a day of reckoning appears to have arrived for Trump and the far-right, white nationalist forces that have turned cruelty into a governing principle and hatred into a political language. Something has broken in the machinery of fear. The old fascist ideas, the politics of racial hatred, and the relentless assault on human dignity have encountered a moment of resistance. Too much suffering, too much misery, too much authoritarian violence. Too much blood in the streets, too many deaths, screams, and a deafening silence. Enough is enough, at least for the moment. The Trump regime has exposed some of the darkest impulses of politi",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/da536bbf6930729ff35bdaee.json"
+    },
+    {
+      "id": "ee94e1fcdcd187fc08df89e9",
+      "title": "Last Night’s Victories Were Made Possible by Zohran Mamdani",
+      "url": "https://jacobin.com/2026/11/mamdani-midterms-trump-affordability-socialists",
+      "author": "Corey Robin",
+      "source": "Jacobin",
+      "published_at": "2026-11-04T15:30:22+00:00",
+      "content_excerpt": "If there’s one person who saw yesterday’s repudiation of the right coming long before everyone else did, it’s Zohran Mamdani. In one way or another, he and the movement that created him are the architects of the Democrats’ victory. Two years ago, the day after the 2024 election, the mood was grim; the future was bleak. Nobody saw the possibility for regrouping. What did Mamdani do? Just one week after Donald Trump’s victory, he went out and interviewed Trump voters all across the city. He spoke to white, black, brown, Muslim, Asian, but above all working-class men and women and, above all, in the Bronx and Queens. Everyone now thinks of Mamdani’s victory a year later, first in the primary and then in the general election, as a foregone conclusion, a New York thing that had no meaning beyon",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/ee94e1fcdcd187fc08df89e9.json"
+    },
+    {
+      "id": "381cd0887f311be1549bc5b6",
+      "title": "The Donald Trump Era in American Politics Is Ending",
+      "url": "https://jacobin.com/2026/11/trump-republicans-midterms-defeat-pacs",
+      "author": "Paul Heideman",
+      "source": "Jacobin",
+      "published_at": "2026-11-04T14:35:42+00:00",
+      "content_excerpt": "The American people delivered an absolute rout against Donald Trump and the GOP last night. Here are five takeaways from the midterm results: 1. Trump Owns This Defeat Everything about this defeat points to a different way Donald Trump has weakened the Republican Party. In Texas and South Carolina, he pushed his preferred candidates, Ken Paxton and Darline Graham, for the Senate above the first choices of the state parties. Both were terrible candidates and terrible campaigners who made the Democrats’ job vastly easier. In Florida, he pushed an aggressive gerrymander that energized Democratic voters while failing to net any additional seats for Republicans. Nationwide, the nakedly criminal war on Iran combined with his refusal to even humor voters’ anger at the cost of living weighed down ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/381cd0887f311be1549bc5b6.json"
+    },
+    {
+      "id": "19b2d87016a776f3353bafb4",
+      "title": "UAW Members Successfully Oust Commissioner Responsible for 8-Month Strike in Lorain County, Ohio",
+      "url": "https://uaw.org/uaw-members-successfully-oust-commissioner-responsible-for-8-month-strike-in-lorain-county-ohio",
+      "author": "Justin Mayhugh",
+      "source": "UAW",
+      "published_at": "2026-11-04T05:21:35+00:00",
+      "content_excerpt": "After months of organizing that began in July, the UAW has helped oust Lorain County Commissioner Jeff Riddell, who refused to settle a fair contract with striking Lorain County Job and Family Services workers. Frustrated by his resistance to good-faith negotiations, the union shifted its fight from the bargaining table to the voting booth, reaching ten thousand doors of UAW members across Lorain County to turn out the vote for Riddell’s opponent, Carolyn White. “Our members put in the work to ensure elected officials are held accountable to the voters they serve,” said UAW Region 2B Director Dave Green. “UAW members stayed focused on making sure county, state, and federal governments work to make people’s lives better, not harder. When elected officials fail working people, UAW members ha",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/19b2d87016a776f3353bafb4.json"
+    },
+    {
+      "id": "49384a494da18fcaab84902a",
+      "title": "National Park Signs",
+      "url": "https://www.laprogressive.com/progressive-culture/national-park-signs",
+      "author": "Robert Ito",
+      "source": "LA Progressive",
+      "published_at": "2026-11-04T04:56:46+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. In January, park rangers removed 34 interpretive panels from a slavery exhibit at Independence National Historical Park in Philadelphia. The signs, which described the lives of the nine people George Washington enslaved at the presidential residence there, were unceremoniously taken down — in some cases leaving the dried glue in place — to comply with President Donald Trump’s Executive Order 14253 , titled “Restoring Truth and Sanity to American History.” The order calls for the removal of signs that “inappropriately disparage Americans past or living” from the country’s national parks. Apparently, telling visitors about our first president’s slaves ran afoul of that. When ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/49384a494da18fcaab84902a.json"
+    },
+    {
+      "id": "a21bed18d28a2a4d0111fad1",
+      "title": "The Truth About Haiti's \"Gangs\" --US Guns. UN Troops. Blackwater Drones | Dr. Jemima Pierre",
+      "url": "https://www.blackagendareport.com/truth-about-haitis-gangs-us-guns-un-troops-blackwater-drones-dr-jemima-pierre",
+      "author": "bareditors",
+      "source": "Black Agenda Report",
+      "published_at": "2026-11-04T04:47:23+00:00",
+      "content_excerpt": "The Truth About Haiti's \"Gangs\" --US Guns. UN Troops. Blackwater Drones | Dr. Jemima Pierre bareditors Wed, 11/04/2026 - 09:41 Jemima Pierre, BAR Editor and Contributor Jamarl Thomas",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/a21bed18d28a2a4d0111fad1.json"
+    },
     {
       "id": "e92d4aa290869e52d9870911",
       "title": "Weekly Roundup: November 3, 2026",
@@ -36,276 +306,6 @@
       "priority": 1,
       "date_missing": false,
       "article_path": "articles/3946cb21aaea96e91c1cfcb9.json"
-    },
-    {
-      "id": "58cf231c9ed43acf52ece076",
-      "title": "States Legalize Online Casinos",
-      "url": "https://www.laprogressive.com/sponsored/states-legalize-online-casinos",
-      "author": "Britta Hedlund",
-      "source": "LA Progressive",
-      "published_at": "2026-11-03T21:05:56+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. State budgets are tight again. Legislators want new money that does not arrive as a new income tax. Online casino games, usually called iGaming, keep surfacing as an answer. A bill appears, an industry coalition promises a revenue windfall, and advocates start asking who will actually be paying. The product under debate already sits on every phone, licensed or not. One example, meant only for adults where online gambling is lawful, is a Thai-language roundup of บาคาร่า websites, cited as an illustration and not an endorsement. Legal status depends on the map. A few countries grant private licenses, others keep online casinos inside a government monopoly, and many prohibit t",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/58cf231c9ed43acf52ece076.json"
-    },
-    {
-      "id": "5bd771c8825e1b992b18d845",
-      "title": "Fails to Disclose Income During Divorce",
-      "url": "https://www.laprogressive.com/sponsored/fails-to-disclose-income-during-divorce",
-      "author": "Sejal Desai",
-      "source": "LA Progressive",
-      "published_at": "2026-11-03T20:55:53+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Divorce requires both spouses to provide accurate financial information so that courts can make informed decisions about property division, child support, and spousal maintenance. When one spouse conceals earnings, understates business income, or fails to disclose financial resources, the consequences can extend beyond an unfair settlement. Deliberate financial dishonesty may lead to court sanctions, additional legal expenses, and the reopening of certain financial decisions. Income disclosure is particularly important when one spouse earns substantially more than the other or controls a business with complicated financial records. Without reliable information, the financia",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/5bd771c8825e1b992b18d845.json"
-    },
-    {
-      "id": "44691634c4543887be265a16",
-      "title": "Catastrophic Injury",
-      "url": "https://www.laprogressive.com/sponsored/catastrophic-injury",
-      "author": "Tiqua Jackson",
-      "source": "LA Progressive",
-      "published_at": "2026-11-03T20:44:21+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. A serious accident can change someone's life in an instant. Whether the incident involves a car collision, workplace accident, medical error, or dangerous property condition, the resulting injuries may require extensive treatment and months of recovery. However, not all severe injuries have the same long-term consequences. In personal injury law, the terms serious injury and catastrophic injury are often used to describe different levels of physical harm. Although both can involve substantial medical expenses, pain, and lost income, catastrophic injuries generally cause permanent or long-lasting impairments that fundamentally affect a person's independence and quality of li",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/44691634c4543887be265a16.json"
-    },
-    {
-      "id": "fd117f856b36f63e6fbbb53b",
-      "title": "Beyond Academic Credentials",
-      "url": "https://www.laprogressive.com/sponsored/beyond-academic-credentials",
-      "author": "Britta Hedlund",
-      "source": "LA Progressive",
-      "published_at": "2026-11-03T20:31:45+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. A prestigious law degree and strong academic performance can help an attorney secure an interview, but they rarely tell the complete story of a candidate's professional potential. Today's law firms increasingly evaluate qualities that extend beyond transcripts, law school rankings, and traditional credentials. Practical experience, communication skills, business judgment, and the ability to build lasting client relationships often influence hiring decisions just as much as educational achievements. As the legal profession adapts to technological developments, changing client expectations, and evolving workplace priorities, firms must identify attorneys who can contribute to",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/fd117f856b36f63e6fbbb53b.json"
-    },
-    {
-      "id": "ad7da943394bb1a29ded2bce",
-      "title": "Trumpism Is Running Out of Gas",
-      "url": "https://jacobin.com/2026/11/midterms-defeat-trumpism-maga-populism",
-      "author": "Luke Savage",
-      "source": "Jacobin",
-      "published_at": "2026-11-03T20:29:20+00:00",
-      "content_excerpt": "I have no special insight into what the exact outcome of this yearʼs midterm elections is going to be. It would be absolutely astonishing if Democrats failed to take the House, and the latest NY/Sienna poll has the Democrats leading in all seven of the races that will determine control of the Senate. This includes nonnegligible edges in both Texas and Kansas, the latter of which hasnʼt elected a Democratic senator since the early 1930s. In Michigan, which has been getting a great deal of attention for obvious reasons , Democratic candidate Abdul El-Sayed boasts a double digit lead, and several key gubernatorial races look to be leaning the same way. Donald Trumpʼs approval rating, meanwhile, is catastrophically low and has been dropping steadily. If Democrats donʼt make considerable gains ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/ad7da943394bb1a29ded2bce.json"
-    },
-    {
-      "id": "b1d4d8d7550ec18930d6fcc9",
-      "title": "Drug Sentencing Laws",
-      "url": "https://www.laprogressive.com/sponsored/drug-sentencing-laws",
-      "author": "Tiqua Jackson",
-      "source": "LA Progressive",
-      "published_at": "2026-11-03T20:23:47+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Facing a drug charge for the first time can create considerable uncertainty about the future. Individuals with no previous criminal convictions may assume that their lack of a record will protect them from serious penalties. However, drug sentencing laws vary widely, and even a first offense can result in substantial fines, probation, or incarceration, depending on the circumstances. Courts generally consider several factors when determining sentences for drug offenses, including the type and quantity of controlled substance, the nature of the alleged conduct, and the defendant's criminal history. Some first-time offenders may qualify for diversion programs or alternative s",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/b1d4d8d7550ec18930d6fcc9.json"
-    },
-    {
-      "id": "d6f4c2f429c390e3f8bb9b76",
-      "title": "Workers’ Compensation Claim Is Denied",
-      "url": "https://www.laprogressive.com/sponsored/workers-compensation-claim-is-denied",
-      "author": "Sejal Desai",
-      "source": "LA Progressive",
-      "published_at": "2026-11-03T20:15:31+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. A workplace injury can leave employees facing medical bills, lost wages, and uncertainty about their financial future. Workers’ compensation insurance is designed to provide benefits to eligible employees who suffer job-related injuries or illnesses. However, receiving those benefits is not always straightforward, and some workers discover that their claims have been denied. A denial can be particularly stressful when an employee cannot return to work or requires ongoing medical treatment. Fortunately, a rejected claim does not necessarily mean the worker has exhausted their options. Many states provide procedures for challenging unfavorable decisions, submitting additional",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/d6f4c2f429c390e3f8bb9b76.json"
-    },
-    {
-      "id": "3c4a29064123575bac5819a0",
-      "title": "Reduce Tire Waste",
-      "url": "https://www.laprogressive.com/sponsored/reduce-tire-waste",
-      "author": "Britta Hedlund",
-      "source": "LA Progressive",
-      "published_at": "2026-11-03T19:56:43+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Drivers can reduce tire waste by preventing premature wear, buying suitable replacements when needed and arranging responsible collection for the old set. Start with maintenance and a clear replacement quote rather than paying extra for a vague environmental label. The aim is to get the full safe service life from a tire, then keep it out of unmanaged waste streams. For a household that relies on a car for work, school or caregiving, an unexpected tire bill can disrupt the month’s budget. Environmental advice has to account for that reality. Choices at the service counter matter, but so do the manufacturing decisions and collection systems that drivers cannot control. A pra",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/3c4a29064123575bac5819a0.json"
-    },
-    {
-      "id": "4ff6b01475edf109e5212aa7",
-      "title": "Halloween Streetwear Sale",
-      "url": "https://www.laprogressive.com/sponsored/halloween-streetwear-sale",
-      "author": "Tiqua Jackson",
-      "source": "LA Progressive",
-      "published_at": "2026-11-03T19:42:18+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Halloween is more than costumes and decorations. For many streetwear fans, it is also a chance to experiment with darker colours, bold graphics, oversized layers, and statement pieces. As Halloween approaches, the right outfit can help create a strong look without feeling uncomfortable or overly complicated. This season, the combination of Saint Michael Clothing and Chrome Hearts Clothing offers plenty of inspiration for people who enjoy expressive streetwear. From graphic hoodies and relaxed shirts to layered outfits and darker everyday pieces, these styles can work for Halloween events as well as regular autumn and winter outfits. With Halloween sales also becoming a popu",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/4ff6b01475edf109e5212aa7.json"
-    },
-    {
-      "id": "281ca9fb1717b6be9bfc6a52",
-      "title": "A Fight for Workers’ Rights Turned the Tide in Brazil",
-      "url": "https://jacobin.com/2026/11/brazil-hilton-lula-workweek-campaign",
-      "author": "Cruz Bonlarron Martínez",
-      "source": "Jacobin",
-      "published_at": "2026-11-03T18:23:36+00:00",
-      "content_excerpt": "As Brazilian President Luiz Inácio Lula da Silva celebrated his historic victory over far-right candidate Flávio Bolsonaro on Sunday, he embraced trans congresswoman Erika Hilton and kissed her on the cheek in celebration. The video circulated on social media, with many users pointing to it as evidence of Brazil’s acceptance of trans identity and the key role that the LGBTQ+ community plays within Lula’s coalition. It is important to note that Hilton and other LGBTQ+ politicians are more than simply a piece of a diverse coalition. They are the force behind a piece of legislation that will reduce the Brazilian workweek from forty-four to forty hours, a historic achievement that contributed to Lula’s victory and helped keep fascism at bay. Life Beyond Work One day in 2023, after finishing hi",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/281ca9fb1717b6be9bfc6a52.json"
-    },
-    {
-      "id": "cfde05d2a1b871cab64e88b6",
-      "title": "Iowa Locals Prevail in Recertification Elections",
-      "url": "https://www.ueunion.org/ue-news/2026/iowa-locals-prevail-in-recertification-elections",
-      "author": "",
-      "source": "UE NEWS Updates | UE",
-      "published_at": "2026-11-03T17:30:53+00:00",
-      "content_excerpt": "Two UE locals prevailed in “recertification” elections covering four public-sector bargaining units in October. The elections are required by the punitive anti-union law passed by Iowa Republicans in 2017. Public-sector unions are required to win votes from a majority of the bargaining unit, not just those voting — a standard that few if any politicians could meet. The law not only requires recertification elections every two years, it also severely limits what unions can bargain over: wages are the only mandatory subject of bargaining — meaning it is the only issue that can be taken to arbitration. Arbitration awards for wages are capped at inflation, which makes it essentially impossible for workers to get ahead. Although the law was designed to destroy public-sector unions entirely, UE ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/cfde05d2a1b871cab64e88b6.json"
-    },
-    {
-      "id": "91776f1e13b742e82db06f37",
-      "title": "Another Detroit Socialist Is Heading to Congress",
-      "url": "https://jacobin.com/2026/11/mckinney-detroit-democratic-socialism-congress",
-      "author": "Donavan McKinney",
-      "source": "Jacobin",
-      "published_at": "2026-11-03T17:18:06+00:00",
-      "content_excerpt": "In 2018, the election of two democratic socialists to the House of Representatives marked the beginning of a new political era. The socialist freshmen, both endorsed by the recently reinvigorated Democratic Socialists of America (DSA), were Alexandria Ocasio-Cortez from New York City and Rashida Tlaib, representing Michigan’s Twelfth Congressional District in Detroit. Eight years later, DSA boasts more than 120,000 members and politicians in elected offices across the country. And after a wave of Democratic primary victories earlier this year, democratic socialists are set to significantly grow their foothold in Congress in today’s general election. Among the likely socialist victors is Donavan McKinney, who is expected to win easily in Michigan’s deep-blue Thirteenth District in Detroit a",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/91776f1e13b742e82db06f37.json"
-    },
-    {
-      "id": "94f65474b9d8c61ed6b47046",
-      "title": "Trump Is Tearing It Apart",
-      "url": "https://www.laprogressive.com/progressive-issues/trump-is-tearing-it-apart",
-      "author": "Ted Vaill",
-      "source": "LA Progressive",
-      "published_at": "2026-11-03T16:31:13+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. For the past almost 70 years, I have been involved in politics, starting in 1957 when as a high school student I published in a national environmental magazine an article that called the U.S. national parks “America’s Wilderness Slums”. To his credit, President Eisenhower fixed this problem, which, of course, Trump is bringing back.As we reach the 2026 Midterms, I have the following random thoughts: We have to make sure that we never again have a President as morally corrupt and evil as Donald Trump. How do we do this? The Republican Party (I used to be a member) has to be destroyed or neutered so much by the voters that it changes its ways and returns to be the party it wa",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/94f65474b9d8c61ed6b47046.json"
-    },
-    {
-      "id": "a278fcf07c386f6f1293b3d0",
-      "title": "Life Beneath the Melting Glaciers",
-      "url": "https://jacobin.com/2026/11/pakistan-climate-change-glaciers-flooding",
-      "author": "Jaclynn Ashly",
-      "source": "Jacobin",
-      "published_at": "2026-11-03T16:19:17+00:00",
-      "content_excerpt": "Bulbul Kaie remembers when summer in Hassanabad revolved around a stream. The village lies in the mountains of Gilgit-Baltistan, a disputed territory in northern Pakistan bordering China, Afghanistan, and Indian-administered Kashmir. Kaie’s family would carry chairs down to the stream fed by meltwater from the glaciers above, where a cold breeze rose from the water. They would spend afternoons on its bank among orchards heavy with apricots and cherries. “We would sit together, drink tea, and enjoy the sound of the stream until it got dark,” recounts the mother of four. “We used to look forward to summer. The sound of the water made us feel calm.” Now summer brings dread. “We fear what will happen each year,” the fifty-year-old says. Pakistan has more than thirteen thousand glaciers, one of",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/a278fcf07c386f6f1293b3d0.json"
-    },
-    {
-      "id": "e8a1f0fef95e15165b081fd5",
-      "title": "The Politics of Winning",
-      "url": "https://www.dsacleveland.org/the-politics-of-winning",
-      "author": "Cleveland DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-11-03T16:19:04+00:00",
-      "content_excerpt": "by Justin W. What does it mean to win? Why do you want to win? What are you willing to do to answer those two questions? For years, the Democratic Party has taken the position that “winning” is all that matters. As a Marxist, I argue that the reason Democrats run for office is to get into office; no more, no less. Power for the sake of power. At times we will see some platitudes, some rhetoric about making the world better, but we rarely see any movement on issues or legislation that will materially affect our lives. Nothing can be done because Democrats need to win the next election and can’t alienate anyone; but also no one else can take power to do anything because they won’t “win.” Since 2016 the Democratic Party has been the party of “No Trump” and, while trying to be a bulwark agains",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/e8a1f0fef95e15165b081fd5.json"
-    },
-    {
-      "id": "ef6c8d8905c69829ad23ea11",
-      "title": "Preposterous Lawsuit At PBS",
-      "url": "https://www.laprogressive.com/the-media-in-the-united-states/-preposterous-lawsuit-at-pbs",
-      "author": "Paul deLespinasse",
-      "source": "LA Progressive",
-      "published_at": "2026-11-03T16:11:19+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Students and alumni at Lincoln University are suing Missouri for about $549 million. Their lawsuit claims that the state underfunded Lincoln—an HBCU (Historically Black College and University)—compared with the University of Missouri. The PBS News Hour on October 20 th devoted eight minutes to the lawyer who brought this case, but did not interview anyone on the other side. This is too bad, because the lawsuit is preposterous when held up to American constitutional traditions and law. Of course the PBS News Hour has no duty to present the other side of every issue. Often the best it could get would be some crackpot on whom it should not waste valuable air time. But I would ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/ef6c8d8905c69829ad23ea11.json"
-    },
-    {
-      "id": "c5d279ea5a53a0820c793b25",
-      "title": "Keep Losing Wars",
-      "url": "https://www.laprogressive.com/war-and-peace/keep-losing-wars",
-      "author": "Tom Engelhardt",
-      "source": "LA Progressive",
-      "published_at": "2026-11-03T15:51:40+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Honestly, it’s hard to believe that, once upon a distant time, I was born into an America still fighting a world war. No, it wasn’t World War I! I’m not quite that old! My actual birthdate was July 20, 1944, while World War II was still ongoing. And though it ended in August 1945, in some strange sense, American-style war has never truly ended. Stranger yet, despite my country’s endless warmaking since then, the global war that concluded more than 80 years ago was the last truly victorious one this country has fought. In the decades since 1945, the U.S. did indeed emerge as the world’s greatest power (along with the Soviet Union, which, of course, collapsed in 1991). And li",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/c5d279ea5a53a0820c793b25.json"
-    },
-    {
-      "id": "40139f6e321b3ca9cb23cc20",
-      "title": "Red Sea War Economy",
-      "url": "https://www.laprogressive.com/foreign-policy/red-sea-war-economy",
-      "author": "Vijay Prashad",
-      "source": "LA Progressive",
-      "published_at": "2026-11-03T15:22:20+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Sudan’s war is usually described as an African catastrophe, Yemen’s as an Arabian conflict, and the war around Iran as a Gulf crisis. Such divisions obscure the movement of weapons, money, soldiers, and commercial interests between them. Looking Look from Africa’s Red Sea coast,coast and another picture emerges. These wars have distinct origins, but they increasingly sustain one another through military patronage, competition over ports, and the destruction of civilian livelihoods. The starting point must be Sudan’s people. The World Food Programme currently estimates that 19.5 million face acute hunger, while around 8.6 million are internally displaced. It reports that sor",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/40139f6e321b3ca9cb23cc20.json"
     }
   ]
 }
