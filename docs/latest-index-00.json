@@ -1,311 +1,311 @@
 {
-  "generated_at": "2026-11-06T00:29:23.752165+00:00",
-  "generated_at_jst": "2026-11-06T09:29:23.752165+09:00",
-  "period_start": "2026-11-04T18:29:23.752165+00:00",
+  "generated_at": "2026-11-06T23:46:31.638893+00:00",
+  "generated_at_jst": "2026-11-07T08:46:31.638893+09:00",
+  "period_start": "2026-11-05T17:46:31.638893+00:00",
   "lookback_hours": 30,
   "folder": "00_毎日確認",
   "article_count": 20,
   "excerpt_chars": 800,
   "articles": [
     {
-      "id": "5ced656b49f4f1fba0768d56",
-      "title": "America’s Wealth Inequality Crisis: Why Tax Cuts Won’t Fix the Economy",
-      "url": "https://www.laprogressive.com/economic-equality/americas-wealth-inequality-crisis",
-      "author": "Charles D. Hayes",
+      "id": "0784040f0815fe6b49a2a83c",
+      "title": "Pension Is Wall Street's Casino",
+      "url": "https://www.laprogressive.com/economic-equality/pension-is-wall-streets-casino",
+      "author": "Ellen Brown/Web of Debt",
       "source": "LA Progressive",
-      "published_at": "2026-11-05T23:28:59+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. We have a monumental math problem in America, and what is broken cannot be repaired by tinkering around the edges. The Jurassic Republicans were right about one thing: There is no free lunch. But they were mistaken in believing there is such a thing as a truly free market. Every economic transaction depends on infrastructure, education, public safety, environmental protection, and countless other necessities that markets cannot simply conjure out of thin air. Yet the prices we pay for goods and services seldom reflect their full costs to society. The Hidden Costs of the “Free Market” Environmental degradation, pollution, public health consequences, and the depletion of natu",
+      "published_at": "2026-11-06T23:13:55+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. “Most billionaires don’t park their money in making more businesses. They park their money in the stock market. That is not meaningfully investing in opportunity, it’s just investing in other billionaires.” So said Abdul El-Sayed , U.S. Senator-elect from Michigan. He said that he would rather “have an economy that makes a thousand millionaires than one billionaire,” and that money that would otherwise go into the S&P 500 should go instead to “good schools, good infrastructure, health care, child care.” It’s a laudable sentiment, but those thousand millionaires would probably still be parking their money in investments designed to make more money without producing anything.",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/5ced656b49f4f1fba0768d56.json"
+      "article_path": "articles/0784040f0815fe6b49a2a83c.json"
     },
     {
-      "id": "5a4edae18396ea1fae8a30fa",
-      "title": "The UAW Bet on Abdul El-Sayed and Won",
-      "url": "https://jacobin.com/2026/11/uaw-michigan-el-sayed-fain-democrats",
-      "author": "Alex N. Press",
+      "id": "1dbae3a5110740020e9b88f5",
+      "title": "Remembering Dolores Huerta (1930-2026)",
+      "url": "https://religioussocialism.org/remembering-dolores-huerta-1930-2026",
+      "author": "DSA Religion and Socialism Working Group",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-11-06T21:25:04+00:00",
+      "content_excerpt": "Dolores Huerta , who died on October 28 at the age of 96, was an honorary chair of DSA from 2012-2016. But her involvement with our organization went back as far as being a speaker at a 1975 convention of one of DSA’s predecessor organizations. My wife, Dolores Delgado-Campbell, and I met her even earlier,when we were co-chairs of the United Farm Workers (UFW) lettuce boycott committee in Sacramento. We entered the fray in 1972 when the corrupt leadership of the Teamsters Union signed sweetheart contracts with grape growers, committing one of the worst examples of union betrayal in U.S. history. These contracts effectively ended the grape strike of mostly Mexican American and Filipino workers that many churches and synagogues had supported. Working with Dolores and the UFW for the next dec",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/1dbae3a5110740020e9b88f5.json"
+    },
+    {
+      "id": "1f4eb4e86ac32ac64aa3a255",
+      "title": "Israel’s Shaky Democracy Continues to Crumble",
+      "url": "https://jacobin.com/2026/11/israel-democracy-palestinians-apartheid-netanyahu",
+      "author": "Jared Hillel",
       "source": "Jacobin",
-      "published_at": "2026-11-05T21:58:37+00:00",
-      "content_excerpt": "Three Rivers, Michigan, is a factory town in a county where Donald Trump won 66.2 percent of the vote in 2024. Its biggest employer is American Axle, whose workers belong to United Auto Workers (UAW) Local 2093. In 2008, the company demanded major concessions, arguing that it needed lower labor costs to remain competitive and keep the plant open. Workers spent nearly three months on strike before accepting a contract that halved some workers’ pay, from $29 an hour to $14.50. The plant survived, but by this spring, production workers still topped out at only $22 an hour. Workers spent years trying to recover what they had lost. Yet when members voted to authorize a strike in 2021, the international union did not support them walking out, according to Rosemary Dodge, a machine operator and t",
+      "published_at": "2026-11-06T18:19:29+00:00",
+      "content_excerpt": "In July 1950, speaking at the annual Zionist Organization of America convention, US Vice President Alben W. Barkley asserted that Israel was “an oasis of liberty in the desert of despotism,” articulating a precursor to the oft-repeated adage “Israel is the only democracy in the Middle East.” While the expression cannot be traced to a singular person, the sentiment that Israel — a nation with free elections and civil liberties — stands alone amid a sea of authoritarian regimes has been cultivated by Western institutions and Israeli leaders since the state was founded. From the outset, Israel’s earliest laws legalizing persecution against Palestinians showed the incompatibility between Jewish supremacy and democracy. But the subjugation of one group is rarely self-contained, and throughout h",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/5a4edae18396ea1fae8a30fa.json"
+      "article_path": "articles/1f4eb4e86ac32ac64aa3a255.json"
     },
     {
-      "id": "1f1c8c5ddca8f5f23ac8a341",
-      "title": "The Democratic Coalition Still Has a Class Problem",
-      "url": "https://jacobin.com/2026/11/midterms-democrats-class-dealignment-workers",
+      "id": "134ed85e5f8253719613f9b2",
+      "title": "Medi-Cal Crisis Deepens",
+      "url": "https://www.laprogressive.com/healthcare/medi-cal-crisis-deepens",
+      "author": "Mark Kreidler",
+      "source": "LA Progressive",
+      "published_at": "2026-11-06T18:14:36+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. I met Rena Salamacha last summer, when the worst of H.R. 1’s cuts to federal Medicaid funding weren’t yet finalized, only feared. Salamacha, CEO of Mee Memorial Healthcare System in Monterey County, knew then that the system’s medical center in King City, serving rural and mostly low income patients, was already in trouble. “We don’t have services to cut,” the CEO said simply. More than a year later, that remains the reality. After all the shouting over Prop. 40, and the massive investment of time and money by California’s billionaire class to defeat the tax , the state’s fragile health care ecosystem is in the same place it was last week: trying, as Salamacha tries every w",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/134ed85e5f8253719613f9b2.json"
+    },
+    {
+      "id": "df4dd09cf95fec303e1dbeb0",
+      "title": "Austerity Is Now the Central Conflict in Brazilian Politics",
+      "url": "https://jacobin.com/2026/11/brazil-lula-bolsonaro-austerity-classes",
+      "author": "André Singer",
+      "source": "Jacobin",
+      "published_at": "2026-11-06T17:09:42+00:00",
+      "content_excerpt": "On October 4, Senator Flávio Bolsonaro, the son of former president Jair Bolsonaro, finished the first round of Brazil’s presidential election nearly two points ahead of President Luiz Inácio Lula da Silva. Three weeks later, Lula turned the result around and won a fourth term in the October 25 runoff. In between, left-led demonstrations filled the streets of hundreds of Brazilian cities. The government also banned online betting, backed a forty-hour workweek, and raised the benefit of Bolsa Família, the cash-transfer program for poor families that Lula created in 2003. Few analysts know Lula’s political project better than André Singer. A professor of political science at the University of São Paulo, Singer served as Lula’s spokesperson from 2003 to 2007 and press secretary from 2005 to 2",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/df4dd09cf95fec303e1dbeb0.json"
+    },
+    {
+      "id": "fea7b0dcb7c5509c8ff7a0b7",
+      "title": "Equality Is About Who Rules",
+      "url": "https://jacobin.com/2026/11/anderson-philosophy-egalitarianism-workplace-tyranny",
+      "author": "Matt McManus",
+      "source": "Jacobin",
+      "published_at": "2026-11-06T17:00:12+00:00",
+      "content_excerpt": "There is a complex debate about the extent to which socialists prioritize equality above the full flowering of each person’s individuality. But you’d have to be quite the contrarian to deny that socialists take equality very seriously; perhaps more seriously than any other major political ideology. Prominent socialist thinkers like G. A. Cohen and Thomas Piketty have dedicated much of their work to defending the philosophical and economic merits of egalitarianism. Socialist Martin Luther King’s “I Have a Dream” speech put equality at the core of his vision: “that one day this nation will rise up and live out the true meaning of its creed: ‘We hold these truths to be self-evident, that all men are created equal.’” That said, the commitment of socialists and other egalitarians to equality ca",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/fea7b0dcb7c5509c8ff7a0b7.json"
+    },
+    {
+      "id": "65f252b59ccf06d9d6766cf1",
+      "title": "Ok, Now Don’t F**k It Up!",
+      "url": "https://www.laprogressive.com/election-and-campaigns/ok-now-dont-f-k-it-up",
+      "author": "Ted Vaill",
+      "source": "LA Progressive",
+      "published_at": "2026-11-06T16:59:20+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. A few days ago, before the Midterm election, I was hoping for, but not really expecting, a Blue Wave. But we now clearly have a Blue Tsunami - Democrats will be in the majority, by a large margin, in both houses of Congress and a have a strong majority of governors, and in all the largest states except Florida. All the “battleground” states now have Democratic governors and the “trifecta” of the governor and both houses of the legislature. There is also a chance that next year the Interstate Compact will become law (it needs passage from states with a total of 48 more electoral votes), and if this happens the 2028 Presidential election will be decided by the U.S. popular vo",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/65f252b59ccf06d9d6766cf1.json"
+    },
+    {
+      "id": "92fac3185f48db29bf8f0dcf",
+      "title": "Fear of ICE",
+      "url": "https://www.laprogressive.com/immigration-reform/fear-of-ice",
+      "author": "Jeremy Lindenfeld, Reia Li",
+      "source": "LA Progressive",
+      "published_at": "2026-11-06T16:31:40+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Last June, Job Garcia — a U.S. citizen — was tackled to the ground by federal immigration agents while he was filming an ICE raid at a Home Depot in Hollywood. Yesterday, Garcia cast his ballot for the midterm elections at a church less than two miles from where he was arrested, overcoming his fears that ICE agents might show up at the polls. “I’ve been looking forward to this day since what happened to me last year,” said Garcia, 38, who was detained for 25 hours after being arrested last summer. “While there isn’t an ICE policy directly on the ballot … It’s a very intentional vote that I’m making to hopefully shift the power over to individuals that are going to help make",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/92fac3185f48db29bf8f0dcf.json"
+    },
+    {
+      "id": "8a5abee72dde25a11c60b8fc",
+      "title": "Democrats Won",
+      "url": "https://www.laprogressive.com/election-and-campaigns/democrats-won",
+      "author": "Chuck Yates",
+      "source": "LA Progressive",
+      "published_at": "2026-11-06T16:07:05+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. I was pretty depressed when Donald Trump won a second term in 2024, and Republicans secured control of both houses. I knew life was about to get really awful for a lot of people. But I also knew that it was the midterm election in 2026 would determine just how awful, how depressing. Now that election is over, and the big blue wave the pollsters and pundits promised has washed away the MAGA majority, the United States will be in the care of lawmakers who will prefer principle over party and people over politics—or so we may hope. Here in Idaho, with five Republican voters for every Democrat, it’s no surprise that everything stayed bright red. Republican incumbents were reele",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/8a5abee72dde25a11c60b8fc.json"
+    },
+    {
+      "id": "74b8616bd65636ef913ede56",
+      "title": "Working-Class Democratic Candidates Won Big in the Midterms",
+      "url": "https://jacobin.com/2026/11/midterms-working-class-candidates-congress",
       "author": "Jared Abbott",
       "source": "Jacobin",
-      "published_at": "2026-11-05T19:58:07+00:00",
-      "content_excerpt": "Democrats won a massive victory in the 2026 midterms, performing so well that Republicans’ best-laid gerrymandering plans actually backfired in a number of states, most notably Texas and North Carolina . There, Democrats held most of the seats Republicans had targeted and even flipped some districts drawn to be safely Republican. Democrats flipped Senate seats in places like Texas, Kansas, and South Carolina that were considered virtually unimaginable reaches in the very recent past. That’s of course very good for the party, and, I would hasten to add, for our fight against the ever-present threat of the far right. But Democrats’ stunning upset also brings a strong temptation for moderates and progressives alike: to read the result as proof that the party has finally turned the corner with",
+      "published_at": "2026-11-06T15:57:02+00:00",
+      "content_excerpt": "In January, a logger from Maine’s North Woods will take a seat in the US Senate. Troy Jackson spent his adult life cutting timber before he ran for office, and he will be the only Senate Democrat whose working life before politics was spent mostly in a working-class job. But he won’t be alone on Capitol Hill. Across the House, a union ironworker from suburban Cleveland, a Bethlehem firefighter, a Wisconsin waitress, an emergency room nurse, a Montana smoke jumper, a Rochester math teacher, and a former Trader Joe’s worker from Queens are heading to Washington too. By my count, twenty-one Democrats in the next Congress will have spent at least half of their working lives before politics in working-class jobs. Today there are just twelve. Working-class Democrats will still represent a woeful",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/1f1c8c5ddca8f5f23ac8a341.json"
+      "article_path": "articles/74b8616bd65636ef913ede56.json"
     },
     {
-      "id": "1337ebf5cd2eb6f45f924b5c",
-      "title": "Spanish Tenants Have Had Enough",
-      "url": "https://democraticleft.dsausa.org/2026/11/05/spanish-tenants-have-had-enough",
+      "id": "657351e907a36a2abeed1dff",
+      "title": "Steward’s Corner: Rethink the Scripted ‘Ask’",
+      "url": "https://labornotes.org/2026/10/stewards-corner-rethink-the-scripted-ask",
+      "author": "Ellen David Friedman",
+      "source": "",
+      "published_at": "2026-11-06T15:29:49+00:00",
+      "content_excerpt": "You’re having a conversation with a co-worker, but inside you’re feeling icy dread. You’re talking through a script that ends with asking them to do a specific thing: sign a union card, wear a button, come to a meeting, vote for a strike. And sure enough, when you ask, a wall comes down. The co-worker looks away, makes an excuse, and pins you as someone who is after something. You’re disappointed, confused about why it didn’t work, and afraid you’re not going to meet your goal. Many of us feel nervous or awkward about asking a co-worker to do something. Sometimes we just need to push ourselves to do it. But if you’re being pressured to follow the script and get to a particular “ask” without finding out who this person is and moving at their pace, that’s a problem. A co-worker you don’t yet",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/657351e907a36a2abeed1dff.json"
+    },
+    {
+      "id": "e78d7d5e94208d886cdb89e2",
+      "title": "Trump Hurt Average Americans, So They Voted Against the GOP",
+      "url": "https://jacobin.com/2026/11/trump-republicans-midterms-populism-elitism",
+      "author": "Branko Marcetic",
+      "source": "Jacobin",
+      "published_at": "2026-11-06T14:48:12+00:00",
+      "content_excerpt": "You didn’t even have to look at the numbers on Wednesday to know the election was a rout. You could have just guessed it by the fact that Donald Trump didn’t deny the results, call the whole thing “rigged,” or vow to fight the cheaters to the bitter end. Instead he meekly congratulated the Democrats, insisted none of it was his fault, and offered to work with his opposition before getting back to the truly important work of his ballroom . In a two-week period that saw right-wing leaders across the world refuse to concede and try to find ways to deny election results, Trump, the man who first gave them the playbook to do it, was the only one to accept his defeat. It’s a measure not of any change in the president but of how emphatically he was rejected by the country. By now, everyone knows ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/e78d7d5e94208d886cdb89e2.json"
+    },
+    {
+      "id": "7cdb5811f17cca4f95203be5",
+      "title": "The Steel Disaster in Taranto, Italy, Is a Warning to Europe",
+      "url": "https://jacobin.com/2026/11/european-steel-production-health-environment-jobs",
+      "author": "Valentin Vogl",
+      "source": "Jacobin",
+      "published_at": "2026-11-06T13:59:16+00:00",
+      "content_excerpt": "For decades, labor unions and residents of the southern Italian city of Taranto have been mobilizing around the toxic emissions churned out by the local steel mill. A dedicated group fought for their right to good health through a yearslong legal battle that reached all the way to Italy’s top court. On October 29, the court finally ruled: the blast furnaces, which for decades have blanketed Taranto with fine particulate matter, dioxins, benzene, and asbestos emissions, must close with immediate effect. It represents a bitter-tasting victory after one of the great struggles of European industrial history. ILVA, as Europe’s nominally largest steel mill is still called, stands right in the center of Taranto, a city with a population of nearly two hundred thousand. The steel mill was built in ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/7cdb5811f17cca4f95203be5.json"
+    },
+    {
+      "id": "9122053e6efe100880c09fa9",
+      "title": "Hakeem Jeffries Wants the Speaker’s Gavel. DSA’s Bloc Quadruples",
+      "url": "https://democraticleft.dsausa.org/2026/11/06/hakeem-jeffries-wants-the-speakers-gavel-dsas-bloc-quadruples",
       "author": "tfrasca@yahoo.com",
       "source": "Democratic Left",
-      "published_at": "2026-11-05T17:24:37+00:00",
-      "content_excerpt": "DSA’s Housing Justice Commission hopes to learn from Spanish tenant organizers as their struggle escalates following the eviction and death of Maricarmen Abascal. The commission is backing vigils in solidarity with the general strike called in Spain for Nov. 11. The post Spanish Tenants Have Had Enough appeared first on Democratic Left .",
+      "published_at": "2026-11-06T13:33:57+00:00",
+      "content_excerpt": "DSA members and endorsed candidates racked up wins all over the country from local school boards to the U.S. Congress amid a historic rejection of reactionary politics and aggressive wars. This and more in “Red All Over,” Democratic Left’s occasional news roundup. The post Hakeem Jeffries Wants the Speaker’s Gavel. DSA’s Bloc Quadruples appeared first on Democratic Left .",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/1337ebf5cd2eb6f45f924b5c.json"
+      "article_path": "articles/9122053e6efe100880c09fa9.json"
     },
     {
-      "id": "1d83c4059fbbb74b705a5b03",
-      "title": "Cómo construimos nuestro programa de educación sindical",
-      "url": "https://labornotes.org/node/8303",
-      "author": "Luis Fernando Mora Reyes",
-      "source": "",
-      "published_at": "2026-11-05T17:22:34+00:00",
-      "content_excerpt": "A principios de este año, surgió un debate entre miembros de nuestro sindicato, la Unión Nacional de Trabajadores por Aplicación (UNTA), a raíz de un comunicado en redes sociales que condenaba el secuestro por parte de los Estados Unidos, del presidente venezolano Nicolás Maduro y que exigía: “la defensa de la soberanía, la autodeterminación de los pueblos y la paz en América Latina”. Entre las bases del sindicato hubo posicionamientos encontrados sobre el comunicado, lo que generó que en la consiguiente Asamblea Coordinadora (en este espacio se informa, se discute y se llega a acuerdos entre las representaciones nacionales y locales del sindicato) se discutiera abiertamente sobre el tema. Hubo fuertes discusiones en las que existieron puntos de vista opuestos. Sin embargo, siempre se exte",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/1d83c4059fbbb74b705a5b03.json"
-    },
-    {
-      "id": "e66f9403185d5d037d965a30",
-      "title": "How We Built Our Union’s Member Education Program",
-      "url": "https://labornotes.org/2026/11/member-education-program-how-to",
-      "author": "Luis Fernando Mora Reyes",
-      "source": "",
-      "published_at": "2026-11-05T17:22:34+00:00",
-      "content_excerpt": "Earlier this year, a debate broke out among members of our union, the National App Workers Union of Mexico (UNTA), after the union’s social media post condemning the U.S. government’s kidnapping of Venezuelan President Nicolás Maduro and demanding “the defense of sovereignty, self determination and peace in Latin America.” Union members had conflicting views about the kidnapping, which led to a discussion on the subject in our next coordinating assembly—a space where we inform, discuss, and reach agreements between union representatives. Members disagreed intensely, but expressed their views with respect and camaraderie. It made us realize that we needed more spaces like this for face-to-face discussion and analysis within the union, to help us develop a shared politics and grow as trade u",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/e66f9403185d5d037d965a30.json"
-    },
-    {
-      "id": "c84321ec2f282c1df6d3d807",
-      "title": "Elections in a Genocidal State Are Not Democratic",
-      "url": "https://jacobin.com/2026/11/israel-palestine-knesset-democracy-genocide",
-      "author": "Raz Segal",
-      "source": "Jacobin",
-      "published_at": "2026-11-05T17:03:45+00:00",
-      "content_excerpt": "The recent Israeli elections are a grotesque spectacle. They are grotesque because Israel is a state perpetrating genocide against Palestinians in the Gaza Strip, cheered on by most of its Jewish citizens. They are grotesque because they peddle the lie of democracy in a state subjecting millions of Palestinians in the West Bank and the Gaza Strip to a brutal military occupation for nearly six decades, without basic rights, dispossessing them to settle more than 750,000 Jews in crude violation of basic international law. And they are grotesque because they promote the illusion, both within and outside Israel, that nearly two million Palestinian citizens of Israel somehow hold the key to saving the state from itself. A genocide state and society, however, will do what a genocide state and so",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/c84321ec2f282c1df6d3d807.json"
-    },
-    {
-      "id": "3b2f3bd86d8b7769fd64ca8e",
-      "title": "Unjust Society",
-      "url": "https://www.laprogressive.com/progressive-issues/unjust-society",
-      "author": "Bill Ayers",
+      "id": "a55e73a1ac511916a2334fd7",
+      "title": "Palestinians Beat Israel's Political System",
+      "url": "https://www.laprogressive.com/foreign-policy/palestinians-beat-israels-political-system",
+      "author": "Ramzy Baroud",
       "source": "LA Progressive",
-      "published_at": "2026-11-05T16:34:13+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. NOTE: When people come together in pursuit of freedom, they often articulate a program to and for a public. We’re inspired by examples like the Combahee River Collective Statement; the Black Panther Party’s Ten-Point Program; and the Zapatista Declaration of the Lacandon Jungle (work, land, and housing; independence and liberty; food, health care, and education; democracy, justice, and peace). Here is a draft—no, a rickety draft of a draft—for discussion, debate, dialogue, additions, adjustments, corrections, revisions, and improvements. We want peace. We want freedom. We want real democracy and self-determination for all peoples, and the power to control our own communitie",
+      "published_at": "2026-11-06T06:56:51+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. The results of Israel’s Oct. 27 election have been welcomed by Palestinian communities in Israel and worldwide. Neither the right-wing bloc of Israeli Prime Minister Benjamin Netanyahu nor that of his rival, former military chief Gadi Eisenkot, secured the 61 seats required to form a government. This made the 19 seats won by Palestinian parties all the more consequential. Related: Netanyahu or Not, Israel's Occupation of Palestine Will Continue In a political system structured to marginalize its Palestinian minority, the electoral achievement of the Joint List and Ra’am cannot be overstated. Through their relative unity and an extraordinary convergence of political circumst",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/3b2f3bd86d8b7769fd64ca8e.json"
+      "article_path": "articles/a55e73a1ac511916a2334fd7.json"
     },
     {
-      "id": "a198b604136ef2d3afd4d5f6",
-      "title": "After the Midterms, the Left Has a Huge Opportunity to Seize",
-      "url": "https://jacobin.com/2026/11/midterms-democrats-left-populism-strategy",
-      "author": "Eric Blanc",
-      "source": "Jacobin",
-      "published_at": "2026-11-05T15:58:06+00:00",
-      "content_excerpt": "This week’s midterm results were a historic victory for working people and a devastating blow to Trumpism. After so much cruelty and darkness, millions of people have gotten to experience the joy of defeating the far right. We’re entering an unusually fluid political moment, with enormous opportunities, formidable opponents, and no ready-made road map. Here are my initial thoughts about how we got here and what we should do now. 1. America Is Not a Deeply Right-Wing Country Remember when centrist pundits insisted Trump’s 2024 victory meant America had become permanently conservative? That narrative hasn’t aged well. Roughly 70 percent of young voters backed Democrats in this election, with the margin among young people swinging by about 32 points since 2024. Millions of Americans are angry",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/a198b604136ef2d3afd4d5f6.json"
-    },
-    {
-      "id": "5effe101124d3bcfa2692d40",
-      "title": "Can the DSA Build Working-Class Power?",
-      "url": "https://jacobin.com/2026/11/dsa-elections-labor-class-mamdani",
-      "author": "Paul Heideman",
-      "source": "Jacobin",
-      "published_at": "2026-11-05T15:58:06+00:00",
-      "content_excerpt": "Over the past decade, the Democratic Socialists of America (DSA) has moved from an obscure Cold War holdover to one of the most influential organizations in US politics. But even with continued electoral success, is it at risk of stalling out? On this latest episode of the Jacobin Radio podcast Confronting Capitalism , Vivek Chibber discusses the rise of DSA with Paul Heideman, author of the new Catalyst essay , “Where is DSA Going?” Vivek and Paul look at DSA members’ class interests and geographic concentration to get a sense of the organization’s relative strength and longevity. Confronting Capitalism with Vivek Chibber is produced by Catalyst: A Journal of Theory and Strategy and published by Jacobin . You can listen to the full episode here . Cale Brooks Due to the midterms, there’s b",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/5effe101124d3bcfa2692d40.json"
-    },
-    {
-      "id": "dde921a0d240496ca64b38c0",
-      "title": "Glass Is Still Half Empty",
-      "url": "https://www.laprogressive.com/election-and-campaigns/glass-is-still-half-empty",
-      "author": "W. D. Ehrhart",
+      "id": "c39aad6c8522ca2b28b29d0b",
+      "title": "Coolers",
+      "url": "https://www.laprogressive.com/election-and-campaigns/coolers",
+      "author": "William J. Astore",
       "source": "LA Progressive",
-      "published_at": "2026-11-05T15:52:14+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. As far back as high school, and I’m now 78, I’ve always been a glass-half-empty kind of guy. Looking at the world that way means that I’m almost never disappointed. And every now and then, I get to be pleasantly surprised. One of those pleasant surprises—and a very pleasant surprise it was—came with the recent US mid-term elections. Only a few weeks ago, I wrote an essay called “It’s Election Time Again” in which I warned people not to get too excited about some anticipated Big Blue Wave this time around. We’d been here before, most recently with Hillary Clinton in 2016, who couldn’t possibly lose to the windbag buffoon she was running against. But when I woke up the mornin",
+      "published_at": "2026-11-06T05:53:21+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. A favorite movie of mine is “ The Cooler ,” starring William H. Macy. Macy plays a sad sack, a loser, a guy down at the mouth and down on his luck. He’s employed as a “cooler” at a casino. Whenever someone is winning too much at the roulette wheel or at craps, Macy goes and stands near the high-rolling winner. Within moments, the high-roller starts to lose, and lose big. Macy is good at his job. Hakeem Jeffries and Chuck Schumer are the Democratic Party’s coolers. They’re being sent in by the house (the owners and donors in America’s casino-style capitalism) to cool any real change that might hurt the bottom line of the rich. And they’re good at their jobs. Another “cooler”",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/dde921a0d240496ca64b38c0.json"
+      "article_path": "articles/c39aad6c8522ca2b28b29d0b.json"
     },
     {
-      "id": "07d4b62133f3dfa4f8fde346",
-      "title": "President of American Decline",
-      "url": "https://www.laprogressive.com/election-and-campaigns/president-of-american-decline",
-      "author": "Tom Engelhardt",
-      "source": "LA Progressive",
-      "published_at": "2026-11-05T15:31:41+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. From George Washington to Joe Biden, 44 other presidents of the United States, there was never one—never!—faintly like Donald J. Trump. And yet, the second time around, thanks to 49.8% of American voters (1.5% more than Kamala Harris got), we are all now, it seems, his apprentices. He should quite literally be considered the president of decline. In fact, there couldn’t be a clearer sign of how the populace of a great imperial power sensed that their country had hit the downhill slope and was sliding ever further down, down, down, and responded by increasing the likelihood (twice!) of yet more decline (and fall) when it comes to this country and possibly everything else ima",
+      "id": "add0276d0e36bb64d7cddf87",
+      "title": "Black Agenda Radio November 6, 2026",
+      "url": "https://www.blackagendareport.com/black-agenda-radio-november-6-2026",
+      "author": "bareditors",
+      "source": "Black Agenda Report",
+      "published_at": "2026-11-06T04:22:34+00:00",
+      "content_excerpt": "Black Agenda Radio November 6, 2026 Authors Black Agenda Radio with Margaret Kimberley bareditors Fri, 11/06/2026 - 08:51 Black Agenda Radio · Black Agenda Radio November 6, 2026 In this week’s segment, we hear about the Southern Human Rights Organizers' Conference (SHROC), which will be held in Jackson, Mississippi, in December. But we begin with an analysis of the Michigan Senate race won by Abdul El-Sayed. US Politics Southern Human Rights Organizers Conference Mississippi Human Rights Abdul el Sayed Michigan midterm elections",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/07d4b62133f3dfa4f8fde346.json"
+      "article_path": "articles/add0276d0e36bb64d7cddf87.json"
     },
     {
-      "id": "7c7b7b50680d56643000e85b",
-      "title": "Trump's Political Collapse",
-      "url": "https://www.laprogressive.com/election-and-campaigns/trumps-political-collapse",
-      "author": "John Peeler",
-      "source": "LA Progressive",
-      "published_at": "2026-11-05T15:12:21+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Seldom has a party scored such a comprehensive demolition of its opposition. Yet the prime author was not the Democrats themselves, but their dominant adversary, Donald Trump. He created the economic conditions that impelled many of those who voted for him just two years ago to repudiate him now. His tariffs raised costs to consumers. His war in Iran led to the blockage of the Persian Gulf sea lanes and the explosion of fuel prices. His public obsession with self-glorifying monument construction, even as most people had trouble making ends meet, jut reinforced the public rage. He won’t acknowledge responsibility for this debacle, but he owns it. He can claim that Republican",
+      "id": "11a67eb3050656385aa1576e",
+      "title": "Southern Human Rights Organizers' Conference",
+      "url": "https://www.blackagendareport.com/southern-human-rights-organizers-conference-0",
+      "author": "bareditors",
+      "source": "Black Agenda Report",
+      "published_at": "2026-11-06T04:22:34+00:00",
+      "content_excerpt": "Southern Human Rights Organizers' Conference Authors Black Agenda Radio with Margaret Kimberley bareditors Fri, 11/06/2026 - 08:35 Jaribu Hill is the executive director of the Mississippi Workers Center for Human Rights in Greenville, Mississippi. She joins us from Greenville to discuss the upcoming Southern Human Rights Organizers Conference (SHROC) , which will convene in Jackson, Mississippi, December 10th through the 13th. She will also provide an update on the police killing of 1-year-old Kohen Wiley in Senatobia, Mississippi. African America Southern Human Rights Organizers Conference Mississippi Kohen Wiley Human Rights",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/7c7b7b50680d56643000e85b.json"
+      "article_path": "articles/11a67eb3050656385aa1576e.json"
     },
     {
-      "id": "18ec72bb36ff154121011f90",
-      "title": "Beyond the Ballot Box",
-      "url": "https://www.laprogressive.com/election-and-campaigns/beyond-the-ballot-box",
-      "author": "Kathy Kelly",
-      "source": "LA Progressive",
-      "published_at": "2026-11-05T14:51:33+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. On November 3, 2026, U.S. voters sent an intensely needed message to Republicans as well as the Democratic status quo in the United States. Voters insisted on concrete steps to cope with the greatest threats afflicting people worldwide—nuclear weapon proliferation, ecological collapse, and complicity with genocide. Three weeks earlier, the Illinois chapter of World BEYOND War hosted a Young Voters Congress, a hybrid forum inviting attendees to air their views about which issues would most affect their choices in upcoming elections. Spoken word poet Trey Baker opened the event by pointing to cruel roots of racism, militarism, and unbridled greed, but he believes a better wor",
+      "id": "08fca02d570c24c9e5007cce",
+      "title": "Abdul El-Sayed's Senate Victory in Michigan",
+      "url": "https://www.blackagendareport.com/abdul-el-sayeds-senate-victory-michigan",
+      "author": "bareditors",
+      "source": "Black Agenda Report",
+      "published_at": "2026-11-06T03:20:13+00:00",
+      "content_excerpt": "Abdul El-Sayed's Senate Victory in Michigan Authors Black Agenda Radio with Margaret Kimberley bareditors Fri, 11/06/2026 - 08:44 Abayomi Azikiwe is editor of the Pan-African Newswire and a Detroit-based activist. Abdul El-Sayed won his election and will represent Michigan as a United States senator. He defied the Democratic Party and its donor class, but is his victory truly meaningful to the voters who rejected Islamophobia and AIPAC's attacks? US Politics Abdul el Sayed Michigan Congress AIPAC Democratic party",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/18ec72bb36ff154121011f90.json"
+      "article_path": "articles/08fca02d570c24c9e5007cce.json"
     },
     {
-      "id": "b575c18cef7da298574a6a85",
-      "title": "France’s Police Unions Are Throwing Their Weight Around",
-      "url": "https://jacobin.com/2026/11/france-police-protections-protests-macron",
-      "author": "Harrison Stetler",
-      "source": "Jacobin",
-      "published_at": "2026-11-05T14:02:32+00:00",
-      "content_excerpt": "“The proportionate use of force should never be an obstacle to the job of restoring order,” French Interior Minister Laurent Nuñez wrote in a September 30 message to police chiefs. High schoolers across the country had only just launched a wave of campus blockages over poor learning conditions, in demonstrations that would soon morph into a full-fledged social crisis. In an October 6 government questions session, Prime Minister Sébastien Lecornu dismissed as “slander” any claims of systemic violence in policing and crowd-control tactics. In the weeks since then, little has punctured the pressure for similar deference to the police. Certainly not the persistence of intense protests — and, in some cases, rioting — which have instead strengthened the reflex among France’s political class to c",
+      "id": "bc1077ddb7f8fa5159764f1c",
+      "title": "Chapter Notes: November 2026",
+      "url": "https://dsa-pinellas.medium.com/chapter-notes-november-2026-7e676f9b1010?source=rss-fc02be9a55f0------2",
+      "author": "Pinellas DSA",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-11-06T01:14:12+00:00",
+      "content_excerpt": "Hello again, comrade! It’s the November edition of the Pinellas DSA Chapter Notes! We know that you’re probably still processing the results from the election on Tuesday. A lot of the votes in which we were most invested, like Angie’s campaign for US Senate and Amendment 3 to the state constitution, didn’t go our way. And, Florida is in for another four years of the reactionary Republican leadership in Tallahassee. But it’s not all bad news. In fact… far from it . Pinellas DSA members watch as election results trickle in on November 3. Pinellas DSA member Lindsey Grove won her bid for St. Pete City Council District 6, meaning a quarter of the council is now in DSA hands for the next four years! Our Tampa DSA comrade Ashley Herrmann won her race for Florida House District 69, flipping the s",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/b575c18cef7da298574a6a85.json"
-    },
-    {
-      "id": "3b874b34ba198ae112c02fc0",
-      "title": "What the World Needs Now",
-      "url": "https://www.laprogressive.com/human-rights/what-the-world-needs-now",
-      "author": "Desi Cortez",
-      "source": "LA Progressive",
-      "published_at": "2026-11-05T05:16:38+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Today, the sun is cold, and this new day, well, honestly, it already seems old... It seems, to these eyes, 'What the world needs now is love, sweet love.” Once upon a time, on what was unquestionably a much more hopeful American afternoon, those words floated through battery-powered radios, living rooms you couldn't sit in…, supermarkets where Sugar Babbies, Powerhouse bars, and Black Cows cost 15 cents, school assemblies, and Coca-Cola commercials sounded like little musical promises. They suggested humanity might eventually grow tired of bloodshed, hatred, greed, racial hierarchy, religious warfare, and the exhausting full-time job of despising strangers. Perhaps, just ma",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/3b874b34ba198ae112c02fc0.json"
-    },
-    {
-      "id": "14234520f6c5e9c893d29015",
-      "title": "Dockworkers Global Strike to Halt Militarization of Ports",
-      "url": "https://www.laprogressive.com/civil-liberties-and-civil-rights/dockworkers-global-strike-to-halt-militarization-of-ports-",
-      "author": "Phil Pasquini",
-      "source": "LA Progressive",
-      "published_at": "2026-11-05T05:11:30+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Dockworkers on this International Day of Action, October 30 objecting to the “ militarization” of European and Mediterranean ports today held strikes across the region bringing cargo handling to a halt at 111 ports. Striking workers and activists, along with several hundred students, shut down the Port of Trieste for more than an hour while rallying on numerous issues. Across Europe, 40 other port blockades halted operations as workers protested in France, Greece, the Basque Country, Turkey, and Morocco in North Africa under the rubric “Ports for Peace – Jobs with Dignity.” The port blockade shut down business as usual for more than an hour making a powerful statement Photo",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/14234520f6c5e9c893d29015.json"
-    },
-    {
-      "id": "60ff96816f7d418f08f30b74",
-      "title": "California’s Climate Law Still Matters Globally",
-      "url": "https://www.laprogressive.com/climate-change/californias-climate-law-still-matters-globally",
-      "author": "Joe Mathews",
-      "source": "LA Progressive",
-      "published_at": "2026-11-05T04:57:52+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Why should you still care about AB 32, two decades after Gov. Arnold Schwarzenegger signed it into law? Not just because the “California Global Warming Solutions Act of 2006” remains in effect, and enjoys support of 75% of state residents, according to a 2026 poll by the Public Policy Institute of California. Nor because AB 32 is the foundation for California’s climate regulation regime has reduced per-capita greenhouse gas emissions by 29%. Nor because it is the closest thing the U.S. has to a national climate law, as the Trump administration boosts fossil fuels and cancels regulations. You should care about AB 32 because no law in modern world history better demonstrates ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/60ff96816f7d418f08f30b74.json"
-    },
-    {
-      "id": "f6407c639f975a28a1266883",
-      "title": "Over-crowded Homes in LA County and How to Help Them",
-      "url": "https://www.laprogressive.com/housing-and-homlessness/over-crowded-homes-in-la-county-and-how-to-help-them",
-      "author": "Dick Platkin",
-      "source": "LA Progressive",
-      "published_at": "2026-11-05T04:56:15+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Since nearly all of the discussion of the unhoused people in the Los Angeles area focuses on the homeless, we need to consider the over-crowded . These are the people who still have a roof over the head, but are mostly confined to small apartments. They are one step away from being homeless, and they include lots of kids. The photo above demonstrates the conditions in which the overcrowed live, packing themselves and their belongings into a small space. This is not by choice, but an obvious way for over a million people to avoid living on the streets. They still have a place to live, but the question is “for how long?” Will the families eventually get back on their feet, or",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/f6407c639f975a28a1266883.json"
-    },
-    {
-      "id": "eecb078b451ac15ce799fd6d",
-      "title": "Political Extinction of Biblical Proportions: Democrats, Never Forgive and Forget!",
-      "url": "https://www.laprogressive.com/political-issues/political-extinction-of-biblical-proportions-democrats-never-forgive-and-forget",
-      "author": "Desi Cortez",
-      "source": "LA Progressive",
-      "published_at": "2026-11-05T04:47:43+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. America may be approaching a political extinction of damn-near biblical proportions. Not the extinction of a people, but of a toxic political philosophy that confuses meanness with genius, force and harassment with courage, greed with gumption, and the U.S. Constitution with bathroom tissue. After the November 3 midterms handed Democrats control of Congress, I hear Washington preparing its favorite lullaby: Kumbaya, my Lord, kumbaya. Let’s heal. Let’s move on. Let’s work together. Hold the hell on! Before we serve a war plate of reconciliation with potato salad, somebody ought to explain why victims must forgive while the architects of society-wide suffering collect pension",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/eecb078b451ac15ce799fd6d.json"
+      "article_path": "articles/bc1077ddb7f8fa5159764f1c.json"
     }
   ]
 }
