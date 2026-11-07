@@ -1,12 +1,132 @@
 {
-  "generated_at": "2026-11-06T23:46:31.638893+00:00",
-  "generated_at_jst": "2026-11-07T08:46:31.638893+09:00",
-  "period_start": "2026-11-05T17:46:31.638893+00:00",
+  "generated_at": "2026-11-07T22:54:04.377502+00:00",
+  "generated_at_jst": "2026-11-08T07:54:04.377502+09:00",
+  "period_start": "2026-11-06T16:54:04.377502+00:00",
   "lookback_hours": 30,
   "folder": "00_毎日確認",
-  "article_count": 20,
+  "article_count": 15,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "e5233e84b0089af3cfdc1d34",
+      "title": "The Tasks for DSA After the Blue Wave",
+      "url": "https://socialistcall.com/2026/11/07/the-tasks-for-dsa-after-the-blue-wave",
+      "author": "Bread &#38; Roses Caucus",
+      "source": "The Call",
+      "published_at": "2026-11-07T18:20:00+00:00",
+      "content_excerpt": "On November 3rd, the American people sent a decisive message. We are sick and tired of MAGA and the Trump administration, of the cost of living crisis, of war, of corruption, of corporate greed, of billionaires dominating our political system. Alongside an overwhelming rejection of the far-right, voters also chose to send the largest number of democratic socialists in 100 years into the halls of power. Our movement elected over 100 democratic socialists with a clear message: we need a government and economy that works for working people, not the billionaires, capitalists, warmongers, and genocidaires. DSA will now have a bloc of 8 endorsed members in Congress along with a broader bloc to work closely with. Among those elected (and re-elected) were Bread & Roses members Dylan Wegela (Michig",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/e5233e84b0089af3cfdc1d34.json"
+    },
+    {
+      "id": "6c70929e9d7a078f86213d48",
+      "title": "Enough With the “Public Option” Already",
+      "url": "https://jacobin.com/2026/11/public-option-health-care-insurance",
+      "author": "John Canham-Clyne",
+      "source": "Jacobin",
+      "published_at": "2026-11-07T16:31:45+00:00",
+      "content_excerpt": "The difference between a vampire and a bad health care policy idea is that vampires jump out of their coffins and drink blood at sunset. Undead health care proposals emerge from think tank closets and suck the life out of useful ideas when the sun rises on a national health care debate. As public fury at exploding costs and deadly corporate claims denials boils over into historic Democratic election gains, can someone please find a wooden stake for the public option? Improved and expanded Medicare for All would give everyone full coverage at much lower cost than the combined private premiums, taxes, and out-of-pocket payments that are eating up family income today. But it violates a cardinal rule of federal politics: never do anything that causes corporations or the ultrawealthy any pain. ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/6c70929e9d7a078f86213d48.json"
+    },
+    {
+      "id": "a66f67dd684849b8ec5f5134",
+      "title": "Beyond the Blue Wave",
+      "url": "https://www.laprogressive.com/election-and-campaigns/beyond-the-blue-wave",
+      "author": "Michael Albert",
+      "source": "LA Progressive",
+      "published_at": "2026-11-07T16:18:49+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. To reject fascism is a necessary and good thing. The 2026 election results are part of that. But we should also acknowledge a sad reality. We have not overnight entered another better world. To joyously celebrate having elected some new and quite promising Democrats, some other typical business-as-usual Democrats, and especially to have the Democrats as a whole re-empowered is fully warranted. Glass half full says Trumpism is on the way out. Trump will be but another stain, albeit a major one, on a long-since and repeatedly horribly re-stained history. But Trump will not redirect history to become forever worse. Fascism is stopped. We needed that. Trump is trounced. We cele",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/a66f67dd684849b8ec5f5134.json"
+    },
+    {
+      "id": "c676e16ae5476dc595035f6b",
+      "title": "Plea From Gaza",
+      "url": "https://www.laprogressive.com/foreign-policy/plea-from-gaza",
+      "author": "W. D. Ehrhart",
+      "source": "LA Progressive",
+      "published_at": "2026-11-07T16:02:48+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. As those of you who read my writing know, I have had for nearly three years a wonderful, though at times heartbreaking, correspondence with Rawand Gawad abu Ghanem, a young Palestinian woman living in Gaza with her husband and two sons, Yamen, 6, and Mohammed, 1&1/2. I’ve written about her before. I’ve just received another letter from her dated October 21 st , but I only received it a few days ago. She writes: My Dear Friend, I am sorry to write to you of new sorrow, but sometimes just holding this paper and pen in my hands is what reminds me that I am alive. While I am grateful to Allah that he has granted me the blessing of children, I must raise them in an environment t",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/c676e16ae5476dc595035f6b.json"
+    },
+    {
+      "id": "cebf18e7ad025977d18b8363",
+      "title": "Democracy’s Final Battle",
+      "url": "https://www.laprogressive.com/progressive-issues/democracys-final-battle",
+      "author": "Rob Okun",
+      "source": "LA Progressive",
+      "published_at": "2026-11-07T15:36:33+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. A disturbing essay by conservative Republican Judge Michael J. Luttig, The Final Battle for American Democracy , lays out steps that Trump and his minions will likely take to overturn the results of the coming midterm election. The Trump gang will refuse to seat a duly elected Democrat majority. This possibility should not be ignored. Desperate people do desperate things, and Trump is under intense pressure. Polls indicate that he, his party, and his policies are deeply unpopular and will be rejected in the midterms. Facing the loss of congressional control, they are likely to refuse to transfer power and try to justify that refusal by falsely claiming election fraud, repea",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/cebf18e7ad025977d18b8363.json"
+    },
+    {
+      "id": "b3ece9ee1b12ad560c6a835a",
+      "title": "The Trump Era Is Bad. But Is It Evil?",
+      "url": "https://jacobin.com/2026/11/review-neiman-evil-trump-era",
+      "author": "Matt McManus",
+      "source": "Jacobin",
+      "published_at": "2026-11-07T15:29:03+00:00",
+      "content_excerpt": "Leftists have an unusual relationship to the language of good and evil. On the one hand, we have a reputation for being righteous. . . . at times even self-righteous. Our publications are saturated with enough morally strident language to make a preacher blush. Even the most “scientific” of scientific socialists aren’t entirely immune, from tireless invocations of Rev Martin Luther King Jr and constant demands for justice and freedom for all to calls to end subordination and marginalization around the globe . On the other hand, leftists tend to be averse to describing structures, let alone people, as evil. Exploitative? Yes. Domineering? Of course. But evil? At best, that’s language reserved for your Hannah Arendt reading group. Philosopher Susan Neiman takes umbrage at this reticence. Aut",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/b3ece9ee1b12ad560c6a835a.json"
+    },
+    {
+      "id": "d3c582beabf4a7f7b991087c",
+      "title": "In Turkey, When Does a Joke Become a Crime?",
+      "url": "https://jacobin.com/2026/11/turkey-goktas-comedy-free-speech-repression",
+      "author": "Dora Mengüç",
+      "source": "Jacobin",
+      "published_at": "2026-11-07T14:40:49+00:00",
+      "content_excerpt": "Have you ever made a joke that offended someone? Maybe they took it personally or stopped speaking to you. A joke can put strain on a relationship or leave someone feeling isolated. But what if the consequences for a joke go far beyond social fallout? What if a comedy performance lands you in a high-security prison cell? For Deniz Göktaş, this question is no longer hypothetical. Until recently, Göktaş performed for relatively small audiences, playing bars in Kadıköy, an Istanbul district known for political satire, and occasionally in university halls elsewhere in Turkey. He was part of a niche comedy scene. Things changed when he took his show to one of Istanbul’s most prominent stages and uploaded the performance to YouTube, opening it to a much wider audience. He knew the show might att",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/d3c582beabf4a7f7b991087c.json"
+    },
+    {
+      "id": "937da494941e5ec16fc3c242",
+      "title": "In Finland, the Left Can Lead on Fair AI Policy",
+      "url": "https://jacobin.com/2026/11/finland-ai-google-data-centers-regulation",
+      "author": "Mike Watson",
+      "source": "Jacobin",
+      "published_at": "2026-11-07T14:00:58+00:00",
+      "content_excerpt": "Finland’s next general election has been set for next April 18, hopefully bringing an end to the National Coalition Party’s current slash-and-burn coalition, in which the far-right Finns Party plays a key role. Recent polls have, however, seen the latter worryingly rise to second position, becoming the main right-wing force for the first time ever. Trailing Antti Lindtman’s Social Democrats (SDP) by 6 percentage points, the Finns Party is placing its hope in polarizing the election over immigration. But as the SDP and other left-of-center parties like the Left Alliance and the Greens seek to fend off a far-right surge, a new key battleground has emerged: artificial intelligence. Crossing over into the perennial issues of education, employment, and the environment, AI is already becoming a ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/937da494941e5ec16fc3c242.json"
+    },
     {
       "id": "0784040f0815fe6b49a2a83c",
       "title": "Pension Is Wall Street's Casino",
@@ -111,201 +231,6 @@
       "priority": 1,
       "date_missing": false,
       "article_path": "articles/65f252b59ccf06d9d6766cf1.json"
-    },
-    {
-      "id": "92fac3185f48db29bf8f0dcf",
-      "title": "Fear of ICE",
-      "url": "https://www.laprogressive.com/immigration-reform/fear-of-ice",
-      "author": "Jeremy Lindenfeld, Reia Li",
-      "source": "LA Progressive",
-      "published_at": "2026-11-06T16:31:40+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Last June, Job Garcia — a U.S. citizen — was tackled to the ground by federal immigration agents while he was filming an ICE raid at a Home Depot in Hollywood. Yesterday, Garcia cast his ballot for the midterm elections at a church less than two miles from where he was arrested, overcoming his fears that ICE agents might show up at the polls. “I’ve been looking forward to this day since what happened to me last year,” said Garcia, 38, who was detained for 25 hours after being arrested last summer. “While there isn’t an ICE policy directly on the ballot … It’s a very intentional vote that I’m making to hopefully shift the power over to individuals that are going to help make",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/92fac3185f48db29bf8f0dcf.json"
-    },
-    {
-      "id": "8a5abee72dde25a11c60b8fc",
-      "title": "Democrats Won",
-      "url": "https://www.laprogressive.com/election-and-campaigns/democrats-won",
-      "author": "Chuck Yates",
-      "source": "LA Progressive",
-      "published_at": "2026-11-06T16:07:05+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. I was pretty depressed when Donald Trump won a second term in 2024, and Republicans secured control of both houses. I knew life was about to get really awful for a lot of people. But I also knew that it was the midterm election in 2026 would determine just how awful, how depressing. Now that election is over, and the big blue wave the pollsters and pundits promised has washed away the MAGA majority, the United States will be in the care of lawmakers who will prefer principle over party and people over politics—or so we may hope. Here in Idaho, with five Republican voters for every Democrat, it’s no surprise that everything stayed bright red. Republican incumbents were reele",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/8a5abee72dde25a11c60b8fc.json"
-    },
-    {
-      "id": "74b8616bd65636ef913ede56",
-      "title": "Working-Class Democratic Candidates Won Big in the Midterms",
-      "url": "https://jacobin.com/2026/11/midterms-working-class-candidates-congress",
-      "author": "Jared Abbott",
-      "source": "Jacobin",
-      "published_at": "2026-11-06T15:57:02+00:00",
-      "content_excerpt": "In January, a logger from Maine’s North Woods will take a seat in the US Senate. Troy Jackson spent his adult life cutting timber before he ran for office, and he will be the only Senate Democrat whose working life before politics was spent mostly in a working-class job. But he won’t be alone on Capitol Hill. Across the House, a union ironworker from suburban Cleveland, a Bethlehem firefighter, a Wisconsin waitress, an emergency room nurse, a Montana smoke jumper, a Rochester math teacher, and a former Trader Joe’s worker from Queens are heading to Washington too. By my count, twenty-one Democrats in the next Congress will have spent at least half of their working lives before politics in working-class jobs. Today there are just twelve. Working-class Democrats will still represent a woeful",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/74b8616bd65636ef913ede56.json"
-    },
-    {
-      "id": "657351e907a36a2abeed1dff",
-      "title": "Steward’s Corner: Rethink the Scripted ‘Ask’",
-      "url": "https://labornotes.org/2026/10/stewards-corner-rethink-the-scripted-ask",
-      "author": "Ellen David Friedman",
-      "source": "",
-      "published_at": "2026-11-06T15:29:49+00:00",
-      "content_excerpt": "You’re having a conversation with a co-worker, but inside you’re feeling icy dread. You’re talking through a script that ends with asking them to do a specific thing: sign a union card, wear a button, come to a meeting, vote for a strike. And sure enough, when you ask, a wall comes down. The co-worker looks away, makes an excuse, and pins you as someone who is after something. You’re disappointed, confused about why it didn’t work, and afraid you’re not going to meet your goal. Many of us feel nervous or awkward about asking a co-worker to do something. Sometimes we just need to push ourselves to do it. But if you’re being pressured to follow the script and get to a particular “ask” without finding out who this person is and moving at their pace, that’s a problem. A co-worker you don’t yet",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/657351e907a36a2abeed1dff.json"
-    },
-    {
-      "id": "e78d7d5e94208d886cdb89e2",
-      "title": "Trump Hurt Average Americans, So They Voted Against the GOP",
-      "url": "https://jacobin.com/2026/11/trump-republicans-midterms-populism-elitism",
-      "author": "Branko Marcetic",
-      "source": "Jacobin",
-      "published_at": "2026-11-06T14:48:12+00:00",
-      "content_excerpt": "You didn’t even have to look at the numbers on Wednesday to know the election was a rout. You could have just guessed it by the fact that Donald Trump didn’t deny the results, call the whole thing “rigged,” or vow to fight the cheaters to the bitter end. Instead he meekly congratulated the Democrats, insisted none of it was his fault, and offered to work with his opposition before getting back to the truly important work of his ballroom . In a two-week period that saw right-wing leaders across the world refuse to concede and try to find ways to deny election results, Trump, the man who first gave them the playbook to do it, was the only one to accept his defeat. It’s a measure not of any change in the president but of how emphatically he was rejected by the country. By now, everyone knows ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/e78d7d5e94208d886cdb89e2.json"
-    },
-    {
-      "id": "7cdb5811f17cca4f95203be5",
-      "title": "The Steel Disaster in Taranto, Italy, Is a Warning to Europe",
-      "url": "https://jacobin.com/2026/11/european-steel-production-health-environment-jobs",
-      "author": "Valentin Vogl",
-      "source": "Jacobin",
-      "published_at": "2026-11-06T13:59:16+00:00",
-      "content_excerpt": "For decades, labor unions and residents of the southern Italian city of Taranto have been mobilizing around the toxic emissions churned out by the local steel mill. A dedicated group fought for their right to good health through a yearslong legal battle that reached all the way to Italy’s top court. On October 29, the court finally ruled: the blast furnaces, which for decades have blanketed Taranto with fine particulate matter, dioxins, benzene, and asbestos emissions, must close with immediate effect. It represents a bitter-tasting victory after one of the great struggles of European industrial history. ILVA, as Europe’s nominally largest steel mill is still called, stands right in the center of Taranto, a city with a population of nearly two hundred thousand. The steel mill was built in ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/7cdb5811f17cca4f95203be5.json"
-    },
-    {
-      "id": "9122053e6efe100880c09fa9",
-      "title": "Hakeem Jeffries Wants the Speaker’s Gavel. DSA’s Bloc Quadruples",
-      "url": "https://democraticleft.dsausa.org/2026/11/06/hakeem-jeffries-wants-the-speakers-gavel-dsas-bloc-quadruples",
-      "author": "tfrasca@yahoo.com",
-      "source": "Democratic Left",
-      "published_at": "2026-11-06T13:33:57+00:00",
-      "content_excerpt": "DSA members and endorsed candidates racked up wins all over the country from local school boards to the U.S. Congress amid a historic rejection of reactionary politics and aggressive wars. This and more in “Red All Over,” Democratic Left’s occasional news roundup. The post Hakeem Jeffries Wants the Speaker’s Gavel. DSA’s Bloc Quadruples appeared first on Democratic Left .",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/9122053e6efe100880c09fa9.json"
-    },
-    {
-      "id": "a55e73a1ac511916a2334fd7",
-      "title": "Palestinians Beat Israel's Political System",
-      "url": "https://www.laprogressive.com/foreign-policy/palestinians-beat-israels-political-system",
-      "author": "Ramzy Baroud",
-      "source": "LA Progressive",
-      "published_at": "2026-11-06T06:56:51+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. The results of Israel’s Oct. 27 election have been welcomed by Palestinian communities in Israel and worldwide. Neither the right-wing bloc of Israeli Prime Minister Benjamin Netanyahu nor that of his rival, former military chief Gadi Eisenkot, secured the 61 seats required to form a government. This made the 19 seats won by Palestinian parties all the more consequential. Related: Netanyahu or Not, Israel's Occupation of Palestine Will Continue In a political system structured to marginalize its Palestinian minority, the electoral achievement of the Joint List and Ra’am cannot be overstated. Through their relative unity and an extraordinary convergence of political circumst",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/a55e73a1ac511916a2334fd7.json"
-    },
-    {
-      "id": "c39aad6c8522ca2b28b29d0b",
-      "title": "Coolers",
-      "url": "https://www.laprogressive.com/election-and-campaigns/coolers",
-      "author": "William J. Astore",
-      "source": "LA Progressive",
-      "published_at": "2026-11-06T05:53:21+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. A favorite movie of mine is “ The Cooler ,” starring William H. Macy. Macy plays a sad sack, a loser, a guy down at the mouth and down on his luck. He’s employed as a “cooler” at a casino. Whenever someone is winning too much at the roulette wheel or at craps, Macy goes and stands near the high-rolling winner. Within moments, the high-roller starts to lose, and lose big. Macy is good at his job. Hakeem Jeffries and Chuck Schumer are the Democratic Party’s coolers. They’re being sent in by the house (the owners and donors in America’s casino-style capitalism) to cool any real change that might hurt the bottom line of the rich. And they’re good at their jobs. Another “cooler”",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/c39aad6c8522ca2b28b29d0b.json"
-    },
-    {
-      "id": "add0276d0e36bb64d7cddf87",
-      "title": "Black Agenda Radio November 6, 2026",
-      "url": "https://www.blackagendareport.com/black-agenda-radio-november-6-2026",
-      "author": "bareditors",
-      "source": "Black Agenda Report",
-      "published_at": "2026-11-06T04:22:34+00:00",
-      "content_excerpt": "Black Agenda Radio November 6, 2026 Authors Black Agenda Radio with Margaret Kimberley bareditors Fri, 11/06/2026 - 08:51 Black Agenda Radio · Black Agenda Radio November 6, 2026 In this week’s segment, we hear about the Southern Human Rights Organizers' Conference (SHROC), which will be held in Jackson, Mississippi, in December. But we begin with an analysis of the Michigan Senate race won by Abdul El-Sayed. US Politics Southern Human Rights Organizers Conference Mississippi Human Rights Abdul el Sayed Michigan midterm elections",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/add0276d0e36bb64d7cddf87.json"
-    },
-    {
-      "id": "11a67eb3050656385aa1576e",
-      "title": "Southern Human Rights Organizers' Conference",
-      "url": "https://www.blackagendareport.com/southern-human-rights-organizers-conference-0",
-      "author": "bareditors",
-      "source": "Black Agenda Report",
-      "published_at": "2026-11-06T04:22:34+00:00",
-      "content_excerpt": "Southern Human Rights Organizers' Conference Authors Black Agenda Radio with Margaret Kimberley bareditors Fri, 11/06/2026 - 08:35 Jaribu Hill is the executive director of the Mississippi Workers Center for Human Rights in Greenville, Mississippi. She joins us from Greenville to discuss the upcoming Southern Human Rights Organizers Conference (SHROC) , which will convene in Jackson, Mississippi, December 10th through the 13th. She will also provide an update on the police killing of 1-year-old Kohen Wiley in Senatobia, Mississippi. African America Southern Human Rights Organizers Conference Mississippi Kohen Wiley Human Rights",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/11a67eb3050656385aa1576e.json"
-    },
-    {
-      "id": "08fca02d570c24c9e5007cce",
-      "title": "Abdul El-Sayed's Senate Victory in Michigan",
-      "url": "https://www.blackagendareport.com/abdul-el-sayeds-senate-victory-michigan",
-      "author": "bareditors",
-      "source": "Black Agenda Report",
-      "published_at": "2026-11-06T03:20:13+00:00",
-      "content_excerpt": "Abdul El-Sayed's Senate Victory in Michigan Authors Black Agenda Radio with Margaret Kimberley bareditors Fri, 11/06/2026 - 08:44 Abayomi Azikiwe is editor of the Pan-African Newswire and a Detroit-based activist. Abdul El-Sayed won his election and will represent Michigan as a United States senator. He defied the Democratic Party and its donor class, but is his victory truly meaningful to the voters who rejected Islamophobia and AIPAC's attacks? US Politics Abdul el Sayed Michigan Congress AIPAC Democratic party",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/08fca02d570c24c9e5007cce.json"
-    },
-    {
-      "id": "bc1077ddb7f8fa5159764f1c",
-      "title": "Chapter Notes: November 2026",
-      "url": "https://dsa-pinellas.medium.com/chapter-notes-november-2026-7e676f9b1010?source=rss-fc02be9a55f0------2",
-      "author": "Pinellas DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-11-06T01:14:12+00:00",
-      "content_excerpt": "Hello again, comrade! It’s the November edition of the Pinellas DSA Chapter Notes! We know that you’re probably still processing the results from the election on Tuesday. A lot of the votes in which we were most invested, like Angie’s campaign for US Senate and Amendment 3 to the state constitution, didn’t go our way. And, Florida is in for another four years of the reactionary Republican leadership in Tallahassee. But it’s not all bad news. In fact… far from it . Pinellas DSA members watch as election results trickle in on November 3. Pinellas DSA member Lindsey Grove won her bid for St. Pete City Council District 6, meaning a quarter of the council is now in DSA hands for the next four years! Our Tampa DSA comrade Ashley Herrmann won her race for Florida House District 69, flipping the s",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/bc1077ddb7f8fa5159764f1c.json"
     }
   ]
 }

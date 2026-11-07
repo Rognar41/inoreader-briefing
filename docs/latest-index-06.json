@@ -1,12 +1,117 @@
 {
-  "generated_at": "2026-11-06T23:46:31.638893+00:00",
-  "generated_at_jst": "2026-11-07T08:46:31.638893+09:00",
-  "period_start": "2026-11-05T17:46:31.638893+00:00",
+  "generated_at": "2026-11-07T22:54:04.377502+00:00",
+  "generated_at_jst": "2026-11-08T07:54:04.377502+09:00",
+  "period_start": "2026-11-06T16:54:04.377502+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
-  "article_count": 20,
+  "article_count": 14,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "7f85d0848843b590a5968aa8",
+      "title": "What’s next for the socialist movement after the resounding defeat of Trump, MAGA, ICE, and the Iran War? [The Socialist Program]",
+      "url": "https://breakthroughnews.org/2026/11/07/whats-next-for-the-socialist-movement-after-the-resounding-defeat-of-trump-maga-ice-and-the-iran-war-the-socialist-program",
+      "author": "Brian Becker",
+      "source": "BT News",
+      "published_at": "2026-11-07T22:23:43+00:00",
+      "content_excerpt": "November 3rd was an electoral bloodbath for the Republican party and the MAGA movement. Brian Becker and Layan Fuleihan discuss.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/7f85d0848843b590a5968aa8.json"
+    },
+    {
+      "id": "ad165771e8cf0485fcaac2bf",
+      "title": "France strikes against the rulers who sold Europe to United States gas",
+      "url": "https://mronline.org/2026/11/07/france-strikes-against-the-rulers-who-sold-europe-to-united-states-gas",
+      "author": "Gary Wilson",
+      "source": "MR Online",
+      "published_at": "2026-11-07T14:51:38+00:00",
+      "content_excerpt": "From high school blockades to a national strike, workers in France are on the move. The post France strikes against the rulers who sold Europe to United States gas appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/ad165771e8cf0485fcaac2bf.json"
+    },
+    {
+      "id": "8b589c3904ddb2e151dfe593",
+      "title": "What will the Democrats’ ‘Blue Wave’ mean for Trump’s foreign policy?",
+      "url": "https://mondoweiss.net/2026/11/what-will-the-democrats-blue-wave-mean-for-trumps-foreign-policy",
+      "author": "Michael Arria",
+      "source": "Mondoweiss",
+      "published_at": "2026-11-07T14:32:58+00:00",
+      "content_excerpt": "Mondoweiss speaks with analyst Mitchell Plitnick about what the Democrats' \"Blue Wave\" could mean for Trump's foreign policy, how the Israeli elections could impact the United States, and how JD Vance is using Israel to position his political future.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/8b589c3904ddb2e151dfe593.json"
+    },
+    {
+      "id": "0703ecf39be50d26a4332f23",
+      "title": "An electoral victory is not liberation: The fight against gangster capitalism",
+      "url": "https://mronline.org/2026/11/07/an-electoral-victory-is-not-liberation-the-fight-against-gangster-capitalism",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-11-07T13:50:23+00:00",
+      "content_excerpt": "Defeating authoritarian politicians at the ballot box does not dismantle the systems of power that made their rise possible. The post An electoral victory is not liberation: The fight against gangster capitalism appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/0703ecf39be50d26a4332f23.json"
+    },
+    {
+      "id": "1e0740ed57d68dd343915109",
+      "title": "Cira Pascual Marquina: Building international solidarity from a Venezuelan commune",
+      "url": "https://mronline.org/2026/11/07/cira-pascual-marquina-building-international-solidarity-from-a-venezuelan-commune",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-11-07T12:50:04+00:00",
+      "content_excerpt": "A Marxist internationalist activist and Venezuelan at heart. For 20 years in Caracas, Cira has built community and solidarity rooted in activism, education and friendship. The post Cira Pascual Marquina: Building international solidarity from a Venezuelan commune appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/1e0740ed57d68dd343915109.json"
+    },
+    {
+      "id": "daf2371cb6ff4a2b68c673b7",
+      "title": "Reinforcing the imperialist drive",
+      "url": "https://mronline.org/2026/11/07/reinforcing-the-imperialist-drive",
+      "author": "Prabhat Patnaik",
+      "source": "MR Online",
+      "published_at": "2026-11-07T11:52:27+00:00",
+      "content_excerpt": "The capitalist system cannot experience sustained growth in the absence of an exogenous stimulus, that is a stimulus arising from outside the process of growth itself. The post Reinforcing the imperialist drive appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/daf2371cb6ff4a2b68c673b7.json"
+    },
+    {
+      "id": "9a0fac892b323e2ba7309ebf",
+      "title": "Supermajority of Jewish Americans think Israel and Aipac drive antisemitism",
+      "url": "https://mronline.org/2026/11/07/supermajority-of-jewish-americans-think-israel-and-aipac-drive-antisemitism",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-11-07T10:55:59+00:00",
+      "content_excerpt": "Vast majority of Jewish voters in U.S. want sanctions against 'violent West Bank settlers'. The post Supermajority of Jewish Americans think Israel and Aipac drive antisemitism appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/9a0fac892b323e2ba7309ebf.json"
+    },
     {
       "id": "a6f4256f085139d7c1b8092e",
       "title": "Iran warns against any new escalation in the war, asks Trump to heed the popular will after midterm drubbing",
@@ -111,201 +216,6 @@
       "priority": 2,
       "date_missing": false,
       "article_path": "articles/191e104a0cf38253677d1b4e.json"
-    },
-    {
-      "id": "d64224ce20ed162d7cc77fd7",
-      "title": "Purple Mississippi? Black Voters Power Dem Wins Across the South",
-      "url": "https://www.democracynow.org/2026/11/6/mississippi_senate_election_southern_us_shift",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-11-06T16:06:06+00:00",
-      "content_excerpt": "This is a rush transcript. Copy may not be in its final form. AMY GOODMAN : We begin today’s show in the Deep South, where Mississippi’s Senate race remains too close to call. Democrat Scott Colom is narrowly leading Republican incumbent Senator Cindy Hyde-Smith by more than 1,800 votes as election officials process provisional ballots and late-arriving mail ballots. Just two years ago, Donald Trump carried Mississippi by 23 points. If elected, Scott Colom would be the first Democrat to win the state in 40 years and the first African American since 1875, during Reconstruction. Colom made the issue of affordability central to his campaign, and in an ad that went viral, he blasted Senator Hyde-Smith for saying Mississippians should, quote, “pick another protein,” unquote, if they’re upset ov",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/d64224ce20ed162d7cc77fd7.json"
-    },
-    {
-      "id": "b824d63f7d9efb5326ec036d",
-      "title": "National Politics Will Never Be the Same: Juan González on How Latino Voters Remade the Political Map",
-      "url": "https://www.democracynow.org/2026/11/6/juan_gonzalez_2026_midterms_latino_vote",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-11-06T16:06:06+00:00",
-      "content_excerpt": "The midterms saw a landslide of Latinos vote for Democrats. In Texas, California, Kansas and Colorado, Latinos who had voted for Republicans just two years ago voted for Democrats in large numbers, helping secure Democratic control of both the House and the Senate. Latino lawmakers will make up about a fifth of the Democratic majority in the House. And in an historic victory, the two most populous states in the country, California and Texas, will soon be led by Democratic Latino governors. “Texas has been suddenly transformed into a battleground state,” says Democracy Now! co-host Juan Gonzalez. “Texas has been the biggest and most important red state in the country for decades, and I’ve been predicting for years that it is the key link for achieving a realignment of national politics.”",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/b824d63f7d9efb5326ec036d.json"
-    },
-    {
-      "id": "87e3f86aab7b295672e57e87",
-      "title": "Hasan Piker Says Democrats Must Listen to Voter Anger That Put Them Back in Power",
-      "url": "https://www.democracynow.org/2026/11/6/hasan_piker_dsa_2026_midterms",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-11-06T16:06:06+00:00",
-      "content_excerpt": "Tuesday was a historic night for progressive Democrats and, in particular, candidates backed by the Democratic Socialists of America. Six new DSA -endorsed candidates were elected to the House, and democratic socialists won mayoral races in Los Angeles, Washington, D.C., and Providence. “The Democratic Socialists of America had a phenomenal night, and this movement is only going to continue to grow,” says prominent leftist political commentator Hasan Piker. “Now, here’s the problem: Hakeem Jeffries and Chuck Schumer are two of the least popular politicians in the country right now, and there are demands to change the leadership in the Democratic Party to reflect the desires of this new coalition that was developed on November 3.”",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/87e3f86aab7b295672e57e87.json"
-    },
-    {
-      "id": "94dd6e81f41b6ee9e1645ead",
-      "title": "The American people have spoken, and across the political spectrum they don’t like Israel",
-      "url": "https://mondoweiss.net/2026/11/the-american-people-have-spoken-and-across-the-political-spectrum-they-dont-like-israel",
-      "author": "Philip Weiss",
-      "source": "Mondoweiss",
-      "published_at": "2026-11-06T15:01:04+00:00",
-      "content_excerpt": "“Everyone knows why we lost,” J.D. Vance said after the Republican wipeout in the midterm elections, and among the reasons he cited was Israel. For decades, the Israel lobby worked to keep Zionism’s bigotry off voters’ radar. Those days are over.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/94dd6e81f41b6ee9e1645ead.json"
-    },
-    {
-      "id": "2aded81a489faabc6a014bb6",
-      "title": "Lula and the terrible realities of the era of counterrevolution: The Forty-Fifth Newsletter (2026)",
-      "url": "https://mronline.org/2026/11/06/lula-and-the-terrible-realities-of-the-era-of-counterrevolution-the-forty-fifth-newsletter-2026",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-11-06T14:48:01+00:00",
-      "content_excerpt": "This October, millions of Brazilian workers mobilised to defeat the far right; now the essential task begins: strengthening mass movements and forging a sovereign economic policy that develops Brazil’s productive forces. The post Lula and the terrible realities of the era of counterrevolution: The Forty-Fifth Newsletter (2026) appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/2aded81a489faabc6a014bb6.json"
-    },
-    {
-      "id": "b607dbb1394c0b61a6fec088",
-      "title": "Deb Haaland: the first Native American woman elected governor of a U.S. state",
-      "url": "https://mronline.org/2026/11/06/deb-haaland-the-first-native-american-woman-elected-governor-of-a-u-s-state",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-11-06T12:47:57+00:00",
-      "content_excerpt": "She has advocated for greater Indigenous representation in U.S. political institutions. The post Deb Haaland: the first Native American woman elected governor of a U.S. state appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/b607dbb1394c0b61a6fec088.json"
-    },
-    {
-      "id": "31da1f204bc1707b853f9e4f",
-      "title": "Israel’s “opposition” offers genocide with better PR",
-      "url": "https://mronline.org/2026/11/06/israels-opposition-offers-genocide-with-better-pr",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-11-06T11:44:02+00:00",
-      "content_excerpt": "Israel's election produced no real alternative for Palestinians, because every Zionist party from Eisenkot's Yashar to Golan's Democrats shares the same commitment to apartheid, occupation, and genocide. The post Israel’s “opposition” offers genocide with better PR appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/31da1f204bc1707b853f9e4f.json"
-    },
-    {
-      "id": "5d61232697cf3f81c830043d",
-      "title": "Review: “Communism, the Highest Stage of Ecology”",
-      "url": "https://mronline.org/2026/11/06/review-communism-the-highest-stage-of-ecology",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-11-06T10:40:36+00:00",
-      "content_excerpt": "Writing about history, science and dialectical materialism, Suing keeps the present moment and important lessons for Marxist-Leninist cadres in mind: Communism, the Highest Stage of Ecology is not a nostalgic treatise or a theoretical exercise. It is an anti-imperialist, materialist analysis of our world. The post Review: “Communism, the Highest Stage of Ecology” appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/5d61232697cf3f81c830043d.json"
-    },
-    {
-      "id": "c68bca8d95c8381df96b28c7",
-      "title": "1.6 million join general strike in France against austerity",
-      "url": "https://breakthroughnews.org/2026/11/06/1-6-million-join-general-strike-in-france-against-austerity",
-      "author": "Ana Vračar",
-      "source": "BT News",
-      "published_at": "2026-11-06T04:09:00+00:00",
-      "content_excerpt": "Following weeks of major mobilizations led by high school and university students , hundreds of thousands of people responded to a general strike call by French trade unions. On Thursday, November 5, over 200 events and at least 1,500 industrial action appeals brought the country to a standstill again. According to the General Confederation of Labor (CGT), roughly 1.6 million people took to the streets. The organization reported 350,000 people in Paris, 150,000 in Marseille, 120,000 in Bordeaux, and 100,000 in Lille, among others – despite authorities’ attempts to obstruct the day. Approximately 1.6 million people took part in protests across France on November 5, 2026. Author: Jaylen Strong Participants at strikes and rallies demanded concrete measures to address the cost-of-living crisis",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/c68bca8d95c8381df96b28c7.json"
-    },
-    {
-      "id": "9fbc48217633c616ec76b8ed",
-      "title": "Building popular power against imperialism in West Africa",
-      "url": "https://breakthroughnews.org/2026/11/06/building-popular-power-against-imperialism-in-west-africa",
-      "author": "Kate Janse Van Rensburg",
-      "source": "BT News",
-      "published_at": "2026-11-06T04:09:00+00:00",
-      "content_excerpt": "Under the banner “One People, One Struggle: Against Imperialism for Popular Power in West Africa,” the West Africa People’s Organisation (WAPO) convened its Second Congress at the Amilcar Cabral School in Agyanoa, Ghana, from October 31 to November 1. The two-day event gathered delegates from 29 organizations across 11 countries. Representing political parties, social movements, trade unions, peasant groups, and women’s organizations, participants assembled to construct a unified front against imperialist domination and chart a strategic path toward popular sovereignty across West Africa. Following an opening cultural performance by a local ensemble, Revolutionary Kolomashie, the beat of drums and blare of the trumpet set the scene for vibrant plenary sessions and commission debates focuse",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/9fbc48217633c616ec76b8ed.json"
-    },
-    {
-      "id": "bb5603dbc84084de93905923",
-      "title": "Jordanian security officer killed in stabbing attack in Amman",
-      "url": "https://breakthroughnews.org/2026/11/05/jordanian-security-officer-killed-in-stabbing-attack-in-amman",
-      "author": "Aseel Saleh",
-      "source": "BT News",
-      "published_at": "2026-11-06T00:10:42+00:00",
-      "content_excerpt": "One Jordanian police officer was killed and another was injured in a stabbing attack outside the Sri Lankan embassy in Jordan’s capital, Amman, on Thursday, November 5. According to a statement issued by Jordan’s Public Security Directorate (PSD), the slain officer was identified as Corporal Jawad al-Salaytah. PSD also confirmed that the perpetrator was arrested by a police patrol that rushed into the site of the attack. Jordanian Government Communication Minister and Official Government Spokesperson Mohammad Momani said that the preliminary investigation revealed that the assault was a “cowardly terrorist attack.” Momani affirmed that “attacking security personnel while performing their duty is an assault on the prestige of the state and the rule of law, and an assault on every Jordanian.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/bb5603dbc84084de93905923.json"
-    },
-    {
-      "id": "6bf09740c14e60d4aa639206",
-      "title": "South Korea moves to join Iran War under US pressure",
-      "url": "https://breakthroughnews.org/2026/11/05/south-korea-moves-to-join-iran-war-under-us-pressure",
-      "author": "Ju-Hyun Park",
-      "source": "BT News",
-      "published_at": "2026-11-06T00:10:42+00:00",
-      "content_excerpt": "South Korea’s government has begun procedures to potentially join the US-Israeli war of aggression against Iran. On November 5, a vice-ministerial meeting affirmed a decision to expand the military capacities and operational area of the Cheonghae Unit, a blue-water naval force that has operated in the Gulf of Aden near the Red Sea as part of an “anti-piracy” mission since 2020. The revised mandate of the Cheonghae Unit would double its deployment area up to the waters of the Arabian Sea south of Duqm, Oman. This would place Republic of Korea (ROK) naval units on the fringes of the Gulf of Oman and the Strait of Hormuz – areas Iran has declared closed to foreign military vessels. The proposal would further expand the Cheonghae Unit to include P-8A Poseidon maritime patrol aircraft, an Explo",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/6bf09740c14e60d4aa639206.json"
-    },
-    {
-      "id": "6f8e0aa8211b403aeeb36a0b",
-      "title": "Paraguay’s right-wing president resigns as major bank collapses",
-      "url": "https://breakthroughnews.org/2026/11/05/paraguays-right-wing-president-resigns-as-major-bank-collapses",
-      "author": "Pablo Meriguet",
-      "source": "BT News",
-      "published_at": "2026-11-05T23:05:00+00:00",
-      "content_excerpt": "Under the anguished, enraged gaze of millions of Paraguayans, the country’s right-wing president, Santiago Peña, announced his resignation amid opposition calls to initiate impeachment proceedings over his alleged responsibility for the closure of Ueno Bank, one of the South American nation’s most important financial institutions. “With the conviction that our republic must always take precedence over any individual or circumstance … I have decided to submit my resignation as president of the republic. I do so with the stability of our country, social peace, and the need to preserve our democratic institutions in mind,” Peña said in a televised address . Peña has been embroiled in serious allegations after his government transferred millions of dollars to Ueno Bank (nearly $850 million in ",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/6f8e0aa8211b403aeeb36a0b.json"
     }
   ]
 }
