@@ -1,12 +1,147 @@
 {
-  "generated_at": "2026-11-07T22:54:04.377502+00:00",
-  "generated_at_jst": "2026-11-08T07:54:04.377502+09:00",
-  "period_start": "2026-11-06T16:54:04.377502+00:00",
+  "generated_at": "2026-11-08T23:00:16.068553+00:00",
+  "generated_at_jst": "2026-11-09T08:00:16.068553+09:00",
+  "period_start": "2026-11-07T17:00:16.068553+00:00",
   "lookback_hours": 30,
   "folder": "00_毎日確認",
-  "article_count": 15,
+  "article_count": 10,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "1d9a159d12980823ca8dd297",
+      "title": "Lula's Stunning Victory",
+      "url": "https://www.laprogressive.com/foreign-policy/lulas-stunning-victory",
+      "author": "Roger D. Harris",
+      "source": "LA Progressive",
+      "published_at": "2026-11-08T15:41:28+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Just over a month ago, a MAGA-aligned rightwing juggernaut appeared to be on a roll in Latin America. The far right had captured every presidential election since Venezuela’s Nicolás Maduro was reelected in July 2024. In addition, recent parliamentary elections have landed the Bahamas, Belize, Trinidad and Tobago, Guyana, and Jamaica in MAGA-aligned alliances such as the Shield of the Americas . Among the remaining leftist countries in the region, the US had kidnapped Venezuela’s Maduro and imposed a “ negotiated sovereignty ” on that nation. An ever-intensifying blockade continued to asphyxiate Cuba. And a renewed offensive was mounted against Nicaragua. Brazil and Mexico ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/1d9a159d12980823ca8dd297.json"
+    },
+    {
+      "id": "0caa0af53d95d3fdf31b8764",
+      "title": "Media Covered Hunter Biden",
+      "url": "https://www.laprogressive.com/the-media-in-the-united-states/media-covered-hunter-biden",
+      "author": "Julie Hollar",
+      "source": "LA Progressive",
+      "published_at": "2026-11-08T15:41:08+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Particularly since the Citizens United ruling, US politics has been awash in corporate and billionaire money, with both parties taking gobs of cash from corporations that have direct interests in government policies. But President Donald Trump has taken corruption to new and breathtakingly bold levels. “I have never seen such open corruption in any modern government anywhere,” said Harvard professor of government Steven Levitsky ( Guardian , 6/17/25 ). So, it’s probably not surprising to hear CNN ( 10/21/26 ) report that voters are increasingly “concerned about corruption,” ranking it only after the economy and the cost of living as a top concern. In a Gallup poll ( 9/2/26 ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/0caa0af53d95d3fdf31b8764.json"
+    },
+    {
+      "id": "2cc340211c0e410ec85a7f3c",
+      "title": "Billionaires Don't Donate",
+      "url": "https://www.laprogressive.com/election-and-campaigns/billionaires-dont-donate",
+      "author": "Sonali Kolhatkar",
+      "source": "LA Progressive",
+      "published_at": "2026-11-08T14:51:34+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. The 2026 midterm elections have been the most expensive in history, with more than $11 billion being spent on political ads. While Democratic candidates have outraised Republicans in individual donations by appealing directly to voters, Republicans have received the lion’s share of money from super PACs (political action committees) funded by a small number of the wealthiest elites in the United States. The single biggest election-cycle donor is, unsurprisingly, the richest human on the planet. Elon Musk , the world’s first trillionaire, has poured more money into influencing the 2026 midterm elections than anyone has ever done in any election . His unprecedented contributi",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/2cc340211c0e410ec85a7f3c.json"
+    },
+    {
+      "id": "c949d8f31c7b1a0a2f34c909",
+      "title": "Portland’s Socialists Have Built a Political Machine",
+      "url": "https://jacobin.com/2026/11/portland-democratic-socialists-city-council",
+      "author": "Roman Broszkowski",
+      "source": "Jacobin",
+      "published_at": "2026-11-08T14:07:45+00:00",
+      "content_excerpt": "Over the last two years, the Portland, Oregon, chapter of the Democratic Socialists of America (DSA) has developed a reputation for punching far above its city’s weight. The chapter sits just behind the New York, Los Angeles, and Washington, DC, chapters in terms of size, and roughly one in two hundred Portlanders is a member (compared to about one in 530 New Yorkers). Today one-third of Portland’s city council actively participates in the group’s Socialists in Office Committee (SIOC); this election cycle, the chapter ran candidates for state and county office. Yet for most of the chapter’s history, elections weren’t a focus, and candidates for office were often kept at arm’s length. “For a significant period where I was involved, a number of people just believed that candidates couldn’t d",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/c949d8f31c7b1a0a2f34c909.json"
+    },
+    {
+      "id": "4621c8d54f6cdf68c8c87bc5",
+      "title": "Xi Jinping’s Chinese Dream Has Replaced the Maoist Credo",
+      "url": "https://jacobin.com/2026/11/china-development-labor-peasants-party-state",
+      "author": "Teemu Ruskola",
+      "source": "Jacobin",
+      "published_at": "2026-11-08T14:07:45+00:00",
+      "content_excerpt": "Since 1978, China has undergone a series of seismic changes in its economic order that have radically altered its citizens’ relationship to both labor and land. They have unmade the socialist working class and are in the process of expropriating the peasantry, transforming both into a propertyless proletariat. At the same time, China’s political structure has not undergone a similar revolution. Accordingly, the contradiction between its systems of economic and political organization is increasingly acute. A Single Story The disjunctive fates of rural and urban China have been part of a single story ever since the establishment of the People’s Republic. It is the impoverished hinterland that subsidized the rise of the urban industry under state socialism. Unlike in England during its indust",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/4621c8d54f6cdf68c8c87bc5.json"
+    },
+    {
+      "id": "090274d980857e0568145401",
+      "title": "The Bases of US Empire Are Crumbling",
+      "url": "https://jacobin.com/2026/11/us-imperialism-dollar-finance-china",
+      "author": "Costas Lapavitsas",
+      "source": "Jacobin",
+      "published_at": "2026-11-08T14:07:45+00:00",
+      "content_excerpt": "Imperialism is again at the forefront of world politics. Large-scale war has become a permanent feature of the present era, from Ukraine to Gaza. Donald Trump’s second term has added a tariff war, threats to annex Greenland, the abduction of Venezuela’s president, and, together with Israel, an unprovoked war on Iran. This is not the whim of one man, for the confrontation with China began under Trump’s first term and deepened under Joe Biden. At the same time, politics across the mature capitalist countries is in deep turmoil. In the United States, the Left has become a force in mass politics, with a democratic socialist as mayor of New York and widespread opposition to Immigration and Customs Enforcement (ICE), Israel’s genocide in Palestine, and the war on Iran. In France, governments hav",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/090274d980857e0568145401.json"
+    },
+    {
+      "id": "d8c2abf225b800f6a492c918",
+      "title": "The Volkswagen Crisis Exposes Germany’s Industrial Decline",
+      "url": "https://jacobin.com/2026/11/volkswagen-europe-cars-evs-china",
+      "author": "Alexander Görlach",
+      "source": "Jacobin",
+      "published_at": "2026-11-08T14:07:45+00:00",
+      "content_excerpt": "On October 9, European Union Trade Commissioner Maroš Šefčovič announced an agreement on hybrid vehicles, following two days of talks with Chinese Commerce Minister Wang Wentao in Beijing. According to Šefčovič, over the next four years or so, Chinese exports of full and plug-in hybrids to the EU are expected to fall below half of previous forecasts. The specific quotas, minimum prices, or monitoring mechanisms were not disclosed. The agreement is provisional, with further talks scheduled for 2027. Shortly before Šefčovič’s trip, German Chancellor Friedrich Merz and French President Emmanuel Macron had been putting pressure on the European Commission. In early October, in a letter to Commission President Ursula von der Leyen and a joint paper , they called for the commission to be given mo",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/d8c2abf225b800f6a492c918.json"
+    },
+    {
+      "id": "f0671e31ba84817a2f86859a",
+      "title": "India's Mediterranean Strategy",
+      "url": "https://www.laprogressive.com/foreign-policy/indias-mediterranean-strategy",
+      "author": "Vijay Prashad",
+      "source": "LA Progressive",
+      "published_at": "2026-11-08T04:37:56+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. On 26 October 2026, Greece’s foreign minister George Gerapetritis stood at the United Nations headquarters and rejected the maritime agreement between Turkey and Libya. Gerapetritis spoke on behalf of Greece of course, but also Bahrain, Cyprus, Egypt, the European Union, and the United Arab Emirates. Five days later, the Indian frigate INS Trishul entered Souda Bay in Crete as part of activities with the US Navy installation (Naval Support Activity) and with the NATO Maritime Interdiction Operational Training Centre. The sequence illuminates a developing strategic geography: India’s naval reach, its confrontation with Pakistan’s new Turkish partner, and its ambition to conn",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/f0671e31ba84817a2f86859a.json"
+    },
+    {
+      "id": "85c4d91f3692f57e7a549148",
+      "title": "Fighting ICE From the Ground Up",
+      "url": "https://www.laprogressive.com/left-coast-forum/fighting-ice-from-the-ground-up",
+      "author": "Guest Author",
+      "source": "LA Progressive",
+      "published_at": "2026-11-08T00:07:45+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. When immigration agents take a father from his workplace, the consequences extend far beyond the moment of arrest. His children may lose their primary caregiver. His family may suddenly face eviction or hunger. Relatives may spend days trying to determine where he has been taken, while struggling to raise money for an attorney, telephone calls, or food inside a detention facility. Those were among the experiences described at the October 2026 Left Coast Forum at Cal State LA, where grassroots organizers gathered for a panel titled The Impact of ICE Session I: How Communities Have Responded to ICE Raids and Where We Go From Here. MaryLinda Moss The discussion brought togethe",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/85c4d91f3692f57e7a549148.json"
+    },
     {
       "id": "e5233e84b0089af3cfdc1d34",
       "title": "The Tasks for DSA After the Blue Wave",
@@ -21,216 +156,6 @@
       "priority": 1,
       "date_missing": false,
       "article_path": "articles/e5233e84b0089af3cfdc1d34.json"
-    },
-    {
-      "id": "6c70929e9d7a078f86213d48",
-      "title": "Enough With the “Public Option” Already",
-      "url": "https://jacobin.com/2026/11/public-option-health-care-insurance",
-      "author": "John Canham-Clyne",
-      "source": "Jacobin",
-      "published_at": "2026-11-07T16:31:45+00:00",
-      "content_excerpt": "The difference between a vampire and a bad health care policy idea is that vampires jump out of their coffins and drink blood at sunset. Undead health care proposals emerge from think tank closets and suck the life out of useful ideas when the sun rises on a national health care debate. As public fury at exploding costs and deadly corporate claims denials boils over into historic Democratic election gains, can someone please find a wooden stake for the public option? Improved and expanded Medicare for All would give everyone full coverage at much lower cost than the combined private premiums, taxes, and out-of-pocket payments that are eating up family income today. But it violates a cardinal rule of federal politics: never do anything that causes corporations or the ultrawealthy any pain. ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/6c70929e9d7a078f86213d48.json"
-    },
-    {
-      "id": "a66f67dd684849b8ec5f5134",
-      "title": "Beyond the Blue Wave",
-      "url": "https://www.laprogressive.com/election-and-campaigns/beyond-the-blue-wave",
-      "author": "Michael Albert",
-      "source": "LA Progressive",
-      "published_at": "2026-11-07T16:18:49+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. To reject fascism is a necessary and good thing. The 2026 election results are part of that. But we should also acknowledge a sad reality. We have not overnight entered another better world. To joyously celebrate having elected some new and quite promising Democrats, some other typical business-as-usual Democrats, and especially to have the Democrats as a whole re-empowered is fully warranted. Glass half full says Trumpism is on the way out. Trump will be but another stain, albeit a major one, on a long-since and repeatedly horribly re-stained history. But Trump will not redirect history to become forever worse. Fascism is stopped. We needed that. Trump is trounced. We cele",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/a66f67dd684849b8ec5f5134.json"
-    },
-    {
-      "id": "c676e16ae5476dc595035f6b",
-      "title": "Plea From Gaza",
-      "url": "https://www.laprogressive.com/foreign-policy/plea-from-gaza",
-      "author": "W. D. Ehrhart",
-      "source": "LA Progressive",
-      "published_at": "2026-11-07T16:02:48+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. As those of you who read my writing know, I have had for nearly three years a wonderful, though at times heartbreaking, correspondence with Rawand Gawad abu Ghanem, a young Palestinian woman living in Gaza with her husband and two sons, Yamen, 6, and Mohammed, 1&1/2. I’ve written about her before. I’ve just received another letter from her dated October 21 st , but I only received it a few days ago. She writes: My Dear Friend, I am sorry to write to you of new sorrow, but sometimes just holding this paper and pen in my hands is what reminds me that I am alive. While I am grateful to Allah that he has granted me the blessing of children, I must raise them in an environment t",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/c676e16ae5476dc595035f6b.json"
-    },
-    {
-      "id": "cebf18e7ad025977d18b8363",
-      "title": "Democracy’s Final Battle",
-      "url": "https://www.laprogressive.com/progressive-issues/democracys-final-battle",
-      "author": "Rob Okun",
-      "source": "LA Progressive",
-      "published_at": "2026-11-07T15:36:33+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. A disturbing essay by conservative Republican Judge Michael J. Luttig, The Final Battle for American Democracy , lays out steps that Trump and his minions will likely take to overturn the results of the coming midterm election. The Trump gang will refuse to seat a duly elected Democrat majority. This possibility should not be ignored. Desperate people do desperate things, and Trump is under intense pressure. Polls indicate that he, his party, and his policies are deeply unpopular and will be rejected in the midterms. Facing the loss of congressional control, they are likely to refuse to transfer power and try to justify that refusal by falsely claiming election fraud, repea",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/cebf18e7ad025977d18b8363.json"
-    },
-    {
-      "id": "b3ece9ee1b12ad560c6a835a",
-      "title": "The Trump Era Is Bad. But Is It Evil?",
-      "url": "https://jacobin.com/2026/11/review-neiman-evil-trump-era",
-      "author": "Matt McManus",
-      "source": "Jacobin",
-      "published_at": "2026-11-07T15:29:03+00:00",
-      "content_excerpt": "Leftists have an unusual relationship to the language of good and evil. On the one hand, we have a reputation for being righteous. . . . at times even self-righteous. Our publications are saturated with enough morally strident language to make a preacher blush. Even the most “scientific” of scientific socialists aren’t entirely immune, from tireless invocations of Rev Martin Luther King Jr and constant demands for justice and freedom for all to calls to end subordination and marginalization around the globe . On the other hand, leftists tend to be averse to describing structures, let alone people, as evil. Exploitative? Yes. Domineering? Of course. But evil? At best, that’s language reserved for your Hannah Arendt reading group. Philosopher Susan Neiman takes umbrage at this reticence. Aut",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/b3ece9ee1b12ad560c6a835a.json"
-    },
-    {
-      "id": "d3c582beabf4a7f7b991087c",
-      "title": "In Turkey, When Does a Joke Become a Crime?",
-      "url": "https://jacobin.com/2026/11/turkey-goktas-comedy-free-speech-repression",
-      "author": "Dora Mengüç",
-      "source": "Jacobin",
-      "published_at": "2026-11-07T14:40:49+00:00",
-      "content_excerpt": "Have you ever made a joke that offended someone? Maybe they took it personally or stopped speaking to you. A joke can put strain on a relationship or leave someone feeling isolated. But what if the consequences for a joke go far beyond social fallout? What if a comedy performance lands you in a high-security prison cell? For Deniz Göktaş, this question is no longer hypothetical. Until recently, Göktaş performed for relatively small audiences, playing bars in Kadıköy, an Istanbul district known for political satire, and occasionally in university halls elsewhere in Turkey. He was part of a niche comedy scene. Things changed when he took his show to one of Istanbul’s most prominent stages and uploaded the performance to YouTube, opening it to a much wider audience. He knew the show might att",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/d3c582beabf4a7f7b991087c.json"
-    },
-    {
-      "id": "937da494941e5ec16fc3c242",
-      "title": "In Finland, the Left Can Lead on Fair AI Policy",
-      "url": "https://jacobin.com/2026/11/finland-ai-google-data-centers-regulation",
-      "author": "Mike Watson",
-      "source": "Jacobin",
-      "published_at": "2026-11-07T14:00:58+00:00",
-      "content_excerpt": "Finland’s next general election has been set for next April 18, hopefully bringing an end to the National Coalition Party’s current slash-and-burn coalition, in which the far-right Finns Party plays a key role. Recent polls have, however, seen the latter worryingly rise to second position, becoming the main right-wing force for the first time ever. Trailing Antti Lindtman’s Social Democrats (SDP) by 6 percentage points, the Finns Party is placing its hope in polarizing the election over immigration. But as the SDP and other left-of-center parties like the Left Alliance and the Greens seek to fend off a far-right surge, a new key battleground has emerged: artificial intelligence. Crossing over into the perennial issues of education, employment, and the environment, AI is already becoming a ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/937da494941e5ec16fc3c242.json"
-    },
-    {
-      "id": "0784040f0815fe6b49a2a83c",
-      "title": "Pension Is Wall Street's Casino",
-      "url": "https://www.laprogressive.com/economic-equality/pension-is-wall-streets-casino",
-      "author": "Ellen Brown/Web of Debt",
-      "source": "LA Progressive",
-      "published_at": "2026-11-06T23:13:55+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. “Most billionaires don’t park their money in making more businesses. They park their money in the stock market. That is not meaningfully investing in opportunity, it’s just investing in other billionaires.” So said Abdul El-Sayed , U.S. Senator-elect from Michigan. He said that he would rather “have an economy that makes a thousand millionaires than one billionaire,” and that money that would otherwise go into the S&P 500 should go instead to “good schools, good infrastructure, health care, child care.” It’s a laudable sentiment, but those thousand millionaires would probably still be parking their money in investments designed to make more money without producing anything.",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/0784040f0815fe6b49a2a83c.json"
-    },
-    {
-      "id": "1dbae3a5110740020e9b88f5",
-      "title": "Remembering Dolores Huerta (1930-2026)",
-      "url": "https://religioussocialism.org/remembering-dolores-huerta-1930-2026",
-      "author": "DSA Religion and Socialism Working Group",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-11-06T21:25:04+00:00",
-      "content_excerpt": "Dolores Huerta , who died on October 28 at the age of 96, was an honorary chair of DSA from 2012-2016. But her involvement with our organization went back as far as being a speaker at a 1975 convention of one of DSA’s predecessor organizations. My wife, Dolores Delgado-Campbell, and I met her even earlier,when we were co-chairs of the United Farm Workers (UFW) lettuce boycott committee in Sacramento. We entered the fray in 1972 when the corrupt leadership of the Teamsters Union signed sweetheart contracts with grape growers, committing one of the worst examples of union betrayal in U.S. history. These contracts effectively ended the grape strike of mostly Mexican American and Filipino workers that many churches and synagogues had supported. Working with Dolores and the UFW for the next dec",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/1dbae3a5110740020e9b88f5.json"
-    },
-    {
-      "id": "1f4eb4e86ac32ac64aa3a255",
-      "title": "Israel’s Shaky Democracy Continues to Crumble",
-      "url": "https://jacobin.com/2026/11/israel-democracy-palestinians-apartheid-netanyahu",
-      "author": "Jared Hillel",
-      "source": "Jacobin",
-      "published_at": "2026-11-06T18:19:29+00:00",
-      "content_excerpt": "In July 1950, speaking at the annual Zionist Organization of America convention, US Vice President Alben W. Barkley asserted that Israel was “an oasis of liberty in the desert of despotism,” articulating a precursor to the oft-repeated adage “Israel is the only democracy in the Middle East.” While the expression cannot be traced to a singular person, the sentiment that Israel — a nation with free elections and civil liberties — stands alone amid a sea of authoritarian regimes has been cultivated by Western institutions and Israeli leaders since the state was founded. From the outset, Israel’s earliest laws legalizing persecution against Palestinians showed the incompatibility between Jewish supremacy and democracy. But the subjugation of one group is rarely self-contained, and throughout h",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/1f4eb4e86ac32ac64aa3a255.json"
-    },
-    {
-      "id": "134ed85e5f8253719613f9b2",
-      "title": "Medi-Cal Crisis Deepens",
-      "url": "https://www.laprogressive.com/healthcare/medi-cal-crisis-deepens",
-      "author": "Mark Kreidler",
-      "source": "LA Progressive",
-      "published_at": "2026-11-06T18:14:36+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. I met Rena Salamacha last summer, when the worst of H.R. 1’s cuts to federal Medicaid funding weren’t yet finalized, only feared. Salamacha, CEO of Mee Memorial Healthcare System in Monterey County, knew then that the system’s medical center in King City, serving rural and mostly low income patients, was already in trouble. “We don’t have services to cut,” the CEO said simply. More than a year later, that remains the reality. After all the shouting over Prop. 40, and the massive investment of time and money by California’s billionaire class to defeat the tax , the state’s fragile health care ecosystem is in the same place it was last week: trying, as Salamacha tries every w",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/134ed85e5f8253719613f9b2.json"
-    },
-    {
-      "id": "df4dd09cf95fec303e1dbeb0",
-      "title": "Austerity Is Now the Central Conflict in Brazilian Politics",
-      "url": "https://jacobin.com/2026/11/brazil-lula-bolsonaro-austerity-classes",
-      "author": "André Singer",
-      "source": "Jacobin",
-      "published_at": "2026-11-06T17:09:42+00:00",
-      "content_excerpt": "On October 4, Senator Flávio Bolsonaro, the son of former president Jair Bolsonaro, finished the first round of Brazil’s presidential election nearly two points ahead of President Luiz Inácio Lula da Silva. Three weeks later, Lula turned the result around and won a fourth term in the October 25 runoff. In between, left-led demonstrations filled the streets of hundreds of Brazilian cities. The government also banned online betting, backed a forty-hour workweek, and raised the benefit of Bolsa Família, the cash-transfer program for poor families that Lula created in 2003. Few analysts know Lula’s political project better than André Singer. A professor of political science at the University of São Paulo, Singer served as Lula’s spokesperson from 2003 to 2007 and press secretary from 2005 to 2",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/df4dd09cf95fec303e1dbeb0.json"
-    },
-    {
-      "id": "fea7b0dcb7c5509c8ff7a0b7",
-      "title": "Equality Is About Who Rules",
-      "url": "https://jacobin.com/2026/11/anderson-philosophy-egalitarianism-workplace-tyranny",
-      "author": "Matt McManus",
-      "source": "Jacobin",
-      "published_at": "2026-11-06T17:00:12+00:00",
-      "content_excerpt": "There is a complex debate about the extent to which socialists prioritize equality above the full flowering of each person’s individuality. But you’d have to be quite the contrarian to deny that socialists take equality very seriously; perhaps more seriously than any other major political ideology. Prominent socialist thinkers like G. A. Cohen and Thomas Piketty have dedicated much of their work to defending the philosophical and economic merits of egalitarianism. Socialist Martin Luther King’s “I Have a Dream” speech put equality at the core of his vision: “that one day this nation will rise up and live out the true meaning of its creed: ‘We hold these truths to be self-evident, that all men are created equal.’” That said, the commitment of socialists and other egalitarians to equality ca",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/fea7b0dcb7c5509c8ff7a0b7.json"
-    },
-    {
-      "id": "65f252b59ccf06d9d6766cf1",
-      "title": "Ok, Now Don’t F**k It Up!",
-      "url": "https://www.laprogressive.com/election-and-campaigns/ok-now-dont-f-k-it-up",
-      "author": "Ted Vaill",
-      "source": "LA Progressive",
-      "published_at": "2026-11-06T16:59:20+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. A few days ago, before the Midterm election, I was hoping for, but not really expecting, a Blue Wave. But we now clearly have a Blue Tsunami - Democrats will be in the majority, by a large margin, in both houses of Congress and a have a strong majority of governors, and in all the largest states except Florida. All the “battleground” states now have Democratic governors and the “trifecta” of the governor and both houses of the legislature. There is also a chance that next year the Interstate Compact will become law (it needs passage from states with a total of 48 more electoral votes), and if this happens the 2028 Presidential election will be decided by the U.S. popular vo",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/65f252b59ccf06d9d6766cf1.json"
     }
   ]
 }

@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-11-07T22:54:04.377502+00:00",
-  "generated_at_jst": "2026-11-08T07:54:04.377502+09:00",
-  "period_start": "2026-11-06T16:54:04.377502+00:00",
+  "generated_at": "2026-11-08T23:00:16.068553+00:00",
+  "generated_at_jst": "2026-11-09T08:00:16.068553+09:00",
+  "period_start": "2026-11-07T17:00:16.068553+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
-  "article_count": 14,
+  "article_count": 2,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "a7f7743b831d5ad1f5e2f056",
+      "title": "Italy: The rise of the student and youth movement in Europe",
+      "url": "https://tempestmag.org/2026/11/italy-the-rise-of-the-student-and-youth-movement-in-europe",
+      "author": "Communist Workers’ Party, Italy",
+      "source": "Tempest",
+      "published_at": "2026-11-08T01:18:38+00:00",
+      "content_excerpt": "T he massive student movement in France—the largest since May 1968— the demonstrations in the streets of Spain demanding the right to housing, the beginning of its potential spread to Portugal, and the prolonged popular uprising in Albania with the explicit demand for the ouster of the Rama government, are ushering in a new chapter in Europe. We are witnessing the rise of the student and youth movement, which has the potential to spread. We cannot predict its future today, but it is essential to understand its characteristics. Palestine led the way Over the past two years, the pro-Palestinian movement has also seen a broad segment of the younger generation in Europe come to the forefront. Amid the barbarity of the Zionist genocide, millions of young people saw more than just the oppression",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/a7f7743b831d5ad1f5e2f056.json"
+    },
     {
       "id": "7f85d0848843b590a5968aa8",
       "title": "What’s next for the socialist movement after the resounding defeat of Trump, MAGA, ICE, and the Iran War? [The Socialist Program]",
@@ -21,201 +36,6 @@
       "priority": 2,
       "date_missing": false,
       "article_path": "articles/7f85d0848843b590a5968aa8.json"
-    },
-    {
-      "id": "ad165771e8cf0485fcaac2bf",
-      "title": "France strikes against the rulers who sold Europe to United States gas",
-      "url": "https://mronline.org/2026/11/07/france-strikes-against-the-rulers-who-sold-europe-to-united-states-gas",
-      "author": "Gary Wilson",
-      "source": "MR Online",
-      "published_at": "2026-11-07T14:51:38+00:00",
-      "content_excerpt": "From high school blockades to a national strike, workers in France are on the move. The post France strikes against the rulers who sold Europe to United States gas appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/ad165771e8cf0485fcaac2bf.json"
-    },
-    {
-      "id": "8b589c3904ddb2e151dfe593",
-      "title": "What will the Democrats’ ‘Blue Wave’ mean for Trump’s foreign policy?",
-      "url": "https://mondoweiss.net/2026/11/what-will-the-democrats-blue-wave-mean-for-trumps-foreign-policy",
-      "author": "Michael Arria",
-      "source": "Mondoweiss",
-      "published_at": "2026-11-07T14:32:58+00:00",
-      "content_excerpt": "Mondoweiss speaks with analyst Mitchell Plitnick about what the Democrats' \"Blue Wave\" could mean for Trump's foreign policy, how the Israeli elections could impact the United States, and how JD Vance is using Israel to position his political future.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/8b589c3904ddb2e151dfe593.json"
-    },
-    {
-      "id": "0703ecf39be50d26a4332f23",
-      "title": "An electoral victory is not liberation: The fight against gangster capitalism",
-      "url": "https://mronline.org/2026/11/07/an-electoral-victory-is-not-liberation-the-fight-against-gangster-capitalism",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-11-07T13:50:23+00:00",
-      "content_excerpt": "Defeating authoritarian politicians at the ballot box does not dismantle the systems of power that made their rise possible. The post An electoral victory is not liberation: The fight against gangster capitalism appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/0703ecf39be50d26a4332f23.json"
-    },
-    {
-      "id": "1e0740ed57d68dd343915109",
-      "title": "Cira Pascual Marquina: Building international solidarity from a Venezuelan commune",
-      "url": "https://mronline.org/2026/11/07/cira-pascual-marquina-building-international-solidarity-from-a-venezuelan-commune",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-11-07T12:50:04+00:00",
-      "content_excerpt": "A Marxist internationalist activist and Venezuelan at heart. For 20 years in Caracas, Cira has built community and solidarity rooted in activism, education and friendship. The post Cira Pascual Marquina: Building international solidarity from a Venezuelan commune appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/1e0740ed57d68dd343915109.json"
-    },
-    {
-      "id": "daf2371cb6ff4a2b68c673b7",
-      "title": "Reinforcing the imperialist drive",
-      "url": "https://mronline.org/2026/11/07/reinforcing-the-imperialist-drive",
-      "author": "Prabhat Patnaik",
-      "source": "MR Online",
-      "published_at": "2026-11-07T11:52:27+00:00",
-      "content_excerpt": "The capitalist system cannot experience sustained growth in the absence of an exogenous stimulus, that is a stimulus arising from outside the process of growth itself. The post Reinforcing the imperialist drive appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/daf2371cb6ff4a2b68c673b7.json"
-    },
-    {
-      "id": "9a0fac892b323e2ba7309ebf",
-      "title": "Supermajority of Jewish Americans think Israel and Aipac drive antisemitism",
-      "url": "https://mronline.org/2026/11/07/supermajority-of-jewish-americans-think-israel-and-aipac-drive-antisemitism",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-11-07T10:55:59+00:00",
-      "content_excerpt": "Vast majority of Jewish voters in U.S. want sanctions against 'violent West Bank settlers'. The post Supermajority of Jewish Americans think Israel and Aipac drive antisemitism appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/9a0fac892b323e2ba7309ebf.json"
-    },
-    {
-      "id": "a6f4256f085139d7c1b8092e",
-      "title": "Iran warns against any new escalation in the war, asks Trump to heed the popular will after midterm drubbing",
-      "url": "https://breakthroughnews.org/2026/11/06/iran-warns-against-any-new-escalation-in-the-war-asks-trump-to-heed-the-popular-will-after-midterm-drubbing",
-      "author": "Abdul Rahman",
-      "source": "BT News",
-      "published_at": "2026-11-06T23:24:09+00:00",
-      "content_excerpt": "No amount of rhetoric and threats of aggression will undermine its people’s will to protect its sovereignty and national integrity, Iran reiterated in the context of talks about the Donald Trump administration’s possible escalation in the war after being crushed in the US midterm elections. Though Trump admitted that the US-Israeli war on Iran was the main factor in his Republican Party’s losses in the November 3 midterm elections, he attempted to justify his decision to go to the war and even said he will do it again if necessary. In yet another TV interview after the results were announced on Wednesday, Trump even hinted that the US may have to do “something big” in order to make sure that Iran never gets nuclear weapons. Iran has always maintained it never wanted to develop nuclear weap",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/a6f4256f085139d7c1b8092e.json"
-    },
-    {
-      "id": "d48159de7f0f459846713696",
-      "title": "Follow the money: billionaire spending on the 2026 midterms",
-      "url": "https://breakthroughnews.org/2026/11/06/follow-the-money-billionaire-spending-on-the-2026-midterms",
-      "author": "Amanda Yee",
-      "source": "BT News",
-      "published_at": "2026-11-06T23:24:09+00:00",
-      "content_excerpt": "OpenSecrets published its list of top donors to outside groups this election cycle, and the top ten is a “who’s who” of billionaires: Elon Musk, casino magnate Miriam Adelson, former New York City mayor Michael Bloomberg, and tech oligarchs Benjamin Horowitz, Marc Andreessen, and Paul Singer all made the list. And although Republicans outraised and outspent Democrats across the board, the real story isn’t the party split. It’s who is writing the checks, and what they’re buying. In particular, three special interest groups spent historic amounts to capture Congress: AIPAC, Big Tech, and crypto. Below are some of the most egregious examples, but this is far from an exhaustive list. AIPAC AIPAC contributed nearly $25 million to federal candidates and political committees this election cycle, ",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/d48159de7f0f459846713696.json"
-    },
-    {
-      "id": "c83f693ea933d59c2a1a4d24",
-      "title": "Ireland to explore scenarios for constitutional future, including unity",
-      "url": "https://breakthroughnews.org/2026/11/06/ireland-to-explore-scenarios-for-constitutional-future-including-unity",
-      "author": "Ana Vračar",
-      "source": "BT News",
-      "published_at": "2026-11-06T23:24:09+00:00",
-      "content_excerpt": "Irish Prime Minister Micheál Martin recently announced plans to establish a government body to prepare for different scenarios for the country’s constitutional future, including the possibility of a united Ireland. A first round of updates about this plan are expected before the end of the year. In addition to outlining the scenario of a unitary Irish state, the body would also be tasked to prepare for a possible continuation of the existing situation, and “a future united Ireland in which Northern Ireland would remain a devolved entity, maintaining its own separate assembly and government, civil services, public services and police,” Martin said in an interview with The Irish Times in late October. “Sinn Féin believes that a united Ireland is the best future for all our people,” party lea",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/c83f693ea933d59c2a1a4d24.json"
-    },
-    {
-      "id": "60023840cf4a093fbb191927",
-      "title": "The bees in the city: organizing China’s delivery workers in Ganzhou",
-      "url": "https://breakthroughnews.org/2026/11/06/the-bees-in-the-city-organizing-chinas-delivery-workers-in-ganzhou",
-      "author": "Tings Chak",
-      "source": "BT News",
-      "published_at": "2026-11-06T22:21:15+00:00",
-      "content_excerpt": "At the entrance to Xingfuli, a residential compound in Ganzhou, Jiangxi province, a bulletin board displays the names, photographs, and phone numbers of the people responsible for managing the neighborhood. Though an ordinary bulletin board at first appearance, among the building representatives and Communist Party members is an unexpected name: Kang Jiafei, a food delivery worker who is also listed as a community “grid worker.” China has more than ten million food delivery workers, part of a rapidly growing global workforce whose lives are organized by algorithms, tight deadlines, and orders that take them across the city. They are among the most visible workers on China’s streets, yet often have no fixed workplace, no place to rest between orders, and limited access to conventional forms",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/60023840cf4a093fbb191927.json"
-    },
-    {
-      "id": "2d62fc1c146266105c68558a",
-      "title": "Trump-nominated WFP head has no credible plan to address fund crunch",
-      "url": "https://breakthroughnews.org/2026/11/06/trump-nominated-wfp-head-has-no-credible-plan-to-address-fund-crunch",
-      "author": "Pavan Kulkarni",
-      "source": "BT News",
-      "published_at": "2026-11-06T22:21:15+00:00",
-      "content_excerpt": "“The number one thing we can do to reduce hunger in the world is to reduce the amount of conflict that is happening all around the world,” Luke Lindberg, the new executive director of the World Food Program (WFP), said in his first media address last week. Conflict is the main driver of hunger today, driving two-thirds of the acute food insecurity affecting 266 million people worldwide. “Conflict is a man-made situation. It is something that we can solve,” added Lindberg, who assumed office on October 26. Earlier this year, the WFP said that the “conflict in the Middle East” – a catch-all phrase for Israeli genocide in Gaza, US-Israeli war on Iran, and the Saudi war on Yemen – “is deepening this food crisis to an alarming degree,” warning of “record numbers of acute hunger if it continues.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/2d62fc1c146266105c68558a.json"
-    },
-    {
-      "id": "0ccdd15f2704f34488f4904f",
-      "title": "Here is what a new Democratic Party foreign policy should look like following the Blue Tsunami",
-      "url": "https://mondoweiss.net/2026/11/here-is-what-a-new-democratic-party-foreign-policy-should-look-like-following-the-blue-tsunami",
-      "author": "Mitchell Plitnick",
-      "source": "Mondoweiss",
-      "published_at": "2026-11-06T18:35:08+00:00",
-      "content_excerpt": "The midterm elections showed that the political landscape has shifted dramatically on Israel and the war in Iran. Now, activists must pressure Congress to end the war and support Palestinian rights. Here is what they should advocate for.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/0ccdd15f2704f34488f4904f.json"
-    },
-    {
-      "id": "191e104a0cf38253677d1b4e",
-      "title": "Schumer & Jeffries reap the backlash to the genocide they enabled",
-      "url": "https://breakthroughnews.org/2026/11/05/schumer-jeffries-reap-the-backlash-to-the-genocide-they-enabled",
-      "author": "Zoe Alexandra",
-      "source": "BT News",
-      "published_at": "2026-11-06T17:26:53+00:00",
-      "content_excerpt": "Democrats just flipped Congress in a landslide, turned Texas blue, and won a Kansas Senate seat for the first time in nearly a century. But as Rania Khalek explains, the leaders of the new majority on Capitol Hill are the same “corporate suits” who armed Israel through the genocide in Gaza before losing to Trump in 2024, backing record ICE funding through 2029, and sitting on their hands while the administration tore the country and the world apart. Khalek lays out how midterm voters delivered a massive rebuke to Trump’s war on Iran, ICE terror, and soaring cost of living, electing insurgent progressives across the country. But Chuck Schumer insists “the issue is not me,” as Abdul El-Sayed, Troy Jackson and Adam Hamilton say they won’t back him for majority leader. And presumptive House Sp",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/191e104a0cf38253677d1b4e.json"
     }
   ]
 }
