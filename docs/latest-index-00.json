@@ -1,161 +1,311 @@
 {
-  "generated_at": "2026-11-08T23:00:16.068553+00:00",
-  "generated_at_jst": "2026-11-09T08:00:16.068553+09:00",
-  "period_start": "2026-11-07T17:00:16.068553+00:00",
+  "generated_at": "2026-11-10T02:19:59.722044+00:00",
+  "generated_at_jst": "2026-11-10T11:19:59.722044+09:00",
+  "period_start": "2026-11-08T20:19:59.722044+00:00",
   "lookback_hours": 30,
   "folder": "00_毎日確認",
-  "article_count": 10,
+  "article_count": 20,
   "excerpt_chars": 800,
   "articles": [
     {
-      "id": "1d9a159d12980823ca8dd297",
-      "title": "Lula's Stunning Victory",
-      "url": "https://www.laprogressive.com/foreign-policy/lulas-stunning-victory",
-      "author": "Roger D. Harris",
-      "source": "LA Progressive",
-      "published_at": "2026-11-08T15:41:28+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Just over a month ago, a MAGA-aligned rightwing juggernaut appeared to be on a roll in Latin America. The far right had captured every presidential election since Venezuela’s Nicolás Maduro was reelected in July 2024. In addition, recent parliamentary elections have landed the Bahamas, Belize, Trinidad and Tobago, Guyana, and Jamaica in MAGA-aligned alliances such as the Shield of the Americas . Among the remaining leftist countries in the region, the US had kidnapped Venezuela’s Maduro and imposed a “ negotiated sovereignty ” on that nation. An ever-intensifying blockade continued to asphyxiate Cuba. And a renewed offensive was mounted against Nicaragua. Brazil and Mexico ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/1d9a159d12980823ca8dd297.json"
-    },
-    {
-      "id": "0caa0af53d95d3fdf31b8764",
-      "title": "Media Covered Hunter Biden",
-      "url": "https://www.laprogressive.com/the-media-in-the-united-states/media-covered-hunter-biden",
-      "author": "Julie Hollar",
-      "source": "LA Progressive",
-      "published_at": "2026-11-08T15:41:08+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Particularly since the Citizens United ruling, US politics has been awash in corporate and billionaire money, with both parties taking gobs of cash from corporations that have direct interests in government policies. But President Donald Trump has taken corruption to new and breathtakingly bold levels. “I have never seen such open corruption in any modern government anywhere,” said Harvard professor of government Steven Levitsky ( Guardian , 6/17/25 ). So, it’s probably not surprising to hear CNN ( 10/21/26 ) report that voters are increasingly “concerned about corruption,” ranking it only after the economy and the cost of living as a top concern. In a Gallup poll ( 9/2/26 ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/0caa0af53d95d3fdf31b8764.json"
-    },
-    {
-      "id": "2cc340211c0e410ec85a7f3c",
-      "title": "Billionaires Don't Donate",
-      "url": "https://www.laprogressive.com/election-and-campaigns/billionaires-dont-donate",
-      "author": "Sonali Kolhatkar",
-      "source": "LA Progressive",
-      "published_at": "2026-11-08T14:51:34+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. The 2026 midterm elections have been the most expensive in history, with more than $11 billion being spent on political ads. While Democratic candidates have outraised Republicans in individual donations by appealing directly to voters, Republicans have received the lion’s share of money from super PACs (political action committees) funded by a small number of the wealthiest elites in the United States. The single biggest election-cycle donor is, unsurprisingly, the richest human on the planet. Elon Musk , the world’s first trillionaire, has poured more money into influencing the 2026 midterm elections than anyone has ever done in any election . His unprecedented contributi",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/2cc340211c0e410ec85a7f3c.json"
-    },
-    {
-      "id": "c949d8f31c7b1a0a2f34c909",
-      "title": "Portland’s Socialists Have Built a Political Machine",
-      "url": "https://jacobin.com/2026/11/portland-democratic-socialists-city-council",
-      "author": "Roman Broszkowski",
-      "source": "Jacobin",
-      "published_at": "2026-11-08T14:07:45+00:00",
-      "content_excerpt": "Over the last two years, the Portland, Oregon, chapter of the Democratic Socialists of America (DSA) has developed a reputation for punching far above its city’s weight. The chapter sits just behind the New York, Los Angeles, and Washington, DC, chapters in terms of size, and roughly one in two hundred Portlanders is a member (compared to about one in 530 New Yorkers). Today one-third of Portland’s city council actively participates in the group’s Socialists in Office Committee (SIOC); this election cycle, the chapter ran candidates for state and county office. Yet for most of the chapter’s history, elections weren’t a focus, and candidates for office were often kept at arm’s length. “For a significant period where I was involved, a number of people just believed that candidates couldn’t d",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/c949d8f31c7b1a0a2f34c909.json"
-    },
-    {
-      "id": "4621c8d54f6cdf68c8c87bc5",
-      "title": "Xi Jinping’s Chinese Dream Has Replaced the Maoist Credo",
-      "url": "https://jacobin.com/2026/11/china-development-labor-peasants-party-state",
-      "author": "Teemu Ruskola",
-      "source": "Jacobin",
-      "published_at": "2026-11-08T14:07:45+00:00",
-      "content_excerpt": "Since 1978, China has undergone a series of seismic changes in its economic order that have radically altered its citizens’ relationship to both labor and land. They have unmade the socialist working class and are in the process of expropriating the peasantry, transforming both into a propertyless proletariat. At the same time, China’s political structure has not undergone a similar revolution. Accordingly, the contradiction between its systems of economic and political organization is increasingly acute. A Single Story The disjunctive fates of rural and urban China have been part of a single story ever since the establishment of the People’s Republic. It is the impoverished hinterland that subsidized the rise of the urban industry under state socialism. Unlike in England during its indust",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/4621c8d54f6cdf68c8c87bc5.json"
-    },
-    {
-      "id": "090274d980857e0568145401",
-      "title": "The Bases of US Empire Are Crumbling",
-      "url": "https://jacobin.com/2026/11/us-imperialism-dollar-finance-china",
-      "author": "Costas Lapavitsas",
-      "source": "Jacobin",
-      "published_at": "2026-11-08T14:07:45+00:00",
-      "content_excerpt": "Imperialism is again at the forefront of world politics. Large-scale war has become a permanent feature of the present era, from Ukraine to Gaza. Donald Trump’s second term has added a tariff war, threats to annex Greenland, the abduction of Venezuela’s president, and, together with Israel, an unprovoked war on Iran. This is not the whim of one man, for the confrontation with China began under Trump’s first term and deepened under Joe Biden. At the same time, politics across the mature capitalist countries is in deep turmoil. In the United States, the Left has become a force in mass politics, with a democratic socialist as mayor of New York and widespread opposition to Immigration and Customs Enforcement (ICE), Israel’s genocide in Palestine, and the war on Iran. In France, governments hav",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/090274d980857e0568145401.json"
-    },
-    {
-      "id": "d8c2abf225b800f6a492c918",
-      "title": "The Volkswagen Crisis Exposes Germany’s Industrial Decline",
-      "url": "https://jacobin.com/2026/11/volkswagen-europe-cars-evs-china",
-      "author": "Alexander Görlach",
-      "source": "Jacobin",
-      "published_at": "2026-11-08T14:07:45+00:00",
-      "content_excerpt": "On October 9, European Union Trade Commissioner Maroš Šefčovič announced an agreement on hybrid vehicles, following two days of talks with Chinese Commerce Minister Wang Wentao in Beijing. According to Šefčovič, over the next four years or so, Chinese exports of full and plug-in hybrids to the EU are expected to fall below half of previous forecasts. The specific quotas, minimum prices, or monitoring mechanisms were not disclosed. The agreement is provisional, with further talks scheduled for 2027. Shortly before Šefčovič’s trip, German Chancellor Friedrich Merz and French President Emmanuel Macron had been putting pressure on the European Commission. In early October, in a letter to Commission President Ursula von der Leyen and a joint paper , they called for the commission to be given mo",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/d8c2abf225b800f6a492c918.json"
-    },
-    {
-      "id": "f0671e31ba84817a2f86859a",
-      "title": "India's Mediterranean Strategy",
-      "url": "https://www.laprogressive.com/foreign-policy/indias-mediterranean-strategy",
-      "author": "Vijay Prashad",
-      "source": "LA Progressive",
-      "published_at": "2026-11-08T04:37:56+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. On 26 October 2026, Greece’s foreign minister George Gerapetritis stood at the United Nations headquarters and rejected the maritime agreement between Turkey and Libya. Gerapetritis spoke on behalf of Greece of course, but also Bahrain, Cyprus, Egypt, the European Union, and the United Arab Emirates. Five days later, the Indian frigate INS Trishul entered Souda Bay in Crete as part of activities with the US Navy installation (Naval Support Activity) and with the NATO Maritime Interdiction Operational Training Centre. The sequence illuminates a developing strategic geography: India’s naval reach, its confrontation with Pakistan’s new Turkish partner, and its ambition to conn",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/f0671e31ba84817a2f86859a.json"
-    },
-    {
-      "id": "85c4d91f3692f57e7a549148",
-      "title": "Fighting ICE From the Ground Up",
-      "url": "https://www.laprogressive.com/left-coast-forum/fighting-ice-from-the-ground-up",
-      "author": "Guest Author",
-      "source": "LA Progressive",
-      "published_at": "2026-11-08T00:07:45+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. When immigration agents take a father from his workplace, the consequences extend far beyond the moment of arrest. His children may lose their primary caregiver. His family may suddenly face eviction or hunger. Relatives may spend days trying to determine where he has been taken, while struggling to raise money for an attorney, telephone calls, or food inside a detention facility. Those were among the experiences described at the October 2026 Left Coast Forum at Cal State LA, where grassroots organizers gathered for a panel titled The Impact of ICE Session I: How Communities Have Responded to ICE Raids and Where We Go From Here. MaryLinda Moss The discussion brought togethe",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/85c4d91f3692f57e7a549148.json"
-    },
-    {
-      "id": "e5233e84b0089af3cfdc1d34",
-      "title": "The Tasks for DSA After the Blue Wave",
-      "url": "https://socialistcall.com/2026/11/07/the-tasks-for-dsa-after-the-blue-wave",
-      "author": "Bread &#38; Roses Caucus",
+      "id": "4d878f38a010a100e1a9763e",
+      "title": "The Big Beautiful Boycott: Starbucks Workers’ Fight for a First Contract",
+      "url": "https://socialistcall.com/2026/11/09/starbucks-workers-boycott",
+      "author": "Ian M.",
       "source": "The Call",
-      "published_at": "2026-11-07T18:20:00+00:00",
-      "content_excerpt": "On November 3rd, the American people sent a decisive message. We are sick and tired of MAGA and the Trump administration, of the cost of living crisis, of war, of corruption, of corporate greed, of billionaires dominating our political system. Alongside an overwhelming rejection of the far-right, voters also chose to send the largest number of democratic socialists in 100 years into the halls of power. Our movement elected over 100 democratic socialists with a clear message: we need a government and economy that works for working people, not the billionaires, capitalists, warmongers, and genocidaires. DSA will now have a bloc of 8 endorsed members in Congress along with a broader bloc to work closely with. Among those elected (and re-elected) were Bread & Roses members Dylan Wegela (Michig",
+      "published_at": "2026-11-10T00:39:44+00:00",
+      "content_excerpt": "After five years of strikes, marches on the boss, petitions, and legal action, Starbucks Workers United (SBWU) called for a boycott in August. Beyond individual coffee drinkers, the union is asking universities, other unions, candidates, and political organizations to sign on to the boycott campaign. Boycotts have a long history in the labor movement but can be risky. They rely on external support, and if they fail to make a dent in the company’s bottom line, they risk undercutting the momentum of the movement. Luckily for SBWU, unions are more popular than ever, and we’ve already seen that plenty of people are ready to throw down to support their baristas. Since 2021, Starbucks workers have been organizing at an impressive rate. Anyone who pays any attention to the labor movement has hear",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/e5233e84b0089af3cfdc1d34.json"
+      "article_path": "articles/4d878f38a010a100e1a9763e.json"
+    },
+    {
+      "id": "86abe172052d94184fcdbc83",
+      "title": "Comic: Your Workplace is Undemocratic by Design",
+      "url": "https://labornotes.org/2026/11/comic-your-workplace-undemocratic-design",
+      "author": "Ellen David Friedman and Natascha Elena Uhlmann",
+      "source": "",
+      "published_at": "2026-11-09T23:15:22+00:00",
+      "content_excerpt": "Adapted from Keep Going: A Guide to Organizing When It's Hard by Ellen David Friedman. Available at labornotes.org/store .",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/86abe172052d94184fcdbc83.json"
+    },
+    {
+      "id": "9def465c89a17defe3717710",
+      "title": "An Effective AI Pushback Has to Go Beyond the Local",
+      "url": "https://jacobin.com/2026/11/ai-data-center-midterms-regulation",
+      "author": "Aziz Huq",
+      "source": "Jacobin",
+      "published_at": "2026-11-09T22:01:55+00:00",
+      "content_excerpt": "Last week’s election returns embodied a broad, national, and bipartisan reaction against data centers. In forty-six of the forty-seven local referenda held across some thirteen states, voters rejected new data center construction. Public opposition reflects local concerns about water usage, grid sustainability, and noise pollution. This opposition is also bubbling up at a moment when most of the public distrust s artificial intelligence (AI) in general, when two-thirds of Americans hold negative views of AI firms and their close ties to the Trump administration, and when fears about AI rank high among Americans’ leading worries. This confluence of AI-adjacent fears is no accident. Each anxious spark leaps from a different facet of a single Silicon Valley strategy for hyperscaling AI. If th",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/9def465c89a17defe3717710.json"
+    },
+    {
+      "id": "3203025f340f24217e590987",
+      "title": "The Parish of Seeds",
+      "url": "https://scalawagmagazine.org/2026/11/the-parish-of-seeds",
+      "author": "Jason Collins",
+      "source": "Scalawag",
+      "published_at": "2026-11-09T21:34:51+00:00",
+      "content_excerpt": "Moira’s Parish of Seeds had been born from the bones of a megachurch that was once known for its large and loud worship sessions. Inside, Moira and her crew had torn out the pews and converted the sanctuary into a seed-curing room. The baptismal font became a hydroponic lettuce tank, and the stained-glass Jesus now watched over shelves of okra, collards, and marigold seeds. Read more via Scalawag : The Parish of Seeds .",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/3203025f340f24217e590987.json"
+    },
+    {
+      "id": "2a868e277e49ded01653c2d5",
+      "title": "Metro DC DSA Condemns Councilmember Christina Henderson’s Attempted Power Grab and Disregard for DC Home Rule",
+      "url": "https://mdcdsa.org/2026/11/08/metro-dc-dsa-condemns-councilmember-christina-hendersons-attempted-power-grab-and-disregard-for-dc-home-rule",
+      "author": "Metro DC DSA",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-11-09T19:29:11+00:00",
+      "content_excerpt": "Metro DC DSA Condemns Councilmember Christina Henderson’s Attempted Power Grab and Disregard for DC Home Rule Date: November 8, 2026 Media Contact: For all press inquiries, please contact media@mdcdsa.org . Washington, DC: Metro DC Democratic Socialists of America condemns At-Large Councilmember Christina Henderson’s cynical attempt to manipulate the District’s Home Rule laws for her own political advantage, undermining the democratic process and distracting from the urgent challenges facing working-class Washingtonians. Details: In 2020, Henderson switched her party affiliation from Democrat to independent to run for an At-Large Council seat. Now, following Councilmember Robert White’s resignation, Henderson attempted to reverse that decision, potentially depriving the DC Democratic Party",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/2a868e277e49ded01653c2d5.json"
+    },
+    {
+      "id": "52a8c417ba2ad288aa1c092a",
+      "title": "A New Generation in Revolt: France’s Revolutionary Student Movement",
+      "url": "https://twincitiesdsa.org/2026/11/a-new-generation-in-revolt-frances-revolutionary-student-movement",
+      "author": "Twin Cities DSA",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-11-09T19:29:11+00:00",
+      "content_excerpt": "Written by Janette Zahia Corcelius & Jane Léonie-Bellay who interviewed students Smeal, Léon, Hamet, & Julia Introduction By Janette Corcelius Janette Zahia Corcelius is a member of the Twin Cities Democratic Socialists of America. Her background includes being a public school music educator and a union organizer. What started as students striking for better learning […]",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/52a8c417ba2ad288aa1c092a.json"
+    },
+    {
+      "id": "690f1db0d430b9dcf941a5be",
+      "title": "“Socialist Surge” Powers “Bluenami”",
+      "url": "https://democraticleft.dsausa.org/2026/11/09/socialist-surge-powers-bluenami",
+      "author": "gdsnyc@verizon.net",
+      "source": "Democratic Left",
+      "published_at": "2026-11-09T18:54:17+00:00",
+      "content_excerpt": "A post-election victory call showcased newly elected DSA endorsees from all over the country. They agreed on one thing: The work is just getting started. The post “Socialist Surge” Powers “Bluenami” appeared first on Democratic Left .",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/690f1db0d430b9dcf941a5be.json"
+    },
+    {
+      "id": "4da3bf910409a3a0cc338187",
+      "title": "End the Private Health Insurance Tax: Pass Medicare for All",
+      "url": "https://jacobin.com/2026/11/health-insurance-premiums-single-payer",
+      "author": "Tim Higginbotham",
+      "source": "Jacobin",
+      "published_at": "2026-11-09T18:18:50+00:00",
+      "content_excerpt": "Every other Monday, I arrive at work bleary-eyed, still finishing my coffee, and settle into the workweek by reviewing my latest pay stub. I’m looking for miscounted hours, abnormal deductions — the sorts of mistakes that never happen but could. This morning was different. I spent the weekend fixating on the sorry state of health insurance in this country, roused in large part by Democrats’ comprehensive midterm victory, including wins by supporters of Medicare for All like Troy Jackson and Abdul El-Sayed. I arrived at my desk alert and reviewed my pay stub, focusing specifically on health care contributions. When we look at our pay stubs, employer and employee health insurance contributions combine into a number we numbly accept as we focus on our take-home pay. In my case, the biweekly t",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/4da3bf910409a3a0cc338187.json"
+    },
+    {
+      "id": "654687ae7905b7e8dd5db923",
+      "title": "RECAP: 2026 Member Mobilization Institute",
+      "url": "https://uaw.org/recap-2026-member-mobilization-institute",
+      "author": "Joe Simpson",
+      "source": "UAW",
+      "published_at": "2026-11-09T17:02:25+00:00",
+      "content_excerpt": "RECAP: 2026 Member Mobilization Institute ONAWAY, MI – UAW members from across the country gathered at Black Lake for the 2026 Member Mobilization Institute, a week of learning new skills, sharing ideas, and exploring how we can strengthen our union together. Workshops, discussions, and hands-on practice challenged participants to consider what it takes to build lasting power and to prepare for the opportunities and challenges ahead, including May Day 2028. Learning continued beyond the classroom as delegates embraced opportunities to share their own worker stories by creating art with block printing, bandanas, signs, buttons, photography, and zines. Creativity became a powerful organizing tool, helping participants communicate their message, connect with others, and find their entry point",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/654687ae7905b7e8dd5db923.json"
+    },
+    {
+      "id": "b928f5aaa6f232a77bc72c3c",
+      "title": "Jeffries Should Not Be Speaker",
+      "url": "https://www.laprogressive.com/progressive-issues/jeffries-should-not-be-speaker",
+      "author": "Medea Benjamin",
+      "source": "LA Progressive",
+      "published_at": "2026-11-09T16:51:31+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Now that Democrats have swept the House, a key question is: Who should lead it? Hakeem Jeffries is in line to become the first Black Speaker of the House, which would be a historic milestone. But members of Congress must examine Jeffries' record, his priorities, and the kind of leadership he would bring to this moment. Here are ten reasons why Jeffries should not be Speaker. 1. He has abandoned Medicare for All At a time when millions of Americans struggle with unaffordable health insurance, medical debt, and the threat of financial ruin from illness, Jeffries has distanced himself from one of the most important progressive reforms: Medicare for All. Jeffries co-sponsored M",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/b928f5aaa6f232a77bc72c3c.json"
+    },
+    {
+      "id": "2edda73ccb9b660a4aec46b6",
+      "title": "Impeachment Could Become A Powerful Tool",
+      "url": "https://www.laprogressive.com/progressive-issues/impeachment-could-become-a-powerful-tool",
+      "author": "Paul deLespinasse",
+      "source": "LA Progressive",
+      "published_at": "2026-11-09T16:26:24+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Some Democrats are threatening to impeach Donald Trump again in January when they have the majority in the House and Senate But enough Republicans will remain to block conviction since they will constitute more than one third of the Senate. Perhaps the third time would be the charm, since some Republican politicians are distancing themselves from him. But a successful impeachment probably needs to be led by Republicans. If initiated by Democrats, many Republicans would argue that the impeachment is just another partisan attack. However Democrats should not abandon all thoughts of impeachment. Rather than impeaching Donald Trump, however, they should impeach his more outrage",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/2edda73ccb9b660a4aec46b6.json"
+    },
+    {
+      "id": "e046a2d701172c00307cc5f0",
+      "title": "California UFCW Leaders Really Don’t Want Union Elections",
+      "url": "https://jacobin.com/2026/11/ufcw-local-california-reform-intimidation",
+      "author": "Lisa Xu",
+      "source": "Jacobin",
+      "published_at": "2026-11-09T16:09:28+00:00",
+      "content_excerpt": "In a union that has been headed by one family with no competitive elections since 1984, a group of grocery workers is organizing for change. But last week, they say, union staff who back the incumbent administration went to outrageous lengths in an attempt to make sure there’s no election this year either. On the afternoon of Monday, November 2, Eric Marcuz, a veteran Northern California Safeway worker, stopped at the union office to pick up blank petitions to get on the ballot in the union’s upcoming election. Marcuz is running for president on the At What Cost slate in the 23,000-member United Food and Commercial Workers (UFCW) Local 8–Golden State (8-GS), one of the largest locals in the union. To get on the ballot, Marcuz and his slate-mates have to collect 443 petition signatures — 2 ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/e046a2d701172c00307cc5f0.json"
+    },
+    {
+      "id": "d15d30e86b05f3a031b0988a",
+      "title": "Youth in Revolt",
+      "url": "https://www.laprogressive.com/economic-equality/youth-in-revolt",
+      "author": "Henry A. Giroux",
+      "source": "LA Progressive",
+      "published_at": "2026-11-09T16:01:33+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Young people are taking to the streets across France, Italy, Belgium, India, Serbia, and Albania, refusing to surrender their futures to a capitalist system that has abandoned them or to a politics that Naomi Klein and Astra Taylor have described as “end times fascism.” These protests are fueled by mounting anger over deteriorating schools, economic insecurity, unaffordable housing, political corruption, and a ruling class increasingly indifferent to the needs and voices of the young. As far right governments in Europe, the United States, and Latin America cancel out a future plagued by endless wars, climate catastrophe, staggering inequality, deepening poverty, and deterio",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/d15d30e86b05f3a031b0988a.json"
+    },
+    {
+      "id": "f697c46764e35415b9755b8a",
+      "title": "Vicious Racial Undertow",
+      "url": "https://www.laprogressive.com/racism/vicious-racial-undertow",
+      "author": "Mark P. Fancher",
+      "source": "LA Progressive",
+      "published_at": "2026-11-09T15:30:29+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. When the big blue wave came crashing through the most unlikely regions of the country, it washed ashore a remarkable group of newly elected racial, ethnic, gender and religious “firsts.” Progressives were of course gleeful. But if America’s history is any guide, joy about racial electoral breakthroughs may be premature. There is a well-established record of this country riding waves of legal and political progress toward the racial ideal, but at the same time being pulled backwards by a social undertow driven by white racists. There is no reason to believe things will be different after the recent mid-term elections. The push/pull racial dynamic has been here from the begin",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/f697c46764e35415b9755b8a.json"
+    },
+    {
+      "id": "a59809f7734cf5ed2ebe1f78",
+      "title": "Reactionary Feminists Offer Bad Solutions to Real Problems",
+      "url": "https://jacobin.com/2026/11/conservative-liberal-marxist-feminism-sexual-morality",
+      "author": "Kaja Kröger",
+      "source": "Jacobin",
+      "published_at": "2026-11-09T14:38:49+00:00",
+      "content_excerpt": "To more and more people, the promises of sex-positive liberal feminism feel empty. The sexual ideas that have dominated feminism in the last two decades — including that sexual liberation always serves women’s interests, that consent is the only relevant sexual ethic, and that consuming porn and buying sex are benign practices like any other — are beginning to ring hollow. In this context, an emergent theoretical strand with the pointed, self-chosen name “reactionary feminism” has drawn considerable attention. It calls into question the liberal assertion that every form of sexual morality is anti-feminist — a view the Left has absorbed in recent decades. Although they work to maintain an appearance of ideological ambivalence, reactionary feminists are aligned with the post-liberal right , ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/a59809f7734cf5ed2ebe1f78.json"
+    },
+    {
+      "id": "ff87ba12410a9b2c8bab9f35",
+      "title": "The Dollar’s Power Never Came From Oil",
+      "url": "https://jacobin.com/2026/11/oil-currency-hegemony-empire-warfare",
+      "author": "Matías Vernengo",
+      "source": "Jacobin",
+      "published_at": "2026-11-09T13:36:20+00:00",
+      "content_excerpt": "The war in Iran and the disruption of shipping through the Strait of Hormuz have renewed an old debate about the foundations of American global power. Oil has been central to the geopolitical order dominated by the United States since World War II. The dollar is the principal international currency, oil is overwhelmingly priced in dollars, and American military power has been essential to controlling access to petroleum, particularly in the Middle East. The question raised by some analysts is whether the erosion of this arrangement, accelerated by the transition to cleaner sources of energy, signals the end of American hegemony and of the privileged position of the dollar. There are good reasons to take this possibility seriously. China has become the leading producer of solar panels, batt",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/ff87ba12410a9b2c8bab9f35.json"
+    },
+    {
+      "id": "c85fc9a327154288591838f9",
+      "title": "Black Women’s Political Power and the Future of Democracy in Brazil",
+      "url": "https://www.aaihs.org/black-womens-political-power-and-the-future-of-democracy-in-brazil",
+      "author": "Kia Lilly Caldwell and Gladys Mitchell-Walthour",
+      "source": "AAIHS",
+      "published_at": "2026-11-09T10:52:48+00:00",
+      "content_excerpt": "Luiz Inácio (“Lula”) da Silva’s historic reelection for a fourth term as president of Brazil on October 25 highlighted the The post Black Women’s Political Power and the Future of Democracy in Brazil first appeared on AAIHS .",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/c85fc9a327154288591838f9.json"
+    },
+    {
+      "id": "9ee99a0b16548aee958dec95",
+      "title": "America, Satan Called and He Wants His Baby Brother Back",
+      "url": "https://www.laprogressive.com/progressive-issues/america-satan-called-and-he-wants-his-baby-brother-back",
+      "author": "Desi Cortez",
+      "source": "LA Progressive",
+      "published_at": "2026-11-08T23:36:25+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Stephen Miller is a hate monger; he promotes racism and hostility, and he is the pillar of the MAGA world who’s pulling Trump’s strings in the White House I’d venture to guess the Devil understated their relationship. Stephen Miller could be Lucifer’s identical twin, separated at birth, raised among mortals, and dispatched to Washington to finish what Hell couldn't accomplish alone. I’m serious! Something wicked this way comes In my opinion, Miller is among the most ominous, creepy, dangerous, morally repugnant figures to emerge from the Land of MAGA. His hostility toward immigrants , fixation on who belongs, and apparent indifference to suffering remind me less of an Ameri",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/9ee99a0b16548aee958dec95.json"
+    },
+    {
+      "id": "93aef5bc5c04c3fff12d7afd",
+      "title": "More Pressure Needed to STOP the Trump EGO Arch",
+      "url": "https://www.laprogressive.com/democracy/more-pressure-needed-to-stop-the-trump-ego-arch-",
+      "author": "Ann Wright",
+      "source": "LA Progressive",
+      "published_at": "2026-11-08T23:34:44+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Despite 9.5 hours of citizen testimony from 131 persons about construction of President Trump’s massive 250-foot EGO arch with 99.9% of the testimony to STOP the arch, the National Capital Planning Commission (NCPC) voted 8 to 4 to allow construction. The 8 who voted for the Arch are Trump loyalists and were appointed by Trump. Over 100,000 written comments opposing the Arch have been sent to the NCPC. The plan to build it was rushed and skirted legal procedures and funding requirements under Title 40 U.S.C. § 8106. Immediately after the vote that took place after 10pm on November 5, 2026, the Trump administration filed a notification with the federal court that constructio",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/93aef5bc5c04c3fff12d7afd.json"
+    },
+    {
+      "id": "b0d72087e95860e6ea39c975",
+      "title": "Paraguay Political, Financial Crisis: the Liberal Economic Model Continues to Fail",
+      "url": "https://www.laprogressive.com/foreign-policy/paraguay-political-financial-crisis-the-liberal-economic-model-continues-to-fail",
+      "author": "Thania Saucedo",
+      "source": "LA Progressive",
+      "published_at": "2026-11-08T23:25:18+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Paraguay is undergoing one of the most significant political and financial crises in its recent history. The Central Bank of Paraguay’s intervention in Ueno Bank —following the detection of serious irregularities in its operations and solvency issues—triggered a crisis that quickly expanded beyond the banking sector. Today, it has direct consequences for the government of Santiago Peña and has triggered an impeachment process that calls into question the very future of the president himself. To understand what is happening, it is necessary to explain a few key points. Ueno Bank experienced exponential growth in recent years, coinciding with the start of Santiago Peña’s admi",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/b0d72087e95860e6ea39c975.json"
     }
   ]
 }

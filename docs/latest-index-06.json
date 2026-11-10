@@ -1,41 +1,311 @@
 {
-  "generated_at": "2026-11-08T23:00:16.068553+00:00",
-  "generated_at_jst": "2026-11-09T08:00:16.068553+09:00",
-  "period_start": "2026-11-07T17:00:16.068553+00:00",
+  "generated_at": "2026-11-10T02:19:59.722044+00:00",
+  "generated_at_jst": "2026-11-10T11:19:59.722044+09:00",
+  "period_start": "2026-11-08T20:19:59.722044+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
-  "article_count": 2,
+  "article_count": 20,
   "excerpt_chars": 800,
   "articles": [
     {
-      "id": "a7f7743b831d5ad1f5e2f056",
-      "title": "Italy: The rise of the student and youth movement in Europe",
-      "url": "https://tempestmag.org/2026/11/italy-the-rise-of-the-student-and-youth-movement-in-europe",
-      "author": "Communist Workers’ Party, Italy",
-      "source": "Tempest",
-      "published_at": "2026-11-08T01:18:38+00:00",
-      "content_excerpt": "T he massive student movement in France—the largest since May 1968— the demonstrations in the streets of Spain demanding the right to housing, the beginning of its potential spread to Portugal, and the prolonged popular uprising in Albania with the explicit demand for the ouster of the Rama government, are ushering in a new chapter in Europe. We are witnessing the rise of the student and youth movement, which has the potential to spread. We cannot predict its future today, but it is essential to understand its characteristics. Palestine led the way Over the past two years, the pro-Palestinian movement has also seen a broad segment of the younger generation in Europe come to the forefront. Amid the barbarity of the Zionist genocide, millions of young people saw more than just the oppression",
+      "id": "c8902906427be8fb1691335c",
+      "title": "Midterm Round Up w/Erin Heaney, Chris Melody Fields Figueredo, and Shaira Chaer",
+      "url": "https://convergencemag.com/podcast/midterm-round-up-w-erin-heaney-chris-melody-fields-figueredo-and-shaira-chaer",
+      "author": "Cayden Mak",
+      "source": "Convergence",
+      "published_at": "2026-11-10T00:30:42+00:00",
+      "content_excerpt": "Last week’s midterm election results were a massive swing toward Democrats across the country. The Republican trifecta in the federal government has now been broken, creating opportunities to change policies and seek accountability for some of the worst harms of the last 2 years. Meanwhile, direct ballot measures on issues like trans and abortion rights, billionaire taxes, redistricting… Source",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/a7f7743b831d5ad1f5e2f056.json"
+      "article_path": "articles/c8902906427be8fb1691335c.json"
     },
     {
-      "id": "7f85d0848843b590a5968aa8",
-      "title": "What’s next for the socialist movement after the resounding defeat of Trump, MAGA, ICE, and the Iran War? [The Socialist Program]",
-      "url": "https://breakthroughnews.org/2026/11/07/whats-next-for-the-socialist-movement-after-the-resounding-defeat-of-trump-maga-ice-and-the-iran-war-the-socialist-program",
-      "author": "Brian Becker",
+      "id": "dcf0e9b5a6012a38d00596bb",
+      "title": "Gaza, three years on: Preserving the evidence, breaking the cycle of impunity",
+      "url": "https://breakthroughnews.org/2026/11/09/gaza-three-years-on-preserving-the-evidence-breaking-the-cycle-of-impunity",
+      "author": "Shawan Jabarin",
       "source": "BT News",
-      "published_at": "2026-11-07T22:23:43+00:00",
-      "content_excerpt": "November 3rd was an electoral bloodbath for the Republican party and the MAGA movement. Brian Becker and Layan Fuleihan discuss.",
+      "published_at": "2026-11-09T23:49:15+00:00",
+      "content_excerpt": "On October 13, 2023, Al-Haq was among the first to warn states to intervene to stop Israel’s genocide against Palestinians in Gaza. The continuum of decades of dehumanization of Palestinians, a population subjected to refugeehood, denial of return, killings, torture, property appropriations, and pillage – fragmented and subjugated by Israel’s violent settler-colonial apartheid regime – has resulted in an ongoing Nakba, an ongoing colonial erasure, and escalating destruction of the Palestinian people. Israel’s systematic destruction and annihilation of the Gaza Strip since October 7, 2023, has destroyed all semblance of Palestinian life, leaving Gaza in ruins: Palestinian residences, commercial properties, cemeteries, industries, schools, universities, hospitals, mosques, cultural property,",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/7f85d0848843b590a5968aa8.json"
+      "article_path": "articles/dcf0e9b5a6012a38d00596bb.json"
+    },
+    {
+      "id": "4c727c9d55d92937334b0e99",
+      "title": "Iran calls for the end of the war after Trump admits it led to defeat in midterm elections",
+      "url": "https://breakthroughnews.org/2026/11/09/iran-calls-for-the-end-of-the-war-after-trump-admits-it-led-to-defeat-in-midterm-elections",
+      "author": "Abdul Rahman",
+      "source": "BT News",
+      "published_at": "2026-11-09T23:49:15+00:00",
+      "content_excerpt": "After US President Donald Trump reiterated that his party lost the midterm elections because of the US-Israeli war on Iran, Iranian Foreign Minister Abbas Araghchi asked him to respect the wishes of the American people and end the war now. “They did not like the war. They did not like the fact that gasoline went up, ‘cause I had it down at a low, there’s-a great dislike, incredibly, for Israel,” Trump said during a 60 Minutes interview on Sunday, while underlining reasons why Republicans lost the November 3 midterm elections. Though Trump did not directly blame Israel for the war, Araghchi pointed out that people’s disgust with Israel is rooted in the fact that it has been largely seen as the reason behind the war. Trump “clearly recognizes that the vast majority of Americans are disgusted",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/4c727c9d55d92937334b0e99.json"
+    },
+    {
+      "id": "9b9387d17641ca2117805b2e",
+      "title": "BT LIVE: Will Dems Defund the War? | France General Strike | Paraguay Collapse",
+      "url": "https://breakthroughnews.org/2026/11/09/nov-9-26",
+      "author": "BreakThrough News",
+      "source": "BT News",
+      "published_at": "2026-11-09T22:51:59+00:00",
+      "content_excerpt": "This content is for members only. Visit the site and log in/register to read.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/9b9387d17641ca2117805b2e.json"
+    },
+    {
+      "id": "a2b7255a17da0db50cbac615",
+      "title": "Garment workers in Bangladesh take their struggle for decent wages to the streets",
+      "url": "https://breakthroughnews.org/2026/11/09/garment-workers-in-bangladesh-take-their-struggle-for-decent-wages-to-the-streets",
+      "author": "Abdul Rahman",
+      "source": "BT News",
+      "published_at": "2026-11-09T21:52:54+00:00",
+      "content_excerpt": "For multiple days, thousands of workers in Bangladesh, mostly from garment factories, protested for a raise in their minimum monthly wages and against the rising prices of essential commodities, defying the state’s oppressive measures. On Tuesday, November 3, news reports indicated fresh clashes between workers and security forces at various places in the capital, Dhaka, with the agitating workers trying to block highways and other roads. The protests broke out despite the Home Minister of the country Salahuddin Ahmed warning the workers to return to work on Monday after claiming their demands had been addressed by the government through the formation of a “wage board.” Meanwhile, the authorities unleashed violence and repression on workers with police resorting to baton charges and firing",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/a2b7255a17da0db50cbac615.json"
+    },
+    {
+      "id": "649142e609197abb3d72f160",
+      "title": "Celebrate by Turning the Blowout into Durable Power",
+      "url": "https://convergencemag.com/articles/celebrate-by-turning-the-blowout-into-durable-power",
+      "author": "Max Elbaum",
+      "source": "Convergence",
+      "published_at": "2026-11-09T21:24:45+00:00",
+      "content_excerpt": "The anti-MAGA majority turned out and showed its muscle on November 3. Every demographic group voted less Republican than in 2024, with the biggest shifts coming from Latinos and young voters. The anti-fascist electoral alliance of Left and center (mostly) held. Both progressives and mainstream Democrats increased their strength. MAGA took a drubbing at every level of government—federal… Source",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/649142e609197abb3d72f160.json"
+    },
+    {
+      "id": "259a9bca5054a8d24c2d520a",
+      "title": "India in the Mediterranean",
+      "url": "https://breakthroughnews.org/2026/11/09/india-in-the-mediterranean",
+      "author": "Zoe.",
+      "source": "BT News",
+      "published_at": "2026-11-09T20:59:02+00:00",
+      "content_excerpt": "On October 26, 2026, Greece’s Foreign Minister George Gerapetritis stood at the United Nations headquarters and rejected the maritime agreement between Turkey and Libya. Gerapetritis spoke on behalf of Greece of course, but also Bahrain, Cyprus, Egypt, the European Union, and the United Arab Emirates. Five days later, the Indian frigate INS Trishul entered Souda Bay in Crete as part of activities with the US Navy installation (Naval Support Activity) and with the NATO Maritime Interdiction Operational Training Center. The sequence illuminates a developing strategic geography: India’s naval reach, its confrontation with Pakistan’s new Turkish partner, and its ambition to connect Indian capital to European markets increasingly converge in the eastern Mediterranean. Energy fields On October 2",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/259a9bca5054a8d24c2d520a.json"
+    },
+    {
+      "id": "97a92b76f5c1c801c13fb16e",
+      "title": "Gaza’s displacement camps face deadly winter storms, flooding, and landslides",
+      "url": "https://mondoweiss.net/2026/11/gazas-displacement-camps-face-deadly-winter-storms-flooding-and-landslides",
+      "author": "Tareq S. Hajjaj",
+      "source": "Mondoweiss",
+      "published_at": "2026-11-09T18:38:04+00:00",
+      "content_excerpt": "Three children and one woman were killed in central Gaza after heavy rain caused a sand embankment to collapse onto displaced families' tents.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/97a92b76f5c1c801c13fb16e.json"
+    },
+    {
+      "id": "74dc9460fff0c22cbcb2c467",
+      "title": "Trump lost Congress. The US is losing the world | w/ Vijay Prashad",
+      "url": "https://breakthroughnews.org/2026/11/07/trump-lost-congress-the-us-is-losing-the-world-w-vijay-prashad",
+      "author": "Zoe Alexandra",
+      "source": "BT News",
+      "published_at": "2026-11-09T18:09:08+00:00",
+      "content_excerpt": "Iran is still restricting the Strait of Hormuz, Ukraine’s front lines haven’t moved, and China won’t be contained. Even before voters handed Democrats Congress, Vijay Prashad argues Washington was already losing its grip on the world. The Tricontinental executive director joins Rania Khalek and Zoe Alexandra from Kenya to break down what the 2026 midterms mean for US foreign policy. As Trump admits the Iran war cost Republicans, and JD Vance blames it outright, Prashad says the US is “at a loss strategically,” with Tehran holding the leverage, backed by Russia and China. Prashad is hopeful that new faces like Abdul El-Sayed and six new DSA members, backed by pressure from below, can force “irrelevant” Schumer and Jeffries to answer to the new progressive wing. Khalek pushes back: insurgent",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/74dc9460fff0c22cbcb2c467.json"
+    },
+    {
+      "id": "a39414e4a0253d6253cb0c4b",
+      "title": "“Hatemonger” as Chief of Staff: Trump Taps Stephen Miller to Top Role After Massive Election Defeat",
+      "url": "https://www.democracynow.org/2026/11/9/stephen_miller_chief_of_staff",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-11-09T16:00:05+00:00",
+      "content_excerpt": "Stephen Miller, the architect of the Trump administration’s mass deportation policies, has replaced Susie Wiles as White House chief of staff. In a recent 60 Minutes interview, President Donald Trump acknowledged that his immigration policies may be “too tough” and contributed to his party’s steep losses in the midterm elections, but in elevating Miller, he is “choosing to double down,” says journalist Jean Guerrero. “Stephen Miller enables [Trump] in this instinct to choose cruelty over everything else,” she says. Guerrero is a New York Times contributing opinion writer, USC journalism professor and author of Hatemonger: Stephen Miller, Donald Trump, and the White Nationalist Agenda .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/a39414e4a0253d6253cb0c4b.json"
+    },
+    {
+      "id": "c13d08bfb2eac2b266c94c9f",
+      "title": "“Right Now My Vote Is No”: L.A.’s DSA Rep.-Elect Gonzales-Torres on Backing Jeffries for House Speaker",
+      "url": "https://www.democracynow.org/2026/11/9/angela_gonzales_torres",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-11-09T16:00:05+00:00",
+      "content_excerpt": "The next Congress will include about 100 new lawmakers in the House of Representatives, the largest freshman wave in decades. That also includes six newly elected members of the Democratic Socialists of America, bringing the total number of DSA members in Congress to eight. One of the incoming DSA congressmembers will be California’s Angela Gonzales-Torres, who worked two other jobs while campaigning and was massively outspent by her opponent, incumbent Democratic Congressmember Jimmy Gomez. In her first national TV interview, Gonzales-Torres tells Democracy Now! she will prioritize immigrant justice, Medicare for All and fighting corruption, when she is sworn in. She also explains why she has not yet committed to supporting Hakeem Jeffries for House speaker. “As of right now, my vote is n",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/c13d08bfb2eac2b266c94c9f.json"
+    },
+    {
+      "id": "e33ff023a9df28dfc09051b1",
+      "title": "“A Crackdown on All Independent Voices”: Egypt Shutters News Outlets, Prosecutes Editor Lina Attalah",
+      "url": "https://www.democracynow.org/2026/11/9/egypt_mada_masr_lina_attalah",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-11-09T16:00:05+00:00",
+      "content_excerpt": "Lina Attalah, editor-in-chief of Egypt’s leading independent news outlet Mada Masr , faces a criminal trial this week on charges of “spreading false information,” just two weeks after being convicted of operating an unlicensed website and fined more than $50,000. A judge also ordered the publication to be shut down. The cases are part of a broader crackdown on independent Egyptian media under the government of President Abdel Fattah el-Sisi, including the arrest of the entire newsroom of another outlet, _ Matsadaash_. More than 100 organizations, including Amnesty International, Human Rights Watch and the Committee to Protect Journalists, have condemned the arrests and prosecutions and called on Egyptian authorities to drop the charges. “Putting us in jail is not going to solve the country",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/e33ff023a9df28dfc09051b1.json"
+    },
+    {
+      "id": "69e4552c8838a0189d0babd5",
+      "title": "U.S. taxpayers take the case to The Hague: Seeking arrest warrants for Trump, Rubio, and enablers of genocide",
+      "url": "https://mronline.org/2026/11/09/u-s-taxpayers-take-the-case-to-the-hague-seeking-arrest-warrants-for-trump-rubio-and-enablers-of-genocide",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-11-09T14:34:37+00:00",
+      "content_excerpt": "The taxpayers traveling to The Hague are insisting that the option no longer exists. No more impunity for those who finance, arm, aid, and abet genocide. The post U.S. taxpayers take the case to The Hague: Seeking arrest warrants for Trump, Rubio, and enablers of genocide appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/69e4552c8838a0189d0babd5.json"
+    },
+    {
+      "id": "8ef5eac94659f3037a616aa2",
+      "title": "From Palestine to Lebanon, and now Syria, Israel is destroying the Arab olive harvest",
+      "url": "https://mondoweiss.net/2026/11/from-palestine-to-lebanon-and-now-syria-israel-is-destroying-the-arab-olive-harvest",
+      "author": "Areej Louay Ali",
+      "source": "Mondoweiss",
+      "published_at": "2026-11-09T14:07:02+00:00",
+      "content_excerpt": "The Israeli army is cutting farmers off from their groves in Quneitra, southern Syria, and detaining young men in the area arbitrarily. Locals tell Mondoweiss that the losses from the olive harvest will take decades to recover from.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/8ef5eac94659f3037a616aa2.json"
+    },
+    {
+      "id": "d699ee57d0f49f1be6bae929",
+      "title": "China’s Communist Party turns the blade on itself",
+      "url": "https://mronline.org/2026/11/09/chinas-communist-party-turns-the-blade-on-itself",
+      "author": "Gary Wilson",
+      "source": "MR Online",
+      "published_at": "2026-11-09T13:28:46+00:00",
+      "content_excerpt": "The Communist Party of China has just adopted a sweeping program of self-discipline, and the document itself points to the reason. The party is fighting the capitalists and the capitalist relations that the market reforms created inside China, and it is fighting them inside its own ranks. The post China’s Communist Party turns the blade on itself appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/d699ee57d0f49f1be6bae929.json"
+    },
+    {
+      "id": "6bc9c6ca04f718ab9455fe32",
+      "title": "1.6 million join general strike in France against austerity",
+      "url": "https://mronline.org/2026/11/09/1-6-million-join-general-strike-in-france-against-austerity",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-11-09T12:31:03+00:00",
+      "content_excerpt": "Around 1.6 million people took to streets across France during Thursday’s general strike, protesting Emmanuel Macron’s austerity policies. The post 1.6 million join general strike in France against austerity appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/6bc9c6ca04f718ab9455fe32.json"
+    },
+    {
+      "id": "5c83410eab2d00ab724b9dc9",
+      "title": "Israel’s attacks on Gaza’s education: The students and teachers killed in October",
+      "url": "https://mronline.org/2026/11/09/israels-attacks-on-gazas-education-the-students-and-teachers-killed-in-october",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-11-09T11:29:59+00:00",
+      "content_excerpt": "Fourteen Palestinian students, the youngest just six years old, were killed in Israeli attacks across Gaza in October. The post Israel’s attacks on Gaza’s education: The students and teachers killed in October appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/5c83410eab2d00ab724b9dc9.json"
+    },
+    {
+      "id": "f34e1bed3c384082a50e18d0",
+      "title": "Life in the GDR: Women’s emancipation and its destruction",
+      "url": "https://mronline.org/2026/11/09/life-in-the-gdr-womens-emancipation-and-its-destruction",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-11-09T10:32:50+00:00",
+      "content_excerpt": "The German Democratic Republic (GDR) was founded in October 1949, four months after the Federal Republic of Germany (FRG). The post Life in the GDR: Women’s emancipation and its destruction appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/f34e1bed3c384082a50e18d0.json"
+    },
+    {
+      "id": "08ac62017d776f2e1faca75c",
+      "title": "Are Mexican cartels using Ukraine’s war as a training ground for drone warfare?",
+      "url": "https://breakthroughnews.org/2026/11/09/are-mexican-cartels-using-ukraines-war-as-a-training-ground-for-drone-warfare",
+      "author": "Pablo Meriguet",
+      "source": "BT News",
+      "published_at": "2026-11-09T06:29:24+00:00",
+      "content_excerpt": "Several weeks ago, videos posted on social media allegedly showed Mexican mercenaries in Ukraine who claimed to belong to powerful Mexican cartels. Those appearing in the videos are wearing the uniform of the Ukrainian army, which is currently engaged in a war of attrition against Russia. A video released by Al Jazeera shows an unidentified person claiming to be part of the Jalisco New Generation Cartel (CJNG), and another who says he is part of “La Chapiza,” a faction led by the sons of former leader and drug trafficker Joaquín “El Chapo” Guzmán. Claudia Sheinbaum herself said that the authenticity of the videos must be confirmed. Despite this caution, the videos raised a major question in Latin America: How was it possible that alleged members of some of the world’s most dangerous drug c",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/08ac62017d776f2e1faca75c.json"
+    },
+    {
+      "id": "41957f68a773e4b55718f007",
+      "title": "Gaza faces an uncertain future a year into the ‘ceasefire’",
+      "url": "https://breakthroughnews.org/2026/11/09/gaza-faces-an-uncertain-future-a-year-into-the-ceasefire",
+      "author": "Ruwaida Amer",
+      "source": "BT News",
+      "published_at": "2026-11-09T06:29:24+00:00",
+      "content_excerpt": "Two million people in the Gaza Strip have been forced by the Israeli military into an area covering approximately 30% of the territory. Now, with the onset of winter, Gazan families are not only facing constant displacement, but are facing flooding in their tents. The “yellow zone” began to emerge gradually alongside the presence of the Israeli military. It encompasses areas near the Gaza-Israel border, stretching along the entire frontier from the north of the Gaza Strip to the south. As the war continued persisting into October 2025 this zone expanded significantly. It now includes the entirety of Rafah, two-thirds of Khan Yunis in the southern Gaza Strip, as well as the eastern districts of cities in the central Gaza Strip and the eastern parts of the territory as a whole. Following the",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/41957f68a773e4b55718f007.json"
     }
   ]
 }
