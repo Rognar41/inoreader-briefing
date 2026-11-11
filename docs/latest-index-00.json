@@ -1,311 +1,311 @@
 {
-  "generated_at": "2026-11-10T02:19:59.722044+00:00",
-  "generated_at_jst": "2026-11-10T11:19:59.722044+09:00",
-  "period_start": "2026-11-08T20:19:59.722044+00:00",
+  "generated_at": "2026-11-11T00:11:33.127562+00:00",
+  "generated_at_jst": "2026-11-11T09:11:33.127562+09:00",
+  "period_start": "2026-11-09T18:11:33.127562+00:00",
   "lookback_hours": 30,
   "folder": "00_毎日確認",
   "article_count": 20,
   "excerpt_chars": 800,
   "articles": [
     {
-      "id": "4d878f38a010a100e1a9763e",
-      "title": "The Big Beautiful Boycott: Starbucks Workers’ Fight for a First Contract",
-      "url": "https://socialistcall.com/2026/11/09/starbucks-workers-boycott",
-      "author": "Ian M.",
+      "id": "a1b8d85b1dc3f45b2dd983d5",
+      "title": "Open edX Developer",
+      "url": "https://www.laprogressive.com/sponsored/open-edx-developer",
+      "author": "Sejal Desai",
+      "source": "LA Progressive",
+      "published_at": "2026-11-10T23:11:35+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Introduction The decision to employ an in-house Open edX developer or partner with a specialist agency dictates the entire operating model for a learning platform. The optimal choice depends directly on the specific shape of the development roadmap, and this strategic alignment takes precedence over the headline developer rate. US engineering leaders evaluate the total volume of platform work required throughout the year and assess whether that workload demands a single specialized skill set or multiple technical disciplines. The speed at which engineering capacity must be deployed is weighed alongside long-term platform ownership. Decisions regarding who will maintain syst",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/a1b8d85b1dc3f45b2dd983d5.json"
+    },
+    {
+      "id": "87b7797823cd6f5e322accaf",
+      "title": "AI Video Generator",
+      "url": "https://www.laprogressive.com/sponsored/ai-video-generator",
+      "author": "Britta Hedlund",
+      "source": "LA Progressive",
+      "published_at": "2026-11-10T23:00:57+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Making videos has evolved into an important and integral component of online communications, marketing, education and entertainment. But some people have trouble when they are making their first video, as it requires people to be well experienced with editing, creative organization, and appropriate gear. Today, all this can be facilitated with the help of modern AI tools. Creating videos from written content, pictures and imagination with an AI video generator is simpler. A professional editor wouldn't be necessary to get started. Using a suitable platform and some simple steps, you could make interesting videos for any personal or business project. What Is an AI Video Gene",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/87b7797823cd6f5e322accaf.json"
+    },
+    {
+      "id": "21912e7a0a5271faff56586d",
+      "title": "Women’s Lifestyle Magazine",
+      "url": "https://www.laprogressive.com/sponsored/womens-lifestyle-magazine",
+      "author": "Tiqua Jackson",
+      "source": "LA Progressive",
+      "published_at": "2026-11-10T22:41:24+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Everyday life comes with different responsibilities, changing priorities, and opportunities for growth. Between work, relationships, personal goals, and self-care, finding time to focus on individual interests can sometimes be challenging. For many women, lifestyle content offers a way to discover fresh ideas, learn practical skills, and find inspiration for creating a more balanced and fulfilling life. A women’s lifestyle magazine can cover a wide range of subjects, including wellness, fashion, beauty, relationships, career development, travel, and personal growth. Rather than focusing on one aspect of life, it provides a broader perspective on the experiences, interests, ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/21912e7a0a5271faff56586d.json"
+    },
+    {
+      "id": "261a4353807d9b9870b486ae",
+      "title": "RPL Training",
+      "url": "https://www.laprogressive.com/sponsored/rpl-training",
+      "author": "Sejal Desai",
+      "source": "LA Progressive",
+      "published_at": "2026-11-10T22:29:31+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Career progression often depends on more than experience alone. Employers may look for recognised qualifications when considering candidates for promotions, new responsibilities or more specialised roles. For experienced workers who have developed valuable skills through employment, training or practical experience, rpl training can provide a pathway to have those existing capabilities formally recognised. Recognition of Prior Learning (RPL) assesses the skills, knowledge and experience a person has already gained against the requirements of a recognised qualification. Rather than starting from the beginning, eligible candidates can work towards formal recognition based on ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/261a4353807d9b9870b486ae.json"
+    },
+    {
+      "id": "1f13911e84a85414405367f5",
+      "title": "Reusable Filters",
+      "url": "https://www.laprogressive.com/sponsored/reusable-filters",
+      "author": "Britta Hedlund",
+      "source": "LA Progressive",
+      "published_at": "2026-11-10T22:26:47+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Maintaining your car over several years means looking beyond the next service. Some components require regular replacement, while others can be maintained and reused. A washable engine air filter belongs to the second category, provided it suits your vehicle and receives proper care. Understanding how reusable filters affect servicing, replacement costs and engine protection helps you decide whether they belong in your long-term car maintenance plan. Reuse Changes the Replacement Cycle Conventional disposable engine air filters require replacement when they reach their recommended service point or become excessively dirty. Reusable filters offer a different approach, allowi",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/1f13911e84a85414405367f5.json"
+    },
+    {
+      "id": "3e3231921ad4bb1a9f7b6c50",
+      "title": "Choose a Personal Injury Lawyer",
+      "url": "https://www.laprogressive.com/sponsored/choose-a-personal-injury-lawyer",
+      "author": "Sejal Desai",
+      "source": "LA Progressive",
+      "published_at": "2026-11-10T22:16:31+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. After a slip in a Florida hotel lobby, a Maryland visitor might receive treatment locally and fly home still wearing a brace. Choosing a lawyer then means deciding whether to hire someone near home or near the accident. Compare each candidate's authority to handle the case, experience with your kind of accident, communication plan, and written fee terms. Office location alone won't answer those questions. Start with a lawyer who can handle the case in the right place Three questions can get tangled together after an interstate accident: where you live, where the injury happened, and where a lawyer may practice. Which court can hear a claim, which state's law applies, and wh",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/3e3231921ad4bb1a9f7b6c50.json"
+    },
+    {
+      "id": "0be698b62297c93cb13591a6",
+      "title": "Rental Income Can Help",
+      "url": "https://www.laprogressive.com/sponsored/rental-income-can-help",
+      "author": "Britta Hedlund",
+      "source": "LA Progressive",
+      "published_at": "2026-11-10T22:08:10+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. A rental property is really a small business. It brings in revenue every month, and that revenue can do something many investors don't expect: help you qualify for financing to buy it. Lenders increasingly treat an investment property like any income-producing asset, asking whether it earns enough to pay for itself. For investors, that shift opens doors that a conventional, income-based application often keeps shut. The clearest example of this is the rise of financing built around a property's cash flow rather than the borrower's paycheck. One way investors can use rental income in the qualification process is through Texas DSCR loans , where the property’s expected cash f",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/0be698b62297c93cb13591a6.json"
+    },
+    {
+      "id": "2458f6dacdabd7a59908b7dd",
+      "title": "Socialism Wins in a Purple District",
+      "url": "https://socialistcall.com/2026/11/10/socialism-wins-in-a-purple-district",
+      "author": "Geovanny Tolentino and Jordan Millett",
       "source": "The Call",
-      "published_at": "2026-11-10T00:39:44+00:00",
-      "content_excerpt": "After five years of strikes, marches on the boss, petitions, and legal action, Starbucks Workers United (SBWU) called for a boycott in August. Beyond individual coffee drinkers, the union is asking universities, other unions, candidates, and political organizations to sign on to the boycott campaign. Boycotts have a long history in the labor movement but can be risky. They rely on external support, and if they fail to make a dent in the company’s bottom line, they risk undercutting the momentum of the movement. Luckily for SBWU, unions are more popular than ever, and we’ve already seen that plenty of people are ready to throw down to support their baristas. Since 2021, Starbucks workers have been organizing at an impressive rate. Anyone who pays any attention to the labor movement has hear",
+      "published_at": "2026-11-10T21:31:22+00:00",
+      "content_excerpt": "When State Representative Lesly Muñoz attended a Salem DSA meeting in October 2025, her district was under an ICE attack. Agents had kidnapped a father in the parking lot of El Torito Market. Days later, ICE abducted 31 immigrant workers in nearby Woodburn. Chapter leaders spent the better part of an hour brainstorming a rapid response with Lesly. By the end, we had a plan: activate community members by distributing Know Your Rights resources to residents and Latino businesses, with Lesly leveraging her position as state representative to amplify our Abolish ICE demands. That same evening, Lesly joined DSA. Together, we went on to build a campaign for the state legislature that mobilized constituents, named the enemy, and let the red banner fly. As a result, Lesly won re-election to House ",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/4d878f38a010a100e1a9763e.json"
+      "article_path": "articles/2458f6dacdabd7a59908b7dd.json"
     },
     {
-      "id": "86abe172052d94184fcdbc83",
-      "title": "Comic: Your Workplace is Undemocratic by Design",
-      "url": "https://labornotes.org/2026/11/comic-your-workplace-undemocratic-design",
-      "author": "Ellen David Friedman and Natascha Elena Uhlmann",
-      "source": "",
-      "published_at": "2026-11-09T23:15:22+00:00",
-      "content_excerpt": "Adapted from Keep Going: A Guide to Organizing When It's Hard by Ellen David Friedman. Available at labornotes.org/store .",
+      "id": "2af0b03feb4eef6f4d5795a1",
+      "title": "Family Matching Outfits",
+      "url": "https://www.laprogressive.com/sponsored/family-matching-outfits",
+      "author": "Tiqua Jackson",
+      "source": "LA Progressive",
+      "published_at": "2026-11-10T21:28:05+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. A candlelight service can make a Christmas evening feel unusually calm. The lights are lowered, candles are passed from one person to another, and the usual sounds of a busy household are replaced by music, readings, and quiet reflection. When the service ends, however, the evening does not always become quiet immediately. Families step outside together, children talk about what they noticed, and everyone begins the walk home. That walk can become a small holiday tradition of its own. The streets may be quieter than usual, the air may feel colder, and families have a chance to talk without the distractions of home. For some households, the clothing worn for the evening also",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/86abe172052d94184fcdbc83.json"
+      "article_path": "articles/2af0b03feb4eef6f4d5795a1.json"
     },
     {
-      "id": "9def465c89a17defe3717710",
-      "title": "An Effective AI Pushback Has to Go Beyond the Local",
-      "url": "https://jacobin.com/2026/11/ai-data-center-midterms-regulation",
-      "author": "Aziz Huq",
-      "source": "Jacobin",
-      "published_at": "2026-11-09T22:01:55+00:00",
-      "content_excerpt": "Last week’s election returns embodied a broad, national, and bipartisan reaction against data centers. In forty-six of the forty-seven local referenda held across some thirteen states, voters rejected new data center construction. Public opposition reflects local concerns about water usage, grid sustainability, and noise pollution. This opposition is also bubbling up at a moment when most of the public distrust s artificial intelligence (AI) in general, when two-thirds of Americans hold negative views of AI firms and their close ties to the Trump administration, and when fears about AI rank high among Americans’ leading worries. This confluence of AI-adjacent fears is no accident. Each anxious spark leaps from a different facet of a single Silicon Valley strategy for hyperscaling AI. If th",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/9def465c89a17defe3717710.json"
-    },
-    {
-      "id": "3203025f340f24217e590987",
-      "title": "The Parish of Seeds",
-      "url": "https://scalawagmagazine.org/2026/11/the-parish-of-seeds",
-      "author": "Jason Collins",
+      "id": "4a8dddf3bda733fd1aaafe7e",
+      "title": "Ashley Farmer's 'Queen Mother' honors Queen Mother Audley Moore, finally",
+      "url": "https://scalawagmagazine.org/2026/11/ashley-farmers-queen-mother-honors-queen-mother-audley-moore-finally",
+      "author": "Tea Troutman",
       "source": "Scalawag",
-      "published_at": "2026-11-09T21:34:51+00:00",
-      "content_excerpt": "Moira’s Parish of Seeds had been born from the bones of a megachurch that was once known for its large and loud worship sessions. Inside, Moira and her crew had torn out the pews and converted the sanctuary into a seed-curing room. The baptismal font became a hydroponic lettuce tank, and the stained-glass Jesus now watched over shelves of okra, collards, and marigold seeds. Read more via Scalawag : The Parish of Seeds .",
+      "published_at": "2026-11-10T21:27:12+00:00",
+      "content_excerpt": "Given Moore’s position as both a cultural and political figure of high regard, who is widely known amongst students of the Black Radical Tradition and in Black Nationalist and reparations-centered organizing spaces, she has been minimally studied with the degree of rigor she deserves. Read more via Scalawag : Ashley Farmer's 'Queen Mother' honors Queen Mother Audley Moore, finally .",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/3203025f340f24217e590987.json"
+      "article_path": "articles/4a8dddf3bda733fd1aaafe7e.json"
     },
     {
-      "id": "2a868e277e49ded01653c2d5",
-      "title": "Metro DC DSA Condemns Councilmember Christina Henderson’s Attempted Power Grab and Disregard for DC Home Rule",
-      "url": "https://mdcdsa.org/2026/11/08/metro-dc-dsa-condemns-councilmember-christina-hendersons-attempted-power-grab-and-disregard-for-dc-home-rule",
-      "author": "Metro DC DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-11-09T19:29:11+00:00",
-      "content_excerpt": "Metro DC DSA Condemns Councilmember Christina Henderson’s Attempted Power Grab and Disregard for DC Home Rule Date: November 8, 2026 Media Contact: For all press inquiries, please contact media@mdcdsa.org . Washington, DC: Metro DC Democratic Socialists of America condemns At-Large Councilmember Christina Henderson’s cynical attempt to manipulate the District’s Home Rule laws for her own political advantage, undermining the democratic process and distracting from the urgent challenges facing working-class Washingtonians. Details: In 2020, Henderson switched her party affiliation from Democrat to independent to run for an At-Large Council seat. Now, following Councilmember Robert White’s resignation, Henderson attempted to reverse that decision, potentially depriving the DC Democratic Party",
+      "id": "a58766ae1e3c43021993287f",
+      "title": "Victims of Sexual Abuse",
+      "url": "https://www.laprogressive.com/sponsored/victims-of-sexual-abuse",
+      "author": "Sejal Desai",
+      "source": "LA Progressive",
+      "published_at": "2026-11-10T21:26:44+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Yes, children can become victims of sexual abuse through online gaming platforms. Offenders use in-game chat, voice features, and private messages to build trust with children and then push them toward sexual contact or explicit images. California is the most populous state in the country and one of the world’s largest economies. It is home to Silicon Valley and many of the world’s best-known technology and video game companies. Major game studios operate in both the San Francisco Bay Area and Southern California. With so many popular games built there, online safety is a growing concern for families across the state. When a child is harmed, some parents speak with a child ",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/2a868e277e49ded01653c2d5.json"
+      "article_path": "articles/a58766ae1e3c43021993287f.json"
     },
     {
-      "id": "52a8c417ba2ad288aa1c092a",
-      "title": "A New Generation in Revolt: France’s Revolutionary Student Movement",
-      "url": "https://twincitiesdsa.org/2026/11/a-new-generation-in-revolt-frances-revolutionary-student-movement",
-      "author": "Twin Cities DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-11-09T19:29:11+00:00",
-      "content_excerpt": "Written by Janette Zahia Corcelius & Jane Léonie-Bellay who interviewed students Smeal, Léon, Hamet, & Julia Introduction By Janette Corcelius Janette Zahia Corcelius is a member of the Twin Cities Democratic Socialists of America. Her background includes being a public school music educator and a union organizer. What started as students striking for better learning […]",
+      "id": "2f31e1fc30dc35a83ed2beb0",
+      "title": "Fantasy Sports Can Teach",
+      "url": "https://www.laprogressive.com/sponsored/fantasy-sports-can-teach",
+      "author": "Tiqua Jackson",
+      "source": "LA Progressive",
+      "published_at": "2026-11-10T21:21:08+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. The Draft Is Only the Beginning Every fall, fantasy managers spend weeks preparing for a single evening. They study rankings, run mock drafts, and argue over the first pick. Then the season starts, and most of them learn that draft night settles very little. Injuries pile up, bye weeks arrive, and the waiver wire fills with players nobody saw coming. Matthew Bissell, a lifelong football, baseball, and basketball fan who plays in fantasy leagues, recognizes that cycle. As a financial consultant with The Broker Group, he watches families treat a financial plan the way many managers treat the draft: something to finish once and set aside. A plan built at one point in life refl",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/52a8c417ba2ad288aa1c092a.json"
+      "article_path": "articles/2f31e1fc30dc35a83ed2beb0.json"
     },
     {
-      "id": "690f1db0d430b9dcf941a5be",
-      "title": "“Socialist Surge” Powers “Bluenami”",
-      "url": "https://democraticleft.dsausa.org/2026/11/09/socialist-surge-powers-bluenami",
-      "author": "gdsnyc@verizon.net",
-      "source": "Democratic Left",
-      "published_at": "2026-11-09T18:54:17+00:00",
-      "content_excerpt": "A post-election victory call showcased newly elected DSA endorsees from all over the country. They agreed on one thing: The work is just getting started. The post “Socialist Surge” Powers “Bluenami” appeared first on Democratic Left .",
+      "id": "fd05943ea3ff576260aacb6b",
+      "title": "Split King Adjustable Bed",
+      "url": "https://www.laprogressive.com/sponsored/split-king-adjustable-bed",
+      "author": "Britta Hedlund",
+      "source": "LA Progressive",
+      "published_at": "2026-11-10T21:21:08+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. When two people share a bed but follow different bedtime routines, comfort can become a matter of timing as much as mattress choice. One person may settle down early, while the other stays up reading, watching television, or finishing work. Later, the second person may climb into bed and change positions several times before falling asleep. These ordinary differences can affect how each person experiences movement, pressure, and support throughout the night. A split king setup offers a practical way to manage different resting preferences, particularly when one sleeper likes an elevated upper body while the other prefers a flatter position. However, separate adjustment does",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/690f1db0d430b9dcf941a5be.json"
+      "article_path": "articles/fd05943ea3ff576260aacb6b.json"
     },
     {
-      "id": "4da3bf910409a3a0cc338187",
-      "title": "End the Private Health Insurance Tax: Pass Medicare for All",
-      "url": "https://jacobin.com/2026/11/health-insurance-premiums-single-payer",
-      "author": "Tim Higginbotham",
-      "source": "Jacobin",
-      "published_at": "2026-11-09T18:18:50+00:00",
-      "content_excerpt": "Every other Monday, I arrive at work bleary-eyed, still finishing my coffee, and settle into the workweek by reviewing my latest pay stub. I’m looking for miscounted hours, abnormal deductions — the sorts of mistakes that never happen but could. This morning was different. I spent the weekend fixating on the sorry state of health insurance in this country, roused in large part by Democrats’ comprehensive midterm victory, including wins by supporters of Medicare for All like Troy Jackson and Abdul El-Sayed. I arrived at my desk alert and reviewed my pay stub, focusing specifically on health care contributions. When we look at our pay stubs, employer and employee health insurance contributions combine into a number we numbly accept as we focus on our take-home pay. In my case, the biweekly t",
+      "id": "e74996f16a42d9d29d289a76",
+      "title": "Jane Kim and Nithya Raman",
+      "url": "https://www.laprogressive.com/election-and-campaigns/jane-kim-and-nithya-raman",
+      "author": "Randy Shaw",
+      "source": "LA Progressive",
+      "published_at": "2026-11-10T19:06:27+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. California and Los Angeles voters were on the same page last week. They wanted real change. Former San Francisco Supervisor Jane Kim was elected California Insurance Commissioner. Kim overcame millions of dollars in independent expenditures for Ben Allen, her opponent. She also overcame some of the nastiest newspaper attacks of this election cycle. In October I laid out the case for a Kim victory (See “ Can Jane Kim Win Race for Insurance Commissioner? “). I wrote, “I think California voters are fed up with the insurance industry. And they want to elect someone they see as committed to radically changing it. They see Jane Kim as that candidate. Not Ben Allen.” Longtime East",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/4da3bf910409a3a0cc338187.json"
+      "article_path": "articles/e74996f16a42d9d29d289a76.json"
     },
     {
-      "id": "654687ae7905b7e8dd5db923",
-      "title": "RECAP: 2026 Member Mobilization Institute",
-      "url": "https://uaw.org/recap-2026-member-mobilization-institute",
-      "author": "Joe Simpson",
+      "id": "ebb7578865be666da72f985b",
+      "title": "Statement from UAW President Shawn Fain and UAW Vice President Ryan Hiestand on Delphi Retirees",
+      "url": "https://uaw.org/statement-from-uaw-president-shawn-fain-and-uaw-vice-president-ryan-hiestand-on-delphi-retirees",
+      "author": "Justin Mayhugh",
       "source": "UAW",
-      "published_at": "2026-11-09T17:02:25+00:00",
-      "content_excerpt": "RECAP: 2026 Member Mobilization Institute ONAWAY, MI – UAW members from across the country gathered at Black Lake for the 2026 Member Mobilization Institute, a week of learning new skills, sharing ideas, and exploring how we can strengthen our union together. Workshops, discussions, and hands-on practice challenged participants to consider what it takes to build lasting power and to prepare for the opportunities and challenges ahead, including May Day 2028. Learning continued beyond the classroom as delegates embraced opportunities to share their own worker stories by creating art with block printing, bandanas, signs, buttons, photography, and zines. Creativity became a powerful organizing tool, helping participants communicate their message, connect with others, and find their entry point",
+      "published_at": "2026-11-10T18:57:53+00:00",
+      "content_excerpt": "The UAW is happy to announce that GM has agreed to honor its commitments to Delphi retirees who were denied annual lumpsum payments in 2023, 2024, 2025, and 2026. The remaining eligible Delphi retirees will receive a $2,000 payment in or about March 2027 covering prior years, and a future $500 payment in December 2027. Let’s be clear. This issue never should’ve taken this long to resolve. While GM makes a record $20 billion payout to Wall Street, certain Delphi retirees have had to wait years to get what they’ve been owed. Through the diligence of the UAW, and the members who raised their voices, we have made things right, and will keep fighting for every single member to get their fair share.",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/654687ae7905b7e8dd5db923.json"
+      "article_path": "articles/ebb7578865be666da72f985b.json"
     },
     {
-      "id": "b928f5aaa6f232a77bc72c3c",
-      "title": "Jeffries Should Not Be Speaker",
-      "url": "https://www.laprogressive.com/progressive-issues/jeffries-should-not-be-speaker",
-      "author": "Medea Benjamin",
+      "id": "3222cb299664780a5b4c2bcf",
+      "title": "Privatizing the VA",
+      "url": "https://www.laprogressive.com/war-and-peace/privatizing-the-va",
+      "author": "Steve Early, Suzanne Gordon",
       "source": "LA Progressive",
-      "published_at": "2026-11-09T16:51:31+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Now that Democrats have swept the House, a key question is: Who should lead it? Hakeem Jeffries is in line to become the first Black Speaker of the House, which would be a historic milestone. But members of Congress must examine Jeffries' record, his priorities, and the kind of leadership he would bring to this moment. Here are ten reasons why Jeffries should not be Speaker. 1. He has abandoned Medicare for All At a time when millions of Americans struggle with unaffordable health insurance, medical debt, and the threat of financial ruin from illness, Jeffries has distanced himself from one of the most important progressive reforms: Medicare for All. Jeffries co-sponsored M",
+      "published_at": "2026-11-10T18:43:06+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. If any Trump appointees lose their posts, as part of a mid-term cabinet re-shuffling, Secretary of Veterans Affairs (VA) Doug Collins is not likely to be among them. Unlike controversial former colleagues, already sacked as the heads of Homeland Security, Justice, and Labor Departments—or Pete Hegseth, the next to go?– Collins keeps his own head down. He does the president’s bidding, without personal drama or political scandal. This low-profile Air Force Reserve chaplain is a clean-living Southern Baptist minister, small town lawyer and former Congressman from Georgia. When the Senate confirmed him last year, there was no need for a tie-breaking vote like the one JD Vance c",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/b928f5aaa6f232a77bc72c3c.json"
+      "article_path": "articles/3222cb299664780a5b4c2bcf.json"
     },
     {
-      "id": "2edda73ccb9b660a4aec46b6",
-      "title": "Impeachment Could Become A Powerful Tool",
-      "url": "https://www.laprogressive.com/progressive-issues/impeachment-could-become-a-powerful-tool",
-      "author": "Paul deLespinasse",
+      "id": "ec381d1b3cefcc1cce220c3d",
+      "title": "Slow-Motion Nuclear War",
+      "url": "https://www.laprogressive.com/climate-change/slow-motion-nuclear-war",
+      "author": "Tom Engelhardt",
       "source": "LA Progressive",
-      "published_at": "2026-11-09T16:26:24+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Some Democrats are threatening to impeach Donald Trump again in January when they have the majority in the House and Senate But enough Republicans will remain to block conviction since they will constitute more than one third of the Senate. Perhaps the third time would be the charm, since some Republican politicians are distancing themselves from him. But a successful impeachment probably needs to be led by Republicans. If initiated by Democrats, many Republicans would argue that the impeachment is just another partisan attack. However Democrats should not abandon all thoughts of impeachment. Rather than impeaching Donald Trump, however, they should impeach his more outrage",
+      "published_at": "2026-11-10T18:05:21+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. In February 1982, in the New Yorker , Jonathan Schell imagined and described what a Russian twenty-megaton nuclear bomb (1,600 times the yield of the bomb that destroyed the Japanese city of Hiroshima at the end of World War II) might do if it hit New York City (his hometown and mine), though its radioactive fallout would have reached significantly farther. That one bomb, he wrote, “would probably doom upward of twenty million people.” He then described just what that nightmare might be like in all too vivid detail. (”If the wind was blowing at 15 miles an hour, fallout of lethal intensity would descend in a plume about 150 miles long and as much as fifteen miles wide.”) Gi",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/2edda73ccb9b660a4aec46b6.json"
+      "article_path": "articles/ec381d1b3cefcc1cce220c3d.json"
     },
     {
-      "id": "e046a2d701172c00307cc5f0",
-      "title": "California UFCW Leaders Really Don’t Want Union Elections",
-      "url": "https://jacobin.com/2026/11/ufcw-local-california-reform-intimidation",
-      "author": "Lisa Xu",
+      "id": "9ca66555e45a22d75fadaa73",
+      "title": "Biden’s Role in the Gaza Genocide",
+      "url": "https://democraticleft.dsausa.org/2026/11/10/bidens-role-in-the-gaza-genocide",
+      "author": "tfrasca@yahoo.com",
+      "source": "Democratic Left",
+      "published_at": "2026-11-10T17:59:43+00:00",
+      "content_excerpt": "Akbar Shahid Ahmed reveals the structural arrogance of the Biden administration as it enabled genocide in Gaza. The post Biden’s Role in the Gaza Genocide appeared first on Democratic Left .",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/9ca66555e45a22d75fadaa73.json"
+    },
+    {
+      "id": "9f73a3b48cd294a11e7afa9d",
+      "title": "Providence Built a Winning Movement to Divest From Israel",
+      "url": "https://jacobin.com/2026/11/providence-divestment-israel-morales-campaign",
+      "author": "Zack Kligler",
       "source": "Jacobin",
-      "published_at": "2026-11-09T16:09:28+00:00",
-      "content_excerpt": "In a union that has been headed by one family with no competitive elections since 1984, a group of grocery workers is organizing for change. But last week, they say, union staff who back the incumbent administration went to outrageous lengths in an attempt to make sure there’s no election this year either. On the afternoon of Monday, November 2, Eric Marcuz, a veteran Northern California Safeway worker, stopped at the union office to pick up blank petitions to get on the ballot in the union’s upcoming election. Marcuz is running for president on the At What Cost slate in the 23,000-member United Food and Commercial Workers (UFCW) Local 8–Golden State (8-GS), one of the largest locals in the union. To get on the ballot, Marcuz and his slate-mates have to collect 443 petition signatures — 2 ",
+      "published_at": "2026-11-10T17:52:38+00:00",
+      "content_excerpt": "The midterm elections saw progressive, pro-Palestine candidates sweep into office across the country on the back of public outrage at Israel’s ongoing genocide in Gaza. These victories should help reshape the conversation around Israel in Washington, reflecting the shifts in American public opinion against Israel that have acutely developed over the past three years. But that shift can be seen in other ways beyond electoral victories — like the passage of a binding ordinance last Tuesday in Providence, Rhode Island, divesting from Israel and other entities complicit in “ethnic cleansing, apartheid, illegal military occupation, or genocide.” The measure, which was listed on the ballot as Question 7, makes Providence the largest US city to divest from Israel and the first to enact a divestme",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/e046a2d701172c00307cc5f0.json"
+      "article_path": "articles/9f73a3b48cd294a11e7afa9d.json"
     },
     {
-      "id": "d15d30e86b05f3a031b0988a",
-      "title": "Youth in Revolt",
-      "url": "https://www.laprogressive.com/economic-equality/youth-in-revolt",
-      "author": "Henry A. Giroux",
+      "id": "053c78696157ca67fe95c761",
+      "title": "Violence Against Women",
+      "url": "https://www.laprogressive.com/gender-discrimination/violence-against-women",
+      "author": "Lily Minh Wass",
       "source": "LA Progressive",
-      "published_at": "2026-11-09T16:01:33+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Young people are taking to the streets across France, Italy, Belgium, India, Serbia, and Albania, refusing to surrender their futures to a capitalist system that has abandoned them or to a politics that Naomi Klein and Astra Taylor have described as “end times fascism.” These protests are fueled by mounting anger over deteriorating schools, economic insecurity, unaffordable housing, political corruption, and a ruling class increasingly indifferent to the needs and voices of the young. As far right governments in Europe, the United States, and Latin America cancel out a future plagued by endless wars, climate catastrophe, staggering inequality, deepening poverty, and deterio",
+      "published_at": "2026-11-10T17:31:23+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. This September, independent student newspaper The Cornell Daily Sun broke news of a civil lawsuit brought forth by Jane Doe—a former student who dropped out following her alleged rape and assault by seven members of the Chi Phi fraternity in 2024. The story galvanized a nation of Jane Does, where one in four undergraduate women experience sexual assault after starting college. At Cornell University, that number recently rose to one in three. Survivors and allies took to social media, decrying how universities and legal systems have failed female student bodies for generations. But these same platforms were already rife with antifeminist groups, connected by a digital archit",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/d15d30e86b05f3a031b0988a.json"
-    },
-    {
-      "id": "f697c46764e35415b9755b8a",
-      "title": "Vicious Racial Undertow",
-      "url": "https://www.laprogressive.com/racism/vicious-racial-undertow",
-      "author": "Mark P. Fancher",
-      "source": "LA Progressive",
-      "published_at": "2026-11-09T15:30:29+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. When the big blue wave came crashing through the most unlikely regions of the country, it washed ashore a remarkable group of newly elected racial, ethnic, gender and religious “firsts.” Progressives were of course gleeful. But if America’s history is any guide, joy about racial electoral breakthroughs may be premature. There is a well-established record of this country riding waves of legal and political progress toward the racial ideal, but at the same time being pulled backwards by a social undertow driven by white racists. There is no reason to believe things will be different after the recent mid-term elections. The push/pull racial dynamic has been here from the begin",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/f697c46764e35415b9755b8a.json"
-    },
-    {
-      "id": "a59809f7734cf5ed2ebe1f78",
-      "title": "Reactionary Feminists Offer Bad Solutions to Real Problems",
-      "url": "https://jacobin.com/2026/11/conservative-liberal-marxist-feminism-sexual-morality",
-      "author": "Kaja Kröger",
-      "source": "Jacobin",
-      "published_at": "2026-11-09T14:38:49+00:00",
-      "content_excerpt": "To more and more people, the promises of sex-positive liberal feminism feel empty. The sexual ideas that have dominated feminism in the last two decades — including that sexual liberation always serves women’s interests, that consent is the only relevant sexual ethic, and that consuming porn and buying sex are benign practices like any other — are beginning to ring hollow. In this context, an emergent theoretical strand with the pointed, self-chosen name “reactionary feminism” has drawn considerable attention. It calls into question the liberal assertion that every form of sexual morality is anti-feminist — a view the Left has absorbed in recent decades. Although they work to maintain an appearance of ideological ambivalence, reactionary feminists are aligned with the post-liberal right , ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/a59809f7734cf5ed2ebe1f78.json"
-    },
-    {
-      "id": "ff87ba12410a9b2c8bab9f35",
-      "title": "The Dollar’s Power Never Came From Oil",
-      "url": "https://jacobin.com/2026/11/oil-currency-hegemony-empire-warfare",
-      "author": "Matías Vernengo",
-      "source": "Jacobin",
-      "published_at": "2026-11-09T13:36:20+00:00",
-      "content_excerpt": "The war in Iran and the disruption of shipping through the Strait of Hormuz have renewed an old debate about the foundations of American global power. Oil has been central to the geopolitical order dominated by the United States since World War II. The dollar is the principal international currency, oil is overwhelmingly priced in dollars, and American military power has been essential to controlling access to petroleum, particularly in the Middle East. The question raised by some analysts is whether the erosion of this arrangement, accelerated by the transition to cleaner sources of energy, signals the end of American hegemony and of the privileged position of the dollar. There are good reasons to take this possibility seriously. China has become the leading producer of solar panels, batt",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/ff87ba12410a9b2c8bab9f35.json"
-    },
-    {
-      "id": "c85fc9a327154288591838f9",
-      "title": "Black Women’s Political Power and the Future of Democracy in Brazil",
-      "url": "https://www.aaihs.org/black-womens-political-power-and-the-future-of-democracy-in-brazil",
-      "author": "Kia Lilly Caldwell and Gladys Mitchell-Walthour",
-      "source": "AAIHS",
-      "published_at": "2026-11-09T10:52:48+00:00",
-      "content_excerpt": "Luiz Inácio (“Lula”) da Silva’s historic reelection for a fourth term as president of Brazil on October 25 highlighted the The post Black Women’s Political Power and the Future of Democracy in Brazil first appeared on AAIHS .",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/c85fc9a327154288591838f9.json"
-    },
-    {
-      "id": "9ee99a0b16548aee958dec95",
-      "title": "America, Satan Called and He Wants His Baby Brother Back",
-      "url": "https://www.laprogressive.com/progressive-issues/america-satan-called-and-he-wants-his-baby-brother-back",
-      "author": "Desi Cortez",
-      "source": "LA Progressive",
-      "published_at": "2026-11-08T23:36:25+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Stephen Miller is a hate monger; he promotes racism and hostility, and he is the pillar of the MAGA world who’s pulling Trump’s strings in the White House I’d venture to guess the Devil understated their relationship. Stephen Miller could be Lucifer’s identical twin, separated at birth, raised among mortals, and dispatched to Washington to finish what Hell couldn't accomplish alone. I’m serious! Something wicked this way comes In my opinion, Miller is among the most ominous, creepy, dangerous, morally repugnant figures to emerge from the Land of MAGA. His hostility toward immigrants , fixation on who belongs, and apparent indifference to suffering remind me less of an Ameri",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/9ee99a0b16548aee958dec95.json"
-    },
-    {
-      "id": "93aef5bc5c04c3fff12d7afd",
-      "title": "More Pressure Needed to STOP the Trump EGO Arch",
-      "url": "https://www.laprogressive.com/democracy/more-pressure-needed-to-stop-the-trump-ego-arch-",
-      "author": "Ann Wright",
-      "source": "LA Progressive",
-      "published_at": "2026-11-08T23:34:44+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Despite 9.5 hours of citizen testimony from 131 persons about construction of President Trump’s massive 250-foot EGO arch with 99.9% of the testimony to STOP the arch, the National Capital Planning Commission (NCPC) voted 8 to 4 to allow construction. The 8 who voted for the Arch are Trump loyalists and were appointed by Trump. Over 100,000 written comments opposing the Arch have been sent to the NCPC. The plan to build it was rushed and skirted legal procedures and funding requirements under Title 40 U.S.C. § 8106. Immediately after the vote that took place after 10pm on November 5, 2026, the Trump administration filed a notification with the federal court that constructio",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/93aef5bc5c04c3fff12d7afd.json"
-    },
-    {
-      "id": "b0d72087e95860e6ea39c975",
-      "title": "Paraguay Political, Financial Crisis: the Liberal Economic Model Continues to Fail",
-      "url": "https://www.laprogressive.com/foreign-policy/paraguay-political-financial-crisis-the-liberal-economic-model-continues-to-fail",
-      "author": "Thania Saucedo",
-      "source": "LA Progressive",
-      "published_at": "2026-11-08T23:25:18+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Paraguay is undergoing one of the most significant political and financial crises in its recent history. The Central Bank of Paraguay’s intervention in Ueno Bank —following the detection of serious irregularities in its operations and solvency issues—triggered a crisis that quickly expanded beyond the banking sector. Today, it has direct consequences for the government of Santiago Peña and has triggered an impeachment process that calls into question the very future of the president himself. To understand what is happening, it is necessary to explain a few key points. Ueno Bank experienced exponential growth in recent years, coinciding with the start of Santiago Peña’s admi",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/b0d72087e95860e6ea39c975.json"
+      "article_path": "articles/053c78696157ca67fe95c761.json"
     }
   ]
 }
