@@ -1,311 +1,311 @@
 {
-  "generated_at": "2026-11-12T01:37:29.959965+00:00",
-  "generated_at_jst": "2026-11-12T10:37:29.959965+09:00",
-  "period_start": "2026-11-10T19:37:29.959965+00:00",
+  "generated_at": "2026-11-13T00:38:15.416523+00:00",
+  "generated_at_jst": "2026-11-13T09:38:15.416523+09:00",
+  "period_start": "2026-11-11T18:38:15.416523+00:00",
   "lookback_hours": 30,
   "folder": "00_毎日確認",
   "article_count": 20,
   "excerpt_chars": 800,
   "articles": [
     {
-      "id": "c5072dbfabdbe8e00c68cede",
-      "title": "Nithya Raman Replaces Karen Bass",
-      "url": "https://www.laprogressive.com/housing-and-homlessness/nithya-raman-replaces-karen-bass",
-      "author": "Dick Platkin",
+      "id": "e9e27d593bedb5abf54a1fb0",
+      "title": "Trillion Case for Medicare for All",
+      "url": "https://www.laprogressive.com/healthcare/trillion-case-for-medicare-for-all",
+      "author": "Farrah Hassen",
       "source": "LA Progressive",
-      "published_at": "2026-11-12T00:40:50+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. LA has a new Mayor. But if you now expect major changes from her, let me set you straight. The new mayor, Nithya Raman, may have a different personality, age, and separate supporters from the defeated mayor, Karen Bass, but they have much more in common than their differences. And if you think that things in Los Angeles will be substantially different under the new mayor, it is time for you to reconsider. The County is still losing 54,000 people per year and the City of Los Angeles, 5,000 to 10,000 residents per year. The missing people left the Los Angeles region for nearby cheaper areas or for other states, like Nevada or Texas. They are not coming back. Nevertheless, we ",
+      "published_at": "2026-11-12T23:01:36+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. America’s affordability crisis played a major role in this year’s midterm elections — and few things in American life have become more unaffordable than health care. It’s about to get worse as premiums rise and Medicaid cuts from the GOP’s so-called “Big Beautiful Bill” take effect. So if Democrats want to deliver on their promise to make life more affordable, then they must use their new congressional majorities to pass Medicare for All. The United States spends more on health care yet has worse health outcomes than comparable high-income countries. In surveys, health care costs remain the top financial burden for adults and families , even when they’re insured. Around 85 ",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/c5072dbfabdbe8e00c68cede.json"
+      "article_path": "articles/e9e27d593bedb5abf54a1fb0.json"
     },
     {
-      "id": "cfbb1849972b962a71b7d865",
-      "title": "House Negro",
-      "url": "https://www.laprogressive.com/progressive-issues/house-negro",
-      "author": "Desi Cortez",
+      "id": "eb7e24ec700b07bfb92b8f38",
+      "title": "Black Alliance for Peace urges Spain to grant Fergie Chambers asylum — The Black Alliance for Peace",
+      "url": "https://blackallianceforpeace.com/bapstatements/bap-demands-spain-grant-fergie-asylum",
+      "author": "",
+      "source": "The Black Alliance for Peace",
+      "published_at": "2026-11-12T22:56:21+00:00",
+      "content_excerpt": "November 12, 2026 . The U.S. government supplies Israel with weapons and diplomatic protection as it carries out genocide in Gaza. Domestically, the same government is moving to criminalize political opposition. These are related exercises of state power. One sustains the violence abroad. The other makes it more dangerous for people in the United States to organize against their own government’s role in that violence. The Trump administration’s National Security Presidential Memorandum 7 (NSPM-7) directs federal agencies to coordinate investigations under the banner of countering domestic terrorism and organized political violence. It draws on investigative and prosecutorial powers that successive Democratic and Republican administrations have built. When those powers are brought to bear i",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/eb7e24ec700b07bfb92b8f38.json"
+    },
+    {
+      "id": "1dad47ceee3ec7b6a3535cd3",
+      "title": "Political Fallout for Trump",
+      "url": "https://www.laprogressive.com/foreign-policy/political-fallout-for-trump",
+      "author": "Ramzy Baroud",
       "source": "LA Progressive",
-      "published_at": "2026-11-11T22:01:44+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Is Congressman Hakeem Jeffries the leader of the House Democrats, or is he becoming the modern political embodiment of Malcolm X’s House Negro : a man so comfortable inside the Big House that he mistakes proximity to power for possession of it? I suggest it’s the latter…. Before establishment Democrats faint into their cashmere handkerchiefs, please spare me lectures about decorum and refinement. I'm questioning if Jeffries' political backbone is made of the same claymation stuff Gumby and Pokeys were made of. I’m not dissecting his résumé. I'm questioning whether the man preparing to become America's first Black Speaker understands that sitting in the master's chair isn't ",
+      "published_at": "2026-11-12T22:12:31+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. On the very morning of last week’s critical US midterm elections, President Donald Trump made what seemed like a shocking announcement: no more aid to Israel. “Bibi Netanyahu and I have made a deal that we give Israel $4 billion a year, and we made a deal months ago that we’re stopping,” Trump said . He went on to make two seemingly contradictory assertions: “We won’t be paying Israel” and “We’ll help Israel if they need it.” In truth, this prompted little euphoria among those who have long campaigned against US funding of Israel. The lack of enthusiasm can be explained by two factors: firstly, few take Trump’s pledges seriously and, secondly, his remarks were widely unders",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/cfbb1849972b962a71b7d865.json"
+      "article_path": "articles/1dad47ceee3ec7b6a3535cd3.json"
     },
     {
-      "id": "c4e66ffdaf0dfd781965e66b",
-      "title": "Never Again for Whom",
-      "url": "https://www.laprogressive.com/foreign-policy/never-again-for-whom",
-      "author": "Adam Schrader",
-      "source": "LA Progressive",
-      "published_at": "2026-11-11T21:26:27+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Protesters gathered outside the Museum of Tolerance in Los Angeles on Sunday afternoon to demand the museum add exhibits and lessons on the treatment of Palestinians. They came after the museum’s parent organization did not respond to two letters requesting a meeting. Josh Kamensky, who handled press for the committee, told Urgent Matter in an email that passersby gave the protest “more supportive honks than angry reactions.” He said that as protesters were packing up, “a small group of aggressive, noisy counterprotestors arrived.” The No Tolerance for Genocide Committee organized the protest outside the museum on West Pico Boulevard. The museum is the educational arm of th",
+      "id": "6f188127c7dd57cd351219ef",
+      "title": "Building People Power Against Repression — The Black Alliance for Peace",
+      "url": "https://blackallianceforpeace.com/bapstatements/review-15",
+      "author": "",
+      "source": "The Black Alliance for Peace",
+      "published_at": "2026-11-12T21:52:23+00:00",
+      "content_excerpt": "While the outcome of this November’s historic U.S. midterm elections appears to have dealt a blow to the neofascist agenda of the Trump administration and its allies, the U.S. government’s objective in, its own words, remains full-spectrum domination. This includes the criminalization of dissent. The legal and policy architecture of this repression is codified through instruments like NSPM-7, which directs federal agencies to coordinate investigations under the banner of countering domestic terrorism and organized political violence. It draws on investigative and prosecutorial powers that successive Democratic and Republican administrations have built. Despite these electoral shifts, our task of building mass consciousness and developing independent organization based in popular power rema",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/c4e66ffdaf0dfd781965e66b.json"
+      "article_path": "articles/6f188127c7dd57cd351219ef.json"
     },
     {
-      "id": "a61df4967f3d1fd6f3e875ba",
-      "title": "The Box Says I Was Drinking",
-      "url": "https://scalawagmagazine.org/2026/11/the-box-says-i-was-drinking",
-      "author": "Daniel Bailey",
-      "source": "Scalawag",
-      "published_at": "2026-11-11T17:19:17+00:00",
-      "content_excerpt": "SCRAM. Secure Continuous Remote Alcohol Monitoring. Eight ounces of Colorado engineering that spends its entire existence trying to prove you are the kind of man who cannot be trusted with a single night of ordinary work. The company calls it continuous alcohol monitoring. The men who bill me call it Wednesday. The court ordered it. It was not optional. I rent it from a private company for $66.50 a week, and the bill comes to me. Read more via Scalawag : The Box Says I Was Drinking .",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/a61df4967f3d1fd6f3e875ba.json"
-    },
-    {
-      "id": "ee125f811eaa43c3d383ba96",
-      "title": "Nicaragua Threatens US Security",
-      "url": "https://www.laprogressive.com/foreign-policy/nicaragua-threatens-us-security",
-      "author": "John Perry, Roger D. Harris",
-      "source": "LA Progressive",
-      "published_at": "2026-11-11T17:16:51+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. On November 3, President Trump extended for another year the national emergency concerning Nicaragua, first declared in 2018, citing what the White House continues to describe as an “unusual and extraordinary threat” to US national security and foreign policy. The scale of the “threat” Here are some key figures by which to judge the scale of the “threat” posed by Nicaragua. First, some basics. The US population is nearly 50 times Nicaragua’s and its economy is 1,400 times bigger, with Nicaragua’s national income (GDP) only 0.07% that of the US. Second, a military comparison. Nicaragua has one of the smallest defense budgets in the Americas, devoting just 0.6% of its GDP ($1",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/ee125f811eaa43c3d383ba96.json"
-    },
-    {
-      "id": "feb050fa92e224013da2dda2",
-      "title": "Brazil’s Election Won in Streets",
-      "url": "https://www.laprogressive.com/foreign-policy/brazils-election-won-in-streets",
-      "author": "Luiz Felipe Albuquerque",
-      "source": "LA Progressive",
-      "published_at": "2026-11-11T16:41:22+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. The different generations who lived through the three weeks between the first and second rounds will never forget their significance. It may have been the greatest mass educational process that Brazilian society has ever experienced. There were hundreds of demonstrations across Brazil; millions of people took to the streets. Some organized in their neighborhoods, while others wrote flyers and distributed them door-to-door. Flyers were handed out at subway stations, bus stops, and bus terminals. Young people with signs took to the streets, ready to listen to people’s grievances and discuss what was at stake. Carpooling was organized to ensure everyone could vote. Young peopl",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/feb050fa92e224013da2dda2.json"
-    },
-    {
-      "id": "9ac8ad648dac730a6f80b6ea",
-      "title": "China Is Not Our Enemy",
-      "url": "https://www.laprogressive.com/left-coast-forum/china-is-not-our-enemy",
-      "author": "Jodie Evans",
-      "source": "LA Progressive",
-      "published_at": "2026-11-11T16:10:37+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. For decades, Americans have been taught to regard one country after another as a dangerous adversary requiring military containment, economic punishment, or outright war. At the 2026 Left Coast Forum, longtime peace activist Jodie Evans challenged that familiar narrative, arguing that the growing hostility toward China threatens not only international peace but American democracy, economic security, and the well-being of ordinary people. Evans, co-founder of the antiwar organization CODEPINK, brought a simple message to her audience: “China is not our enemy.” But her presentation was less a defense of the Chinese government than an indictment of American militarism and the ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/9ac8ad648dac730a6f80b6ea.json"
-    },
-    {
-      "id": "7460b1968e7f6e1428580756",
-      "title": "Really Know Gavin Newsom",
-      "url": "https://www.laprogressive.com/election-and-campaigns/really-know-gavin-newsom",
-      "author": "Joe Mathews",
-      "source": "LA Progressive",
-      "published_at": "2026-11-11T15:51:57+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. This is a letter of introduction. I, California, am sending you this letter with Gavin Newsom, my native son. America, you and Gavin think you know each other, but the truth is that you are new to him, and he is new to you. I write in hope of avoiding misunderstandings. I’m concerned about how the two of you will get along. My worries are grounded in the historic nature of Gavin’s unofficial but obvious presidential candidacy: Gov. Newsom is the most thoroughly Californian person to mount a major campaign for president in the history of the United States. A legal resident of Northern California for all 59 years of his life who has traveled and studied this state thoroughly,",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/7460b1968e7f6e1428580756.json"
-    },
-    {
-      "id": "6a3091e3c41bef64c6b92f85",
-      "title": "What Ballot Measures Told Us About America",
-      "url": "https://jacobin.com/2026/11/ballot-measures-billionaire-tax-abortion-divestment",
-      "author": "Ben Case",
+      "id": "74b03e39dce5ae90df96b214",
+      "title": "Reactionary Feminists Offer Bad Solutions to Real Problems",
+      "url": "https://jacobin.com/2026/11/conservative-liberal-marxist-feminism-morality",
+      "author": "Kaja Kröger",
       "source": "Jacobin",
-      "published_at": "2026-11-11T14:44:08+00:00",
-      "content_excerpt": "The blue tidal wave that swept congressional and local elections around the country is leaving a new political landscape in its wake. The generational scope of Democratic wins and unprecedented success of democratic socialist candidates notwithstanding, the president’s party almost always loses midterm elections, often by wide margins. How much do the election results reflect a shift in society’s politics, and how much do they reflect an extreme version of the standard two-party pendulum swing? And more importantly, where are the opportunities to push organizing to new horizons in this new terrain? The results of ballot initiative votes are especially useful in analyzing the political realities on the ground. Ballot measures present a simple yes-or-no choice on a piece of legislation, maki",
+      "published_at": "2026-11-12T20:38:36+00:00",
+      "content_excerpt": "To more and more people, the promises of sex-positive liberal feminism feel empty. The sexual ideas that have dominated feminism in the last two decades — including that sexual liberation always serves women’s interests, that consent is the only relevant sexual ethic, and that consuming porn and buying sex are benign practices like any other — are beginning to ring hollow. In this context, an emergent theoretical strand with the pointed, self-chosen name “reactionary feminism” has drawn considerable attention. It calls into question the liberal assertion that every form of sexual morality is anti-feminist — a view the Left has absorbed in recent decades. Although they work to maintain an appearance of ideological ambivalence, reactionary feminists are aligned with the post-liberal right , ",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/6a3091e3c41bef64c6b92f85.json"
+      "article_path": "articles/74b03e39dce5ae90df96b214.json"
     },
     {
-      "id": "e433a86b0f2379051561b71d",
-      "title": "A Sewer Socialist Proposal for the Climate: PowerNYC",
-      "url": "https://jacobin.com/2026/11/public-power-mamdani-new-york-green",
-      "author": "Batul Hassan",
+      "id": "641e2749dcbb5be4a95b6ef3",
+      "title": "The Southern Negro Youth Congress’s Bold Push for Equality",
+      "url": "https://jacobin.com/2026/11/snyc-youth-civil-rights-organizing-south",
+      "author": "Robert Greene II",
       "source": "Jacobin",
-      "published_at": "2026-11-11T14:24:10+00:00",
-      "content_excerpt": "Two years ago, then Assemblymember Zohran Mamdani launched his campaign for mayor with a series of on-the-street interviews of Donald Trump voters on Fordham Road in the Bronx. In the course of the following year, the cost-of-living crisis solidified as the uniting theme of his mayoral campaign, anchored by a clear agenda to bring costs down and build a city where New Yorkers can “afford to dream.” Last week, a big tent of Democratic politicians used this same message to rout the Right across the country — potentially opening the door to a new kind of politics that embeds climate action within economic populist agendas. New York City is already providing a governing framework for legislators across the country seeking to translate campaign slogans into material improvements for working-cla",
+      "published_at": "2026-11-12T19:48:32+00:00",
+      "content_excerpt": "“Behold the land, the rich and resourceful land, from which for a hundred years its best elements have been running away, its youth and hope, black and white, scurrying North because they are of each other, and dare not face a future of equal, independent, upstanding human beings, in a real and not a sham democracy.” This line was spoken by W. E. B. Du Bois near the end of arguably his greatest speech, titled “Behold the Land.” It was delivered on October 20, 1946, at a convention hosted by the Southern Negro Youth Congress (SNYC), where Du Bois thundered from the dais at Antisdel Chapel at Benedict College in Columbia, South Carolina. He and the SNYC had, for a brief moment, made the Palmetto State the center of the struggle for global human rights in the post–World War II years. Founded ",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/e433a86b0f2379051561b71d.json"
+      "article_path": "articles/641e2749dcbb5be4a95b6ef3.json"
     },
     {
-      "id": "bcdc48f626648c0bb2429906",
-      "title": "Capitalism Is More Than a Legal Regime",
-      "url": "https://jacobin.com/2026/11/review-pistor-law-capitalism-exploitation",
-      "author": "E. Ahmet Tonak",
-      "source": "Jacobin",
-      "published_at": "2026-11-11T14:24:10+00:00",
-      "content_excerpt": "“Capitalism is a legal regime, not just an economic system as conventional wisdom has it.” With this opening sentence, Katharina Pistor takes the argument of her previous book , The Code of Capital , a step further. There she showed how lawyers turn assets into capital through property, contract, collateral, trust, corporate, and bankruptcy law. Her new book extends the argument to capitalism as a whole. If law so thoroughly constitutes capitalism, she asks, why is it “so resistant to legal governance”? And how might we transform it? Pistor has much to say about the legal powers of capital, and her account deserves serious attention. Yet I find two fundamental problems with her argument. Although she insists that capitalism is legal to the core, she has remarkably little to say about the w",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/bcdc48f626648c0bb2429906.json"
-    },
-    {
-      "id": "4636a5c71aa5774ccabf1b2a",
-      "title": "UAW Statement on Veterans Day",
-      "url": "https://uaw.org/uaw-statement-on-veterans-day",
-      "author": "Justin Mayhugh",
-      "source": "UAW",
-      "published_at": "2026-11-11T13:38:33+00:00",
-      "content_excerpt": "The UAW extends our deepest gratitude to every veteran who has served our nation. This Veterans Day, we honor your service, recognize your sacrifices, and thank you for answering a call that asked so much of you and your families. To veterans of every branch and generation, whether you served at home or overseas, in times of war or peace: your service matters. We recognize the time spent away from loved ones, the demands of military life, and the sacrifices that do not always receive public recognition. Our thanks extend to the families and loved ones who stood beside you throughout your service and beyond. To the veterans within our UAW family, our members, retirees, and their loved ones—thank you for being part of our union. The spirit of looking out for one another is at the heart of so",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/4636a5c71aa5774ccabf1b2a.json"
-    },
-    {
-      "id": "0fb241539c4cb73c2f01c8f8",
-      "title": "A Hyperpolitical Mayorality",
-      "url": "https://democraticleft.dsausa.org/2026/11/11/a-hyperpolitical-mayorality",
+      "id": "a37b21163985e7a348eeea76",
+      "title": "DSA Chapter Forms in San Joaquin Valley",
+      "url": "https://democraticleft.dsausa.org/2026/11/12/dsa-chapter-forms-in-san-joaquin-valley",
       "author": "tfrasca@yahoo.com",
       "source": "Democratic Left",
-      "published_at": "2026-11-11T13:32:59+00:00",
-      "content_excerpt": "In a period of hyperpolitics defined by intense civil strife that produces a thin layer of institution-building, Zohran Mamdani’s rise shows similar limits. The left must now meet immediate political demands of governance through organizations that have never held such power. The post A Hyperpolitical Mayorality appeared first on Democratic Left .",
+      "published_at": "2026-11-12T19:25:04+00:00",
+      "content_excerpt": "Socialists come together in a very “red” area to challenge a lobbyist-dominated local government. The post DSA Chapter Forms in San Joaquin Valley appeared first on Democratic Left .",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/0fb241539c4cb73c2f01c8f8.json"
+      "article_path": "articles/a37b21163985e7a348eeea76.json"
     },
     {
-      "id": "e509e8fe1beb02262d68388e",
-      "title": "Trump Is Still Attacking Vets’ Health Care",
-      "url": "https://jacobin.com/2026/11/midterms-collins-veterans-affairs-cuts",
-      "author": "Steve Early",
+      "id": "e1b5ab7168272930cb75b6a4",
+      "title": "Nonviolent Communication",
+      "url": "https://www.laprogressive.com/healthcare/nonviolent-communication",
+      "author": "George Cassidy Payne",
+      "source": "LA Progressive",
+      "published_at": "2026-11-12T18:52:51+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. One night on a suicide prevention chat line, a young man typed a sentence I had seen many times before. “Everyone would be better off without me.” He began listing his failures, one after another, as though presenting evidence in a courtroom. My instinct was to challenge his thinking, offer reassurance, or explain why his conclusion was wrong. I wanted him to understand that his life mattered and that the pain he was experiencing did not tell the whole story. Instead, I paused and wrote: “It sounds like you’ve been carrying an overwhelming sense of failure and loneliness.” There was a long silence. Then he responded: “Yeah. Exactly.” Related: Justice After War and the Reali",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/e1b5ab7168272930cb75b6a4.json"
+    },
+    {
+      "id": "65a913ebb3ce596d1e006b25",
+      "title": "We Started the School Year with a March on the Principal",
+      "url": "https://labornotes.org/blogs/2026/11/we-started-school-year-march-principal",
+      "author": "",
+      "source": "",
+      "published_at": "2026-11-12T18:26:56+00:00",
+      "content_excerpt": "At Ferndale High School, nestled in a Detroit suburb, one of our most pressing problems is the dilapidated building, built in the 1950s. The outdated heating and cooling systems are prone to classroom floods—in the last nine months I've experienced three. Once boiling hot water sprayed out of the HVAC unit during class, nearly injuring a student. It was late August—our last Sunday night of freedom before our teacher professional development week—when six of my co-workers and I received an email from our principal. She said that a few classrooms had flooded again the previous week, but the damage was limited and our classrooms were “ready for our return.” “Tomorrow is still the beginning of a fresh school year,” she wrote, “and I’m looking forward to welcoming everyone back and starting the",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/65a913ebb3ce596d1e006b25.json"
+    },
+    {
+      "id": "d28246aa16dd042e006c3cac",
+      "title": "How Cultural Marxism Became a Right-Wing Obsession",
+      "url": "https://jacobin.com/2026/11/cultural-marxism-conspiracy-frankfurt-school-new-left",
+      "author": "A. J. A. Woods",
       "source": "Jacobin",
-      "published_at": "2026-11-11T13:15:16+00:00",
-      "content_excerpt": "If any Donald Trump appointees lose their posts as part of a midterm cabinet reshuffling, Secretary of Veterans Affairs (VA) Doug Collins is not likely to be among them. Unlike controversial former colleagues already sacked as the heads of the homeland security, justice, and labor departments — or Defense Secretary Pete Hegseth, perhaps the next to go — Collins is good at keeping his head down. He does the president’s bidding without personal drama or political scandal. This low-profile Air Force Reserve chaplain is a clean-living Southern Baptist minister, small town lawyer, and former congressman from Georgia. When the Senate confirmed him last year, there was no need for a tiebreaking vote like the one J. D. Vance cast to push Hegseth across the finish line as secretary of defense; Coll",
+      "published_at": "2026-11-12T17:36:58+00:00",
+      "content_excerpt": "In December 2021, the term “cultural Marxism” was added to the Oxford English Dictionary . It was, according to the OED , a phrase with a sinister and controversial past. Its etymology could allegedly be traced to 1930s Nazi propaganda; its first recorded English-language use was in a 1938 issue of a British Union of Fascists magazine. Despite its dark history, this expression has recently surged in popularity. College campuses and city streets have been plastered with stickers that urge passersby to “smash” cultural Marxism. Prominent US Republicans, such as Texas Senator Ted Cruz and Defense Secretary Pete Hegseth, have written book-length polemics to blame America’s decline on cultural Marxist ideologies. Leaders in Latin America, like Brazil’s former President Jair Bolsonaro and Argent",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/e509e8fe1beb02262d68388e.json"
+      "article_path": "articles/d28246aa16dd042e006c3cac.json"
     },
     {
-      "id": "0c2a7ec2d43cd5c5552cf4db",
-      "title": "Democrats Won EVERYTHING and Promised NOTHING: 2026 Midterms Exposed",
-      "url": "https://blackagendareport.com/democrats-won-everything-and-promised-nothing-2026-midterms-exposed",
-      "author": "bareditors",
-      "source": "Black Agenda Report",
-      "published_at": "2026-11-11T04:51:53+00:00",
-      "content_excerpt": "Democrats Won EVERYTHING and Promised NOTHING: 2026 Midterms Exposed bareditors Wed, 11/11/2026 - 02:25 Margaret Kimberley, BAR Executive Editor and Senior Columnist Jamarl Thomas",
+      "id": "43c75275edbbed798d195c20",
+      "title": "Lessons from an 85-Day Hotel Strike",
+      "url": "https://labornotes.org/2026/11/lessons-85-day-hotel-strike",
+      "author": "Diana Varenik and Natascha Elena Uhlmann",
+      "source": "",
+      "published_at": "2026-11-12T17:26:27+00:00",
+      "content_excerpt": "You’d be forgiven for worrying, 12 weeks into a strike, that the boss is hell-bent on waiting you out. But after more than 80 days on the picket line at Seattle’s Embassy Suites by Hilton in Pioneer Square, Aspen Desmarais was undeterred. “I can live on a budget,” she said. “Been doing it since day one.” After 85 days, on September 10, workers won the longest hotel strike in Washington state history. Their union, UNITE HERE Local 8, represents 4,000 hospitality workers in Oregon and Washington. Desmarais, a strike captain and bartender at the hotel, worked to keep others motivated throughout the fight. She and her co-workers were “tired of people talking down to us and not treating us with respect,” she said, “when we’re the reason that place stays running the way that it does.” Hilton’s o",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/0c2a7ec2d43cd5c5552cf4db.json"
+      "article_path": "articles/43c75275edbbed798d195c20.json"
     },
     {
-      "id": "7d9a1cb1169a1252dd73e832",
-      "title": "Brian Karem on Racism, Trump, and Why American Journalism Must Be Rebuilt",
-      "url": "https://www.laprogressive.com/the-media-in-the-united-states/brian-karem-on-racism-trump-and-why-american-journalism-must-be-rebuilt",
-      "author": "Sharon Kyle",
+      "id": "413c7c207d47e48616be87e5",
+      "title": "ICE Enforcement Incidents",
+      "url": "https://www.laprogressive.com/immigration-reform/ice-enforcement-incidents",
+      "author": "Kate Morrissey",
       "source": "LA Progressive",
-      "published_at": "2026-11-11T03:24:46+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Brian Karem has spent much of his professional life asking questions that powerful people would rather not answer. He's questioned presidents, challenged government officials, gone to jail to protect a confidential source, and taken Donald Trump to court over his White House press credentials. But when I recently sat down with Karem for what was supposed to be an informal conversation, I was interested in something beyond his reputation as a combative journalist. I wanted to know what made him that way. More specifically, I wanted to understand whether his experiences had shaped his views about race, power, and the institutions that govern American life. At LA Progressive, ",
+      "published_at": "2026-11-12T17:09:54+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Immigration and Customs Enforcement officers put a man on the ground in Hillcrest, New York, in late October, put their knees into his back and shot him with a Taser, according to the Human Impact Project . The incident is one of more than 300 reports tracked by the project in which immigration officials injured someone to the point that they needed medical treatment. Run by nonprofit Human Security Initiative, Human Impact Project scrapes court records, media reports, self-reported social media posts and GoFundMe accounts for information about the impacts of the Trump administration’s immigration policies. Though the project uses AI for the initial data gathering, human ri",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/7d9a1cb1169a1252dd73e832.json"
+      "article_path": "articles/413c7c207d47e48616be87e5.json"
     },
     {
-      "id": "2338745bccf4b383c8b31265",
-      "title": "Misogynoir of Grift",
-      "url": "https://www.laprogressive.com/racism/misogynoir-of-grift",
-      "author": "Sikivu Hutchinson",
-      "source": "LA Progressive",
-      "published_at": "2026-11-11T01:51:40+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Last week’s Blue Tsunami was a resounding denunciation of the Trump regime’s kleptocratic thievery, thuggery and terrorism, ushering in a groundbreaking cohort of first-time Black, Indigenous, queer, Muslim and female legislators. Post midterms, Democrats have vowed to investigate the Trump family crime syndicate and its brazen trail of corrupt quid pro quo politics, crony capitalism, wage and wealth theft. While large swaths of white middle America unexpectedly turned on Trump and MAGA, communities of color were the driving force for a historic shift in red state alignment. Dems have been given a big fat mandate to redress the economic disenfranchisement of working and mid",
+      "id": "79a0214f8fbb36613cefe176",
+      "title": "Abdul El-Sayed’s Sports Fluency Is a Political Asset",
+      "url": "https://jacobin.com/2026/11/el-sayed-sports-politics-progressives",
+      "author": "Sean Jacobs",
+      "source": "Jacobin",
+      "published_at": "2026-11-12T16:58:59+00:00",
+      "content_excerpt": "One of Abdul El-Sayed’s greatest skills is his ability to deploy the language of sports to make his case. His fluency in sports allows him to find common ground with interlocutors and audiences, complicating the stereotype that progressives are anti-sports. What makes him convincing and harder for his opponents to dismiss is that he played competitive team sports: El-Sayed was a hockey goalie in middle school. At Bloomfield Hills High School in the suburbs of Detroit, he played football and lacrosse and wrestled, becoming football team captain. These are sports conservatives embrace or consider quintessentially American. At the University of Michigan in Ann Arbor, he continued playing sports at the club level, which is more competitive than intramural sports but separate from varsity athle",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/2338745bccf4b383c8b31265.json"
+      "article_path": "articles/79a0214f8fbb36613cefe176.json"
     },
     {
-      "id": "a1b8d85b1dc3f45b2dd983d5",
-      "title": "Open edX Developer",
-      "url": "https://www.laprogressive.com/sponsored/open-edx-developer",
-      "author": "Sejal Desai",
+      "id": "f8394562513660117c78e8d4",
+      "title": "Welcome to Trumpworld",
+      "url": "https://www.laprogressive.com/progressive-issues/welcome-to-trumpworld",
+      "author": "Tom Engelhardt",
       "source": "LA Progressive",
-      "published_at": "2026-11-10T23:11:35+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Introduction The decision to employ an in-house Open edX developer or partner with a specialist agency dictates the entire operating model for a learning platform. The optimal choice depends directly on the specific shape of the development roadmap, and this strategic alignment takes precedence over the headline developer rate. US engineering leaders evaluate the total volume of platform work required throughout the year and assess whether that workload demands a single specialized skill set or multiple technical disciplines. The speed at which engineering capacity must be deployed is weighed alongside long-term platform ownership. Decisions regarding who will maintain syst",
+      "published_at": "2026-11-12T16:51:37+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. In some ways, with at least two-plus more years of Trumpworld in order (or do I mean disorder?), it may not matter as much as so many of us might hope that the Democrats won the House and Senate recently! Honestly, can you even believe this world of... well, I was going to say “ours,” but I doubt that’s appropriate anymore? These days—some days at least—nothing could convince this 82-year-old that he’s not living in a fantasy world from hell on a planet created from the worst nightmare of some mad god. I mean, Donald J. Trump as president of the United States? All these years later, I still don’t really believe it. (Well, believe it, Tom!) Certain days, I pick up the New Yo",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/a1b8d85b1dc3f45b2dd983d5.json"
+      "article_path": "articles/f8394562513660117c78e8d4.json"
     },
     {
-      "id": "87b7797823cd6f5e322accaf",
-      "title": "AI Video Generator",
-      "url": "https://www.laprogressive.com/sponsored/ai-video-generator",
-      "author": "Britta Hedlund",
-      "source": "LA Progressive",
-      "published_at": "2026-11-10T23:00:57+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Making videos has evolved into an important and integral component of online communications, marketing, education and entertainment. But some people have trouble when they are making their first video, as it requires people to be well experienced with editing, creative organization, and appropriate gear. Today, all this can be facilitated with the help of modern AI tools. Creating videos from written content, pictures and imagination with an AI video generator is simpler. A professional editor wouldn't be necessary to get started. Using a suitable platform and some simple steps, you could make interesting videos for any personal or business project. What Is an AI Video Gene",
+      "id": "46efa633a92b79831c3445a9",
+      "title": "Self-Determination Is the Core Palestinian Demand",
+      "url": "https://jacobin.com/2026/11/israeli-elections-palestinians-netanyahu-opposition",
+      "author": "Bashir Abu-Manneh",
+      "source": "Jacobin",
+      "published_at": "2026-11-12T16:18:09+00:00",
+      "content_excerpt": "The parliamentary elections held in Israel on October 27 failed to produce a bloc with the sixty-one seats required to govern on its own. Although it remains in the lead, Benjamin Netanyahu’s camp has fallen from sixty-eight to fifty-three seats, while the opposition, led by Gadi Eisenkot, has made gains but secured only forty-eight seats. The two Palestinian lists achieved a historic breakthrough, winning nineteen seats, thanks to an unprecedented mobilization of Palestinian citizens of Israel. Coalition negotiations remain deadlocked, however, as the opposition is reluctant to accept any form of cooperation with the Palestinian parties. How should these results be understood at a time when the genocide in Gaza and ethnic cleansing in the West Bank are ongoing. and as Benjamin Netanyahu a",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/87b7797823cd6f5e322accaf.json"
+      "article_path": "articles/46efa633a92b79831c3445a9.json"
     },
     {
-      "id": "21912e7a0a5271faff56586d",
-      "title": "Women’s Lifestyle Magazine",
-      "url": "https://www.laprogressive.com/sponsored/womens-lifestyle-magazine",
-      "author": "Tiqua Jackson",
-      "source": "LA Progressive",
-      "published_at": "2026-11-10T22:41:24+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Everyday life comes with different responsibilities, changing priorities, and opportunities for growth. Between work, relationships, personal goals, and self-care, finding time to focus on individual interests can sometimes be challenging. For many women, lifestyle content offers a way to discover fresh ideas, learn practical skills, and find inspiration for creating a more balanced and fulfilling life. A women’s lifestyle magazine can cover a wide range of subjects, including wellness, fashion, beauty, relationships, career development, travel, and personal growth. Rather than focusing on one aspect of life, it provides a broader perspective on the experiences, interests, ",
+      "id": "1d2f4cbec26928577c8ec6fc",
+      "title": "The Real AI Misalignment Problem Is Capitalism",
+      "url": "https://jacobin.com/2026/11/ai-anthropic-openai-alignment-capitalism-exploitation",
+      "author": "Nick Couldry",
+      "source": "Jacobin",
+      "published_at": "2026-11-12T15:09:04+00:00",
+      "content_excerpt": "This September, some rather technical issues regarding artificial intelligence, or rather their upshot, made headlines. The reason lay in two resignations from companies leading the development of frontier AI models, namely David Robinson , OpenAI’s Safety Officer, and Jacob Coxon , a developer at Anthropic. Each resigned because they no longer believed the companies were taking seriously the risks that frontier models’ recent “advances” pose to the survival of humanity . So, not just what most of us would call a “technical issue.” Those fears were not hype. They were based on careful argument: a September 6 blog by Jakub Pachocki, OpenAI’s chief scientist, serves as an example. It’s worth looking more closely. One fear the blog expressed was that frontier models are on the brink of “recur",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/21912e7a0a5271faff56586d.json"
+      "article_path": "articles/1d2f4cbec26928577c8ec6fc.json"
+    },
+    {
+      "id": "0ae466eb7ab8336afa7da5b4",
+      "title": "La Bola Negra: A Revolutionary Queer Masterpiece",
+      "url": "https://newpol.org/la-bola-negra-a-revolutionary-queer-masterpiece",
+      "author": "Javier Sethness",
+      "source": "New Politics",
+      "published_at": "2026-11-12T15:08:47+00:00",
+      "content_excerpt": "La bola negra (“The Black Ball”), the new hit film by Spanish auteurs Javier Ambrossi and Javier Calvo, is a true masterpiece that centers queer love, anti-fascism, and historical memory. The post La Bola Negra: A Revolutionary Queer Masterpiece appeared first on New Politics .",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/0ae466eb7ab8336afa7da5b4.json"
+    },
+    {
+      "id": "0ecd4caf0ea3969d70352695",
+      "title": "Starbucks Gets a Tax Break",
+      "url": "https://www.laprogressive.com/economic-equality/starbucks-gets-a-tax-break",
+      "author": "Marcus Baram",
+      "source": "LA Progressive",
+      "published_at": "2026-11-12T14:35:18+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. From the steps of the Pennsylvania Capitol, looking out toward the Susquehanna River, North Street runs off to the right — quieter than the avenues that feed the statehouse, more suburb than seat of power. That is where Andrea Grove built Elementary Coffee, the shop she opened at Harrisburg’s Broad Street Market in 2014, when she was 26. Grove pays her taxes. What she doesn’t have is what the coffee giants have. “We don’t have accountants that will tell us about loopholes and these ways to get around these things,” she said. “The expectations for small businesses, particularly in coffee, is to live up to what these big corporations are producing but with way less resources ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/0ecd4caf0ea3969d70352695.json"
+    },
+    {
+      "id": "c67435704a45523285cde220",
+      "title": "Kurds Have Become Britain’s Latest Demonized Migrants",
+      "url": "https://jacobin.com/2026/11/kurds-uk-migration-far-right",
+      "author": "Matt Broomfield",
+      "source": "Jacobin",
+      "published_at": "2026-11-12T13:48:24+00:00",
+      "content_excerpt": "A decade ago, the Kurds briefly figured in Western public consciousness as the feted heroes of the war against the Islamic State in Iraq and Syria (ISIS). In Britain as worldwide, audiences were fascinated by fetishized, orientalized images of “badass” Kurdish female fighters battling the Islamist terror group on the ground, backed by the UK and US militaries. Today the most populous stateless people in the Middle East are making headlines in the UK once again, but this time depicted as people smugglers, organized criminals, and unwanted illegal immigrants. Broadly speaking, both migrants themselves and the smuggling networks who profit from their need to travel are hysterically depicted as united in highly organized, criminal, Islamic gangs that need to be “smashed” by the UK government. ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/c67435704a45523285cde220.json"
+    },
+    {
+      "id": "46330ab48b6a534ebb8f6659",
+      "title": "Jim Crow Said This Could Never Happen",
+      "url": "https://www.laprogressive.com/racism/jim-crow-said-this-could-never-happen",
+      "author": "Berry Craig",
+      "source": "LA Progressive",
+      "published_at": "2026-11-12T06:51:47+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Goldie Taylor, 80, and I grew up in small-town Mayfield, Kentucky, when Jim Crow segregation and race discrimination were both the law and the social order. I’m 76. Symbolic of the separate and unequal order, mayors were white men. “I never believed it would change,” said Taylor, who is my longtime friend and president of our Mayfield-Graves County NAACP branch. “I never dreamed we could ever have a Black mayor in the city of Mayfield.” Neither did I. But on November 3, voters in Mayfield, the seat of Graves County in westernmost Kentucky, elected Derrick Parrott, 41, to be the next mayor. My old hometown is nearly nearly 69 percent white. The outgoing mayor and her predece",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/46330ab48b6a534ebb8f6659.json"
     }
   ]
 }
