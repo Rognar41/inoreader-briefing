@@ -1,12 +1,252 @@
 {
-  "generated_at": "2026-11-13T00:38:15.416523+00:00",
-  "generated_at_jst": "2026-11-13T09:38:15.416523+09:00",
-  "period_start": "2026-11-11T18:38:15.416523+00:00",
+  "generated_at": "2026-11-14T00:25:26.331005+00:00",
+  "generated_at_jst": "2026-11-14T09:25:26.331005+09:00",
+  "period_start": "2026-11-12T18:25:26.331005+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
-  "article_count": 15,
+  "article_count": 20,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "cf15225f7f3ece43ca3af8f7",
+      "title": "ICE is hiding detainees from their families – and the death toll is rising",
+      "url": "https://breakthroughnews.org/2026/11/13/ice-is-hiding-detainees-from-their-families-and-the-death-toll-is-rising",
+      "author": "Zoe Alexandra",
+      "source": "BT News",
+      "published_at": "2026-11-13T20:39:48+00:00",
+      "content_excerpt": "ICE just scrubbed tens of thousands of people from its Online Detainee Locator System, leaving their families and legal teams in the dark. Aaron Reichlin-Melnick, senior fellow at the American Immigration Council, joins Zoe Alexandra and Rania Khalek to break down how DHS effectively “disappeared” at least 20,000 people with final deportation orders, as deaths in custody climb and private prison giants GEO Group and CoreCivic rake in profits from ICE’s ballooning budget. Reichlin-Melnick explains how Trump’s mass deportation machine changed tactics after Operation Metro Surge in Minneapolis and the killings of Renee Good and Alex Pretti – shifting to predawn raids, targeting people at airports and their own immigration check-ins, and quietly pushing arrests to 50,000 a month. Meanwhile, at",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/cf15225f7f3ece43ca3af8f7.json"
+    },
+    {
+      "id": "793fd1860f4ded637ddcb372",
+      "title": "Call of Duty: Modern Warfare 4 | Propaganda for US war in Korea?",
+      "url": "https://breakthroughnews.org/2026/11/13/call-of-duty-modern-warfare-4-propaganda-for-us-war-in-korea",
+      "author": "Amanda Yee",
+      "source": "BT News",
+      "published_at": "2026-11-13T19:35:17+00:00",
+      "content_excerpt": "The new Call of Duty: Modern Warfare 4 just dropped, and it’s already mired in controversy. The game simulates urban warfare in Seoul, casting players as a South Korean marine fighting off an invasion from the DPRK. Is this video game harmless entertainment, or is it sophisticated imperialist propaganda designed to “manufacture consent” for war against North Korea and normalize US militarism? Ju-Hyun Park, organizer with Nodutdol for Korean Community Development and director of engagement at Breakthrough News, joins Amanda Yee to break down the dangerous political messaging behind Modern Warfare 4.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/793fd1860f4ded637ddcb372.json"
+    },
+    {
+      "id": "4aea3bcf5b11d54a1c7fe61c",
+      "title": "Congolese president signs referendum bill that could allow for a third-term",
+      "url": "https://breakthroughnews.org/2026/11/13/congolese-president-signs-referendum-bill-that-could-allow-for-a-third-term",
+      "author": "Nicholas Mwangi",
+      "source": "BT News",
+      "published_at": "2026-11-13T18:32:45+00:00",
+      "content_excerpt": "Democratic Republic of Congo (DRC) President Félix Tshisekedi has promulgated a controversial law establishing the conditions for holding referendums. Opposition parties, civil society groups and grassroots movements have previously said it could allow him to seek a third term. The signing follows more than five months of protests, court challenges, and street mobilization against the law. The promulgation was announced on national television late on Tuesday, November 10. “The President of the Republic, Félix-Antoine Tshisekedi Tshilombo, promulgated, on November 10, 2026, through an ordinance, the law setting the conditions for the organization of the referendum in the Democratic Republic of Congo,” state broadcaster RTNC reported. Roger Kalenga, Deputy Spokesperson for the Head of State,",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/4aea3bcf5b11d54a1c7fe61c.json"
+    },
+    {
+      "id": "1057b15ed87e94eea1fc5994",
+      "title": "Keytruda was built on public science. Why does Merck own the rewards?",
+      "url": "https://breakthroughnews.org/2026/11/13/keytruda-was-built-on-public-science-why-does-merck-own-the-rewards",
+      "author": "David Franco",
+      "source": "BT News",
+      "published_at": "2026-11-13T17:36:37+00:00",
+      "content_excerpt": "Keytruda is often presented as the ultimate success story of modern pharmaceutical innovation. And in one sense, that is true. Few medicines have transformed oncology as profoundly as pembrolizumab. It has extended survival in melanoma, lung cancer, and many other malignancies, and it has helped turn immune checkpoint inhibition from a scientific hypothesis into a clinical reality. For many patients, it has meant years of life that previously had few options at all. But that is only one part of the story. The other part is far less comfortable. Keytruda is not just a breakthrough drug. It is also a striking example of how the contemporary pharmaceutical system works: publicly funded science lays the foundation, private firms take control of the resulting assets, monopoly rights determine p",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/1057b15ed87e94eea1fc5994.json"
+    },
+    {
+      "id": "814be1c722c6d6e5bbe82886",
+      "title": "“Paraguay Is in Dire Need of Change”: Senator on Bank Collapse & Political Crisis",
+      "url": "https://www.democracynow.org/2026/11/12/paraguay_ueno_bank_sen_esperanza",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-11-13T16:49:50+00:00",
+      "content_excerpt": "The collapse of Ueno Bank in Paraguay has plunged the country into crisis and led to the ouster of right-wing President Santiago Peña, a staunch ally of the Trump administration. At least 3 million people — nearly half of Paraguay’s population — lost access to their accounts on November 3 after regulators seized the insolvent bank amid allegations of widespread fraud. Peña, who had close ties to Ueno and appointed a former executive to lead Paraguay’s central bank, attempted to resign the presidency following the bank’s collapse. Lawmakers, however, rejected his resignation and impeached him instead, thereby stripping him of immunity from prosecution. He has since been placed under house arrest. For more on the bank collapse and its aftermath, Democracy Now! spoke with left-wing Senator Es",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/814be1c722c6d6e5bbe82886.json"
+    },
+    {
+      "id": "02bdb94b153f3785ea0acbd1",
+      "title": "“Parasitic Technology”: Could Jensen Huang/Nvidia Scandal Prompt Rethink About AI?",
+      "url": "https://www.democracynow.org/2026/11/13/nvidia_jensen_huang",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-11-13T15:54:40+00:00",
+      "content_excerpt": "Nvidia CEO Jensen Huang resigned Thursday after reports of multiple extramarital affairs, including with an employee and a Chinese businesswoman whom U.S. intelligence officials accuse of spying for Beijing. The company says Chief Financial Officer Colette Kress will serve as interim CEO as the board searches for a permanent replacement. Nvidia’s computer chips are at the heart of the artificial intelligence boom, driving the company’s value above $4 trillion and making Huang one of the most influential business leaders in the world. His spectacular fall from the company he co-founded in 1993 comes as the U.S. stock market has become highly dependent on a handful of AI-related companies and amid intense competition between the United States and China over control of the technology, with ac",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/02bdb94b153f3785ea0acbd1.json"
+    },
+    {
+      "id": "fecbdc63ff4588db78725b76",
+      "title": "“It’s Just Barbarism”: Dr. Feroze Sidhwa Mourns Friend Killed in Israeli Hospital Strike in Gaza",
+      "url": "https://www.democracynow.org/2026/11/13/nasser_hospital_attack",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-11-13T15:54:40+00:00",
+      "content_excerpt": "Israel’s latest bombing of Nasser Hospital in Gaza on Thursday killed six Palestinians, including surgeon Dr. Rizk Abu Shaira. He was featured in the recent documentary American Doctor , which follows international medical volunteers in Gaza’s battered hospitals as they work alongside Palestinian colleagues. Israel claimed, without providing evidence, that it targeted a senior Hamas militant in the hospital strike. Israel has repeatedly bombed medical facilities in Gaza since the start of the genocide in October 2023, even though such attacks are prohibited under international law. “It’s just barbarism. I don’t know why we’re supporting this,” says Dr. Feroze Sidhwa, one of the titular American doctors in the documentary, who demands accountability for Israel’s actions and a change in U.S.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/fecbdc63ff4588db78725b76.json"
+    },
+    {
+      "id": "365b50005f0007c68eb872bb",
+      "title": "The Rule of Law Project: New Effort Launched to Probe Corruption & State Violence in U.S.",
+      "url": "https://www.democracynow.org/2026/11/13/democrats_investigating_trump",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-11-13T15:54:40+00:00",
+      "content_excerpt": "As Democrats prepare to take control of Congress in January, party leaders say they intend to hold Trump officials accountable with stepped-up hearings and investigations. The administration, however, has responded with threats to launch its own investigations into lawmakers for carrying out their oversight responsibilities. “The oversight function of Congress is well established by the founders. It’s a normal part of government. The separation of powers requires oversight,” says Brad Adams, co-founder of The Rule of Law Project, which seeks to provide outside accountability due to what he describes as the administration’s refusal to investigate “obvious cases of corruption.”",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/365b50005f0007c68eb872bb.json"
+    },
+    {
+      "id": "c99520a790f929e1aef4d41d",
+      "title": "Aid organizations in Gaza are pulling back, leaving hundreds of thousands of Palestinians without food",
+      "url": "https://mondoweiss.net/2026/11/aid-organizations-in-gaza-are-pulling-back-leaving-hundreds-of-thousands-of-palestinians-without-food",
+      "author": "Tareq S. Hajjaj",
+      "source": "Mondoweiss",
+      "published_at": "2026-11-13T15:15:53+00:00",
+      "content_excerpt": "Israeli restrictions and funding shortages are threatening one of Gaza's last lifelines as Palestinians face a new phase of severe food insecurity.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/c99520a790f929e1aef4d41d.json"
+    },
+    {
+      "id": "8203b02b92b842c0c0e6c198",
+      "title": "Israeli strike on Nasser Hospital in Gaza kills six, disables key medical departments",
+      "url": "https://mondoweiss.net/2026/11/israeli-strike-on-nasser-hospital-in-gaza-kills-six-disables-key-medical-departments",
+      "author": "Tareq S. Hajjaj",
+      "source": "Mondoweiss",
+      "published_at": "2026-11-13T14:56:01+00:00",
+      "content_excerpt": "Israel continues to target Gaza's precarious healthcare system, destroying a surgical unit in southern Gaza.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/8203b02b92b842c0c0e6c198.json"
+    },
+    {
+      "id": "f19f91e91b74ee8396bf750d",
+      "title": "Nvidia spy scare: Ruling class turns on itself as chip blockade of China fails",
+      "url": "https://mronline.org/2026/11/13/nvidia-spy-scare-ruling-class-turns-on-itself-as-chip-blockade-of-china-fails",
+      "author": "Gary Wilson",
+      "source": "MR Online",
+      "published_at": "2026-11-13T13:43:47+00:00",
+      "content_excerpt": "The Nvidia spy scandal is a fight inside the United States ruling class over how to wage its economic war on China. The post Nvidia spy scare: Ruling class turns on itself as chip blockade of China fails appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/f19f91e91b74ee8396bf750d.json"
+    },
+    {
+      "id": "8c942d04765c5597420ebe9a",
+      "title": "A surgeon kKilled, wards damaged: Inside Israel’s strike on Nasser Hospital",
+      "url": "https://mronline.org/2026/11/13/a-surgeon-kkilled-wards-damaged-inside-israels-strike-on-nasser-hospital",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-11-13T12:46:15+00:00",
+      "content_excerpt": "An Israeli strike killed six at Gaza’s Nasser Medical Complex, including a surgeon, and damaged surgery and intensive care wards. The post A surgeon kKilled, wards damaged: Inside Israel’s strike on Nasser Hospital appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/8c942d04765c5597420ebe9a.json"
+    },
+    {
+      "id": "4da66b9d6ca1e042aa71ad58",
+      "title": "Cuba and the U.S.: Don’t let human connections become a casualty of the blockade",
+      "url": "https://mronline.org/2026/11/13/cuba-and-the-u-s-dont-let-human-connections-become-a-casualty-of-the-blockade",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-11-13T11:49:12+00:00",
+      "content_excerpt": "How could we have imagined that something as natural as meeting, talking and spending time together could once again become so difficult? The post Cuba and the U.S.: Don’t let human connections become a casualty of the blockade appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/4da66b9d6ca1e042aa71ad58.json"
+    },
+    {
+      "id": "1942f96e12b965f11b119114",
+      "title": "The global left’s mood of resignation must be lifted: The Forty-Sixth Newsletter (2026)",
+      "url": "https://mronline.org/2026/11/13/the-global-lefts-mood-of-resignation-must-be-lifted-the-forty-sixth-newsletter-2026",
+      "author": "Vijay Prashad",
+      "source": "MR Online",
+      "published_at": "2026-11-13T10:50:46+00:00",
+      "content_excerpt": "The far right can be defeated, and the openings multiplying from Brazil to India and the United States demand that movements exchange defeatism for confidence that can become a material force through organisation. The post The global left’s mood of resignation must be lifted: The Forty-Sixth Newsletter (2026) appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/1942f96e12b965f11b119114.json"
+    },
+    {
+      "id": "5fa3fcc955ca76956aa5364b",
+      "title": "DPRK throws cold water on Trump’s summit hopes",
+      "url": "https://breakthroughnews.org/2026/11/13/dprk-throws-cold-water-on-trumps-summit-hopes",
+      "author": "Ju-Hyun Park",
+      "source": "BT News",
+      "published_at": "2026-11-13T03:31:09+00:00",
+      "content_excerpt": "For nearly two years, Trump has touted a possible summit with the Democratic People’s Republic of Korea (DPRK) as an imminent possibility. While Trump became the first US leader to meet with his DPRK counterpart in 2018, his attempts since 2020 to rekindle the relationship have faltered. Last week, Washington’s hopes for a summit hit another road block of its own making. On October 31, the FBI issued a statement accusing the DPRK of conducting a massive $6.34 billion cryptocurrency theft from Binance wallets, the built-in digital accounts for users to manage exchanges. After denying the accusation, Pyongyang issued a stern response that hinted a new stance towards Washington could be forming as a matter of policy. In a statement given on November 4, Kim Yo Jong, Workers’ Party of Korea dir",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/5fa3fcc955ca76956aa5364b.json"
+    },
+    {
+      "id": "5465de0d40853edc007d8f7f",
+      "title": "What the OpenAI Incident Reveals About the U.S. ‘Frontier’ Model and China’s Open-Weight Alternative",
+      "url": "https://mronline.org/2026/11/12/what-the-openai-incident-reveals-about-the-u-s-frontier-model-and-chinas-open-weight-alternative",
+      "author": "Activist News Network",
+      "source": "MR Online",
+      "published_at": "2026-11-13T02:40:50+00:00",
+      "content_excerpt": "Struggling against AI’s very real dangers requires materially understanding the technology, the forces directing its development, and the contradictions emerging within it. The post What the OpenAI Incident Reveals About the U.S. ‘Frontier’ Model and China’s Open-Weight Alternative appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/5465de0d40853edc007d8f7f.json"
+    },
     {
       "id": "bcd9e33a968cd9696de0e89a",
       "title": "Trump renews designation of Nicaragua as an ‘extraordinary threat’",
@@ -66,171 +306,6 @@
       "priority": 2,
       "date_missing": false,
       "article_path": "articles/a8ef16707322704bd2066804.json"
-    },
-    {
-      "id": "f5e2eaad9092b68086d16366",
-      "title": "Air quality in Delhi at record low due to Diwali festivities, residents demand measures to protect health",
-      "url": "https://breakthroughnews.org/2026/11/12/air-quality-in-delhi-at-record-low-due-to-diwali-festivities-residents-demand-measures-to-protect-health",
-      "author": "Abdul Rahman",
-      "source": "BT News",
-      "published_at": "2026-11-12T20:34:56+00:00",
-      "content_excerpt": "India’s capital, Delhi, witnessed a massive deterioration in its air quality over the weekend, making its air unsuitable for human living and a potential public health hazard after the large-scale lighting of firecrackers during Diwali festivities. Delhi was clouded in thick smoke on Sunday and Monday, with various places recording zero visibility with no prospects of improvement in the situation in the coming days. According to India’s Central Pollution Control Board (CPCB), during the festivities over the weekend and on Monday, various places in Delhi recorded an Air Quality Index (AQI) of over 400. According to the CPCB, an AQI up to 50 is considered good for humans and anything beyond 300 is considered hazardous and toxic for human living. Delhi and the National Capital Region (NCR) ha",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/f5e2eaad9092b68086d16366.json"
-    },
-    {
-      "id": "df809091206530dd631a8eb1",
-      "title": "The Shift: Palestinian American writer Ahmed Moor will run for Fetterman’s Senate seat",
-      "url": "https://mondoweiss.net/2026/11/the-shift-palestinian-american-writer-ahmed-moor-will-run-for-fettermans-senate-seat",
-      "author": "Michael Arria",
-      "source": "Mondoweiss",
-      "published_at": "2026-11-12T19:07:15+00:00",
-      "content_excerpt": "Pro-Israel Senator John Fetterman's first political challenger is a Gaza-born Democratic socialist.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/df809091206530dd631a8eb1.json"
-    },
-    {
-      "id": "33424d015d098ef81ff8a631",
-      "title": "Scott Colom Wins Stunning Victory, Becomes Mississippi’s First Black Senator Since Reconstruction",
-      "url": "https://www.democracynow.org/2026/11/12/scott_colom_victory_speech",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-11-12T16:06:41+00:00",
-      "content_excerpt": "This is a rush transcript. Copy may not be in its final form. NERMEEN SHAIKH : We begin today’s show in Mississippi, where Democrat Scott Colom has defeated Republican Senator Cindy Hyde-Smith in a stunning upset. Colom is set to become the state’s first Democratic senator in 44 years and Mississippi’s first Black senator since post-Civil War Reconstruction. Colom’s election after three years — comes three years after Cindy Hyde-Smith blocked Colom’s nomination to a federal judgeship. In 2024, President Trump won Mississippi by nearly 23 points. AMY GOODMAN : On Wednesday, Scott Colom gave his victory speech at the historically Black Tougaloo College. He spoke just miles from where civil rights activist Medgar Evers was murdered in 1963 by a member of the Ku Klux Klan. SEN .- ELECT SCOTT C",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/33424d015d098ef81ff8a631.json"
-    },
-    {
-      "id": "1bc294c7d5658254d93be53f",
-      "title": "Relatives of Slain Freedom Summer Activists Celebrate Scott Colom’s Historic Senate Win in Mississippi",
-      "url": "https://www.democracynow.org/2026/11/12/mississippi_scott_colom_senate_win",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-11-12T16:06:41+00:00",
-      "content_excerpt": "This is a rush transcript. Copy may not be in its final form. AMY GOODMAN : We go now to Meridian, Mississippi, where we’re joined by Angela Lewis, the daughter of civil rights activist James Chaney. She was born just 10 days before he was killed by the Ku Klux Klan along with Mickey Schwerner and Andrew Goodman. The date, June 21st, 1964. They were killed by local white supremacists in Mississippi and buried in an earthen dam, not found until 44 days later. The three had traveled to Mississippi as part of the Freedom Summer campaign to register Black voters. Angela Lewis, thanks so much for being with us. I’m wondering your thoughts today. And as you watched Scott Colom last night accept the vote as the next Democratic senator from Mississippi, the first time a Black senator will represen",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/1bc294c7d5658254d93be53f.json"
-    },
-    {
-      "id": "2f154f6c1eb4337c857334a0",
-      "title": "“Don’t F#*k It Up, Democrats”: David Sirota on Direction of Party & Fight Over Jeffries & Schumer",
-      "url": "https://www.democracynow.org/2026/11/12/david_sirota_dont_f_up_democrats",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-11-12T16:06:41+00:00",
-      "content_excerpt": "With Democrats set to take control of both chambers of Congress in January, Vermont Senator Bernie Sanders says he will not support Chuck Schumer for another term as the Democratic Senate leader, calling for the party to move in “a new and bold direction.” Michigan Democratic Senator Elissa Slotkin has said she will not support Schumer unless he presents a plan to govern differently, and several senators-elect have called for new leadership or declined to endorse Schumer. Maryland Senator Chris Van Hollen is considering challenging Schumer. Meanwhile, Hakeem Jeffries is facing questions about his leadership of House Democrats after 11 of the party’s members missed a key vote on impeaching Defense Secretary Pete Hegseth. After “a big win for the populist wing of the Democratic Party, … it w",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/2f154f6c1eb4337c857334a0.json"
-    },
-    {
-      "id": "52b099cc0544fb22fe9106a5",
-      "title": "From Ranked-Choice Voting to Dumping Electoral College: Rob Richie on Election Reform Movement",
-      "url": "https://www.democracynow.org/2026/11/12/alaska_peltola_ranked_choice_voting",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-11-12T16:06:41+00:00",
-      "content_excerpt": "Alaska is the only Senate race yet to be called. Democratic challenger Mary Peltola is narrowly leading Republican incumbent Dan Sullivan with about 86% of votes counted. Alaska uses ranked-choice voting, a system where voters choose not only their top candidate, but can also indicate an order of preference for remaining candidates on the ballot. If no candidate wins a majority as the top choice, then second-choice votes are added to the totals and so on until there is a winner. Rob Richie, president and founder of Expand Democracy and a senior adviser with FairVote, explains how ranked-choice voting has shaped the Alaska race and how it is “a system that promotes [candidates] reaching out, engaging, and, for voters, a lot of freedom.” Richie adds that Peltola is “heavily favored to win at",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/52b099cc0544fb22fe9106a5.json"
-    },
-    {
-      "id": "0b53a1cce316df62af70fbdb",
-      "title": "Marx and Luxemburg in an age of crisis and war",
-      "url": "https://tempestmag.org/2026/11/marx-and-luxemburg-in-an-age-of-crisis-and-war",
-      "author": "Helen Scott",
-      "source": "Tempest",
-      "published_at": "2026-11-12T06:16:18+00:00",
-      "content_excerpt": "Opinions expressed in signed articles do not necessarily represent the views of the editors or the Tempest Collective. For more information, see “ About Tempest Collective .” Featured Image credit: Gaston Vuillier , Jowinix ; modified by Tempest. The post Marx and Luxemburg in an age of crisis and war appeared first on Tempest .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/0b53a1cce316df62af70fbdb.json"
-    },
-    {
-      "id": "c2bcad99e1b7a0dcfd46888d",
-      "title": "BT LIVE: Hegseth Survives | Fetterman Challenger | ICE’s Disappeared | The China Report",
-      "url": "https://breakthroughnews.org/2026/11/11/nov-12-26",
-      "author": "BreakThrough News",
-      "source": "BT News",
-      "published_at": "2026-11-11T21:39:20+00:00",
-      "content_excerpt": "This content is for members only. Visit the site and log in/register to read.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/c2bcad99e1b7a0dcfd46888d.json"
-    },
-    {
-      "id": "660cfdb34f8bade7306458d7",
-      "title": "Farmers in India call for another national mobilization",
-      "url": "https://breakthroughnews.org/2026/11/11/farmers-in-india-call-for-another-national-mobilization",
-      "author": "Abdul Rahman",
-      "source": "BT News",
-      "published_at": "2026-11-11T20:40:07+00:00",
-      "content_excerpt": "Farmers unions in India, under the banner of the Samyukta Kisan Morcha (SKM), have called for a nationwide mobilization to protest the attempt to open the country’s agricultural market for foreign competition without addressing the problems they’ve been facing for years. The protests will mark the sixth anniversary of the 2020-21 protests, in which thousands of farmers had camped on the borders of the capital, New Delhi, for months, forcing the government to withdraw farm laws and promise to address other agricultural issues. Read more: Indian farmers celebrate victory march back home as their historic struggle ends after a year The SKM was born as a united front of farmers unions, representing millions, during the struggle against the three farm laws. In a press release issued on Monday, ",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/660cfdb34f8bade7306458d7.json"
-    },
-    {
-      "id": "606068a4a2e1eeebca485182",
-      "title": "France’s protest movement is fighting more than Macron",
-      "url": "https://breakthroughnews.org/2026/11/11/frances-protest-movement-is-fighting-more-than-macron",
-      "author": "Rania Khalek",
-      "source": "BT News",
-      "published_at": "2026-11-11T20:40:07+00:00",
-      "content_excerpt": "Macron offered “crumbs.” France answered with a general strike against austerity that brought the country to a standstill and more than 1.6 million people to the streets. Iman D., a student organizer with the Party for Socialism and Liberation, was on the ground at the Paris protests. She tells Zoe Alexandra and Rania Khalek the multinational, multigenerational movement behind the shutdown names capitalism as the problem, not just Emmanuel Macron and Prime Minister Sébastien Lecornu. Iman explains why Nov. 5 general strikers carried Palestinian flags and wore keffiyehs, and unpacks how Black and Arab youth from the suburbs – the children and grandchildren of the people France colonized – helped spark the uprising. She recounts a visit to a high school in Saint-Denis, where students describ",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/606068a4a2e1eeebca485182.json"
-    },
-    {
-      "id": "d96137a520a95347db3de8a2",
-      "title": "Moving from the Outside, In: A Guide for Socialists Legislators",
-      "url": "https://convergencemag.com/articles/moving-from-the-outside-in-a-guide-for-socialists-legislators",
-      "author": "Paul Pinsky",
-      "source": "Convergence",
-      "published_at": "2026-11-11T19:00:30+00:00",
-      "content_excerpt": "The recent election victories of left candidates in New York and far beyond—many carrying the Democratic Socialists of America (DSA) moniker—have captured national headlines. But the attendant excitement has left a key question unanswered: How can left candidates for high-profile mayoral and congressional offices best govern once they’ve been elected? Combining a democratic socialist… Source",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/d96137a520a95347db3de8a2.json"
     }
   ]
 }

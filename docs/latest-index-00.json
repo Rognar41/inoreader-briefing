@@ -1,311 +1,311 @@
 {
-  "generated_at": "2026-11-13T00:38:15.416523+00:00",
-  "generated_at_jst": "2026-11-13T09:38:15.416523+09:00",
-  "period_start": "2026-11-11T18:38:15.416523+00:00",
+  "generated_at": "2026-11-14T00:25:26.331005+00:00",
+  "generated_at_jst": "2026-11-14T09:25:26.331005+09:00",
+  "period_start": "2026-11-12T18:25:26.331005+00:00",
   "lookback_hours": 30,
   "folder": "00_毎日確認",
   "article_count": 20,
   "excerpt_chars": 800,
   "articles": [
     {
-      "id": "e9e27d593bedb5abf54a1fb0",
-      "title": "Trillion Case for Medicare for All",
-      "url": "https://www.laprogressive.com/healthcare/trillion-case-for-medicare-for-all",
-      "author": "Farrah Hassen",
-      "source": "LA Progressive",
-      "published_at": "2026-11-12T23:01:36+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. America’s affordability crisis played a major role in this year’s midterm elections — and few things in American life have become more unaffordable than health care. It’s about to get worse as premiums rise and Medicaid cuts from the GOP’s so-called “Big Beautiful Bill” take effect. So if Democrats want to deliver on their promise to make life more affordable, then they must use their new congressional majorities to pass Medicare for All. The United States spends more on health care yet has worse health outcomes than comparable high-income countries. In surveys, health care costs remain the top financial burden for adults and families , even when they’re insured. Around 85 ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/e9e27d593bedb5abf54a1fb0.json"
-    },
-    {
-      "id": "eb7e24ec700b07bfb92b8f38",
-      "title": "Black Alliance for Peace urges Spain to grant Fergie Chambers asylum — The Black Alliance for Peace",
-      "url": "https://blackallianceforpeace.com/bapstatements/bap-demands-spain-grant-fergie-asylum",
+      "id": "c9c031f237c9b499ff034095",
+      "title": "New Hallcon Contract Raises Wages, Improves Safety",
+      "url": "https://www.ueunion.org/ue-news/2026/new-hallcon-contract-raises-wages-improves-safety",
       "author": "",
-      "source": "The Black Alliance for Peace",
-      "published_at": "2026-11-12T22:56:21+00:00",
-      "content_excerpt": "November 12, 2026 . The U.S. government supplies Israel with weapons and diplomatic protection as it carries out genocide in Gaza. Domestically, the same government is moving to criminalize political opposition. These are related exercises of state power. One sustains the violence abroad. The other makes it more dangerous for people in the United States to organize against their own government’s role in that violence. The Trump administration’s National Security Presidential Memorandum 7 (NSPM-7) directs federal agencies to coordinate investigations under the banner of countering domestic terrorism and organized political violence. It draws on investigative and prosecutorial powers that successive Democratic and Republican administrations have built. When those powers are brought to bear i",
+      "source": "UE NEWS Updates | UE",
+      "published_at": "2026-11-14T00:22:56+00:00",
+      "content_excerpt": "On October 12, members of UE Locals 155, 977, 1077, 1177, and 1477 voted overwhelmingly to ratify a new four-year national collective bargaining agreement with their employer, Hallcon Inc. Base wages will increase between 11 and 25 percent over the duration of the contract. In the first year, most wages will increase between five and 10 percent. Hallcon is one of three main companies hired by the Class I freight railroads to transport rail crews within and between rail yards. Some UE members work as yard drivers, whose work is shifted and generally occurs within the confines and surroundings of a railyard. Others work as road drivers, who transport crews on an as-needed basis for the railroad, typically in long-haul trips. The new agreement, which is the third national master contract betw",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/eb7e24ec700b07bfb92b8f38.json"
+      "article_path": "articles/c9c031f237c9b499ff034095.json"
     },
     {
-      "id": "1dad47ceee3ec7b6a3535cd3",
-      "title": "Political Fallout for Trump",
-      "url": "https://www.laprogressive.com/foreign-policy/political-fallout-for-trump",
-      "author": "Ramzy Baroud",
+      "id": "9e1e64bce9b53bc0a732a7d4",
+      "title": "To Feed the Hungry: The Merit of Charity",
+      "url": "https://redfault.com/to-feed-the-hungry-the-merit-of-charity",
+      "author": "Red Fault -- Austin DSA",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-11-13T22:33:50+00:00",
+      "content_excerpt": "By Asanti M. To recount the history of the human struggle against hunger is to see a true virtue birthed from necessity in its most basic form. From time immemorial cooperation precluded death; community cemented life; and collaboration rose as the principal weapon against hunger. To stave off the constant assault on our mortality, collective structures arose from collective needs. Both calculated and spontaneous efforts set in motion the systematic destruction of our innate enemy and laid the foundation for a solidarity rooted in a visceral understanding of the human condition. Rather than eliminate hunger, contemporary modes of societal organization produce social structures that justify material dispossession. Collaboration has been abandoned for competition, and hunger is given space t",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/9e1e64bce9b53bc0a732a7d4.json"
+    },
+    {
+      "id": "80aa7944d07b651f6c9054e6",
+      "title": "The Local: Nov. 12, 2026 news roundup",
+      "url": "https://thenyclocal.substack.com/p/the-local-nov-12-2026-news-roundup",
+      "author": "The NYC Local - NYC DSA Labor Working Group",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-11-13T22:33:50+00:00",
+      "content_excerpt": "Welcome back to The Local, a publication of NYC-DSA Labor Working Group reporting every two weeks. Send any tips, corrections, and other feedback to thenyclocal@substack.com. In this issue, Mayor Mamdani might be trying to get a progressive union leader to run in 2028, a Cornell study finds that private equity was able to enter and consolidate the home health care industry in New York state due to weak regulation, which also dialectically left it susceptible to one big unionization push by 1199SEIU, and the NYC Ferry unionization drive with TWU propels forward (please drop us a tip with more ferry puns in case this continues, as we are starting to run out). Photo credit: Alexandra Chan at Marcela’s canvass 10/24. Organizing Workers at shelter and supportive housing nonprofit Lantern Commun",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/80aa7944d07b651f6c9054e6.json"
+    },
+    {
+      "id": "ab84fc0da72328a59601fbb4",
+      "title": "New York’s Blue Wave Results & Public Dissatisfaction with Democratic Leadership",
+      "url": "https://thethornnyc.substack.com/p/new-yorks-blue-wave-results-and-public",
+      "author": "The Thorn - NYC DSA Electoral Working Group",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-11-13T22:33:50+00:00",
+      "content_excerpt": "The Thorn is published weekly by the Electoral Working Group of the NYC Democratic Socialists of America . Join the Electoral Working Group ! Local News Since last week’s midterms, there has been widespread public outcry against the feckless Democratic leadership of Hakeem Jefferies and Chuck Schumer, with calls for them to make way for a more progressive/offensive leader. A Change.org petition has circulated, calling for Hakeem Jefferies to step down as prospective House Speaker for the incoming 120th Congress. It currently sits at over one million signatures. A likewise petition exists for Chuck Schumer to step down as prospective Senate Majority Leader, though it only boasts approx. one hundred thousand signatures. This outcry has also spread to Senate electeds and incumbents , includin",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/ab84fc0da72328a59601fbb4.json"
+    },
+    {
+      "id": "9db26217372f81a328f11988",
+      "title": "On Brandon Johnson: Party Building & The Meaning of Socialist Governance",
+      "url": "https://www.groundworkdsa.com/building-up/party-building-socialist-governance",
+      "author": "Groundwork Towards a Socialist Future",
+      "source": "Building Up: The Groundwork DSA Blog - Groundwork: Towards a Socialist Future",
+      "published_at": "2026-11-13T21:05:46+00:00",
+      "content_excerpt": "Why Chicago DSA Should Not Endorse Brandon Johnson Author: Chicago Groundwork Brandon Johnson is seeking Chicago DSA’s endorsement after a politically fraught first term. Soon the chapter will have to weigh in on if we will lend support to Mayor Johnson and what that support looks like. This question is not an easy one, as Brandon has been a key champion of many legislative priorities for Chicago DSA. Still, endorsing or recommending Brandon runs the risk of tying ourselves to a deeply unpopular incumbent and a failed model of progressive governance, all the while the DSA model is proving itself across the country. Instead, we should use this cycle to triple down on the Socialist Slate, agitate around our Workers Deserve More platform, and build towards a socialist mayoral run in 2031. How",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/9db26217372f81a328f11988.json"
+    },
+    {
+      "id": "be6794d5d5baa63bb9fd8adb",
+      "title": "Guglielmo Carchedi Was a Pathbreaking Marxist Economist",
+      "url": "https://jacobin.com/2026/11/carchedi-marxism-class-value-theory",
+      "author": "Joseph Choonara",
+      "source": "Jacobin",
+      "published_at": "2026-11-13T20:46:14+00:00",
+      "content_excerpt": "In October, the radical left lost Guglielmo Carchedi — “Mino” to his friends and comrades — who died in his sleep at the age of eighty-five. He was one of the great Marxist thinkers of our times. I first met him in London a few years after the economic meltdown of 2007–9, at a conference I organized for the journal International Socialism to explore the dynamics of that crisis. He spoke patiently and calmly, setting out his views with authority and an unwavering confidence in the power of Marxist theory. I heard him many more times over the next few years, always speaking with the same measured style. On occasion, he ended his presentations with a shy smile and the Latin “QED,” quod erat demonstrandum: “that which was to be demonstrated.” It was always a delight when our paths crossed. Oft",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/be6794d5d5baa63bb9fd8adb.json"
+    },
+    {
+      "id": "8750a319fbe686a3ee03e58b",
+      "title": "Democrats Did Their Best Bernie Impression in the Midterms",
+      "url": "https://jacobin.com/2026/11/bernie-democrats-populist-rhetoric-class-affordability",
+      "author": "Branko Marcetic",
+      "source": "Jacobin",
+      "published_at": "2026-11-13T20:25:47+00:00",
+      "content_excerpt": "The 2026 midterms saw historic gains for socialists and progressives. So, perhaps unsurprisingly, the Democratic Party’s corporate wing is hurriedly spinning the result as a victory for centrists and “moderates.” Largely lost in this is the way that the Left has transformed what it actually means to run as a Democratic moderate or a centrist. Because looking at this year’s campaigns, there is no doubt that even the most uninspiring “moderate” candidates were taking several pages — whole chapters, really — from the books of Bernie Sanders, Zohran Mamdani, and Alexandria Ocasio-Cortez. It’s worth recalling that before 2025, standard Democratic campaign rhetoric was all about “defending democracy,” railing against extremism and authoritarianism, and advocating for abortion rights — all good t",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/8750a319fbe686a3ee03e58b.json"
+    },
+    {
+      "id": "61833b6004833a9612a6d7e4",
+      "title": "Five Things Socialists In Congress Should Do",
+      "url": "https://socialistcall.com/2026/11/13/five-things-socialists-in-congress-should-do",
+      "author": "Will S.",
+      "source": "The Call",
+      "published_at": "2026-11-13T19:04:56+00:00",
+      "content_excerpt": "Congress is about to boast more socialists than ever before. DSA seems poised to double or triple our Congressional slate in 2028 and 2030, but we actually say very little about what our federal representatives are supposed to do with their positions. Most of the discussion around our Socialists in Office, at all levels, is about passing legislation, but we need to acknowledge that right now we don’t even have the numbers or the organization to stop the priorities of our enemies in both parties, like tax cuts or more oil drilling, let alone to enact Medicare for All. We of course want to win non-reformist reforms to weaken capital and boost workers’ ability to fight. But to get there, we’ll need to go through a phase of growth, experimentation, and probably getting our asses kicked a bit. ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/61833b6004833a9612a6d7e4.json"
+    },
+    {
+      "id": "e86416567c7945ef793bf1d7",
+      "title": "Beyond Trump",
+      "url": "https://www.laprogressive.com/election-and-campaigns/beyond-trump",
+      "author": "Richard Wolff",
       "source": "LA Progressive",
-      "published_at": "2026-11-12T22:12:31+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. On the very morning of last week’s critical US midterm elections, President Donald Trump made what seemed like a shocking announcement: no more aid to Israel. “Bibi Netanyahu and I have made a deal that we give Israel $4 billion a year, and we made a deal months ago that we’re stopping,” Trump said . He went on to make two seemingly contradictory assertions: “We won’t be paying Israel” and “We’ll help Israel if they need it.” In truth, this prompted little euphoria among those who have long campaigned against US funding of Israel. The lack of enthusiasm can be explained by two factors: firstly, few take Trump’s pledges seriously and, secondly, his remarks were widely unders",
+      "published_at": "2026-11-13T17:55:47+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. The mid-term elections can teach us much more than that the Trumpian brand of Republican Party is out of tune with most Americans or that billionaires’ donations can turn voters off or even that both parties’ support of Israel has been sharply reduced. The vote was more against the Republicans than it was for the Democrats. The key lesson for Democrats to learn is the danger they face if they revert to the cozy pre-2026 decades of alternating Republican and Democratic presidents and congresses. Those had presided over a changing US capitalism in a changing world. The post-1945 American empire had enriched very few. They used that wealth to buy US politics. And they used a b",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/1dad47ceee3ec7b6a3535cd3.json"
+      "article_path": "articles/e86416567c7945ef793bf1d7.json"
     },
     {
-      "id": "6f188127c7dd57cd351219ef",
-      "title": "Building People Power Against Repression — The Black Alliance for Peace",
-      "url": "https://blackallianceforpeace.com/bapstatements/review-15",
-      "author": "",
-      "source": "The Black Alliance for Peace",
-      "published_at": "2026-11-12T21:52:23+00:00",
-      "content_excerpt": "While the outcome of this November’s historic U.S. midterm elections appears to have dealt a blow to the neofascist agenda of the Trump administration and its allies, the U.S. government’s objective in, its own words, remains full-spectrum domination. This includes the criminalization of dissent. The legal and policy architecture of this repression is codified through instruments like NSPM-7, which directs federal agencies to coordinate investigations under the banner of countering domestic terrorism and organized political violence. It draws on investigative and prosecutorial powers that successive Democratic and Republican administrations have built. Despite these electoral shifts, our task of building mass consciousness and developing independent organization based in popular power rema",
+      "id": "46d10b17f30ba30dbe5fed9f",
+      "title": "Who Televises the Revolution?",
+      "url": "https://washingtonsocialist.mdcdsa.org/ws-articles/26-04-who-televises-the-revolution",
+      "author": "Washington Socialist - Metro DC DSA",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-11-13T16:52:43+00:00",
+      "content_excerpt": "It is in the interest of all socialist movements to be the most effective and artistic wielders of the cinema, for if we wish to influence the masses, we must televise the revolution.",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/6f188127c7dd57cd351219ef.json"
+      "article_path": "articles/46d10b17f30ba30dbe5fed9f.json"
     },
     {
-      "id": "74b03e39dce5ae90df96b214",
-      "title": "Reactionary Feminists Offer Bad Solutions to Real Problems",
-      "url": "https://jacobin.com/2026/11/conservative-liberal-marxist-feminism-morality",
-      "author": "Kaja Kröger",
+      "id": "d9847b67760bf3f35d128065",
+      "title": "Seeing Wikipedia as a Political Commons",
+      "url": "https://washingtonsocialist.mdcdsa.org/ws-articles/26-04-wikipedia-political-commons",
+      "author": "Washington Socialist - Metro DC DSA",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-11-13T16:52:43+00:00",
+      "content_excerpt": "As political repression in the United States worsens, we need to work with other communities who are active, organized, and in opposition.",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/d9847b67760bf3f35d128065.json"
+    },
+    {
+      "id": "bd9e4185e01272d6626842ec",
+      "title": "Anti-genocide activists shine a spotlight on Chevron’s business with Israel",
+      "url": "https://washingtonsocialist.mdcdsa.org/ws-articles/26-04-anti-genocide-activists-chevron-business-with-israel",
+      "author": "Washington Socialist - Metro DC DSA",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-11-13T16:52:43+00:00",
+      "content_excerpt": "As public awareness of Chevron’s ties to genocide grows, DSA plans to maintain pressure until we can win, for both Palestine and the planet.",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/bd9e4185e01272d6626842ec.json"
+    },
+    {
+      "id": "12e1536ff15f071620f067a4",
+      "title": "Organizing in the DC Restaurant Industry",
+      "url": "https://washingtonsocialist.mdcdsa.org/ws-articles/26-04-expo-organizing-dc-restaurant-industry",
+      "author": "Washington Socialist - Metro DC DSA",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-11-13T16:52:43+00:00",
+      "content_excerpt": "In the business of bars and restaurants, workers should be seen as the industry — not owners.",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/12e1536ff15f071620f067a4.json"
+    },
+    {
+      "id": "9cce82da5f8c4edbf117ecae",
+      "title": "On Giving Birth, an Angry Urethra, and Shitty Healthcare",
+      "url": "https://washingtonsocialist.mdcdsa.org/ws-articles/26-04-mommy-blog-angry-urethra-and-shitty-healthcare",
+      "author": "Washington Socialist - Metro DC DSA",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-11-13T16:52:43+00:00",
+      "content_excerpt": "None of us raise children in isolation.",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/9cce82da5f8c4edbf117ecae.json"
+    },
+    {
+      "id": "a3ded027a14b7a1ed246b618",
+      "title": "Populism is NOT enough",
+      "url": "https://washingtonsocialist.mdcdsa.org/ws-articles/26-03-populism-is-not-enough",
+      "author": "Washington Socialist - Metro DC DSA",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-11-13T16:52:43+00:00",
+      "content_excerpt": "The solution to the political issues facing the United States is not going to be populism.",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/a3ded027a14b7a1ed246b618.json"
+    },
+    {
+      "id": "6efd139308fd50323acc5c1a",
+      "title": "Possible Love Is a Cinematic Masterpiece About Class",
+      "url": "https://jacobin.com/2026/11/possible-love-film-korea-class",
+      "author": "Kap Seol",
       "source": "Jacobin",
-      "published_at": "2026-11-12T20:38:36+00:00",
-      "content_excerpt": "To more and more people, the promises of sex-positive liberal feminism feel empty. The sexual ideas that have dominated feminism in the last two decades — including that sexual liberation always serves women’s interests, that consent is the only relevant sexual ethic, and that consuming porn and buying sex are benign practices like any other — are beginning to ring hollow. In this context, an emergent theoretical strand with the pointed, self-chosen name “reactionary feminism” has drawn considerable attention. It calls into question the liberal assertion that every form of sexual morality is anti-feminist — a view the Left has absorbed in recent decades. Although they work to maintain an appearance of ideological ambivalence, reactionary feminists are aligned with the post-liberal right , ",
+      "published_at": "2026-11-13T16:47:28+00:00",
+      "content_excerpt": "Possible Love is yet another masterpiece that South Korean director Lee Chang-dong has brought to us, after an eight-year hiatus since his last film Burning (2018). Unlike his younger Korean peers, such as Bong Joon-ho ( Parasite ) or Park Chan-wook ( Old Boy and No Other Choice ), Lee, now seventy-two, has often found himself confined to the independent film scene outside South Korea, where he has usually enjoyed modest commercial success. Deeply rooted in humanity and class relations, Lee’s films deserve a wider audience beyond the ranks of art house aficionados (including Barack Obama, who named Burning among his favorite movies of 2018). Lee’s 1999 film Peppermint Candy weaves the life of a young man into the breakneck pace of South Korean capitalism, showing how innocence loses ground",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/74b03e39dce5ae90df96b214.json"
+      "article_path": "articles/6efd139308fd50323acc5c1a.json"
     },
     {
-      "id": "641e2749dcbb5be4a95b6ef3",
-      "title": "The Southern Negro Youth Congress’s Bold Push for Equality",
-      "url": "https://jacobin.com/2026/11/snyc-youth-civil-rights-organizing-south",
-      "author": "Robert Greene II",
+      "id": "85bfe62f6d4766bce5f3fe83",
+      "title": "US Government Bureaucracy Is Designed to Punish the Poor",
+      "url": "https://jacobin.com/2026/11/review-lowrey-time-tax-bureaucracy-class",
+      "author": "Kelly McKowen",
       "source": "Jacobin",
-      "published_at": "2026-11-12T19:48:32+00:00",
-      "content_excerpt": "“Behold the land, the rich and resourceful land, from which for a hundred years its best elements have been running away, its youth and hope, black and white, scurrying North because they are of each other, and dare not face a future of equal, independent, upstanding human beings, in a real and not a sham democracy.” This line was spoken by W. E. B. Du Bois near the end of arguably his greatest speech, titled “Behold the Land.” It was delivered on October 20, 1946, at a convention hosted by the Southern Negro Youth Congress (SNYC), where Du Bois thundered from the dais at Antisdel Chapel at Benedict College in Columbia, South Carolina. He and the SNYC had, for a brief moment, made the Palmetto State the center of the struggle for global human rights in the post–World War II years. Founded ",
+      "published_at": "2026-11-13T15:57:47+00:00",
+      "content_excerpt": "For several years, I lived in Norway and enjoyed the privileges associated with membership in Folketrygden , or the National Insurance Scheme. One privilege that I still think about often is the relative frictionlessness of interacting with the Norwegian government. Seeing a doctor, for example, was effortless, and once my low annual deductible (as of 2026, ~$300) was paid, all testing and treatment for the year was covered without my involvement or input. My taxes were — without my prompting — prepared for me and sent for my amendment and approval. There was never anything to amend, of course. And because of the country’s leveringsfritak , or “silent acceptance” law, I did not even have to sign or submit a return. The great difference between how things are typically done in Norway and ho",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/641e2749dcbb5be4a95b6ef3.json"
+      "article_path": "articles/85bfe62f6d4766bce5f3fe83.json"
     },
     {
-      "id": "a37b21163985e7a348eeea76",
-      "title": "DSA Chapter Forms in San Joaquin Valley",
-      "url": "https://democraticleft.dsausa.org/2026/11/12/dsa-chapter-forms-in-san-joaquin-valley",
+      "id": "f6e201a8630566659f9682d0",
+      "title": "DSA Subpoenaed, Jeffries Speaker Fight Heats Up, AOC 2028 Buzz",
+      "url": "https://democraticleft.dsausa.org/2026/11/13/dsa-subpoenaed-jeffries-speaker-fight-heats-up-aoc-2028-buzz",
       "author": "tfrasca@yahoo.com",
       "source": "Democratic Left",
-      "published_at": "2026-11-12T19:25:04+00:00",
-      "content_excerpt": "Socialists come together in a very “red” area to challenge a lobbyist-dominated local government. The post DSA Chapter Forms in San Joaquin Valley appeared first on Democratic Left .",
+      "published_at": "2026-11-13T15:49:27+00:00",
+      "content_excerpt": "Jeffries Speaker fight drags on, Florida subpoenas DSA, Palestinian-American challenges Fetterman’s Senate seat, Fox can’t quit Hasan Piker, early 2028 AOC buzz, and more in this edition of “Red All Over,” Democratic Left’s weekly news roundup. The post DSA Subpoenaed, Jeffries Speaker Fight Heats Up, AOC 2028 Buzz appeared first on Democratic Left .",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/a37b21163985e7a348eeea76.json"
+      "article_path": "articles/f6e201a8630566659f9682d0.json"
     },
     {
-      "id": "e1b5ab7168272930cb75b6a4",
-      "title": "Nonviolent Communication",
-      "url": "https://www.laprogressive.com/healthcare/nonviolent-communication",
-      "author": "George Cassidy Payne",
+      "id": "bcb75b24510fa25cbf6d5b03",
+      "title": "Like Benjamin Franklin",
+      "url": "https://www.laprogressive.com/progressive-issues/like-benjamin-franklin",
+      "author": "Dimitris Eleas",
       "source": "LA Progressive",
-      "published_at": "2026-11-12T18:52:51+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. One night on a suicide prevention chat line, a young man typed a sentence I had seen many times before. “Everyone would be better off without me.” He began listing his failures, one after another, as though presenting evidence in a courtroom. My instinct was to challenge his thinking, offer reassurance, or explain why his conclusion was wrong. I wanted him to understand that his life mattered and that the pain he was experiencing did not tell the whole story. Instead, I paused and wrote: “It sounds like you’ve been carrying an overwhelming sense of failure and loneliness.” There was a long silence. Then he responded: “Yeah. Exactly.” Related: Justice After War and the Reali",
+      "published_at": "2026-11-13T15:46:31+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Some people make history when they win the presidency; others, like Benjamin Franklin, shaped the nation without ever holding its highest office. Americans have voted on the six years of Donald Trump's era of excess. Four years of his first presidency and two of his second. The November 3 midterm elections offered a glimmer of hope for American democracy. The big question was whether the Democrats would manage to regain control of both the House of Representatives and the Senate, putting a check on the president. They succeeded in both chambers ! The results send a message of change. They marked the end of the political careers of many politicians. Trump governed, and conti",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/e1b5ab7168272930cb75b6a4.json"
+      "article_path": "articles/bcb75b24510fa25cbf6d5b03.json"
     },
     {
-      "id": "65a913ebb3ce596d1e006b25",
-      "title": "We Started the School Year with a March on the Principal",
-      "url": "https://labornotes.org/blogs/2026/11/we-started-school-year-march-principal",
-      "author": "",
-      "source": "",
-      "published_at": "2026-11-12T18:26:56+00:00",
-      "content_excerpt": "At Ferndale High School, nestled in a Detroit suburb, one of our most pressing problems is the dilapidated building, built in the 1950s. The outdated heating and cooling systems are prone to classroom floods—in the last nine months I've experienced three. Once boiling hot water sprayed out of the HVAC unit during class, nearly injuring a student. It was late August—our last Sunday night of freedom before our teacher professional development week—when six of my co-workers and I received an email from our principal. She said that a few classrooms had flooded again the previous week, but the damage was limited and our classrooms were “ready for our return.” “Tomorrow is still the beginning of a fresh school year,” she wrote, “and I’m looking forward to welcoming everyone back and starting the",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/65a913ebb3ce596d1e006b25.json"
-    },
-    {
-      "id": "d28246aa16dd042e006c3cac",
-      "title": "How Cultural Marxism Became a Right-Wing Obsession",
-      "url": "https://jacobin.com/2026/11/cultural-marxism-conspiracy-frankfurt-school-new-left",
-      "author": "A. J. A. Woods",
+      "id": "0c5f6f4e24491694e198f27e",
+      "title": "Eugene Debs’s Life Speaks to Today’s Socialist Movement",
+      "url": "https://jacobin.com/2026/11/gude-debs-biography-american-socialism",
+      "author": "Nelson Lichtenstein",
       "source": "Jacobin",
-      "published_at": "2026-11-12T17:36:58+00:00",
-      "content_excerpt": "In December 2021, the term “cultural Marxism” was added to the Oxford English Dictionary . It was, according to the OED , a phrase with a sinister and controversial past. Its etymology could allegedly be traced to 1930s Nazi propaganda; its first recorded English-language use was in a 1938 issue of a British Union of Fascists magazine. Despite its dark history, this expression has recently surged in popularity. College campuses and city streets have been plastered with stickers that urge passersby to “smash” cultural Marxism. Prominent US Republicans, such as Texas Senator Ted Cruz and Defense Secretary Pete Hegseth, have written book-length polemics to blame America’s decline on cultural Marxist ideologies. Leaders in Latin America, like Brazil’s former President Jair Bolsonaro and Argent",
+      "published_at": "2026-11-13T15:08:42+00:00",
+      "content_excerpt": "Shawn Gude’s splendid new biography of Gilded Age Socialist Eugene V. Debs could hardly have arrived at a more propitious moment. Perhaps as many as half of all young people tell pollsters they prefer socialism to capitalism. Gude, a member of the 130,000-strong Democratic Socialists of America (DSA), calls that organization, whose activism and endorsements have put eight self-professed socialists in the new Congress, the “institutional descendant” of Debs’s Socialist Party of America. In his victory speech right after winning the New York city mayoral election in 2025, Zohran Mamdani, an unapologetic DSAer, quoted Debs: “I can see the dawn of a better day for humanity.” And when Bernie Sanders and Alexandria Ocasio-Cortez made their “Fighting Oligarchy” tour in the months after Donald Tru",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/d28246aa16dd042e006c3cac.json"
-    },
-    {
-      "id": "43c75275edbbed798d195c20",
-      "title": "Lessons from an 85-Day Hotel Strike",
-      "url": "https://labornotes.org/2026/11/lessons-85-day-hotel-strike",
-      "author": "Diana Varenik and Natascha Elena Uhlmann",
-      "source": "",
-      "published_at": "2026-11-12T17:26:27+00:00",
-      "content_excerpt": "You’d be forgiven for worrying, 12 weeks into a strike, that the boss is hell-bent on waiting you out. But after more than 80 days on the picket line at Seattle’s Embassy Suites by Hilton in Pioneer Square, Aspen Desmarais was undeterred. “I can live on a budget,” she said. “Been doing it since day one.” After 85 days, on September 10, workers won the longest hotel strike in Washington state history. Their union, UNITE HERE Local 8, represents 4,000 hospitality workers in Oregon and Washington. Desmarais, a strike captain and bartender at the hotel, worked to keep others motivated throughout the fight. She and her co-workers were “tired of people talking down to us and not treating us with respect,” she said, “when we’re the reason that place stays running the way that it does.” Hilton’s o",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/43c75275edbbed798d195c20.json"
-    },
-    {
-      "id": "413c7c207d47e48616be87e5",
-      "title": "ICE Enforcement Incidents",
-      "url": "https://www.laprogressive.com/immigration-reform/ice-enforcement-incidents",
-      "author": "Kate Morrissey",
-      "source": "LA Progressive",
-      "published_at": "2026-11-12T17:09:54+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Immigration and Customs Enforcement officers put a man on the ground in Hillcrest, New York, in late October, put their knees into his back and shot him with a Taser, according to the Human Impact Project . The incident is one of more than 300 reports tracked by the project in which immigration officials injured someone to the point that they needed medical treatment. Run by nonprofit Human Security Initiative, Human Impact Project scrapes court records, media reports, self-reported social media posts and GoFundMe accounts for information about the impacts of the Trump administration’s immigration policies. Though the project uses AI for the initial data gathering, human ri",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/413c7c207d47e48616be87e5.json"
-    },
-    {
-      "id": "79a0214f8fbb36613cefe176",
-      "title": "Abdul El-Sayed’s Sports Fluency Is a Political Asset",
-      "url": "https://jacobin.com/2026/11/el-sayed-sports-politics-progressives",
-      "author": "Sean Jacobs",
-      "source": "Jacobin",
-      "published_at": "2026-11-12T16:58:59+00:00",
-      "content_excerpt": "One of Abdul El-Sayed’s greatest skills is his ability to deploy the language of sports to make his case. His fluency in sports allows him to find common ground with interlocutors and audiences, complicating the stereotype that progressives are anti-sports. What makes him convincing and harder for his opponents to dismiss is that he played competitive team sports: El-Sayed was a hockey goalie in middle school. At Bloomfield Hills High School in the suburbs of Detroit, he played football and lacrosse and wrestled, becoming football team captain. These are sports conservatives embrace or consider quintessentially American. At the University of Michigan in Ann Arbor, he continued playing sports at the club level, which is more competitive than intramural sports but separate from varsity athle",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/79a0214f8fbb36613cefe176.json"
-    },
-    {
-      "id": "f8394562513660117c78e8d4",
-      "title": "Welcome to Trumpworld",
-      "url": "https://www.laprogressive.com/progressive-issues/welcome-to-trumpworld",
-      "author": "Tom Engelhardt",
-      "source": "LA Progressive",
-      "published_at": "2026-11-12T16:51:37+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. In some ways, with at least two-plus more years of Trumpworld in order (or do I mean disorder?), it may not matter as much as so many of us might hope that the Democrats won the House and Senate recently! Honestly, can you even believe this world of... well, I was going to say “ours,” but I doubt that’s appropriate anymore? These days—some days at least—nothing could convince this 82-year-old that he’s not living in a fantasy world from hell on a planet created from the worst nightmare of some mad god. I mean, Donald J. Trump as president of the United States? All these years later, I still don’t really believe it. (Well, believe it, Tom!) Certain days, I pick up the New Yo",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/f8394562513660117c78e8d4.json"
-    },
-    {
-      "id": "46efa633a92b79831c3445a9",
-      "title": "Self-Determination Is the Core Palestinian Demand",
-      "url": "https://jacobin.com/2026/11/israeli-elections-palestinians-netanyahu-opposition",
-      "author": "Bashir Abu-Manneh",
-      "source": "Jacobin",
-      "published_at": "2026-11-12T16:18:09+00:00",
-      "content_excerpt": "The parliamentary elections held in Israel on October 27 failed to produce a bloc with the sixty-one seats required to govern on its own. Although it remains in the lead, Benjamin Netanyahu’s camp has fallen from sixty-eight to fifty-three seats, while the opposition, led by Gadi Eisenkot, has made gains but secured only forty-eight seats. The two Palestinian lists achieved a historic breakthrough, winning nineteen seats, thanks to an unprecedented mobilization of Palestinian citizens of Israel. Coalition negotiations remain deadlocked, however, as the opposition is reluctant to accept any form of cooperation with the Palestinian parties. How should these results be understood at a time when the genocide in Gaza and ethnic cleansing in the West Bank are ongoing. and as Benjamin Netanyahu a",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/46efa633a92b79831c3445a9.json"
-    },
-    {
-      "id": "1d2f4cbec26928577c8ec6fc",
-      "title": "The Real AI Misalignment Problem Is Capitalism",
-      "url": "https://jacobin.com/2026/11/ai-anthropic-openai-alignment-capitalism-exploitation",
-      "author": "Nick Couldry",
-      "source": "Jacobin",
-      "published_at": "2026-11-12T15:09:04+00:00",
-      "content_excerpt": "This September, some rather technical issues regarding artificial intelligence, or rather their upshot, made headlines. The reason lay in two resignations from companies leading the development of frontier AI models, namely David Robinson , OpenAI’s Safety Officer, and Jacob Coxon , a developer at Anthropic. Each resigned because they no longer believed the companies were taking seriously the risks that frontier models’ recent “advances” pose to the survival of humanity . So, not just what most of us would call a “technical issue.” Those fears were not hype. They were based on careful argument: a September 6 blog by Jakub Pachocki, OpenAI’s chief scientist, serves as an example. It’s worth looking more closely. One fear the blog expressed was that frontier models are on the brink of “recur",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/1d2f4cbec26928577c8ec6fc.json"
-    },
-    {
-      "id": "0ae466eb7ab8336afa7da5b4",
-      "title": "La Bola Negra: A Revolutionary Queer Masterpiece",
-      "url": "https://newpol.org/la-bola-negra-a-revolutionary-queer-masterpiece",
-      "author": "Javier Sethness",
-      "source": "New Politics",
-      "published_at": "2026-11-12T15:08:47+00:00",
-      "content_excerpt": "La bola negra (“The Black Ball”), the new hit film by Spanish auteurs Javier Ambrossi and Javier Calvo, is a true masterpiece that centers queer love, anti-fascism, and historical memory. The post La Bola Negra: A Revolutionary Queer Masterpiece appeared first on New Politics .",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/0ae466eb7ab8336afa7da5b4.json"
-    },
-    {
-      "id": "0ecd4caf0ea3969d70352695",
-      "title": "Starbucks Gets a Tax Break",
-      "url": "https://www.laprogressive.com/economic-equality/starbucks-gets-a-tax-break",
-      "author": "Marcus Baram",
-      "source": "LA Progressive",
-      "published_at": "2026-11-12T14:35:18+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. From the steps of the Pennsylvania Capitol, looking out toward the Susquehanna River, North Street runs off to the right — quieter than the avenues that feed the statehouse, more suburb than seat of power. That is where Andrea Grove built Elementary Coffee, the shop she opened at Harrisburg’s Broad Street Market in 2014, when she was 26. Grove pays her taxes. What she doesn’t have is what the coffee giants have. “We don’t have accountants that will tell us about loopholes and these ways to get around these things,” she said. “The expectations for small businesses, particularly in coffee, is to live up to what these big corporations are producing but with way less resources ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/0ecd4caf0ea3969d70352695.json"
-    },
-    {
-      "id": "c67435704a45523285cde220",
-      "title": "Kurds Have Become Britain’s Latest Demonized Migrants",
-      "url": "https://jacobin.com/2026/11/kurds-uk-migration-far-right",
-      "author": "Matt Broomfield",
-      "source": "Jacobin",
-      "published_at": "2026-11-12T13:48:24+00:00",
-      "content_excerpt": "A decade ago, the Kurds briefly figured in Western public consciousness as the feted heroes of the war against the Islamic State in Iraq and Syria (ISIS). In Britain as worldwide, audiences were fascinated by fetishized, orientalized images of “badass” Kurdish female fighters battling the Islamist terror group on the ground, backed by the UK and US militaries. Today the most populous stateless people in the Middle East are making headlines in the UK once again, but this time depicted as people smugglers, organized criminals, and unwanted illegal immigrants. Broadly speaking, both migrants themselves and the smuggling networks who profit from their need to travel are hysterically depicted as united in highly organized, criminal, Islamic gangs that need to be “smashed” by the UK government. ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/c67435704a45523285cde220.json"
-    },
-    {
-      "id": "46330ab48b6a534ebb8f6659",
-      "title": "Jim Crow Said This Could Never Happen",
-      "url": "https://www.laprogressive.com/racism/jim-crow-said-this-could-never-happen",
-      "author": "Berry Craig",
-      "source": "LA Progressive",
-      "published_at": "2026-11-12T06:51:47+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Goldie Taylor, 80, and I grew up in small-town Mayfield, Kentucky, when Jim Crow segregation and race discrimination were both the law and the social order. I’m 76. Symbolic of the separate and unequal order, mayors were white men. “I never believed it would change,” said Taylor, who is my longtime friend and president of our Mayfield-Graves County NAACP branch. “I never dreamed we could ever have a Black mayor in the city of Mayfield.” Neither did I. But on November 3, voters in Mayfield, the seat of Graves County in westernmost Kentucky, elected Derrick Parrott, 41, to be the next mayor. My old hometown is nearly nearly 69 percent white. The outgoing mayor and her predece",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/46330ab48b6a534ebb8f6659.json"
+      "article_path": "articles/0c5f6f4e24491694e198f27e.json"
     }
   ]
 }
