@@ -1,12 +1,87 @@
 {
-  "generated_at": "2026-11-14T00:25:26.331005+00:00",
-  "generated_at_jst": "2026-11-14T09:25:26.331005+09:00",
-  "period_start": "2026-11-12T18:25:26.331005+00:00",
+  "generated_at": "2026-11-14T23:15:04.488787+00:00",
+  "generated_at_jst": "2026-11-15T08:15:04.488787+09:00",
+  "period_start": "2026-11-13T17:15:04.488787+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
-  "article_count": 20,
+  "article_count": 9,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "b0af16d7656d0f53e9f7d6d7",
+      "title": "Macklemore says nine U.S. arenas rejected Palestine benefit tour",
+      "url": "https://mronline.org/2026/11/14/macklemore-says-nine-u-s-arenas-rejected-palestine-benefit-tour",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-11-14T14:29:19+00:00",
+      "content_excerpt": "The rapper says venues withdrew available dates after learning the concerts would raise funds for Palestinians. The post Macklemore says nine U.S. arenas rejected Palestine benefit tour appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/b0af16d7656d0f53e9f7d6d7.json"
+    },
+    {
+      "id": "354ad8e6f87a62ef469b4575",
+      "title": "Nvidia – knives are out for Jensen Huang – spy allegations fanciful",
+      "url": "https://mronline.org/2026/11/14/nvidia-knives-are-out-for-jensen-huang-spy-allegations-fanciful",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-11-14T13:31:18+00:00",
+      "content_excerpt": "A follow up to the murky spy allegations against Nvidia. The post Nvidia – knives are out for Jensen Huang – spy allegations fanciful appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/354ad8e6f87a62ef469b4575.json"
+    },
+    {
+      "id": "699187e03214173e9b5e0938",
+      "title": "The civil war in France",
+      "url": "https://mronline.org/2026/11/14/the-civil-war-in-france",
+      "author": "Vijay Prashad",
+      "source": "MR Online",
+      "published_at": "2026-11-14T12:25:43+00:00",
+      "content_excerpt": "Students in the Paris suburbs came onto the streets merely to get teachers into their classrooms, to have enough desks for their classmates, and to have the state build school buildings fit for the educational experience. The post The civil war in France appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/699187e03214173e9b5e0938.json"
+    },
+    {
+      "id": "a76b08061953641bd6e0b510",
+      "title": "Spanish workers go on the offensive",
+      "url": "https://mronline.org/2026/11/14/spanish-workers-go-on-the-offensive",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-11-14T11:19:05+00:00",
+      "content_excerpt": "Euskadi-based journalist Benn Wray reports on the momentous general strike and a unique way of mobilising millions to action. The post Spanish workers go on the offensive appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/a76b08061953641bd6e0b510.json"
+    },
+    {
+      "id": "ded2bcb7db2dd18a236800a7",
+      "title": "‘Os sentidos do trabalho: Ensaio sobre a afirmação e a negação do trabalho’ by Ricardo Antunes",
+      "url": "https://mronline.org/2026/11/14/os-sentidos-do-trabalho-ensaio-sobre-a-afirmacao-e-a-negacao-do-trabalho-by-ricardo-antunes",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-11-14T10:14:03+00:00",
+      "content_excerpt": "In 1999, the first edition of the Brazilian sociologist Ricardo Antunes’s The Meanings of Work [Os sentidos do trabalho] was published. Its stakes were clear: against the idea that new communication and automation technologies were announcing the “end of work”, Antunes insisted that work remained vital, both for capital and for humanity. The post ‘Os sentidos do trabalho: Ensaio sobre a afirmação e a negação do trabalho’ by Ricardo Antunes appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/ded2bcb7db2dd18a236800a7.json"
+    },
     {
       "id": "cf15225f7f3ece43ca3af8f7",
       "title": "ICE is hiding detainees from their families – and the death toll is rising",
@@ -66,246 +141,6 @@
       "priority": 2,
       "date_missing": false,
       "article_path": "articles/1057b15ed87e94eea1fc5994.json"
-    },
-    {
-      "id": "814be1c722c6d6e5bbe82886",
-      "title": "“Paraguay Is in Dire Need of Change”: Senator on Bank Collapse & Political Crisis",
-      "url": "https://www.democracynow.org/2026/11/12/paraguay_ueno_bank_sen_esperanza",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-11-13T16:49:50+00:00",
-      "content_excerpt": "The collapse of Ueno Bank in Paraguay has plunged the country into crisis and led to the ouster of right-wing President Santiago Peña, a staunch ally of the Trump administration. At least 3 million people — nearly half of Paraguay’s population — lost access to their accounts on November 3 after regulators seized the insolvent bank amid allegations of widespread fraud. Peña, who had close ties to Ueno and appointed a former executive to lead Paraguay’s central bank, attempted to resign the presidency following the bank’s collapse. Lawmakers, however, rejected his resignation and impeached him instead, thereby stripping him of immunity from prosecution. He has since been placed under house arrest. For more on the bank collapse and its aftermath, Democracy Now! spoke with left-wing Senator Es",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/814be1c722c6d6e5bbe82886.json"
-    },
-    {
-      "id": "02bdb94b153f3785ea0acbd1",
-      "title": "“Parasitic Technology”: Could Jensen Huang/Nvidia Scandal Prompt Rethink About AI?",
-      "url": "https://www.democracynow.org/2026/11/13/nvidia_jensen_huang",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-11-13T15:54:40+00:00",
-      "content_excerpt": "Nvidia CEO Jensen Huang resigned Thursday after reports of multiple extramarital affairs, including with an employee and a Chinese businesswoman whom U.S. intelligence officials accuse of spying for Beijing. The company says Chief Financial Officer Colette Kress will serve as interim CEO as the board searches for a permanent replacement. Nvidia’s computer chips are at the heart of the artificial intelligence boom, driving the company’s value above $4 trillion and making Huang one of the most influential business leaders in the world. His spectacular fall from the company he co-founded in 1993 comes as the U.S. stock market has become highly dependent on a handful of AI-related companies and amid intense competition between the United States and China over control of the technology, with ac",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/02bdb94b153f3785ea0acbd1.json"
-    },
-    {
-      "id": "fecbdc63ff4588db78725b76",
-      "title": "“It’s Just Barbarism”: Dr. Feroze Sidhwa Mourns Friend Killed in Israeli Hospital Strike in Gaza",
-      "url": "https://www.democracynow.org/2026/11/13/nasser_hospital_attack",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-11-13T15:54:40+00:00",
-      "content_excerpt": "Israel’s latest bombing of Nasser Hospital in Gaza on Thursday killed six Palestinians, including surgeon Dr. Rizk Abu Shaira. He was featured in the recent documentary American Doctor , which follows international medical volunteers in Gaza’s battered hospitals as they work alongside Palestinian colleagues. Israel claimed, without providing evidence, that it targeted a senior Hamas militant in the hospital strike. Israel has repeatedly bombed medical facilities in Gaza since the start of the genocide in October 2023, even though such attacks are prohibited under international law. “It’s just barbarism. I don’t know why we’re supporting this,” says Dr. Feroze Sidhwa, one of the titular American doctors in the documentary, who demands accountability for Israel’s actions and a change in U.S.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/fecbdc63ff4588db78725b76.json"
-    },
-    {
-      "id": "365b50005f0007c68eb872bb",
-      "title": "The Rule of Law Project: New Effort Launched to Probe Corruption & State Violence in U.S.",
-      "url": "https://www.democracynow.org/2026/11/13/democrats_investigating_trump",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-11-13T15:54:40+00:00",
-      "content_excerpt": "As Democrats prepare to take control of Congress in January, party leaders say they intend to hold Trump officials accountable with stepped-up hearings and investigations. The administration, however, has responded with threats to launch its own investigations into lawmakers for carrying out their oversight responsibilities. “The oversight function of Congress is well established by the founders. It’s a normal part of government. The separation of powers requires oversight,” says Brad Adams, co-founder of The Rule of Law Project, which seeks to provide outside accountability due to what he describes as the administration’s refusal to investigate “obvious cases of corruption.”",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/365b50005f0007c68eb872bb.json"
-    },
-    {
-      "id": "c99520a790f929e1aef4d41d",
-      "title": "Aid organizations in Gaza are pulling back, leaving hundreds of thousands of Palestinians without food",
-      "url": "https://mondoweiss.net/2026/11/aid-organizations-in-gaza-are-pulling-back-leaving-hundreds-of-thousands-of-palestinians-without-food",
-      "author": "Tareq S. Hajjaj",
-      "source": "Mondoweiss",
-      "published_at": "2026-11-13T15:15:53+00:00",
-      "content_excerpt": "Israeli restrictions and funding shortages are threatening one of Gaza's last lifelines as Palestinians face a new phase of severe food insecurity.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/c99520a790f929e1aef4d41d.json"
-    },
-    {
-      "id": "8203b02b92b842c0c0e6c198",
-      "title": "Israeli strike on Nasser Hospital in Gaza kills six, disables key medical departments",
-      "url": "https://mondoweiss.net/2026/11/israeli-strike-on-nasser-hospital-in-gaza-kills-six-disables-key-medical-departments",
-      "author": "Tareq S. Hajjaj",
-      "source": "Mondoweiss",
-      "published_at": "2026-11-13T14:56:01+00:00",
-      "content_excerpt": "Israel continues to target Gaza's precarious healthcare system, destroying a surgical unit in southern Gaza.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/8203b02b92b842c0c0e6c198.json"
-    },
-    {
-      "id": "f19f91e91b74ee8396bf750d",
-      "title": "Nvidia spy scare: Ruling class turns on itself as chip blockade of China fails",
-      "url": "https://mronline.org/2026/11/13/nvidia-spy-scare-ruling-class-turns-on-itself-as-chip-blockade-of-china-fails",
-      "author": "Gary Wilson",
-      "source": "MR Online",
-      "published_at": "2026-11-13T13:43:47+00:00",
-      "content_excerpt": "The Nvidia spy scandal is a fight inside the United States ruling class over how to wage its economic war on China. The post Nvidia spy scare: Ruling class turns on itself as chip blockade of China fails appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/f19f91e91b74ee8396bf750d.json"
-    },
-    {
-      "id": "8c942d04765c5597420ebe9a",
-      "title": "A surgeon kKilled, wards damaged: Inside Israel’s strike on Nasser Hospital",
-      "url": "https://mronline.org/2026/11/13/a-surgeon-kkilled-wards-damaged-inside-israels-strike-on-nasser-hospital",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-11-13T12:46:15+00:00",
-      "content_excerpt": "An Israeli strike killed six at Gaza’s Nasser Medical Complex, including a surgeon, and damaged surgery and intensive care wards. The post A surgeon kKilled, wards damaged: Inside Israel’s strike on Nasser Hospital appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/8c942d04765c5597420ebe9a.json"
-    },
-    {
-      "id": "4da66b9d6ca1e042aa71ad58",
-      "title": "Cuba and the U.S.: Don’t let human connections become a casualty of the blockade",
-      "url": "https://mronline.org/2026/11/13/cuba-and-the-u-s-dont-let-human-connections-become-a-casualty-of-the-blockade",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-11-13T11:49:12+00:00",
-      "content_excerpt": "How could we have imagined that something as natural as meeting, talking and spending time together could once again become so difficult? The post Cuba and the U.S.: Don’t let human connections become a casualty of the blockade appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/4da66b9d6ca1e042aa71ad58.json"
-    },
-    {
-      "id": "1942f96e12b965f11b119114",
-      "title": "The global left’s mood of resignation must be lifted: The Forty-Sixth Newsletter (2026)",
-      "url": "https://mronline.org/2026/11/13/the-global-lefts-mood-of-resignation-must-be-lifted-the-forty-sixth-newsletter-2026",
-      "author": "Vijay Prashad",
-      "source": "MR Online",
-      "published_at": "2026-11-13T10:50:46+00:00",
-      "content_excerpt": "The far right can be defeated, and the openings multiplying from Brazil to India and the United States demand that movements exchange defeatism for confidence that can become a material force through organisation. The post The global left’s mood of resignation must be lifted: The Forty-Sixth Newsletter (2026) appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/1942f96e12b965f11b119114.json"
-    },
-    {
-      "id": "5fa3fcc955ca76956aa5364b",
-      "title": "DPRK throws cold water on Trump’s summit hopes",
-      "url": "https://breakthroughnews.org/2026/11/13/dprk-throws-cold-water-on-trumps-summit-hopes",
-      "author": "Ju-Hyun Park",
-      "source": "BT News",
-      "published_at": "2026-11-13T03:31:09+00:00",
-      "content_excerpt": "For nearly two years, Trump has touted a possible summit with the Democratic People’s Republic of Korea (DPRK) as an imminent possibility. While Trump became the first US leader to meet with his DPRK counterpart in 2018, his attempts since 2020 to rekindle the relationship have faltered. Last week, Washington’s hopes for a summit hit another road block of its own making. On October 31, the FBI issued a statement accusing the DPRK of conducting a massive $6.34 billion cryptocurrency theft from Binance wallets, the built-in digital accounts for users to manage exchanges. After denying the accusation, Pyongyang issued a stern response that hinted a new stance towards Washington could be forming as a matter of policy. In a statement given on November 4, Kim Yo Jong, Workers’ Party of Korea dir",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/5fa3fcc955ca76956aa5364b.json"
-    },
-    {
-      "id": "5465de0d40853edc007d8f7f",
-      "title": "What the OpenAI Incident Reveals About the U.S. ‘Frontier’ Model and China’s Open-Weight Alternative",
-      "url": "https://mronline.org/2026/11/12/what-the-openai-incident-reveals-about-the-u-s-frontier-model-and-chinas-open-weight-alternative",
-      "author": "Activist News Network",
-      "source": "MR Online",
-      "published_at": "2026-11-13T02:40:50+00:00",
-      "content_excerpt": "Struggling against AI’s very real dangers requires materially understanding the technology, the forces directing its development, and the contradictions emerging within it. The post What the OpenAI Incident Reveals About the U.S. ‘Frontier’ Model and China’s Open-Weight Alternative appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/5465de0d40853edc007d8f7f.json"
-    },
-    {
-      "id": "bcd9e33a968cd9696de0e89a",
-      "title": "Trump renews designation of Nicaragua as an ‘extraordinary threat’",
-      "url": "https://breakthroughnews.org/2026/11/12/trump-renews-designation-of-nicaragua-as-an-extraordinary-threat",
-      "author": "John Perry",
-      "source": "BT News",
-      "published_at": "2026-11-12T23:25:19+00:00",
-      "content_excerpt": "On November 3, President Trump signed an executive order declaring a “national emergency.” The “emergency” is due to “the unusual and extraordinary threat to the national security and foreign policy of the United States constituted by the situation in Nicaragua.” Supposedly, this emergency began in November 2018, has persisted for eight years and is expected to continue into 2027. The scale of the “threat” Here are some key figures by which to judge the scale of the “threat” posed by Nicaragua. First, some basics. The US population is nearly 50 times Nicaragua’s and its economy is 1,400 times bigger, with Nicaragua’s national income (GDP) only 0.07% that of the US. Second, a military comparison. Nicaragua has one of the smallest defense budgets in the Americas, devoting just 0.6% of its GD",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/bcd9e33a968cd9696de0e89a.json"
-    },
-    {
-      "id": "0000a95638d66fdc48d3bf20",
-      "title": "Hegseth’s impeachment dodge, the draft, & the troops who won’t fight | w/ Mike Prysner",
-      "url": "https://breakthroughnews.org/2026/11/12/hegseths-impeachment-dodge-the-draft-the-troops-who-wont-fight-w-mike-prysner",
-      "author": "Zoe Alexandra",
-      "source": "BT News",
-      "published_at": "2026-11-12T23:25:19+00:00",
-      "content_excerpt": "Defense Secretary Pete Hegseth dodged impeachment this week thanks to 11 no-show Democrats on Hakeem Jeffries’ watch. Mike Prysner, Iraq War veteran and executive director of the Center on Conscience and War, joins Zoe Alexandra and Rania Khalek to unpack the charges in Rep. Thomas Massie’s articles of impeachment – from an illegal war on Iran that opened with the bombing of the Minab girls’ school, to a boat strike killing spree in the Caribbean and Pacific that has left more than 230 people dead. Opposition to war got Democrats elected, Prysner says, and at the first chance to deliver, “they just completely slept on it.” Prysner says conscientious objector filings are at a 25-year high, and they nearly all cite Minab. Not afraid for their own lives, he says; they refuse to hurt people th",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/0000a95638d66fdc48d3bf20.json"
-    },
-    {
-      "id": "d17c37ccb21da00c07c2821d",
-      "title": "Israel resumes its lethal assaults on Gaza’s healthcare with new massacre at Nasser Medical complex",
-      "url": "https://breakthroughnews.org/2026/11/12/israel-resumes-its-lethal-assaults-on-gazas-healthcare-with-new-massacre-at-nasser-medical-complex",
-      "author": "Aseel Saleh",
-      "source": "BT News",
-      "published_at": "2026-11-12T22:29:34+00:00",
-      "content_excerpt": "In yet another horrific assault on Palestinian healthcare system in Gaza and a major violation of the US-brokered “ceasefire” deal, Israeli warplanes struck Nasser Medical Complex in the southern city of Khan Younis on Thursday, November 12. The deadly airstrike, which hit the Al-Yassin surgery building at the complex, killed six people and injured dozens of others. Among the dead was a 13-year-old boy and a surgeon, Dr. Rizk Abu Shaaira. Dr. Abu Shaaira who appears in the recently-released documentary “American Doctor”. Nasser Medical Complex: a target for frequent Israeli assaults The massacre is not the first Israeli offensive on the facility, as the site has been targeted in multiple previous airstrikes since day one of Israel’s genocidal aggression on the Gaza Strip. On October 7, 202",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/d17c37ccb21da00c07c2821d.json"
-    },
-    {
-      "id": "a8ef16707322704bd2066804",
-      "title": "Ex-partner of powerful far-right Latin American political operator receives asylum in Mexico",
-      "url": "https://breakthroughnews.org/2026/11/12/ex-partner-of-powerful-far-right-latin-american-political-operator-receives-asylum-in-mexico",
-      "author": "Pablo Meriguet",
-      "source": "BT News",
-      "published_at": "2026-11-12T21:36:06+00:00",
-      "content_excerpt": "Several weeks ago, Latin America listened intently to the story of a Bolivian woman who had been shot on August 17 and, from a hospital, accused her ex-partner of ordering the hit job. Despite the sordid nature of the story, the news made the front pages of several news outlets because the person making the accusation was Nadia Beller, the ex-partner of Fernando Cerimedo. Cerimedo gained political notoriety in the region as one of the most influential political operatives of the far right in Latin America. Cerimedo was involved in several campaigns supporting far-right candidates who went on to become presidents: Jair Bolsonaro in Brazil, Javier Milei in Argentina, and Nasry Asfura in Honduras. In addition, he served as an advisor to President Rodrigo Paz in Bolivia, and his possible invol",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/a8ef16707322704bd2066804.json"
     }
   ]
 }
