@@ -1,146 +1,41 @@
 {
-  "generated_at": "2026-11-14T23:15:04.488787+00:00",
-  "generated_at_jst": "2026-11-15T08:15:04.488787+09:00",
-  "period_start": "2026-11-13T17:15:04.488787+00:00",
+  "generated_at": "2026-11-15T23:28:06.938031+00:00",
+  "generated_at_jst": "2026-11-16T08:28:06.938031+09:00",
+  "period_start": "2026-11-14T17:28:06.938031+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
-  "article_count": 9,
+  "article_count": 2,
   "excerpt_chars": 800,
   "articles": [
     {
-      "id": "b0af16d7656d0f53e9f7d6d7",
-      "title": "Macklemore says nine U.S. arenas rejected Palestine benefit tour",
-      "url": "https://mronline.org/2026/11/14/macklemore-says-nine-u-s-arenas-rejected-palestine-benefit-tour",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-11-14T14:29:19+00:00",
-      "content_excerpt": "The rapper says venues withdrew available dates after learning the concerts would raise funds for Palestinians. The post Macklemore says nine U.S. arenas rejected Palestine benefit tour appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/b0af16d7656d0f53e9f7d6d7.json"
-    },
-    {
-      "id": "354ad8e6f87a62ef469b4575",
-      "title": "Nvidia – knives are out for Jensen Huang – spy allegations fanciful",
-      "url": "https://mronline.org/2026/11/14/nvidia-knives-are-out-for-jensen-huang-spy-allegations-fanciful",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-11-14T13:31:18+00:00",
-      "content_excerpt": "A follow up to the murky spy allegations against Nvidia. The post Nvidia – knives are out for Jensen Huang – spy allegations fanciful appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/354ad8e6f87a62ef469b4575.json"
-    },
-    {
-      "id": "699187e03214173e9b5e0938",
-      "title": "The civil war in France",
-      "url": "https://mronline.org/2026/11/14/the-civil-war-in-france",
-      "author": "Vijay Prashad",
-      "source": "MR Online",
-      "published_at": "2026-11-14T12:25:43+00:00",
-      "content_excerpt": "Students in the Paris suburbs came onto the streets merely to get teachers into their classrooms, to have enough desks for their classmates, and to have the state build school buildings fit for the educational experience. The post The civil war in France appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/699187e03214173e9b5e0938.json"
-    },
-    {
-      "id": "a76b08061953641bd6e0b510",
-      "title": "Spanish workers go on the offensive",
-      "url": "https://mronline.org/2026/11/14/spanish-workers-go-on-the-offensive",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-11-14T11:19:05+00:00",
-      "content_excerpt": "Euskadi-based journalist Benn Wray reports on the momentous general strike and a unique way of mobilising millions to action. The post Spanish workers go on the offensive appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/a76b08061953641bd6e0b510.json"
-    },
-    {
-      "id": "ded2bcb7db2dd18a236800a7",
-      "title": "‘Os sentidos do trabalho: Ensaio sobre a afirmação e a negação do trabalho’ by Ricardo Antunes",
-      "url": "https://mronline.org/2026/11/14/os-sentidos-do-trabalho-ensaio-sobre-a-afirmacao-e-a-negacao-do-trabalho-by-ricardo-antunes",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-11-14T10:14:03+00:00",
-      "content_excerpt": "In 1999, the first edition of the Brazilian sociologist Ricardo Antunes’s The Meanings of Work [Os sentidos do trabalho] was published. Its stakes were clear: against the idea that new communication and automation technologies were announcing the “end of work”, Antunes insisted that work remained vital, both for capital and for humanity. The post ‘Os sentidos do trabalho: Ensaio sobre a afirmação e a negação do trabalho’ by Ricardo Antunes appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/ded2bcb7db2dd18a236800a7.json"
-    },
-    {
-      "id": "cf15225f7f3ece43ca3af8f7",
-      "title": "ICE is hiding detainees from their families – and the death toll is rising",
-      "url": "https://breakthroughnews.org/2026/11/13/ice-is-hiding-detainees-from-their-families-and-the-death-toll-is-rising",
-      "author": "Zoe Alexandra",
+      "id": "b74e57756819dd60d234863d",
+      "title": "‘Monster data centers’ being built in Scotland for US tech companies met with protests",
+      "url": "https://breakthroughnews.org/2026/11/15/monster-data-centers-being-built-in-scotland-for-us-tech-companies-met-with-protests",
+      "author": "Ana Vračar",
       "source": "BT News",
-      "published_at": "2026-11-13T20:39:48+00:00",
-      "content_excerpt": "ICE just scrubbed tens of thousands of people from its Online Detainee Locator System, leaving their families and legal teams in the dark. Aaron Reichlin-Melnick, senior fellow at the American Immigration Council, joins Zoe Alexandra and Rania Khalek to break down how DHS effectively “disappeared” at least 20,000 people with final deportation orders, as deaths in custody climb and private prison giants GEO Group and CoreCivic rake in profits from ICE’s ballooning budget. Reichlin-Melnick explains how Trump’s mass deportation machine changed tactics after Operation Metro Surge in Minneapolis and the killings of Renee Good and Alex Pretti – shifting to predawn raids, targeting people at airports and their own immigration check-ins, and quietly pushing arrests to 50,000 a month. Meanwhile, at",
+      "published_at": "2026-11-15T23:07:45+00:00",
+      "content_excerpt": "Thousands of people took to the streets of Edinburgh on Saturday, November 14, to protest against the massive expansion of data centers in Scotland. “Developers want to build monster data centers across Scotland and sell them on to big US tech companies,” the Stop AI Data Centers Scotland coalition wrote in the protest announcement. “There are over 20 already proposed and more in the pipeline, which would demand twice as much electricity as Scotland’s peak usage. This has huge consequences for our energy bills, water, health, communities, climate and nature.” Dozens of organizations that joined the coalition and protest – including climate justice associations, anti-war groups, and trade unions – have demanded accountability from the Scottish government: a pause on expansion plans, proper ",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/cf15225f7f3ece43ca3af8f7.json"
+      "article_path": "articles/b74e57756819dd60d234863d.json"
     },
     {
-      "id": "793fd1860f4ded637ddcb372",
-      "title": "Call of Duty: Modern Warfare 4 | Propaganda for US war in Korea?",
-      "url": "https://breakthroughnews.org/2026/11/13/call-of-duty-modern-warfare-4-propaganda-for-us-war-in-korea",
-      "author": "Amanda Yee",
+      "id": "595267133082aca2e47be80d",
+      "title": "Iran warns there will be no geographical limit to its retaliation",
+      "url": "https://breakthroughnews.org/2026/11/15/iran-warns-there-will-be-no-geographical-limit-to-its-retaliation",
+      "author": "Abdul Rahman",
       "source": "BT News",
-      "published_at": "2026-11-13T19:35:17+00:00",
-      "content_excerpt": "The new Call of Duty: Modern Warfare 4 just dropped, and it’s already mired in controversy. The game simulates urban warfare in Seoul, casting players as a South Korean marine fighting off an invasion from the DPRK. Is this video game harmless entertainment, or is it sophisticated imperialist propaganda designed to “manufacture consent” for war against North Korea and normalize US militarism? Ju-Hyun Park, organizer with Nodutdol for Korean Community Development and director of engagement at Breakthrough News, joins Amanda Yee to break down the dangerous political messaging behind Modern Warfare 4.",
+      "published_at": "2026-11-15T23:07:45+00:00",
+      "content_excerpt": "In the latest round of “tit-for-tat” attacks, Iran claimed it destroyed the US army’s early warning radar system in Bahrain on Friday, November 13, in retaliation to its attack against its telecommunication tower in Sirik earlier. In the statement , the Islamic Revolutionary Guard Corps (IRGC) also reiterated the warning to the “aggressor enemy to cease its aerial provocations and oil smuggling in the Strait of Hormuz” and other countries aiding in its aggression. Meanwhile, the Iranian Navy claimed at least two more oil tankers caught fire after they violated its warnings and tried to enter the prohibited area of the Strait of Hormuz on Thursday. The tankers had switched off their radar system and entered the “unsafe” area when they hit sea mines and caught fire, it claimed. In recent wee",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/793fd1860f4ded637ddcb372.json"
-    },
-    {
-      "id": "4aea3bcf5b11d54a1c7fe61c",
-      "title": "Congolese president signs referendum bill that could allow for a third-term",
-      "url": "https://breakthroughnews.org/2026/11/13/congolese-president-signs-referendum-bill-that-could-allow-for-a-third-term",
-      "author": "Nicholas Mwangi",
-      "source": "BT News",
-      "published_at": "2026-11-13T18:32:45+00:00",
-      "content_excerpt": "Democratic Republic of Congo (DRC) President Félix Tshisekedi has promulgated a controversial law establishing the conditions for holding referendums. Opposition parties, civil society groups and grassroots movements have previously said it could allow him to seek a third term. The signing follows more than five months of protests, court challenges, and street mobilization against the law. The promulgation was announced on national television late on Tuesday, November 10. “The President of the Republic, Félix-Antoine Tshisekedi Tshilombo, promulgated, on November 10, 2026, through an ordinance, the law setting the conditions for the organization of the referendum in the Democratic Republic of Congo,” state broadcaster RTNC reported. Roger Kalenga, Deputy Spokesperson for the Head of State,",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/4aea3bcf5b11d54a1c7fe61c.json"
-    },
-    {
-      "id": "1057b15ed87e94eea1fc5994",
-      "title": "Keytruda was built on public science. Why does Merck own the rewards?",
-      "url": "https://breakthroughnews.org/2026/11/13/keytruda-was-built-on-public-science-why-does-merck-own-the-rewards",
-      "author": "David Franco",
-      "source": "BT News",
-      "published_at": "2026-11-13T17:36:37+00:00",
-      "content_excerpt": "Keytruda is often presented as the ultimate success story of modern pharmaceutical innovation. And in one sense, that is true. Few medicines have transformed oncology as profoundly as pembrolizumab. It has extended survival in melanoma, lung cancer, and many other malignancies, and it has helped turn immune checkpoint inhibition from a scientific hypothesis into a clinical reality. For many patients, it has meant years of life that previously had few options at all. But that is only one part of the story. The other part is far less comfortable. Keytruda is not just a breakthrough drug. It is also a striking example of how the contemporary pharmaceutical system works: publicly funded science lays the foundation, private firms take control of the resulting assets, monopoly rights determine p",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/1057b15ed87e94eea1fc5994.json"
+      "article_path": "articles/595267133082aca2e47be80d.json"
     }
   ]
 }

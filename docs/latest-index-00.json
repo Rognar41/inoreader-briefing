@@ -1,12 +1,192 @@
 {
-  "generated_at": "2026-11-14T23:15:04.488787+00:00",
-  "generated_at_jst": "2026-11-15T08:15:04.488787+09:00",
-  "period_start": "2026-11-13T17:15:04.488787+00:00",
+  "generated_at": "2026-11-15T23:28:06.938031+00:00",
+  "generated_at_jst": "2026-11-16T08:28:06.938031+09:00",
+  "period_start": "2026-11-14T17:28:06.938031+00:00",
   "lookback_hours": 30,
   "folder": "00_毎日確認",
   "article_count": 20,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "37b3cfdd9c1569ed1cd32af8",
+      "title": "U.S. Imperialism in the Middle East After the Midterms",
+      "url": "https://newpol.org/u-s-imperialism-in-the-middle-east-after-the-midterms",
+      "author": "Gilbert Achcar, Mike Noonan",
+      "source": "New Politics",
+      "published_at": "2026-11-15T19:49:55+00:00",
+      "content_excerpt": "Gilbert Achcar answers questions on the Iran war, Israel-Palestine, and Middle East regional dynamics. The post U.S. Imperialism in the Middle East After the Midterms appeared first on New Politics .",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/37b3cfdd9c1569ed1cd32af8.json"
+    },
+    {
+      "id": "74a11845aed3169b7bef865e",
+      "title": "Madness of Nuclear War",
+      "url": "https://www.laprogressive.com/war-and-peace/madness-of-nuclear-war",
+      "author": "Lawrence S. Wittner",
+      "source": "LA Progressive",
+      "published_at": "2026-11-15T16:44:26+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Is there a connection between mental illness and nuclear weapons? The behavior of Donald Trump?whose mental stability has long been questioned by psychologists and other mental health professionals?has called attention to this issue. In March and early April of this year, he threatened to launch massive military strikes against Iranian energy and nuclear infrastructure, proclaiming on April 5 : “There will be nothing like it!!! Open the Fuckin’ Strait, you crazy bastards, or you’ll be living in Hell – JUST WATCH!” On April 7, he warned : “A whole civilization will die tonight, never to be brought back again. I don’t want that to happen, but it probably will.” Addressing the",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/74a11845aed3169b7bef865e.json"
+    },
+    {
+      "id": "6129925a92babc519163a7dd",
+      "title": "On Clear Tasks and Meetings",
+      "url": "https://rocdsa.org/blog/on-clear-tasks-and-meetings",
+      "author": "Rochester Red Star: News from Rochester DSA",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-11-15T16:02:13+00:00",
+      "content_excerpt": "by Jean Allen This essay is written in support of my convention resolution, For A Collectively Printed & Distributed Red Star . In it, I am motioning that we budget $3,600 for a printer and future printing costs through the year, and I understand that seems to be a lot. It will be compared to other front-facing work we have, other important committees, and people will ask why we should devote so much energy, time, and money to our publication? This resolution should be seen more as a partial solution to a problem brought up by our ambitions. In our first long term planning retreat, we agreed to aim for a membership of 1000 within the next five years. Some comrades have brought up fears that are, broadly, about the quality of that new mass membership. What if they are liberals, or reactiona",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/6129925a92babc519163a7dd.json"
+    },
+    {
+      "id": "a00dad85e7be25d8dabc2970",
+      "title": "We Can Abolish the Electoral College in 2027",
+      "url": "https://socialistcall.com/2026/11/15/we-can-abolish-the-electoral-college-in-2027",
+      "author": "Will Bloom",
+      "source": "The Call",
+      "published_at": "2026-11-15T15:17:01+00:00",
+      "content_excerpt": "With Democrats taking trifectas in state governments they have not held for a long time, DSA can campaign to get rid of a deeply undemocratic feature of our political life: the Electoral College. The newly blue state governments mean we can functionally end the Electoral College through the National Popular Vote Interstate Compact (NPVIC) . At a moment where a Democratic Congress is likely to be more focused on oversight than on legislating, DSA could accomplish something meaningful and powerful that actually inches our country toward democracy. What Is the National Popular Vote Interstate Compact? The Electoral College is a wholly undemocratic way to elect the most powerful individuals in the world. Candidates for President and Vice President are not elected by the people but by “electors",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/a00dad85e7be25d8dabc2970.json"
+    },
+    {
+      "id": "6a8d5167fccdbaeb29ecc1b7",
+      "title": "South Africa’s ANC Is Collapsing. The Far Right Is Rising.",
+      "url": "https://jacobin.com/2026/11/south-africa-elections-anc-working-class",
+      "author": "Zwelinzima Vavi",
+      "source": "Jacobin",
+      "published_at": "2026-11-15T14:16:07+00:00",
+      "content_excerpt": "While the global left celebrates the recent successes of the Workers’ Party in Brazil and the Democratic Socialists of America in the United States, the African National Congress (ANC) has suffered a historic collapse in South Africa’s November 4 local government elections. After three decades of mass unemployment, deepening inequality, corruption, and economic policies that have failed the working class, the former liberation movement is losing its political authority. The principal beneficiaries of the ANC’s electoral rout are parties of the Right, including an increasingly powerful far right that has built its project around aggressive and often violent xenophobia. With more than 70 percent of votes counted, the ANC’s national share of the vote fell to around 32 percent. The ANC is not ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/6a8d5167fccdbaeb29ecc1b7.json"
+    },
+    {
+      "id": "f296bbffc3c85489e041c082",
+      "title": "A Childlike Devotion Runs Through Godzilla Minus Zero",
+      "url": "https://jacobin.com/2026/11/review-yamazaki-godzilla-minus-zero",
+      "author": "Eileen Jones",
+      "source": "Jacobin",
+      "published_at": "2026-11-15T14:16:07+00:00",
+      "content_excerpt": "There’s a familiar but always thrilling moment in Godzilla Minus Zero when Godzilla is fighting the newer, faster, entirely more visually glamorous monster King Ghidorah — an immense three-headed, golden-ray-shooting dragon that seems set on destroying the human race — and Godzilla is losing. In fact, it seems Godzilla is beaten and dying. But then Godzilla goes deep and dredges up the last of his prehistoric mojo and comes back to win the brutal kaiju battle. Godzilla the destroyer from the sea becomes Godzilla the hero and savior of the Japanese protagonists watching in wide-eyed terror. All the viewer’s childhood love of Godzilla, who lumbers around on big, squat feet like a crude, clumsy dinosaur based on some devoted but impractical kid’s drawing, surges to the fore. Writer-director-C",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/f296bbffc3c85489e041c082.json"
+    },
+    {
+      "id": "8b33ab8b3ab81f14421fc3b6",
+      "title": "Under Capitalism, Even Kids’ Playtime Is Alienated",
+      "url": "https://jacobin.com/2026/11/capitalism-work-children-play-alienation",
+      "author": "Evelina Johansson Wilén",
+      "source": "Jacobin",
+      "published_at": "2026-11-15T14:16:07+00:00",
+      "content_excerpt": "A central concern of feminist Marxist theory and practice has been how to understand the relationship between paid and unpaid labor. Marxist feminists have drawn on Karl Marx’s observation that capital leaves workers to ensure their own reproduction, a process that depends on their instinct for self-preservation. They have shown how capitalist accumulation depends on reproductive labor, work that has fallen primarily to women. But what, exactly, is being reproduced? Workers must replenish their strength so that they can work again the next day; importantly, reproduction also encompasses bearing children and creating future labor power. But it does not stop there of course: children must then be shaped into capable workers, a process that does not happen by itself and in which social reprod",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/8b33ab8b3ab81f14421fc3b6.json"
+    },
+    {
+      "id": "c07163560e745768385b53d3",
+      "title": "France’s “Hot Autumn” Is Boosting the Left",
+      "url": "https://jacobin.com/2026/11/france-insoumise-school-protests-election",
+      "author": "Stathis Kouvelakis",
+      "source": "Jacobin",
+      "published_at": "2026-11-15T14:16:07+00:00",
+      "content_excerpt": "Since mid-September, a wave of protest has swept across France. High school students in working-class banlieues (suburbs) and the overseas territories started it by occupying their schools. University students, teachers, trade unionists, and a new generation of yellow vests ( gilets jaunes ) soon joined them. On November 5, about 1.6 million people took to the streets in two hundred cities. Emmanuel Macron’s government has answered with the harshest crackdown in half a century. Police have arrested more than ten thousand people, most of them teenagers. A new “Rioters Pay” bill would punish protesters for acts they did not personally commit. Meanwhile, the far right is stoking a racist backlash, and, on October 23, a far-right gunman killed a young man in Trappes. Stathis Kouvelakis has liv",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/c07163560e745768385b53d3.json"
+    },
+    {
+      "id": "a828b9cfda8458b33ee1ecdc",
+      "title": "Blue Wave Rejected Trump",
+      "url": "https://www.laprogressive.com/racism/blue-wave-rejected-trump",
+      "author": "Erin Aubry Kaplan",
+      "source": "LA Progressive",
+      "published_at": "2026-11-15T13:57:28+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. The historic shellacking voters delivered to President Donald Trump and the GOP Tuesday already has many names — stinging rebuke, rejection, repudiation, reset. Analysts’ consensus is that the blue wave was a response to what so many Americans could see and feel every day — soaring prices, the effects of a needless war, blatant corruption at the top, all led by an erratic and increasingly unpopular president who openly dismissed the concerns of average people. The message was: enough. For anyone alarmed about the country’s Trump-led decline, the midterm results are beyond heartening, the best possible outcome. At the very least — and this is still huge — a Democratic takeov",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/a828b9cfda8458b33ee1ecdc.json"
+    },
+    {
+      "id": "5a6f3607e40263a30382fec0",
+      "title": "Global Left Rising",
+      "url": "https://www.laprogressive.com/progressive-issues/global-left-rising",
+      "author": "Vijay Prashad",
+      "source": "LA Progressive",
+      "published_at": "2026-11-15T13:27:02+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Europe’s streets remain aflame with a population angry about how their war economies have utterly ignored their own people. Across the Atlantic, a fierce mobilisation in Brazil and the United States produced election results that favour the good side of history, without their own potential being exaggerated. The reaction of people in the Americas and Europe at present is that the abysmal growth rates due to the low investment in their own countries results in households cutting meals, in young people postponing independent lives, and in workers earning wages that cannot meet their Strait of Hormuz inflation expenses. Even if an eventual lower rate of inflation eventually sl",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/5a6f3607e40263a30382fec0.json"
+    },
+    {
+      "id": "fe59fe35dd7190895dc91e3b",
+      "title": "The Republic on Trial",
+      "url": "https://www.laprogressive.com/progressive-issues/the-republic-on-trial",
+      "author": "Peter McLaren",
+      "source": "LA Progressive",
+      "published_at": "2026-11-15T13:02:01+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. On November 9, 2026, six days after the midterm elections, Donald Trump returned to a familiar accusation. Democrats had achieved what commentators were calling a blue tsunami, capturing control of both chambers of Congress and making substantial gains in states and districts that had long been regarded as Republican strongholds. Trump had initially indicated that he would accept the results. On election night, he told The New York Times that he was “absolutely willing” to do so. In an interview broadcast by CBS's 60 Minutes on November 8, he acknowledged the Republican losses and offered his explanation: he had not been on the ballot, and voters were unhappy with the econo",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/fe59fe35dd7190895dc91e3b.json"
+    },
+    {
+      "id": "9ed6471bbf5ae2e92a0468e3",
+      "title": "Air Traffic Controllers",
+      "url": "https://www.laprogressive.com/progressive-issues/air-traffic-controllers",
+      "author": "Brett Wilkins",
+      "source": "LA Progressive",
+      "published_at": "2026-11-15T12:54:08+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Air traffic controllers are rejecting US Transportation Secretary Sean Duffy’s explanation for Friday’s nationwide flight ground stop, raising questions about the Trump administration’s account of a communications failure that disrupted air travel across the United States , affecting an estimated 1.5 million travelers. Washington Examiner homeland security reporter Anna Giaritelli told CNN’s Laura Coates during a Friday night interview that she’d spoken with 60 air traffic controllers about the Federal Aviation Administration (FAA) ground stop, which was just the third to ever occur. “None of them are buying what he said,” Giaritelli said. “The controllers were saying, ‘We ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/9ed6471bbf5ae2e92a0468e3.json"
+    },
     {
       "id": "6fce3c200ecd302d905c1fde",
       "title": "Questions to Ask Before Hiring an Injury Attorney",
@@ -126,186 +306,6 @@
       "priority": 1,
       "date_missing": false,
       "article_path": "articles/58ca70f55b0b3e18e2871c7a.json"
-    },
-    {
-      "id": "8c88a720f086b7d4d7ba4ed5",
-      "title": "American Bully Dogs",
-      "url": "https://www.laprogressive.com/sponsored/american-bully-dogs",
-      "author": "Sejal Desai",
-      "source": "LA Progressive",
-      "published_at": "2026-11-14T20:03:24+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. With its broad chest, muscular frame, and wide, expressive face, the American Bully is hard to ignore. Behind the powerful look is a dog known for affection, loyalty, and a strong bond with its family. Many owners describe them as big softies who want to be wherever their people are. That personality comes with real responsibilities. This is a strong, energetic, people-focused dog that needs training, care, and attention. Understanding the breed before you commit makes the difference between a happy match and a frustrating one. Here is what to consider, from choosing a puppy to setting up your home. Understanding the American Bully Breed The American Bully emerged in the Un",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/8c88a720f086b7d4d7ba4ed5.json"
-    },
-    {
-      "id": "44e1e6a6cee778da37949a6f",
-      "title": "Enjoy Electric Off-Road Riding",
-      "url": "https://www.laprogressive.com/sponsored/enjoy-electric-off-road-riding",
-      "author": "Britta Hedlund",
-      "source": "LA Progressive",
-      "published_at": "2026-11-14T19:41:46+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. The appeal of off-road riding goes beyond speed. It's about exploring trails, experiencing different terrain, and sharing memorable weekends with friends and family. As electric technology becomes part of off-road recreation, riders have more ways to enjoy the outdoors. Compared with traditional gas-powered dirt bikes, electric models reduce engine noise while retaining responsive power and exciting off-road performance, bringing a different experience to weekend adventures. How Quieter Power Changes the Outdoor Experience The roar of a gas-powered dirt bike is familiar to many riders. But for outdoor enthusiasts who enjoy spending time in natural surroundings, a quieter ri",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/44e1e6a6cee778da37949a6f.json"
-    },
-    {
-      "id": "a28aa1eb3cdbf05aeac560f8",
-      "title": "Agency Open edX Developer",
-      "url": "https://www.laprogressive.com/sponsored/agency-open-edx-developer",
-      "author": "Tiqua Jackson",
-      "source": "LA Progressive",
-      "published_at": "2026-11-14T19:41:18+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Introduction The decision to employ an in-house Open edX developer or partner with a specialist agency dictates the entire operating model for a learning platform. The optimal choice depends directly on the specific shape of the development roadmap, and this strategic alignment takes precedence over the headline developer rate. US engineering leaders evaluate the total volume of platform work required throughout the year and assess whether that workload demands a single specialized skill set or multiple technical disciplines. The speed at which engineering capacity must be deployed is weighed alongside long-term platform ownership. Decisions regarding who will maintain syst",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/a28aa1eb3cdbf05aeac560f8.json"
-    },
-    {
-      "id": "37c9b866b596db92475d52d8",
-      "title": "Weakening the Very Courts",
-      "url": "https://www.laprogressive.com/law-and-justice/weakening-the-very-courts",
-      "author": "Stephen Rohde",
-      "source": "LA Progressive",
-      "published_at": "2026-11-14T18:26:30+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Courtesy of Los Angeles Lawyer Magazine As the Supreme Court begins its new term, with some very important cases on its docket, [1] we must take a serious look at what the Court—or, more specifically, the six-member conservative supermajority of justices appointed by Republican presidents—has done thus far in President Donald J. Trump’s second term. Not only has the Roberts Court cleared the way for Trump’s aggressive agenda to be implemented, thereby vastly expanding unchecked presidential power, it has done so by enlarging its own power and displacing and degrading the role of the lower federal courts. This is the disturbing conclusion of “The Court Against the Courts,” a",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/37c9b866b596db92475d52d8.json"
-    },
-    {
-      "id": "fdecc1d1a8603fb5298e082d",
-      "title": "Diversity, Equity & Inclusion",
-      "url": "https://www.laprogressive.com/racism/diversity-equity-inclusion",
-      "author": "W. D. Ehrhart",
-      "source": "LA Progressive",
-      "published_at": "2026-11-14T16:26:40+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. During the first Trump administration, Donald Trump made clear his opposition to anything promoting Diversity, Equity, and Inclusion (DEI). Almost immediately after he was sworn in for a second time, Trump attacked DEI with a vengeance, issuing an executive order requiring federal agencies and contactors to disband DEI programs, and aggressively pursuing policies designed to erase any evidence that DEI or the fruits of DEI had ever existed. This included, but was hardly limited to, purging federal contractors, universities, and corporations of anything that smacked of DEI. Trump supporters at almost every level reflected this animosity, often arguing that DEI was really a w",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/fdecc1d1a8603fb5298e082d.json"
-    },
-    {
-      "id": "6f12c5278e8b6f1ad77583ce",
-      "title": "Inside Colombia’s FARC, as Victory Gave Way to Survival",
-      "url": "https://jacobin.com/2026/11/farc-colombia-guerrillas-defeat-memoir",
-      "author": "Oliver Dodd",
-      "source": "Jacobin",
-      "published_at": "2026-11-14T16:21:36+00:00",
-      "content_excerpt": "In the early hours of September 23, 2010, Tanja Nijmeijer was awakened by a bomb in a FARC guerrilla camp in the Colombian jungle. The strike landed on her commander’s bunker, followed by screams from her comrades. Moments later, dozens of aircraft roared above and launched another wave of bombs. Nijmeijer grabbed her rifle and dived into her foxhole. As the ground shook around her, she closed her eyes, tensed her body and thought: Aquí fue — this is it. Seven years earlier, when the Dutch internationalist had first entered the jungle to join the Fuerzas Armadas Revolucionarias de Colombia (FARC), the war looked very different. She remembers it as “the calm before the storm,” with abundant supplies, comparatively large and settled camps, and a degree of security. Nijmeijer’s autobiography,",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/6f12c5278e8b6f1ad77583ce.json"
-    },
-    {
-      "id": "a75972b06c1fde99fdcc18a0",
-      "title": "Where Is the Democrats' Plan",
-      "url": "https://www.laprogressive.com/progressive-issues/where-is-the-democrats-plan",
-      "author": "Julianne Malveaux, PhD",
-      "source": "LA Progressive",
-      "published_at": "2026-11-14T16:11:34+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. A candidate for mayor of Washington, D.C., is promising to take on the rats. Janeese Lewis George proposes appointing a rat czar, and while I would welcome relief from the rodents that have plagued this city for decades, I suspect the rats have survived enough administrations to know the difference between a campaign announcement and a threat to their continued prosperity. Before they pack their bags, they may want to see the budget. Voters ought to be at least as discerning. People will say almost anything during a campaign, especially when they have identified something that makes us angry, frightened, or exhausted. The challenge is to distinguish a promise that earns app",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/a75972b06c1fde99fdcc18a0.json"
-    },
-    {
-      "id": "b08300670b4e82442e5e70e5",
-      "title": "Health Care Cuts",
-      "url": "https://www.laprogressive.com/healthcare/reverse-trumps-health-care-cuts",
-      "author": "Mark Kreidler",
-      "source": "LA Progressive",
-      "published_at": "2026-11-14T15:46:39+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Congressional Democrats will want to burst out of the gate next year by quickly addressing the affordability issues that voters have said are critical to them, especially around health care. Then again, Donald Trump is still president. Is it gridlock? Not necessarily, some policy observers say. By skillfully deploying their majority strength in both the House and Senate, the Democrats may be able to restore some of the cuts made to Medicaid and the Affordable Care Act, among other programs. It’ll be arduous, and it is certainly political work. But the chance for progress is there. “I can imagine Democrats negotiating with President Trump on a partial delay of Medicaid cuts ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/b08300670b4e82442e5e70e5.json"
-    },
-    {
-      "id": "05f26fbf9f898d71484165e7",
-      "title": "Organizing for Tenant and Political Power in Montana",
-      "url": "https://jacobin.com/2026/11/interview-bozeman-montana-forstag-tenant-unions",
-      "author": "Benjamin Finegan",
-      "source": "Jacobin",
-      "published_at": "2026-11-14T15:31:16+00:00",
-      "content_excerpt": "Sam Forstag, a smoke jumper and union leader, flipped western Montana’s US House seat blue in last week’s midterm elections. He is the first Democrat from Montana elected to the US House in more than thirty years, having run on a grassroots progressive campaign that brought together labor unions, environmental organizations, indigenous groups, and tenant unions. Alexandria Ocasio-Cortez played a significant role in Forstag’s upset victory in the Democratic primary. She endorsed Forstag when he was trailing by 20 points and traveled to Missoula for a get-out-the-vote rally. Missoula County carried Forstag to a narrow primary victory, with Democratic primary turnout increasing 23 percent from 2024. Bozeman Tenants United (BTU) endorsed Forstag for the general election and campaigned for him ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/05f26fbf9f898d71484165e7.json"
-    },
-    {
-      "id": "5e641b2d708c98cf06de1b4f",
-      "title": "CT DSA Greater Hartford Branch Statement on the Outcome of the Everard Walker Murder",
-      "url": "https://ctdsa.org/statement-on-the-outcome-of-the-everard-walker-murder",
-      "author": "Connecticut DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-11-14T15:28:21+00:00",
-      "content_excerpt": "November 13, 2026 On November 10th, 2026, the Connecticut Inspector General’s office released a predictable, yet nonetheless disgraceful, report justifying […]",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/5e641b2d708c98cf06de1b4f.json"
-    },
-    {
-      "id": "5cde6e034aabf30d76e311f5",
-      "title": "Scopes Trial",
-      "url": "https://www.laprogressive.com/racism/scopes-trial",
-      "author": "Berry Craig",
-      "source": "LA Progressive",
-      "published_at": "2026-11-14T15:24:11+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. \"The Christian Nationalist Agenda Is Dead,\" trumpeted the headline in a November 5 Texas Monthly story, though the subhead was a qualifier: \"For now, anyway.\" Christian nationalism is the rock upon which the MAGA church was largely built. \"Christian Nationalism may not have been explicitly on the ballot,\" wrote Robert Downen. \"But Anthea Butler, chair of the religious-studies department at the University of Pennsylvania, said it’s hard not to see [Nov. 3] as, at least in part, a rebuke of its hard-line and exclusionary views.\" To quote the immortal Coach Corso , “Not so fast, my friend.” Related: Jim Crow Said This Could Never Happen: Mayfield Just Elected a Black Mayor One",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/5cde6e034aabf30d76e311f5.json"
-    },
-    {
-      "id": "efcee5fe303cd94a2143e31b",
-      "title": "Progressive” Voters",
-      "url": "https://www.laprogressive.com/election-and-campaigns/progressive-voters",
-      "author": "Paul Kleyman",
-      "source": "LA Progressive",
-      "published_at": "2026-11-14T15:11:41+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. While midterm voters spelled relief “B-L-U-E,” chucking out the bums on their ruddy baboon butts, it didn’t take a day for the middling media to muddle over polling data and declare that “radical” progressives, notably Michigan’s Senator-elect Abdul El-Sayed, had statistically “underperformed” more moderate Democratic victors. Michigan’s new Governor Jocelyn Benson, for instance, beat her Republican rival by 11%, compared with El-Sayed’s 7% margin, a healthy edge by any other electoral standard. That El-Sayed won so handily, if short of Benson’s margin, was quickly sniffed at by mainstream writers at the New York Times , CNN and other media, portending a Dem dilemma for the",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/efcee5fe303cd94a2143e31b.json"
     }
   ]
 }
