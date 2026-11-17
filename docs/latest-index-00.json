@@ -1,311 +1,236 @@
 {
-  "generated_at": "2026-11-15T23:28:06.938031+00:00",
-  "generated_at_jst": "2026-11-16T08:28:06.938031+09:00",
-  "period_start": "2026-11-14T17:28:06.938031+00:00",
+  "generated_at": "2026-11-17T02:33:24.130448+00:00",
+  "generated_at_jst": "2026-11-17T11:33:24.130448+09:00",
+  "period_start": "2026-11-15T20:33:24.130448+00:00",
   "lookback_hours": 30,
   "folder": "00_毎日確認",
-  "article_count": 20,
+  "article_count": 15,
   "excerpt_chars": 800,
   "articles": [
     {
-      "id": "37b3cfdd9c1569ed1cd32af8",
-      "title": "U.S. Imperialism in the Middle East After the Midterms",
-      "url": "https://newpol.org/u-s-imperialism-in-the-middle-east-after-the-midterms",
-      "author": "Gilbert Achcar, Mike Noonan",
-      "source": "New Politics",
-      "published_at": "2026-11-15T19:49:55+00:00",
-      "content_excerpt": "Gilbert Achcar answers questions on the Iran war, Israel-Palestine, and Middle East regional dynamics. The post U.S. Imperialism in the Middle East After the Midterms appeared first on New Politics .",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/37b3cfdd9c1569ed1cd32af8.json"
-    },
-    {
-      "id": "74a11845aed3169b7bef865e",
-      "title": "Madness of Nuclear War",
-      "url": "https://www.laprogressive.com/war-and-peace/madness-of-nuclear-war",
-      "author": "Lawrence S. Wittner",
+      "id": "5c953fba67165855ef5e1e29",
+      "title": "America Needs a Truth Commission",
+      "url": "https://www.laprogressive.com/racism/america-needs-a-truth-commission",
+      "author": "Jared O. Bell",
       "source": "LA Progressive",
-      "published_at": "2026-11-15T16:44:26+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Is there a connection between mental illness and nuclear weapons? The behavior of Donald Trump?whose mental stability has long been questioned by psychologists and other mental health professionals?has called attention to this issue. In March and early April of this year, he threatened to launch massive military strikes against Iranian energy and nuclear infrastructure, proclaiming on April 5 : “There will be nothing like it!!! Open the Fuckin’ Strait, you crazy bastards, or you’ll be living in Hell – JUST WATCH!” On April 7, he warned : “A whole civilization will die tonight, never to be brought back again. I don’t want that to happen, but it probably will.” Addressing the",
+      "published_at": "2026-11-17T00:16:40+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. A few weeks ago, during a trip to the Philippines, I made my way across congested Manila to Bantayog ng mga Bayani, the memorial in Quezon City to Filipinos who resisted Ferdinand Marcos. The Wall of Remembrance outside, inscribed with the names of those who died resisting, was overrun with grass. I asked one guard where to find the museum, then another, before finding it around a corner. The receptionist asked who I was with. I told her I was a professor and researcher. She indicated to me that there were no tours on Monday and that I’d be free to tour the museum on my own. The museum was worn, its displays far smaller than the story they told of one of the most precarious",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/74a11845aed3169b7bef865e.json"
+      "article_path": "articles/5c953fba67165855ef5e1e29.json"
     },
     {
-      "id": "6129925a92babc519163a7dd",
-      "title": "On Clear Tasks and Meetings",
-      "url": "https://rocdsa.org/blog/on-clear-tasks-and-meetings",
-      "author": "Rochester Red Star: News from Rochester DSA",
+      "id": "d0a49b58bbc6dcd074dda535",
+      "title": "Fight Facing the New Congress",
+      "url": "https://www.laprogressive.com/election-and-campaigns/fight-facing-the-new-congress",
+      "author": "Roxanne D. Brown",
+      "source": "LA Progressive",
+      "published_at": "2026-11-16T23:15:44+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. We sent a clear message on Election Day about what we want from the next Congress—affordability, accountability, and an economy that works for all. We’re disgusted with empty promises from a government that lavishes ever more on the do-nothing rich while working families fall further into the margins. We’ve had it with CEOs pocketing obscene sums while doling out scraps to everyone else and with billionaires frittering away huge sums to divide us. But tens of millions of working people just took back the wheel. We demonstrated how powerful we are when we come together. We showed that the future belongs to us , not to the 1 percent. And make no mistake, the path forward mean",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/d0a49b58bbc6dcd074dda535.json"
+    },
+    {
+      "id": "6eaad2e3425407b67f3c758d",
+      "title": "Single-Payer Healthcare Deadlock",
+      "url": "https://www.laprogressive.com/healthcare/single-payer-healthcare-deadlock",
+      "author": "Larry Gross",
+      "source": "LA Progressive",
+      "published_at": "2026-11-16T23:01:56+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. California would seem to be the most likely state to enact a true single-payer healthcare program [SP]. After all, SP is favored by majorities, including Republicans. However, successive legislative efforts to pass CalCare, the SP plan sponsored by the California Nurses Association [CNA], have been killed by Democratic leaders before they could come to a vote. Actually, that’s not quite true: SP bills were passed by the CA legislature twice, when Republican governor Arnold Schwarzenegger promised to veto them. When Democrat Gavin Newsom, who ran on a SP platform and was supported by CNA, was elected, he made sure that no SP bill ever reached his desk. The reason for the rep",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/6eaad2e3425407b67f3c758d.json"
+    },
+    {
+      "id": "14f0608abe44747071b2723c",
+      "title": "War Budget Is a Path to Spiritual Death",
+      "url": "https://www.laprogressive.com/war-and-peace/war-budget-is-a-path-to-spiritual-death",
+      "author": "Ryan Wentz",
+      "source": "LA Progressive",
+      "published_at": "2026-11-16T22:26:43+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. In the coming weeks, Congress will be voting on Trump’s proposed $1.5 trillion war budget, double the number it was under Biden, which, of course, was already far too high. If passed, the U.S. military budget will be larger than the military budgets of the next 34 countries combined. Thirty-four countries combined. What’s more, while the Pentagon has been audited eight times, not once has it passed. In 1967, Martin Luther King Jr. declared: “A nation that continues year after year to spend more money on military defense than on programs of social uplift is approaching spiritual death.” Think about what we should be spending money on: programs of social uplift — programs lik",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/14f0608abe44747071b2723c.json"
+    },
+    {
+      "id": "441687f59118637bd9a22345",
+      "title": "Inside the Epic Battle Over Control of a CA Grocery Union",
+      "url": "https://jacobin.com/2026/11/ufcw-local-8-elections-democracy-reform",
+      "author": "Chris Brooks",
+      "source": "Jacobin",
+      "published_at": "2026-11-16T21:22:55+00:00",
+      "content_excerpt": "Eric Marcuz is one of the most naturally gifted rank-and-file organizers I have ever met. Overflowing with passion for his union, love for his coworkers, and C4 Energy drinks, he has been spending what little time he has outside of working full time as a dairy clerk at a Safeway grocery store in Redding, California, driving for hours to visit grocery stores across the state and talk with his fellow union members. Marcuz is running for president of United Food and Commercial Workers (UFCW) Local 8–Golden State as part of the At What Cost slate, a group of seven rank-and-file grocery workers who are committed to giving their coworkers something that should be taken for granted: an opportunity to choose who leads their union. Standing in their way are staff supporters of Jacques Loveall, the ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/441687f59118637bd9a22345.json"
+    },
+    {
+      "id": "fd9e3f763ed5f469e72417f7",
+      "title": "Jesus' Message",
+      "url": "https://www.laprogressive.com/science-and-religion/jesus-message",
+      "author": "Peter Laarman",
+      "source": "LA Progressive",
+      "published_at": "2026-11-16T20:13:45+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Not so fast with the sheep and goats talk… As a longtime student of Bad Religion and its many manifestations, I tend to be on my guard when the New Testament gets into the news. When this happens, there is often something hinky going on. Matthew 25 recently made it all the way into the New York Times because of the number of politicians with winning midterm campaigns who are proud to call themselves “Matthew 25 Christians.” Had the Times reporter scratched a little deeper, she would have seen that the political deployment of this New Testament chapter, specifically its final section (vv. 31-46), is actually nothing new. Operatives for Barack Obama deployed it in 2008 ; and ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/fd9e3f763ed5f469e72417f7.json"
+    },
+    {
+      "id": "09f6c82e17744118832e480a",
+      "title": "Resistance Runs Deep",
+      "url": "https://uaw.org/resistance-runs-deep",
+      "author": "Joe Simpson",
+      "source": "UAW",
+      "published_at": "2026-11-16T19:34:19+00:00",
+      "content_excerpt": "Resistance Runs Deep Lessons of Collective Action and Solidarity from the Underground Railroad At The Water’s Edge In the 1800s, the deep, dark currents of the Detroit River held both danger and deliverance. On the last stretch of a grueling journey, freedom seekers might find themselves at the water’s edge, hearts pounding with fear and anticipation. On the opposite shore lay Canada, where slavery had been abolished and a new life finally hovered within reach. No more stolen labor, stooping over crops sunup to sundown for enslavers’ profit. No more whipping posts and auction blocks and families ripped apart. For the first time, their humanity would be recognized by the law. public domain Info Info “I do not recollect of ever seeing my mother by the light of day. She was with me in the nig",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/09f6c82e17744118832e480a.json"
+    },
+    {
+      "id": "9f7e225350ee008c7ec87c2e",
+      "title": "Anwar Shaikh Gave Us an Emancipatory Economics",
+      "url": "https://jacobin.com/2026/11/shaikh-economics-capitalism-competition-crises",
+      "author": "Clara E. Mattei",
+      "source": "Jacobin",
+      "published_at": "2026-11-16T18:52:02+00:00",
+      "content_excerpt": "Writing about someone who has changed your life and to whom you owe so much is much more difficult than I would have thought. It is impossible to feel capable of delivering even a fraction of what it would take to fully honor the human and intellectual memory of Anwar Shaikh. I met Anwar at a moment of great intellectual insecurity for myself that he helped me overcome. Now, in front of this blank page, that insecurity is back. At the same time, this state of mind allows me to fully reconnect with the memories of our first encounters and the development of a mentorship and friendship that has deeply shaped me as a scholar and as a person. Grounding Theory in Historical Analysis It was 2015, and I was struggling to pursue the research for my economics PhD in Pisa, Italy. It had been a tough",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/9f7e225350ee008c7ec87c2e.json"
+    },
+    {
+      "id": "ebdf9678abcfaa65253ccbc3",
+      "title": "The Executioner and the Loyalist: How Harvard Spent Summer 2026 Gutting Its Largest Union for Financial Gain",
+      "url": "https://working-mass.com/2026/11/16/the-executioner-and-the-loyalist-how-harvard-spent-summer-2026-gutting-its-largest-union-for-financial-gain",
+      "author": "Working Mass: The Massachusetts DSA Labor Outlet",
       "source": "DSA Feed - Global",
-      "published_at": "2026-11-15T16:02:13+00:00",
-      "content_excerpt": "by Jean Allen This essay is written in support of my convention resolution, For A Collectively Printed & Distributed Red Star . In it, I am motioning that we budget $3,600 for a printer and future printing costs through the year, and I understand that seems to be a lot. It will be compared to other front-facing work we have, other important committees, and people will ask why we should devote so much energy, time, and money to our publication? This resolution should be seen more as a partial solution to a problem brought up by our ambitions. In our first long term planning retreat, we agreed to aim for a membership of 1000 within the next five years. Some comrades have brought up fears that are, broadly, about the quality of that new mass membership. What if they are liberals, or reactiona",
+      "published_at": "2026-11-16T18:41:27+00:00",
+      "content_excerpt": "A sign held up at the joint HGSU-HAW strike picket line in November 2026, referencing sister union HUCTW’s culling months before (Working Mass) By: Tony A, Adrian Aliano CAMBRIDGE – With the first strike by their workers that year abated, and two other unions’ anger rising, Harvard executives spent the summer of 2026 carrying out far-reaching cuts that gutted the ranks of the largest union on campus: the Harvard Union of Clerical and Technical Workers (HUCTW). In the end, hundreds of people were kicked out of the halls of the university to which they dedicated their lives, just for Harvard leaders to report exorbitant earnings made off their backs only weeks later. The decimation required an executioner and a loyalist, but started with a secretive firm: McKinsey & Company. Leaders in the F",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/6129925a92babc519163a7dd.json"
+      "article_path": "articles/ebdf9678abcfaa65253ccbc3.json"
     },
     {
-      "id": "a00dad85e7be25d8dabc2970",
-      "title": "We Can Abolish the Electoral College in 2027",
-      "url": "https://socialistcall.com/2026/11/15/we-can-abolish-the-electoral-college-in-2027",
-      "author": "Will Bloom",
-      "source": "The Call",
-      "published_at": "2026-11-15T15:17:01+00:00",
-      "content_excerpt": "With Democrats taking trifectas in state governments they have not held for a long time, DSA can campaign to get rid of a deeply undemocratic feature of our political life: the Electoral College. The newly blue state governments mean we can functionally end the Electoral College through the National Popular Vote Interstate Compact (NPVIC) . At a moment where a Democratic Congress is likely to be more focused on oversight than on legislating, DSA could accomplish something meaningful and powerful that actually inches our country toward democracy. What Is the National Popular Vote Interstate Compact? The Electoral College is a wholly undemocratic way to elect the most powerful individuals in the world. Candidates for President and Vice President are not elected by the people but by “electors",
+      "id": "9b284ef0cc0381d237764b6d",
+      "title": "Volusia DSA Confronts Florida’s “Beachside Bourgeois”",
+      "url": "https://democraticleft.dsausa.org/2026/11/16/volusia-dsa-confronts-floridas-beachside-bourgeois",
+      "author": "Democratic Left",
+      "source": "Democratic Left",
+      "published_at": "2026-11-16T18:40:16+00:00",
+      "content_excerpt": "The newly official east-central Florida DSA chapter wants to be a voice for \"downwardly-mobile working people\" in U.S. Rep. Randy Fine's backyard. The post Volusia DSA Confronts Florida’s “Beachside Bourgeois” appeared first on Democratic Left .",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/a00dad85e7be25d8dabc2970.json"
+      "article_path": "articles/9b284ef0cc0381d237764b6d.json"
     },
     {
-      "id": "6a8d5167fccdbaeb29ecc1b7",
-      "title": "South Africa’s ANC Is Collapsing. The Far Right Is Rising.",
-      "url": "https://jacobin.com/2026/11/south-africa-elections-anc-working-class",
-      "author": "Zwelinzima Vavi",
+      "id": "e4e11b470e644d5557488a7b",
+      "title": "The Scandal of Flávio Bolsonaro’s Escape Won’t Fade Away",
+      "url": "https://jacobin.com/2026/11/flavio-bolsonaro-flight-election-trump",
+      "author": "Felipe Antunes de Oliveira",
       "source": "Jacobin",
-      "published_at": "2026-11-15T14:16:07+00:00",
-      "content_excerpt": "While the global left celebrates the recent successes of the Workers’ Party in Brazil and the Democratic Socialists of America in the United States, the African National Congress (ANC) has suffered a historic collapse in South Africa’s November 4 local government elections. After three decades of mass unemployment, deepening inequality, corruption, and economic policies that have failed the working class, the former liberation movement is losing its political authority. The principal beneficiaries of the ANC’s electoral rout are parties of the Right, including an increasingly powerful far right that has built its project around aggressive and often violent xenophobia. With more than 70 percent of votes counted, the ANC’s national share of the vote fell to around 32 percent. The ANC is not ",
+      "published_at": "2026-11-16T17:20:15+00:00",
+      "content_excerpt": "To exfiltrate means “to smuggle [an intelligence agent, soldier, etc.] out of an area under enemy control.” The term belongs to military jargon, rather than to political commentary. Nevertheless, the Brazilian media has been using it to describe the sudden removal of former presidential candidate Flávio Bolsonaro from Brazil’s territory a couple of days after he lost the second round of this year’s presidential elections. José Roberto de Toledo, a veteran journalist, was probably the first to use the word “exfiltration” in relation to Flávio Bolsonaro, in his influential weekly podcast . The circumstances of Bolsonaro’s escape seem to come directly out of a spy film. Smuggled in the middle of the night across the border with the active participation of a former Mossad agent and US governme",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/6a8d5167fccdbaeb29ecc1b7.json"
+      "article_path": "articles/e4e11b470e644d5557488a7b.json"
     },
     {
-      "id": "f296bbffc3c85489e041c082",
-      "title": "A Childlike Devotion Runs Through Godzilla Minus Zero",
-      "url": "https://jacobin.com/2026/11/review-yamazaki-godzilla-minus-zero",
-      "author": "Eileen Jones",
+      "id": "b2388eb8ff7fe52f6df0495b",
+      "title": "The Dominican Government Uses Zionism to Whitewash Trujillo",
+      "url": "https://jacobin.com/2026/11/trujillo-dictatorship-racism-israel-abinader",
+      "author": "Simón Rodríguez",
       "source": "Jacobin",
-      "published_at": "2026-11-15T14:16:07+00:00",
-      "content_excerpt": "There’s a familiar but always thrilling moment in Godzilla Minus Zero when Godzilla is fighting the newer, faster, entirely more visually glamorous monster King Ghidorah — an immense three-headed, golden-ray-shooting dragon that seems set on destroying the human race — and Godzilla is losing. In fact, it seems Godzilla is beaten and dying. But then Godzilla goes deep and dredges up the last of his prehistoric mojo and comes back to win the brutal kaiju battle. Godzilla the destroyer from the sea becomes Godzilla the hero and savior of the Japanese protagonists watching in wide-eyed terror. All the viewer’s childhood love of Godzilla, who lumbers around on big, squat feet like a crude, clumsy dinosaur based on some devoted but impractical kid’s drawing, surges to the fore. Writer-director-C",
+      "published_at": "2026-11-16T16:48:44+00:00",
+      "content_excerpt": "On August 24, the Dominican government announced its adherence to the International Holocaust Remembrance Alliance’s (IHRA) definition of antisemitism. President Luis Abinader , a businessman of Lebanese descent, made the announcement at the opening ceremony of the Sixth Latin American Forum Against Antisemitism,held in Santo Domingo by the US-based Combat Antisemitism Movement (CAM). Abinader also promised to invest 50 million pesos (approximately US$852,000) in the construction of a Jewish museum in Sosúa, in the north of the country, where 747 European Jewish refugees settled during the 1940s. The foreign ministry statement announcing Abinader’s decision included a defense of the Trujillo dictatorship (1930–1961) as a supposed opponent of discrimination, hatred, and religious intoleranc",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/f296bbffc3c85489e041c082.json"
+      "article_path": "articles/b2388eb8ff7fe52f6df0495b.json"
     },
     {
-      "id": "8b33ab8b3ab81f14421fc3b6",
-      "title": "Under Capitalism, Even Kids’ Playtime Is Alienated",
-      "url": "https://jacobin.com/2026/11/capitalism-work-children-play-alienation",
-      "author": "Evelina Johansson Wilén",
+      "id": "344979ed8fe0210480d20fc7",
+      "title": "Heading to Congress, Will Lawrence Still Has Some Questions",
+      "url": "https://jacobin.com/2026/11/will-lawrence-michigan-congress-militarism",
+      "author": "Liza Featherstone",
       "source": "Jacobin",
-      "published_at": "2026-11-15T14:16:07+00:00",
-      "content_excerpt": "A central concern of feminist Marxist theory and practice has been how to understand the relationship between paid and unpaid labor. Marxist feminists have drawn on Karl Marx’s observation that capital leaves workers to ensure their own reproduction, a process that depends on their instinct for self-preservation. They have shown how capitalist accumulation depends on reproductive labor, work that has fallen primarily to women. But what, exactly, is being reproduced? Workers must replenish their strength so that they can work again the next day; importantly, reproduction also encompasses bearing children and creating future labor power. But it does not stop there of course: children must then be shaped into capable workers, a process that does not happen by itself and in which social reprod",
+      "published_at": "2026-11-16T14:58:29+00:00",
+      "content_excerpt": "Will Lawrence has been part of every anti-oligarchic organizing effort that has mattered over the last two decades: Barack Obama–era climate activism, Occupy Wall Street, Sunrise Movement, housing justice, the Bernie Sanders campaigns, the Democratic Socialists of America (DSA), and resistance to artificial intelligence data centers. Before the recent midterm election, the thirty-six-year-old East Lansing, Michigan native was exactly the sort of candidate who, according to conventional wisdom, could maybe beat establishment Democrats in liberal blue districts but would lack traction against the Right in a general election. Yet on Election Day, Lawrence proved that conventional wisdom wrong. He flipped a Republican seat in Mid Michigan and is now headed to Congress. Lawrence is not the only",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/8b33ab8b3ab81f14421fc3b6.json"
+      "article_path": "articles/344979ed8fe0210480d20fc7.json"
     },
     {
-      "id": "c07163560e745768385b53d3",
-      "title": "France’s “Hot Autumn” Is Boosting the Left",
-      "url": "https://jacobin.com/2026/11/france-insoumise-school-protests-election",
-      "author": "Stathis Kouvelakis",
-      "source": "Jacobin",
-      "published_at": "2026-11-15T14:16:07+00:00",
-      "content_excerpt": "Since mid-September, a wave of protest has swept across France. High school students in working-class banlieues (suburbs) and the overseas territories started it by occupying their schools. University students, teachers, trade unionists, and a new generation of yellow vests ( gilets jaunes ) soon joined them. On November 5, about 1.6 million people took to the streets in two hundred cities. Emmanuel Macron’s government has answered with the harshest crackdown in half a century. Police have arrested more than ten thousand people, most of them teenagers. A new “Rioters Pay” bill would punish protesters for acts they did not personally commit. Meanwhile, the far right is stoking a racist backlash, and, on October 23, a far-right gunman killed a young man in Trappes. Stathis Kouvelakis has liv",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/c07163560e745768385b53d3.json"
-    },
-    {
-      "id": "a828b9cfda8458b33ee1ecdc",
-      "title": "Blue Wave Rejected Trump",
-      "url": "https://www.laprogressive.com/racism/blue-wave-rejected-trump",
-      "author": "Erin Aubry Kaplan",
+      "id": "9de3e88eefaf9b41017b9efd",
+      "title": "chinery of State Terror",
+      "url": "https://www.laprogressive.com/progressive-issues/chinery-of-state-terror",
+      "author": "Henry A. Giroux",
       "source": "LA Progressive",
-      "published_at": "2026-11-15T13:57:28+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. The historic shellacking voters delivered to President Donald Trump and the GOP Tuesday already has many names — stinging rebuke, rejection, repudiation, reset. Analysts’ consensus is that the blue wave was a response to what so many Americans could see and feel every day — soaring prices, the effects of a needless war, blatant corruption at the top, all led by an erratic and increasingly unpopular president who openly dismissed the concerns of average people. The message was: enough. For anyone alarmed about the country’s Trump-led decline, the midterm results are beyond heartening, the best possible outcome. At the very least — and this is still huge — a Democratic takeov",
+      "published_at": "2026-11-16T14:06:38+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Marx famously observed that history repeats itself, “the first time as tragedy, the second time as farce.” With Stephen Miller’s elevation to the highest corridors of political power, history threatens to repeat itself as farce converted to catastrophe. The ghosts of fascism are no longer confined to the past. They have found new life in a regime that fans the flames of racial hatred, corruption, accelerating inequality, organized cruelty and the militarization of public life central to governing. Coming on the heels of MAGA’s devastating electoral defeat, Miller’s appointment as Trump’s White House chief of staff should end any remaining illusions about the forces governin",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/a828b9cfda8458b33ee1ecdc.json"
+      "article_path": "articles/9de3e88eefaf9b41017b9efd.json"
     },
     {
-      "id": "5a6f3607e40263a30382fec0",
-      "title": "Global Left Rising",
-      "url": "https://www.laprogressive.com/progressive-issues/global-left-rising",
-      "author": "Vijay Prashad",
-      "source": "LA Progressive",
-      "published_at": "2026-11-15T13:27:02+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Europe’s streets remain aflame with a population angry about how their war economies have utterly ignored their own people. Across the Atlantic, a fierce mobilisation in Brazil and the United States produced election results that favour the good side of history, without their own potential being exaggerated. The reaction of people in the Americas and Europe at present is that the abysmal growth rates due to the low investment in their own countries results in households cutting meals, in young people postponing independent lives, and in workers earning wages that cannot meet their Strait of Hormuz inflation expenses. Even if an eventual lower rate of inflation eventually sl",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/5a6f3607e40263a30382fec0.json"
-    },
-    {
-      "id": "fe59fe35dd7190895dc91e3b",
-      "title": "The Republic on Trial",
-      "url": "https://www.laprogressive.com/progressive-issues/the-republic-on-trial",
-      "author": "Peter McLaren",
-      "source": "LA Progressive",
-      "published_at": "2026-11-15T13:02:01+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. On November 9, 2026, six days after the midterm elections, Donald Trump returned to a familiar accusation. Democrats had achieved what commentators were calling a blue tsunami, capturing control of both chambers of Congress and making substantial gains in states and districts that had long been regarded as Republican strongholds. Trump had initially indicated that he would accept the results. On election night, he told The New York Times that he was “absolutely willing” to do so. In an interview broadcast by CBS's 60 Minutes on November 8, he acknowledged the Republican losses and offered his explanation: he had not been on the ballot, and voters were unhappy with the econo",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/fe59fe35dd7190895dc91e3b.json"
-    },
-    {
-      "id": "9ed6471bbf5ae2e92a0468e3",
-      "title": "Air Traffic Controllers",
-      "url": "https://www.laprogressive.com/progressive-issues/air-traffic-controllers",
-      "author": "Brett Wilkins",
-      "source": "LA Progressive",
-      "published_at": "2026-11-15T12:54:08+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Air traffic controllers are rejecting US Transportation Secretary Sean Duffy’s explanation for Friday’s nationwide flight ground stop, raising questions about the Trump administration’s account of a communications failure that disrupted air travel across the United States , affecting an estimated 1.5 million travelers. Washington Examiner homeland security reporter Anna Giaritelli told CNN’s Laura Coates during a Friday night interview that she’d spoken with 60 air traffic controllers about the Federal Aviation Administration (FAA) ground stop, which was just the third to ever occur. “None of them are buying what he said,” Giaritelli said. “The controllers were saying, ‘We ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/9ed6471bbf5ae2e92a0468e3.json"
-    },
-    {
-      "id": "6fce3c200ecd302d905c1fde",
-      "title": "Questions to Ask Before Hiring an Injury Attorney",
-      "url": "https://www.laprogressive.com/sponsored/choose-personal-injury-lawyer-after-accident",
-      "author": "Tiqua Jackson",
-      "source": "LA Progressive",
-      "published_at": "2026-11-14T22:46:48+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Finding the Right Personal Injury Lawyer After an Out-of-State Accident After an accident away from home, you may be dealing with an unfamiliar insurer, medical bills from another state, and questions about where to find a lawyer. The nearest office may not be the right place to start. Focus your search on these checks: Check authorization. Verify the attorney's licensing and ask how they would be authorized to handle your case. Test relevant experience. Use the first conversation to learn how the lawyer handles cases like yours. Understand the agreement. Get fee and expense terms in writing before you sign. This guide provides general information, not advice about your cas",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/6fce3c200ecd302d905c1fde.json"
-    },
-    {
-      "id": "b551c8a698fcc61f714fb1ee",
-      "title": "Laminate Flooring Durability",
-      "url": "https://www.laprogressive.com/sponsored/laminate-flooring-durability",
-      "author": "Britta Hedlund",
-      "source": "LA Progressive",
-      "published_at": "2026-11-14T22:31:35+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Choosing new flooring can feel overwhelming, especially when vinyl and laminate look so similar at first glance. Both are budget-friendly, stylish, and widely available — but they're not the same when it comes to lasting power. If you've been comparing options, you've probably wondered about vinyl vs. laminate flooring durability. Understanding how each material holds up over time will help you make a smarter investment for your home. This guide breaks down everything you need to know. By the end, you'll feel confident picking the floor that fits your lifestyle. What Does Durability Really Mean for Flooring? When we talk about flooring durability, we're really looking at a ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/b551c8a698fcc61f714fb1ee.json"
-    },
-    {
-      "id": "7e94adadd7c32b1245bff768",
-      "title": "Sigenergy Battery Installation",
-      "url": "https://www.laprogressive.com/sponsored/sigenergy-battery-installation",
-      "author": "Tiqua Jackson",
-      "source": "LA Progressive",
-      "published_at": "2026-11-14T22:30:59+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. The integration of energy storage solutions into residential and commercial solar power systems has become an essential consideration for those aiming to maximise energy efficiency and independence. Sigenergy battery systems represent a significant advancement in this field, offering reliable, efficient storage capabilities. Understanding the associated costs, installation process, and typical timeline is crucial for potential users seeking to adopt these innovative solutions. The expertise of Sigenergy installers plays a critical role in ensuring optimal system performance and longevity. Overview of Sigenergy Battery Systems Sigenergy offers state-of-the-art battery system",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/7e94adadd7c32b1245bff768.json"
-    },
-    {
-      "id": "b3cf7fd67f4673f5eaea7ad9",
-      "title": "Regulatory Debate",
-      "url": "https://www.laprogressive.com/sponsored/regulatory-debate",
-      "author": "Tiqua Jackson",
-      "source": "LA Progressive",
-      "published_at": "2026-11-14T22:11:35+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. A gambling company used to be relatively easy to identify. It ran the betting shop, took the money and advertised under its own name. Online, that chain can involve half a dozen businesses before a customer ever reaches the actual operator. Someone might first read a review, follow an affiliate link, see an ad retargeted through social media and then use a payment service that has nothing to do with the site itself. None of those companies necessarily controls the product. They are still involved in getting it in front of people. Sweepstakes gaming has brought that awkward relationship into focus because regulators are no longer looking only at the company running the games",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/b3cf7fd67f4673f5eaea7ad9.json"
-    },
-    {
-      "id": "633e9b3e3124c5997bc41ed0",
-      "title": "How Cold Weather Affects Electric Dirt Bike Range, Battery Life, and Performance",
-      "url": "https://www.laprogressive.com/sponsored/weather-affects-electric-dirt-bike-range",
-      "author": "Sejal Desai",
-      "source": "LA Progressive",
-      "published_at": "2026-11-14T21:56:39+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Cold weather can change how an electric dirt bike performs, especially when temperatures drop below freezing. Riders may notice a shorter riding range, slower acceleration, or reduced power when climbing hills. These changes are often related to battery temperature, increased energy demand, and riding conditions rather than a permanent battery problem. For anyone choosing an electric dirt bike for adults, understanding how low temperatures affect battery performance can help set realistic range expectations, prevent avoidable battery wear, and make winter rides more predictable. With the right preparation and maintenance habits, riders can reduce the impact of cold weather ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/633e9b3e3124c5997bc41ed0.json"
-    },
-    {
-      "id": "e3a0975aa2956f297d152806",
-      "title": "Luxury Yacht Charter",
-      "url": "https://www.laprogressive.com/sponsored/luxury-yacht-charter",
-      "author": "Britta Hedlund",
-      "source": "LA Progressive",
-      "published_at": "2026-11-14T21:50:54+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Few holidays combine privacy, comfort, and exploration the way a yacht trip does. You wake up in a different bay each morning, dine with the sea in front of you, and set the pace of every day. A luxury yacht charter lets you reach coves and coastal towns that are difficult to enjoy from land. Planning one takes more than choosing a destination, though. The yacht, the season, the crew, and the fine print all shape the experience. These seven factors will help you make confident decisions before you set sail. 1. Choose a Destination That Matches Your Travel Style Start with the kind of holiday you want. Some travelers picture quiet days anchored in turquoise water, while othe",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/e3a0975aa2956f297d152806.json"
-    },
-    {
-      "id": "c910cf86fc3ae42ba2f5a168",
-      "title": "Hit by an 18-Wheeler",
-      "url": "https://www.laprogressive.com/sponsored/hit-by-an-18-wheeler",
-      "author": "Tiqua Jackson",
-      "source": "LA Progressive",
-      "published_at": "2026-11-14T21:40:29+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Best Truck Accident Lawyers in Pearland, TX: 6 Firms to Consider A crash with an 18-wheeler on Highway 288 or the Sam Houston Tollway can turn life upside down in seconds. Medical appointments, insurance calls and missed work pile up fast, and choosing a lawyer can feel like one more burden. Pearland sits just south of Houston, so most of the firms handling serious trucking cases for local residents are based in the city. This shortlist covers six Houston-area firms worth a consultation, what each one emphasizes and the questions that help you compare them. Key Takeaways Our first pick stands out for a clearly published case process, from free consultation and investigation",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/c910cf86fc3ae42ba2f5a168.json"
-    },
-    {
-      "id": "58ca70f55b0b3e18e2871c7a",
-      "title": "Economics News for Workers, November 2026",
-      "url": "https://www.ueunion.org/ue-news/2026/economics-news-for-workers-november-2026",
+      "id": "2e2627f19cced1c444994025",
+      "title": "Who is Against Mass Struggle?",
+      "url": "https://reformandrevolution.org/2026/11/16/who-is-against-mass-struggle",
       "author": "",
-      "source": "UE NEWS Updates | UE",
-      "published_at": "2026-11-14T20:47:52+00:00",
-      "content_excerpt": "A Gallup poll on the eve of the election measured the issues of most salience to American voters. Unsurprisingly, the state of the economy was considered the most important, with 87 percent rating it either extremely or very important. However, a close runner-up was healthcare, which has been all but absent from the national discussion. Other top issues included the war in Iran, income and wealth distribution, and gas prices. Common Dreams has noted that the national movement towards single-payer health insurance, also known as Medicare for All, has been reinvigorated with the midterm elections. Strong new supporters of single payer include Abdul El-Sayed (D-MI) and Troy Jackson (D-ME) in the Senate, along with Claire Valdez, Brad Lander, Darializa Avila Chevalier (D-NY), Dr. Jasmine Clark",
+      "source": "Reform & Revolution",
+      "published_at": "2026-11-16T13:22:52+00:00",
+      "content_excerpt": "Claire Wright and Sarah Milner respond to Socialist Majority on the “democratic road to socialism” and DSA’s endorsement process. Signed articles do not necessarily represent the collective views of Reform & Revolution. In August, comrades in Socialist Majority Caucus published an article titled “Why We Endorse: The Case for Nithya Raman,” a supportive piece of DSA-LA’s endorsement of Raman. Raman has become something of a lightning rod for criticism in DSA owing to the relatively large gap between her perceived association with DSA (which is very high) versus her adherence to the principles of DSA and her commitment to DSA’s program (which, even by the standards of elected officials, is quite low, such as her refusal to part with her self-identification as a capitalist). This separation l",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/58ca70f55b0b3e18e2871c7a.json"
+      "article_path": "articles/2e2627f19cced1c444994025.json"
     }
   ]
 }
