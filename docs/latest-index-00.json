@@ -1,12 +1,252 @@
 {
-  "generated_at": "2026-11-17T02:33:24.130448+00:00",
-  "generated_at_jst": "2026-11-17T11:33:24.130448+09:00",
-  "period_start": "2026-11-15T20:33:24.130448+00:00",
+  "generated_at": "2026-11-18T01:46:55.394432+00:00",
+  "generated_at_jst": "2026-11-18T10:46:55.394432+09:00",
+  "period_start": "2026-11-16T19:46:55.394432+00:00",
   "lookback_hours": 30,
   "folder": "00_毎日確認",
-  "article_count": 15,
+  "article_count": 20,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "c366794ffe34506a096801f6",
+      "title": "Young Voters and the 2026 Blue Wave",
+      "url": "https://www.laprogressive.com/election-and-campaigns/young-voters-and-the-2026-blue-wave",
+      "author": "Randy Shaw",
+      "source": "LA Progressive",
+      "published_at": "2026-11-17T22:21:36+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. The Power of Ongoing Outreach A big story behind the blue election tsunami was the sharp rise in youth voting. According to a leading source , youth turnout was 27% across the nation. It was 30% in battleground states. It was the best midterm youth turnout since 2018. Voters under 30 favored Democrats by a whopping 35%. In contrast, voters over 45 were almost equally divided. That’s why many believe “ the youth vote was key to Democratic Wins in the Midterms .” This sharp turnout increase among an historically under-performing demographic has been building for years. While youth turnout was driven by factors shared by the overall electorate, it also reflected a sophisticate",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/c366794ffe34506a096801f6.json"
+    },
+    {
+      "id": "769410850f085b503f4b0644",
+      "title": "Stewards Corner: Laying the Foundation for Change in Your Union",
+      "url": "https://labornotes.org/2026/11/stewards-corner-laying-foundation-change-your-union",
+      "author": "Labor Notes Staff",
+      "source": "",
+      "published_at": "2026-11-17T21:22:20+00:00",
+      "content_excerpt": "Revitalizing a local union may require electing new officers with a different vision. But running for office should not be your first step. Successful campaigns for union office usually start by organizing against management first, often years in advance of any eventual run. A group of workers wants to accomplish something—better pay, more control over their conditions on the job, an end to tiered wages or benefits—but their officials, or something about the way their union operates, is in the way. So they begin to change the culture of the union, getting more members involved in building power on the shop floor. Your ultimate goal, after all, is not just electing new leaders, but building a stronger union. And doing that means involving as many members as possible. WHERE TO START The good",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/769410850f085b503f4b0644.json"
+    },
+    {
+      "id": "bff0d2a24c333e4d068d8755",
+      "title": "Do Peasants Hold the Key to Humanity’s Future?",
+      "url": "https://jacobin.com/2026/11/review-aslany-peasantry-agriculture-ecology",
+      "author": "Daniel Colligan",
+      "source": "Jacobin",
+      "published_at": "2026-11-17T20:14:34+00:00",
+      "content_excerpt": "In 1966, the sociologist Teodor Shanin boldly asserted that “peasants are the majority of mankind.” This declaration coincided with the beginning of a decades-long increase in academic focus on the peasantry, which, in addition to its demographic weight, was the driving force of some of the most important political movements of the twentieth century. Classic works such as anthropologist Eric Wolf’s 1969 Peasant Wars of the Twentieth Century chronicled the various ways in which subsistence farmers asserted themselves on the world stage. In the sixty years since Shanin made that declaration, the situation of world agriculture has changed dramatically. On large farms, highly mechanized operations have raised productivity and output to unprecedented levels. Smallholder agriculture has been tra",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/bff0d2a24c333e4d068d8755.json"
+    },
+    {
+      "id": "e4819a2d444cb1b5cebb2704",
+      "title": "A History of Taxing the Rich in California",
+      "url": "https://jacobin.com/2026/11/california-ballot-measures-billionaires-taxation-inequality",
+      "author": "Fred Glass",
+      "source": "Jacobin",
+      "published_at": "2026-11-17T19:13:17+00:00",
+      "content_excerpt": "In the wake of the defeat of Proposition 40, the billionaire tax in California, observers are parsing the loss. The good news is that there were actually two progressive tax ballot measures before the Golden State’s electorate this year, and while we lost Prop 40, we won the other one, Prop 3. This point is key, because it’s not possible to grasp the reasons for the loss of 40 without knowing its intertwined history with Prop 3. Since economic inequality will not be disappearing any time soon, and taxing the rich is an integral aspect of fixing the problem, we need to devise a balance sheet of lessons drawn from these two campaigns to inform the next round. Prop 3 has made permanent a temporary state income tax in place since 2012 on the top 2 percent of income earners. These are people wh",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/e4819a2d444cb1b5cebb2704.json"
+    },
+    {
+      "id": "b745fe2afad204d715d32bb2",
+      "title": "Y'all owe the South countless apologies—and other musings on the midterm elections",
+      "url": "https://scalawagmagazine.org/2026/11/yall-owe-the-south-countless-apologies-and-other-musings-on-the-midterm-elections",
+      "author": "Tea Troutman",
+      "source": "Scalawag",
+      "published_at": "2026-11-17T19:11:41+00:00",
+      "content_excerpt": "Yes, it is indeed historic that the Whole Ass South flipped blue—excluding Florida, but we’ll keep pushing until we get them gators, too. And, yes, you anti-Southern bitches owe the South a big ass apology, and then some. Read more via Scalawag : Y'all owe the South countless apologies—and other musings on the midterm elections .",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/b745fe2afad204d715d32bb2.json"
+    },
+    {
+      "id": "4839b466b81e151e62b7cec8",
+      "title": "Robot Boss Is Here",
+      "url": "https://www.laprogressive.com/labor-social-justice/robot-boss-is-here",
+      "author": "Z. Waite",
+      "source": "LA Progressive",
+      "published_at": "2026-11-17T18:16:59+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Corrin Kearney had been delivering pizzas for a Domino’s in North Texas for a few months when their store asked them to install a new app on their phone and keep it open during their shift. Soon, Kearney learned the app was tracking and scoring every delivery route they drove, with the results displayed on a leaderboard back at the store for the whole crew to see. The app uses technology from Drivosity, a company that sells what it calls “cutting edge GPS and AI” driver-monitoring to fast-food chains, including Domino’s and Papa John’s. Each trip is scored from 0 to 100 based on factors including acceleration, braking, cornering and speed. According to Kearney, drivers at t",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/4839b466b81e151e62b7cec8.json"
+    },
+    {
+      "id": "6595c5dffb5333a5597e5889",
+      "title": "Why We Rally for Palestine",
+      "url": "https://rocdsa.org/blog/why-we-rally-for-palestine",
+      "author": "Rochester Red Star: News from Rochester DSA",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-11-17T17:57:10+00:00",
+      "content_excerpt": "by Logan W. Cole The following remarks were made in front of Batavia City Hall at Genesee County DSA’s Rally for Palestine on October 3 rd , 2026. This is a reminder as to why we’re still here as we rally on behalf of the Palestinian people in Batavia today – this has all happened since October of 2023: More than 75,000 Palestinians confirmed killed (but more likely hundreds of thousands); More than 174,000 wounded including the highest per-capita rate of child amputees; More than 1,400 killed (that we know of – the Gaza Health Ministry lacks the infrastructure to fully count such deaths) and more than 5,000 injured since the ostensible “ceasefire” last October; More than 10,000 under rubble ; More than 20,000 children killed ; More than 2 million displaced in Gaza – this is more than 91% ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/6595c5dffb5333a5597e5889.json"
+    },
+    {
+      "id": "734476ea5177e48455acef89",
+      "title": "New Colonialism in Latin America",
+      "url": "https://www.laprogressive.com/foreign-policy/new-colonialism-in-latin-america",
+      "author": "Tica Moreno",
+      "source": "LA Progressive",
+      "published_at": "2026-11-17T17:14:20+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. We are living in an era of blatant manipulation, interference, and imperialist aggression against Latin America, and the Brazilian elections were a manifestation of this. At the same time, we are facing both the far right and the empire, with its tech giants. The people’s victory in Brazil had the defense of sovereignty as one of its main pillars: the people affirmed that we are no one’s backyard, understood the implications of Meta’s interference in electoral processes, and more people came to understand the methods of imperialism. There is no doubt that our sovereignty necessarily involves the digital realm, and Lula, having been reelected, is very focused on this agenda.",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/734476ea5177e48455acef89.json"
+    },
+    {
+      "id": "ae352ec2f589c8cdf9f63a22",
+      "title": "Decline of the American Empire",
+      "url": "https://www.laprogressive.com/climate-change/decline-of-the-american-empire",
+      "author": "Tom Engelhardt",
+      "source": "LA Progressive",
+      "published_at": "2026-11-17T16:26:38+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Talk about extreme. Talk about mad. Talk about off the charts. We’re all now, I fear, on the national equivalent of the Six Flags roller coaster from which a man recently fell to his death . Honestly, can you even believe this world of ours? This old guy can’t, I’ll tell you that. Nothing truly prepared me for Donald J. Trump as president of the United States—not once, but twice!—or for the all-too-bizarre world that came with him. (Or did it, in fact, arrive ahead of him and pave the way?) How could I ever have prepared myself for that? I mean, great imperial powers have gone down many, many times before in history, but not, I suspect, quite this way, not by giving that do",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/ae352ec2f589c8cdf9f63a22.json"
+    },
+    {
+      "id": "e3bbe9e040004574cf755643",
+      "title": "Reject “Electoralism.” Embrace Socialist Electoral Strategy.",
+      "url": "https://jacobin.com/2026/11/dsa-democratic-socialism-electoralism-strategy",
+      "author": "Elliot Lewis",
+      "source": "Jacobin",
+      "published_at": "2026-11-17T16:23:52+00:00",
+      "content_excerpt": "In elections this year, 169 (and counting) candidates or ballot initiatives endorsed by the Democratic Socialists of America (DSA) nationally or by its chapters succeeded at city, state, and federal levels. DSA member Zohran Mamdani is the mayor of the largest city in the country, and it seems increasingly possible that Alexandria Ocasio-Cortez will run for president of the United States in 2028. These exciting developments raise the question of the role of elections in the socialist project. Today some on the Left refer to socialists running for office as “electoralism.” But that term has a specific historical meaning, which much of the radical left has long viewed with disdain. It’s worth getting clear on what distinguishes electoralism in that sense from a transformative democratic soci",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/e3bbe9e040004574cf755643.json"
+    },
+    {
+      "id": "115a8244679b8202de4abb99",
+      "title": "Battle Over Palestine's History",
+      "url": "https://www.laprogressive.com/foreign-policy/battle-over-palestines-history",
+      "author": "Ramzy Baroud",
+      "source": "LA Progressive",
+      "published_at": "2026-11-17T15:50:15+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Three years into the Gaza genocide, Israel has exposed what its advocates spent more than a century trying to conceal: the violence underlying its claims of victimhood. The story of that concealment stretches back to the beginnings of organized political Zionism. The First Zionist Congress was held in Basel, Switzerland, on August 29–31, 1897. In the decades that followed, the Zionist movement, and eventually Israel, largely managed to hoodwink the world about Palestine and its people. From the slogan “a land without a people for a people without a land,” popularized in a similar form by Israel Zangwill, to Golda Meir’s declaration that “There was no such thing as Palestini",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/115a8244679b8202de4abb99.json"
+    },
+    {
+      "id": "e93c9376c24a8dd0a4cee79d",
+      "title": "The 1973 Athens Polytechnic Uprising Still Matters Today",
+      "url": "https://jacobin.com/2026/11/athens-polytechnic-uprising-democracy-imperialism",
+      "author": "Christos Avramidis",
+      "source": "Jacobin",
+      "published_at": "2026-11-17T15:22:45+00:00",
+      "content_excerpt": "A military dictatorship had ruled Greece for more than six years when, in November 1973, hundreds of student occupied the Athens Polytechnic, transforming their university into a center of resistance. Thousands of workers, school students, and ordinary citizens soon joined them. On the pillars of the Polytechnic’s central gate, a student painted two messages in large letters: “USA OUT” and “NATO OUT.” Within days, on November 17, a military tank would smash through that same gate. Why were young Greeks risking their lives to overthrow the military dictatorship also demanding the withdrawal of the United States and the North Atlantic Treaty Organization (NATO)? The answer lies in the three decades preceding the uprising. During those years, Greece experienced Nazi occupation, British milita",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/e93c9376c24a8dd0a4cee79d.json"
+    },
+    {
+      "id": "09a01d36b8ab9bdbba0f7822",
+      "title": "Local 256 Secures New Contract, Maintains Union Shop",
+      "url": "https://www.ueunion.org/ue-news/2026/local-256-secures-new-contract-maintains-union-shop",
+      "author": "",
+      "source": "UE NEWS Updates | UE",
+      "published_at": "2026-11-17T14:54:38+00:00",
+      "content_excerpt": "Local 256 (MIT-GSU) ratified a new three-year contract with MIT on November 16. They successfully negotiated raises that keep up with inflation — the members will receive a wage increase of 3.5 percent in 2026 (with retroactive pay), 3.25 percent in 2027, and 3.25 percent in 2028. The members gained vacation flexibility, kept their healthcare benefits, and negotiated increased protections for international workers. The local also retained their union shop by organizing an effective strike threat that forced MIT to back down from their demand for an open shop. Local 256 Vice President of Membership Suveena Sreenilayam said, “We are incredibly excited to have won a fair second contract when it was the last thing MIT wanted to do. We know that building a credible strike threat is the only rea",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/09a01d36b8ab9bdbba0f7822.json"
+    },
+    {
+      "id": "355ac9b44278674a0e7e8c20",
+      "title": "Trump is Writing a New Chapter in the Book of American Eugenics",
+      "url": "https://democraticleft.dsausa.org/2026/11/17/trump-is-writing-a-new-chapter-in-the-book-of-american-eugenics",
+      "author": "cale_t",
+      "source": "Democratic Left",
+      "published_at": "2026-11-17T10:38:56+00:00",
+      "content_excerpt": "MAGA and MAHA use state machinery to punish those in need. The post Trump is Writing a New Chapter in the Book of American Eugenics appeared first on Democratic Left .",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/355ac9b44278674a0e7e8c20.json"
+    },
+    {
+      "id": "da7fcc670a964efe3b340192",
+      "title": "Revolution and Fun in France",
+      "url": "https://y.dsausa.org/the-activist/revolution-and-fun-in-france",
+      "author": "The Activist - Young Democratic Socialists of America",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-11-17T03:41:24+00:00",
+      "content_excerpt": "France's ongoing student uprisings have featured music, aura battles, combativeness and joyous celebration. To build a socialist movement in the US, we need to understand our biggest material barriers to revolutionary joy. The post Revolution and Fun in France appeared first on YDSA .",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/da7fcc670a964efe3b340192.json"
+    },
+    {
+      "id": "3ba5b2b6c6e3d20bec81d5aa",
+      "title": "Public Defenders in Massachusetts Can Finally Unionize, But Organizers Say Work Remains",
+      "url": "https://working-mass.com/2026/11/16/public-defenders-in-massachusetts-can-finally-unionize-but-organizers-say-work-remains",
+      "author": "Working Mass: The Massachusetts DSA Labor Outlet",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-11-17T03:41:24+00:00",
+      "content_excerpt": "Supporters of the “Yes on 2” ballot campaign on election day (Photo courtesy of Mass Defenders United) By: Matt Wolfinger BOSTON – The verdict is in from Bay State voters: public defenders in Massachusetts can finally unionize. Since 1979, public defenders in Massachusetts have been fighting for the right to unionize. After decades of asking elected officials to amend the statute in the state constitution that bars them from unionizing with no success, workers with the Committee for Public Counsel Services (CPCS) put their fate in the hands of voters by securing a spot on the 2026 election ballot. Question 2 ultimately passed November 3, with 64 percent of voters in favor. Massachusetts Democrats like Congresswoman Ayanna Pressley , Senator Ed Markey , and Boston Mayor Michelle Wu endorsed",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/3ba5b2b6c6e3d20bec81d5aa.json"
+    },
     {
       "id": "5c953fba67165855ef5e1e29",
       "title": "America Needs a Truth Commission",
@@ -66,171 +306,6 @@
       "priority": 1,
       "date_missing": false,
       "article_path": "articles/14f0608abe44747071b2723c.json"
-    },
-    {
-      "id": "441687f59118637bd9a22345",
-      "title": "Inside the Epic Battle Over Control of a CA Grocery Union",
-      "url": "https://jacobin.com/2026/11/ufcw-local-8-elections-democracy-reform",
-      "author": "Chris Brooks",
-      "source": "Jacobin",
-      "published_at": "2026-11-16T21:22:55+00:00",
-      "content_excerpt": "Eric Marcuz is one of the most naturally gifted rank-and-file organizers I have ever met. Overflowing with passion for his union, love for his coworkers, and C4 Energy drinks, he has been spending what little time he has outside of working full time as a dairy clerk at a Safeway grocery store in Redding, California, driving for hours to visit grocery stores across the state and talk with his fellow union members. Marcuz is running for president of United Food and Commercial Workers (UFCW) Local 8–Golden State as part of the At What Cost slate, a group of seven rank-and-file grocery workers who are committed to giving their coworkers something that should be taken for granted: an opportunity to choose who leads their union. Standing in their way are staff supporters of Jacques Loveall, the ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/441687f59118637bd9a22345.json"
-    },
-    {
-      "id": "fd9e3f763ed5f469e72417f7",
-      "title": "Jesus' Message",
-      "url": "https://www.laprogressive.com/science-and-religion/jesus-message",
-      "author": "Peter Laarman",
-      "source": "LA Progressive",
-      "published_at": "2026-11-16T20:13:45+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Not so fast with the sheep and goats talk… As a longtime student of Bad Religion and its many manifestations, I tend to be on my guard when the New Testament gets into the news. When this happens, there is often something hinky going on. Matthew 25 recently made it all the way into the New York Times because of the number of politicians with winning midterm campaigns who are proud to call themselves “Matthew 25 Christians.” Had the Times reporter scratched a little deeper, she would have seen that the political deployment of this New Testament chapter, specifically its final section (vv. 31-46), is actually nothing new. Operatives for Barack Obama deployed it in 2008 ; and ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/fd9e3f763ed5f469e72417f7.json"
-    },
-    {
-      "id": "09f6c82e17744118832e480a",
-      "title": "Resistance Runs Deep",
-      "url": "https://uaw.org/resistance-runs-deep",
-      "author": "Joe Simpson",
-      "source": "UAW",
-      "published_at": "2026-11-16T19:34:19+00:00",
-      "content_excerpt": "Resistance Runs Deep Lessons of Collective Action and Solidarity from the Underground Railroad At The Water’s Edge In the 1800s, the deep, dark currents of the Detroit River held both danger and deliverance. On the last stretch of a grueling journey, freedom seekers might find themselves at the water’s edge, hearts pounding with fear and anticipation. On the opposite shore lay Canada, where slavery had been abolished and a new life finally hovered within reach. No more stolen labor, stooping over crops sunup to sundown for enslavers’ profit. No more whipping posts and auction blocks and families ripped apart. For the first time, their humanity would be recognized by the law. public domain Info Info “I do not recollect of ever seeing my mother by the light of day. She was with me in the nig",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/09f6c82e17744118832e480a.json"
-    },
-    {
-      "id": "9f7e225350ee008c7ec87c2e",
-      "title": "Anwar Shaikh Gave Us an Emancipatory Economics",
-      "url": "https://jacobin.com/2026/11/shaikh-economics-capitalism-competition-crises",
-      "author": "Clara E. Mattei",
-      "source": "Jacobin",
-      "published_at": "2026-11-16T18:52:02+00:00",
-      "content_excerpt": "Writing about someone who has changed your life and to whom you owe so much is much more difficult than I would have thought. It is impossible to feel capable of delivering even a fraction of what it would take to fully honor the human and intellectual memory of Anwar Shaikh. I met Anwar at a moment of great intellectual insecurity for myself that he helped me overcome. Now, in front of this blank page, that insecurity is back. At the same time, this state of mind allows me to fully reconnect with the memories of our first encounters and the development of a mentorship and friendship that has deeply shaped me as a scholar and as a person. Grounding Theory in Historical Analysis It was 2015, and I was struggling to pursue the research for my economics PhD in Pisa, Italy. It had been a tough",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/9f7e225350ee008c7ec87c2e.json"
-    },
-    {
-      "id": "ebdf9678abcfaa65253ccbc3",
-      "title": "The Executioner and the Loyalist: How Harvard Spent Summer 2026 Gutting Its Largest Union for Financial Gain",
-      "url": "https://working-mass.com/2026/11/16/the-executioner-and-the-loyalist-how-harvard-spent-summer-2026-gutting-its-largest-union-for-financial-gain",
-      "author": "Working Mass: The Massachusetts DSA Labor Outlet",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-11-16T18:41:27+00:00",
-      "content_excerpt": "A sign held up at the joint HGSU-HAW strike picket line in November 2026, referencing sister union HUCTW’s culling months before (Working Mass) By: Tony A, Adrian Aliano CAMBRIDGE – With the first strike by their workers that year abated, and two other unions’ anger rising, Harvard executives spent the summer of 2026 carrying out far-reaching cuts that gutted the ranks of the largest union on campus: the Harvard Union of Clerical and Technical Workers (HUCTW). In the end, hundreds of people were kicked out of the halls of the university to which they dedicated their lives, just for Harvard leaders to report exorbitant earnings made off their backs only weeks later. The decimation required an executioner and a loyalist, but started with a secretive firm: McKinsey & Company. Leaders in the F",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/ebdf9678abcfaa65253ccbc3.json"
-    },
-    {
-      "id": "9b284ef0cc0381d237764b6d",
-      "title": "Volusia DSA Confronts Florida’s “Beachside Bourgeois”",
-      "url": "https://democraticleft.dsausa.org/2026/11/16/volusia-dsa-confronts-floridas-beachside-bourgeois",
-      "author": "Democratic Left",
-      "source": "Democratic Left",
-      "published_at": "2026-11-16T18:40:16+00:00",
-      "content_excerpt": "The newly official east-central Florida DSA chapter wants to be a voice for \"downwardly-mobile working people\" in U.S. Rep. Randy Fine's backyard. The post Volusia DSA Confronts Florida’s “Beachside Bourgeois” appeared first on Democratic Left .",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/9b284ef0cc0381d237764b6d.json"
-    },
-    {
-      "id": "e4e11b470e644d5557488a7b",
-      "title": "The Scandal of Flávio Bolsonaro’s Escape Won’t Fade Away",
-      "url": "https://jacobin.com/2026/11/flavio-bolsonaro-flight-election-trump",
-      "author": "Felipe Antunes de Oliveira",
-      "source": "Jacobin",
-      "published_at": "2026-11-16T17:20:15+00:00",
-      "content_excerpt": "To exfiltrate means “to smuggle [an intelligence agent, soldier, etc.] out of an area under enemy control.” The term belongs to military jargon, rather than to political commentary. Nevertheless, the Brazilian media has been using it to describe the sudden removal of former presidential candidate Flávio Bolsonaro from Brazil’s territory a couple of days after he lost the second round of this year’s presidential elections. José Roberto de Toledo, a veteran journalist, was probably the first to use the word “exfiltration” in relation to Flávio Bolsonaro, in his influential weekly podcast . The circumstances of Bolsonaro’s escape seem to come directly out of a spy film. Smuggled in the middle of the night across the border with the active participation of a former Mossad agent and US governme",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/e4e11b470e644d5557488a7b.json"
-    },
-    {
-      "id": "b2388eb8ff7fe52f6df0495b",
-      "title": "The Dominican Government Uses Zionism to Whitewash Trujillo",
-      "url": "https://jacobin.com/2026/11/trujillo-dictatorship-racism-israel-abinader",
-      "author": "Simón Rodríguez",
-      "source": "Jacobin",
-      "published_at": "2026-11-16T16:48:44+00:00",
-      "content_excerpt": "On August 24, the Dominican government announced its adherence to the International Holocaust Remembrance Alliance’s (IHRA) definition of antisemitism. President Luis Abinader , a businessman of Lebanese descent, made the announcement at the opening ceremony of the Sixth Latin American Forum Against Antisemitism,held in Santo Domingo by the US-based Combat Antisemitism Movement (CAM). Abinader also promised to invest 50 million pesos (approximately US$852,000) in the construction of a Jewish museum in Sosúa, in the north of the country, where 747 European Jewish refugees settled during the 1940s. The foreign ministry statement announcing Abinader’s decision included a defense of the Trujillo dictatorship (1930–1961) as a supposed opponent of discrimination, hatred, and religious intoleranc",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/b2388eb8ff7fe52f6df0495b.json"
-    },
-    {
-      "id": "344979ed8fe0210480d20fc7",
-      "title": "Heading to Congress, Will Lawrence Still Has Some Questions",
-      "url": "https://jacobin.com/2026/11/will-lawrence-michigan-congress-militarism",
-      "author": "Liza Featherstone",
-      "source": "Jacobin",
-      "published_at": "2026-11-16T14:58:29+00:00",
-      "content_excerpt": "Will Lawrence has been part of every anti-oligarchic organizing effort that has mattered over the last two decades: Barack Obama–era climate activism, Occupy Wall Street, Sunrise Movement, housing justice, the Bernie Sanders campaigns, the Democratic Socialists of America (DSA), and resistance to artificial intelligence data centers. Before the recent midterm election, the thirty-six-year-old East Lansing, Michigan native was exactly the sort of candidate who, according to conventional wisdom, could maybe beat establishment Democrats in liberal blue districts but would lack traction against the Right in a general election. Yet on Election Day, Lawrence proved that conventional wisdom wrong. He flipped a Republican seat in Mid Michigan and is now headed to Congress. Lawrence is not the only",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/344979ed8fe0210480d20fc7.json"
-    },
-    {
-      "id": "9de3e88eefaf9b41017b9efd",
-      "title": "chinery of State Terror",
-      "url": "https://www.laprogressive.com/progressive-issues/chinery-of-state-terror",
-      "author": "Henry A. Giroux",
-      "source": "LA Progressive",
-      "published_at": "2026-11-16T14:06:38+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Marx famously observed that history repeats itself, “the first time as tragedy, the second time as farce.” With Stephen Miller’s elevation to the highest corridors of political power, history threatens to repeat itself as farce converted to catastrophe. The ghosts of fascism are no longer confined to the past. They have found new life in a regime that fans the flames of racial hatred, corruption, accelerating inequality, organized cruelty and the militarization of public life central to governing. Coming on the heels of MAGA’s devastating electoral defeat, Miller’s appointment as Trump’s White House chief of staff should end any remaining illusions about the forces governin",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/9de3e88eefaf9b41017b9efd.json"
-    },
-    {
-      "id": "2e2627f19cced1c444994025",
-      "title": "Who is Against Mass Struggle?",
-      "url": "https://reformandrevolution.org/2026/11/16/who-is-against-mass-struggle",
-      "author": "",
-      "source": "Reform & Revolution",
-      "published_at": "2026-11-16T13:22:52+00:00",
-      "content_excerpt": "Claire Wright and Sarah Milner respond to Socialist Majority on the “democratic road to socialism” and DSA’s endorsement process. Signed articles do not necessarily represent the collective views of Reform & Revolution. In August, comrades in Socialist Majority Caucus published an article titled “Why We Endorse: The Case for Nithya Raman,” a supportive piece of DSA-LA’s endorsement of Raman. Raman has become something of a lightning rod for criticism in DSA owing to the relatively large gap between her perceived association with DSA (which is very high) versus her adherence to the principles of DSA and her commitment to DSA’s program (which, even by the standards of elected officials, is quite low, such as her refusal to part with her self-identification as a capitalist). This separation l",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/2e2627f19cced1c444994025.json"
     }
   ]
 }

@@ -1,12 +1,237 @@
 {
-  "generated_at": "2026-11-17T02:33:24.130448+00:00",
-  "generated_at_jst": "2026-11-17T11:33:24.130448+09:00",
-  "period_start": "2026-11-15T20:33:24.130448+00:00",
+  "generated_at": "2026-11-18T01:46:55.394432+00:00",
+  "generated_at_jst": "2026-11-18T10:46:55.394432+09:00",
+  "period_start": "2026-11-16T19:46:55.394432+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
   "article_count": 20,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "33ece3ad93777ff49e66acfb",
+      "title": "Elderly Palestinian woman killed, 19 wounded by Israeli violence in West Bank",
+      "url": "https://breakthroughnews.org/2026/11/17/elderly-palestinian-woman-killed-19-wounded-by-israeli-violence-in-west-bank",
+      "author": "Aseel Saleh",
+      "source": "BT News",
+      "published_at": "2026-11-17T23:31:13+00:00",
+      "content_excerpt": "Monday, November 16, marked another horrific night for Palestinians in the occupied West Bank after illegal Israeli settlers launched simultaneous assaults against civilians in the eastern governorate of Jericho, and the southern governorate of Bethlehem. Israeli settlers opened fire on Palestinian residents in Ad-Duyuk at-Tahta village west of Jericho, killing 72-year-old woman Fadda Fheidat and injuring 10 others. A relative of Fheidat told Palestine News and Information Agency WAFA , that the Israeli forces prohibited the family from holding a funeral procession in the village on Tuesday, November 17. Israeli soldiers also beat a Palestinian photographer working for the same news agency on Tuesday morning while he was covering the events in the village. The photographer sustained fractu",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/33ece3ad93777ff49e66acfb.json"
+    },
+    {
+      "id": "2adc8d1d280679b6e0abca63",
+      "title": "The US and Israel are inventing excuses for fresh escalation, says Iran",
+      "url": "https://breakthroughnews.org/2026/11/17/the-us-and-israel-are-inventing-excuses-for-fresh-escalation-says-iran",
+      "author": "Abdul Rahman",
+      "source": "BT News",
+      "published_at": "2026-11-17T22:35:05+00:00",
+      "content_excerpt": "Iran has rejected reports about its possible involvement in planned attacks inside US cities, claiming them to be a part of a malicious campaign against the country waged to justify a possible new escalation in the US-Israeli war. “From the so-called ‘refrigerator cases’ in France to allegations that Iran is plotting to assassinate US officials, we are witnessing what appears to be a coordinated malign narrative campaign,” Esmail Baghaei, official spokesperson of Iran’s Ministry of Foreign Affairs, pointed out in a post on X on Monday, November 16. After several supermarkets in France reported their fridges heating abnormally in October, its government claimed it was a result of a cyberattack and accused Iran for the same. Iran had vehemently denied the allegations , calling them baseless ",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/2adc8d1d280679b6e0abca63.json"
+    },
+    {
+      "id": "3b89908d86c81123dd64a5f5",
+      "title": "Killing of activist Vigário Luís Balanta officially under investigation",
+      "url": "https://breakthroughnews.org/2026/11/17/killing-of-activist-vigario-luis-balanta-officially-under-investigation",
+      "author": "Nicholas Mwangi",
+      "source": "BT News",
+      "published_at": "2026-11-17T22:35:05+00:00",
+      "content_excerpt": "The government of Guinea-Bissau has established a commission of inquiry to investigate the assassination of political activist Vigário Luís Balanta, nearly eight months after his killing. Balanta, leader of the Pó di Terra Revolutionary Movement, was found dead on March 31, 2026, on the outskirts of Bolanhas de N’Dam, approximately 30 kilometers from the capital, Bissau. His body was found with visible injuries, torn clothing and other signs of violence, raising suspicions that he had been tortured before being killed. Read more: Political activist in Guinea-Bissau found beaten to death Speaking to BreakThrough News , Janó Embana, coordinator of the Association of Revolutionary Pan-Africanist Youth of Guinea-Bissau (AJOPAR), welcomed the announcement of an investigation by the Office of th",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/3b89908d86c81123dd64a5f5.json"
+    },
+    {
+      "id": "9ef108eab0197894ced409c4",
+      "title": "Hundreds of thousands reject Czech government’s media reform plans",
+      "url": "https://breakthroughnews.org/2026/11/17/hundreds-of-thousands-reject-czech-governments-media-reform-plans",
+      "author": "Ana Vračar",
+      "source": "BT News",
+      "published_at": "2026-11-17T21:31:04+00:00",
+      "content_excerpt": "Hundreds of thousands of people gathered in Prague on Sunday, November 15, to protest against the Czech government’s plans to reform the financing model of public service media . The administration led by Prime Minister Andrej Babiš has pushed to replace the current license fee model for Czech Television and Czech Radio with direct financing from the state budget – a change critics fear would make the broadcasters more vulnerable to government pressure. Read more: In defense of press freedom, we demand an end to Israel’s genocide In addition to that, the reform would cut the broadcasters’ funding by approximately 15%, which casts additional doubts about the final impacts on program production. “Such a funding model opens the door to political pressure and threatens editorial independence,”",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/9ef108eab0197894ced409c4.json"
+    },
+    {
+      "id": "940f4dbdbffe432ef4705ebe",
+      "title": "He resisted Israeli occupation in Palestine. Italy is imprisoning him for it.",
+      "url": "https://mondoweiss.net/2026/11/he-resisted-israeli-occupation-in-palestine-italy-is-imprisoning-him-for-it",
+      "author": "Dario Morgante",
+      "source": "Mondoweiss",
+      "published_at": "2026-11-17T20:04:58+00:00",
+      "content_excerpt": "Italy jailed a Palestinian activist as a terrorist for resisting Israeli occupation in the West Bank. His case tests the limits of international law and the reach of the Israeli regime.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/940f4dbdbffe432ef4705ebe.json"
+    },
+    {
+      "id": "54c24703d50e2abc88b840c5",
+      "title": "The victory of student populism",
+      "url": "https://tempestmag.org/2026/11/the-victory-of-student-populism",
+      "author": "Srđan Atanasovski",
+      "source": "Tempest",
+      "published_at": "2026-11-17T19:49:04+00:00",
+      "content_excerpt": "T he victory of the Student List in Serbia’s parliamentary elections on October 25, 2026 marks the end of fourteen years of domination by Aleksandar Vučić and his Serbian Progressive Party. With approximately 53 percent of the vote and a projected absolute majority in parliament, the Student List achieved a result that until recently had seemed almost unimaginable. The nature of this victory, and Serbia’s political future, are difficult to understand through the conventional categories of government versus opposition, liberalism versus conservatism, or European integration versus national sovereignty. At the center of Serbia’s political transformation was a mass student movement, while behind it lay a conflict between two elites: the political elite built by Vučić’s regime over the previou",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/54c24703d50e2abc88b840c5.json"
+    },
+    {
+      "id": "7fd631a7f324e51ec04fafc4",
+      "title": "HM 2026: imperialism, AI and war",
+      "url": "https://mronline.org/2026/11/17/hm-2026-imperialism-ai-and-war",
+      "author": "Michael Roberts",
+      "source": "MR Online",
+      "published_at": "2026-11-17T16:25:24+00:00",
+      "content_excerpt": "Historical Materialism is an international Marxist academic conference held every November in London. The post HM 2026: imperialism, AI and war appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/7fd631a7f324e51ec04fafc4.json"
+    },
+    {
+      "id": "1a599574811d2a08d2ed5523",
+      "title": "Fossil Fuels Are “Undermining Democracy” & Must Be Phased Out: Climate Activist Kumi Naidoo at COP31",
+      "url": "https://www.democracynow.org/2026/11/17/kumi_naidoo_cop31",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-11-17T16:09:33+00:00",
+      "content_excerpt": "This is a rush transcript. Copy may not be in its final form. AMY GOODMAN : We’re broadcasting from Antalya, Turkey, at the global U.N. climate summit, known as COP31. There are just four days remaining for nearly 200 countries to come to some agreement on the next steps to tackle climate change. On Monday, negotiators published a wide-ranging 18-page draft document that’s been characterized as a shopping list of language and issues to be debated ahead of a Friday deadline for a final agreement. This is the global policy lead for Oil Change International. ROMAIN IOUALALEN : So, I think this is a text that was designed to basically please everyone, and they took, you know, the best, the most ambitious demands from each group and put it in there. Obviously, throughout this week, what we’re g",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/1a599574811d2a08d2ed5523.json"
+    },
+    {
+      "id": "d38e824ef4622cf4864c11c4",
+      "title": "As U.S. Boycotts U.N. Climate Talks, California Leads State/City Efforts to Combat Climate Crisis",
+      "url": "https://www.democracynow.org/2026/11/17/mark_hertsgaard_cop31_climate_summit",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-11-17T16:09:33+00:00",
+      "content_excerpt": "For the second year in a row, the Trump administration has not sent an official delegation to the United Nations’ annual climate change conference, held this year in Antalya, Turkey. But although no federal representatives are present, more than 120 U.S. state and local leaders are participating, including the governor of the fourth-largest economy in the world, California Governor Gavin Newsom. Newsom, a likely candidate for the 2028 Democratic presidential nomination, has endorsed the Santa Marta Process, a coalition of nations working to develop a global green energy transition. “The petrostates have made it abundantly clear: Under the current rules of consensus, they are never, ever going to allow COPs to succeed. They’re just not going to sign that agreement. So, essentially, the Sant",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/d38e824ef4622cf4864c11c4.json"
+    },
+    {
+      "id": "db45dcd92674c0b283849537",
+      "title": "Bangladesh Faces Mounting Climate Crisis While Wealthy, Polluting Nations Resist Calls to Pay Up",
+      "url": "https://www.democracynow.org/2026/11/17/nepal_bangladesh_climate",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-11-17T16:09:33+00:00",
+      "content_excerpt": "Bangladesh’s first riverkeeper, Sharif Jamil, shares how poor countries in the Global South are struggling to effectively adapt to climate change as rising sea levels, extreme weather patterns, pollution and more are creating an escalating “humanitarian catastrophe,” while the wealthy impede efforts to reallocate financial resources for adaptation and mitigation. “If you want to protect the planet, if you want to save the planet from global warming, you need climate finance to make all this transition,” says Jamil.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/db45dcd92674c0b283849537.json"
+    },
+    {
+      "id": "9488e5d6e22590bd5307c7f2",
+      "title": "French protests continue on multiple issues",
+      "url": "https://mronline.org/2026/11/17/french-protests-continue-on-multiple-issues",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-11-17T13:37:57+00:00",
+      "content_excerpt": "For the fifth consecutive Saturday students, inter-union members, teachers, “gilets jaunes” (yellow vests), parents and other concerned citizens took to the streets to protest economic, social issues, AI, and child endangerment in three marches that converged at the Place de la République before the combined groups marched through the city via the Place de la Bastille, ending at the Place de la Nation. The post French protests continue on multiple issues appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/9488e5d6e22590bd5307c7f2.json"
+    },
+    {
+      "id": "f830816d2667535870c59af3",
+      "title": "“Dialectical Materialism and Quantum Physics: The Unpublished 1957 Lectures of David Bohm in Israel”: Hanoch Gutfreund and Jürgen Renn (eds)- Review",
+      "url": "https://mronline.org/2026/11/17/dialectical-materialism-and-quantum-physics-the-unpublished-1957-lectures-of-david-bohm-in-israel-hanoch-gutfreund-and-jurgen-renn-eds-review",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-11-17T12:39:36+00:00",
+      "content_excerpt": "Many Marxists over the years have argued that dialectical philosophy is not applicable to the natural sciences, often seeing Friedrich Engels as the chief culprit in this misapplication, although there have been notable opponents such as Sean Sayers and John Bellamy Foster. The post “Dialectical Materialism and Quantum Physics: The Unpublished 1957 Lectures of David Bohm in Israel”: Hanoch Gutfreund and Jürgen Renn (eds)- Review appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/f830816d2667535870c59af3.json"
+    },
+    {
+      "id": "567ba0110c4310b35971c00b",
+      "title": "Brazil: André Janones and the reinvention of political mobilization on social media",
+      "url": "https://mronline.org/2026/11/17/brazil-andre-janones-and-the-reinvention-of-political-mobilization-on-social-media",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-11-17T11:43:45+00:00",
+      "content_excerpt": "Few figures in contemporary Brazilian politics have managed to translate the logic of digital networks into concrete political action as effectively as Federal Deputy André Janones (Rede Sustentabilidade Party—Minas Gerais). The post Brazil: André Janones and the reinvention of political mobilization on social media appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/567ba0110c4310b35971c00b.json"
+    },
+    {
+      "id": "33c0f272e8119ad33fa6eb74",
+      "title": "Senegal shipwreck adds to hundreds of migrant deaths at sea",
+      "url": "https://breakthroughnews.org/2026/11/17/senegal-shipwreck-adds-to-hundreds-of-migrant-deaths-at-sea",
+      "author": "Nicholas Mwangi",
+      "source": "BT News",
+      "published_at": "2026-11-17T05:29:05+00:00",
+      "content_excerpt": "The death toll from a migrant shipwreck off northwestern Senegal has risen to 43 , as search teams recovered more bodies along the coast near Loumpoul, between Dakar and Saint-Louis. Most of the dead were young people from nearby communities. It is the latest in a series of boat disasters that have killed more than 200 migrants on major migration routes over the past three months, as people trying to reach Europe and other destinations by sea continue to face deadly risks. On November 9, the International Organization for Migration (IOM) reported that at least 56 people had died in a series of shipwrecks off Senegal and Greece over the weekend. The Senegal disaster occurred on the Western African Atlantic route, now one of the main corridors for migrants. Also, according to IOM, at least 4",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/33c0f272e8119ad33fa6eb74.json"
+    },
+    {
+      "id": "323728cef10e25c4ab93d719",
+      "title": "Gen Z protests in Germany met with racial profiling and police harassment",
+      "url": "https://breakthroughnews.org/2026/11/17/gen-z-protests-in-germany-met-with-racial-profiling-and-police-harassment",
+      "author": "Leon Wystrychowski",
+      "source": "BT News",
+      "published_at": "2026-11-17T05:29:05+00:00",
+      "content_excerpt": "Even before the protests, held under the slogan “Gen Z Takes Charge” (“Gen Z regelt“), took place, politicians and mainstream media had been spreading scenarios of impending chaos. Around 120,000 people, mostly teenagers and young adults, took to the streets in more than 30 German cities to protest cuts to social welfare and compulsory military service, and to demand climate protection. Citing the mass protests in neighboring France – which, as usual, are portrayed in Germany’s dominant public discourse primarily as vandalism and rioting – the authorities and media also predicted a wave of violence for October 31, the day of the “Gen Z Takes Charge” demonstrations. Although this wave failed to materialize, clashes with the police did occur in several cities. Eyewitnesses report that, as a ",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/323728cef10e25c4ab93d719.json"
+    },
     {
       "id": "4e124da571ede98265412169",
       "title": "Blocking Authoritarian Consolidation w/Scot Nakagawa",
@@ -81,231 +306,6 @@
       "priority": 2,
       "date_missing": false,
       "article_path": "articles/d94202c571f99973753e6b4f.json"
-    },
-    {
-      "id": "4a2477f9ca2c781549a6e744",
-      "title": "The fall of the ANC",
-      "url": "https://breakthroughnews.org/2026/11/16/the-fall-of-the-anc",
-      "author": "Pavan Kulkarni",
-      "source": "BT News",
-      "published_at": "2026-11-16T20:27:02+00:00",
-      "content_excerpt": "Securing less than 31% of the votes in the local election held earlier this month, the African National Congress (ANC) has delivered its weakest ever electoral performance in over three decades of South Africa’s post-apartheid era. Held amid worsening water shortages, power disruptions, and piling uncollected garbage, the party saw its vote share drop by almost 15 percentage points from the 45.6% it received in the 2021 local elections. The number of council seats it secured dropped over 30%, from 4,548 in 2021 to 3,164 in 2026.​ Even steeper is the more than 68% decline in the number of municipalities where it has an outright majority. In the 2021 local election, the ANC won outright majorities in 161 of the 213 municipalities. In this election, only 51. Its loss is particularly severe in",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/4a2477f9ca2c781549a6e744.json"
-    },
-    {
-      "id": "3e614be554eeff233b2b36e2",
-      "title": "The Foundations of Naturalism: Causation, Interactions, and the Emergence of Complex Systems",
-      "url": "https://mronline.org/2026/11/16/the-foundations-of-naturalism",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-11-16T19:46:59+00:00",
-      "content_excerpt": "For the purposes of this post, I use terms like natural, physical, and material as synonyms. The post The Foundations of Naturalism: Causation, Interactions, and the Emergence of Complex Systems appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/3e614be554eeff233b2b36e2.json"
-    },
-    {
-      "id": "6c779f4862345f4e2d256691",
-      "title": "El-Sayed coverage shows how the media is out of step with the public on Israel",
-      "url": "https://mondoweiss.net/2026/11/el-sayed-coverage-shows-how-the-media-is-out-of-step-with-the-public-on-israel",
-      "author": "Michael Arria",
-      "source": "Mondoweiss",
-      "published_at": "2026-11-16T17:52:37+00:00",
-      "content_excerpt": "Abdul El-Sayed's victory over GOP candidate Mike Rogers laid waste to the media narrative that El-Sayed \"divided\" Democrats over Israel. Yet this obvious Islamophobic bias still dominates coverage of the first Muslim U.S. Senator.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/6c779f4862345f4e2d256691.json"
-    },
-    {
-      "id": "11acc30d6f9536578251c602",
-      "title": "People’s Climate March: Thousands Demonstrate in Turkey as Country Hosts COP31 U.N. Summit",
-      "url": "https://www.democracynow.org/2026/11/16/peoples_climate_march_cop31",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-11-16T15:52:49+00:00",
-      "content_excerpt": "This is a rush transcript. Copy may not be in its final form. AMY GOODMAN : We are broadcasting from the U.N. climate summit, COP31, here in Antalya, Turkey. More than 190 countries are attending the summit, but for the second year in a row, the United States has not sent an official delegation. Shortly after returning to the White House, President Trump withdrew the U.S. from the landmark 2015 Paris Climate Agreement. Here at COP31, climate activists have been demanding immediate action to confront the climate crisis. Earlier today, activists rallied against the plastics industry. PROTESTERS : Less plastics! More life! Less plastics! More life! Less plastics! More life! Less plastics! More life! Less plastics! More life! AMY GOODMAN : Over the weekend, Democracy Now! was in the streets of",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/11acc30d6f9536578251c602.json"
-    },
-    {
-      "id": "2467f8e3e42196f20671e852",
-      "title": "Global Warming Approaches 1.5 Degrees in “Calamity for the World’s Ecosystems”",
-      "url": "https://www.democracynow.org/2026/11/16/paris_agreement",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-11-16T15:52:49+00:00",
-      "content_excerpt": "As delegates, industry lobbyists and civil society activists attend this year’s United Nations climate summit, known as COP31, we speak with international environmental lawyer Farhana Yamin about the state of global climate efforts. Yamin helped write the landmark 2015 Paris Agreement and has attended 28 of the last 31 U.N. climate summits. The Paris Agreement aimed to keep global temperatures below 1.5 degrees Celsius above preindustrial levels, a threshold that climate scientists say the world will now overshoot. “It’s a moment of great sadness, actually, for the world community that we weren’t able to start the phaseout, start the acceleration of the transition away from fossil fuels 10 years earlier,” says Yamin. “So, we’re about 10 years behind, but I hope that over time that we can a",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/2467f8e3e42196f20671e852.json"
-    },
-    {
-      "id": "74c04012735c45915dfa8d62",
-      "title": "“Coffers Are Never Empty…For Bombs”: Climate Activist Asad Rehman on Need for Climate Finance",
-      "url": "https://www.democracynow.org/2026/11/16/cop31_roundup",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-11-16T15:52:49+00:00",
-      "content_excerpt": "The United Nations climate summit in Antalya, Turkey, is in its second and final week. To get an update on the state of negotiations among countries, we speak with longtime climate campaigner Asad Rehman, the chief executive of Friends of the Earth England, Wales and Northern Ireland. He says rich, developed countries are still dragging their feet on a rapid transition away from fossil fuels while withholding the money that poorer, Global South countries need. “Whether you’re cutting emissions, whether you’re adapting to the impacts of climate change or dealing with incredible losses which are totalling over a trillion right now, you need public finance,” says Rehman. “And the rich countries are saying, 'Our coffers are empty.' But, of course, the coffers are never empty when it comes to p",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/74c04012735c45915dfa8d62.json"
-    },
-    {
-      "id": "f92c5f5584a736ce0aa50c5b",
-      "title": "A demand that can be checked",
-      "url": "https://mronline.org/2026/11/16/a-demand-that-can-be-checked",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-11-16T13:37:35+00:00",
-      "content_excerpt": "From the streets of Nairobi to sovereignty in the Sahel. The post A demand that can be checked appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/f92c5f5584a736ce0aa50c5b.json"
-    },
-    {
-      "id": "748ad04d9ba911aa41be2c61",
-      "title": "Anti-fascist economics",
-      "url": "https://mronline.org/2026/11/16/anti-fascist-economics",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-11-16T12:34:44+00:00",
-      "content_excerpt": "The main theme of the book is to come up with economic policies that can win working people away from fascist ideas and revive democratic politics. The post Anti-fascist economics appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/748ad04d9ba911aa41be2c61.json"
-    },
-    {
-      "id": "836b41afd4c066e1ba00be56",
-      "title": "Providence just voted to divest from Israel following a campaign that should serve as a model for the country",
-      "url": "https://mondoweiss.net/2026/11/providence-just-voted-to-divest-from-israel-following-a-campaign-that-should-serve-as-a-model-for-the-country",
-      "author": "Maxime Pitchon",
-      "source": "Mondoweiss",
-      "published_at": "2026-11-16T12:01:49+00:00",
-      "content_excerpt": "Providence, RI, made history as the first U.S. city to pass binding legislation to divest from Israel at the ballot box. Our victory can serve as a model for divestment campaigns nationwide.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/836b41afd4c066e1ba00be56.json"
-    },
-    {
-      "id": "7b727b96c92c7af9c303d9b0",
-      "title": "The beginning of the end: Israel at the heart of the U.S.’s political civil war",
-      "url": "https://mronline.org/2026/11/16/the-beginning-of-the-end-israel-at-the-heart-of-the-u-s-s-political-civil-war",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-11-16T11:40:41+00:00",
-      "content_excerpt": "Despite a seismic shift in the U.S. midterms, reflecting widespread rejection of pro-Israeli politicians, RAMZY BAROUD sees obstacles ahead in cutting the military umbilical cord that links the U.S. and Israeli military machines. The post The beginning of the end: Israel at the heart of the U.S.’s political civil war appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/7b727b96c92c7af9c303d9b0.json"
-    },
-    {
-      "id": "6838bf66e91e2a8ad643d0cd",
-      "title": "The World Bank’s flawed poverty estimates",
-      "url": "https://mronline.org/2026/11/16/the-world-banks-flawed-poverty-estimates",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-11-16T10:45:39+00:00",
-      "content_excerpt": "The World Bank has just come out with estimates of poverty in India which show that “extreme poverty” which afflicted 27.1 percent of the total population in 2011, now afflicts only 2.6 percent. Its estimate is based on the National Sample Survey data on consumption expenditure collected over the period 2022-23 and 2023-24. The post The World Bank’s flawed poverty estimates appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/6838bf66e91e2a8ad643d0cd.json"
-    },
-    {
-      "id": "35e44867324f33c06130ea04",
-      "title": "Israeli forces arrest groom at his wedding in attack on West Bank village",
-      "url": "https://breakthroughnews.org/2026/11/16/israeli-forces-arrest-groom-at-his-wedding-in-attack-on-west-bank-village",
-      "author": "Aseel Saleh",
-      "source": "BT News",
-      "published_at": "2026-11-16T01:13:41+00:00",
-      "content_excerpt": "The Israeli forces escalated their assaults on the village of Al-Mughayyir in the central occupied West Bank between Wednesday, November 11 and Friday, November 13. On Wednesday, the Israeli military’s bulldozers and excavators razed lands belonging to Palestinian citizens from the village to construct a new settlement road. This came days after bulldozing olive orchards in Al-Mughayyir, which resulted in uprooting about 12,000 trees . One day later, Israeli forces destroyed the martyrs’ memorial in Al-Mughayyir. Meanwhile, on Friday, they raided the house of a Palestinian citizen, forcing him and his family to evacuate after blocking the only entrance to the village. Hours later, Israeli troops stormed a ballroom where a wedding was being held and arrested four Palestinians, including the",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/35e44867324f33c06130ea04.json"
-    },
-    {
-      "id": "d19f14de7f7c43e78cacade6",
-      "title": "Former Bolivian VP granted political asylum by Mexico",
-      "url": "https://breakthroughnews.org/2026/11/15/former-bolivian-vp-granted-political-asylum-by-mexico",
-      "author": "Pablo Meriguet",
-      "source": "BT News",
-      "published_at": "2026-11-16T00:11:36+00:00",
-      "content_excerpt": "Former Bolivian vice president Álvaro García Linera is currently in Mexico where he has been granted political asylum. Shortly after, the Bolivian Attorney General’s Office requested Interpol issue a Blue Notice to locate García Linera for alleged crimes of murder and torture. This was reported by Police Commander Adrián Álvarez. For his part, presidential spokesperson José Luis Gálvez said that García Linera had left the country, first to Argentina and then to Mexico. García Linera himself reported on Friday that Mexico has granted his request for political asylum: “I am in Mexico and I have political asylum in Mexico.” This is not the first time Mexico has granted this status to the former vice president. Back in 2019, following the coup against Morales, both top leaders of the MAS arriv",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/d19f14de7f7c43e78cacade6.json"
-    },
-    {
-      "id": "b74e57756819dd60d234863d",
-      "title": "‘Monster data centers’ being built in Scotland for US tech companies met with protests",
-      "url": "https://breakthroughnews.org/2026/11/15/monster-data-centers-being-built-in-scotland-for-us-tech-companies-met-with-protests",
-      "author": "Ana Vračar",
-      "source": "BT News",
-      "published_at": "2026-11-15T23:07:45+00:00",
-      "content_excerpt": "Thousands of people took to the streets of Edinburgh on Saturday, November 14, to protest against the massive expansion of data centers in Scotland. “Developers want to build monster data centers across Scotland and sell them on to big US tech companies,” the Stop AI Data Centers Scotland coalition wrote in the protest announcement. “There are over 20 already proposed and more in the pipeline, which would demand twice as much electricity as Scotland’s peak usage. This has huge consequences for our energy bills, water, health, communities, climate and nature.” Dozens of organizations that joined the coalition and protest – including climate justice associations, anti-war groups, and trade unions – have demanded accountability from the Scottish government: a pause on expansion plans, proper ",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/b74e57756819dd60d234863d.json"
-    },
-    {
-      "id": "595267133082aca2e47be80d",
-      "title": "Iran warns there will be no geographical limit to its retaliation",
-      "url": "https://breakthroughnews.org/2026/11/15/iran-warns-there-will-be-no-geographical-limit-to-its-retaliation",
-      "author": "Abdul Rahman",
-      "source": "BT News",
-      "published_at": "2026-11-15T23:07:45+00:00",
-      "content_excerpt": "In the latest round of “tit-for-tat” attacks, Iran claimed it destroyed the US army’s early warning radar system in Bahrain on Friday, November 13, in retaliation to its attack against its telecommunication tower in Sirik earlier. In the statement , the Islamic Revolutionary Guard Corps (IRGC) also reiterated the warning to the “aggressor enemy to cease its aerial provocations and oil smuggling in the Strait of Hormuz” and other countries aiding in its aggression. Meanwhile, the Iranian Navy claimed at least two more oil tankers caught fire after they violated its warnings and tried to enter the prohibited area of the Strait of Hormuz on Thursday. The tankers had switched off their radar system and entered the “unsafe” area when they hit sea mines and caught fire, it claimed. In recent wee",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/595267133082aca2e47be80d.json"
     }
   ]
 }
