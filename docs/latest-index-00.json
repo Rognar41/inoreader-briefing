@@ -1,12 +1,297 @@
 {
-  "generated_at": "2026-11-18T01:46:55.394432+00:00",
-  "generated_at_jst": "2026-11-18T10:46:55.394432+09:00",
-  "period_start": "2026-11-16T19:46:55.394432+00:00",
+  "generated_at": "2026-11-19T01:20:54.820321+00:00",
+  "generated_at_jst": "2026-11-19T10:20:54.820321+09:00",
+  "period_start": "2026-11-17T19:20:54.820321+00:00",
   "lookback_hours": 30,
   "folder": "00_毎日確認",
   "article_count": 20,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "07c7ac3d720d63e50d847997",
+      "title": "Why Are Most Union Leaders Silent on Booting Chuck Schumer?",
+      "url": "https://jacobin.com/2026/11/unions-schumer-van-hollen-senate",
+      "author": "Eric Blanc",
+      "source": "Jacobin",
+      "published_at": "2026-11-18T21:34:42+00:00",
+      "content_excerpt": "Why have only four national unions publicly backed Chris Van Hollen against Chuck Schumer for Senate leader? The International Association of Machinists and Aerospace Workers, the Office and Professional Employees International Union, National Nurses United, and the National Union of Healthcare Workers have taken Van Hollen’s side in this urgent fight. But where is everybody else? It’s hard to overstate the stakes. If Democrats once again squander the opportunity given to them by the American people, the lost chance to improve people’s lives — and the ensuing political backlash — could be even worse than what followed the Clinton, Obama, and Biden administrations. Schumer-style corporate politics might as well have been designed in a lab to ensure that Democrats disappoint voters and quick",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/07c7ac3d720d63e50d847997.json"
+    },
+    {
+      "id": "7a4fd825faa0eca73ddcad02",
+      "title": "Labor Mobilized for ‘Many vs. Mighty’ Midterms",
+      "url": "https://labornotes.org/blogs/2026/11/many-vs-mighty",
+      "author": "Jenny Brown",
+      "source": "",
+      "published_at": "2026-11-18T21:01:11+00:00",
+      "content_excerpt": "Something different was in the air as the labor movement mobilized for the midterms. More than usual, unions were willing to support insurgent candidates who refused corporate donations and bucked the Democratic Party establishment. They championed a Bernie Sanders-style list of working-class issues: Medicare for All, a higher minimum wage, union rights, immigrant rights, stopping war, and taxing the rich. Many are union members themselves. And they won. United Auto Workers President Shawn Fain called the election “the many versus the mighty.” In Michigan, the UAW was a key backer of the victorious Abdul El-Sayed, who earlier defeated the party’s depressing primary choice for U.S. Senate. “You had a lot of rich people who tried to… buy a seat, to buy these races,” Fain told Michigan Advanc",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/7a4fd825faa0eca73ddcad02.json"
+    },
+    {
+      "id": "e63840f524f8959b10816a93",
+      "title": "‘Delay, Deny, Discipline’ Is Amazon’s Real Pregnancy Policy, Workers Say",
+      "url": "https://labornotes.org/2026/11/delay-deny-discipline-amazons-real-pregnancy-policy-workers-say",
+      "author": "Jenny Brown",
+      "source": "",
+      "published_at": "2026-11-18T21:01:11+00:00",
+      "content_excerpt": "Willamina Barclay was working as a picker at Amazon’s fulfillment center in Rochester, New York, when she felt lightheaded again. “She pleaded with a manager for a seat… He refused: ‘No, because you don’t have a [pregnancy] accommodation. If I give you a chair, I have to give everybody else a chair,’” he said, according to a recent lawsuit. But Barclay, who learned she was pregnant in March 2025, had already asked managers many times for accommodations—a seat, extra breaks to drink, eat, pee (or throw up) in the bathroom, no ladder-climbing or squatting, and no heavy lifting. Amazon—a company known for fast delivery—had failed to answer for weeks, demanding medical documentation. Even after Barclay provided it, Amazon still refused most accommodations, permitting her four breaks a day, but",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/e63840f524f8959b10816a93.json"
+    },
+    {
+      "id": "03de9e25ab0a0214cc1d544f",
+      "title": "Was Abortion the Swing Issue for Southern Voters?",
+      "url": "https://scalawagmagazine.org/2026/11/was-abortion-the-swing-issue-for-southern-voters",
+      "author": "Laura O’Connor",
+      "source": "Scalawag",
+      "published_at": "2026-11-18T20:35:43+00:00",
+      "content_excerpt": "“This is a concerted effort to keep abortion out of the headlines and out of voters' calculus,\" said Vasquez-Giroux. “The plan is not to be better on abortion; it’s just to put it off until [these candidates] retain power.” Read more via Scalawag : Was Abortion the Swing Issue for Southern Voters? .",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/03de9e25ab0a0214cc1d544f.json"
+    },
+    {
+      "id": "e6b26d53a5208cfdd675bc79",
+      "title": "The American Woman Who Joined Algeria’s Socialist Experiment",
+      "url": "https://jacobin.com/2026/11/mokhtefi-algeria-panthers-third-world-revolution",
+      "author": "Julia Harte",
+      "source": "Jacobin",
+      "published_at": "2026-11-18T18:50:57+00:00",
+      "content_excerpt": "Within days of arriving in Algeria, months after its liberation from France in 1962, Elaine Klein knew she was there for the long haul. “The experiment to create a new socialist country from the impoverished colony, the tremendous task of building a state respected in the international arena, was daunting,” she later wrote. Yet, “My gut told me that I would settle here.” Her intuition was correct. For more than a decade, the Jewish New Yorker was the only American in Algeria’s new government. She assumed a range of roles — reporter, translator, envoy — as the former French colony established itself as an international haven for resistance groups, political dissidents, and anti-colonial organizers. Klein was not the only one taking on new responsibilities. A national program of popular self",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/e6b26d53a5208cfdd675bc79.json"
+    },
+    {
+      "id": "8eba34f61feecba989465bb0",
+      "title": "Iran Dirty Bomb Allegations",
+      "url": "https://www.laprogressive.com/the-media-in-the-united-states/iran-dirty-bomb-allegations",
+      "author": "William J. Astore",
+      "source": "LA Progressive",
+      "published_at": "2026-11-18T18:10:47+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. I woke to the news that America’s mainstream media , always judicious and careful, sees a profound threat from Iran: A dirty bomb to be used against Washington, DC. Sources? Anonymous. Does Iran truly have a bomb or even the capability to deploy it against DC? Unlikely. Truth doesn’t matter here. It’s all about countering momentum building in Congress to put an end to the Iran war. Aaron Maté puts it well in this tweet: The Trump admin committed an unprecedented faux pas before launching its war on Iran: it didn't bother feeding corporate media a pro-war lie to promote. With one \"dirty bomb\" leak, harmony is being restored to the Beltway propaganda system: https://t.co/19E1",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/8eba34f61feecba989465bb0.json"
+    },
+    {
+      "id": "50e97556f4d69a1419dc13e7",
+      "title": "Russell Vought Federal Grant Plan",
+      "url": "https://www.laprogressive.com/progressive-issues/russell-vought-federal-grant-plan",
+      "author": "Marcus Baram",
+      "source": "LA Progressive",
+      "published_at": "2026-11-18T17:53:32+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Kandy Fatheree runs the Summit County Sheriff’s Office in Ohio’s fourth-largest county. Randall Longenecker spent 30 years as a rural family doctor — delivering babies in small-town practice, then training a generation of physicians to do the same. The National Small Business Association has been a nonpartisan voice in Washington for nearly nine decades. None of them are the usual suspects in a fight with the administration of President Donald Trump. Yet all three filed formal objections to a proposed rule by the White House’s Office of Management and Budget that would hand political appointees sweeping authority over hundreds of billions of dollars a year in federal grants",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/50e97556f4d69a1419dc13e7.json"
+    },
+    {
+      "id": "fdd5063dd1433591185967e6",
+      "title": "The Longest Hotel Strike in Washington State History",
+      "url": "https://jacobin.com/2026/11/seattle-hilton-unite-here-strike",
+      "author": "Diana Varenik",
+      "source": "Jacobin",
+      "published_at": "2026-11-18T17:18:56+00:00",
+      "content_excerpt": "You’d be forgiven for worrying, twelve weeks into a strike, that the boss is hell-bent on waiting you out. But after more than eighty days on the picket line at Seattle’s Embassy Suites by Hilton in Pioneer Square, Aspen Desmarais was undeterred. “I can live on a budget,” she said. “Been doing it since day one.” After eighty-five days, on September 10, workers won the longest hotel strike in Washington state history. Their union, UNITE HERE Local 8, represents four thousand hospitality workers in Oregon and Washington. Desmarais, a strike captain and bartender at the hotel, worked to keep others motivated throughout the fight. She and her coworkers were “tired of people talking down to us and not treating us with respect,” she said, “when we’re the reason that place stays running the way t",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/fdd5063dd1433591185967e6.json"
+    },
+    {
+      "id": "7eac78c5da9fa107c945fe45",
+      "title": "Metro DC DSA Welcomes Councilmember-elect Oye Owolewa as a Socialist in Office",
+      "url": "https://mdcdsa.org/2026/11/18/metro-dc-dsa-welcomes-councilmember-elect-oye-owolewa-as-a-socialist-in-office",
+      "author": "Metro DC DSA",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-11-18T17:11:10+00:00",
+      "content_excerpt": "On Friday, November 6, Metro DC DSA voted overwhelmingly to welcome Councilmember-elect Oye Owolewa as a Socialist in Office (SIO). As an SIO, Oye is able to participate in the chapter’s Socialists in Office Committee, the How We Win network of democratic socialist elected officials nationwide, and other resources of the organization. The post Metro DC DSA Welcomes Councilmember-elect Oye Owolewa as a Socialist in Office appeared first on Metro DC DSA .",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/7eac78c5da9fa107c945fe45.json"
+    },
+    {
+      "id": "2b4fa5d538381b1a5501699c",
+      "title": "Vermont Socialist: November 2026",
+      "url": "https://greenmountaindsa.org/blog/vermont-socialist-november-2026",
+      "author": "Green Mountain DSA",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-11-18T17:11:10+00:00",
+      "content_excerpt": "HELP SHAPE OUR NEXT YEAR: ANNUAL CONVENTION, SUNDAY, NOVEMBER 15 Green Mountain DSA’s annual convention is Sunday, November 15, at the Socialist Labor Party Hall, 46 Granite Street in Barre. We’ll begin around 11 a.m. and continue through the late afternoon. At convention, we’ll elect chapter officers and committee chairs and consider resolutions and bylaws amendments that will shape our work in the coming year. We strongly encourage members to attend in person. It’s a chance to meet comrades from across Vermont and have a say in what we take on together. A virtual option is also available. Register in advance and find convention details. The convention page also has the form for nominating chapter officers and committee chairs. FIVE GREEN MOUNTAIN DSA ENDORSEES HEADED TO MONTPELIER AND A ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/2b4fa5d538381b1a5501699c.json"
+    },
+    {
+      "id": "aa20b43d6de9ae870550ad4b",
+      "title": "Lead Munitions Detonation in Middletown, IA",
+      "url": "https://quadcitiesdsa.org/2026/11/18/lead-munitions-detonation-in-middletown-ia",
+      "author": "Quad Cities DSA",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-11-18T17:11:10+00:00",
+      "content_excerpt": "This Friday, November 20th, the US Army will detonate barrels of unstable explosive lead azide at the Iowa Army Ammunition Plant outside of Middletown, IA, creating a plume of toxic lead dust that will move 100 miles north towards the Quad Cities and blanket hundreds of square miles of Iowa and Illinois. This deliberate explosion […]",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/aa20b43d6de9ae870550ad4b.json"
+    },
+    {
+      "id": "cc79cede591ff2578c7db845",
+      "title": "Did Moderate Democrats Really Outperform the Left? No.",
+      "url": "https://jacobin.com/2026/11/midterm-results-data-analysis-centrists-left",
+      "author": "Matt Bruenig",
+      "source": "Jacobin",
+      "published_at": "2026-11-18T16:59:55+00:00",
+      "content_excerpt": "Democrats did well in the 2026 midterm elections. According to the current tally, they gained forty-one House seats , eight Senate seats , and five governorships . Democratic candidates of all types had success, making it difficult to easily point the finger at this or that faction for blowing the election. This has generated some frustration among factional partisans because such partisans are heavily invested in the idea that their style of politics is electorally superior to the politics of other factions. They can’t point to winners and losers to support their positions because, in this election, everyone was a winner. So they are forced to make their case by analyzing margins of victory, which is hard to do well and full of uncertainty even when it is done well. In this piece, I walk ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/cc79cede591ff2578c7db845.json"
+    },
+    {
+      "id": "e160c58c22967142233f1f7b",
+      "title": "Progressive Activists Win Elections",
+      "url": "https://www.laprogressive.com/election-and-campaigns/progressive-activists-win-elections",
+      "author": "Michael Albert",
+      "source": "LA Progressive",
+      "published_at": "2026-11-18T16:09:59+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Electoral effort powerfully trounced Trumpism. Not to death, but getting closer. Some election postmortem prescriptions inspire. Some disturb. Which is which? Large sectors of America want serious change. Perched a bit behind them, many other Americans are wavering. And next on the involvement spectrum, quite a few MAGA members are seriously shook up. What can now sustain the gains to go further? As with most social issues and possibilities, there are better and worse answers. Can we at least identify a dividing line? Can we even agree on what makes activist choices better or worse? Can we describe some specific choices of each sort? If so, perhaps we can use such criteria ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/e160c58c22967142233f1f7b.json"
+    },
+    {
+      "id": "5749e9a37db3d1462cc23f9a",
+      "title": "Transnational Prosecutions",
+      "url": "https://www.laprogressive.com/foreign-policy/transnational-prosecutions",
+      "author": "Ann Garrison",
+      "source": "LA Progressive",
+      "published_at": "2026-11-18T15:47:17+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. At 7 pm on Saturday, November 7th, ICE agents appeared at the Plymouth Correctional Facility in Plymouth, Massachusetts, and handcuffed prisoner Jean Léonard Teganya. No one knew of his whereabouts after that until Monday, November 9 when his family in Canada and the US learned that he was in Kigali, Rwanda, deported even though his appeal of a deportation order was still pending. The essentials of his case are, as I have described them here before: A Rwandan refugee of Hutu ethnicity is charged with genocide crime decades after the 1994 genocide in Rwanda. Witnesses in Rwanda make accusations that they have for some reason kept to themselves for decades. No hard evidence i",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/5749e9a37db3d1462cc23f9a.json"
+    },
+    {
+      "id": "4e297f44a258cba4985aded7",
+      "title": "Anthropic’s IPO Is a Bid to Manufacture Confidence",
+      "url": "https://jacobin.com/2026/11/ai-anthropic-ipo-jobs-data-centers",
+      "author": "Clark Randall",
+      "source": "Jacobin",
+      "published_at": "2026-11-18T15:39:43+00:00",
+      "content_excerpt": "Anthropic, maker of artificial intelligence software Claude, is going public this Thursday. The initial public offering (IPO) could top the record SpaceX set earlier this year, once a concurrent private stock placement is counted. In February, Anthropic raised capital at a $380 billion valuation, and it is now seeking buy-in at $1.4 trillion. The rise has only been matched by the demand from investors, as Bloomberg reported the IPO road show was oversubscribed by six times the available shares. In other words, institutions will be crowding out individual investors vying for early gains. Anthropic aims to raise $64 billion from the IPO in a nontraditional coming-to-market event. It has already been widely noted how the IPO’s role has changed over the last decade, with the flipping of public",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/4e297f44a258cba4985aded7.json"
+    },
+    {
+      "id": "260fc0a174aa8d462ca69a2a",
+      "title": "Is This the End of Pedro Sánchez?",
+      "url": "https://jacobin.com/2026/11/sanchez-psoe-elections-housing-immigration",
+      "author": "Pablo Castaño",
+      "source": "Jacobin",
+      "published_at": "2026-11-18T14:09:37+00:00",
+      "content_excerpt": "In recent years, Pedro Sánchez’s Spanish government, formed by his Socialists (PSOE) and the left-wing alliance Sumar, has been a reference point for the global left. Rarely among social democratic politicians, Sánchez has become well-known for his confrontations with Donald Trump and Benjamin Netanyahu, and for his governing coalition’s progressive social and economic policies. However, Spain’s government could soon fall into the hands of a new alliance of the conservative Partido Popular (PP) and the far-right Vox party. At least, this is what almost all polls now suggest, less than two weeks before the general election on November 29. There are many reasons for the electoral weakness of the PSOE and its further-left allies, now grouped in the Frente Amplio alliance. The broad-left gover",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/260fc0a174aa8d462ca69a2a.json"
+    },
+    {
+      "id": "66c20753950b1c60dd7f0629",
+      "title": "Ajamu Baraka on Real Talk: History as a Weapon for Black Liberation",
+      "url": "https://blackagendareport.com/ajamu-baraka-real-talk-history-weapon-black-liberation",
+      "author": "bareditors",
+      "source": "Black Agenda Report",
+      "published_at": "2026-11-18T04:23:03+00:00",
+      "content_excerpt": "Ajamu Baraka on Real Talk: History as a Weapon for Black Liberation bareditors Wed, 11/18/2026 - 09:26 ​​​​​​​ Ajamu Baraka, BAR editor and columnist Sundiata Cha-Jua",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/66c20753950b1c60dd7f0629.json"
+    },
+    {
+      "id": "64ed6635511af483af2ac295",
+      "title": "Lula La! How Brazil Beat Back Fascism in Three Weeks in October",
+      "url": "https://democraticleft.dsausa.org/2026/11/17/lula-la-how-brazil-beat-back-fascism-in-three-weeks-in-october",
+      "author": "Democratic Left",
+      "source": "Democratic Left",
+      "published_at": "2026-11-18T03:41:29+00:00",
+      "content_excerpt": "The victory of Brazil’s Workers’ Party over the far-right shows how working-class mobilization can beat the far-right — and the odds. The post Lula La! How Brazil Beat Back Fascism in Three Weeks in October appeared first on Democratic Left .",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/64ed6635511af483af2ac295.json"
+    },
+    {
+      "id": "e705ec7264cc65340e06172b",
+      "title": "Weekly Roundup: November 17, 2026",
+      "url": "https://dsasf.org/weekly-roundup-november-17-2026",
+      "author": "San Francisco DSA",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-11-18T02:49:28+00:00",
+      "content_excerpt": "Events & Actions Tuesday, November 17 (6:30 PM – 8:00 PM) Ecosocialist Bi-Weekly Meeting (zoom and in person at 1916 McAllister) Wednesday, November 18 (7:00 PM – 8:30 PM) Tenant Organizing Working Group Meeting (zoom and in person at 1916 McAllister) Thursday, November 19 (6:00 PM – 7:00 PM) Education Board Constructive Criticism Training (zoom and in person at 1916 McAllister) Thursday, November 19 (7:00 PM – 8:00 PM) Immigrant Justice Regular Meeting (zoom and in person at 1916 McAllister) Saturday, November 21 (6:00 PM – 8:00 PM) HWG Food Service (in person at Patricia’s Green in Hayes Valley) Sunday, November 22 (1:00 PM – 4:00 PM) Palestine Solidarity / AFZ Social (in person at Hoover Redwood Grove Picnic Area) Sunday, November 22 (3:00 PM – 4:45 PM) EWOC Fundamentals of Workplace Or",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/e705ec7264cc65340e06172b.json"
+    },
     {
       "id": "c366794ffe34506a096801f6",
       "title": "Young Voters and the 2026 Blue Wave",
@@ -21,291 +306,6 @@
       "priority": 1,
       "date_missing": false,
       "article_path": "articles/c366794ffe34506a096801f6.json"
-    },
-    {
-      "id": "769410850f085b503f4b0644",
-      "title": "Stewards Corner: Laying the Foundation for Change in Your Union",
-      "url": "https://labornotes.org/2026/11/stewards-corner-laying-foundation-change-your-union",
-      "author": "Labor Notes Staff",
-      "source": "",
-      "published_at": "2026-11-17T21:22:20+00:00",
-      "content_excerpt": "Revitalizing a local union may require electing new officers with a different vision. But running for office should not be your first step. Successful campaigns for union office usually start by organizing against management first, often years in advance of any eventual run. A group of workers wants to accomplish something—better pay, more control over their conditions on the job, an end to tiered wages or benefits—but their officials, or something about the way their union operates, is in the way. So they begin to change the culture of the union, getting more members involved in building power on the shop floor. Your ultimate goal, after all, is not just electing new leaders, but building a stronger union. And doing that means involving as many members as possible. WHERE TO START The good",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/769410850f085b503f4b0644.json"
-    },
-    {
-      "id": "bff0d2a24c333e4d068d8755",
-      "title": "Do Peasants Hold the Key to Humanity’s Future?",
-      "url": "https://jacobin.com/2026/11/review-aslany-peasantry-agriculture-ecology",
-      "author": "Daniel Colligan",
-      "source": "Jacobin",
-      "published_at": "2026-11-17T20:14:34+00:00",
-      "content_excerpt": "In 1966, the sociologist Teodor Shanin boldly asserted that “peasants are the majority of mankind.” This declaration coincided with the beginning of a decades-long increase in academic focus on the peasantry, which, in addition to its demographic weight, was the driving force of some of the most important political movements of the twentieth century. Classic works such as anthropologist Eric Wolf’s 1969 Peasant Wars of the Twentieth Century chronicled the various ways in which subsistence farmers asserted themselves on the world stage. In the sixty years since Shanin made that declaration, the situation of world agriculture has changed dramatically. On large farms, highly mechanized operations have raised productivity and output to unprecedented levels. Smallholder agriculture has been tra",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/bff0d2a24c333e4d068d8755.json"
-    },
-    {
-      "id": "e4819a2d444cb1b5cebb2704",
-      "title": "A History of Taxing the Rich in California",
-      "url": "https://jacobin.com/2026/11/california-ballot-measures-billionaires-taxation-inequality",
-      "author": "Fred Glass",
-      "source": "Jacobin",
-      "published_at": "2026-11-17T19:13:17+00:00",
-      "content_excerpt": "In the wake of the defeat of Proposition 40, the billionaire tax in California, observers are parsing the loss. The good news is that there were actually two progressive tax ballot measures before the Golden State’s electorate this year, and while we lost Prop 40, we won the other one, Prop 3. This point is key, because it’s not possible to grasp the reasons for the loss of 40 without knowing its intertwined history with Prop 3. Since economic inequality will not be disappearing any time soon, and taxing the rich is an integral aspect of fixing the problem, we need to devise a balance sheet of lessons drawn from these two campaigns to inform the next round. Prop 3 has made permanent a temporary state income tax in place since 2012 on the top 2 percent of income earners. These are people wh",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/e4819a2d444cb1b5cebb2704.json"
-    },
-    {
-      "id": "b745fe2afad204d715d32bb2",
-      "title": "Y'all owe the South countless apologies—and other musings on the midterm elections",
-      "url": "https://scalawagmagazine.org/2026/11/yall-owe-the-south-countless-apologies-and-other-musings-on-the-midterm-elections",
-      "author": "Tea Troutman",
-      "source": "Scalawag",
-      "published_at": "2026-11-17T19:11:41+00:00",
-      "content_excerpt": "Yes, it is indeed historic that the Whole Ass South flipped blue—excluding Florida, but we’ll keep pushing until we get them gators, too. And, yes, you anti-Southern bitches owe the South a big ass apology, and then some. Read more via Scalawag : Y'all owe the South countless apologies—and other musings on the midterm elections .",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/b745fe2afad204d715d32bb2.json"
-    },
-    {
-      "id": "4839b466b81e151e62b7cec8",
-      "title": "Robot Boss Is Here",
-      "url": "https://www.laprogressive.com/labor-social-justice/robot-boss-is-here",
-      "author": "Z. Waite",
-      "source": "LA Progressive",
-      "published_at": "2026-11-17T18:16:59+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Corrin Kearney had been delivering pizzas for a Domino’s in North Texas for a few months when their store asked them to install a new app on their phone and keep it open during their shift. Soon, Kearney learned the app was tracking and scoring every delivery route they drove, with the results displayed on a leaderboard back at the store for the whole crew to see. The app uses technology from Drivosity, a company that sells what it calls “cutting edge GPS and AI” driver-monitoring to fast-food chains, including Domino’s and Papa John’s. Each trip is scored from 0 to 100 based on factors including acceleration, braking, cornering and speed. According to Kearney, drivers at t",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/4839b466b81e151e62b7cec8.json"
-    },
-    {
-      "id": "6595c5dffb5333a5597e5889",
-      "title": "Why We Rally for Palestine",
-      "url": "https://rocdsa.org/blog/why-we-rally-for-palestine",
-      "author": "Rochester Red Star: News from Rochester DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-11-17T17:57:10+00:00",
-      "content_excerpt": "by Logan W. Cole The following remarks were made in front of Batavia City Hall at Genesee County DSA’s Rally for Palestine on October 3 rd , 2026. This is a reminder as to why we’re still here as we rally on behalf of the Palestinian people in Batavia today – this has all happened since October of 2023: More than 75,000 Palestinians confirmed killed (but more likely hundreds of thousands); More than 174,000 wounded including the highest per-capita rate of child amputees; More than 1,400 killed (that we know of – the Gaza Health Ministry lacks the infrastructure to fully count such deaths) and more than 5,000 injured since the ostensible “ceasefire” last October; More than 10,000 under rubble ; More than 20,000 children killed ; More than 2 million displaced in Gaza – this is more than 91% ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/6595c5dffb5333a5597e5889.json"
-    },
-    {
-      "id": "734476ea5177e48455acef89",
-      "title": "New Colonialism in Latin America",
-      "url": "https://www.laprogressive.com/foreign-policy/new-colonialism-in-latin-america",
-      "author": "Tica Moreno",
-      "source": "LA Progressive",
-      "published_at": "2026-11-17T17:14:20+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. We are living in an era of blatant manipulation, interference, and imperialist aggression against Latin America, and the Brazilian elections were a manifestation of this. At the same time, we are facing both the far right and the empire, with its tech giants. The people’s victory in Brazil had the defense of sovereignty as one of its main pillars: the people affirmed that we are no one’s backyard, understood the implications of Meta’s interference in electoral processes, and more people came to understand the methods of imperialism. There is no doubt that our sovereignty necessarily involves the digital realm, and Lula, having been reelected, is very focused on this agenda.",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/734476ea5177e48455acef89.json"
-    },
-    {
-      "id": "ae352ec2f589c8cdf9f63a22",
-      "title": "Decline of the American Empire",
-      "url": "https://www.laprogressive.com/climate-change/decline-of-the-american-empire",
-      "author": "Tom Engelhardt",
-      "source": "LA Progressive",
-      "published_at": "2026-11-17T16:26:38+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Talk about extreme. Talk about mad. Talk about off the charts. We’re all now, I fear, on the national equivalent of the Six Flags roller coaster from which a man recently fell to his death . Honestly, can you even believe this world of ours? This old guy can’t, I’ll tell you that. Nothing truly prepared me for Donald J. Trump as president of the United States—not once, but twice!—or for the all-too-bizarre world that came with him. (Or did it, in fact, arrive ahead of him and pave the way?) How could I ever have prepared myself for that? I mean, great imperial powers have gone down many, many times before in history, but not, I suspect, quite this way, not by giving that do",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/ae352ec2f589c8cdf9f63a22.json"
-    },
-    {
-      "id": "e3bbe9e040004574cf755643",
-      "title": "Reject “Electoralism.” Embrace Socialist Electoral Strategy.",
-      "url": "https://jacobin.com/2026/11/dsa-democratic-socialism-electoralism-strategy",
-      "author": "Elliot Lewis",
-      "source": "Jacobin",
-      "published_at": "2026-11-17T16:23:52+00:00",
-      "content_excerpt": "In elections this year, 169 (and counting) candidates or ballot initiatives endorsed by the Democratic Socialists of America (DSA) nationally or by its chapters succeeded at city, state, and federal levels. DSA member Zohran Mamdani is the mayor of the largest city in the country, and it seems increasingly possible that Alexandria Ocasio-Cortez will run for president of the United States in 2028. These exciting developments raise the question of the role of elections in the socialist project. Today some on the Left refer to socialists running for office as “electoralism.” But that term has a specific historical meaning, which much of the radical left has long viewed with disdain. It’s worth getting clear on what distinguishes electoralism in that sense from a transformative democratic soci",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/e3bbe9e040004574cf755643.json"
-    },
-    {
-      "id": "115a8244679b8202de4abb99",
-      "title": "Battle Over Palestine's History",
-      "url": "https://www.laprogressive.com/foreign-policy/battle-over-palestines-history",
-      "author": "Ramzy Baroud",
-      "source": "LA Progressive",
-      "published_at": "2026-11-17T15:50:15+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Three years into the Gaza genocide, Israel has exposed what its advocates spent more than a century trying to conceal: the violence underlying its claims of victimhood. The story of that concealment stretches back to the beginnings of organized political Zionism. The First Zionist Congress was held in Basel, Switzerland, on August 29–31, 1897. In the decades that followed, the Zionist movement, and eventually Israel, largely managed to hoodwink the world about Palestine and its people. From the slogan “a land without a people for a people without a land,” popularized in a similar form by Israel Zangwill, to Golda Meir’s declaration that “There was no such thing as Palestini",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/115a8244679b8202de4abb99.json"
-    },
-    {
-      "id": "e93c9376c24a8dd0a4cee79d",
-      "title": "The 1973 Athens Polytechnic Uprising Still Matters Today",
-      "url": "https://jacobin.com/2026/11/athens-polytechnic-uprising-democracy-imperialism",
-      "author": "Christos Avramidis",
-      "source": "Jacobin",
-      "published_at": "2026-11-17T15:22:45+00:00",
-      "content_excerpt": "A military dictatorship had ruled Greece for more than six years when, in November 1973, hundreds of student occupied the Athens Polytechnic, transforming their university into a center of resistance. Thousands of workers, school students, and ordinary citizens soon joined them. On the pillars of the Polytechnic’s central gate, a student painted two messages in large letters: “USA OUT” and “NATO OUT.” Within days, on November 17, a military tank would smash through that same gate. Why were young Greeks risking their lives to overthrow the military dictatorship also demanding the withdrawal of the United States and the North Atlantic Treaty Organization (NATO)? The answer lies in the three decades preceding the uprising. During those years, Greece experienced Nazi occupation, British milita",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/e93c9376c24a8dd0a4cee79d.json"
-    },
-    {
-      "id": "09a01d36b8ab9bdbba0f7822",
-      "title": "Local 256 Secures New Contract, Maintains Union Shop",
-      "url": "https://www.ueunion.org/ue-news/2026/local-256-secures-new-contract-maintains-union-shop",
-      "author": "",
-      "source": "UE NEWS Updates | UE",
-      "published_at": "2026-11-17T14:54:38+00:00",
-      "content_excerpt": "Local 256 (MIT-GSU) ratified a new three-year contract with MIT on November 16. They successfully negotiated raises that keep up with inflation — the members will receive a wage increase of 3.5 percent in 2026 (with retroactive pay), 3.25 percent in 2027, and 3.25 percent in 2028. The members gained vacation flexibility, kept their healthcare benefits, and negotiated increased protections for international workers. The local also retained their union shop by organizing an effective strike threat that forced MIT to back down from their demand for an open shop. Local 256 Vice President of Membership Suveena Sreenilayam said, “We are incredibly excited to have won a fair second contract when it was the last thing MIT wanted to do. We know that building a credible strike threat is the only rea",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/09a01d36b8ab9bdbba0f7822.json"
-    },
-    {
-      "id": "355ac9b44278674a0e7e8c20",
-      "title": "Trump is Writing a New Chapter in the Book of American Eugenics",
-      "url": "https://democraticleft.dsausa.org/2026/11/17/trump-is-writing-a-new-chapter-in-the-book-of-american-eugenics",
-      "author": "cale_t",
-      "source": "Democratic Left",
-      "published_at": "2026-11-17T10:38:56+00:00",
-      "content_excerpt": "MAGA and MAHA use state machinery to punish those in need. The post Trump is Writing a New Chapter in the Book of American Eugenics appeared first on Democratic Left .",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/355ac9b44278674a0e7e8c20.json"
-    },
-    {
-      "id": "da7fcc670a964efe3b340192",
-      "title": "Revolution and Fun in France",
-      "url": "https://y.dsausa.org/the-activist/revolution-and-fun-in-france",
-      "author": "The Activist - Young Democratic Socialists of America",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-11-17T03:41:24+00:00",
-      "content_excerpt": "France's ongoing student uprisings have featured music, aura battles, combativeness and joyous celebration. To build a socialist movement in the US, we need to understand our biggest material barriers to revolutionary joy. The post Revolution and Fun in France appeared first on YDSA .",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/da7fcc670a964efe3b340192.json"
-    },
-    {
-      "id": "3ba5b2b6c6e3d20bec81d5aa",
-      "title": "Public Defenders in Massachusetts Can Finally Unionize, But Organizers Say Work Remains",
-      "url": "https://working-mass.com/2026/11/16/public-defenders-in-massachusetts-can-finally-unionize-but-organizers-say-work-remains",
-      "author": "Working Mass: The Massachusetts DSA Labor Outlet",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-11-17T03:41:24+00:00",
-      "content_excerpt": "Supporters of the “Yes on 2” ballot campaign on election day (Photo courtesy of Mass Defenders United) By: Matt Wolfinger BOSTON – The verdict is in from Bay State voters: public defenders in Massachusetts can finally unionize. Since 1979, public defenders in Massachusetts have been fighting for the right to unionize. After decades of asking elected officials to amend the statute in the state constitution that bars them from unionizing with no success, workers with the Committee for Public Counsel Services (CPCS) put their fate in the hands of voters by securing a spot on the 2026 election ballot. Question 2 ultimately passed November 3, with 64 percent of voters in favor. Massachusetts Democrats like Congresswoman Ayanna Pressley , Senator Ed Markey , and Boston Mayor Michelle Wu endorsed",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/3ba5b2b6c6e3d20bec81d5aa.json"
-    },
-    {
-      "id": "5c953fba67165855ef5e1e29",
-      "title": "America Needs a Truth Commission",
-      "url": "https://www.laprogressive.com/racism/america-needs-a-truth-commission",
-      "author": "Jared O. Bell",
-      "source": "LA Progressive",
-      "published_at": "2026-11-17T00:16:40+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. A few weeks ago, during a trip to the Philippines, I made my way across congested Manila to Bantayog ng mga Bayani, the memorial in Quezon City to Filipinos who resisted Ferdinand Marcos. The Wall of Remembrance outside, inscribed with the names of those who died resisting, was overrun with grass. I asked one guard where to find the museum, then another, before finding it around a corner. The receptionist asked who I was with. I told her I was a professor and researcher. She indicated to me that there were no tours on Monday and that I’d be free to tour the museum on my own. The museum was worn, its displays far smaller than the story they told of one of the most precarious",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/5c953fba67165855ef5e1e29.json"
-    },
-    {
-      "id": "d0a49b58bbc6dcd074dda535",
-      "title": "Fight Facing the New Congress",
-      "url": "https://www.laprogressive.com/election-and-campaigns/fight-facing-the-new-congress",
-      "author": "Roxanne D. Brown",
-      "source": "LA Progressive",
-      "published_at": "2026-11-16T23:15:44+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. We sent a clear message on Election Day about what we want from the next Congress—affordability, accountability, and an economy that works for all. We’re disgusted with empty promises from a government that lavishes ever more on the do-nothing rich while working families fall further into the margins. We’ve had it with CEOs pocketing obscene sums while doling out scraps to everyone else and with billionaires frittering away huge sums to divide us. But tens of millions of working people just took back the wheel. We demonstrated how powerful we are when we come together. We showed that the future belongs to us , not to the 1 percent. And make no mistake, the path forward mean",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/d0a49b58bbc6dcd074dda535.json"
-    },
-    {
-      "id": "6eaad2e3425407b67f3c758d",
-      "title": "Single-Payer Healthcare Deadlock",
-      "url": "https://www.laprogressive.com/healthcare/single-payer-healthcare-deadlock",
-      "author": "Larry Gross",
-      "source": "LA Progressive",
-      "published_at": "2026-11-16T23:01:56+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. California would seem to be the most likely state to enact a true single-payer healthcare program [SP]. After all, SP is favored by majorities, including Republicans. However, successive legislative efforts to pass CalCare, the SP plan sponsored by the California Nurses Association [CNA], have been killed by Democratic leaders before they could come to a vote. Actually, that’s not quite true: SP bills were passed by the CA legislature twice, when Republican governor Arnold Schwarzenegger promised to veto them. When Democrat Gavin Newsom, who ran on a SP platform and was supported by CNA, was elected, he made sure that no SP bill ever reached his desk. The reason for the rep",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/6eaad2e3425407b67f3c758d.json"
-    },
-    {
-      "id": "14f0608abe44747071b2723c",
-      "title": "War Budget Is a Path to Spiritual Death",
-      "url": "https://www.laprogressive.com/war-and-peace/war-budget-is-a-path-to-spiritual-death",
-      "author": "Ryan Wentz",
-      "source": "LA Progressive",
-      "published_at": "2026-11-16T22:26:43+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. In the coming weeks, Congress will be voting on Trump’s proposed $1.5 trillion war budget, double the number it was under Biden, which, of course, was already far too high. If passed, the U.S. military budget will be larger than the military budgets of the next 34 countries combined. Thirty-four countries combined. What’s more, while the Pentagon has been audited eight times, not once has it passed. In 1967, Martin Luther King Jr. declared: “A nation that continues year after year to spend more money on military defense than on programs of social uplift is approaching spiritual death.” Think about what we should be spending money on: programs of social uplift — programs lik",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/14f0608abe44747071b2723c.json"
     }
   ]
 }
