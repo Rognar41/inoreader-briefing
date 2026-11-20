@@ -1,12 +1,192 @@
 {
-  "generated_at": "2026-11-19T01:20:54.820321+00:00",
-  "generated_at_jst": "2026-11-19T10:20:54.820321+09:00",
-  "period_start": "2026-11-17T19:20:54.820321+00:00",
+  "generated_at": "2026-11-20T01:23:25.472941+00:00",
+  "generated_at_jst": "2026-11-20T10:23:25.472941+09:00",
+  "period_start": "2026-11-18T19:23:25.472941+00:00",
   "lookback_hours": 30,
   "folder": "00_毎日確認",
-  "article_count": 20,
+  "article_count": 16,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "6fe956aad4b83e5b4f2b0138",
+      "title": "Don’t Mourn Hakeem Jeffries’s Speakership. Organize.",
+      "url": "https://jacobin.com/2026/11/jeffries-congress-speaker-socialists-organizing",
+      "author": "Austin Warrington",
+      "source": "Jacobin",
+      "published_at": "2026-11-19T20:37:09+00:00",
+      "content_excerpt": "In the wake of the midterms, the entirety of left-liberal America was jubilant. Democrats won majorities in the House and Senate, outperforming even the most idealistic predictions. But it was not only the Democratic victories that shocked observers — it was the kind of candidates who won. Democratic socialists had their strongest showing of any election in recent history, winning 169 endorsed ballot measures and seats at the local, state, and federal levels — their strongest showing of any general election in recent history. And the wins by nonsocialist progressives and even many centrists affirmed an agenda championed by democratic socialists, centering economic populism, wealth redistribution, and universal health care. But then a harsh reality set in: the near inevitability of Rep. Hak",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/6fe956aad4b83e5b4f2b0138.json"
+    },
+    {
+      "id": "2027785c29be6d1a65fa44ec",
+      "title": "Anthropic Is Already Part of the Security Establishment",
+      "url": "https://jacobin.com/2026/11/anthropic-ai-security-surveillance-state",
+      "author": "Jacob Davis",
+      "source": "Jacobin",
+      "published_at": "2026-11-19T20:07:25+00:00",
+      "content_excerpt": "Anthropic, which priced its initial public offering (IPO) last night and began trading on the Nasdaq today, published an S-1, the corporate prospectus for the offering. The document, which extends over five hundred pages, is intended to provide potential investors with an outline of its corporate structure, business model, and financial situation. Much of the document is, accordingly, dedicated to mundane legal minutiae: long lists of hypothetical events that might adversely affect investments, specific provisions for investment to comply with foreign nations’ securities law, etc. Some points, however, are quite instructive. As the filing explains, large-scale corporate decisions are overseen by a “long-term benefit trust” (LTBT): a five-person body responsible for appointing a majority of",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/2027785c29be6d1a65fa44ec.json"
+    },
+    {
+      "id": "4ca1ec428c4431175cd2557e",
+      "title": "New York City’s New Trash Bins Promise Clean Curbs for All",
+      "url": "https://democraticleft.dsausa.org/2026/11/19/new-york-citys-new-trash-bins-promise-clean-curbs-for-all",
+      "author": "Democratic Left",
+      "source": "Democratic Left",
+      "published_at": "2026-11-19T18:42:30+00:00",
+      "content_excerpt": "Mayor Zohran Mamdani’s plan to replace piles of trash bags with new trash containers reclaims public space for a public purpose. The post New York City’s New Trash Bins Promise Clean Curbs for All appeared first on Democratic Left .",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/4ca1ec428c4431175cd2557e.json"
+    },
+    {
+      "id": "2a37e0f9e38772200f0f570c",
+      "title": "20 types of boss psychological warfare",
+      "url": "https://workerorganizing.org/resources/guide/inoculation-boss-campaign/20-types-of-boss-psychological-warfare",
+      "author": "Emergency Workplace Organizing Committee",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-11-19T18:13:53+00:00",
+      "content_excerpt": "This list of the most common kinds of manipulation workers face can help inoculate your organizing campaign against the boss's tricks. The post 20 types of boss psychological warfare appeared first on EWOC .",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/2a37e0f9e38772200f0f570c.json"
+    },
+    {
+      "id": "935041008ce24be2941a5483",
+      "title": "The Health Insurance Experience",
+      "url": "https://rocdsa.org/blog/the-health-insurance-experience",
+      "author": "Rochester Red Star: News from Rochester DSA",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-11-19T18:13:53+00:00",
+      "content_excerpt": "by Sara C The following text is adapted from a speech delivered by Sara C at the NY Health Act Rally held October 17 at Rochester’s Liberty Pole. Despite health insurance being the primary way most Americans access any kind of health care, it’s not exactly popular. It can be expensive, not just in the premiums we pay for it with every paycheck, but also with deductibles that mean coverage doesn’t even start until you’ve paid a certain amount out of pocket. The coverage itself can be frustratingly limited. Beyond all that, health insurance companies have plenty of tactics to avoid payment and accountability. This is my story of fighting against health insurance companies’ duplicitous practices, what I’ve learned from it, and what I see as a potential (if partial) solution. I was diagnosed w",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/935041008ce24be2941a5483.json"
+    },
+    {
+      "id": "20a2f88cdf2fce4c7585a22a",
+      "title": "How Will We Get People to Work Under Socialism?",
+      "url": "https://jacobin.com/2026/11/work-freedom-motivation-capitalism-socialism",
+      "author": "Nick French",
+      "source": "Jacobin",
+      "published_at": "2026-11-19T17:45:30+00:00",
+      "content_excerpt": "With Zohran Mamdani’s rise to the mayoralty of the United States’s largest city and democratic socialists winning more and more elected offices at all levels across the country, there is renewed interest in and excitement about the idea of democratic socialism. But among socialists, there is little consensus on the content of that ideal. Many on the Left describe socialism in terms of greater income redistribution or an expanded public sector, with some socialists even describing their vision as compatible with capitalism. But we are seeing a growing number of proposals for feasible postcapitalist futures , distinct from both the social democratic welfare states and the state socialist systems of the twentieth century. In a recent article for Catalyst: A Journal of Theory and Strategy , Ja",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/20a2f88cdf2fce4c7585a22a.json"
+    },
+    {
+      "id": "5113898a68e0c898b55e7158",
+      "title": "The Rising Congressional Left Is Positioned Well",
+      "url": "https://jacobin.com/2026/11/jeffries-house-speaker-centrism-socialist-challenge",
+      "author": "Branko Marcetic",
+      "source": "Jacobin",
+      "published_at": "2026-11-19T16:25:07+00:00",
+      "content_excerpt": "In a bitter disappointment for the Left, Hakeem Jeffries — the vehemently pro-Israel Wall Street darling who once , bizarrely, did a version of George Wallace’s infamous “segregation forever” speech, only subbing in “Israel” for “segregation” — will be the next speaker of the House of Representatives. The vote wasn’t even close: 251–11, with two members abstaining, something Jeffries’s allies are already celebrating as a sign of his domination of the Democratic caucus. Going into this election, the members of the expanded Squad — the twenty or so progressives and socialists elected to Congress who may or may not now be known as “The Bloc” — viewed the two years between now and 2028 as a vital, possibly final, chance for Democrats to deliver some actual results for working people and avert ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/5113898a68e0c898b55e7158.json"
+    },
+    {
+      "id": "46471e9093fe69b0e62d0686",
+      "title": "Kitchen Table Politics: What the 2026 Midterms Revealed About Abortion, Trans Dignity, and the Indignity of Common Sense",
+      "url": "https://scalawagmagazine.org/2026/11/kitchen-table-politics-what-the-2026-midterms-revealed-about-abortion-trans-dignity-and-the-indignity-of-common-sense",
+      "author": "Ja'Loni Owens",
+      "source": "Scalawag",
+      "published_at": "2026-11-19T16:07:25+00:00",
+      "content_excerpt": "We talk about \"kitchen table politics\" as if it were a place free of culture, a neutral ground of gas prices and grocery bills where the culture wars are an unwelcome distraction. Anyone who has actually sat at one knows better. The kitchen table is where the culture war is fought, and it is fought by people who love you. Read more via Scalawag : Kitchen Table Politics: What the 2026 Midterms Revealed About Abortion, Trans Dignity, and the Indignity of Common Sense .",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/46471e9093fe69b0e62d0686.json"
+    },
+    {
+      "id": "f70b0f44d5d03ff900ede54b",
+      "title": "Slow-Motion Atomic Bomb",
+      "url": "https://www.laprogressive.com/climate-change/slow-motion-atomic-bomb-were-ignoring",
+      "author": "Tom Engelhardt",
+      "source": "LA Progressive",
+      "published_at": "2026-11-19T16:06:38+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. In some sense, all of us on this planet of... well, I was going to say ours, but I’m not so sure anymore... are living through a slow-motion cataclysm, a first-class global apocalypse in the making. As a headline on the World Meteorological Organization’s website put it recently , “State of the climate in 2026 gives new meaning to phrase ‘off the charts.’” Here in the United States in the age of Donald Trump, though, you’d hardly know it. You might even say that, in some sense, the subject is MIA or missing in action. Count on this: If even one atomic bomb were ever to be used in a war in this world of ours, it would be the headline story across this country and planet. And",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/f70b0f44d5d03ff900ede54b.json"
+    },
+    {
+      "id": "5d653e886c08a7f18895b964",
+      "title": "Democracy Strikes Back",
+      "url": "https://www.laprogressive.com/progressive-issues/democracy-strikes-back",
+      "author": "John Peeler",
+      "source": "LA Progressive",
+      "published_at": "2026-11-19T15:33:12+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. I owe Judy Peeler thanks for inspiring this comparison. October 5, 1988: Dictator General Augusto Pinochet is unexpectedly and overwhelmingly defeated in a referendum intended to authorize a second eight-year term as President. After his efforts to hold on to power are blocked by other members of the military junta, Pinochet follows his own rules and stages a general election in 1989 that ends his 16 year dictatorship and restores democracy in Chile after the violent coup that overthrew the last elected president, Salvador Allende, in 1973. April 12, 2026: After a decade in power, Prime Minister Victor Orbán is unexpectedly defeated in a parliamentary election. His previous",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/5d653e886c08a7f18895b964.json"
+    },
+    {
+      "id": "24913855037ec9a16dba9a74",
+      "title": "Rejecting Equality Is a Long-Standing American Tradition",
+      "url": "https://jacobin.com/2026/11/review-phillips-fein-american-inequality-reactionaries",
+      "author": "Robbie Nelson",
+      "source": "Jacobin",
+      "published_at": "2026-11-19T15:03:49+00:00",
+      "content_excerpt": "Living in a country whose residents include both the world’s first trillionaire and 1.5 million homeless schoolchildren, the fact of American inequality is hard to miss. Such a reality produces countless justifications, explanations, and plans for ameliorating its worst impacts across the political spectrum. But at its sharpest edge, it also produces a coterie of intellectuals, pseudo-intellectuals, tycoons, activists, and posters who don’t merely attempt to explain or excuse inequality but rather celebrate its fruits and try to consolidate its bases. Silicon Valley today plays host to the most prominent nest of techno-fascists, neoreactionaries, transhumanists, and “ effective altruists ” whose obscene wealth allows them to shape political discourse far beyond the strengths of their ideas",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/24913855037ec9a16dba9a74.json"
+    },
+    {
+      "id": "227b96beeaa5dac2b5978f4f",
+      "title": "The Violent Far-Right Response to France’s Protests",
+      "url": "https://jacobin.com/2026/11/le-pen-far-right-rassemblement-national-violence",
+      "author": "Olly Haynes",
+      "source": "Jacobin",
+      "published_at": "2026-11-19T14:04:20+00:00",
+      "content_excerpt": "For France’s media-political classes, the recent student movement has prompted a series of searching questions about violence and who has the right to use it. Debates often center on the alleged closeness of protesters to La France Insoumise, implying that Jean-Luc Mélenchon’s left-wing party is somehow responsible for vandalism by protesters and marginal acts of violence by students. Less remarked upon however, is that a wave of violence coming from the far right has also marked the protests and the presidential election campaign. Nor has it been much noted that this violence has killed already, and that Marine Le Pen’s Rassemblement National (RN) is alarmingly close to the violent groupuscules involved. Already on October 24, far-right militants attacked trade unionists and protesters in",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/227b96beeaa5dac2b5978f4f.json"
+    },
     {
       "id": "07c7ac3d720d63e50d847997",
       "title": "Why Are Most Union Leaders Silent on Booting Chuck Schumer?",
@@ -66,246 +246,6 @@
       "priority": 1,
       "date_missing": false,
       "article_path": "articles/03de9e25ab0a0214cc1d544f.json"
-    },
-    {
-      "id": "e6b26d53a5208cfdd675bc79",
-      "title": "The American Woman Who Joined Algeria’s Socialist Experiment",
-      "url": "https://jacobin.com/2026/11/mokhtefi-algeria-panthers-third-world-revolution",
-      "author": "Julia Harte",
-      "source": "Jacobin",
-      "published_at": "2026-11-18T18:50:57+00:00",
-      "content_excerpt": "Within days of arriving in Algeria, months after its liberation from France in 1962, Elaine Klein knew she was there for the long haul. “The experiment to create a new socialist country from the impoverished colony, the tremendous task of building a state respected in the international arena, was daunting,” she later wrote. Yet, “My gut told me that I would settle here.” Her intuition was correct. For more than a decade, the Jewish New Yorker was the only American in Algeria’s new government. She assumed a range of roles — reporter, translator, envoy — as the former French colony established itself as an international haven for resistance groups, political dissidents, and anti-colonial organizers. Klein was not the only one taking on new responsibilities. A national program of popular self",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/e6b26d53a5208cfdd675bc79.json"
-    },
-    {
-      "id": "8eba34f61feecba989465bb0",
-      "title": "Iran Dirty Bomb Allegations",
-      "url": "https://www.laprogressive.com/the-media-in-the-united-states/iran-dirty-bomb-allegations",
-      "author": "William J. Astore",
-      "source": "LA Progressive",
-      "published_at": "2026-11-18T18:10:47+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. I woke to the news that America’s mainstream media , always judicious and careful, sees a profound threat from Iran: A dirty bomb to be used against Washington, DC. Sources? Anonymous. Does Iran truly have a bomb or even the capability to deploy it against DC? Unlikely. Truth doesn’t matter here. It’s all about countering momentum building in Congress to put an end to the Iran war. Aaron Maté puts it well in this tweet: The Trump admin committed an unprecedented faux pas before launching its war on Iran: it didn't bother feeding corporate media a pro-war lie to promote. With one \"dirty bomb\" leak, harmony is being restored to the Beltway propaganda system: https://t.co/19E1",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/8eba34f61feecba989465bb0.json"
-    },
-    {
-      "id": "50e97556f4d69a1419dc13e7",
-      "title": "Russell Vought Federal Grant Plan",
-      "url": "https://www.laprogressive.com/progressive-issues/russell-vought-federal-grant-plan",
-      "author": "Marcus Baram",
-      "source": "LA Progressive",
-      "published_at": "2026-11-18T17:53:32+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Kandy Fatheree runs the Summit County Sheriff’s Office in Ohio’s fourth-largest county. Randall Longenecker spent 30 years as a rural family doctor — delivering babies in small-town practice, then training a generation of physicians to do the same. The National Small Business Association has been a nonpartisan voice in Washington for nearly nine decades. None of them are the usual suspects in a fight with the administration of President Donald Trump. Yet all three filed formal objections to a proposed rule by the White House’s Office of Management and Budget that would hand political appointees sweeping authority over hundreds of billions of dollars a year in federal grants",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/50e97556f4d69a1419dc13e7.json"
-    },
-    {
-      "id": "fdd5063dd1433591185967e6",
-      "title": "The Longest Hotel Strike in Washington State History",
-      "url": "https://jacobin.com/2026/11/seattle-hilton-unite-here-strike",
-      "author": "Diana Varenik",
-      "source": "Jacobin",
-      "published_at": "2026-11-18T17:18:56+00:00",
-      "content_excerpt": "You’d be forgiven for worrying, twelve weeks into a strike, that the boss is hell-bent on waiting you out. But after more than eighty days on the picket line at Seattle’s Embassy Suites by Hilton in Pioneer Square, Aspen Desmarais was undeterred. “I can live on a budget,” she said. “Been doing it since day one.” After eighty-five days, on September 10, workers won the longest hotel strike in Washington state history. Their union, UNITE HERE Local 8, represents four thousand hospitality workers in Oregon and Washington. Desmarais, a strike captain and bartender at the hotel, worked to keep others motivated throughout the fight. She and her coworkers were “tired of people talking down to us and not treating us with respect,” she said, “when we’re the reason that place stays running the way t",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/fdd5063dd1433591185967e6.json"
-    },
-    {
-      "id": "7eac78c5da9fa107c945fe45",
-      "title": "Metro DC DSA Welcomes Councilmember-elect Oye Owolewa as a Socialist in Office",
-      "url": "https://mdcdsa.org/2026/11/18/metro-dc-dsa-welcomes-councilmember-elect-oye-owolewa-as-a-socialist-in-office",
-      "author": "Metro DC DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-11-18T17:11:10+00:00",
-      "content_excerpt": "On Friday, November 6, Metro DC DSA voted overwhelmingly to welcome Councilmember-elect Oye Owolewa as a Socialist in Office (SIO). As an SIO, Oye is able to participate in the chapter’s Socialists in Office Committee, the How We Win network of democratic socialist elected officials nationwide, and other resources of the organization. The post Metro DC DSA Welcomes Councilmember-elect Oye Owolewa as a Socialist in Office appeared first on Metro DC DSA .",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/7eac78c5da9fa107c945fe45.json"
-    },
-    {
-      "id": "2b4fa5d538381b1a5501699c",
-      "title": "Vermont Socialist: November 2026",
-      "url": "https://greenmountaindsa.org/blog/vermont-socialist-november-2026",
-      "author": "Green Mountain DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-11-18T17:11:10+00:00",
-      "content_excerpt": "HELP SHAPE OUR NEXT YEAR: ANNUAL CONVENTION, SUNDAY, NOVEMBER 15 Green Mountain DSA’s annual convention is Sunday, November 15, at the Socialist Labor Party Hall, 46 Granite Street in Barre. We’ll begin around 11 a.m. and continue through the late afternoon. At convention, we’ll elect chapter officers and committee chairs and consider resolutions and bylaws amendments that will shape our work in the coming year. We strongly encourage members to attend in person. It’s a chance to meet comrades from across Vermont and have a say in what we take on together. A virtual option is also available. Register in advance and find convention details. The convention page also has the form for nominating chapter officers and committee chairs. FIVE GREEN MOUNTAIN DSA ENDORSEES HEADED TO MONTPELIER AND A ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/2b4fa5d538381b1a5501699c.json"
-    },
-    {
-      "id": "aa20b43d6de9ae870550ad4b",
-      "title": "Lead Munitions Detonation in Middletown, IA",
-      "url": "https://quadcitiesdsa.org/2026/11/18/lead-munitions-detonation-in-middletown-ia",
-      "author": "Quad Cities DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-11-18T17:11:10+00:00",
-      "content_excerpt": "This Friday, November 20th, the US Army will detonate barrels of unstable explosive lead azide at the Iowa Army Ammunition Plant outside of Middletown, IA, creating a plume of toxic lead dust that will move 100 miles north towards the Quad Cities and blanket hundreds of square miles of Iowa and Illinois. This deliberate explosion […]",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/aa20b43d6de9ae870550ad4b.json"
-    },
-    {
-      "id": "cc79cede591ff2578c7db845",
-      "title": "Did Moderate Democrats Really Outperform the Left? No.",
-      "url": "https://jacobin.com/2026/11/midterm-results-data-analysis-centrists-left",
-      "author": "Matt Bruenig",
-      "source": "Jacobin",
-      "published_at": "2026-11-18T16:59:55+00:00",
-      "content_excerpt": "Democrats did well in the 2026 midterm elections. According to the current tally, they gained forty-one House seats , eight Senate seats , and five governorships . Democratic candidates of all types had success, making it difficult to easily point the finger at this or that faction for blowing the election. This has generated some frustration among factional partisans because such partisans are heavily invested in the idea that their style of politics is electorally superior to the politics of other factions. They can’t point to winners and losers to support their positions because, in this election, everyone was a winner. So they are forced to make their case by analyzing margins of victory, which is hard to do well and full of uncertainty even when it is done well. In this piece, I walk ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/cc79cede591ff2578c7db845.json"
-    },
-    {
-      "id": "e160c58c22967142233f1f7b",
-      "title": "Progressive Activists Win Elections",
-      "url": "https://www.laprogressive.com/election-and-campaigns/progressive-activists-win-elections",
-      "author": "Michael Albert",
-      "source": "LA Progressive",
-      "published_at": "2026-11-18T16:09:59+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Electoral effort powerfully trounced Trumpism. Not to death, but getting closer. Some election postmortem prescriptions inspire. Some disturb. Which is which? Large sectors of America want serious change. Perched a bit behind them, many other Americans are wavering. And next on the involvement spectrum, quite a few MAGA members are seriously shook up. What can now sustain the gains to go further? As with most social issues and possibilities, there are better and worse answers. Can we at least identify a dividing line? Can we even agree on what makes activist choices better or worse? Can we describe some specific choices of each sort? If so, perhaps we can use such criteria ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/e160c58c22967142233f1f7b.json"
-    },
-    {
-      "id": "5749e9a37db3d1462cc23f9a",
-      "title": "Transnational Prosecutions",
-      "url": "https://www.laprogressive.com/foreign-policy/transnational-prosecutions",
-      "author": "Ann Garrison",
-      "source": "LA Progressive",
-      "published_at": "2026-11-18T15:47:17+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. At 7 pm on Saturday, November 7th, ICE agents appeared at the Plymouth Correctional Facility in Plymouth, Massachusetts, and handcuffed prisoner Jean Léonard Teganya. No one knew of his whereabouts after that until Monday, November 9 when his family in Canada and the US learned that he was in Kigali, Rwanda, deported even though his appeal of a deportation order was still pending. The essentials of his case are, as I have described them here before: A Rwandan refugee of Hutu ethnicity is charged with genocide crime decades after the 1994 genocide in Rwanda. Witnesses in Rwanda make accusations that they have for some reason kept to themselves for decades. No hard evidence i",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/5749e9a37db3d1462cc23f9a.json"
-    },
-    {
-      "id": "4e297f44a258cba4985aded7",
-      "title": "Anthropic’s IPO Is a Bid to Manufacture Confidence",
-      "url": "https://jacobin.com/2026/11/ai-anthropic-ipo-jobs-data-centers",
-      "author": "Clark Randall",
-      "source": "Jacobin",
-      "published_at": "2026-11-18T15:39:43+00:00",
-      "content_excerpt": "Anthropic, maker of artificial intelligence software Claude, is going public this Thursday. The initial public offering (IPO) could top the record SpaceX set earlier this year, once a concurrent private stock placement is counted. In February, Anthropic raised capital at a $380 billion valuation, and it is now seeking buy-in at $1.4 trillion. The rise has only been matched by the demand from investors, as Bloomberg reported the IPO road show was oversubscribed by six times the available shares. In other words, institutions will be crowding out individual investors vying for early gains. Anthropic aims to raise $64 billion from the IPO in a nontraditional coming-to-market event. It has already been widely noted how the IPO’s role has changed over the last decade, with the flipping of public",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/4e297f44a258cba4985aded7.json"
-    },
-    {
-      "id": "260fc0a174aa8d462ca69a2a",
-      "title": "Is This the End of Pedro Sánchez?",
-      "url": "https://jacobin.com/2026/11/sanchez-psoe-elections-housing-immigration",
-      "author": "Pablo Castaño",
-      "source": "Jacobin",
-      "published_at": "2026-11-18T14:09:37+00:00",
-      "content_excerpt": "In recent years, Pedro Sánchez’s Spanish government, formed by his Socialists (PSOE) and the left-wing alliance Sumar, has been a reference point for the global left. Rarely among social democratic politicians, Sánchez has become well-known for his confrontations with Donald Trump and Benjamin Netanyahu, and for his governing coalition’s progressive social and economic policies. However, Spain’s government could soon fall into the hands of a new alliance of the conservative Partido Popular (PP) and the far-right Vox party. At least, this is what almost all polls now suggest, less than two weeks before the general election on November 29. There are many reasons for the electoral weakness of the PSOE and its further-left allies, now grouped in the Frente Amplio alliance. The broad-left gover",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/260fc0a174aa8d462ca69a2a.json"
-    },
-    {
-      "id": "66c20753950b1c60dd7f0629",
-      "title": "Ajamu Baraka on Real Talk: History as a Weapon for Black Liberation",
-      "url": "https://blackagendareport.com/ajamu-baraka-real-talk-history-weapon-black-liberation",
-      "author": "bareditors",
-      "source": "Black Agenda Report",
-      "published_at": "2026-11-18T04:23:03+00:00",
-      "content_excerpt": "Ajamu Baraka on Real Talk: History as a Weapon for Black Liberation bareditors Wed, 11/18/2026 - 09:26 ​​​​​​​ Ajamu Baraka, BAR editor and columnist Sundiata Cha-Jua",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/66c20753950b1c60dd7f0629.json"
-    },
-    {
-      "id": "64ed6635511af483af2ac295",
-      "title": "Lula La! How Brazil Beat Back Fascism in Three Weeks in October",
-      "url": "https://democraticleft.dsausa.org/2026/11/17/lula-la-how-brazil-beat-back-fascism-in-three-weeks-in-october",
-      "author": "Democratic Left",
-      "source": "Democratic Left",
-      "published_at": "2026-11-18T03:41:29+00:00",
-      "content_excerpt": "The victory of Brazil’s Workers’ Party over the far-right shows how working-class mobilization can beat the far-right — and the odds. The post Lula La! How Brazil Beat Back Fascism in Three Weeks in October appeared first on Democratic Left .",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/64ed6635511af483af2ac295.json"
-    },
-    {
-      "id": "e705ec7264cc65340e06172b",
-      "title": "Weekly Roundup: November 17, 2026",
-      "url": "https://dsasf.org/weekly-roundup-november-17-2026",
-      "author": "San Francisco DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-11-18T02:49:28+00:00",
-      "content_excerpt": "Events & Actions Tuesday, November 17 (6:30 PM – 8:00 PM) Ecosocialist Bi-Weekly Meeting (zoom and in person at 1916 McAllister) Wednesday, November 18 (7:00 PM – 8:30 PM) Tenant Organizing Working Group Meeting (zoom and in person at 1916 McAllister) Thursday, November 19 (6:00 PM – 7:00 PM) Education Board Constructive Criticism Training (zoom and in person at 1916 McAllister) Thursday, November 19 (7:00 PM – 8:00 PM) Immigrant Justice Regular Meeting (zoom and in person at 1916 McAllister) Saturday, November 21 (6:00 PM – 8:00 PM) HWG Food Service (in person at Patricia’s Green in Hayes Valley) Sunday, November 22 (1:00 PM – 4:00 PM) Palestine Solidarity / AFZ Social (in person at Hoover Redwood Grove Picnic Area) Sunday, November 22 (3:00 PM – 4:45 PM) EWOC Fundamentals of Workplace Or",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/e705ec7264cc65340e06172b.json"
-    },
-    {
-      "id": "c366794ffe34506a096801f6",
-      "title": "Young Voters and the 2026 Blue Wave",
-      "url": "https://www.laprogressive.com/election-and-campaigns/young-voters-and-the-2026-blue-wave",
-      "author": "Randy Shaw",
-      "source": "LA Progressive",
-      "published_at": "2026-11-17T22:21:36+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. The Power of Ongoing Outreach A big story behind the blue election tsunami was the sharp rise in youth voting. According to a leading source , youth turnout was 27% across the nation. It was 30% in battleground states. It was the best midterm youth turnout since 2018. Voters under 30 favored Democrats by a whopping 35%. In contrast, voters over 45 were almost equally divided. That’s why many believe “ the youth vote was key to Democratic Wins in the Midterms .” This sharp turnout increase among an historically under-performing demographic has been building for years. While youth turnout was driven by factors shared by the overall electorate, it also reflected a sophisticate",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/c366794ffe34506a096801f6.json"
     }
   ]
 }
