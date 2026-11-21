@@ -1,12 +1,208 @@
 {
-  "generated_at": "2026-11-21T00:54:50.779012+00:00",
-  "generated_at_jst": "2026-11-21T09:54:50.779012+09:00",
-  "period_start": "2026-11-19T18:54:50.779012+00:00",
+  "generated_at": "2026-11-21T23:52:26.467429+00:00",
+  "generated_at_jst": "2026-11-22T08:52:26.467429+09:00",
+  "period_start": "2026-11-20T17:52:26.467429+00:00",
   "lookback_hours": 30,
   "folder": "00_毎日確認",
-  "article_count": 20,
+  "article_count": 17,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "d934a7dfb485d6eed8dd3c8d",
+      "title": "Socialism Deferred: The Communist Party of Italy and the Historic Compromise of 1976",
+      "url": "https://socialistforum.dsausa.org/uncategorized/socialism-deferred-the-communist-party-of-italy-and-the-historic-compromise-of-1976",
+      "author": "Socialist Forum",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-11-21T22:08:37+00:00",
+      "content_excerpt": "American politics is at a crossroads. All that was once considered certain or possible is now in question. For the first time since the early 20th century, American Socialists are gaining considerable municipal and state level influence through successful and highly publicized electoral campaigns. After a largely successful midterm showing, the DSA established itself as a small but potent force in American politics. For the first time there is a comparatively large cohort of elected DSA members holding local, state, and federal office. Along with this heightened political influence comes greater political risk. Questions of electoral positioning and maneuver take on greater weight. Examining the past experience of socialist and non-socialist alliances can be instructive. Italy provides a p",
+      "source_folders": [
+        "00_毎日確認",
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/d934a7dfb485d6eed8dd3c8d.json"
+    },
+    {
+      "id": "64424b12e3d249ce700385ac",
+      "title": "Scenes from New York City DSA’s Convention",
+      "url": "https://democraticleft.dsausa.org/2026/11/21/scenes-from-new-york-city-dsas-convention",
+      "author": "Democratic Left",
+      "source": "Democratic Left",
+      "published_at": "2026-11-21T20:18:48+00:00",
+      "content_excerpt": "DSA’s largest chapter held its annual convention on Nov. 14. The post Scenes from New York City DSA’s Convention appeared first on Democratic Left .",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/64424b12e3d249ce700385ac.json"
+    },
+    {
+      "id": "2889baca32a8a1bfdd90a012",
+      "title": "David Dinkins Wasn’t Loud Enough for New York City",
+      "url": "https://jacobin.com/2026/11/review-dinkins-mayoralty-police-reform",
+      "author": "David Duhalde",
+      "source": "Jacobin",
+      "published_at": "2026-11-21T18:54:08+00:00",
+      "content_excerpt": "In the past few weeks, New York City mayor Zohran Mamdani has proposed breaking up the Strategic Response Group and closing Rikers by 2032 , the former established by progressive Mayor Bill de Blasio, who also revived a plan to dismantle the latter by 2027. But unfulfilled promises of police and carceral reform efforts go back to the 1990s. How much should the failures of previous mayoral administrations weigh on the decisions of Mamdani and his allies in regard to public safety and police? This question has no easy answer. But a new book by James Barney on the tenure of New York City’s first black mayor, David Dinkins, offers insights on his efforts to rein in police excesses based on new research, especially in the local press of the era — and critically how those attempts failed, despit",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/2889baca32a8a1bfdd90a012.json"
+    },
+    {
+      "id": "7cff3d67098c990bb09bf80e",
+      "title": "Wage Crisis",
+      "url": "https://www.laprogressive.com/economic-equality/wage-crisis",
+      "author": "Sonali Kolhatkar",
+      "source": "LA Progressive",
+      "published_at": "2026-11-21T16:31:45+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. With a new crop of Democratic senators and representatives heading to Congress in January, many are calling for their first order of business to be raising the federal minimum wage . Even Representative Hakeem Jeffries, who is vying for the position of House Speaker and is known for being cautious , says raising the minimum wage is imperative . An Associated Press survey of voters in November 2026 showed that “About 9 in 10 voters said the cost of living was a ‘crucial’ or ‘major’ factor in their vote for Congress.” Saru Jayaraman, the co-founder and president of One Fair Wage who represents 14 million restaurant workers, says Democrats have a “mandate” to improve affordabi",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/7cff3d67098c990bb09bf80e.json"
+    },
+    {
+      "id": "ccb85561dbd8a748ccb226db",
+      "title": "Inflation Is About Resources — and Power",
+      "url": "https://jacobin.com/2026/11/inflation-austerity-oil-class-sweden",
+      "author": "Oskar Brandt",
+      "source": "Jacobin",
+      "published_at": "2026-11-21T16:31:32+00:00",
+      "content_excerpt": "After prices began rising and rising in the wake of COVID-19 and Russia’s invasion of Ukraine, some blamed welfare and public spending for the inflation. Yet in many economies, weak demand and falling public investment after 2008 held back investment and productive capacity. Austerity can also weaken productivity and future growth. In the United States, changes to trade policy during Donald Trump’s first presidency added to uncertainty about the economic situation. Trade policy uncertainty between 2017 and 2018 may have lowered investment by 1 to 2 percent. During the pandemic, automakers canceled orders and halted production. Demand returned before factories, suppliers, and transport networks could restart. The Cleveland Fed documented how factory shutdowns, parts shortages, and shipping ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/ccb85561dbd8a748ccb226db.json"
+    },
+    {
+      "id": "694e98e4f0cef1b2d92728df",
+      "title": "Under Capitalism, Socialism Will Never Disappear",
+      "url": "https://jacobin.com/2026/11/democratic-socialist-left-movements-history",
+      "author": "Alex McCarron",
+      "source": "Jacobin",
+      "published_at": "2026-11-21T16:01:47+00:00",
+      "content_excerpt": "If socialists and progressives had a good night on November 3, it wasn’t so much because they brought new ideas to the election, but because it was a chance to relitigate fights the Right thought it had won years ago: universal health care, Palestinian solidarity, and the expansion of the labor movement. We even got a rematch between George W. Bush–era Islamophobia and two of the Muslim Americans who had to live in its shadow, Adam Hamawy and Abdul El-Sayed. Many have lauded Zohran Mamdani’s novel use of the term “affordability” for the recent shift in political common sense. But while his branding is new, his politics are not. Mamdani has never styled himself as a new kind of politician. He seems to be constantly locating himself in history, comparing himself to Milwaukee’s sewer socialis",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/694e98e4f0cef1b2d92728df.json"
+    },
+    {
+      "id": "92f5ab9e15d8b6c915bceafb",
+      "title": "Anwar Shaikh Renewed Marx’s Economic Theory for Our Time",
+      "url": "https://jacobin.com/2026/11/shaikh-marxian-political-economic-theory",
+      "author": "Riccardo Bellofiore",
+      "source": "Jacobin",
+      "published_at": "2026-11-21T15:10:25+00:00",
+      "content_excerpt": "Anwar Shaikh, who died on October 6, 2026, was one of the most original economists of the last half-century. Few did as much to rescue the Marxian critique of political economy from its theoretical difficulties and develop it into a rigorous, empirically grounded analysis of contemporary capitalism. Shaikh’s ambition was extraordinary. He reconstructed classical political economy as an alternative to the neoclassical mainstream, understanding capitalism not as a system tending toward harmonious equilibrium but as a turbulent social order whose normal functioning generates competition, conflict, structural change, and crisis. I owe Anwar an immense intellectual debt . For more than fifty years, his writings were a source of inspiration and critical engagement. While our perspectives were ne",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/92f5ab9e15d8b6c915bceafb.json"
+    },
+    {
+      "id": "b322c29ae47e06f5271bc4f4",
+      "title": "Why Do We Need the Cornell Story to Be Worse?",
+      "url": "https://newpol.org/why-do-we-need-the-cornell-story-to-be-worse",
+      "author": "Anya Coleman-Hill",
+      "source": "New Politics",
+      "published_at": "2026-11-21T11:43:49+00:00",
+      "content_excerpt": "A woman should be able to tell us more about what happened without becoming less deserving of our concern. I want our outrage to survive the details. The post Why Do We Need the Cornell Story to Be Worse? appeared first on New Politics .",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/b322c29ae47e06f5271bc4f4.json"
+    },
+    {
+      "id": "ac57fa6f278012239d673f2a",
+      "title": "Confederacy of Dunces",
+      "url": "https://www.laprogressive.com/progressive-issues/confederacy-of-dunces",
+      "author": "Chuck Yates",
+      "source": "LA Progressive",
+      "published_at": "2026-11-21T03:36:29+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. In 1706, over three centuries before the start of the second Trump regime, Jonathan Swift wrote, “When a true genius appears in the world, you may know him by this sign, that the dunces are all in confederacy against him.” Swift had a good eye for the absurd, and knew a dunce when he saw one, but what would he think if he could see us now, with the dunces in charge and not a single genius anywhere in sight? At least two things seem clear. First, despite what his loyal followers think, Trump has proven that he’s no genius. He may have some knack for working a room, but so does any stand-up comic worthy of the name. It doesn’t take a genius to rouse a rabble. All you have to ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/ac57fa6f278012239d673f2a.json"
+    },
+    {
+      "id": "6ecf04a792182cfcc8172c0f",
+      "title": "Can Xavier Becerra Make Life More Affordable",
+      "url": "https://www.laprogressive.com/california-political-issues/can-xavier-becerra-make-life-more-affordable",
+      "author": "Mark Kreidler",
+      "source": "LA Progressive",
+      "published_at": "2026-11-21T02:26:26+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. The affordability issues that drove the midterm elections weren’t mitigated by the mere fact of a blue wave. Democratic leaders in Congress and the individual states still face systemic problems, some of which can appear intractable. That’s especially true in California, where some 14 million residents, more than a third of the population, rely on Medi-Cal, the state’s version of the low-income Medicaid program, for their health care. California’s poverty rate is among the highest in the nation, as it has been for nearly 15 years. The challenge to millions of low-wage workers — find a way to afford life in the Golden State — has never stood taller. But that’s not the same a",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/6ecf04a792182cfcc8172c0f.json"
+    },
+    {
+      "id": "877eed1cbad0c53870c64f4f",
+      "title": "DSA SF’s Battle for an Affordable, Equitable San Francisco",
+      "url": "https://dsasf.org/dsa-sfs-battle-for-an-affordable-equitable-san-francisco",
+      "author": "San Francisco DSA",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-11-21T01:19:06+00:00",
+      "content_excerpt": "The Democratic Socialists of America won 160 elected offices and ballot measures across the country this month. One of those measures, Proposition B for a San Francisco Public Bank, has been added to the list of DSA SF’s electoral victories. In red states and blue, the message of these midterms was clear: Working people want socialism. However, here at home, our oligarch mayor and his billionaire friends spent record sums to convince San Francisco voters to amend the city charter in order to consolidate control in the Mayor’s Office and limit working class access to the ballot. Socialists, as part of the broader working class movement, went toe to toe with the new San Francisco machine – the coalition of corporate real estate and tech money that has formed around Mayor Lurie – to fight for",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/877eed1cbad0c53870c64f4f.json"
+    },
+    {
+      "id": "d126af8087e63de489f58b96",
+      "title": "We Started the School Year with a March on the Principal",
+      "url": "https://medium.com/dsa-detroit-newspaper/we-started-the-school-year-with-a-march-on-the-principal-022932bf9ed8?source=rss-160b7baee925------2",
+      "author": "Detroit DSA",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-11-21T01:19:06+00:00",
+      "content_excerpt": "Our classrooms have been flooding multiple times a year. As demoralized as my co-workers were, this issue had the juice we needed to lead a workplace action — everyone cared enough to do something about it. Photo: Kayla Sharpe By Kayla Sharpe At Ferndale High School, one of our most pressing problems is the dilapidated building, built in the 1950s. The outdated heating and cooling systems are prone to classroom floods — in the last nine months I’ve experienced three. Once boiling hot water sprayed out of the HVAC unit during class, nearly injuring a student. It was late August — our last Sunday night of freedom before our teacher professional development week — when six of my co-workers and I received an email from our principal. She said that a few classrooms had flooded again the previou",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/d126af8087e63de489f58b96.json"
+    },
+    {
+      "id": "b0559baedecdd9e98c99f0aa",
+      "title": "Transgender Day of Remembrance — Why We Fight",
+      "url": "https://www.dsausa.org/statements/transgender-day-of-remembrance-why-we-fight",
+      "author": "DSA National Statements",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-11-21T01:19:06+00:00",
+      "content_excerpt": "[Content Warning – Violence and Suicide] This year, over 50* Transgender Americans have lost their lives due to societal violence. One of these is 29 year old Hailey Singleton from Dunnellon, who while living in Florida, was found along a dirt road with gunshot wounds. Davonta Curtis from Chicago, Illinois is one of the many BIPOC Trans people that are no longer with us. In Boise, Idaho, May Pollard is one of the three youngest people listed at 16 years old. She, along with Sydney Lou Walden from Lancaster, Pennsylvania, were one of at least 20 who committed suicide. On November 20th, crowds across the country are gathering for Transgender Day of Remembrance, where poets, priests and local politicians will speak about the plight of America’s (arguably) most marginalized and targeted minori",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/b0559baedecdd9e98c99f0aa.json"
+    },
     {
       "id": "302aef9e7e0c5ccfdcf91efc",
       "title": "Amazon Is Ratcheting Up Its Fight With NYC Delivery Drivers",
@@ -66,246 +262,6 @@
       "priority": 1,
       "date_missing": false,
       "article_path": "articles/e627d08ebdc7cdaf6b582dfa.json"
-    },
-    {
-      "id": "6152d3128c7c9a20d42e71db",
-      "title": "Your National Political Committee newsletter — Cool weather, hot DSA wins",
-      "url": "https://www.dsausa.org/news/nov2026_npc_newsletter",
-      "author": "DSA National: NPC Dispatch and Newsletter",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-11-20T17:27:40+00:00",
-      "content_excerpt": "Enjoy your November National Political Committee (NPC) newsletter! Our NPC is an elected 27-person body (including both YDSA Co-Chairs) which functions as the board of directors of DSA. This month, check out electoral wins, take a labor solidarity pledge, find out more about our arms embargo campaign, and more! And to make sure you get our newsletters in your inbox, sign up here! Each one features action alerts, upcoming events, political education, and more. From the National Political Committee — Cool Weather, Hot DSA Wins Fall Drive Has Launched! Win Your Exclusive T-Shirt DSA Arms Embargo — Check Out Video, Sign Up to Get Involved Join our Growth and Development Committee’s Organizing Trainings, Phonebanks, and More Starting Sunday 11/22 Give to DSA’s Venezuela Earthquake Solidarity Fu",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/6152d3128c7c9a20d42e71db.json"
-    },
-    {
-      "id": "80754b0561030973f90fe53d",
-      "title": "On Jeffries’ Nomination for Speaker of the House",
-      "url": "https://www.dsausa.org/statements/on-jeffries-nomination-for-speaker-of-the-house",
-      "author": "DSA National Statements",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-11-20T17:27:40+00:00",
-      "content_excerpt": "DSA stands with the members-elect who voted NO on Hakeem Jeffries’ nomination for Speaker of the House. On November 3rd, voters demanded a different kind of politics. They demanded bold steps towards medicare for all, abolishing ICE, and an end to Israel’s genocide in Gaza. They trusted Democrats with the responsibility of ending corporate control over politics. No more corporate coronations. Democrats who enable genocide, ICE, and billionaire interests must be ousted. Call your elected officials and demand they reject the establishment and adopt an agenda for the working class. The post On Jeffries’ Nomination for Speaker of the House appeared first on Democratic Socialists of America (DSA) .",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/80754b0561030973f90fe53d.json"
-    },
-    {
-      "id": "36f3a963a96931e35f1c152e",
-      "title": "Tenant Organizing Through Elections",
-      "url": "https://washingtonsocialist.mdcdsa.org/ws-articles/tenant-organizing-through-elections",
-      "author": "Washington Socialist - Metro DC DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-11-20T17:27:40+00:00",
-      "content_excerpt": "Tenant rights are still constantly under attack, even in a city with a very strong foundation of tenants' rights, and those attacks are not going to go away.",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/36f3a963a96931e35f1c152e.json"
-    },
-    {
-      "id": "1610e404b927b31cd8de6b99",
-      "title": "Lessons for Metro DC DSA from 2026 Congressional Primaries",
-      "url": "https://washingtonsocialist.mdcdsa.org/ws-articles/metro-dc-dsa-lessons-2026-congressional-primaries",
-      "author": "Washington Socialist - Metro DC DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-11-20T17:27:40+00:00",
-      "content_excerpt": "There is no reason why Metro DC DSA cannot power a democratic socialist candidate’s campaign for Congress.",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/1610e404b927b31cd8de6b99.json"
-    },
-    {
-      "id": "6db751cd837176168bb5b74b",
-      "title": "Are you Attending Your Local Townhall? Your Neighborhood Reactionary Is.",
-      "url": "https://washingtonsocialist.mdcdsa.org/ws-articles/local-townhall-neighborhood-reactionary",
-      "author": "Washington Socialist - Metro DC DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-11-20T17:27:40+00:00",
-      "content_excerpt": "We cannot content ourselves with wielding public power without preserving its source",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/6db751cd837176168bb5b74b.json"
-    },
-    {
-      "id": "cdbee57ce78707974bf2150e",
-      "title": "Nolan Well",
-      "url": "https://www.laprogressive.com/racism/nolan-well",
-      "author": "Melina Abdullah",
-      "source": "LA Progressive",
-      "published_at": "2026-11-20T17:01:29+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Do you think that in such a short time you can persuade me to be a Christian? Acts 26:28 Christian Anthony Claudio is a righteous young Black man of conscience from upstate New York. He is a central fixture in his family and tightly-knit community, where he works with special needs children and can be relied on to help friends when their cars break down. At just 25-years-old, he owns his own home, pays his own bills, has never been arrested, and stands as a model of what it means to be a good brother, son, friend, and neighbor. He lives up to his name – Christian. Christian saw himself in Nolan Wells, the 18-year-old son of Christine and Elmore Wonsley, a college athlete, w",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/cdbee57ce78707974bf2150e.json"
-    },
-    {
-      "id": "8cd837301b3156054f66be4d",
-      "title": "What the Ottomans Tell Us About Plunder and Capitalism",
-      "url": "https://jacobin.com/2026/11/ottoman-history-capitalism-colonialism-origins",
-      "author": "Y. Doğan Çetinkaya",
-      "source": "Jacobin",
-      "published_at": "2026-11-20T16:58:07+00:00",
-      "content_excerpt": "Vivek Chibber’s recent interview on the Jacobin Radio podcast Confronting Capitalism and Vijay Prashad’s response in Monthly Review have reopened fundamental questions about capitalism’s origins, colonialism, and the transition from feudalism to capitalism in world history. Drawing on my research into Ottoman history, I want to make the case that societies beyond Europe belong in this history not simply for their contributions to the rise of capitalism in the West but for their own internal transformations. The origins of capitalism and its subsequent development through colonialism are distinct historical problems. Ottoman history allows us to draw this distinction by examining a transition beyond the northwestern European cases at the center of this debate. On the central question of thi",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/8cd837301b3156054f66be4d.json"
-    },
-    {
-      "id": "d50ca953938b9e7d0686cce0",
-      "title": "A Nobel Prize for Being Wrong",
-      "url": "https://jacobin.com/2026/11/hall-woodford-neoclassical-economics-nobel",
-      "author": "Francesco Lamperti",
-      "source": "Jacobin",
-      "published_at": "2026-11-20T16:08:30+00:00",
-      "content_excerpt": "The Nobel Prize in Economics isn’t mentioned in Alfred Nobel’s will. Rather, the gong was established in 1968 by Sweden’s central bank, which still funds it today. As Avner Offer and Gabriel Söderberg show in their book The Nobel Factor , this is no mere historical curiosity, for the prize’s origins can be understood against the backdrop of a conflict between Swedish social democracy and the champions of the market. Recognizing economists with the prestigious Nobel Prize was supposed to grant their theories the authority of the natural sciences such as physics and chemistry. Yet these imperfect theories do more than just describe the world: they help guide economic policy decisions that affect the lives of millions of people. The 2026 prize awarded to Robert Hall and Michael Woodford drew ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/d50ca953938b9e7d0686cce0.json"
-    },
-    {
-      "id": "94434a05b9682a00e9e1ad56",
-      "title": "Groundwork and the Limits of Left Pragmatism",
-      "url": "https://reformandrevolution.org/2026/11/20/groundwork-and-left-pragmatism",
-      "author": "",
-      "source": "Reform & Revolution",
-      "published_at": "2026-11-20T16:04:26+00:00",
-      "content_excerpt": "R&R member Nikoli Weir writes on the political contradictions of Groundwork, rooted in the influence of bourgeois pragmatism. Signed articles do not necessarily represent the collective views of Reform & Revolution. The socialist left is in crisis. It has, for the past several decades, failed to provide a serious alternative to the current state of affairs. It has produced mountains of criticism of the present state of things, much of which is necessary and correct in its challenge to the dominant worldview, but which does not provide a program and strategy for our political moment. It is composed in large part by isolated, high-control sects that act more like guardians of the faith than a mass political formation. In response to the impotence of much of the organized left, there has emer",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/94434a05b9682a00e9e1ad56.json"
-    },
-    {
-      "id": "62c00cc4f9fdfc1bb735bac6",
-      "title": "Thomas Frank on How the Promise of Progress Soured",
-      "url": "https://jacobin.com/2026/11/frank-creativity-innovation-neoliberalism-inequality",
-      "author": "Thomas Frank",
-      "source": "Jacobin",
-      "published_at": "2026-11-20T15:16:51+00:00",
-      "content_excerpt": "The pundit and cultural historian Thomas Frank has again done what he does best: holding up an unflattering mirror to the extreme center. Where the object lesson of Frank’s 2016 book, Listen, Liberal , was the Democratic Party’s neoliberal, technocratic turn, and in his 2020 work, The People, No , he examined how populism turned from a lived political ideology into a self-serving cuss word, in his new book, The Creativity Con , Frank has unpicked the chattering classes’ infatuation with all things innovative. As the title gives away, that obsession has produced a con. The book traces the history of creativity thinking in the United States. Frank picks up the thread in the early twentieth century when some ad men (BBDO cofounder Alex Osborn is key here) promised US workers that creativity w",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/62c00cc4f9fdfc1bb735bac6.json"
-    },
-    {
-      "id": "2b0d72822d8fca3ca8267a87",
-      "title": "Reggio Emilia Stares Down an Uncertain Future",
-      "url": "https://jacobin.com/2026/11/reggio-emilia-municipal-politics-ecology-democracy",
-      "author": "Giulia Lasagni",
-      "source": "Jacobin",
-      "published_at": "2026-11-20T14:46:10+00:00",
-      "content_excerpt": "From early morning on August 3, around a hundred people placed themselves between machinery and 45,000 square meters of abandoned land on the eastern outskirts of Reggio Emilia, a northern Italian city about forty miles from Bologna. They came to prevent more than two hundred mature trees, dense undergrowth, and a pond from being cleared for a Conad supermarket. The project also included other planned buildings as well as parking, pavements, and bike lanes. The occupation, reached by a small road off the Via Emilia, quickly became a permanent encampment, with a field kitchen, tents, and nightly assemblies. About two months later, the area was cleared by police. The green space, now owned by the supermarket chain, was destroyed. The word bosco , woodland, was itself part of the battle. For ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/2b0d72822d8fca3ca8267a87.json"
-    },
-    {
-      "id": "fbd1b18aff9feb445691f5fb",
-      "title": "Jeffries Nears Speaker Gavel, DSA Newcomers Balk, AOC 2028",
-      "url": "https://democraticleft.dsausa.org/2026/11/20/jeffries-nears-speaker-gavel-dsa-newcomers-balk-aoc-2028",
-      "author": "tfrasca@yahoo.com",
-      "source": "Democratic Left",
-      "published_at": "2026-11-20T12:56:03+00:00",
-      "content_excerpt": "Hasan Piker sits down with Ezra Klein, Mamdani disbands an NYPD unit, a new conservative $10M campaign targets socialism, and more in this edition of “Red All Over,” Democratic Left’s weekly news. roundup. The post Jeffries Nears Speaker Gavel, DSA Newcomers Balk, AOC 2028 appeared first on Democratic Left .",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/fbd1b18aff9feb445691f5fb.json"
-    },
-    {
-      "id": "672069e38dd4f739bdc24661",
-      "title": "Black Agenda Report November 20, 2026",
-      "url": "https://blackagendareport.com/black-agenda-report-november-20-2026",
-      "author": "bareditors",
-      "source": "Black Agenda Report",
-      "published_at": "2026-11-20T02:18:49+00:00",
-      "content_excerpt": "Black Agenda Report November 20, 2026 Authors Black Agenda Radio with Margaret Kimberley bareditors Fri, 11/20/2026 - 06:54 Black Agenda Radio · Black Agenda Report November 20, 2026 In this week’s segment, we discuss the midterm election results and democrats' collusion with republicans. But first, we discuss El Salvador acting as a US proxy in the latest occupation of Haiti. International Haiti El Salvador Nayib Bukele Hakeem Jeffries Haiti Occupation sovereignty Congress House of Representatives Democrats midterm elections",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/672069e38dd4f739bdc24661.json"
-    },
-    {
-      "id": "2536797332313cf9c373c85e",
-      "title": "El Salvador Violates Haitian Sovereignty in U.S. Backed Occupation",
-      "url": "https://blackagendareport.com/el-salvador-violates-haitian-sovereignty-us-backed-occupation",
-      "author": "bareditors",
-      "source": "Black Agenda Report",
-      "published_at": "2026-11-20T02:18:49+00:00",
-      "content_excerpt": "El Salvador Violates Haitian Sovereignty in U.S. Backed Occupation Authors Black Agenda Radio with Margaret Kimberley bareditors Fri, 11/20/2026 - 06:49 Dr. Jemima Pierre is a contributing editor at Black Agenda Report and a member of the Black Alliance for Peace and the Anti-Imperialist Scholars Collective . She joins us to discuss Haiti, where troops from El Salvador are the latest to occupy that country in violation of its sovereignty. International Haiti El Salvador Haiti Occupation sovereignty Nayib Bukele",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/2536797332313cf9c373c85e.json"
-    },
-    {
-      "id": "5a3aeeecebc61103c63cfbaa",
-      "title": "Hakeem Jeffries, Midterm Elections, and the Duopoly \"Blue Wave\"",
-      "url": "https://blackagendareport.com/hakeem-jeffries-midterm-elections-and-duopoly-blue-wave",
-      "author": "bareditors",
-      "source": "Black Agenda Report",
-      "published_at": "2026-11-20T02:18:49+00:00",
-      "content_excerpt": "Hakeem Jeffries, Midterm Elections, and the Duopoly \"Blue Wave\" Authors Black Agenda Radio with Margaret Kimberley bareditors Fri, 11/20/2026 - 06:42 Anthony Rogers-Wright is an international climate and environmental liberation advocate, a Black Agenda Report contributor and a co-coordinator of the Black Alliance for Peace Climate, Environment and Militarism Working Group . He discusses the midterm election results and new Speaker of the House, Hakeem Jeffries, as democrats cooperate with republicans in defiance of their voters' demands for change. US Politics Hakeem Jeffries Congress House of Representatives Democrats Black Electoral Politics midterm elections",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/5a3aeeecebc61103c63cfbaa.json"
-    },
-    {
-      "id": "6fe956aad4b83e5b4f2b0138",
-      "title": "Don’t Mourn Hakeem Jeffries’s Speakership. Organize.",
-      "url": "https://jacobin.com/2026/11/jeffries-congress-speaker-socialists-organizing",
-      "author": "Austin Warrington",
-      "source": "Jacobin",
-      "published_at": "2026-11-19T20:37:09+00:00",
-      "content_excerpt": "In the wake of the midterms, the entirety of left-liberal America was jubilant. Democrats won majorities in the House and Senate, outperforming even the most idealistic predictions. But it was not only the Democratic victories that shocked observers — it was the kind of candidates who won. Democratic socialists had their strongest showing of any election in recent history, winning 169 endorsed ballot measures and seats at the local, state, and federal levels — their strongest showing of any general election in recent history. And the wins by nonsocialist progressives and even many centrists affirmed an agenda championed by democratic socialists, centering economic populism, wealth redistribution, and universal health care. But then a harsh reality set in: the near inevitability of Rep. Hak",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/6fe956aad4b83e5b4f2b0138.json"
     }
   ]
 }
