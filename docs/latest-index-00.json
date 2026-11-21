@@ -1,12 +1,297 @@
 {
-  "generated_at": "2026-11-20T01:23:25.472941+00:00",
-  "generated_at_jst": "2026-11-20T10:23:25.472941+09:00",
-  "period_start": "2026-11-18T19:23:25.472941+00:00",
+  "generated_at": "2026-11-21T00:54:50.779012+00:00",
+  "generated_at_jst": "2026-11-21T09:54:50.779012+09:00",
+  "period_start": "2026-11-19T18:54:50.779012+00:00",
   "lookback_hours": 30,
   "folder": "00_毎日確認",
-  "article_count": 16,
+  "article_count": 20,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "302aef9e7e0c5ccfdcf91efc",
+      "title": "Amazon Is Ratcheting Up Its Fight With NYC Delivery Drivers",
+      "url": "https://jacobin.com/2026/11/amazon-dsps-drivers-nyc-council",
+      "author": "Alex N. Press",
+      "source": "Jacobin",
+      "published_at": "2026-11-20T21:17:29+00:00",
+      "content_excerpt": "New Yorkers opening Amazon’s app on Thursday were greeted with a warning: “NYC Council could add up to $5 per order.” A link invited them to “act now to protect low prices,” directing customers to contact their city council members about legislation that would require Amazon to directly employ its delivery drivers. Amazon rolled out the warnings, which also appear on packages delivered in the New York area, as part of its campaign against New York City’s Delivery Protection Act (DPA), which an Amazon-funded coalition has already spent upward of $8 million opposing. Amazon is warning customers that the legislation would put small delivery companies out of business, eliminate jobs, and delay their packages. The company has not explained how it calculated the additional $5 per order. The act’",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/302aef9e7e0c5ccfdcf91efc.json"
+    },
+    {
+      "id": "629d5c80b37e5541700c1591",
+      "title": "2026 Los Angeles Midterms: How Grassroots Organizing Powered Progressive Wins",
+      "url": "https://www.laprogressive.com/election-and-campaigns/2026-los-angeles-midterms-how-grassroots-organizing-powered-progressive-wins",
+      "author": "Sharon Kyle",
+      "source": "LA Progressive",
+      "published_at": "2026-11-20T20:31:36+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Before Dick Price and I started LA Progressive, I went to the county registrar to look up election returns for our congressional district. I think I was planning to write something for our Democratic club. What I remember clearly is how saddened I was by how few people had voted. Nearly two decades later, I sat down with Hans Johnson of the East Area Progressive Democrats to talk about a very different election. I was still taking in the news from Mississippi , where Scott Colom had become the first Black person elected to represent the state in the U.S. Senate since Reconstruction. Here in Los Angeles County , the latest count put turnout at 53.84 percent as of November 17",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/629d5c80b37e5541700c1591.json"
+    },
+    {
+      "id": "303d1c0b6ab5db37390906b8",
+      "title": "The Jensen Huang Scandal: A Gift to China Hawks and AI Giants",
+      "url": "https://jacobin.com/2026/11/huang-scandal-tech-ai-china-hawks",
+      "author": "Branko Marcetic",
+      "source": "Jacobin",
+      "published_at": "2026-11-20T19:36:45+00:00",
+      "content_excerpt": "Often, when people cheat on their spouses, they get kicked out of the house and strain their families. Not many can say they wiped out $1.8 trillion worth of share value and made the economy wobble. Yet this is exactly the case with ousted Nvidia chief executive officer Jensen Huang and the scandal surrounding his various infidelities, including to a woman who is allegedly a Chinese spy. (Or is she?) The uncertainty around that question is part of the general murkiness of this entire affair (no pun intended), one tied into a knot of three separate political threads: the economy’s outsize reliance on the artificial intelligence industry, ruthless corporate anti-competition, and the simmering new Cold War with China. While Huang had a number of infidelities, it’s his affair with business exe",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/303d1c0b6ab5db37390906b8.json"
+    },
+    {
+      "id": "e627d08ebdc7cdaf6b582dfa",
+      "title": "Billionaires Always Want to Maintain Control",
+      "url": "https://jacobin.com/2026/11/billionaire-tax-tech-wealth-control",
+      "author": "Sophie Bandarkar",
+      "source": "Jacobin",
+      "published_at": "2026-11-20T17:57:57+00:00",
+      "content_excerpt": "In October, Meta released a filing saying that Mark Zuckerberg had threatened to leave California in anticipation of Proposition 40 , the billionaire wealth tax on the 2026 state ballot, which was defeated 53 to 47 percent. According to the document, Zuckerberg told the board he was “evaluating relocating his primary residence outside California,” and that any steps toward doing so, including listing his residential real estate on the market, “would be public and inevitably noted and commented upon by company employees.” In response, the board quickly mobilized to negotiate a deal: Meta agreed to issue a new class of nonvoting (“Class C”) stock, which will be distributed to all shareholders in January 2027. This would have allowed Zuckerberg to sell his shares to convert a portion of his w",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/e627d08ebdc7cdaf6b582dfa.json"
+    },
+    {
+      "id": "6152d3128c7c9a20d42e71db",
+      "title": "Your National Political Committee newsletter — Cool weather, hot DSA wins",
+      "url": "https://www.dsausa.org/news/nov2026_npc_newsletter",
+      "author": "DSA National: NPC Dispatch and Newsletter",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-11-20T17:27:40+00:00",
+      "content_excerpt": "Enjoy your November National Political Committee (NPC) newsletter! Our NPC is an elected 27-person body (including both YDSA Co-Chairs) which functions as the board of directors of DSA. This month, check out electoral wins, take a labor solidarity pledge, find out more about our arms embargo campaign, and more! And to make sure you get our newsletters in your inbox, sign up here! Each one features action alerts, upcoming events, political education, and more. From the National Political Committee — Cool Weather, Hot DSA Wins Fall Drive Has Launched! Win Your Exclusive T-Shirt DSA Arms Embargo — Check Out Video, Sign Up to Get Involved Join our Growth and Development Committee’s Organizing Trainings, Phonebanks, and More Starting Sunday 11/22 Give to DSA’s Venezuela Earthquake Solidarity Fu",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/6152d3128c7c9a20d42e71db.json"
+    },
+    {
+      "id": "80754b0561030973f90fe53d",
+      "title": "On Jeffries’ Nomination for Speaker of the House",
+      "url": "https://www.dsausa.org/statements/on-jeffries-nomination-for-speaker-of-the-house",
+      "author": "DSA National Statements",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-11-20T17:27:40+00:00",
+      "content_excerpt": "DSA stands with the members-elect who voted NO on Hakeem Jeffries’ nomination for Speaker of the House. On November 3rd, voters demanded a different kind of politics. They demanded bold steps towards medicare for all, abolishing ICE, and an end to Israel’s genocide in Gaza. They trusted Democrats with the responsibility of ending corporate control over politics. No more corporate coronations. Democrats who enable genocide, ICE, and billionaire interests must be ousted. Call your elected officials and demand they reject the establishment and adopt an agenda for the working class. The post On Jeffries’ Nomination for Speaker of the House appeared first on Democratic Socialists of America (DSA) .",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/80754b0561030973f90fe53d.json"
+    },
+    {
+      "id": "36f3a963a96931e35f1c152e",
+      "title": "Tenant Organizing Through Elections",
+      "url": "https://washingtonsocialist.mdcdsa.org/ws-articles/tenant-organizing-through-elections",
+      "author": "Washington Socialist - Metro DC DSA",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-11-20T17:27:40+00:00",
+      "content_excerpt": "Tenant rights are still constantly under attack, even in a city with a very strong foundation of tenants' rights, and those attacks are not going to go away.",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/36f3a963a96931e35f1c152e.json"
+    },
+    {
+      "id": "1610e404b927b31cd8de6b99",
+      "title": "Lessons for Metro DC DSA from 2026 Congressional Primaries",
+      "url": "https://washingtonsocialist.mdcdsa.org/ws-articles/metro-dc-dsa-lessons-2026-congressional-primaries",
+      "author": "Washington Socialist - Metro DC DSA",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-11-20T17:27:40+00:00",
+      "content_excerpt": "There is no reason why Metro DC DSA cannot power a democratic socialist candidate’s campaign for Congress.",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/1610e404b927b31cd8de6b99.json"
+    },
+    {
+      "id": "6db751cd837176168bb5b74b",
+      "title": "Are you Attending Your Local Townhall? Your Neighborhood Reactionary Is.",
+      "url": "https://washingtonsocialist.mdcdsa.org/ws-articles/local-townhall-neighborhood-reactionary",
+      "author": "Washington Socialist - Metro DC DSA",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-11-20T17:27:40+00:00",
+      "content_excerpt": "We cannot content ourselves with wielding public power without preserving its source",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/6db751cd837176168bb5b74b.json"
+    },
+    {
+      "id": "cdbee57ce78707974bf2150e",
+      "title": "Nolan Well",
+      "url": "https://www.laprogressive.com/racism/nolan-well",
+      "author": "Melina Abdullah",
+      "source": "LA Progressive",
+      "published_at": "2026-11-20T17:01:29+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Do you think that in such a short time you can persuade me to be a Christian? Acts 26:28 Christian Anthony Claudio is a righteous young Black man of conscience from upstate New York. He is a central fixture in his family and tightly-knit community, where he works with special needs children and can be relied on to help friends when their cars break down. At just 25-years-old, he owns his own home, pays his own bills, has never been arrested, and stands as a model of what it means to be a good brother, son, friend, and neighbor. He lives up to his name – Christian. Christian saw himself in Nolan Wells, the 18-year-old son of Christine and Elmore Wonsley, a college athlete, w",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/cdbee57ce78707974bf2150e.json"
+    },
+    {
+      "id": "8cd837301b3156054f66be4d",
+      "title": "What the Ottomans Tell Us About Plunder and Capitalism",
+      "url": "https://jacobin.com/2026/11/ottoman-history-capitalism-colonialism-origins",
+      "author": "Y. Doğan Çetinkaya",
+      "source": "Jacobin",
+      "published_at": "2026-11-20T16:58:07+00:00",
+      "content_excerpt": "Vivek Chibber’s recent interview on the Jacobin Radio podcast Confronting Capitalism and Vijay Prashad’s response in Monthly Review have reopened fundamental questions about capitalism’s origins, colonialism, and the transition from feudalism to capitalism in world history. Drawing on my research into Ottoman history, I want to make the case that societies beyond Europe belong in this history not simply for their contributions to the rise of capitalism in the West but for their own internal transformations. The origins of capitalism and its subsequent development through colonialism are distinct historical problems. Ottoman history allows us to draw this distinction by examining a transition beyond the northwestern European cases at the center of this debate. On the central question of thi",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/8cd837301b3156054f66be4d.json"
+    },
+    {
+      "id": "d50ca953938b9e7d0686cce0",
+      "title": "A Nobel Prize for Being Wrong",
+      "url": "https://jacobin.com/2026/11/hall-woodford-neoclassical-economics-nobel",
+      "author": "Francesco Lamperti",
+      "source": "Jacobin",
+      "published_at": "2026-11-20T16:08:30+00:00",
+      "content_excerpt": "The Nobel Prize in Economics isn’t mentioned in Alfred Nobel’s will. Rather, the gong was established in 1968 by Sweden’s central bank, which still funds it today. As Avner Offer and Gabriel Söderberg show in their book The Nobel Factor , this is no mere historical curiosity, for the prize’s origins can be understood against the backdrop of a conflict between Swedish social democracy and the champions of the market. Recognizing economists with the prestigious Nobel Prize was supposed to grant their theories the authority of the natural sciences such as physics and chemistry. Yet these imperfect theories do more than just describe the world: they help guide economic policy decisions that affect the lives of millions of people. The 2026 prize awarded to Robert Hall and Michael Woodford drew ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/d50ca953938b9e7d0686cce0.json"
+    },
+    {
+      "id": "94434a05b9682a00e9e1ad56",
+      "title": "Groundwork and the Limits of Left Pragmatism",
+      "url": "https://reformandrevolution.org/2026/11/20/groundwork-and-left-pragmatism",
+      "author": "",
+      "source": "Reform & Revolution",
+      "published_at": "2026-11-20T16:04:26+00:00",
+      "content_excerpt": "R&R member Nikoli Weir writes on the political contradictions of Groundwork, rooted in the influence of bourgeois pragmatism. Signed articles do not necessarily represent the collective views of Reform & Revolution. The socialist left is in crisis. It has, for the past several decades, failed to provide a serious alternative to the current state of affairs. It has produced mountains of criticism of the present state of things, much of which is necessary and correct in its challenge to the dominant worldview, but which does not provide a program and strategy for our political moment. It is composed in large part by isolated, high-control sects that act more like guardians of the faith than a mass political formation. In response to the impotence of much of the organized left, there has emer",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/94434a05b9682a00e9e1ad56.json"
+    },
+    {
+      "id": "62c00cc4f9fdfc1bb735bac6",
+      "title": "Thomas Frank on How the Promise of Progress Soured",
+      "url": "https://jacobin.com/2026/11/frank-creativity-innovation-neoliberalism-inequality",
+      "author": "Thomas Frank",
+      "source": "Jacobin",
+      "published_at": "2026-11-20T15:16:51+00:00",
+      "content_excerpt": "The pundit and cultural historian Thomas Frank has again done what he does best: holding up an unflattering mirror to the extreme center. Where the object lesson of Frank’s 2016 book, Listen, Liberal , was the Democratic Party’s neoliberal, technocratic turn, and in his 2020 work, The People, No , he examined how populism turned from a lived political ideology into a self-serving cuss word, in his new book, The Creativity Con , Frank has unpicked the chattering classes’ infatuation with all things innovative. As the title gives away, that obsession has produced a con. The book traces the history of creativity thinking in the United States. Frank picks up the thread in the early twentieth century when some ad men (BBDO cofounder Alex Osborn is key here) promised US workers that creativity w",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/62c00cc4f9fdfc1bb735bac6.json"
+    },
+    {
+      "id": "2b0d72822d8fca3ca8267a87",
+      "title": "Reggio Emilia Stares Down an Uncertain Future",
+      "url": "https://jacobin.com/2026/11/reggio-emilia-municipal-politics-ecology-democracy",
+      "author": "Giulia Lasagni",
+      "source": "Jacobin",
+      "published_at": "2026-11-20T14:46:10+00:00",
+      "content_excerpt": "From early morning on August 3, around a hundred people placed themselves between machinery and 45,000 square meters of abandoned land on the eastern outskirts of Reggio Emilia, a northern Italian city about forty miles from Bologna. They came to prevent more than two hundred mature trees, dense undergrowth, and a pond from being cleared for a Conad supermarket. The project also included other planned buildings as well as parking, pavements, and bike lanes. The occupation, reached by a small road off the Via Emilia, quickly became a permanent encampment, with a field kitchen, tents, and nightly assemblies. About two months later, the area was cleared by police. The green space, now owned by the supermarket chain, was destroyed. The word bosco , woodland, was itself part of the battle. For ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/2b0d72822d8fca3ca8267a87.json"
+    },
+    {
+      "id": "fbd1b18aff9feb445691f5fb",
+      "title": "Jeffries Nears Speaker Gavel, DSA Newcomers Balk, AOC 2028",
+      "url": "https://democraticleft.dsausa.org/2026/11/20/jeffries-nears-speaker-gavel-dsa-newcomers-balk-aoc-2028",
+      "author": "tfrasca@yahoo.com",
+      "source": "Democratic Left",
+      "published_at": "2026-11-20T12:56:03+00:00",
+      "content_excerpt": "Hasan Piker sits down with Ezra Klein, Mamdani disbands an NYPD unit, a new conservative $10M campaign targets socialism, and more in this edition of “Red All Over,” Democratic Left’s weekly news. roundup. The post Jeffries Nears Speaker Gavel, DSA Newcomers Balk, AOC 2028 appeared first on Democratic Left .",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/fbd1b18aff9feb445691f5fb.json"
+    },
+    {
+      "id": "672069e38dd4f739bdc24661",
+      "title": "Black Agenda Report November 20, 2026",
+      "url": "https://blackagendareport.com/black-agenda-report-november-20-2026",
+      "author": "bareditors",
+      "source": "Black Agenda Report",
+      "published_at": "2026-11-20T02:18:49+00:00",
+      "content_excerpt": "Black Agenda Report November 20, 2026 Authors Black Agenda Radio with Margaret Kimberley bareditors Fri, 11/20/2026 - 06:54 Black Agenda Radio · Black Agenda Report November 20, 2026 In this week’s segment, we discuss the midterm election results and democrats' collusion with republicans. But first, we discuss El Salvador acting as a US proxy in the latest occupation of Haiti. International Haiti El Salvador Nayib Bukele Hakeem Jeffries Haiti Occupation sovereignty Congress House of Representatives Democrats midterm elections",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/672069e38dd4f739bdc24661.json"
+    },
+    {
+      "id": "2536797332313cf9c373c85e",
+      "title": "El Salvador Violates Haitian Sovereignty in U.S. Backed Occupation",
+      "url": "https://blackagendareport.com/el-salvador-violates-haitian-sovereignty-us-backed-occupation",
+      "author": "bareditors",
+      "source": "Black Agenda Report",
+      "published_at": "2026-11-20T02:18:49+00:00",
+      "content_excerpt": "El Salvador Violates Haitian Sovereignty in U.S. Backed Occupation Authors Black Agenda Radio with Margaret Kimberley bareditors Fri, 11/20/2026 - 06:49 Dr. Jemima Pierre is a contributing editor at Black Agenda Report and a member of the Black Alliance for Peace and the Anti-Imperialist Scholars Collective . She joins us to discuss Haiti, where troops from El Salvador are the latest to occupy that country in violation of its sovereignty. International Haiti El Salvador Haiti Occupation sovereignty Nayib Bukele",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/2536797332313cf9c373c85e.json"
+    },
+    {
+      "id": "5a3aeeecebc61103c63cfbaa",
+      "title": "Hakeem Jeffries, Midterm Elections, and the Duopoly \"Blue Wave\"",
+      "url": "https://blackagendareport.com/hakeem-jeffries-midterm-elections-and-duopoly-blue-wave",
+      "author": "bareditors",
+      "source": "Black Agenda Report",
+      "published_at": "2026-11-20T02:18:49+00:00",
+      "content_excerpt": "Hakeem Jeffries, Midterm Elections, and the Duopoly \"Blue Wave\" Authors Black Agenda Radio with Margaret Kimberley bareditors Fri, 11/20/2026 - 06:42 Anthony Rogers-Wright is an international climate and environmental liberation advocate, a Black Agenda Report contributor and a co-coordinator of the Black Alliance for Peace Climate, Environment and Militarism Working Group . He discusses the midterm election results and new Speaker of the House, Hakeem Jeffries, as democrats cooperate with republicans in defiance of their voters' demands for change. US Politics Hakeem Jeffries Congress House of Representatives Democrats Black Electoral Politics midterm elections",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/5a3aeeecebc61103c63cfbaa.json"
+    },
     {
       "id": "6fe956aad4b83e5b4f2b0138",
       "title": "Don’t Mourn Hakeem Jeffries’s Speakership. Organize.",
@@ -21,231 +306,6 @@
       "priority": 1,
       "date_missing": false,
       "article_path": "articles/6fe956aad4b83e5b4f2b0138.json"
-    },
-    {
-      "id": "2027785c29be6d1a65fa44ec",
-      "title": "Anthropic Is Already Part of the Security Establishment",
-      "url": "https://jacobin.com/2026/11/anthropic-ai-security-surveillance-state",
-      "author": "Jacob Davis",
-      "source": "Jacobin",
-      "published_at": "2026-11-19T20:07:25+00:00",
-      "content_excerpt": "Anthropic, which priced its initial public offering (IPO) last night and began trading on the Nasdaq today, published an S-1, the corporate prospectus for the offering. The document, which extends over five hundred pages, is intended to provide potential investors with an outline of its corporate structure, business model, and financial situation. Much of the document is, accordingly, dedicated to mundane legal minutiae: long lists of hypothetical events that might adversely affect investments, specific provisions for investment to comply with foreign nations’ securities law, etc. Some points, however, are quite instructive. As the filing explains, large-scale corporate decisions are overseen by a “long-term benefit trust” (LTBT): a five-person body responsible for appointing a majority of",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/2027785c29be6d1a65fa44ec.json"
-    },
-    {
-      "id": "4ca1ec428c4431175cd2557e",
-      "title": "New York City’s New Trash Bins Promise Clean Curbs for All",
-      "url": "https://democraticleft.dsausa.org/2026/11/19/new-york-citys-new-trash-bins-promise-clean-curbs-for-all",
-      "author": "Democratic Left",
-      "source": "Democratic Left",
-      "published_at": "2026-11-19T18:42:30+00:00",
-      "content_excerpt": "Mayor Zohran Mamdani’s plan to replace piles of trash bags with new trash containers reclaims public space for a public purpose. The post New York City’s New Trash Bins Promise Clean Curbs for All appeared first on Democratic Left .",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/4ca1ec428c4431175cd2557e.json"
-    },
-    {
-      "id": "2a37e0f9e38772200f0f570c",
-      "title": "20 types of boss psychological warfare",
-      "url": "https://workerorganizing.org/resources/guide/inoculation-boss-campaign/20-types-of-boss-psychological-warfare",
-      "author": "Emergency Workplace Organizing Committee",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-11-19T18:13:53+00:00",
-      "content_excerpt": "This list of the most common kinds of manipulation workers face can help inoculate your organizing campaign against the boss's tricks. The post 20 types of boss psychological warfare appeared first on EWOC .",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/2a37e0f9e38772200f0f570c.json"
-    },
-    {
-      "id": "935041008ce24be2941a5483",
-      "title": "The Health Insurance Experience",
-      "url": "https://rocdsa.org/blog/the-health-insurance-experience",
-      "author": "Rochester Red Star: News from Rochester DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-11-19T18:13:53+00:00",
-      "content_excerpt": "by Sara C The following text is adapted from a speech delivered by Sara C at the NY Health Act Rally held October 17 at Rochester’s Liberty Pole. Despite health insurance being the primary way most Americans access any kind of health care, it’s not exactly popular. It can be expensive, not just in the premiums we pay for it with every paycheck, but also with deductibles that mean coverage doesn’t even start until you’ve paid a certain amount out of pocket. The coverage itself can be frustratingly limited. Beyond all that, health insurance companies have plenty of tactics to avoid payment and accountability. This is my story of fighting against health insurance companies’ duplicitous practices, what I’ve learned from it, and what I see as a potential (if partial) solution. I was diagnosed w",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/935041008ce24be2941a5483.json"
-    },
-    {
-      "id": "20a2f88cdf2fce4c7585a22a",
-      "title": "How Will We Get People to Work Under Socialism?",
-      "url": "https://jacobin.com/2026/11/work-freedom-motivation-capitalism-socialism",
-      "author": "Nick French",
-      "source": "Jacobin",
-      "published_at": "2026-11-19T17:45:30+00:00",
-      "content_excerpt": "With Zohran Mamdani’s rise to the mayoralty of the United States’s largest city and democratic socialists winning more and more elected offices at all levels across the country, there is renewed interest in and excitement about the idea of democratic socialism. But among socialists, there is little consensus on the content of that ideal. Many on the Left describe socialism in terms of greater income redistribution or an expanded public sector, with some socialists even describing their vision as compatible with capitalism. But we are seeing a growing number of proposals for feasible postcapitalist futures , distinct from both the social democratic welfare states and the state socialist systems of the twentieth century. In a recent article for Catalyst: A Journal of Theory and Strategy , Ja",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/20a2f88cdf2fce4c7585a22a.json"
-    },
-    {
-      "id": "5113898a68e0c898b55e7158",
-      "title": "The Rising Congressional Left Is Positioned Well",
-      "url": "https://jacobin.com/2026/11/jeffries-house-speaker-centrism-socialist-challenge",
-      "author": "Branko Marcetic",
-      "source": "Jacobin",
-      "published_at": "2026-11-19T16:25:07+00:00",
-      "content_excerpt": "In a bitter disappointment for the Left, Hakeem Jeffries — the vehemently pro-Israel Wall Street darling who once , bizarrely, did a version of George Wallace’s infamous “segregation forever” speech, only subbing in “Israel” for “segregation” — will be the next speaker of the House of Representatives. The vote wasn’t even close: 251–11, with two members abstaining, something Jeffries’s allies are already celebrating as a sign of his domination of the Democratic caucus. Going into this election, the members of the expanded Squad — the twenty or so progressives and socialists elected to Congress who may or may not now be known as “The Bloc” — viewed the two years between now and 2028 as a vital, possibly final, chance for Democrats to deliver some actual results for working people and avert ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/5113898a68e0c898b55e7158.json"
-    },
-    {
-      "id": "46471e9093fe69b0e62d0686",
-      "title": "Kitchen Table Politics: What the 2026 Midterms Revealed About Abortion, Trans Dignity, and the Indignity of Common Sense",
-      "url": "https://scalawagmagazine.org/2026/11/kitchen-table-politics-what-the-2026-midterms-revealed-about-abortion-trans-dignity-and-the-indignity-of-common-sense",
-      "author": "Ja'Loni Owens",
-      "source": "Scalawag",
-      "published_at": "2026-11-19T16:07:25+00:00",
-      "content_excerpt": "We talk about \"kitchen table politics\" as if it were a place free of culture, a neutral ground of gas prices and grocery bills where the culture wars are an unwelcome distraction. Anyone who has actually sat at one knows better. The kitchen table is where the culture war is fought, and it is fought by people who love you. Read more via Scalawag : Kitchen Table Politics: What the 2026 Midterms Revealed About Abortion, Trans Dignity, and the Indignity of Common Sense .",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/46471e9093fe69b0e62d0686.json"
-    },
-    {
-      "id": "f70b0f44d5d03ff900ede54b",
-      "title": "Slow-Motion Atomic Bomb",
-      "url": "https://www.laprogressive.com/climate-change/slow-motion-atomic-bomb-were-ignoring",
-      "author": "Tom Engelhardt",
-      "source": "LA Progressive",
-      "published_at": "2026-11-19T16:06:38+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. In some sense, all of us on this planet of... well, I was going to say ours, but I’m not so sure anymore... are living through a slow-motion cataclysm, a first-class global apocalypse in the making. As a headline on the World Meteorological Organization’s website put it recently , “State of the climate in 2026 gives new meaning to phrase ‘off the charts.’” Here in the United States in the age of Donald Trump, though, you’d hardly know it. You might even say that, in some sense, the subject is MIA or missing in action. Count on this: If even one atomic bomb were ever to be used in a war in this world of ours, it would be the headline story across this country and planet. And",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/f70b0f44d5d03ff900ede54b.json"
-    },
-    {
-      "id": "5d653e886c08a7f18895b964",
-      "title": "Democracy Strikes Back",
-      "url": "https://www.laprogressive.com/progressive-issues/democracy-strikes-back",
-      "author": "John Peeler",
-      "source": "LA Progressive",
-      "published_at": "2026-11-19T15:33:12+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. I owe Judy Peeler thanks for inspiring this comparison. October 5, 1988: Dictator General Augusto Pinochet is unexpectedly and overwhelmingly defeated in a referendum intended to authorize a second eight-year term as President. After his efforts to hold on to power are blocked by other members of the military junta, Pinochet follows his own rules and stages a general election in 1989 that ends his 16 year dictatorship and restores democracy in Chile after the violent coup that overthrew the last elected president, Salvador Allende, in 1973. April 12, 2026: After a decade in power, Prime Minister Victor Orbán is unexpectedly defeated in a parliamentary election. His previous",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/5d653e886c08a7f18895b964.json"
-    },
-    {
-      "id": "24913855037ec9a16dba9a74",
-      "title": "Rejecting Equality Is a Long-Standing American Tradition",
-      "url": "https://jacobin.com/2026/11/review-phillips-fein-american-inequality-reactionaries",
-      "author": "Robbie Nelson",
-      "source": "Jacobin",
-      "published_at": "2026-11-19T15:03:49+00:00",
-      "content_excerpt": "Living in a country whose residents include both the world’s first trillionaire and 1.5 million homeless schoolchildren, the fact of American inequality is hard to miss. Such a reality produces countless justifications, explanations, and plans for ameliorating its worst impacts across the political spectrum. But at its sharpest edge, it also produces a coterie of intellectuals, pseudo-intellectuals, tycoons, activists, and posters who don’t merely attempt to explain or excuse inequality but rather celebrate its fruits and try to consolidate its bases. Silicon Valley today plays host to the most prominent nest of techno-fascists, neoreactionaries, transhumanists, and “ effective altruists ” whose obscene wealth allows them to shape political discourse far beyond the strengths of their ideas",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/24913855037ec9a16dba9a74.json"
-    },
-    {
-      "id": "227b96beeaa5dac2b5978f4f",
-      "title": "The Violent Far-Right Response to France’s Protests",
-      "url": "https://jacobin.com/2026/11/le-pen-far-right-rassemblement-national-violence",
-      "author": "Olly Haynes",
-      "source": "Jacobin",
-      "published_at": "2026-11-19T14:04:20+00:00",
-      "content_excerpt": "For France’s media-political classes, the recent student movement has prompted a series of searching questions about violence and who has the right to use it. Debates often center on the alleged closeness of protesters to La France Insoumise, implying that Jean-Luc Mélenchon’s left-wing party is somehow responsible for vandalism by protesters and marginal acts of violence by students. Less remarked upon however, is that a wave of violence coming from the far right has also marked the protests and the presidential election campaign. Nor has it been much noted that this violence has killed already, and that Marine Le Pen’s Rassemblement National (RN) is alarmingly close to the violent groupuscules involved. Already on October 24, far-right militants attacked trade unionists and protesters in",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/227b96beeaa5dac2b5978f4f.json"
-    },
-    {
-      "id": "07c7ac3d720d63e50d847997",
-      "title": "Why Are Most Union Leaders Silent on Booting Chuck Schumer?",
-      "url": "https://jacobin.com/2026/11/unions-schumer-van-hollen-senate",
-      "author": "Eric Blanc",
-      "source": "Jacobin",
-      "published_at": "2026-11-18T21:34:42+00:00",
-      "content_excerpt": "Why have only four national unions publicly backed Chris Van Hollen against Chuck Schumer for Senate leader? The International Association of Machinists and Aerospace Workers, the Office and Professional Employees International Union, National Nurses United, and the National Union of Healthcare Workers have taken Van Hollen’s side in this urgent fight. But where is everybody else? It’s hard to overstate the stakes. If Democrats once again squander the opportunity given to them by the American people, the lost chance to improve people’s lives — and the ensuing political backlash — could be even worse than what followed the Clinton, Obama, and Biden administrations. Schumer-style corporate politics might as well have been designed in a lab to ensure that Democrats disappoint voters and quick",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/07c7ac3d720d63e50d847997.json"
-    },
-    {
-      "id": "7a4fd825faa0eca73ddcad02",
-      "title": "Labor Mobilized for ‘Many vs. Mighty’ Midterms",
-      "url": "https://labornotes.org/blogs/2026/11/many-vs-mighty",
-      "author": "Jenny Brown",
-      "source": "",
-      "published_at": "2026-11-18T21:01:11+00:00",
-      "content_excerpt": "Something different was in the air as the labor movement mobilized for the midterms. More than usual, unions were willing to support insurgent candidates who refused corporate donations and bucked the Democratic Party establishment. They championed a Bernie Sanders-style list of working-class issues: Medicare for All, a higher minimum wage, union rights, immigrant rights, stopping war, and taxing the rich. Many are union members themselves. And they won. United Auto Workers President Shawn Fain called the election “the many versus the mighty.” In Michigan, the UAW was a key backer of the victorious Abdul El-Sayed, who earlier defeated the party’s depressing primary choice for U.S. Senate. “You had a lot of rich people who tried to… buy a seat, to buy these races,” Fain told Michigan Advanc",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/7a4fd825faa0eca73ddcad02.json"
-    },
-    {
-      "id": "e63840f524f8959b10816a93",
-      "title": "‘Delay, Deny, Discipline’ Is Amazon’s Real Pregnancy Policy, Workers Say",
-      "url": "https://labornotes.org/2026/11/delay-deny-discipline-amazons-real-pregnancy-policy-workers-say",
-      "author": "Jenny Brown",
-      "source": "",
-      "published_at": "2026-11-18T21:01:11+00:00",
-      "content_excerpt": "Willamina Barclay was working as a picker at Amazon’s fulfillment center in Rochester, New York, when she felt lightheaded again. “She pleaded with a manager for a seat… He refused: ‘No, because you don’t have a [pregnancy] accommodation. If I give you a chair, I have to give everybody else a chair,’” he said, according to a recent lawsuit. But Barclay, who learned she was pregnant in March 2025, had already asked managers many times for accommodations—a seat, extra breaks to drink, eat, pee (or throw up) in the bathroom, no ladder-climbing or squatting, and no heavy lifting. Amazon—a company known for fast delivery—had failed to answer for weeks, demanding medical documentation. Even after Barclay provided it, Amazon still refused most accommodations, permitting her four breaks a day, but",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/e63840f524f8959b10816a93.json"
-    },
-    {
-      "id": "03de9e25ab0a0214cc1d544f",
-      "title": "Was Abortion the Swing Issue for Southern Voters?",
-      "url": "https://scalawagmagazine.org/2026/11/was-abortion-the-swing-issue-for-southern-voters",
-      "author": "Laura O’Connor",
-      "source": "Scalawag",
-      "published_at": "2026-11-18T20:35:43+00:00",
-      "content_excerpt": "“This is a concerted effort to keep abortion out of the headlines and out of voters' calculus,\" said Vasquez-Giroux. “The plan is not to be better on abortion; it’s just to put it off until [these candidates] retain power.” Read more via Scalawag : Was Abortion the Swing Issue for Southern Voters? .",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/03de9e25ab0a0214cc1d544f.json"
     }
   ]
 }
