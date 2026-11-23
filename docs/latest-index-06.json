@@ -1,27 +1,26 @@
 {
-  "generated_at": "2026-11-21T23:52:26.467429+00:00",
-  "generated_at_jst": "2026-11-22T08:52:26.467429+09:00",
-  "period_start": "2026-11-20T17:52:26.467429+00:00",
+  "generated_at": "2026-11-23T00:24:31.660163+00:00",
+  "generated_at_jst": "2026-11-23T09:24:31.660163+09:00",
+  "period_start": "2026-11-21T18:24:31.660163+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
-  "article_count": 13,
+  "article_count": 2,
   "excerpt_chars": 800,
   "articles": [
     {
-      "id": "d934a7dfb485d6eed8dd3c8d",
-      "title": "Socialism Deferred: The Communist Party of Italy and the Historic Compromise of 1976",
-      "url": "https://socialistforum.dsausa.org/uncategorized/socialism-deferred-the-communist-party-of-italy-and-the-historic-compromise-of-1976",
-      "author": "Socialist Forum",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-11-21T22:08:37+00:00",
-      "content_excerpt": "American politics is at a crossroads. All that was once considered certain or possible is now in question. For the first time since the early 20th century, American Socialists are gaining considerable municipal and state level influence through successful and highly publicized electoral campaigns. After a largely successful midterm showing, the DSA established itself as a small but potent force in American politics. For the first time there is a comparatively large cohort of elected DSA members holding local, state, and federal office. Along with this heightened political influence comes greater political risk. Questions of electoral positioning and maneuver take on greater weight. Examining the past experience of socialist and non-socialist alliances can be instructive. Italy provides a p",
+      "id": "975397793b93cb1e648360eb",
+      "title": "Communal Circuits in the Delta: Life, Work and the Blockade (Part I)",
+      "url": "https://mronline.org/2026/11/22/communal-circuits-in-the-delta-life-work-and-the-blockade-part-i",
+      "author": "Cira Pascual Marquina",
+      "source": "MR Online",
+      "published_at": "2026-11-22T19:48:10+00:00",
+      "content_excerpt": "“The river is mighty: it can take life, but it also gives us life. We choose to live on its banks.” The post Communal Circuits in the Delta: Life, Work and the Blockade (Part I) appeared first on MR Online .",
       "source_folders": [
-        "00_毎日確認",
         "06_左派ニュース・社会主義戦略"
       ],
-      "priority": 1,
+      "priority": 2,
       "date_missing": false,
-      "article_path": "articles/d934a7dfb485d6eed8dd3c8d.json"
+      "article_path": "articles/975397793b93cb1e648360eb.json"
     },
     {
       "id": "93b62b69b9c13eba32974070",
@@ -37,171 +36,6 @@
       "priority": 2,
       "date_missing": false,
       "article_path": "articles/93b62b69b9c13eba32974070.json"
-    },
-    {
-      "id": "8860c12be7f68f3df69b5857",
-      "title": "Towns stop the data centers, the Senate moves to stop the towns",
-      "url": "https://mronline.org/2026/11/21/towns-stop-the-data-centers-the-senate-moves-to-stop-the-towns",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-11-21T14:27:13+00:00",
-      "content_excerpt": "Town by town, working people have been stopping the data centers the AI monopolies want to build. They have packed hearings, voted the projects down and taken the companies to court. The monopolies can’t get past them, so they have turned to Congress. The post Towns stop the data centers, the Senate moves to stop the towns appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/8860c12be7f68f3df69b5857.json"
-    },
-    {
-      "id": "9a60ff0399d2cd90ca17c512",
-      "title": "What does a post-Netanyahu government in Israel mean for U.S. policy?",
-      "url": "https://mondoweiss.net/2026/11/what-does-a-post-netanyahu-government-in-israel-means-for-u-s-policy",
-      "author": "Mitchell Plitnick",
-      "source": "Mondoweiss",
-      "published_at": "2026-11-21T14:01:06+00:00",
-      "content_excerpt": "Washington's hopes for a new partner who can rehabilitate Israel's image and regain the support of the American people.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/9a60ff0399d2cd90ca17c512.json"
-    },
-    {
-      "id": "7af15a8bddaef140544ab392",
-      "title": "Venezuela signs military agreement with U.S. as Hegseth celebrates January 3 attack",
-      "url": "https://mronline.org/2026/11/21/venezuela-signs-military-agreement-with-u-s-as-hegseth-celebrates-january-3-attack",
-      "author": "Orinoco Tribune",
-      "source": "MR Online",
-      "published_at": "2026-11-21T13:27:34+00:00",
-      "content_excerpt": "Venezuela and the United States signed an agreement to resume military cooperation on Wednesday, November 18, during an unannounced visit to Caracas by U.S. Secretary of War Pete Hegseth, whose forces bombed Venezuela and abducted President Nicolás Maduro and First Lady and National Assembly Deputy Cilia Flores less than a year ago. The post Venezuela signs military agreement with U.S. as Hegseth celebrates January 3 attack appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/7af15a8bddaef140544ab392.json"
-    },
-    {
-      "id": "b9223c352c85c3e4afb87793",
-      "title": "PATRICK LAWRENCE: Diana Johnstone—A Tribute",
-      "url": "https://mronline.org/2026/11/21/patrick-lawrence-diana-johnstone-a-tribute",
-      "author": "Patrick Lawrence",
-      "source": "MR Online",
-      "published_at": "2026-11-21T10:21:59+00:00",
-      "content_excerpt": "She was one of those few who brought honor to our profession, a mostly dishonorable profession, and permitted one some measure of pride for being part of it. The post PATRICK LAWRENCE: Diana Johnstone—A Tribute appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/b9223c352c85c3e4afb87793.json"
-    },
-    {
-      "id": "5ecfa844023f7c34776eed6b",
-      "title": "Xi, Putin, and Trump meeting concludes with vague commitments, but strong symbolism",
-      "url": "https://breakthroughnews.org/2026/11/20/xi-putin-and-trump-meeting-concludes-with-vague-commitments-but-strong-symbolism",
-      "author": "Abdul Rahman",
-      "source": "BT News",
-      "published_at": "2026-11-20T23:33:53+00:00",
-      "content_excerpt": "Chinese President Xi Jinping held the first ever trilateral summit of Russia, China, and the US on the sidelines of the ongoing Asia-Pacific Economic Council (APEC) summit in Shenzhen on Thursday, November 19. The meeting, attended by Russian President Vladimir Putin and US President Donald Trump, ended with a joint Declaration towards Peace with all three countries agreeing to find ways to work together on common issues including the need for reforms in the UN, global energy security, and rising nuclear risk. The declaration also talked about the principles of the operation of the International Criminal Court (ICC) and underlined the immunity for top state officials. The declaration emphasized that the reforms in the UN are necessary for it to make effective interventions to issues of glo",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/5ecfa844023f7c34776eed6b.json"
-    },
-    {
-      "id": "cb5115bd20941b549acc86de",
-      "title": "The daily reality of Israel’s mass extermination of life in Gaza",
-      "url": "https://breakthroughnews.org/2026/11/20/the-daily-reality-of-israels-mass-extermination-of-life-in-gaza",
-      "author": "Aseel Saleh",
-      "source": "BT News",
-      "published_at": "2026-11-20T22:31:29+00:00",
-      "content_excerpt": "As Israel’s military aggression on the Gaza Strip enters its fourth year, devastating details continue to emerge regarding how every facet of daily life in Gaza has been engineered to maximize Palestinian casualties. In addition to fatalities caused directly by Israeli airstrikes, drones, artillery, and gunfire, the deprivation of basic necessities has been utilized as a weapon of war. This includes a lack of shelter during severe weather and acute shortages of food and essential supplies due to ongoing aid restrictions. Simultaneously, the healthcare system has been a primary target of military operations. Dr. Munir al-Bursh, director general of the Gaza Health Ministry, and Alaa Abu Odeh, the ministry’s director general of Engineering and Maintenance, addressed these issues in a recent d",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/cb5115bd20941b549acc86de.json"
-    },
-    {
-      "id": "8c12fadf625dd24c96c08131",
-      "title": "Anti-austerity protests continue with force in France",
-      "url": "https://breakthroughnews.org/2026/11/20/anti-austerity-protests-continue-with-force-in-france",
-      "author": "Ana Vračar",
-      "source": "BT News",
-      "published_at": "2026-11-20T22:31:29+00:00",
-      "content_excerpt": "Half a million people took part in demonstrations across France on Tuesday, November 17, in response to a strike call by public sector workers. Tuesday’s strike and protests marked the continuation of a mobilization wave that has shaken the country for approximately two months. “Today was the eleventh round of demonstrations since September 29,” wrote the General Confederation of Labor (CGT). “All in all, in two months, over 5 million demonstrators joined the mobilization for our public services and against the cost of living crisis.” Watch: France’s protest movement is fighting more than Macron “Workers continue to demonstrate their rejection of austerity policies, the deterioration of public services and the erosion of purchasing power,” echoed the trade union organization Solidaires . “",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/8c12fadf625dd24c96c08131.json"
-    },
-    {
-      "id": "a1e1ab0ef2196aab4560edec",
-      "title": "Why I joined Tempest",
-      "url": "https://tempestmag.org/2026/11/why-i-joined-tempest-2",
-      "author": "Keegan O'Brien",
-      "source": "Tempest",
-      "published_at": "2026-11-20T19:47:21+00:00",
-      "content_excerpt": "I’ m writing this message from Belfast, Northern Ireland. I’m on a solo trip around the country, and it’s been absolutely stunning. If you haven’t been to Ireland, I highly recommend making the trip! Today, I visited the James Connolly Museum, and the experience moved me to share some photos and brief reflections about my political life. These past seven-plus years since the dissolution of the International Socialist Organization have been a politically challenging time for me as a revolutionary socialist, as I know they have been for many others. At times, I still feel like I’ve lost my political home and anchor, struggling to stay afloat, make sense of what’s happening in the world, and figure out what comes next. In spite of that, I’m incredibly grateful to be part of the Tempest Collec",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/a1e1ab0ef2196aab4560edec.json"
-    },
-    {
-      "id": "25f31df11b7cbea78babc996",
-      "title": "What does the ICJ ruling on Myanmar mean for Gaza?",
-      "url": "https://mondoweiss.net/2026/11/what-does-the-icj-ruling-on-myanmar-mean-for-gaza",
-      "author": "Mitchell Plitnick",
-      "source": "Mondoweiss",
-      "published_at": "2026-11-20T19:45:34+00:00",
-      "content_excerpt": "For the first time in history, the ICJ has found a state directly guilty of genocide. It remains to be seen if Israel's genocide in Gaza will follow.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/25f31df11b7cbea78babc996.json"
-    },
-    {
-      "id": "588dfe9f59b8aae675cff870",
-      "title": "Why are Mexican cartels fighting in Ukraine?",
-      "url": "https://breakthroughnews.org/2026/11/20/why-are-mexican-cartels-fighting-in-ukraine",
-      "author": "Zoe Alexandra",
-      "source": "BT News",
-      "published_at": "2026-11-20T19:13:37+00:00",
-      "content_excerpt": "The war in Ukraine has become a training ground for Latin America’s drug cartels: An enforcer for one of Brazil’s biggest gangs was arrested in Rio this month after five on the front lines in Europe. Peter Korotaev, independent journalist and author of Events in Ukraine, joins Zoe Alexandra to unpack why Colombian ex-soldiers, Mexican cartel members and members of a Pentecostal Brazilian gang wound up among the foreign mercenaries fighting Russian forces. Some serve in units tied to HUR, Ukraine’s CIA-trained military intelligence agency, and to the far-right Azov movement, whose longtime leader Serhiy Korotkikh openly follows narco folk saint Santa Muerte. And as cartel drone attacks surge from Mexico to Brazil, Korotaev argues, the violence gives Washington the pretext it needs for furth",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/588dfe9f59b8aae675cff870.json"
-    },
-    {
-      "id": "e979ab15ed7a4c526628782e",
-      "title": "A Great Reversal: Washington and Caracas sign new military agreement",
-      "url": "https://breakthroughnews.org/2026/11/20/a-great-reversal-washington-and-caracas-sign-new-military-agreement",
-      "author": "Manolo De los Santos",
-      "source": "BT News",
-      "published_at": "2026-11-20T18:10:18+00:00",
-      "content_excerpt": "On November 18, 2026, acting President of Venezuela, Delcy Rodriguez, presided over the signing by US Secretary of War Pete Hegseth and Venezuelan Minister of Defense Gustavo González López of a military cooperation agreement in Caracas. Speaking from the US Embassy in Caracas, Hegseth arrogantly stated that Venezuela “has gone from our most aggressive regional threat to a compliant security partner.” Rubbing salt in the wound, Hegseth boasted that his trip was only “made possible” by the January 3rd operation that kidnapped President Nicolás Maduro and Cilia Flores, and left 32 Cubans and over 100 Venezuelans dead. This he called “the single most sophisticated military operation in the history of Latin America,” which “solved a 27-year problem for this hemisphere in a matter of hours.” He",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/e979ab15ed7a4c526628782e.json"
     }
   ]
 }
