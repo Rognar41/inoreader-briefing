@@ -1,41 +1,296 @@
 {
-  "generated_at": "2026-11-23T00:24:31.660163+00:00",
-  "generated_at_jst": "2026-11-23T09:24:31.660163+09:00",
-  "period_start": "2026-11-21T18:24:31.660163+00:00",
+  "generated_at": "2026-11-24T04:22:07.029397+00:00",
+  "generated_at_jst": "2026-11-24T13:22:07.029397+09:00",
+  "period_start": "2026-11-22T22:22:07.029397+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
-  "article_count": 2,
+  "article_count": 19,
   "excerpt_chars": 800,
   "articles": [
     {
-      "id": "975397793b93cb1e648360eb",
-      "title": "Communal Circuits in the Delta: Life, Work and the Blockade (Part I)",
-      "url": "https://mronline.org/2026/11/22/communal-circuits-in-the-delta-life-work-and-the-blockade-part-i",
-      "author": "Cira Pascual Marquina",
-      "source": "MR Online",
-      "published_at": "2026-11-22T19:48:10+00:00",
-      "content_excerpt": "“The river is mighty: it can take life, but it also gives us life. We choose to live on its banks.” The post Communal Circuits in the Delta: Life, Work and the Blockade (Part I) appeared first on MR Online .",
+      "id": "266f32ef2f576579c1bf3da8",
+      "title": "Shenzhen’s nuclear summit",
+      "url": "https://breakthroughnews.org/2026/11/24/shenzhens-nuclear-summit",
+      "author": "Vijay Prashad",
+      "source": "BT News",
+      "published_at": "2026-11-24T03:39:07+00:00",
+      "content_excerpt": "On November 19, President Xi Jinping of China hosted a meeting with President Vladimir Putin of Russia and President Donald Trump of the United States. They met in Shenzhen at the margins of the Asia Pacific Economic Cooperation (APEC) forum. The final statement that appeared from them had a very powerful line, “A nuclear war cannot be won and must never be fought.” This line came from three of the most important nuclear weapons countries in the world, only one of which – the United States – has used a nuclear bomb against civilians (in Hiroshima and Nagasaki in 1945). The other nuclear weapons countries (France, India, Israel, North Korea, Pakistan, and the United Kingdom) do not have the scale of the arsenals of the three that met in Shenzhen, which means that they do not have the capaci",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/975397793b93cb1e648360eb.json"
+      "article_path": "articles/266f32ef2f576579c1bf3da8.json"
     },
     {
-      "id": "93b62b69b9c13eba32974070",
-      "title": "Fujimori government revives war on the left with detentions of artists and activists",
-      "url": "https://breakthroughnews.org/2026/11/21/fujimori-government-revives-war-on-the-left-with-detentions-of-artists-and-activists",
-      "author": "Pablo Meriguet",
-      "source": "BT News",
-      "published_at": "2026-11-21T23:17:14+00:00",
-      "content_excerpt": "Organizations in Peru raised the alarm about the arbitrary arrest of several progressive artists and activists on November 19. The arrests were reportedly carried out by the Counterterrorism Directorate (DIRCOTE) in the cities of Cusco, Lima, and Tarapoto. Hip-hop artists Brenda Jah (Brenda Mejía) and Pedro Mo (Pedro Mosquera) were arrested in Lima and Cusco respectively and will reportedly be held for 15 days in preliminary detention, as requested by the Prosecutor’s Office specializing in terrorism offenses. In addition to the artists, leftist organizers Libia Arcila, David Tapullima, and Polidoro Tapullima were arrested and face a similar 15 days in preliminary detention. David and Polidoro Tapullima were arrested in Tarapoto and had their homes raided by security forces. They are repor",
+      "id": "bcea5c6caa4d87e5791abe25",
+      "title": "Thanked For Service, Rewarded With Broken Promises. w/Steve Early",
+      "url": "https://convergencemag.com/podcast/thanked-for-service-promises-broken-w-steve-early",
+      "author": "Cayden Mak",
+      "source": "Convergence",
+      "published_at": "2026-11-24T00:14:17+00:00",
+      "content_excerpt": "Numerous articles of impeachment relating to the war in Iran were filed against Secretary of Defense Pete Hegseth on Nov. 9. That impeachment attempt failed, but the institutional rot represented by Hegseth as the beating heart of patriarchal corruption in the Department of Defense goes much deeper than just one sick man’s mishandling of an illegal war. In their new book Courage or Complicity… Source",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/93b62b69b9c13eba32974070.json"
+      "article_path": "articles/bcea5c6caa4d87e5791abe25.json"
+    },
+    {
+      "id": "32f9fcc458ff6aea08cb8bc8",
+      "title": "Belgium: 70,000-strong anti-austerity demonstration rounds up weekend of mobilization",
+      "url": "https://breakthroughnews.org/2026/11/23/belgium-70000-strong-anti-austerity-demonstration-rounds-up-weekend-of-mobilization",
+      "author": "Ana Vračar",
+      "source": "BT News",
+      "published_at": "2026-11-23T23:47:05+00:00",
+      "content_excerpt": "A weekend of mobilization in Belgium culminated in a national anti-austerity demonstration in Brussels on Monday, November 23, with unions reporting at least 70,000 participants. After a successful youth strike against militarization and conscription on Friday and a peace march on Sunday, trade unions called on everyone to mobilize against the Arizona government’s devastating budgetary plans. Read more: One million students across Europe strike against war and rearmament “People are already struggling to make ends meet,” Peter Mertens , General Secretary of the Workers’ Party of Belgium (PTB-PVDA), wrote on the day. “They refuse to see billions poured into US-made F-35 fighter jets while we’re told there’s no money to invest in education or healthcare.” “And they refuse to accept that bill",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/32f9fcc458ff6aea08cb8bc8.json"
+    },
+    {
+      "id": "4fa585a4f3f0b443926620c9",
+      "title": "BT LIVE: Iowa Lead Bomb | Germany’s Youth Revolt | Europe’s ‘Spoilers’ in Ukraine",
+      "url": "https://breakthroughnews.org/2026/11/23/nov-23-26",
+      "author": "BreakThrough News",
+      "source": "BT News",
+      "published_at": "2026-11-23T22:47:23+00:00",
+      "content_excerpt": "This content is for members only. Visit the site and log in/register to read.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/4fa585a4f3f0b443926620c9.json"
+    },
+    {
+      "id": "663e29b09d49ae9713758efa",
+      "title": "With the main opposition party suspended, Ecuador returns to the polls",
+      "url": "https://breakthroughnews.org/2026/11/23/with-the-main-opposition-party-suspended-ecuador-returns-to-the-polls",
+      "author": "BreakThrough News",
+      "source": "BT News",
+      "published_at": "2026-11-23T22:47:23+00:00",
+      "content_excerpt": "On November 12, the campaigns for Ecuador’s local elections formally began. This Sunday, November 29, voters will elect prefects, mayors, city council members, and members of local boards. Historically, local elections have reflected the level of support or opposition to the current government. In this sense, right-wing president Daniel Noboa has more at stake than just a simple popular election. This is especially true when considering the last elections (which centered on four referendum questions) held on November 16, 2025. In those elections, Noboa suffered a fourfold electoral defeat, as the majority of Ecuadorians rejected his attempt to repeal the current constitution – which guarantees rights – in favor of a neoliberal one. Furthermore, Ecuadorians said no to the possibility of est",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/663e29b09d49ae9713758efa.json"
+    },
+    {
+      "id": "a4f66028d5b6b6d1ba88ecaa",
+      "title": "Morocco jails four Sahrawi students over political prisoner protest",
+      "url": "https://breakthroughnews.org/2026/11/23/morocco-jails-four-sahrawi-students-over-political-prisoner-protest",
+      "author": "Pavan Kulkarni",
+      "source": "BT News",
+      "published_at": "2026-11-23T21:48:19+00:00",
+      "content_excerpt": "Condemning the sentencing of four Sahrawi students for taking part in a peaceful demonstration in solidarity with Sahrawi political prisoners, human rights groups in Western Sahara have called for greater international scrutiny of Morocco as an occupying power. The four jailed students are Brahim Babit, Salah Eddine Sbar, El Hussein Chihab, and Mohamed Lemrabet, studying at Zohr University in the Moroccan city of Agadir. On October 12, they traveled over 500 km north to the national capital, Rabat, to attend the demonstration. It was organized by family members and relatives of those incarcerated during the 2010 Gdeim Izik protest encampment for Sahrawi rights.​ Sahrawi students in Morocco report widespread discrimination, cultural pressure, and clashes over protests about the occupation o",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/a4f66028d5b6b6d1ba88ecaa.json"
+    },
+    {
+      "id": "dff3058911e3fad590f775e3",
+      "title": "One million students across Europe strike against war and rearmament",
+      "url": "https://breakthroughnews.org/2026/11/23/one-million-students-across-europe-strike-against-war-and-rearmament",
+      "author": "Ana Vračar",
+      "source": "BT News",
+      "published_at": "2026-11-23T19:47:34+00:00",
+      "content_excerpt": "More than 50 student organizations in 27 European countries launched an international strike against war and militarization on Friday, November 20, drawing a million of young people onto the streets. Students issued joint demands including an end to rearmament and all forms of conscription, investment in education and social services, and solidarity with oppressed peoples around the world. They also declared resistance to growing authoritarian trends in the region. “We are protesting to claim our right to a better future, and we are aware that if we stand united, no one will be able to stop us from taking it,” said Alessandro Di Miceli from the Italian organization Rete della Conoscenza. The international student strike drew a million students onto the streets of 27 European countries on N",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/dff3058911e3fad590f775e3.json"
+    },
+    {
+      "id": "5ebb34c7c27a9b0b3f909b6c",
+      "title": "Bishop William Barber: Democrats Must Now Push for Universal Healthcare, Living Wages & Ending War",
+      "url": "https://www.democracynow.org/2026/11/23/bishop_william_barber_democrats_must_know",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-11-23T18:43:50+00:00",
+      "content_excerpt": "Part 2 of our interview with Bishop William Barber, who calls on Democrats to enact a “moral agenda” after winning back control of the Senate and House.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/5ebb34c7c27a9b0b3f909b6c.json"
+    },
+    {
+      "id": "a594696fdc4ac6569228d589",
+      "title": "“A Shameful Failure”: U.N. Climate Summit Collapses as Final Text Drops Mention of Fossil Fuels",
+      "url": "https://www.democracynow.org/2026/11/23/cop31_recap",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-11-23T16:39:49+00:00",
+      "content_excerpt": "This is a rush transcript. Copy may not be in its final form. AMY GOODMAN : This is Democracy Now! , democracynow.org, The War and Peace Report . I’m Amy Goodman, back in New York. In Turkey, the United Nations climate summit collapsed Sunday after nations failed to reach an agreement on a new climate deal as the Earth warms. The European Union and a number of countries opposed the final draft because it made no mention of fossil fuels. The effort to strip the text of references to coal, oil and gas was led by Saudi Arabia and joined by Russia. The United States did not participate in COP31. This is Kathy Jetn̄il-Kijiner, the climate envoy for the Marshall Islands. KATHY JETN̄IL- KIJINER : The Republic of the Marshall Islands objects to the adoption of the CMA text and cannot join consensu",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/a594696fdc4ac6569228d589.json"
+    },
+    {
+      "id": "bd2c44df5c069d44a742dd63",
+      "title": "We Need a Third Reconstruction: Bishop William Barber Pushes Democrats to Take Action After Midterms",
+      "url": "https://www.democracynow.org/2026/11/23/bishop_barber_dem_elections",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-11-23T16:39:49+00:00",
+      "content_excerpt": "With Democrats preparing to take control of both houses of Congress in January, Bishop William Barber of Repairers of the Breach argues the coalition that delivered the Democrats their midterm victories must now hold the incoming Congress accountable and keep organizing from the ground up. He and other faith leaders are calling on members of the incoming Congress to join them outside the U.S. Capitol next month to sign “A Pledge for Moral Defiance” — a commitment to pass legislation that addresses the needs of poor and working people and other vulnerable communities. Barber is pushing for what he describes as a Third Reconstruction: a sweeping moral and political agenda that includes a living wage, universal healthcare, protecting voting rights, affordable housing, environmental justice an",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/bd2c44df5c069d44a742dd63.json"
+    },
+    {
+      "id": "2613e1bc63bcc7798175aece",
+      "title": "After the midterms, the U.S.-Israel military relationship is changing — but it’s not all good news for the Palestine movement",
+      "url": "https://mondoweiss.net/2026/11/after-the-midterms-the-u-s-israel-military-relationship-is-changing-but-its-not-all-good-news-for-the-palestine-movement",
+      "author": "Joseph Mogul",
+      "source": "Mondoweiss",
+      "published_at": "2026-11-23T16:09:27+00:00",
+      "content_excerpt": "The U.S. midterm results were a stunning rebuke of the Iran war and the U.S.-Israel relationship, but defense analyst Bill Hartung says not all the policy changes being proposed in response to shifting political winds will help Palestinians.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/2613e1bc63bcc7798175aece.json"
+    },
+    {
+      "id": "a167247b857190cc247fc461",
+      "title": "‘This is our land’: Albanian activist says protests won’t stop | Excl.",
+      "url": "https://mronline.org/2026/11/23/this-is-our-land-albanian-activist-says-protests-wont-stop-excl",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-11-23T14:50:23+00:00",
+      "content_excerpt": "Who benefits from the multibillion-dollar resort linked to Ivanka Trump and Jared Kushner? Flamingo Revolution activist Elsa Paja gives her answer. The post ‘This is our land’: Albanian activist says protests won’t stop | Excl. appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/a167247b857190cc247fc461.json"
+    },
+    {
+      "id": "c110974d3e3e93db1ab036f3",
+      "title": "Israel is still displacing Palestinians in Gaza, expanding its ‘yellow line’ deeper into the strip every day",
+      "url": "https://mondoweiss.net/2026/11/israel-is-still-displacing-palestinians-in-gaza-expanding-its-yellow-line-deeper-into-the-strip-every-day",
+      "author": "Tareq S. Hajjaj",
+      "source": "Mondoweiss",
+      "published_at": "2026-11-23T14:19:49+00:00",
+      "content_excerpt": "How the Israeli army is using incendiary bombs, indiscriminate gunfire, and direct intimidation to depopulate entire neighborhoods in Gaza.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/c110974d3e3e93db1ab036f3.json"
+    },
+    {
+      "id": "fb0dd8564389c40a35ca7f49",
+      "title": "Why the AI bubble will burst–with system-threatening consequences",
+      "url": "https://mronline.org/2026/11/23/why-the-ai-bubble-will-burst-with-system-threatening-consequences",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-11-23T13:45:39+00:00",
+      "content_excerpt": "The AI boom has poured enormous sums into chips, data centers and computing infrastructure. The post Why the AI bubble will burst–with system-threatening consequences appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/fb0dd8564389c40a35ca7f49.json"
+    },
+    {
+      "id": "18f429574b8c666c5450563e",
+      "title": "Lame, suffocated and dead: The drug supersizing America’s cattle",
+      "url": "https://mronline.org/2026/11/23/lame-suffocated-and-dead-the-drug-supersizing-americas-cattle",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-11-23T12:46:54+00:00",
+      "content_excerpt": "Approved by the FDA to reduce pollution from feedlots, Experior has become a lucrative drug in the beef industry’s pursuit of bigger animals. Our investigation reveals troubling safety findings, reports of cattle deaths, and questions about industry influence on the FDA and research universities. The post Lame, suffocated and dead: The drug supersizing America’s cattle appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/18f429574b8c666c5450563e.json"
+    },
+    {
+      "id": "0989d31a63e6a7e034452c33",
+      "title": "Trump’s cyber director pick has deep ties to Israeli intelligence",
+      "url": "https://mronline.org/2026/11/23/trumps-cyber-director-pick-has-deep-ties-to-israeli-intelligence",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-11-23T11:52:44+00:00",
+      "content_excerpt": "The Trump administration’s pick for new national ⁠cyber director is deeply connected to Israeli intelligence, having served on the board of three cyber companies founded by top ranking Israeli spies. The post Trump’s cyber director pick has deep ties to Israeli intelligence appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/0989d31a63e6a7e034452c33.json"
+    },
+    {
+      "id": "7aff7133ca1b2145d675d80b",
+      "title": "GTA 6 is here! Finally, we can escape capitalism—into another capitalism",
+      "url": "https://mronline.org/2026/11/23/gta-6-is-here-finally-we-can-escape-capitalism-into-another-capitalism",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-11-23T10:48:18+00:00",
+      "content_excerpt": "After 13 years of waiting, Grand Theft Auto VI has finally been released. The post GTA 6 is here! Finally, we can escape capitalism—into another capitalism appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/7aff7133ca1b2145d675d80b.json"
+    },
+    {
+      "id": "738e5407350f9360bf3f9f6e",
+      "title": "Francophonie Summit marked by absence of Sahel countries and DRC-Rwanda tensions",
+      "url": "https://breakthroughnews.org/2026/11/23/francophonie-summit-marked-by-absence-of-sahel-countries-and-drc-rwanda-tensions",
+      "author": "Nicholas Mwangi",
+      "source": "BT News",
+      "published_at": "2026-11-23T00:43:35+00:00",
+      "content_excerpt": "The 20th Francophonie Summit – the highest meeting of the International Organization of La Francophonie (OIF) – took place on November 14 – 16 in Phnom Penh, Cambodia, without three West African countries that have increasingly distanced themselves from France and its political influence in the region. The three-day summit, hosted for the first time by Cambodia, brought together leaders and representatives of French-speaking countries under the theme “Reinvesting in Peace for Shared Prosperity and Lasting Stability.” Among those attending was French President Emmanuel Macron, Rwandan President Paul Kagame, Democratic Republic of Congo President Félix Tshisekedi, Canadian Prime Minister Mark Carney, Vietnamese President To Lam, and Togolese President Faure Gnassingbé. However, the absence o",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/738e5407350f9360bf3f9f6e.json"
+    },
+    {
+      "id": "6756248b49ebc16baa72de39",
+      "title": "Ansar Allah advances towards Saudi stronghold Aden",
+      "url": "https://breakthroughnews.org/2026/11/23/ansar-allah-advances-towards-saudi-stronghold-aden",
+      "author": "Aseel Saleh",
+      "source": "BT News",
+      "published_at": "2026-11-23T00:43:35+00:00",
+      "content_excerpt": "As the renewed fighting between Saudi Arabia and the Ansar Allah-led Yemeni Armed Forces enters its fourth month, developments on the ground indicate that the conflict has reached a critical threshold. However, what Riyadh and its allies could not achieve over the past decade in Yemen seems far from attainable at this point, as Ansar Allah continues to expand its territorial control and target vital Saudi sites. The last week saw a remarkable advance by Ansar Allah towards Aden, the seat of the Yemeni interim government, backed by Saudi Arabia and Western countries. Ansar Allah solidified its hold on the Khor Omairh coastline, west of Aden, and captured parts of Lahij Governorate, encompassing the highland district of Al-Maqatirah. This progress came days after the movement managed to push",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/6756248b49ebc16baa72de39.json"
     }
   ]
 }

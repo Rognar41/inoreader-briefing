@@ -1,176 +1,311 @@
 {
-  "generated_at": "2026-11-23T00:24:31.660163+00:00",
-  "generated_at_jst": "2026-11-23T09:24:31.660163+09:00",
-  "period_start": "2026-11-21T18:24:31.660163+00:00",
+  "generated_at": "2026-11-24T04:22:07.029397+00:00",
+  "generated_at_jst": "2026-11-24T13:22:07.029397+09:00",
+  "period_start": "2026-11-22T22:22:07.029397+00:00",
   "lookback_hours": 30,
   "folder": "00_毎日確認",
-  "article_count": 11,
+  "article_count": 20,
   "excerpt_chars": 800,
   "articles": [
     {
-      "id": "9a06d3810f1a7d9cbac2e208",
-      "title": "Christian Nationalism",
-      "url": "https://www.laprogressive.com/science-and-religion/christian-left-rises",
-      "author": "H. Scott Prosterman",
-      "source": "LA Progressive",
-      "published_at": "2026-11-22T18:51:19+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. The political tsunami that brought new blood to the U.S. House and Senate also set in motion a fresh dialectic to challenge the nativist Christian Nationalist movement in the U.S. While U.S. Ambassador to Israel Mike Huckabee has been a forceful “Christian Soldier” in promoting illegal Christian and Jewish settlements in the West Bank, Texas Senator-Elect James Talarico is one of the newly elected officials poised to re-direct that narrative. Convicted felon Donald Trump has benefitted from his alliance with white Christian nationalists, who perceive him as a modern-day King Cyrus , a powerful heathen sent by God on their behalf. Though Trump has shown to be the most unspir",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/9a06d3810f1a7d9cbac2e208.json"
-    },
-    {
-      "id": "f357c3be416f98f3dc14fce8",
-      "title": "Outsourcing War",
-      "url": "https://www.laprogressive.com/war-and-peace/outsourcing-war",
-      "author": "John P. Ruehl",
-      "source": "LA Progressive",
-      "published_at": "2026-11-22T17:51:25+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. The election was a major setback for Trump and the MAGA party. But still, our Republic is in danger. The Project 2025 Christian Nationalist crowd continue to run the administration. And with the appointment of the fanatical Stephen Miller as chief of staff, Trump appears to be doubling down. Moreover, with his suspected cognitive decline, he may pose an even greater threat to the social order that our nation and Western allies have enjoyed for generations. Other powers seek to destroy our Republic. Trump’s best friend Vladimir Putin despises America for its principles and its support of Ukraine’s fight for independence and democracy. And internally, players like Elon Musk a",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/f357c3be416f98f3dc14fce8.json"
-    },
-    {
-      "id": "2842f5d3dac1ab077c40f5a7",
-      "title": "Revolution and Fun in France - YDSA",
-      "url": "https://y.dsausa.org/the-activist/revolution-and-fun-in-france",
-      "author": "",
-      "source": "The Activist Archive - YDSA",
-      "published_at": "2026-11-22T17:41:03+00:00",
-      "content_excerpt": "France’s ongoing student uprisings have featured music, aura battles, combativeness and joyous celebration. To build a socialist movement in the US, we need to understand our biggest material barriers to revolutionary joy. “J’ai deux passions: la fanfare, la révolution” I have two passions: the marching band, the revolution “Vive les blocages, les sabotages” Long live the blockades, the sabotages “Les ZAD et les manifs sauvages!” The ZADs and the riots! -French Protest Anthem Protestors in costume (left) facing off with riot police (right), (October 31st, Wikimedia Commons ) Over the past two months, workers and youth have risen up across Europe , with their agitation spreading to parts of South America, Asia , and even Canada . While it is not the aim of this article, nor within its scope",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/2842f5d3dac1ab077c40f5a7.json"
-    },
-    {
-      "id": "738d9ca5a9aec99497beae19",
-      "title": "Trump's Economic Fantasy",
-      "url": "https://www.laprogressive.com/economic-equality/trumps-economic-fantasy",
-      "author": "Julianne Malveaux, PhD",
-      "source": "LA Progressive",
-      "published_at": "2026-11-22T17:23:04+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. In his run-up to the midterm elections, the president is crisscrossing the country in an effort to energize his base. Unfortunately, he seeks to inflame his base with multiple exaggerations, obfuscations, half-truths, and downright bald-faced lies. Thus, he told Oklahoma’s News 9 on October 1, “So we have the greatest economy in the history of our country.” The data says otherwise. Consider the September employment report, released October 2. The economy added just 29,000 jobs. Earlier estimates for July and August were revised downward by a combined 60,000. July, initially reported as a month of job growth, now shows a loss of 10,000 jobs. These numbers hardly support the ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/738d9ca5a9aec99497beae19.json"
-    },
-    {
-      "id": "def1581dd3c38f1cf75652ac",
-      "title": "Climate Revolution",
-      "url": "https://www.laprogressive.com/climate-change/climate-revolution",
-      "author": "Marcus Baram",
-      "source": "LA Progressive",
-      "published_at": "2026-11-22T17:02:01+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Almost no one ran on climate change this fall, but the election may reshape climate policy all the same. Democrats won both houses of Congress, a majority of governorships and — as projected by the National Conference of State Legislatures — control of 25 state legislatures by talking about prices: gasoline, diesel, home heating and above all — electricity. Geoff Garin, a Democratic pollster who works with the advocacy group Climate Power, told Capital & Main that nearly three-quarters of Democratic candidates in battleground-state races ran at least one ad about energy costs. “The old Republican mantras of ‘drill, baby, drill’ and American energy dominance were and are who",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/def1581dd3c38f1cf75652ac.json"
-    },
-    {
-      "id": "1bd89cb2e67b0372fdb7ed39",
-      "title": "Los Angeles Socialists Won Big in the Blue Electoral Wave",
-      "url": "https://jacobin.com/2026/11/dsa-la-elections-raman-roy",
-      "author": "Chris Kutalik",
-      "source": "Jacobin",
-      "published_at": "2026-11-22T14:11:55+00:00",
-      "content_excerpt": "LA was at a critical cusp in its history. Globalization had reorganized its economy, rewiring it in dramatic ways, and many people were being left behind. Yet the city had — and still has — this incredible, protean potential for better things, for progressive politics, for surprising activism. — Mike Davis, 2006 The midterm elections were truly seismic. Like many places across the country, Los Angeles made good on its protean potential from the 2026 blowout with a stronger socialist movement and a larger share of political power. Democratic Socialists of America (DSA) members won up and down the ballot. Nithya Raman won the mayor’s office of the country’s second-largest city in an upset victory. Marissa Roy has won the city attorney’s office, and Angela Gonzales-Torres is headed to Congres",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/1bd89cb2e67b0372fdb7ed39.json"
-    },
-    {
-      "id": "c61b7e6465142b65c5c06743",
-      "title": "The Enshittification of Everyday Life",
-      "url": "https://jacobin.com/2026/11/tech-enshittification-services-time-inconvenience",
-      "author": "Jatinder Hayre",
-      "source": "Jacobin",
-      "published_at": "2026-11-22T14:11:55+00:00",
-      "content_excerpt": "Have you tried to speak to a human being lately? Perhaps you wanted to question an energy bill, rearrange a hospital appointment, claim a benefit, or discover why your insurer had refused treatment your doctor said you needed. You will probably have been invited to download an app, create an account, and remember a password. The most recent demand is that you must interrogate a chatbot. And then, as a final act of administrative penance, you can telephone a call center, where a recorded voice assures you that your call is terribly important. Somewhere along the way, a strange inversion occurred: the institution still takes your money, increasingly so, but you perform more and more of the labor. This sort of scenario is usually called decline, but I think that is too generous. Decline sugge",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/c61b7e6465142b65c5c06743.json"
-    },
-    {
-      "id": "63e6059010e6fea372d4077d",
-      "title": "What the ’60s Left Gave Us",
-      "url": "https://jacobin.com/2026/11/new-left-civil-rights-vietnam-marxism",
-      "author": "Adolph Reed",
-      "source": "Jacobin",
-      "published_at": "2026-11-22T14:11:55+00:00",
-      "content_excerpt": "Before the Bernie Sanders presidential runs, the last big upsurge in radical American politics occurred in the 1960s. This moment is remembered for its civil rights activism and student antiwar protests, but how should we really understand the New Left’s rise and fall? On this latest episode of the Jacobin Radio podcast Confronting Capitalism , Vivek Chibber and Melissa Naschek are joined by political scientist and longtime socialist organizer Adolph Reed Jr for a wide-ranging conversation about the ’60s radicals. They look at the rise of the student movement, the developments in postwar Marxism, and the birth of modern identity politics. Confronting Capitalism with Vivek Chibber is produced by Catalyst: A Journal of Theory and Strategy and published by Jacobin . You can listen to the full",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/63e6059010e6fea372d4077d.json"
-    },
-    {
-      "id": "d934a7dfb485d6eed8dd3c8d",
-      "title": "Socialism Deferred: The Communist Party of Italy and the Historic Compromise of 1976",
-      "url": "https://socialistforum.dsausa.org/uncategorized/socialism-deferred-the-communist-party-of-italy-and-the-historic-compromise-of-1976",
-      "author": "Socialist Forum",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-11-21T22:08:37+00:00",
-      "content_excerpt": "American politics is at a crossroads. All that was once considered certain or possible is now in question. For the first time since the early 20th century, American Socialists are gaining considerable municipal and state level influence through successful and highly publicized electoral campaigns. After a largely successful midterm showing, the DSA established itself as a small but potent force in American politics. For the first time there is a comparatively large cohort of elected DSA members holding local, state, and federal office. Along with this heightened political influence comes greater political risk. Questions of electoral positioning and maneuver take on greater weight. Examining the past experience of socialist and non-socialist alliances can be instructive. Italy provides a p",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/d934a7dfb485d6eed8dd3c8d.json"
-    },
-    {
-      "id": "64424b12e3d249ce700385ac",
-      "title": "Scenes from New York City DSA’s Convention",
-      "url": "https://democraticleft.dsausa.org/2026/11/21/scenes-from-new-york-city-dsas-convention",
+      "id": "964752605563ff640dcf478f",
+      "title": "Boycott Starbucks, If You Know What’s Good For You",
+      "url": "https://democraticleft.dsausa.org/2026/11/23/boycott-starbucks-if-you-know-whats-good-for-you",
       "author": "Democratic Left",
       "source": "Democratic Left",
-      "published_at": "2026-11-21T20:18:48+00:00",
-      "content_excerpt": "DSA’s largest chapter held its annual convention on Nov. 14. The post Scenes from New York City DSA’s Convention appeared first on Democratic Left .",
+      "published_at": "2026-11-24T01:18:15+00:00",
+      "content_excerpt": "A contract for Starbucks workers would be a win for workers everywhere. Their union deserves our support in its call for “No Contract, No Coffee.” The post Boycott Starbucks, If You Know What’s Good For You appeared first on Democratic Left .",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/64424b12e3d249ce700385ac.json"
+      "article_path": "articles/964752605563ff640dcf478f.json"
     },
     {
-      "id": "2889baca32a8a1bfdd90a012",
-      "title": "David Dinkins Wasn’t Loud Enough for New York City",
-      "url": "https://jacobin.com/2026/11/review-dinkins-mayoralty-police-reform",
-      "author": "David Duhalde",
-      "source": "Jacobin",
-      "published_at": "2026-11-21T18:54:08+00:00",
-      "content_excerpt": "In the past few weeks, New York City mayor Zohran Mamdani has proposed breaking up the Strategic Response Group and closing Rikers by 2032 , the former established by progressive Mayor Bill de Blasio, who also revived a plan to dismantle the latter by 2027. But unfulfilled promises of police and carceral reform efforts go back to the 1990s. How much should the failures of previous mayoral administrations weigh on the decisions of Mamdani and his allies in regard to public safety and police? This question has no easy answer. But a new book by James Barney on the tenure of New York City’s first black mayor, David Dinkins, offers insights on his efforts to rein in police excesses based on new research, especially in the local press of the era — and critically how those attempts failed, despit",
+      "id": "17cdeccd356857eb3294dd83",
+      "title": "Unions Step Up to Meet the Moment",
+      "url": "https://convergencemag.com/articles/unions-step-up-to-meet-the-moment",
+      "author": "",
+      "source": "Tag: Labor",
+      "published_at": "2026-11-24T00:28:27+00:00",
+      "content_excerpt": "Featured image by Jared Rodriguez Since taking office, Trump and MAGA forces have made considerable advances in implementing Project 2025 and consolidating authoritarian power—but many of these moves have proved unpopular and undermined their support. With Trump’s approval ratings dropping and elements of his coalition defecting, conditions look promising for pushing back MAGA in the midterm elections. But there are at least two sources of concern. With their support declining, the MAGA forces are likely to step up their efforts to interfere with the elections—doing everything from stopping people from voting to refusing to seat elected officials to unleashing violence. And even if elections go smoothly, will the anti-MAGA forces be prepared to govern in a way that brings about real change",
       "source_folders": [
         "00_毎日確認"
       ],
       "priority": 1,
       "date_missing": false,
-      "article_path": "articles/2889baca32a8a1bfdd90a012.json"
+      "article_path": "articles/17cdeccd356857eb3294dd83.json"
+    },
+    {
+      "id": "29eebaa13ea601c25ecaf844",
+      "title": "Billy Evans’s You Can See Everything Deal Is the Real Story",
+      "url": "https://jacobin.com/2026/11/holmes-evans-fielder-documentary-payment",
+      "author": "Stephen Lurie",
+      "source": "Jacobin",
+      "published_at": "2026-11-23T20:42:11+00:00",
+      "content_excerpt": "In just over a month in theaters, the new A24 film from Nathan Fielder and Lance Oppenheim has grossed over $93 million at the domestic box office, more than twelve times its $7 million budget. Had things gone as originally planned, a meaningful share of that money would now be flowing to Billy Evans — Elizabeth Holmes’s partner and the film’s de facto antagonist — under the profit-sharing deal he negotiated on camera in exchange for the couple’s participation. Evans has since told CBS News that his share would have been worth tens of millions of dollars. We came close to living in that timeline: one in which moviegoers became, without knowing it, funders of the man now running what he himself dubs a “Theranos 2.0,” his blood-testing startup, Haemanthus. We have Evans — or Evans and A24 — ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/29eebaa13ea601c25ecaf844.json"
+    },
+    {
+      "id": "8f1b158c12ad37f786a96a04",
+      "title": "Rikers Island Set To Close in 2032 & SRG To Be Disbanded",
+      "url": "https://thethornnyc.substack.com/p/rikers-island-set-to-close-in-2032",
+      "author": "The Thorn - NYC DSA Electoral Working Group",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-11-23T20:22:40+00:00",
+      "content_excerpt": "Local News In a video collaboration with New York City Councilmember Chi Osse (Council District 36, Bedford–Stuyvesant), Mayor Zohran Mamdani announced the official disbandment of the NYPD’s Strategic Response Group (SRG), addressing a campaign promise to separate protest response from counterterrorism functions. The SRG will be replaced with a civilian-led Community Dialogue and De-escalation Division (CDDD), and the NYPD’s protest response will be through a specialized dialogue team, named the First Amendment Support Team (FAST). Rikers Island—notorious for its overcrowding, inmate/correctional violence, and egregious living conditions— is set to shut its doors in 2032 . In place of Rikers Island will be four borough jails opening between 2029 and 2032, and the overall inmate population ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/8f1b158c12ad37f786a96a04.json"
+    },
+    {
+      "id": "3b75923d15d6565aee5e55d9",
+      "title": "Chicago DSA Should Invest in Childcare as an Organizing Skill",
+      "url": "https://midwestsocialist.com/2026/11/23/the-case-for-childcare-at-meetings",
+      "author": "Midwestern Socialist -- Chicago DSA",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-11-23T20:22:40+00:00",
+      "content_excerpt": "Caregivers looking after children of any age, but especially young ones, must offer proper nourishment and hydration, mental clarity, flexibility, a sense of joy, a sense of safety, and the ability to communicate clearly. Many of the skills that childcare requires overlap with the skills that make good organizers. If we, as socialists and as a growing political organization in the city of Chicago, want to expand our reach, we need to grow our childcare operation. If we want to fight for a better future for our children, and that includes the children of our members, we have to build structures to take care of them now. As our organization develops, acquires new office space in different areas of the city, expands meetings, and onboards new members, integrating our membership into our Child",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/3b75923d15d6565aee5e55d9.json"
+    },
+    {
+      "id": "3ba435e81d1ee4156a27a662",
+      "title": "Arlington Police Used a Drone and Undercover Officer to Surveil and Photograph Pro-Palestine Protesters",
+      "url": "https://working-mass.com/2026/11/23/arlington-police-used-a-drone-and-undercover-officer-to-surveil-and-photograph-pro-palestine-protesters",
+      "author": "Working Mass: The Massachusetts DSA Labor Outlet",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-11-23T20:22:40+00:00",
+      "content_excerpt": "The APD drone, above the protest on September 8 (Working Mass) By: Avi R ARLINGTON – The Arlington Police Department (APD), based in a suburb of Boston, escalated to the use of a drone to surveil a small protest in September. The drone was donated by the Arlington Rotary Club, bypassing town oversight . Arlington Police Department (APD) guidelines for drone usage are broad and do little to prevent the surveillance of protests and public gatherings. When questioned, multiple APD officials encouraged people to rely on the “positive intentions” of the police officers, but drone deployment records and local activists raise concerns around privacy and surveillance. Where will lines be drawn and how will the public know? Is this the new normal in Arlington and in police departments, big and smal",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/3ba435e81d1ee4156a27a662.json"
+    },
+    {
+      "id": "cea64d447fa2679a9b3372a7",
+      "title": "Stella Lefty: Data Center Music",
+      "url": "https://jacobin.com/2026/11/stella-lefty-billionaire-music-class",
+      "author": "Nikil Soto",
+      "source": "Jacobin",
+      "published_at": "2026-11-23T19:43:18+00:00",
+      "content_excerpt": "When Stella Lefty wrote the chorus to “Boston,” she was waiting in Nashville for a boy from outside Atlanta. Why Boston? She had a gig coming up there, she told Taste of Country . A month later she noticed it was also the name on the piano. Lefty posted the chorus on TikTok before there were verses to go with it. “Boston,” the breakout single from her debut album, Long Way Home , reached number two on the Billboard Hot 100 and number one on country radio. Try saying “I like it when you’re nice to me” aloud. Now hear how her bright, raspy voice tumbles into it over the acoustic guitar , pleased and a little embarrassed at what she’s admitted. Two verses would seem ample opportunity to give us one example of the guy being nice. Much of the case against Lefty rests on her birth certificate. B",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/cea64d447fa2679a9b3372a7.json"
+    },
+    {
+      "id": "a1f5831de07dd1c35590a6dd",
+      "title": "TrumpCare",
+      "url": "https://www.laprogressive.com/healthcare/trumpcare",
+      "author": "Paul deLespinasse",
+      "source": "LA Progressive",
+      "published_at": "2026-11-23T18:22:52+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Now that Democrats will control both house of Congress, one naturally wonders whether they can work with President Trump. A hopeful sign has come from the new senator from Michigan. Abdul El-Sayed wants to enact Medicare For All. He recently suggested that it be called TrumpCare ! Since the president loves to have things named for himself, this is a brilliant idea. Getting Trump’s support would greatly improve insurance reform’s chances of getting through Congress. Most Republicans would have to fall in line. Don’t consider this idea impossible. After all, it was the militant anti-Communist Richard Nixon who ended America’s total hostility to Communist China. And President ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/a1f5831de07dd1c35590a6dd.json"
+    },
+    {
+      "id": "c5e7f3286a6e2ea7b7355e27",
+      "title": "Effective Altruism Is Increasingly Just Funding Itself",
+      "url": "https://jacobin.com/2026/11/ea-tech-ai-safety-philanthropy",
+      "author": "Jacob Davis",
+      "source": "Jacobin",
+      "published_at": "2026-11-23T17:38:43+00:00",
+      "content_excerpt": "The basic pitch for effective altruism (EA) is simple: charitable giving is an investment, whose return is in others’ well-being rather than your financial betterment. Given that it’s an investment, it makes sense to look for a strong, measurable return from wherever you choose to donate. After all, if you really care about others being well-off, you should be at least as conscientious about these investments as you are about your retirement savings. This is, to say the least, a controversial approach to charity. It has many detractors: those who argue that the approach flattens value to numbers in a spreadsheet, or that it ignores the place of solidarity and political organizing. But the ethic also has its undeniable appeal. Among effective altruists, the standard example of effective giv",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/c5e7f3286a6e2ea7b7355e27.json"
+    },
+    {
+      "id": "f5acc0a48ae6232b1d722e16",
+      "title": "AIPAC Get What It Paid For",
+      "url": "https://www.laprogressive.com/progressive-issues/aipac-get-what-it-paid-for",
+      "author": "William J. Astore",
+      "source": "LA Progressive",
+      "published_at": "2026-11-23T17:36:46+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. I made the mistake of going on X/Twitter this morning, where I came across Hakeem Jeffries saying he and the Democrats are going to address the affordability crisis in America. Is he going to do that by raising the federal minimum wage to $20 an hour? Of course not. He provided no specifics. Here’s an excerpt from a recent interview of Jeffries: So from our standpoint, we want to do things like end this reckless and costly war of choice in Iran, which has made life way too expensive. We need to stop the Trump Tariffs. We need to reverse the Medicaid cuts that put the health insurance of millions of Americans at risk and threatens to close hospitals all over the place. We ce",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/f5acc0a48ae6232b1d722e16.json"
+    },
+    {
+      "id": "9b700f203e9666f7df9b6f80",
+      "title": "Will Democrats Choose Peace",
+      "url": "https://www.laprogressive.com/war-and-peace/will-democrats-choose-peace",
+      "author": "Medea Benjamin, Nicolas Davies",
+      "source": "LA Progressive",
+      "published_at": "2026-11-23T16:56:56+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. As Democrats prepare to take control of Congress in January, they face a critical choice on Ukraine: Will they help bring an end to a devastating war that is killing and wounding hundreds of thousands of people, or will they double down on a failed strategy of sending more weapons, pouring billions more dollars into the war, and rejecting opportunities for diplomacy? While Trump has renewed efforts to seek a negotiated solution to the war, which he had promised to solve on the first day of his second term, Democrats in Congress appear ready to reject diplomacy and increase support for the war. The likely incoming House committee chairs Gregory Meeks (Foreign Affairs), Adam ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/9b700f203e9666f7df9b6f80.json"
+    },
+    {
+      "id": "c1b8e68f13b2e00251a26585",
+      "title": "The Battle Over BAAJA and “Permitting Reform” Reinforces the Necessity of Expropriating Capital for Planetary Survival — The Black Alliance for Peace",
+      "url": "https://blackallianceforpeace.com/bapstatements/baaja-expropriating-capital",
+      "author": "",
+      "source": "The Black Alliance for Peace",
+      "published_at": "2026-11-23T16:44:37+00:00",
+      "content_excerpt": "“If one were forced for the sake of clarity to define [fascism] in a word, that word would be ‘reform.’” - George Jackson November 23, 2026 – Less than three weeks after the ‘Blue Wave,’ celebrated by the Democratic Party and its allies, U.S. Senate and House Democrats seem poised to join their Republican colleagues to advance the fascist, neoliberal march by passing the Bipartisan American Affordability and Jobs Act (BAAJA). The bill sailed through the Senate with a significant number of Democrats, including current Minority Leader Schumer, joining the Republicans to secure its passage. The bill now moves to the House, where Republicans are working to fast-track it to President Trump’s desk for signature. Specifically, the bill makes major changes to environmental laws like the Clean Wate",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/c1b8e68f13b2e00251a26585.json"
+    },
+    {
+      "id": "2f2ccc22b690bfc26eb27ca5",
+      "title": "New Deal Majority",
+      "url": "https://www.laprogressive.com/election-and-campaigns/new-deal-majority",
+      "author": "John Peeler",
+      "source": "LA Progressive",
+      "published_at": "2026-11-23T16:36:32+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Since the Civil War, scholars have found a persistent pattern in party competition in this country. One party tends to win the majority of votes nationally for several consecutive elections. Then some critical event such as a depression leads a critical mass of voters to switch loyalties. The former minority party becomes the normal majority. After the Civil War, the Republicans were the normal majority, narrowly until 1896, then overwhelmingly until the Great Depression. The shock of the Depression and the vigor of the New Deal response then established the Democrats as the normal majority until the late 1960s. The Civil Rights movement, the unpopular Vietnam War, and wide",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/2f2ccc22b690bfc26eb27ca5.json"
+    },
+    {
+      "id": "f0d060d7581beb22f527721f",
+      "title": "The 1956 Hungarian Counterrevolution and Jacobin’s False Narrative of a “Working-class Revolt”",
+      "url": "https://mltoday.com/the-1956-hungarian-counterrevolution-and-jacobins-false-narrative-of-a-working-class-revolt",
+      "author": "MLToday",
+      "source": "MLToday",
+      "published_at": "2026-11-23T16:19:58+00:00",
+      "content_excerpt": "By Nikos Mottas November 11, 2026 In Defense of Communism Seventy years after the counterrevolutionary events of 1956, Hungary remains a powerful reminder that the struggle between socialism and capitalism does not end with the overthrow of bourgeois power. The restoration of capitalism was not an abstract possibility, nor was the danger of counterrevolution confined to external imperialist intervention. It could also emerge through the exploitation of internal contradictions, political mistakes and the advance of opportunism within the communist movement itself. The events of October–November 1956 demonstrated how genuine popular grievances could become intertwined with the activities of reactionary forces seeking to overthrow socialist power. They also exposed the dangers created when id",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/f0d060d7581beb22f527721f.json"
+    },
+    {
+      "id": "2315e9d5b503c1ec8d5906a7",
+      "title": "“U.S. Policy Will Change Before Cubans Tire of Defending Our Sovereignty”: Cuban Foreign Minister",
+      "url": "https://mltoday.com/u-s-policy-will-change-before-cubans-tire-of-defending-our-sovereignty-cuban-foreign-minister",
+      "author": "MLToday",
+      "source": "MLToday",
+      "published_at": "2026-11-23T16:19:58+00:00",
+      "content_excerpt": "CUBADEBATE November 5, 2026 N.Y. Times Journalist Jack Nicas: What is the status of the talks between your government and the United States? When was the last time you spoke, and who is involved? Cuban Foreign Minister Bruno Rodriguez Parrilla: Yes, the talks continue, but without significant results or much progress. Given the coercive nature of the policy that the United States government is currently applying very intensely against Cuba, and given that it is very difficult for talks to progress when they are constantly accompanied by threats and the application of unilateral coercive measures—military threats, threats of a military nature, or even fuel blockades, which are equivalent to a naval blockade, an act of war—and a series of actions that constitute an act of collective punishme",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/2315e9d5b503c1ec8d5906a7.json"
+    },
+    {
+      "id": "daf7a7df4defc71cbb55bebe",
+      "title": "Black Faces in High Place Are Still Not Going to Save Us",
+      "url": "https://mltoday.com/black-faces-in-high-place-are-still-not-going-to-save-us",
+      "author": "MLToday",
+      "source": "MLToday",
+      "published_at": "2026-11-23T16:19:58+00:00",
+      "content_excerpt": "By Margaret Kimberley, BAR Exec. Editor & Senior Columnist November 11, 2026 Black Agenda Report The recent midterm elections have brought more Black people to high elected office, but for 20 years, Black Agenda Report has warned about the dangers of the Black misleadership class. “Just look at the black proponents of Cop City in Atlanta’s leadership class. Black faces in high places are not going to save us.” – Dr. Ruha Benjamin, June 2024 It is accurate to say that the results of the November 3 midterm elections in the United States were quite historic. Not only did republican states like Texas and Kansas reject their long-time affiliation with republicans and instead elect democrats, but Black people were elected to statewide offices in record numbers. Four Black governors were newly el",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/daf7a7df4defc71cbb55bebe.json"
+    },
+    {
+      "id": "b4bf71b584e1f3badd296043",
+      "title": "Sheinbaum Pursues Failed Neo-liberal Policies, Says Mexican Communist Leader",
+      "url": "https://mltoday.com/sheinbaum-pursues-failed-neo-liberal-policies-says-mexican-communist-leader",
+      "author": "MLToday",
+      "source": "MLToday",
+      "published_at": "2026-11-23T16:19:58+00:00",
+      "content_excerpt": "By Tim Pelzer September 21, 2026 The Guardian (Australia) MEXICO CITY – The social democratic government of Claudia Sheinbaum is continuing the same failed neo-liberal policies of the previous Andres Manuel Lopez Obrador administration, said Angel Chavez, member of the Political Bureau of the Communist Party of Mexico (PCM) in an interview. Instead of diversifying export markets and strengthening national production, the Sheinbaum National Regeneration Movement (MORENA) government is trying to save and extend the US, Mexico, Canada Agreement ( USMCA) for another 16 years, a free trade pact that replaced NAFTA in 2020. “The deal primarily benefits the monopolies in the three member countries and has limited the country’s independence. The agreement tells each country what they can buy and s",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/b4bf71b584e1f3badd296043.json"
+    },
+    {
+      "id": "0ce29abc65c3b955e4e0067c",
+      "title": "The Flight of Flávio Bolsonaro and the Maneuvers of the Empire",
+      "url": "https://mltoday.com/the-flight-of-flavio-bolsonaro-and-the-maneuvers-of-the-empire",
+      "author": "MLToday",
+      "source": "MLToday",
+      "published_at": "2026-11-23T16:19:58+00:00",
+      "content_excerpt": "Political Note of the Brazilian Communist Party (PCB) October 30, 2026 In defense of the legitimacy of the electoral result and of popular mobilization against fascism, imperialism and neoliberalism! For People’s Power! Lula’s victory in the presidential elections against Flávio Bolsonaro represented a hard blow against the Brazilian far right and the pretensions of US imperialism to expand its dominion over Latin America. However, the political scenario remains quite adverse for the Brazilian working class. The composition of the National Congress, with a conservative majority committed to the neoliberal agenda and to sectors linked to the neofascist project, demonstrates that the battle against the far right will still be long and will require permanent mobilization and unity of action t",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/0ce29abc65c3b955e4e0067c.json"
+    },
+    {
+      "id": "6d35b2d61493634883c3f023",
+      "title": "The Limits of Going it Alone: Lessons from Dan Osborn’s Defeat in Nebraska",
+      "url": "https://mltoday.com/the-limits-of-going-it-alone-lessons-from-dan-osborns-defeat-in-nebraska",
+      "author": "MLToday",
+      "source": "MLToday",
+      "published_at": "2026-11-23T16:19:58+00:00",
+      "content_excerpt": "By Les Leopold November 4, 2026 lesleopold.substack.com Dan Osborn, the independent candidate and former local union president, once again came within a few percentage points of winning the Nebraska U.S. Senate seat. (He lost by 6.7% in 2024 and the same again this year.) He mounted an impressive challenge, but he couldn’t close the gap. Why? And what does his defeat tell us about the future of independent working-class politics? Wouldn’t Osborn have done much better if he ran as a Democrat? The anti-Trump Blue Wave created key red state Senate Democratic victories as it tore through Texas, Kansas, Iowa, Ohio, South Carolina, and maybe even Mississippi. But, it hit the shoals in North Dakota where the Democrat lost by 20.7 percent, by 18 percent in Oklahoma, and by 30.4 percent in Wyoming.",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/6d35b2d61493634883c3f023.json"
+    },
+    {
+      "id": "0e3cd3b0029857b71c8a57b4",
+      "title": "Democrats, Please Take Note: Peace Is Good Politics",
+      "url": "https://mltoday.com/democrats-please-take-note-peace-is-good-politics",
+      "author": "MLToday",
+      "source": "MLToday",
+      "published_at": "2026-11-23T16:19:58+00:00",
+      "content_excerpt": "By Jeffrey D. Sachs November 5, 2026 Commons Dream Voters across the United States were loud and clear on Tuesday in their historic drubbing of Trumpism . The election was a decisive rejection of Trump’s war on Iran and its staggering costs at home. While savoring their victory and the historic opportunity to restore America’s constitutional order, the Democrats should take the anti-war message of the election to heart, because they suffered the same verdict two years ago, when voters rejected the Biden administration’s wars in Ukraine and Gaza . Last week Israeli voters rejected Netanyahu’s reckless wars, and European voters are also rejecting parties that prolong the Ukraine War . The message of voters is the same everywhere: diplomacy is safer, more effective, and trillions of dollars c",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/0e3cd3b0029857b71c8a57b4.json"
     }
   ]
 }
