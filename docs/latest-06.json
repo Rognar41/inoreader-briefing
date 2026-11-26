@@ -1,11 +1,221 @@
 {
-  "generated_at": "2026-11-25T03:07:10.798764+00:00",
-  "generated_at_jst": "2026-11-25T12:07:10.798764+09:00",
-  "period_start": "2026-11-23T21:07:10.798764+00:00",
+  "generated_at": "2026-11-26T02:22:39.571605+00:00",
+  "generated_at_jst": "2026-11-26T11:22:39.571605+09:00",
+  "period_start": "2026-11-24T20:22:39.571605+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
-  "article_count": 20,
+  "article_count": 19,
   "articles": [
+    {
+      "id": "7015f0aac8f0a82e1dae4b9c",
+      "title": "Will the Wretched of the Earth Win the Struggle for Self-Determination in Nairobi?",
+      "url": "https://mronline.org/2026/11/25/will-the-wretched-of-the-earth-win-the-struggle-for-self-determination-in-nairobi",
+      "author": "Henry Makori",
+      "source": "MR Online",
+      "published_at": "2026-11-25T22:01:50+00:00",
+      "content": "Whether slum self-organizing will grow into a revolutionary force remains to be seen. The post Will the Wretched of the Earth Win the Struggle for Self-Determination in Nairobi? appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false
+    },
+    {
+      "id": "2f474b276ba093f53ac7afa8",
+      "title": "General strike in Greece rejects militarization and austerity",
+      "url": "https://breakthroughnews.org/2026/11/25/general-strike-in-greece-rejects-militarization-and-austerity",
+      "author": "Ana Vračar",
+      "source": "BT News",
+      "published_at": "2026-11-25T20:07:35+00:00",
+      "content": "A nationwide general strike in Greece drew tens of thousands onto the streets of approximately 80 towns and cities on Wednesday, November 25. Workers from both the public and private sectors protested against further austerity and war spending. “We refuse to pay with our lives and incomes for involvement in war and the profits of business groups,” the All-Workers Militant Front (PAME) stated when announcing the strike. The strike call had already been launched during the dockworkers’ international day of action against the militarization of ports at the end of October. It is expected to ripple outward in the coming weeks, including during a new national mobilization on December 15. Read more: Dockworkers at 110 ports worldwide strike against war and genocide “Today’s strike shows that the policy that is crushing our lives, that brings yet another budget of profits and war, has an adversary: the organized labor movement, the collective action of workers, of struggling farmers, of the self-employed and of the youth,” PAME wrote. The union emphasized broad participation across sectors, from construction to public transport and administration. “Through persistent organizing in the workplaces, in the face of employer intimidation, blackmail and threats, the hundreds of strike decisions taken ‘from below,’ many by unions that have taken such a decision for the first time, show that ‘the new’ and hopeful in our lives will be born out of exactly this kind of action, multiplying the sites of struggle and demand.” Workers across sectors participated in the November 25 strike. Source: PAME/Flickr The strike in Greece comes as unions across Europe continue taking action against cuts to social security made in the name of militarization. Over the past weeks, mass demonstrations and industrial actions have taken place in Italy, Spain , France , and Belgium , all demanding more investment in social protection and labor rights. “In Greece, as in Italy, inadequate wages, the rising cost of living, job insecurity and deteriorating working conditions are affecting millions of people, whilst enormous resources are being channelled into rearmament and military spending,” the Italian grassroots union Unione Sindacale di Base (USB) wrote in a statement of solidarity with PAME. “War is not a prospect for the future of the people,” echoed the Trade Union Association of Bohemia, Moravia, Silesia from the Czech Republic . “It is death, destruction, poverty, and new opportunities for profit for the arms industry, while the working class always pays the price.”",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false
+    },
+    {
+      "id": "293d1340b8ab89c0ae0b2fdb",
+      "title": "Meningitis cases surge in Gaza as deteriorating living conditions put children at risk",
+      "url": "https://mondoweiss.net/2026/11/meningitis-cases-surge-in-gaza-as-deteriorating-living-conditions-put-children-at-risk",
+      "author": "Tareq S. Hajjaj",
+      "source": "Mondoweiss",
+      "published_at": "2026-11-25T19:13:59+00:00",
+      "content": "With meningitis cases rising more than eightfold in October, overcrowded displacement camps, contaminated water, and collapsing sanitation systems are creating conditions for the disease to spread across the Gaza Strip.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false
+    },
+    {
+      "id": "0f1035c5b8e8b1f56b9106c4",
+      "title": "How Israel became America’s arms dealer",
+      "url": "https://mondoweiss.net/2026/11/how-israel-became-americas-arms-dealer",
+      "author": "Sana Saeed",
+      "source": "Mondoweiss",
+      "published_at": "2026-11-25T19:04:18+00:00",
+      "content": "In episode three of The Necessary State, Sana Saeed traces how Israel became one of America’s most useful intermediaries, carrying U.S. military power, weapons, and influence into places where Washington wants a foothold without direct involvement.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false
+    },
+    {
+      "id": "963bbbd6c3efbda394394c66",
+      "title": "“Disaster Waiting to Happen”: Iowa Declares Emergency as U.S. Army Detonates 5 Tons of Lead Azide",
+      "url": "https://www.democracynow.org/2026/11/25/iowa_ammo_detonation_lead_azide",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-11-25T15:59:44+00:00",
+      "content": "This is a rush transcript. Copy may not be in its final form. AMY GOODMAN : This is Democracy Now! , democracynow.org, The War and Peace Report . I’m Amy Goodman. Iowa Governor Kim Reynolds has declared a disaster emergency in three counties as the U.S. Army prepares to detonate nearly five tons of highly unstable lead-based explosives at an ammunition plant in southeastern Iowa today. The detonation will cause a massive blast that could send toxic lead dust spewing across communities, farmland, and potentially into the Mississippi River. The detonation is scheduled for 9 a.m. Central Time. Officials have recommended residents of Middletown, where the plant is located, and anyone within a five-mile cone southwest of the plant to evacuate, while people living up to 20 miles away have been told to stay indoors with their windows closed. Men are being told to — in this farmland area, to bring their cows inside. A number of farmers have said that’s impossible. Jeremy Atwater, a resident of Augusta, Iowa, told a reporter he plans to go west to escape the toxic plume. JEREMY ATWATER : But now the winds are changing directions, and it’s going to blow directly south through our town, so I guess we’re going to head west instead. REPORTER : And what’s out west? Is it hotels? Or is it just — JEREMY ATWATER : Anything but the bomb. … My primary concern is a lot. I mean, nobody really knows. There’s never been a documented explosion like this, as far as I could find any doing my due diligence digging in the interweb. But it’s just going to be a big problem. It’s going to be a lot of lead poisoning going on. AMY GOODMAN : The Army published an updated map estimating the lead plume could spread all the way to northern Missouri, more than 100 miles from ground zero. There’s no safe level of lead exposure. Lead is a neurotoxin that can cause permanent cognitive and behavioral harm and is particularly dangerous to children and pregnant women. The Army says the explosives, stored for decades in 68 drums at the Iowa Army Ammunition Plant, have deteriorated to the point that they could spontaneously explode. This is acting Army Secretary Adam Telle speaking at a press conference in Iowa Tuesday. ARMY SECRETARY ADAM TELLE : There is consensus across the experts across the country that a controlled, mitigated detonation of the lead azide here at Iowa Army Ammunition Plant is far preferable to uncontrolled, spontaneous detonation of that substance. AMY GOODMAN : On Saturday, The New York Times published an investigation revealing the Army had initially pursued another, cleaner option, a chemical process designed to neutralize the explosives without a blast. In March, the Army awarded a contract to MuniRem Environmental, a Georgia-based company that uses a sulfur-based solution to break down explosives and immobilize toxic chemicals. Two months later, the Army canceled the contract and chose detonation instead. Well, for more, we go to Lexington Park, Maryland, where we’re joined by Pat Elder, the founder of the group Military Poisons. He just wrote a piece headlined “The Pentagon’s Toxic Shortcut in Iowa Is a Warning to the World.” Pat Elder, welcome back to Democracy Now! Iowans are panicked. PAT ELDER : Thank you. AMY GOODMAN : They say they have gotten very little notice about what’s about to take place. If there are hills, they’re saying people are heading to the hills. But what do they do with their cows, those who are farmers? If you could start off by saying why you see this as a warning to the world? And how on Earth did this surprise this whole community, where the governor now has declared a disaster emergency in three counties? PAT ELDER : Well, thank you for having me, Amy. I appreciate it. We have to go back to the words of Thomas Jefferson, who wrote in the Declaration of Independence that we must be warned of usurpations by the federal government that will strip the liberties of individual states. And so, that’s what we see today. The Army has decided to act as it wishes, and it is going against the recommendations of its own experts and experts with the EPA and experts with the Applied Physics Lab, Johns Hopkins here in Maryland. There is no reason for this to be done, and it is a disaster waiting to happen. And I feel sorry for the poor folks in Iowa, as I do for people around the world who suffer these same sorts of fates, because the United States Army does what it wants and has acted in a Neanderthal fashion with its detonation and supposed disposal of hazardous materials. AMY GOODMAN : Let’s talk about the effects — PAT ELDER : I think it’s — AMY GOODMAN : — of lead, Pat Elder. If you can talk about the health concerns for lead exposure, especially for children and fetuses? The New York Times says lead is a neurotoxin, and there are no safe levels for exposure. Can you take it from there? PAT ELDER : Well, I can, Amy. Thank you so much. We know, all the way from our experiences with leaded gas and lead paint, and the fiasco in Flint, Michigan — we have the clinical data — we understand that lead is a killer. It is a killer in the embryo. It is a killer for young children. And it is a killer for all of us. But the Army would pretend that this is not the case, because — well, because it’s very fond of lead in ammunition. And so, we look around the country, and we see where the Army has been absolutely irresponsible in the way that it handles lead. We look at Fort Ord in California, for instance, and entire sand dunes are loaded with lead, and campers are allowed to traipse. They built an entire campus at the University of California, Monterey Bay, over top of old Army buildings with lead pipes. The poor kids are drinking lead. The Army is irresponsible when it comes to lead all around the world. It has buried it, and it has — supposed to be following a process, that it does not follow, to safely dispose of lead. AMY GOODMAN : So, let’s — PAT ELDER : And I want to add, too — AMY GOODMAN : Go ahead. PAT ELDER : Yeah, thanks. Just, you know, we’re not just dealing with lead here. We’re dealing with lead azide. And the best way to put this into focus is that lead azide is the explosive that detonates a bomb. So, if we have a 2,000-pound bomb that is falling on Gaza, lead azide the size of a small pea is detonated, which then sends a tremendous blast into the bomb itself. So, it is the explosive agent. And this is the material the Army is getting ready to detonate. And so, we’re not just talking about lead itself. We’re also talking about contaminations like hydrogen cyanide and hydrazoic acid. These are deadly. They deprive the brain of oxygen. And this is what is getting unleashed on the people of Iowa. AMY GOODMAN : I want to ask you about that New York Times exposé on Saturday that may have surprised many, as so much of this has just crept up on them, the people of the community. It’s not as if this is a story that broke into the whole, you know, country. But they’ve been dealing with it for a while. Many residents did not know until the last few days what was about to happen. But The New York Times published an investigation revealing the Army had initially pursued another, cleaner option: a chemical process designed to neutralize the explosives without a blast. In March, the Army awarded this contract to MuniRem Environmental, a Georgia-based company that uses a sulfur-based solution to break down explosives and immobilize toxic chemicals. Two months later, the Army canceled the contract and chose detonation instead. Pat Elder, explain. PAT ELDER : Well, we have to go back to March of 2025 to fully understand what has transpired. The Army itself, along with experts from the EPA and experts with the Johns Hopkins Applied Physics Lab here in Maryland, sat down, and they all voted that it would be too dangerous to detonate these materials, and that the way to do it is to saturate the exterior of these barrels, and the interior of these barrels once they are opened, with a chemical compound that is made of sulfur in water. And so, we spray that over the barrels. And when the Army says, “Well, this is too dangerous,” MuniRem, the company behind this process, has said that it would use robots, as it has in decontaminating other Army ammunition sites. So, the entire process and the entire culmination in the Army deciding suddenly that they would go ahead and detonate this material is lunacy. And the idea that way back in August of 2025, we — the Army knew that there was a problem, and MuniRem knew there was a problem, and Johns Hopkins knew, and the EPA knew. The last people to find out are the people of Iowa and the people that live in the immediate area. They didn’t find out until last week. And that’s how the Army operates. AMY GOODMAN : Pat Elder, I want to thank you for being with us, founder of the group Military Poisons. We’ll link to your piece , “The Pentagon’s Toxic Shortcut in Iowa Is a Warning to the World.” Coming up, Egyptian writer Abdelrahman ElGendy. He just won the National Book Award for Huna: A Memoir of Revolution, Prison, and Becoming , but he wasn’t at the award ceremony. The U.S. denied ElGendy a visa. While he was a political prisoner in Egypt, starting when he was 17 years old, he published his writings in the Egyptian independent paper Mada Masr . Right now we are awaiting a court’s decision, an appeal of the government’s just closing down Mada Masr . We’ll go to Cairo, as well. Stay with us. [break] AMY GOODMAN : “Massive Will” by Emel Mathlouthi, performing in our Democracy Now! studio. To see all the performances and interviews in our Democracy Now! studios of musicians and artists, go to democracynow.org .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false
+    },
+    {
+      "id": "35f9c5b5fc74744f88a0db7f",
+      "title": "“Huna”: Egyptian Author Abdelrahman ElGendy on Prison, National Book Award & Being Denied U.S. Visa",
+      "url": "https://www.democracynow.org/2026/11/25/abdelrahman_elgendy_national_book_award",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-11-25T15:59:44+00:00",
+      "content": "This year’s annual National Book Award ceremony in New York City was marked by the notable absence of nonfiction winner Abdelrahman ElGendy, after the Trump administration denied the Egyptian author entry into the United States. ElGendy’s debut, Huna: A Memoir of Revolution, Prison, and Becoming , chronicles his arrest and over six years of imprisonment, alongside his father, following arrest at a protest against the military dictatorship of Egypt’s President Abdel Fattah el-Sisi. After his release from prison in Egypt, ElGendy obtained an MFA in the United States but was forced to flee once again — this time from the U.S. to Europe — for fear of being targeted by immigration authorities over his criticism of Israel’s war on Gaza and U.S.-Egypt relations. “It was a gutting thing to not be able to attend the ceremony. But it was also unsurprising,” ElGendy tells Democracy Now! about being barred from receiving the National Book Award in person. “[I] have labored for so long my whole life to get to this point, only to again and again and again be forced to witness it all from afar and detached from the people I love.” We speak to ElGendy about the weaponization of the visa process, in both the U.S. and Egypt, “as a form of transnational repression,” his arrest and imprisonment beginning at the age of just 17, and the Egyptian government’s ongoing repression of free speech, including its attempted closure of the independent news outlet Mada Masr , whose lawyers were in court today appealing its shutdown. “ Mada carries so much of the archive of our revolutionary history … so to erase it is to erase an archive,” says ElGendy, whose early writings were smuggled out of prison and first published in Mada Masr . “The current Egyptian military dictatorship [is] a frantic project of erasure of everything that has to do with the revolution, and it’s an insistence on erasing every trace that would allow people to remember that revolution has happened, that this rupture has happened before.”",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false
+    },
+    {
+      "id": "472591f5b59b79ba9a954c02",
+      "title": "Why the U.S. can’t stop arming Israel",
+      "url": "https://mondoweiss.net/2026/11/why-the-u-s-cant-stop-arming-israel",
+      "author": "Sana Saeed",
+      "source": "Mondoweiss",
+      "published_at": "2026-11-25T15:13:02+00:00",
+      "content": "In episode two of The Necessary State, Sana Saeed traces how Israel was built into the American military and security infrastructure, and how U.S. weapons makers profit from a cycle in which taxpayer money buys the arms, the arms are used, and the stockpiles are refilled.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false
+    },
+    {
+      "id": "686b0c114b27b3a0a78a0ac2",
+      "title": "Nvidia has been saved for now but the China hawks will be back",
+      "url": "https://mronline.org/2026/11/25/nvidia-has-been-saved-for-now-but-the-china-hawks-will-be-back",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-11-25T14:10:05+00:00",
+      "content": "The China hawks have lost a battle. That’s good. But they won’t give up. The post Nvidia has been saved for now but the China hawks will be back appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false
+    },
+    {
+      "id": "6dbd8635896fe62581b26f0d",
+      "title": "If You Want to Win, Learn to Think From Other People’s Perspective",
+      "url": "https://convergencemag.com/articles/if-you-want-to-win-learn-to-think-from-other-peoples-perspective",
+      "author": "Chris Brooks",
+      "source": "Convergence",
+      "published_at": "2026-11-25T13:29:43+00:00",
+      "content": "A Necker cube does something interesting if you look at it long enough. The image stays the same, but the cube suddenly flips. One minute the left side looks closest to you, then the next moment it looks further away. The underlying facts never change. The lines remain exactly in the same place. What changes is how you perceive those lines. Differences in perspective come up all the time… Source",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false
+    },
+    {
+      "id": "2087ced8ef160e73821fe88b",
+      "title": "A rank-and-file perspective on the strike for public education in Madrid",
+      "url": "https://mronline.org/2026/11/25/a-rank-and-file-perspective-on-the-strike-for-public-education-in-madrid",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-11-25T13:09:13+00:00",
+      "content": "The shared struggle for housing and public education in Spain is now heading toward a general strike on November 11 in the midst of a broader uprising spreading throughout Europe. The post A rank-and-file perspective on the strike for public education in Madrid appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false
+    },
+    {
+      "id": "8b57833f375fc326c4162b49",
+      "title": "Drawing from Rosa Luxemburg’s enduring legacy to move beyond protest politics",
+      "url": "https://mronline.org/2026/11/25/drawing-from-rosa-luxemburgs-enduring-legacy-to-move-beyond-protest-politics",
+      "author": "Paul Le Blanc",
+      "source": "MR Online",
+      "published_at": "2026-11-25T12:10:15+00:00",
+      "content": "So far, Verso has published in English about one-fifth of what over the next two decades may add up to twenty volumes of \"The Complete Works of Rosa Luxemburg\". The post Drawing from Rosa Luxemburg’s enduring legacy to move beyond protest politics appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false
+    },
+    {
+      "id": "bae419da8bc9edb22fde49bd",
+      "title": "Fain accepts Debs Award, calls for May Day ’28 general strike",
+      "url": "https://mronline.org/2026/11/25/fain-accepts-debs-award-calls-for-may-day-28-general-strike",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-11-25T11:14:56+00:00",
+      "content": "United Auto Workers President Shawn Fain accepted the 2026 Eugene V. Debs Award on Nov. 21 before a crowd of union members, retirees, and activists at the Terre Haute Convention Center. “We never win by playing it safe,” Fain told them. The post Fain accepts Debs Award, calls for May Day ’28 general strike appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false
+    },
+    {
+      "id": "662499a1ddf3e9f7a5f4560c",
+      "title": "The Ukraine war spreads to Libya with British help",
+      "url": "https://mronline.org/2026/11/25/the-ukraine-war-spreads-to-libya-with-british-help",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-11-25T10:20:32+00:00",
+      "content": "Wes Streeting tested Ukrainian sea drones two weeks before sinking of Russian ship in Libya writes John Rees. The post The Ukraine war spreads to Libya with British help appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false
+    },
+    {
+      "id": "a9bdfb5d3ef510dc02d69030",
+      "title": "Iran, Neoliberalism, Nihilism, and the Global Order A Conversation with Wendy Brown",
+      "url": "https://www.historicalmaterialism.org/iran-neoliberalism-nihilism-global-order-wendy-brown",
+      "author": "Panagiotis Sotiris",
+      "source": "Historical Materialism",
+      "published_at": "2026-11-25T08:59:03+00:00",
+      "content": "Conducted in early 2026, on the eve of the assault on Iran by Israel and the USA, this interview with Wendy Brown explores the transformation of the state under finance capital and the intensification of social nihilism. Although publication was delayed due to the interviewer’s travel to Iran, Brown’s analysis of the “global construction” of the Iranian predicament and the “privatisation of the state” remains strikingly prescient and conceptually vital for understanding the current crisis. From the “equal right to inequality” to the extraction of profit from destruction in Gaza, the conversation offers a rigorous materialist map of the neoliberal ruins we inhabit Mohammad Hadi : Although the timing of this conversation coincides with the tragic situation in Iran and the killing of many innocent people – a disaster that casts a shadow over thought, or at least my own – I began this conversation with some difficulty. I have been grappling with a stifling force that shrinks the space for reflection. A voice from both inside and outside tells me that I should only think of what is happening in Iran. This position not only comes into contact with the logic of identity politics but also displays a harsh criticism: why, at this particular historical juncture, turn one’s attention instead to a discussion of neoliberalism? Wendy Brown : I don’t know if I can help you, but I am going to engage your question. To understand the predicament of Iran, one has to move outside of Iran and think about imperialism. We must look at least as far back as the US positioning itself in relation to the Shah as a puppet power, and a larger Middle East politics that has been negotiated and changed over the course of the Cold War and the post-Cold War period. To think about the extraordinary uprising in Iran of the past month – the tremendous courage and sacrifice so many Iranians made in struggling for an opening and a new arrangement of power – one is already forced to think about the global construction of the Iranian predicament. The Iranian situation is never just about Iran. The place of neoliberalism here is significant. There is nothing the revolution of neoliberalism did not touch; in the past fifty years, nothing on the globe has been unaffected by globalisation, deregulation, privatisation, and the aiding and abetting of corporate and finance capital. Neoliberalism brought a fundamental transformation of the international order, which we have recently seen brought to something of an end in the squaring off between China, Russia, and the US. We see an absolute indifference to the fates and conditions of everyone else and the resurrection of a “spheres of influence” foreign policy by the remaining hegemons. Neoliberalism matters as a way of understanding parts of what has happened to the global order and parts of what has happened in Iran itself: making life unaffordable, the economy tanking, and the currency in a mess. While it doesn’t explain everything, especially the specific timing of the uprising, it has intensified the immiseration of the Iranian people beyond the level of state repression or the enforcement of Islamic law. MH : You have argued that neoliberalism is not just an economic programme, but also a governing rationality that reshapes how we understand freedom, responsibility, and even ourselves as political subjects. How would you explain this broader project to someone encountering your work for the first time? WB : We need to offer recognition where it is due: this is an idea that Michel Foucault helped the world understand. Foucault grasped that neoliberalism was not just a set of economic policies – though it does comprise deregulation, privatisation of public goods, and stripping the welfare state. The important thing is that these policies are part of a larger order of political reason or political rationality. He helped us understand the shift from liberalism to neoliberalism as one involving a transformation of the state, society, and the individual subject. With neoliberalism, the state becomes a more overtly constructivist actor; it is turned to construct and support markets, not just to get out of the way like the “night watchman” state of classical liberalism. It is actively engaged in the facilitation of capitalist accumulation. Unlike the Keynesian or social state, which is redistributive, neoliberals wanted a state that would support capital with the recognition that capital does not run with ease by itself; it needs the support of political policy and legal codes. Furthermore, neoliberal reason involves an assault on the very idea of “the social”. Margaret Thatcher famously declared there is no such thing as society, and F.A. Hayek referred to the social as a “dangerous fiction”. Individual subjects are changed from citizens into bits of “human capital” in every aspect of their lives. We see young people preoccupied with rankings, ratings, and followers, which signifies a preoccupation with their ability to attract investors to themselves. This transformation breaks us up into individual entrepreneurial units that either sink or swim, as opposed to being gathered into a social whole. There were dimensions of this project that the original neoliberal intellectuals had not counted on. They did not anticipate the extreme inequality and precarity that would produce a highly activated, angry population – what we call populism on both the Right and the Left. They also did not count on financialisation – the growth of the finance sector at the expense of every other aspect of the economy. The final coup of neoliberalism was not just to privatise public goods, but to privatise the state itself. The financialisation of the state – the overtaking of the state by private finance – is the subordination of states to capital. The original neoliberals counted on the state being able to manage different aspects of markets to facilitate capital; they didn’t count on states being so overtaken by capital that they become the servants while finance is the master. This rationality gets into our heads; we think constantly about how to enhance our capital value and prevent its depletion. MH : Ideals such as freedom, tolerance, rights, and individual choice appear not only as democratic achievements but also as sites where power operates in subtle ways. How do these values become detached from democratic equality and redirected toward exclusion or authoritarian forms of politics? WB : One way to answer this is to note the extent to which neoliberalism has intensified a nihilism already developing in Western culture. Nihilism, theorised by thinkers like Nietzsche and Weber, suggests that, once science and reason displace the authority of God, you lose the fundamental foundations of values. Reason and science only explain how things work; they do not explain what to value. Neoliberalism puts this nihilistic project “on steroids” by claiming all there is to life is economic action. We are reduced to homo economicus across every aspect of life, from dating and mating to education and choosing friends. On a more specific level, consider the values of equality, liberty, and fraternity. Equality is reduced to the “equal right to win or lose in a market” – the equal right to inequality. Liberty becomes the right to do or say anything that enhances your competitive positioning, including the right to be insulting or egregious. Liberty is reduced to a private property right where you are the property. Fraternity simply doesn’t exist in a neoliberal order. The social contract, which says the government should assure minimal thresholds of survival and solidarity, goes away. Freedom, once understood as participation in popular rule, loses its political dimension. MH : I have been struck by the thought that neoliberalism is a great plunderer, but its theft is not limited to the rights of its own citizens. It operates through a profound deception: while it dispossesses its own citizens of welfare and rights, it presents a veneer of legitimacy elsewhere, promising “freedom” to other lands while actually expropriating the possibility of citizenship and democratic capacity. WB : If I understand your comment correctly, you are suggesting that under the guise of freedom, neoliberalism strips human beings of every other aspect of survival. The US experiment in Iraq is a superb example. After toppling Saddam Hussein, the effort to neoliberalise the country involved denationalising banks and making all of Iraq’s assets available for external investment and plunder. It was all done under the sign of freedom, but it intensified long-simmering conflicts, brought the Taliban to Iraq, and cast many Iraqis into poverty and death. Indebtedness is one of the great tricks of neoliberal austerity; it transforms regions into indebted ones from which they can never climb out, producing a desperate population that may turn to the right, the left, or simply submit. MH : In In the Ruins of Neoliberalism , you wrote that the neoliberal critique of social justice in the name of traditional moral norms has become “common sense”. Figures like Trump, Orbán, or Musk, and even Iranian monarchists, pursue a form of authority that promotes traditional values – family, hierarchy, masculinity – in constant interplay with the fluidity of the market. What does this coexistence between a rigid command and market fluidity mean to you? WB : This is an interesting problem because there has always been a strong tension between the right-wing endorsement of traditional values and the “free market”. Irving Kristol, a founder of neoconservatism, withheld a “third cheer” for capitalism because he understood it had a terrible effect on morality and tradition. Capitalism is an innovative, constantly destructive order. Today’s “postliberals” want to affirm capital while using the state to attenuate its effects. They use the state to support families, transform education toward tradition and away from critical thinking, and allow a post-secular religious order to unfold. You see this in Modi’s India, Orbán’s Hungary, and Iran. Orbán uses heavy statism to support a moral-theological project even as capitalism undoes it. Their task is to manage that contradiction – to use the state to offset capital’s effects and ward off reformers who challenge gender norms or reproductive freedom. Figures like Trump are manifestly immoral and non-religious, yet they speak the political discourse of tradition. This resonates with the Iranian diaspora, who may not be religious but stick to traditional values to ward off the perceived “wreckage” of modern life. MH : Neoliberal rationality systematically outsources political judgment and responsibility to market metrics and technocratic governance. I would suggest further that to preserve its legitimacy, this order also outsources its “negative residuals” – violence, failures, and ethical debts – onto other actors or distant abstractions. Morality itself is removed from the centre of political life and reassigned to distant humanitarian spectacles. WB : I wonder if “disavowal” is a better word. The quintessential example is the original neoliberal experiment in Chile. The tremendous violence – people being shot in stadiums – was disavowed by the “Chicago Boys” for years. Neoliberalism prefers “soft power” and managerial language, yet it engages in “slow violence” – sinking masses into despair or uprooting lives through industrial transformation. Neoliberalism has a language of intense disavowal, calling “hostile takeovers” “private equity” to make the takeover of housing and healthcare sound decent. This disavowal permits scapegoating; when life becomes unaffordable, people point to what is near, blaming immigrants, feminists, or elite politicians for their suffering rather than the takeover of buildings by private equity. MH : When it comes to violence, I still tend toward the word “outsourcing”. I am thinking of Mary Kaldor’s distinction between “old” and “new” wars, where conflicts are defined by fragmented constellations of state, non-state, and private actors. Violence is dispersed and contracted out. In Iran, the scale of war is effectively transferred to the people themselves. Civilians are mobilised through calls and incitements from outside – the US, Israel, or the son of the Shah – to go to the streets, which results in more repression. War is displaced onto intermediaries; populations and bodies carry the cost. WB : That is an interesting point. War is now disseminated throughout political and economic spaces; it is no longer just sovereign nation versus sovereign nation. We see this in trade and tariff wars that intermingle national security with economic advantage. There is a loss of boundedness between these spheres. I would add “terror” to this spectre of war. Protesters struggling against state power in both Iran and the US are declared “terrorists” by the very military enacting terror toward the people. The people are recast as illegal combatants. MH : Neoliberalism also appropriates perspectives that appear emancipatory. Some on the left emphasise horizontalist accounts of politics. Thinkers like Michael Hardt and Antonio Negri posit the end of sovereignty as if the age of governing authority is concluding. I regard their claim primarily as a description of what is happening under neoliberalism rather than a form of resistance. What do you think? WB : I completely agree. Sadly, both anarchism and horizontality, when closely read, are often effects of neoliberal discourse rather than resistances to it. Anarchy is essentially a version of the extreme neoliberal aspiration: no rules, no state, just a natural order emerging from individual actions. The “post-sovereign” fantasy is the original neoliberal fantasy: that capital moves freely while navigating a diminished sovereignty. Hardt and Negri would have to rethink their thesis today. Sovereignty is having a huge symptomatic expression as it goes down, seen in the repression of dissent by individual sovereigns. MH : Finally, neoliberalism can even derive benefit from failure, injustice, and terror. We see “predatory wolves” excited to rebuild the “Riviera of Gaza” out of a nightmare of destruction and genocide. Trump, for instance, refrains from direct war with Iran because he must first discern how to convert the circulating violence and fear into advantage. WB : Watching the “predatory wolves” so excited to begin rebuilding the “Riviera of Gaza” was a perfect expression of this. There was excitement about possible development opportunities coming out of that nightmare of genocide, ecocide, and scholasticide. Neoliberalism is exceptional at taking destruction and extracting the last bit of profitability from it. You see this in asset managers who get excited about driving industries into the ground to extract what they can in their death throes. Your description is poetic and unfortunately accurate. The only note of promise I want to end on is that a great many people in the world have had it with this mode of organisation and planetary destruction. You are seeing signs all over the place – not just a turn to fascism, but a turn to resistance and the building of futures that have a different order of things at their heart. The post Iran, Neoliberalism, Nihilism, and the Global Order A Conversation with Wendy Brown appeared first on Historical Materialism .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false
+    },
+    {
+      "id": "44a9660004e9e3db9f7a2b6f",
+      "title": "Japan to revise national security policy, weaken postwar non-nuclear commitments",
+      "url": "https://breakthroughnews.org/2026/11/25/japan-to-revise-national-security-policy-weaken-postwar-non-nuclear-commitments",
+      "author": "Abdul Rahman",
+      "source": "BT News",
+      "published_at": "2026-11-25T05:59:47+00:00",
+      "content": "Japan’s ruling Liberal Democratic Party (LDP) claimed on Monday, November 23, that it will revise the country’s three security documents by the end of the year and possibly acquire nuclear-power submarines soon. Civil society groups on China and Japan have been opposing the decision, calling it a move towards remilitarization. They also claim such a move would be disastrous for regional peace and security and for the post-war regional order. Keitaro Ohno, a leader of the LDP and a member of Japanese parliament reportedly reiterated that Japan has rejected the proposal to get a nuclear-powered submarine in the wake of strong popular opposition and objections raised by China. He also claimed there is a consensus within the ruling coalition on the matter. The conservative LDP, along with the right wing Japan Innovation Party (JIP), holds a supermajority in the House of Representative (lower house) of Japan’s National Diet (parliament). On Friday, Japan’s civil society groups had submitted 47,000 signatures to the country’s Defense Ministry, urging it to abandon the plan to acquire nuclear-powered submarines and amendments in the security documents. Japan has also recorded several popular mobilizations against the Sanae Takaichi-led government’s moves to revise the three security documents, including its three non-nuclear principles, which prohibit its government from acquiring, producing, or introducing nuclear weapons. Still, reports indicate that the Japanese government is aiming to make changes in its National Security Strategy, one of the three security documents, within the next few months, to allow nuclear weapons to be brought in the country during an “emergency.” Civil society groups expressed concerns at the Takaichi government’s attempts to introduce nuclear weapons in the country even under this pretense, claiming it violates one of the three non-nuclear principles of not introducing the weapons. They claimed once Japan moves ahead with the acquisition it will fundamentally alter the country’s status from a non-nuclear weapons’ state to a nuclear weapons state and this will go against its stated responsibility to promote nuclear disarmament. Japan’s commitment to nuclear disarmament is rooted in the fact that it remains the only country in the world which has faced nuclear attacks. Impact on relations with China China has warned successive Japanese governments including Takaichi against any attempt to re-militarize the country claiming any such move would shake the balance in the region and will lead to instability and arms race. Read more: China urges Japan to abandon nuclear ambitions and respect international law China has demanded that the international community check the Japanese government to keep it from violating its commitments to the post-war order, drawing their attention to Japan’s imperial past and its devastating impact on all other nations in the region, including China. Though several Japanese governments in the last few years have expressed “revivalist” intentions and talked about re-militarization of the country, the Takaichi government has made significant efforts in that direction despite Chinese objections and risks of confrontation. Earlier this year, Takaichi even talked about military intervention in case China attempts to integrate Taiwan militarily. She made the comments despite a long standing Japanese commitment to “One-China” policy. China reacted strongly to her statement and demanded she apologize. However, Takaichi refused to apologize or withdraw her statement, which created prolonged diplomatic tension between the two countries. During last week’s visit to Shenzen, China for the Asia-Pacific Economic Summit (APEC) she, however, reaffirmed her government’s commitments to the 1972 Japan-China Joint Statement and four political documents signed by the two countries, indicating moderation. Reacting to her statement, Guo Jiakun, spokesperson of China’s Ministry of Foreign Affairs, said last week that Japan must fulfill its political responsibility and legal obligations towards China as described in the four documents – not just verbally but through “concrete action.” “For Japan, the pressing priority is to correct the erroneous words and moves on the Taiwan question, adopt a correct attitude on historical issues, and form an objective and rational perception on China,” Guo said.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false
+    },
     {
       "id": "daf64c6af5c8e518d75ba46f",
       "title": "Iowa lead bomb: Abby Martin says the real threat is ‘your army’",
@@ -56,230 +266,6 @@
       "source": "BT News",
       "published_at": "2026-11-24T21:07:09+00:00",
       "content": "On Monday, November 23, the Israeli military stormed Al-Ama’ri refugee camp in Al-Bireh city in the central occupied West Bank. During the hours-long raid, Israeli forces converted the Al-Ama’ri Youth Center, alongside several residential homes, into temporary detention and field interrogation sites. They also damaged the facilities of the center. 30 Palestinians were briefly detained and interrogated after their homes were raided, but were released before the military left the camp. However, one Palestinian young man was arrested in the assault, during which stun grenades and tear gas were fired. Since January 2025, the Israeli military has intensified its campaigns against refugee camps across the West Bank, considering them bases for resistance groups in the occupied territory. These campaigns resulted in 102 fatalities , including 21 children. They also displaced over 34,000 Palestine refugees, among them 12,000 children, from Jenin, Tulkarm, and Nur Shams refugee camps. Furthermore, the Israeli army issued demolition orders for 514 buildings, according to a report published by the Office of the United Nations High Commissioner for Human Rights (OHCHR) in September, 2026. On November 17, 2026, Israeli authorities issued order No. 123/26 , authorizing the seizure of neighborhoods and road networks in Tulkarm and the nearby neighborhood of Dhannaba for “military purposes.” The order, which encompasses Tulkarm Refugee Camp, is valid until December 31, 2028, raising acute concerns that Israel intends to permanently displace the residents, who fled the camp as a result of the previous military campaign.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false
-    },
-    {
-      "id": "715db1dc620685d563cf1d47",
-      "title": "In Gaza’s displacement camps, having access to a toilet is a rare luxury",
-      "url": "https://mondoweiss.net/2026/11/in-gazas-displacement-camps-having-access-to-a-toilet-is-a-rare-luxury",
-      "author": "Eman Abu Zayed",
-      "source": "Mondoweiss",
-      "published_at": "2026-11-24T19:18:01+00:00",
-      "content": "Without access to toilet facilities, Gaza's displaced families are struggling to recover the most basic standards of hygiene.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false
-    },
-    {
-      "id": "0e075653560a785240f5e2db",
-      "title": "Too Big to Fire? Jensen Huang Is Back at Nvidia; Questions Loom Over AI Boom & U.S.-China Relations",
-      "url": "https://www.democracynow.org/2026/11/24/jensen_huang_returns_nvidia",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-11-24T16:02:46+00:00",
-      "content": "Nvidia stock prices surged over 30% on Monday as the chip maker reinstated Jensen Huang as CEO . Huang had stepped down earlier in November amid reports he had multiple extramarital affairs, including with a woman accused of spying for China. Huang and Nvidia have been central to the AI boom, and the leadership turmoil had erased trillions in value from the U.S. stock market. President Donald Trump acknowledged he had encouraged the company’s board to bring Huang back. “The fact that our markets are so over-indexed on the AI trade, that something like three-fourths of gains in the [S&P 500] this past year have been AI-related, is unsustainable,” says Aya Ibrahim, senior fellow for economic and national security at the AI Now Institute. We also speak with organizer and researcher Tobita Chow, who says Huang’s “spy scandal” that led to his ouster is part of a larger effort by anti-China figures in the U.S. national security establishment to escalate tensions between the countries. “The national security leadership in both parties in D.C. has been greatly frustrated with President Trump, who has over the past year pursued policies to maintain very warm relations with Xi Jinping,” says Chow, who notes that Secretary of State Marco Rubio is one of the “chief” frustrated China hawks in the administration.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false
-    },
-    {
-      "id": "afe89bd0215b8d15f866c6ff",
-      "title": "“Only Path Forward Is to Abolish”: Outcry After Masked ICE Agents Arrest Family at Seattle Airport",
-      "url": "https://www.democracynow.org/2026/11/24/seattle_ice",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-11-24T16:02:46+00:00",
-      "content": "Washington Governor Bob Ferguson and other officials in the state have denounced the violent arrest of a father and daughter by ICE agents on Saturday as they were boarding a flight at Seattle-Tacoma International Airport. Video of the arrest shows masked plainclothes agents dragging a woman off the jetway as she screams for help. Both Alaska Airlines and the Port of Seattle said ICE carried out the operation without their knowledge. ICE said Ricardo Larrondo Mendoza, originally from Mexico, was targeted for overstaying his tourist visa, and that his daughter, Sofia Hernandez Mejia, would be charged with assault for allegedly throwing hot coffee at an agent — although witnesses dispute that account. “This is one of, unfortunately, many thousands of detentions that is happening not only in Washington state, but across the country,” says Josefina Mora-Cheung, director of organizing for the immigrant justice group La Resistencia. “The only path forward is to abolish ICE .”",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false
-    },
-    {
-      "id": "cb8ca2c906b4607e0df74dac",
-      "title": "ICE Out of NJ Demands Freedom for Junior Marte & Other Former Delaney Hall Hunger Strikers",
-      "url": "https://www.democracynow.org/2026/11/24/delaney_hall",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-11-24T16:02:46+00:00",
-      "content": "Democracy Now! has obtained exclusive audio from inside Delaney Hall, the controversial immigrant detention center in Newark, New Jersey, operated by the for-profit prison company GEO Group. The audio was recorded over the summer during a labor and hunger strike organized by immigrant detainees. Junior Marte, an asylum seeker and father from Venezuela, was one of the organizers. He describes conditions inside the facility, including abusive treatment, medical neglect and prolonged legal limbo. “We are here unjustly, wrongfully accused of being criminals. Yet immigration officials refuse to review our cases, because they know that we are all innocent people,” Marte says in the message. The hunger and labor strike lasted for a month, with an estimated 300 detained immigrants participating in the protest. Jenny Garcia, campaign coordinator at the American Friends Service Committee of New Jersey, says that since the strikes, GEO Group and ICE have taken “every opportunity to retaliate against the strikers, the families visiting outside, and the protesters.”",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false
-    },
-    {
-      "id": "3176c21b12da46133f174af9",
-      "title": "Baltimore Sun cheats readers with AI slop cartoons",
-      "url": "https://mronline.org/2026/11/24/baltimore-sun-cheats-readers-with-ai-slop-cartoons",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-11-24T14:27:19+00:00",
-      "content": "Whether one chooses to call it artificial intelligence or President Trump’s preferred terminology, “super intelligence,” AI represents a growing threat to the livelihood of cartoonists around the world. The post Baltimore Sun cheats readers with AI slop cartoons appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false
-    },
-    {
-      "id": "9b4825b9eebc380523362528",
-      "title": "Ranchers are the last holdout against industrial animal agriculture. Is their future at risk?",
-      "url": "https://mronline.org/2026/11/24/ranchers-are-the-last-holdout-against-industrial-animal-agriculture-is-their-future-at-risk",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-11-24T13:29:36+00:00",
-      "content": "The seemingly unending dry spell, which has plagued much of the Midwest, is contributing to a historic cattle shortage that is pushing beef prices to record highs. A developing El Niño is currently bringing some relief, but drought persists in parts of the region. The post Ranchers are the last holdout against industrial animal agriculture. Is their future at risk? appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false
-    },
-    {
-      "id": "9980561e31142fa59f08b667",
-      "title": "Xi Jinping calls for complete ban and destruction of nuclear weapons, with ultimate goal of nuclear-free world",
-      "url": "https://mronline.org/2026/11/24/xi-jinping-calls-for-complete-ban-and-destruction-of-nuclear-weapons-with-ultimate-goal-of-nuclear-free-world",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-11-24T12:26:50+00:00",
-      "content": "According to CCTV News, Xi set out four principles at the meeting for how major powers should manage their relations and jointly safeguard world peace: mutual respect, peaceful coexistence, mutually beneficial cooperation, and dialogue and consultation. The post Xi Jinping calls for complete ban and destruction of nuclear weapons, with ultimate goal of nuclear-free world appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false
-    },
-    {
-      "id": "7e1b0ecbc8135ee7cae75934",
-      "title": "Deranged media support for Israel’s genocide",
-      "url": "https://mronline.org/2026/11/24/deranged-media-support-for-israels-genocide",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-11-24T12:26:50+00:00",
-      "content": "GAVIN O’TOOLE welcomes another demonstration of U.S. complicity in genocide that will be impossible to erase from the historical record. The post Deranged media support for Israel’s genocide appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false
-    },
-    {
-      "id": "f37f8901bc61365b3f0558c3",
-      "title": "Spain’s top court grants release of pro-Palestine activist Fergie Chambers after U.S. admits altering key evidence",
-      "url": "https://mronline.org/2026/11/24/spains-top-court-grants-release-of-pro-palestine-activist-fergie-chambers-after-u-s-admits-altering-key-evidence-2",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-11-24T12:26:50+00:00",
-      "content": "Hours before his release, Irish media revealed that Chambers's Dublin home was raided by police at Washington's request. The post Spain’s top court grants release of pro-Palestine activist Fergie Chambers after U.S. admits altering key evidence appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false
-    },
-    {
-      "id": "eec0b8c014d6b8a51b13ac0b",
-      "title": "‘They laughed at what they had done’: Ecuadorian fishermen sue US after surviving drone strike at sea",
-      "url": "https://breakthroughnews.org/2026/11/24/they-laughed-at-what-they-had-done-ecuadorian-fishermen-sue-us-after-surviving-drone-strike-at-sea",
-      "author": "BreakThrough News",
-      "source": "BT News",
-      "published_at": "2026-11-24T04:37:52+00:00",
-      "content": "Several weeks have passed since Ecuadorian fishermen reported an attack on the high seas by US armed forces. According to the fishermen, US military personnel forcibly removed them from some of their fishing boats and then destroyed the vessels. Several even claimed that they were taken against their will to El Salvador, which later deported the Ecuadorians back to their home country. In Ecuador, the government of right-wing President Daniel Noboa (a staunch ally of Washington’s foreign policy) backed the attacks against its own citizens, claiming they belonged to criminal gangs that used the fishermen’s boats to refuel on their trips to Mexico and the United States. To date, nearly 10 vessels have been intercepted by US forces, and following the attacks, the fishermen’s families experienced moments of despair as they did not know the whereabouts of their loved ones. So far, no fishermen have been reported dead. The fishermen who were attacked have consistently denied the accusations made by the US military and the Ecuadorian government. In fact, the Ecuadorian courts ruled in their favor and acquitted them of any crime alleged by the Ecuadorian prosecutor’s office, a strong ally of the executive branch. “Once the judge reviewed the evidence presented by the prosecutor’s office, he determined that it had not been proven that these vessels and their crew hadn’t committed any illegal act. There was no crime,” said Juan Alvia, the fishermen’s attorney, at the time. Lawsuit against the Trump administration Seventeen fishermen, however, have decided to defend their honor and seek redress in the United States: they have filed a lawsuit in a federal court in Pennsylvania against US forces for attacking their vessels with drones, illegally detaining them, and even alleging acts of torture. The complaint states : “The attack, kidnapping, and torture described above occurred even though the Ecuadorian government, following a three-hour inspection, had just cleared the ship and its crew of any illegal activity.” The complaint is directed against the Donald Trump administration and accuses it of causing emotional distress, assault, bodily injury, unlawful detention, and the destruction of the fishermen’s private property. The lawsuit demands that the US government provide compensation for the damages caused and cease attacks in the Pacific and the Caribbean as soon as possible. Washington has justified the attacks by arguing that it is fighting to stop narco-terrorism in international waters, and that these operations are therefore “vital to US national interests.” However, Washington and the Pentagon deny that they were involved in the attack on one of the vessels that received the most media attention (the Negra Francisca Duarte II) on which several of the 17 fishermen were traveling. Nevertheless, if this is not the case, the question remains: which military forces, with comparable firepower and the use of high-tech drones, carried out the attack? In response to this question, the Ecuadorian fishermen maintain that the US armed forces were responsible, having attacked them with drones, resulting in two fishermen being seriously injured with severe burns to their legs, arms, and backs. After that, the plaintiffs claim , they jumped into the water and swam desperately until they came upon a “blue boat” whose crew “spoke English,” wore camouflage uniforms, and flew the US flag alongside the words “US Coast Guard.” Regarding the attackers’ attitude, the complaint states : “They laughed at what they had done and at how they had destroyed the fishing boat – a boat that provided a livelihood for all the plaintiffs.” “The violent attack … against the plaintiffs and their vessel – while they were in a vulnerable situation on the high seas and posed no threat to the US or its personnel – was extreme and outrageous; it crossed every conceivable boundary of decency and must be considered absolutely intolerable in a civilized world,” said Daniel Kovalik , the fishermen’s attorney in the United States. “[The fishermen] lost their source of income as a result of the destruction [of the boat] and are facing a serious financial crisis. They are all also suffering severe psychological trauma due to the attack and the kidnapping,” the attorney concluded . This is the second lawsuit filed against the Trump administration over alleged attacks on vessels on the high seas. In October, several relatives of two men from Trinidad and Tobago, who died in a missile attack off the coast of their country, filed a lawsuit against the US government.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false
-    },
-    {
-      "id": "9e15cb8e1e24a9925535b7e0",
-      "title": "Iran vows to break the US naval blockade as Trump fails to make a call on the war",
-      "url": "https://breakthroughnews.org/2026/11/24/iran-vows-to-break-the-us-naval-blockade-as-trump-fails-to-make-a-call-on-the-war",
-      "author": "Abdul Rahman",
-      "source": "BT News",
-      "published_at": "2026-11-24T04:37:52+00:00",
-      "content": "Iran will take every necessary measure to break the US naval blockade, as it is part of its military aggression against the country and a crime against the Iranian people, Esmail Baghaei, official spokesperson of Iran’s Foreign Ministry said in a press conference on Monday, November 23. He also reiterated deputy foreign minister Kazem Gharibabadi’s claims over the weekend that Iran is considering a combination of military, political, and diplomatic measures to counter the blockade. Gharibabadi had warned against any fresh US-Israeli attacks, claiming the Iranian response would be stronger than in the past, while also claiming that the Iranian intent to break the blockade has been conveyed to the US through the Qatari mediator. The US has imposed a naval blockade on Iran since the breakdown of the June 17 Memorandum of Understanding (MoU). The blockade has impacted Iranian oil exports by sea and intensified the economic distress in the country. Iran’s announcement comes at a time when observers claim that the number of attacks on ships trying to cross through the Strait of Hormuz without approval has gone up substantially in the last few weeks. Reports also claim that Iran has intensified its retaliatory attacks on the US military in the region in comparison to earlier months. On Sunday, the Islamic Revolutionary Guard Corps (IRGC) issued a statement that at least two more tankers caught fire and were forced to stop while trying to cross the Strait of Hormuz through the “illegal route” in violation of its repeated warnings. On Saturday, at least two other oil tankers were attacked in the Strait and forced to stop after they allegedly struck sea mines, the Iranian Navy had claimed. A similar attack on an oil tanker was recorded on Friday as well. As per the reports, at least 25 oil tankers have been attacked in the Strait of Hormuz in the past week. This has impacted the oil flow through the waterway drastically. In its statement, the IRGC repeated that the ship owners should take its warnings seriously as the Strait of Hormuz remains under the full control of Iran’s naval forces, asking them to not rely on “misleading guidance from smugglers, including commanders of the US Central Command,” Press TV reported. On Sunday, Iran claimed its armed forces targeted the radar systems of the US bases in Bahrain in retaliation to the US attacks. It also claimed that it downed two US military drones and hit an F-35 stealth jet . It claimed the jet was flying close to its airspace. On Saturday, Iran similarly claimed it had fired missiles at an F-16 fighter jet which was probably damaged and had to make an abrupt landing. Trump agrees Iranian attacks are stronger Though he claimed the Iranian attacks have not caused any damage, US President Donald Trump accepted that they have become stronger in the last few days. Iran “has launched more drones and missiles in the last week than at any time for over a year” but, “they have caused no damage,” Trump said in his social media post on Sunday. He reiterated his claims of the Iranian government killing over 80,000 protesters and tried to blame the Democratic victory in the US midterms for the stronger Iranian response, saying Iran considers Democrats “weak, ineffective and country destroying.” He also accused that “both the Dems and Iran fought” to keep the oil prices high” up to the elections which have now dropped “by a record level.” Though the prices of oil have gone down in the last few weeks in comparison to last month, they remain higher than pre-war levels. It is speculated that the latest slump in prices are due to the absence of fresh US strikes on Iran and the increased outflow of oil through the Strait of Hormuz. On Saturday, Trump had said he wanted to make a “permanent deal” with Iran and expressed his indifference to the nature of its “regime.” The US and Israel launched the war on Iran with a joint military strike on February 28, declaring that one of their objectives was to change the “regime” in the country. Iran’s Supreme Leader Ayatollah Ali Khamenei, along with several other high military and political leaders were killed in the first few months of attacks. According to Iranian officials, over 7,200 people (including 632 children) have been killed in US-Israeli attacks in June 2025 and since the start of the current war on February 28. On Monday, Baghaei also reiterated his country’s position that “if the American side fulfills Iran’s set conditions, the Strait can be opened and secured for all kinds of shipments within hours.” Iran has been demanding the end of the war on all fronts in the region, remuneration for the damages caused by US-Israeli strikes, the end of sanctions, and access to its frozen assets, among others, as conditions for opening the Strait. He also reiterated that the US should not see Iran’s conditions as “unusual” because these conditions are an “inseparable part of the rights of the Iranian people.”",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false
-    },
-    {
-      "id": "266f32ef2f576579c1bf3da8",
-      "title": "Shenzhen’s nuclear summit",
-      "url": "https://breakthroughnews.org/2026/11/24/shenzhens-nuclear-summit",
-      "author": "Vijay Prashad",
-      "source": "BT News",
-      "published_at": "2026-11-24T03:39:07+00:00",
-      "content": "Lee en español aquí On November 19, President Xi Jinping of China hosted a meeting with President Vladimir Putin of Russia and President Donald Trump of the United States. They met in Shenzhen at the margins of the Asia Pacific Economic Cooperation (APEC) forum. The final statement that appeared from them had a very powerful line, “A nuclear war cannot be won and must never be fought.” This line came from three of the most important nuclear weapons countries in the world, only one of which – the United States – has used a nuclear bomb against civilians (in Hiroshima and Nagasaki in 1945). The other nuclear weapons countries (France, India, Israel, North Korea, Pakistan, and the United Kingdom) do not have the scale of the arsenals of the three that met in Shenzhen, which means that they do not have the capacity for a full nuclear war; for most of them, the nuclear weapons are a deterrent against the destruction of their state by others. The statement from these three powers, then, is indicative of the mood toward a new agreement on the danger and futility of nuclear weapons. The earliest treaty around the use of nuclear weapons was signed on December 1, 1959. This Antarctic Treaty banned nuclear explosions and radioactive waste disposal in Antarctica. It was followed on December 5, 1963 with the Partial Test Ban Treaty between the USSR, the United States, and the United Kingdom. This second treaty prohibited nuclear explosions in the atmosphere, in outer space, and underwater, while leaving underground testing permitted (this was eventually banned by the Comprehensive Nuclear-Test Ban Treaty of September 10, 1996, although the major nuclear powers have not signed onto it yet). Over the past sixty-seven years, we saw an increase in treaties to manage the diabolical presence of nuclear weapons for the first decades, and then we saw a collapse of the entire nuclear management machinery. That machinery has been dismantled piece by piece. The Shenzhen meeting is the first in very many years that revives the language of the danger of nuclear war and should be built upon by all peace-loving people. The collapse of nuclear weapons management On February 5, 2026, New Strategic Arms Reduction Treaty (New START) expired. Signed in 2010 and extended in 2021, this treaty had restricted deployed US and Russian strategic nuclear forces and provided mechanisms for verification. It is the last of the treaties that manage the nuclear weapons arsenals of the nuclear weapons states to lapse. There are now no binding numerical limits on the nuclear weapons arsenals. Reacting to this, UN Secretary-General António Guterres said , “For the first time in more than half a century, we face a world without any binding limits on the strategic nuclear arsenals.” It would be inaccurate to say that no nuclear weapons agreements remain. The Nuclear Non-Proliferation Treaty continues to exist, as do other nuclear treaties and obligations. The specific danger is that the two states possessing the largest arsenals (the USA and Russia) no longer operate under a binding bilateral ceiling on their strategic nuclear forces. Assurances of restraint cannot replace inspections, exchanges of information, agreed definitions, and enforceable limits. Political understandings can disappear with a change of government or a deterioration in relations. That is why the Shenzhen statement is significant, but only if it rebuilds a new treaty between these countries. The record of what has been lost is sobering: First. The Anti-Ballistic Missile (ABM) Treaty, signed in 1972, limited missile defense systems and helped to anchor the strategic relationship between Washington and Moscow. The United States withdrew on June 13, 2002, when US President George W. Bush decided to take advantage of temporary Russian weakness to advance the goals of US power. Whatever the limited promise made for missile defense, the abandonment of negotiated restraints encouraged adversaries to seek new means of overcoming those defenses. Military spending, a waste of social wealth, began to balloon upwards. Second. The Intermediate-Range Nuclear Forces Treaty, signed in 1987, eliminated US and Soviet ground-launched missiles with ranges between 500 and 5,500 kilometers. Washington withdrew from the treaty on August 2, 2019, when President Trump decided to press further US advantages against Russia. An entire category of weapons, once removed through negotiation, returned to military planning. This withdrawal further cornered Russia and provoked the invasion of eastern Ukraine. These two examples are the culmination of years of erosion across several areas of arms control. But they are the most significant treaties to have been set aside, and therefore put the world into a new arms race, particularly a new nuclear arms race. These agreements were a product of fear and political calculation. They were needed to understand that an adversary’s insecurity could become everyone’s catastrophe. In that sense, the inspections and the restrictions operated as confidence building measures across disagreements. Their destruction has restored a dangerous dependence on threat assessments, intelligence estimates, and the judgment of leaders operating under pressure. At Shenzhen, three leaders did not announce any reductions, verification arrangements, or timetable for negotiations, but they have established a political opening through which a peace agenda could be rebuilt. China’s participation adds an important dimension, since Beijing has not been a party to most of these bilateral treaties. A durable framework must address Beijing’s security concerns as well as those of Washington and Moscow. Humanity cannot afford to dismiss an opening for negotiation because it falls short of an agreement. Europe’s absence The absence of Europe at the meeting in Shenzhen is notable. Rather than accept the deescalation that could result from the meeting in China, the European leaders gathered in Berlin for a Coalition of the Willing meeting. This name, Coalition of the Willing, comes from a platform developed by retired UK politician Keir Starmer in March 2025, with the stated purpose for European leaders to support Ukraine’s military. If in Shenzhen the three major powers spoke of their concern for nuclear war and war in general, at Berlin the Europeans spoke of increased military expenditure, weapons deliveries, and an increased pressure campaign against Russia. Coalition members reaffirmed a pledge of €70 billion in military equipment, assistance, and training for Ukraine in 2026, with at least equivalent support in 2027. They proposed stronger economic pressure on Russia and discussed a European-led multinational force, supported by the United States, to operate after a ceasefire. These commitments extended the material infrastructure of confrontation. Shenzhen focused on de-escalation through engagement, while Berlin put the matter of escalation of military commitments firmly on the table. The European leaders’ talk of military expenditure came as their own populations took to the streets to condemn the austerity agenda that would make Europe more impoverished and more insecure. There was no public mention of these protests, nor was there acknowledgment that their agenda has very low public support . Opposition to the agenda of increased military spending and increased social austerity reaches 63% in Italy, 59% in Austria, 56% in Germany, and 55% in Estonia. The statement itself is anodyne, asking for greater military spending and for Russian concessions but it does not spell out a broad plan for European security. The entire agenda relies upon Europe’s dependency on Washington for crucial military capabilities and diplomatic access. This makes the Berlin agenda utterly unsustainable. BRICS+ agenda The opening of new negotiations for nuclear weapons control carries particular significance for the BRICS+ agenda. Countries outside the principal military blocs would bear devastating consequences from a confrontation they neither initiated nor controlled. Their interest in reducing nuclear danger is direct, which is why they should press for negotiations rather than leave the issue to an exclusive conversation among the largest powers. China and Russia attended Shenzhen in their national capacities. Their participation did not give them a mandate to bargain for the entire Global South. The test is whether their diplomacy creates greater room for other countries to pursue development, trade, and independent foreign policies. Reduced confrontation could open that space; an arrangement protecting only the privileges of powerful states would narrow its promise. BRICS+ has already connected disarmament to its practical development agenda. Resources consumed by arms races are unavailable for public health, housing, ecological repair, and productive investment. Its institutions can widen access to finance while its members demand that the nuclear powers fulfill their responsibilities. The New Development Bank’s pursuit of lending in members’ national currencies illustrates one avenue for increasing countries’ economic options. At the 19th BRICS+ Summit to be held in China, the issue of the trade-off between development and war will likely be further discussed. Shenzhen’s importance lies in the possibility it reopened. Three nuclear powers acknowledged a shared danger at a moment when binding restraints have disappeared. The task now is to make their acknowledgment material: negotiations, verification, limits, and reductions. Humanity needs an international movement strong enough to insist that the next announcement concerns weapons withdrawn and agreements signed, rather than another budget for preparing the war no society can survive. Vijay Prashad is an Indian historian and journalist. He is the author of forty books, including Washington Bullets, Red Star Over the Third World, The Darker Nations: A People’s History of the Third World, The Poorer Nations: A Possible History of the Global South, and How the International Monetary Fund Suffocates Africa, written with Grieve Chelwa. He is the executive director of Tricontinental: Institute for Social Research , the chief correspondent for Globetrotter, and an editor at LeftWord Books (New Delhi). He also appeared in the films Shadow World (2016) and Two Meetings (2017). This article was produced by Globetrotter and No Cold War .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false
-    },
-    {
-      "id": "bcea5c6caa4d87e5791abe25",
-      "title": "Thanked For Service, Rewarded With Broken Promises. w/Steve Early",
-      "url": "https://convergencemag.com/podcast/thanked-for-service-promises-broken-w-steve-early",
-      "author": "Cayden Mak",
-      "source": "Convergence",
-      "published_at": "2026-11-24T00:14:17+00:00",
-      "content": "Numerous articles of impeachment relating to the war in Iran were filed against Secretary of Defense Pete Hegseth on Nov. 9. That impeachment attempt failed, but the institutional rot represented by Hegseth as the beating heart of patriarchal corruption in the Department of Defense goes much deeper than just one sick man’s mishandling of an illegal war. In their new book Courage or Complicity… Source",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false
-    },
-    {
-      "id": "32f9fcc458ff6aea08cb8bc8",
-      "title": "Belgium: 70,000-strong anti-austerity demonstration rounds up weekend of mobilization",
-      "url": "https://breakthroughnews.org/2026/11/23/belgium-70000-strong-anti-austerity-demonstration-rounds-up-weekend-of-mobilization",
-      "author": "Ana Vračar",
-      "source": "BT News",
-      "published_at": "2026-11-23T23:47:05+00:00",
-      "content": "A weekend of mobilization in Belgium culminated in a national anti-austerity demonstration in Brussels on Monday, November 23, with unions reporting at least 70,000 participants. After a successful youth strike against militarization and conscription on Friday and a peace march on Sunday, trade unions called on everyone to mobilize against the Arizona government’s devastating budgetary plans. Read more: One million students across Europe strike against war and rearmament “People are already struggling to make ends meet,” Peter Mertens , General Secretary of the Workers’ Party of Belgium (PTB-PVDA), wrote on the day. “They refuse to see billions poured into US-made F-35 fighter jets while we’re told there’s no money to invest in education or healthcare.” “And they refuse to accept that billionaires continue to get off the hook. That is why people are angry. And they have every reason to be.” A staged budgetary deadlock? Bart De Wever’s coalition is aiming to cut at least €10 billion from social security, including healthcare and pension rights, while planning to spend approximately €34 billion on rearmament by 2034. A massive mobilization wave broke out against these plans at the beginning of the government’s tenure and hasn’t stopped since. The pressure has succeeded in winning concessions. More recently, federal budget negotiations have also hit what seems a more substantial obstacle, as coalition partners continue to fail to reach an agreement. Weeks ago, Prime Minister De Wever even offered his resignation to the king – but was rejected . Progressive groups emphasized that De Wever had previously used a similar maneuver to pressure coalition members. And while there is no budgetary agreement yet, PTB-PVDA warns that things would not substantially change even if the social-democratic party Vooruit were to secure the concessions it is seeking. Throughout the weekend, protesters demanded and end to rising military expenses and more investments into social protection. Source: PTB-PVDA/Facebook “The governing parties already agree on most of the austerity package,” PTB-PVDA President Raoul Hedebouw commented last week. “Billions in cuts to healthcare, another attack on wage indexation, higher VAT.” “The real wrangling is over a few hundred million more or less for the so-called broadest shoulders,” he added. “Vooruit needs a symbolic gesture to sell this antisocial agreement. But De Wever refuses even that. The super-rich must be spared at all costs.” “The problem is not the share of the rich in a €10 billion austerity package, but the austerity package itself. Social alternatives to our budget exist. A genuine millionaire’s tax on net assets above €5 million would raise €8 billion a year. We can also phase out the billions in inefficient corporate subsidies and scale back the explosion in military spending.” Protests to break one of the EU’s great taboos The call to reject military investments at the expense of social justice spread throughout rallies over the weekend. On Saturday, approximately 5,000 people protested “to break one of the great taboos of the government and the European Union: spending billions on weapons and preparations for war at the expense of our future,” wrote PTB-PVDA’s Marc Botenga . Approximately 5,000 people marched against war and militarization on Sunday, November 22. Source: PTB-PVDA/Facebook “No,” echoed student organization Comac . “We refuse your billions for war and your cuts to education. We choose peace.”",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false
-    },
-    {
-      "id": "4fa585a4f3f0b443926620c9",
-      "title": "BT LIVE: Iowa Lead Bomb | Germany’s Youth Revolt | Europe’s ‘Spoilers’ in Ukraine",
-      "url": "https://breakthroughnews.org/2026/11/23/nov-23-26",
-      "author": "BreakThrough News",
-      "source": "BT News",
-      "published_at": "2026-11-23T22:47:23+00:00",
-      "content": "This content is for members only. Visit the site and log in/register to read.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false
-    },
-    {
-      "id": "663e29b09d49ae9713758efa",
-      "title": "With the main opposition party suspended, Ecuador returns to the polls",
-      "url": "https://breakthroughnews.org/2026/11/23/with-the-main-opposition-party-suspended-ecuador-returns-to-the-polls",
-      "author": "BreakThrough News",
-      "source": "BT News",
-      "published_at": "2026-11-23T22:47:23+00:00",
-      "content": "On November 12, the campaigns for Ecuador’s local elections formally began. This Sunday, November 29, voters will elect prefects, mayors, city council members, and members of local boards. Historically, local elections have reflected the level of support or opposition to the current government. In this sense, right-wing president Daniel Noboa has more at stake than just a simple popular election. This is especially true when considering the last elections (which centered on four referendum questions) held on November 16, 2025. In those elections, Noboa suffered a fourfold electoral defeat, as the majority of Ecuadorians rejected his attempt to repeal the current constitution – which guarantees rights – in favor of a neoliberal one. Furthermore, Ecuadorians said no to the possibility of establishing foreign military bases. The defeat took the government by surprise, as it had been confident of a victory in a country that, in recent history, has consistently voted “yes” in referendums held by successive administrations. Read more: Ecuadorian people deal a crushing blow to neoliberalism in Noboa’s referendum And for that very reason, Noboa needs a victory at all costs. But it is important to understand that success for Noboa does not necessitate that his candidates win, but rather that his main opponent – Correísmo – loses. Noboa’s anti-Correa crusade From the very beginning, his main selling point (and the primary reason for the support that enabled him to win two presidential elections) has been to present himself as the antithesis of the supporters of Ecuador’s former president, the progressive Rafael Correa (2007–2017). As a result, Noboa has been viewed by many as a key player capable of preventing the return of Correísmo to the presidency, and it is precisely this antithetical distinction that keeps him a politically relevant figure. This has led Correa’s own party, the Citizen Revolution, to claim that the elections on November 29 will take place in an undemocratic and authoritarian environment, in which most institutions – including electoral ones – serve the interests of the executive branch. The main basis for this accusation stems from the suspension of the Citizen Revolution party in early 2025. The party’s candidates have been forced (when possible) to seek participation in the elections on other parties’ slates. Added to this is a series of allegations from the opposition regarding alleged political persecution against the main political leaders of the Citizen Revolution and their allies. Several months have already passed since Aquiles Álvarez, the then-mayor of Guayaquil, Ecuador’s largest city, was imprisoned in a maximum-security prison. The current mayor of Quito, the capital, Pabel Muñoz, who is seeking reelection, has been accused of various alleged crimes . The mayor of Cuenca was removed from office, and the prosecutor’s office is currently seeking to arrest him. Opposition leader Luisa González jailed by Noboa government One of the most emblematic cases is that of Luisa González, president of the Citizen Revolution and a two-time presidential candidate (who lost to Noboa both times). González was seeking the governorship of Manabí (a stronghold of Correísmo) but on October 22, she was arrested and has been held in prison on charges of money laundering ever since. Read more: Luisa González, former presidential candidate and opposition leader, is arrested in Ecuador And while the executive branch defends these actions by linking the Citizen Revolution to organized crime, the Correístas insist that this is political persecution, and that the upcoming election is one in which every effort has been made to ensure that their candidates fail to win elected office; therefore, they claim, the current government is seeking to ensure the victory of candidates close to it, who would run as candidates for other parties. Thus, according to this interpretation, Noboa seeks to win with his own candidates and with allied candidates from other parties. But his greatest victory would be to prevent the Citizen Revolution from achieving wins that would once again call into question his popularity, which has not recovered from its slight but steady decline over the past several months. For their part, the polls have once again shown clear inconsistencies among themselves, which has raised suspicions of alleged political manipulation of the numbers. In some polls, candidates opposed to the government hold a slight lead over many pro-government candidates or those allied with the executive branch. Other polls, however, show Noboa’s candidates in the lead. However, since these are regional elections, they will reveal different political realities and aspirations depending on the region under consideration. And while a country as complex and diverse as Ecuador may offer various paths forward, there are four provinces (Guayas, Pichincha, Manabí, and Azuay) and three cities (Quito, Guayaquil, and Cuenca) that will surely attract the most attention. They are home to a huge percentage of the population and tend to set the pace and political trends for the 2028 presidential elections.",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
