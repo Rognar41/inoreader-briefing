@@ -1,12 +1,147 @@
 {
-  "generated_at": "2026-11-26T02:22:39.571605+00:00",
-  "generated_at_jst": "2026-11-26T11:22:39.571605+09:00",
-  "period_start": "2026-11-24T20:22:39.571605+00:00",
+  "generated_at": "2026-11-27T02:21:18.110307+00:00",
+  "generated_at_jst": "2026-11-27T11:21:18.110307+09:00",
+  "period_start": "2026-11-25T20:21:18.110307+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
-  "article_count": 19,
+  "article_count": 10,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "7f588f0e05316ebf6864effc",
+      "title": "Congenital birth defects are on the rise in Gaza. Doctors say Israel’s genocide is to blame.",
+      "url": "https://mondoweiss.net/2026/11/congenital-birth-defects-are-on-the-rise-in-gaza-doctors-say-israels-genocide-is-to-blame",
+      "author": "Tareq S. Hajjaj",
+      "source": "Mondoweiss",
+      "published_at": "2026-11-26T16:17:10+00:00",
+      "content_excerpt": "Doctors in Gaza warn that exposure to bombs and toxic substances dropped by Israel on the strip is putting pregnant mothers and newborn infants at risk.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/7f588f0e05316ebf6864effc.json"
+    },
+    {
+      "id": "f71ac67c43ea35518e603b82",
+      "title": "Leonard Peltier on Indigenous Rights, His Half-Century in Prison & More",
+      "url": "https://www.democracynow.org/2026/11/26/leonard_peltier_speaks_out_after_release",
+      "author": "",
+      "source": "Democracy Now! | Democracy Now!",
+      "published_at": "2026-11-26T13:30:33+00:00",
+      "content_excerpt": "This is a rush transcript. Copy may not be in its final form. AMY GOODMAN : In this special broadcast, we spend the hour with longtime Indigenous activist Leonard Peltier. Last February, he was released from a federal prison in Florida after spending nearly half a century behind bars for a crime he says he did not commit. President Biden, on his last day in office, commuted Peltier’s life sentence to home confinement. Biden’s decision followed mounting calls by tribal leaders and supporters around the world in a decadeslong, community-led campaign fighting for his freedom. In the 1970s, Peltier was involved with the American Indian Movement, known as AIM . In 1975, two FBI agents and one young AIM activist were killed in a shootout on the Pine Ridge Reservation in South Dakota. Two AIM mem",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/f71ac67c43ea35518e603b82.json"
+    },
+    {
+      "id": "4ee3c75f700f3e7081baa300",
+      "title": "Behind Pete Hegseth’s visit to Venezuela",
+      "url": "https://mronline.org/2026/11/26/behind-pete-hegseths-visit-to-venezuela",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-11-26T13:09:40+00:00",
+      "content_excerpt": "egseth’s visit was surprising, despite the wave of rumors beforehand about his arrival in Venezuela ahead of his tour of Colombia. The post Behind Pete Hegseth’s visit to Venezuela appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/4ee3c75f700f3e7081baa300.json"
+    },
+    {
+      "id": "d88166ec1d52cf254b4d7d2f",
+      "title": "News from Nowhere: Donald Duck",
+      "url": "https://mronline.org/2026/11/26/news-from-nowhere-donald-duck",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-11-26T12:03:22+00:00",
+      "content_excerpt": "Trump, weakened by the midterm defeat and a Vance rebuke over the Iran war, is a lame duck at home but still dangerous abroad. The post News from Nowhere: Donald Duck appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/d88166ec1d52cf254b4d7d2f.json"
+    },
+    {
+      "id": "859361afe732f8c2b7552df9",
+      "title": "Co-opted transitions",
+      "url": "https://mronline.org/2026/11/26/co-opted-transitions",
+      "author": "Editor",
+      "source": "MR Online",
+      "published_at": "2026-11-26T11:07:07+00:00",
+      "content_excerpt": "Locking in our energy systems. The post Co-opted transitions appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/859361afe732f8c2b7552df9.json"
+    },
+    {
+      "id": "4c43211b0e42116bbad04eeb",
+      "title": "Rise in disguised unemployment",
+      "url": "https://mronline.org/2026/11/26/rise-in-disguised-unemployment",
+      "author": "Prabhat Patnaik",
+      "source": "MR Online",
+      "published_at": "2026-11-26T10:09:53+00:00",
+      "content_excerpt": "It is an elementary proposition in development economics that unemployment in countries like India exists largely in the form of disguised rather than open unemployment. The post Rise in disguised unemployment appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/4c43211b0e42116bbad04eeb.json"
+    },
+    {
+      "id": "8d5881eb82d48d3571d709ae",
+      "title": "A US court finds Huawei guilty of violating Iran sanctions and IP ‘theft’",
+      "url": "https://breakthroughnews.org/2026/11/26/a-us-court-finds-huawei-guilty-of-violating-iran-sanctions-and-ip-theft",
+      "author": "Abdul Rahman",
+      "source": "BT News",
+      "published_at": "2026-11-26T06:18:25+00:00",
+      "content_excerpt": "A federal court in New York found Chinese technology and telecommunication giant Huawei and three of its subsidiaries guilty of conspiracy to steal trade secrets and commit bank fraud on Tuesday, November 24, while rejecting the more serious charges of “overarching racketeering” against it. The charge of “overarching racketeering,” was related to US allegations that Huawei was involved in secret operations to steal intellectual property or technological know-how from American companies. The trial in the case lasted for over two months with the jury finding Huawei guilty on 10 out of 12 charges. The sentencing is scheduled for September next year. The case against Huawei was filed by the US Department of Justice in January 2019. The trial began earlier this year after a years-long investiga",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/8d5881eb82d48d3571d709ae.json"
+    },
+    {
+      "id": "6a8b1134eaa31533f6a6d1c4",
+      "title": "Rwanda deportation plan revived by five EU states after UK failure",
+      "url": "https://breakthroughnews.org/2026/11/26/rwanda-deportation-plan-revived-by-five-eu-states-after-uk-failure",
+      "author": "Nicholas Mwangi",
+      "source": "BT News",
+      "published_at": "2026-11-26T06:18:25+00:00",
+      "content_excerpt": "Five European Union states have announced plans to deport rejected asylum seekers to Rwanda from 2027, reviving a policy the United Kingdom spent two years and hundreds of millions of pounds on before scrapping it. Austria, Denmark, Germany, Greece, and the Netherlands unveiled the scheme alongside Rwandan Interior Minister Vincent Biruta at the Vienna Migration Conference on November 16. In a joint statement , the governments said they are “jointly exploring” a return hub in Rwanda and aim to conclude an agreement and carry out the first transfers in 2027. As of now there is little information on the cost implications and the actual plan. The same day, the International Organization for Migration (IOM) said it had received a request from Rwanda for operational support in connection with t",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/6a8b1134eaa31533f6a6d1c4.json"
+    },
+    {
+      "id": "75af40ffa886130d25cf3113",
+      "title": "Israel’s targeted assassinations continue across Gaza despite the US-backed ceasefire",
+      "url": "https://breakthroughnews.org/2026/11/26/israels-targeted-assassinations-continue-across-gaza-despite-the-us-backed-ceasefire",
+      "author": "Aseel Saleh",
+      "source": "BT News",
+      "published_at": "2026-11-26T06:18:25+00:00",
+      "content_excerpt": "Israel escalated its aggression across the Gaza Strip during the last few days, carrying out targeted assassinations of senior Hamas officials and a United Nations employee. On Monday, November 23, an employee of the United Nations Relief and Works Agency for Palestine Refugees (UNRWA) was killed in an Israeli drone strike while on duty in the Jabalia Refugee Camp in the northern Gaza Strip. On the same day, an Israeli warplane struck a civilian vehicle near Ansar Roundabout, west of Gaza City, killing three people and injuring several others. On the following day, Israel killed the head of the internal security service in the northern Gaza Strip, Mohammad Abu al-Ouf (48), alongside his wife, Noura Abu al-Ouf (42) , and two daughters, Yusra (15) and Jana (13) , in an airstrike on an apartm",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/75af40ffa886130d25cf3113.json"
+    },
     {
       "id": "7015f0aac8f0a82e1dae4b9c",
       "title": "Will the Wretched of the Earth Win the Struggle for Self-Determination in Nairobi?",
@@ -21,276 +156,6 @@
       "priority": 2,
       "date_missing": false,
       "article_path": "articles/7015f0aac8f0a82e1dae4b9c.json"
-    },
-    {
-      "id": "2f474b276ba093f53ac7afa8",
-      "title": "General strike in Greece rejects militarization and austerity",
-      "url": "https://breakthroughnews.org/2026/11/25/general-strike-in-greece-rejects-militarization-and-austerity",
-      "author": "Ana Vračar",
-      "source": "BT News",
-      "published_at": "2026-11-25T20:07:35+00:00",
-      "content_excerpt": "A nationwide general strike in Greece drew tens of thousands onto the streets of approximately 80 towns and cities on Wednesday, November 25. Workers from both the public and private sectors protested against further austerity and war spending. “We refuse to pay with our lives and incomes for involvement in war and the profits of business groups,” the All-Workers Militant Front (PAME) stated when announcing the strike. The strike call had already been launched during the dockworkers’ international day of action against the militarization of ports at the end of October. It is expected to ripple outward in the coming weeks, including during a new national mobilization on December 15. Read more: Dockworkers at 110 ports worldwide strike against war and genocide “Today’s strike shows that the ",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/2f474b276ba093f53ac7afa8.json"
-    },
-    {
-      "id": "293d1340b8ab89c0ae0b2fdb",
-      "title": "Meningitis cases surge in Gaza as deteriorating living conditions put children at risk",
-      "url": "https://mondoweiss.net/2026/11/meningitis-cases-surge-in-gaza-as-deteriorating-living-conditions-put-children-at-risk",
-      "author": "Tareq S. Hajjaj",
-      "source": "Mondoweiss",
-      "published_at": "2026-11-25T19:13:59+00:00",
-      "content_excerpt": "With meningitis cases rising more than eightfold in October, overcrowded displacement camps, contaminated water, and collapsing sanitation systems are creating conditions for the disease to spread across the Gaza Strip.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/293d1340b8ab89c0ae0b2fdb.json"
-    },
-    {
-      "id": "0f1035c5b8e8b1f56b9106c4",
-      "title": "How Israel became America’s arms dealer",
-      "url": "https://mondoweiss.net/2026/11/how-israel-became-americas-arms-dealer",
-      "author": "Sana Saeed",
-      "source": "Mondoweiss",
-      "published_at": "2026-11-25T19:04:18+00:00",
-      "content_excerpt": "In episode three of The Necessary State, Sana Saeed traces how Israel became one of America’s most useful intermediaries, carrying U.S. military power, weapons, and influence into places where Washington wants a foothold without direct involvement.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/0f1035c5b8e8b1f56b9106c4.json"
-    },
-    {
-      "id": "963bbbd6c3efbda394394c66",
-      "title": "“Disaster Waiting to Happen”: Iowa Declares Emergency as U.S. Army Detonates 5 Tons of Lead Azide",
-      "url": "https://www.democracynow.org/2026/11/25/iowa_ammo_detonation_lead_azide",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-11-25T15:59:44+00:00",
-      "content_excerpt": "This is a rush transcript. Copy may not be in its final form. AMY GOODMAN : This is Democracy Now! , democracynow.org, The War and Peace Report . I’m Amy Goodman. Iowa Governor Kim Reynolds has declared a disaster emergency in three counties as the U.S. Army prepares to detonate nearly five tons of highly unstable lead-based explosives at an ammunition plant in southeastern Iowa today. The detonation will cause a massive blast that could send toxic lead dust spewing across communities, farmland, and potentially into the Mississippi River. The detonation is scheduled for 9 a.m. Central Time. Officials have recommended residents of Middletown, where the plant is located, and anyone within a five-mile cone southwest of the plant to evacuate, while people living up to 20 miles away have been t",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/963bbbd6c3efbda394394c66.json"
-    },
-    {
-      "id": "35f9c5b5fc74744f88a0db7f",
-      "title": "“Huna”: Egyptian Author Abdelrahman ElGendy on Prison, National Book Award & Being Denied U.S. Visa",
-      "url": "https://www.democracynow.org/2026/11/25/abdelrahman_elgendy_national_book_award",
-      "author": "",
-      "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-11-25T15:59:44+00:00",
-      "content_excerpt": "This year’s annual National Book Award ceremony in New York City was marked by the notable absence of nonfiction winner Abdelrahman ElGendy, after the Trump administration denied the Egyptian author entry into the United States. ElGendy’s debut, Huna: A Memoir of Revolution, Prison, and Becoming , chronicles his arrest and over six years of imprisonment, alongside his father, following arrest at a protest against the military dictatorship of Egypt’s President Abdel Fattah el-Sisi. After his release from prison in Egypt, ElGendy obtained an MFA in the United States but was forced to flee once again — this time from the U.S. to Europe — for fear of being targeted by immigration authorities over his criticism of Israel’s war on Gaza and U.S.-Egypt relations. “It was a gutting thing to not be ",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/35f9c5b5fc74744f88a0db7f.json"
-    },
-    {
-      "id": "472591f5b59b79ba9a954c02",
-      "title": "Why the U.S. can’t stop arming Israel",
-      "url": "https://mondoweiss.net/2026/11/why-the-u-s-cant-stop-arming-israel",
-      "author": "Sana Saeed",
-      "source": "Mondoweiss",
-      "published_at": "2026-11-25T15:13:02+00:00",
-      "content_excerpt": "In episode two of The Necessary State, Sana Saeed traces how Israel was built into the American military and security infrastructure, and how U.S. weapons makers profit from a cycle in which taxpayer money buys the arms, the arms are used, and the stockpiles are refilled.",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/472591f5b59b79ba9a954c02.json"
-    },
-    {
-      "id": "686b0c114b27b3a0a78a0ac2",
-      "title": "Nvidia has been saved for now but the China hawks will be back",
-      "url": "https://mronline.org/2026/11/25/nvidia-has-been-saved-for-now-but-the-china-hawks-will-be-back",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-11-25T14:10:05+00:00",
-      "content_excerpt": "The China hawks have lost a battle. That’s good. But they won’t give up. The post Nvidia has been saved for now but the China hawks will be back appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/686b0c114b27b3a0a78a0ac2.json"
-    },
-    {
-      "id": "6dbd8635896fe62581b26f0d",
-      "title": "If You Want to Win, Learn to Think From Other People’s Perspective",
-      "url": "https://convergencemag.com/articles/if-you-want-to-win-learn-to-think-from-other-peoples-perspective",
-      "author": "Chris Brooks",
-      "source": "Convergence",
-      "published_at": "2026-11-25T13:29:43+00:00",
-      "content_excerpt": "A Necker cube does something interesting if you look at it long enough. The image stays the same, but the cube suddenly flips. One minute the left side looks closest to you, then the next moment it looks further away. The underlying facts never change. The lines remain exactly in the same place. What changes is how you perceive those lines. Differences in perspective come up all the time… Source",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/6dbd8635896fe62581b26f0d.json"
-    },
-    {
-      "id": "2087ced8ef160e73821fe88b",
-      "title": "A rank-and-file perspective on the strike for public education in Madrid",
-      "url": "https://mronline.org/2026/11/25/a-rank-and-file-perspective-on-the-strike-for-public-education-in-madrid",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-11-25T13:09:13+00:00",
-      "content_excerpt": "The shared struggle for housing and public education in Spain is now heading toward a general strike on November 11 in the midst of a broader uprising spreading throughout Europe. The post A rank-and-file perspective on the strike for public education in Madrid appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/2087ced8ef160e73821fe88b.json"
-    },
-    {
-      "id": "8b57833f375fc326c4162b49",
-      "title": "Drawing from Rosa Luxemburg’s enduring legacy to move beyond protest politics",
-      "url": "https://mronline.org/2026/11/25/drawing-from-rosa-luxemburgs-enduring-legacy-to-move-beyond-protest-politics",
-      "author": "Paul Le Blanc",
-      "source": "MR Online",
-      "published_at": "2026-11-25T12:10:15+00:00",
-      "content_excerpt": "So far, Verso has published in English about one-fifth of what over the next two decades may add up to twenty volumes of \"The Complete Works of Rosa Luxemburg\". The post Drawing from Rosa Luxemburg’s enduring legacy to move beyond protest politics appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/8b57833f375fc326c4162b49.json"
-    },
-    {
-      "id": "bae419da8bc9edb22fde49bd",
-      "title": "Fain accepts Debs Award, calls for May Day ’28 general strike",
-      "url": "https://mronline.org/2026/11/25/fain-accepts-debs-award-calls-for-may-day-28-general-strike",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-11-25T11:14:56+00:00",
-      "content_excerpt": "United Auto Workers President Shawn Fain accepted the 2026 Eugene V. Debs Award on Nov. 21 before a crowd of union members, retirees, and activists at the Terre Haute Convention Center. “We never win by playing it safe,” Fain told them. The post Fain accepts Debs Award, calls for May Day ’28 general strike appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/bae419da8bc9edb22fde49bd.json"
-    },
-    {
-      "id": "662499a1ddf3e9f7a5f4560c",
-      "title": "The Ukraine war spreads to Libya with British help",
-      "url": "https://mronline.org/2026/11/25/the-ukraine-war-spreads-to-libya-with-british-help",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-11-25T10:20:32+00:00",
-      "content_excerpt": "Wes Streeting tested Ukrainian sea drones two weeks before sinking of Russian ship in Libya writes John Rees. The post The Ukraine war spreads to Libya with British help appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/662499a1ddf3e9f7a5f4560c.json"
-    },
-    {
-      "id": "a9bdfb5d3ef510dc02d69030",
-      "title": "Iran, Neoliberalism, Nihilism, and the Global Order A Conversation with Wendy Brown",
-      "url": "https://www.historicalmaterialism.org/iran-neoliberalism-nihilism-global-order-wendy-brown",
-      "author": "Panagiotis Sotiris",
-      "source": "Historical Materialism",
-      "published_at": "2026-11-25T08:59:03+00:00",
-      "content_excerpt": "Conducted in early 2026, on the eve of the assault on Iran by Israel and the USA, this interview with Wendy Brown explores the transformation of the state under finance capital and the intensification of social nihilism. Although publication was delayed due to the interviewer’s travel to Iran, Brown’s analysis of the “global construction” of the Iranian predicament and the “privatisation of the state” remains strikingly prescient and conceptually vital for understanding the current crisis. From the “equal right to inequality” to the extraction of profit from destruction in Gaza, the conversation offers a rigorous materialist map of the neoliberal ruins we inhabit Mohammad Hadi : Although the timing of this conversation coincides with the tragic situation in Iran and the killing of many inn",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/a9bdfb5d3ef510dc02d69030.json"
-    },
-    {
-      "id": "44a9660004e9e3db9f7a2b6f",
-      "title": "Japan to revise national security policy, weaken postwar non-nuclear commitments",
-      "url": "https://breakthroughnews.org/2026/11/25/japan-to-revise-national-security-policy-weaken-postwar-non-nuclear-commitments",
-      "author": "Abdul Rahman",
-      "source": "BT News",
-      "published_at": "2026-11-25T05:59:47+00:00",
-      "content_excerpt": "Japan’s ruling Liberal Democratic Party (LDP) claimed on Monday, November 23, that it will revise the country’s three security documents by the end of the year and possibly acquire nuclear-power submarines soon. Civil society groups on China and Japan have been opposing the decision, calling it a move towards remilitarization. They also claim such a move would be disastrous for regional peace and security and for the post-war regional order. Keitaro Ohno, a leader of the LDP and a member of Japanese parliament reportedly reiterated that Japan has rejected the proposal to get a nuclear-powered submarine in the wake of strong popular opposition and objections raised by China. He also claimed there is a consensus within the ruling coalition on the matter. The conservative LDP, along with the ",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/44a9660004e9e3db9f7a2b6f.json"
-    },
-    {
-      "id": "daf64c6af5c8e518d75ba46f",
-      "title": "Iowa lead bomb: Abby Martin says the real threat is ‘your army’",
-      "url": "https://breakthroughnews.org/2026/11/24/iowa-lead-bomb-abby-martin-says-the-real-threat-is-your-army",
-      "author": "Zoe Alexandra",
-      "source": "BT News",
-      "published_at": "2026-11-24T23:11:32+00:00",
-      "content_excerpt": "The Pentagon is set to explode five tons of lead azide next to a small town in Iowa on Wednesday. Abby Martin says that’s the real threat to the homeland: “It’s not Iran dropping a dirty bomb on us. It’s your army.” Middletown and communities across the interstate fallout radius are bracing for the toxic contamination of homes, the country’s corn supply, and the Mississippi River, after Trump passed the buck to Iowa’s incoming Democratic governor Rob Sand and a federal appeals court greenlit the blast. Martin, the Empire Files journalist and director of Earth’s Greatest Enemy, joins Rania Khalek and Zoe Alexandra to expose the US military’s devastating environmental footprint, from toxic waste and PFAS contamination at bases across the country to the pollution and destruction left behind b",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/daf64c6af5c8e518d75ba46f.json"
-    },
-    {
-      "id": "6bed52ae9210027682c4c5b6",
-      "title": "Gaza declares epidemic alert after meningitis claimed 15 lives",
-      "url": "https://breakthroughnews.org/2026/11/24/gaza-declares-epidemic-alert-after-meningitis-claimed-15-lives",
-      "author": "Aseel Saleh",
-      "source": "BT News",
-      "published_at": "2026-11-24T22:11:31+00:00",
-      "content_excerpt": "On Tuesday, November 24, the Ministry of Health in the Gaza Strip declared an “epidemic alert” across all governorates, after 1,790 meningitis cases were recorded, adding that at least 15 people had died from the infectious disease. The ministry warned of an increase in fatalities due to meningitis, particularly among children. It attributed the surge in cases to the repercussions of Israel’s genocidal aggression against Gaza and its continued ban on the entry of medicine and other essential supplies into the war-ravaged territory. Read more: The daily reality of Israel’s mass extermination of life in Gaza The director general of the Gaza Health Ministry, Dr. Munir al-Bursh, told Al Jazeera that Israel’s genocidal aggression on the besieged Strip has poisoned the environment, citing a rece",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/6bed52ae9210027682c4c5b6.json"
-    },
-    {
-      "id": "32cb74e3fb6990067b079547",
-      "title": "La cumbre nuclear de Shenzhen",
-      "url": "https://breakthroughnews.org/2026/11/24/la-cumbre-nuclear-de-shenzhen",
-      "author": "Vijay Prashad",
-      "source": "BT News",
-      "published_at": "2026-11-24T22:11:31+00:00",
-      "content_excerpt": "Read in English here El 19 de noviembre, el presidente Xi Jinping de China organizó una reunión con el presidente Vladimir Putin de Rusia y el presidente Donald Trump de los Estados Unidos. Se reunieron en Shenzhen al margen del foro de Cooperación Económica Asia-Pacífico (APEC). La declaración final que emitieron contenía una frase muy contundente: “Una guerra nuclear no se puede ganar y nunca debe librarse”. Esta frase provino de tres de los países con armas nucleares más importantes del mundo, de los cuales solo uno – los Estados Unidos – había utilizado una bomba nuclear contra civiles (en Hiroshima y Nagasaki en 1945). Los demás países con armas nucleares (Francia, India, Israel, Corea del Norte, Pakistán y el Reino Unido) no cuentan con arsenales de la misma magnitud que los de los t",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/32cb74e3fb6990067b079547.json"
-    },
-    {
-      "id": "2e9249a143bd03a7f8598b06",
-      "title": "Israeli forces raid Al-Ama’ri Refugee Camp, detain dozens of Palestinians",
-      "url": "https://breakthroughnews.org/2026/11/24/israeli-forces-raid-al-amari-refugee-camp-detain-dozens-of-palestinians",
-      "author": "Aseel Saleh",
-      "source": "BT News",
-      "published_at": "2026-11-24T21:07:09+00:00",
-      "content_excerpt": "On Monday, November 23, the Israeli military stormed Al-Ama’ri refugee camp in Al-Bireh city in the central occupied West Bank. During the hours-long raid, Israeli forces converted the Al-Ama’ri Youth Center, alongside several residential homes, into temporary detention and field interrogation sites. They also damaged the facilities of the center. 30 Palestinians were briefly detained and interrogated after their homes were raided, but were released before the military left the camp. However, one Palestinian young man was arrested in the assault, during which stun grenades and tear gas were fired. Since January 2025, the Israeli military has intensified its campaigns against refugee camps across the West Bank, considering them bases for resistance groups in the occupied territory. These ca",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/2e9249a143bd03a7f8598b06.json"
     }
   ]
 }
