@@ -1,161 +1,86 @@
 {
-  "generated_at": "2026-11-27T02:21:18.110307+00:00",
-  "generated_at_jst": "2026-11-27T11:21:18.110307+09:00",
-  "period_start": "2026-11-25T20:21:18.110307+00:00",
+  "generated_at": "2026-11-28T02:05:56.102724+00:00",
+  "generated_at_jst": "2026-11-28T11:05:56.102724+09:00",
+  "period_start": "2026-11-26T20:05:56.102724+00:00",
   "lookback_hours": 30,
   "folder": "06_左派ニュース・社会主義戦略",
-  "article_count": 10,
+  "article_count": 5,
   "excerpt_chars": 800,
   "articles": [
     {
-      "id": "7f588f0e05316ebf6864effc",
-      "title": "Congenital birth defects are on the rise in Gaza. Doctors say Israel’s genocide is to blame.",
-      "url": "https://mondoweiss.net/2026/11/congenital-birth-defects-are-on-the-rise-in-gaza-doctors-say-israels-genocide-is-to-blame",
-      "author": "Tareq S. Hajjaj",
-      "source": "Mondoweiss",
-      "published_at": "2026-11-26T16:17:10+00:00",
-      "content_excerpt": "Doctors in Gaza warn that exposure to bombs and toxic substances dropped by Israel on the strip is putting pregnant mothers and newborn infants at risk.",
+      "id": "6090b462ee9097741ecdddcd",
+      "title": "“Toughen Up, Trump!” Democrats Betray Their Anti-War Mandate",
+      "url": "https://breakthroughnews.org/2026/11/28/toughen-up-trump-democrats-betray-their-anti-war-mandate",
+      "author": "Brian Becker",
+      "source": "BT News",
+      "published_at": "2026-11-28T02:00:31+00:00",
+      "content_excerpt": "This content is for members only. Visit the site and log in/register to read.",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/7f588f0e05316ebf6864effc.json"
+      "article_path": "articles/6090b462ee9097741ecdddcd.json"
     },
     {
-      "id": "f71ac67c43ea35518e603b82",
-      "title": "Leonard Peltier on Indigenous Rights, His Half-Century in Prison & More",
-      "url": "https://www.democracynow.org/2026/11/26/leonard_peltier_speaks_out_after_release",
+      "id": "cc0b97d4f3202063ee65bdbb",
+      "title": "U.S. Hegemony: Continuing Decline, Enduring Danger",
+      "url": "https://mronline.org/2026/11/27/u-s-hegemony-continuing-decline-enduring-danger",
+      "author": "Richard B. Du Boff",
+      "source": "MR Online",
+      "published_at": "2026-11-28T01:12:58+00:00",
+      "content_excerpt": "The United States can no longer control a multipolar world through unilateral action, military or otherwise; it can only bring devastation and disruption. The post U.S. Hegemony: Continuing Decline, Enduring Danger appeared first on MR Online .",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/cc0b97d4f3202063ee65bdbb.json"
+    },
+    {
+      "id": "934b7a9b721c349c3bbe607a",
+      "title": "US suspends military cooperation with Ecuador amid human rights violations probe",
+      "url": "https://breakthroughnews.org/2026/11/27/us-suspends-military-cooperation-with-ecuador-amid-human-rights-violations-probe",
+      "author": "BreakThrough News",
+      "source": "BT News",
+      "published_at": "2026-11-27T22:05:32+00:00",
+      "content_excerpt": "The US government announced a move that has surprised many in Ecuador. For several weeks, Washington and Quito have been touting, through press releases, various military and intelligence operations against organized crime in Ecuador. According to several media outlets , including The Atlantic and The New York Times , the US has decided to suspend these joint operations until it clarifies incidents in which abuses and killings may have been committed against suspects in custody of Ecuadorian forces on September 23 . According to US media reports , Washington wants to determine whether Carlos Muñoz, alias “Charlie” – one of the leaders of Los Choneros, one of Ecuador’s most prominent criminal gangs – along with other suspects, was killed while in custody. On September 23, Ecuador’s Minister",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/934b7a9b721c349c3bbe607a.json"
+    },
+    {
+      "id": "9bb18641c8f6d31b52dee854",
+      "title": "In this West Bank village, the road to school runs through Israeli tear gas",
+      "url": "https://mondoweiss.net/2026/11/in-this-west-bank-village-the-road-to-school-runs-through-israeli-tear-gas",
+      "author": "Monjed Jadou",
+      "source": "Mondoweiss",
+      "published_at": "2026-11-27T14:33:24+00:00",
+      "content_excerpt": "Settler attacks, army raids, and a checkpoint at the village entrance are cutting deep into the school day at al-Mughayyir Boys’ School in the Ramallah area of the occupied West Bank.",
+      "source_folders": [
+        "06_左派ニュース・社会主義戦略"
+      ],
+      "priority": 2,
+      "date_missing": false,
+      "article_path": "articles/9bb18641c8f6d31b52dee854.json"
+    },
+    {
+      "id": "ce08c8876f1e42d65941e060",
+      "title": "A Tribute to Blacklisted Lyricist Yip Harburg: The Man Who Put the Rainbow in The Wizard of Oz",
+      "url": "https://www.democracynow.org/2026/11/27/a_tribute_to_blacklisted_lyricist_yip",
       "author": "",
       "source": "Democracy Now! | Democracy Now!",
-      "published_at": "2026-11-26T13:30:33+00:00",
-      "content_excerpt": "This is a rush transcript. Copy may not be in its final form. AMY GOODMAN : In this special broadcast, we spend the hour with longtime Indigenous activist Leonard Peltier. Last February, he was released from a federal prison in Florida after spending nearly half a century behind bars for a crime he says he did not commit. President Biden, on his last day in office, commuted Peltier’s life sentence to home confinement. Biden’s decision followed mounting calls by tribal leaders and supporters around the world in a decadeslong, community-led campaign fighting for his freedom. In the 1970s, Peltier was involved with the American Indian Movement, known as AIM . In 1975, two FBI agents and one young AIM activist were killed in a shootout on the Pine Ridge Reservation in South Dakota. Two AIM mem",
+      "published_at": "2026-11-27T13:22:46+00:00",
+      "content_excerpt": "This is a rush transcript. Copy may not be in its final form. AMY GOODMAN : Today, we pay tribute to Yip Harburg. His name may not be familiar to many, but his songs are sung by millions around the world, like jazz singer Abbey Lincoln. ABBEY LINCOLN : Bing Crosby sang it, Ike Quebec played it, and Yip Harburg wrote it. [singing] Once I built a railroad, made it run Made it race against time Once I built a rairoad, now it’s done Brother, can you spare a dime? AMY GOODMAN : And Tom Waits. TOM WAITS : [singing] Once I built a tower way up to the sun With bricks and mortar and lime. AMY GOODMAN : Judy Collins, and Dr. John from New Orleans, Peter Yarrow. AL JOLSON : [singing] Say, don’t you remember, Don’t you remember they called me Al It was Al, Al all the time. AMY GOODMAN : That’s Al Jols",
       "source_folders": [
         "06_左派ニュース・社会主義戦略"
       ],
       "priority": 2,
       "date_missing": false,
-      "article_path": "articles/f71ac67c43ea35518e603b82.json"
-    },
-    {
-      "id": "4ee3c75f700f3e7081baa300",
-      "title": "Behind Pete Hegseth’s visit to Venezuela",
-      "url": "https://mronline.org/2026/11/26/behind-pete-hegseths-visit-to-venezuela",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-11-26T13:09:40+00:00",
-      "content_excerpt": "egseth’s visit was surprising, despite the wave of rumors beforehand about his arrival in Venezuela ahead of his tour of Colombia. The post Behind Pete Hegseth’s visit to Venezuela appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/4ee3c75f700f3e7081baa300.json"
-    },
-    {
-      "id": "d88166ec1d52cf254b4d7d2f",
-      "title": "News from Nowhere: Donald Duck",
-      "url": "https://mronline.org/2026/11/26/news-from-nowhere-donald-duck",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-11-26T12:03:22+00:00",
-      "content_excerpt": "Trump, weakened by the midterm defeat and a Vance rebuke over the Iran war, is a lame duck at home but still dangerous abroad. The post News from Nowhere: Donald Duck appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/d88166ec1d52cf254b4d7d2f.json"
-    },
-    {
-      "id": "859361afe732f8c2b7552df9",
-      "title": "Co-opted transitions",
-      "url": "https://mronline.org/2026/11/26/co-opted-transitions",
-      "author": "Editor",
-      "source": "MR Online",
-      "published_at": "2026-11-26T11:07:07+00:00",
-      "content_excerpt": "Locking in our energy systems. The post Co-opted transitions appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/859361afe732f8c2b7552df9.json"
-    },
-    {
-      "id": "4c43211b0e42116bbad04eeb",
-      "title": "Rise in disguised unemployment",
-      "url": "https://mronline.org/2026/11/26/rise-in-disguised-unemployment",
-      "author": "Prabhat Patnaik",
-      "source": "MR Online",
-      "published_at": "2026-11-26T10:09:53+00:00",
-      "content_excerpt": "It is an elementary proposition in development economics that unemployment in countries like India exists largely in the form of disguised rather than open unemployment. The post Rise in disguised unemployment appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/4c43211b0e42116bbad04eeb.json"
-    },
-    {
-      "id": "8d5881eb82d48d3571d709ae",
-      "title": "A US court finds Huawei guilty of violating Iran sanctions and IP ‘theft’",
-      "url": "https://breakthroughnews.org/2026/11/26/a-us-court-finds-huawei-guilty-of-violating-iran-sanctions-and-ip-theft",
-      "author": "Abdul Rahman",
-      "source": "BT News",
-      "published_at": "2026-11-26T06:18:25+00:00",
-      "content_excerpt": "A federal court in New York found Chinese technology and telecommunication giant Huawei and three of its subsidiaries guilty of conspiracy to steal trade secrets and commit bank fraud on Tuesday, November 24, while rejecting the more serious charges of “overarching racketeering” against it. The charge of “overarching racketeering,” was related to US allegations that Huawei was involved in secret operations to steal intellectual property or technological know-how from American companies. The trial in the case lasted for over two months with the jury finding Huawei guilty on 10 out of 12 charges. The sentencing is scheduled for September next year. The case against Huawei was filed by the US Department of Justice in January 2019. The trial began earlier this year after a years-long investiga",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/8d5881eb82d48d3571d709ae.json"
-    },
-    {
-      "id": "6a8b1134eaa31533f6a6d1c4",
-      "title": "Rwanda deportation plan revived by five EU states after UK failure",
-      "url": "https://breakthroughnews.org/2026/11/26/rwanda-deportation-plan-revived-by-five-eu-states-after-uk-failure",
-      "author": "Nicholas Mwangi",
-      "source": "BT News",
-      "published_at": "2026-11-26T06:18:25+00:00",
-      "content_excerpt": "Five European Union states have announced plans to deport rejected asylum seekers to Rwanda from 2027, reviving a policy the United Kingdom spent two years and hundreds of millions of pounds on before scrapping it. Austria, Denmark, Germany, Greece, and the Netherlands unveiled the scheme alongside Rwandan Interior Minister Vincent Biruta at the Vienna Migration Conference on November 16. In a joint statement , the governments said they are “jointly exploring” a return hub in Rwanda and aim to conclude an agreement and carry out the first transfers in 2027. As of now there is little information on the cost implications and the actual plan. The same day, the International Organization for Migration (IOM) said it had received a request from Rwanda for operational support in connection with t",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/6a8b1134eaa31533f6a6d1c4.json"
-    },
-    {
-      "id": "75af40ffa886130d25cf3113",
-      "title": "Israel’s targeted assassinations continue across Gaza despite the US-backed ceasefire",
-      "url": "https://breakthroughnews.org/2026/11/26/israels-targeted-assassinations-continue-across-gaza-despite-the-us-backed-ceasefire",
-      "author": "Aseel Saleh",
-      "source": "BT News",
-      "published_at": "2026-11-26T06:18:25+00:00",
-      "content_excerpt": "Israel escalated its aggression across the Gaza Strip during the last few days, carrying out targeted assassinations of senior Hamas officials and a United Nations employee. On Monday, November 23, an employee of the United Nations Relief and Works Agency for Palestine Refugees (UNRWA) was killed in an Israeli drone strike while on duty in the Jabalia Refugee Camp in the northern Gaza Strip. On the same day, an Israeli warplane struck a civilian vehicle near Ansar Roundabout, west of Gaza City, killing three people and injuring several others. On the following day, Israel killed the head of the internal security service in the northern Gaza Strip, Mohammad Abu al-Ouf (48), alongside his wife, Noura Abu al-Ouf (42) , and two daughters, Yusra (15) and Jana (13) , in an airstrike on an apartm",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/75af40ffa886130d25cf3113.json"
-    },
-    {
-      "id": "7015f0aac8f0a82e1dae4b9c",
-      "title": "Will the Wretched of the Earth Win the Struggle for Self-Determination in Nairobi?",
-      "url": "https://mronline.org/2026/11/25/will-the-wretched-of-the-earth-win-the-struggle-for-self-determination-in-nairobi",
-      "author": "Henry Makori",
-      "source": "MR Online",
-      "published_at": "2026-11-25T22:01:50+00:00",
-      "content_excerpt": "Whether slum self-organizing will grow into a revolutionary force remains to be seen. The post Will the Wretched of the Earth Win the Struggle for Self-Determination in Nairobi? appeared first on MR Online .",
-      "source_folders": [
-        "06_左派ニュース・社会主義戦略"
-      ],
-      "priority": 2,
-      "date_missing": false,
-      "article_path": "articles/7015f0aac8f0a82e1dae4b9c.json"
+      "article_path": "articles/ce08c8876f1e42d65941e060.json"
     }
   ]
 }

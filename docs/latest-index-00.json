@@ -1,12 +1,297 @@
 {
-  "generated_at": "2026-11-27T02:21:18.110307+00:00",
-  "generated_at_jst": "2026-11-27T11:21:18.110307+09:00",
-  "period_start": "2026-11-25T20:21:18.110307+00:00",
+  "generated_at": "2026-11-28T02:05:56.102724+00:00",
+  "generated_at_jst": "2026-11-28T11:05:56.102724+09:00",
+  "period_start": "2026-11-26T20:05:56.102724+00:00",
   "lookback_hours": 30,
   "folder": "00_毎日確認",
   "article_count": 20,
   "excerpt_chars": 800,
   "articles": [
+    {
+      "id": "da4ffb8c0f7ee59eb0100077",
+      "title": "Arun Mitra: Poet with a Daily Birthday",
+      "url": "https://newpol.org/arun-mitra-poet-with-a-daily-birthday",
+      "author": "Ranahdir Mitra",
+      "source": "New Politics",
+      "published_at": "2026-11-28T01:13:24+00:00",
+      "content_excerpt": "About his own birthday he wrote that everyday was his birthday, everyday he was born and reborn into a world that quenched his thirst, consoled him, inspired him. The post Arun Mitra: Poet with a Daily Birthday appeared first on New Politics .",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/da4ffb8c0f7ee59eb0100077.json"
+    },
+    {
+      "id": "7f63b3dec3ec8ec7541442df",
+      "title": "In Europe, Too, Amazon’s Warehouses Are a Dystopia",
+      "url": "https://jacobin.com/2026/11/amazon-warehouses-europe-worker-surveillance",
+      "author": "Li Andersson",
+      "source": "Jacobin",
+      "published_at": "2026-11-27T23:08:08+00:00",
+      "content_excerpt": "When you see it, it’s hard to believe that nobody, at any point from planning to installation, raised a hand to say how tone-deaf it was. But there it is, emblazoned in bright colors above the gates where workers enter an Amazon warehouse in Germany: “Work hard. Have fun. Make history.” The corporate Americana and hyperoptimistic bravado are enough to make us wince. In Germany, of all places, words about work above an iron gate also bring to mind a much darker time and another slogan about work and freedom. It’s a terrible look. That gate was our introduction to a fact-finding mission to Amazon warehouses in Germany and Poland. On October 26 and 27, we joined a delegation from the European Parliament’s Committee on Employment and Social Affairs at the company’s sites in Mönchengladbach, Do",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/7f63b3dec3ec8ec7541442df.json"
+    },
+    {
+      "id": "0bd4adf021f18b84f1111831",
+      "title": "The Glovebox Checklist",
+      "url": "https://www.laprogressive.com/sponsored/the-glovebox-checklist",
+      "author": "Britta Hedlund",
+      "source": "LA Progressive",
+      "published_at": "2026-11-27T23:01:49+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Most drivers keep registration papers and a few random receipts in the glovebox, but little for the minutes after a collision. Your phone battery might be low, the other driver may be upset, and important details can be easy to forget when you’re shaken. A small, organized kit can help you contact people, document the scene, and keep essential information together. It won’t prevent a crash, but it can make the aftermath easier to manage. Quick Overview: Keep insurance documents, emergency contacts, a charged phone, basic safety supplies, and an evidence checklist in your car. After a collision, prioritize safety, seek medical care when needed, and record important details p",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/0bd4adf021f18b84f1111831.json"
+    },
+    {
+      "id": "5fedb5a58f10cfd618b2f857",
+      "title": "Chuck Schumer’s Former Aides Now Lobby for Corporate America",
+      "url": "https://jacobin.com/2026/11/chuck-schumer-staffers-lobbying-revolving-door",
+      "author": "Branko Marcetic",
+      "source": "Jacobin",
+      "published_at": "2026-11-27T22:47:40+00:00",
+      "content_excerpt": "One of the quirks of Sen. Chuck Schumer’s (D-NY) bid to lead the incoming Democratic Senate majority is that delivering the change voters demanded in November would mean facing off against a small army of his own former staff. Over his many years in Congress, Schumer has seen countless staffers cycle into his office and out into lobbying work for a broad swath of corporate interests: banks, credit card companies, health insurers, drugmakers, cryptocurrency firms, and the AI industry. His former top health advisor lobbies for the American Medical Association, a longtime opponent of single-payer health care. His ex-chief counsel now leads a top lobbying firm’s AI practice as lawmakers weigh how to regulate the industry. Two former financial advisors now lobby for a crypto industry eager to w",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/5fedb5a58f10cfd618b2f857.json"
+    },
+    {
+      "id": "87d9cff69451f7ecc45d0f7b",
+      "title": "Indonesia Luxury Travel",
+      "url": "https://www.laprogressive.com/sponsored/indonesia-luxury-travel",
+      "author": "Tiqua Jackson",
+      "source": "LA Progressive",
+      "published_at": "2026-11-27T22:36:21+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Once a year, the whole island of Bali goes silent for a day. Nyepi, the Balinese Hindu New Year, shuts the island down completely, airport included, and no hotel concierge can talk anyone onto a plane. A traveller who has paid for a cliff-top villa and a private driver can land on the wrong date and spend the night in a transit lounge somewhere else in Asia. Nyepi is the most dramatic of the planning errors that spoil expensive Indonesian trips, though quieter ones sit alongside it. Almost all can be avoided with a few decisions made early. How far apart are the islands? Few countries are as scattered. Some 6,000 inhabited islands sit among more than 17,000 in total, ringed",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/87d9cff69451f7ecc45d0f7b.json"
+    },
+    {
+      "id": "ca81f69f5c506efd9a33f971",
+      "title": "Top 5 Health Insurance Plans",
+      "url": "https://www.laprogressive.com/sponsored/top-5-health-insurance-plans",
+      "author": "Sejal Desai",
+      "source": "LA Progressive",
+      "published_at": "2026-11-27T22:26:46+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Medical costs can arise unexpectedly, making adequate health coverage essential for managing expenses during hospitalisation, treatment or serious illnesses. However, with several coverage options and policy features available, selecting a suitable plan can be confusing. Understanding the key factors to compare can help families choose coverage that matches their healthcare needs and budget. Keep reading to understand the top 5 health insurance plans for families and the key factors you should check before selecting one. What Are the Top 5 Health Insurance Plans for Families? Different families have different healthcare requirements. A young family may benefit from a family",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/ca81f69f5c506efd9a33f971.json"
+    },
+    {
+      "id": "65c88b9848135d7c6d350c7c",
+      "title": "Slow Vendor Setup",
+      "url": "https://www.laprogressive.com/sponsored/slow-vendor-setup",
+      "author": "Britta Hedlund",
+      "source": "LA Progressive",
+      "published_at": "2026-11-27T20:09:12+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. When a small business wins a contract with a large organization, it often feels like the hard part is over. The proposal was accepted, the price agreed and the work scheduled. Then comes a stage few owners plan for: getting set up as an approved vendor so they can actually be paid. For many small suppliers, that step brings weeks of forms, emails and follow-ups before a first invoice can be processed. For a company with a big cash cushion, the delay is a nuisance. For a small business with payroll due every two weeks, it can be a real strain. How large organizations handle supplier setup has a quiet but direct effect on the smaller firms, and the workers, that depend on the",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/65c88b9848135d7c6d350c7c.json"
+    },
+    {
+      "id": "af0e8d63fe80db67f949a0c5",
+      "title": "Professional Book Publishing",
+      "url": "https://www.laprogressive.com/sponsored/professional-book-publishing",
+      "author": "Tiqua Jackson",
+      "source": "LA Progressive",
+      "published_at": "2026-11-27T19:37:10+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Finishing a manuscript is an important milestone, but getting a book into readers’ hands requires more than writing. Editing, cover design, formatting, distribution, and promotion all influence how a book is presented and discovered. Choosing the right publishing support can help authors make informed decisions and avoid common challenges during publication. For many independent writers, publishing also creates opportunities to share personal experiences, cultural perspectives, and stories that might not find space through traditional publishing channels. However, limited budgets, technical requirements, and unfamiliar publishing procedures can make the process difficult, p",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/af0e8d63fe80db67f949a0c5.json"
+    },
+    {
+      "id": "4b0518570dc0cf8eb21645e9",
+      "title": "Top 3 Superclone Watch Websites",
+      "url": "https://www.laprogressive.com/sponsored/top-3-superclone-watch-websites",
+      "author": "Sejal Desai",
+      "source": "LA Progressive",
+      "published_at": "2026-11-27T19:27:51+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. The world of high-horology superclone watches has reached a remarkable level of precision and craftsmanship. Today’s flagship 1:1 timepieces are engineered using aerospace-grade 904L stainless steel, scratch-resistant synthetic sapphire crystals with anti-reflective coatings, kilnfired ceramic bezels, and reverse-engineered automatic clone calibers that replicate the smooth sweep, power reserve, and internal architecture of classic Swiss watchmaking. When you choose a dedicated, transparent platform, buying a superclone becomes an exciting and rewarding experience—giving enthusiasts the opportunity to enjoy iconic designs, substantial wrist presence, and reliable mechanical",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/4b0518570dc0cf8eb21645e9.json"
+    },
+    {
+      "id": "b8da1490fd39ebf4892ba73c",
+      "title": "Beyond Traditional Blooms",
+      "url": "https://www.laprogressive.com/sponsored/beyond-traditional-blooms",
+      "author": "Britta Hedlund",
+      "source": "LA Progressive",
+      "published_at": "2026-11-27T19:26:31+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Flowers have always been a popular way to express emotions, decorate spaces, and celebrate important moments. While red, pink, and white roses remain familiar favorites, some people prefer arrangements that feel a little less traditional. Black roses are a perfect example. Their deep, dramatic color creates a distinctive look that combines elegance, mystery, and modern style. These unusual flowers have become increasingly popular in contemporary floral design because they offer something different from conventional bouquets. They can complement minimalist interiors, add character to special occasions, and make thoughtful gifts for people who appreciate unique details. Black",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/b8da1490fd39ebf4892ba73c.json"
+    },
+    {
+      "id": "bfc8ff730eb31351a0a3f80f",
+      "title": "Electoral College’s Days May Be Numbered",
+      "url": "https://www.laprogressive.com/election-and-campaigns/electoral-colleges-days-may-be-numbered",
+      "author": "Karen Dolan",
+      "source": "LA Progressive",
+      "published_at": "2026-11-27T17:41:30+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Democracy can be messy, but one thing should be simple: If you win the most votes, you should win the election. Unfortunately, when it comes to the highest office in the United States, that’s not always the case. But after the latest election results, we may be closer than ever to fixing this egregious flaw in our democracy. To elect presidents, we rely on the Electoral College . Rather than a national popular vote, the Electoral College decides the presidential election by counting “electoral votes” allocated to states. This undemocratic process resulted from compromises with slave-holding states seeking more political power. In 1787, when delegates convened in Philadelphi",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/bfc8ff730eb31351a0a3f80f.json"
+    },
+    {
+      "id": "bb15f1f06dbab0c4a0e97c28",
+      "title": "BAP Condemns Alexander Reid Ross and New Lines Magazine for Their Attack on Sahel Solidarity — The Black Alliance for Peace",
+      "url": "https://blackallianceforpeace.com/bapstatements/attack-on-sahel-solidarity",
+      "author": "",
+      "source": "The Black Alliance for Peace",
+      "published_at": "2026-11-27T17:12:58+00:00",
+      "content_excerpt": "Ross’s article exposes the bankruptcy of a Eurocentric worldview that treats African resistance to Western domination as evidence of foreign manipulation. He directs his suspicion at Africans challenging Western domination and at the people who organize in solidarity with them. That is political cover for imperialism abroad and ideological ammunition for a U.S. ruling class advancing a fascist agenda domestically. His guilt-by-association tactics fit neatly into the campaign to cast anti-war and anti-imperialist organizing as a threat. Further, in the article, he uses the speculations of unnamed attendees of a public event, spurious claims of financial associations, and conspiratorial language around organizational collaborations to cast doubt about the aims of the various groups who are i",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/bb15f1f06dbab0c4a0e97c28.json"
+    },
+    {
+      "id": "6dd4907194e969aaf9c201f7",
+      "title": "Making a Killing",
+      "url": "https://www.laprogressive.com/the-environment/making-a-killing",
+      "author": "Pat Hynes",
+      "source": "LA Progressive",
+      "published_at": "2026-11-27T17:11:35+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Antonio Guterres, in his last attendance as secretary-general of the UN, told the UN Conference on Climate Change (COP31) gathered in Antalya, Turkey in November that he “ will not stop telling the truth ” about how the fossil fuel industry and wealthy governments are handing out oil and gas subsidies, all to enjoy massive profits, while people globally suffer from the climate emergency. They make a killing while killing the planet, he said…assuring “mutually assured destruction.” Oil and gas and coal need a catastrophe like the dinosaurs, rendering them extinct. The illegal war in Iran, launched by the U.S. and Israel, has brought in billions of windfall profits to oil and",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/6dd4907194e969aaf9c201f7.json"
+    },
+    {
+      "id": "e4b12ba2f98def6f9db27656",
+      "title": "Jensen Huang’s Infidelities Affect New York’s Economy, Says Mamdani",
+      "url": "https://democraticleft.dsausa.org/2026/11/27/jensen-huangs-infidelities-affect-new-yorks-economy-says-mamdani",
+      "author": "tfrasca@yahoo.com",
+      "source": "Democratic Left",
+      "published_at": "2026-11-27T17:10:39+00:00",
+      "content_excerpt": "New York’s mayor ties pensions to Jensen Huang headlines; a conservative group says the GOP never delivered on affordability; and what’s next for DSA in this edition of “Red All Over,” Democratic Left’s weekly news roundup. The post Jensen Huang’s Infidelities Affect New York’s Economy, Says Mamdani appeared first on Democratic Left .",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/e4b12ba2f98def6f9db27656.json"
+    },
+    {
+      "id": "074e4d745a0f800850767ef2",
+      "title": "America Never Learns From Its Wars",
+      "url": "https://www.laprogressive.com/war-and-peace/america-never-learns-from-its-wars",
+      "author": "Tom Engelhardt",
+      "source": "LA Progressive",
+      "published_at": "2026-11-27T16:46:45+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Yes, I’ve been writing about this world o—are I still say ours?—for more than a quarter of a century, 25 years at TomDispatch and now at this Substack of mine. Still, I can’t faintly claim that it’s any better than when I started. Not a chance in hell (to use an all too appropriate word) of that, not with Donald Trump, Vladimir Putin, and Benjamin Netanyahu, to start down a grim list of leaders, still going strong. I’d like to think that I made some small difference, but when it comes to one person writing (and writing and writing) in a barely noticed corner of this strange, embattled world of ours... well, I fear that’s not faintly the case. Still, at 82 years old, having ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/074e4d745a0f800850767ef2.json"
+    },
+    {
+      "id": "38c0244f772a23c86b35e2bd",
+      "title": "The Left Needs a 21st-Century Popular Front Strategy",
+      "url": "https://jacobin.com/2026/11/popular-front-coalition-socialists-communists-liberals",
+      "author": "Sam Lewis",
+      "source": "Jacobin",
+      "published_at": "2026-11-27T14:35:16+00:00",
+      "content_excerpt": "In 2024, the most prominent democratic socialist in the United States, Rep. Alexandria Ocasio-Cortez, took the stage at the Democratic National Convention (DNC) in support of Kamala Harris’s candidacy. As opposition to the Israeli genocide in Gaza reached a fever pitch within the Democratic Party, “ Uncommitted ” protest delegates organized on the convention floor, and protesters gathered outside the Chicago convention center, the congresswoman made the claim that Vice President Harris was “working tirelessly to secure a ceasefire.” Many of her supporters felt betrayed by this statement, which seemed to whitewash the role the Biden administration had played in funding and supporting the Israeli genocide in Gaza. The sharpest criticisms of the congresswoman, though, came from leftists who v",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/38c0244f772a23c86b35e2bd.json"
+    },
+    {
+      "id": "235421b920179b10f4295062",
+      "title": "In Spain, the Indignados’ Parties Are Dwindling Fast",
+      "url": "https://jacobin.com/2026/11/spain-sanchez-housing-protests-left",
+      "author": "Carlos Delclós",
+      "source": "Jacobin",
+      "published_at": "2026-11-27T14:35:16+00:00",
+      "content_excerpt": "On September 23, Maricarmen Abascal was carried on a stretcher out of her apartment in the Retiro district of Madrid, where she’d been living since 1956. She was eighty-seven, disabled, and had limited mobility. Neighbors and members of the Madrid Tenants’ Union had formed a human chain to stop the eviction. This time, the police broke through it. As she was carried out, the crowd shouted that she was not alone. Two weeks later, she died in a hospital, before she could return to her home, under an agreement with her corporate landlords that arrived far too late. Her case set off a massive wave of mobilization led by a confederation of tenants’ unions. On September 26, marches under the slogan “Not One More Maricarmen” filled the streets of some forty towns and cities. In Madrid, protesters",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/235421b920179b10f4295062.json"
+    },
+    {
+      "id": "d793377843064bde122577ec",
+      "title": "Van Hollen as Majority Leader",
+      "url": "https://www.laprogressive.com/progressive-issues/van-hollevan-hollen-as-majority-leadern-as-majority-leader",
+      "author": "Richard W. Behan",
+      "source": "LA Progressive",
+      "published_at": "2026-11-27T07:55:26+00:00",
+      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Big shoutout for the blue tsunami. Sooner than we dared dream MAGA is dangling from the ropes. When the Democratic Congress convenes next January we can reasonably expect reversals of Trump’s most heinous policies: the Iran war, the tariffs, the drastic cuts in healthcare and nutrition benefits. Jeffries in the House, and both Schumer and Van Hollen in the Senate seem willing and able to advance this agenda; all three have verbalized most of it. Reclaiming a pre-Trump status quo seems a Congressional shoo-in, and if Trump vetos the reform measures he’ll be orchestrating a total collapse of the Republican Party in 2028. MAGA will be a memory, but MAGA is not our most urgent ",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/d793377843064bde122577ec.json"
+    },
+    {
+      "id": "67040a62f6bf6948460dbad0",
+      "title": "The Jungle (1906)",
+      "url": "https://rocdsa.org/blog/the-jungle-1906",
+      "author": "Rochester Red Star: News from Rochester DSA",
+      "source": "DSA Feed - Global",
+      "published_at": "2026-11-27T03:05:00+00:00",
+      "content_excerpt": "by Upton Sinclair Upton Sinclair (1878 – 1968) was a socialist journalist and author, and unsuccessful Democratic candidate for governor of California in 1934 on the “End Poverty in California (EPIC) Platform.” The Jungle is best known for its unappetizing descriptions of the meat industry. As Sinclair lamented, “I aimed at the public’s heart, and by accident I hit it in the stomach.” But Sinclair’s work carries more explicitly anti-capitalist themes than commonly discussed. In the following excerpt, Lithuanian immigrant Jurgis reflects on his introduction to socialism by Polish immigrant Ostrinski, comparing the treatment of workers with that of hogs led to slaughter. – GLH Until long after midnight Jurgis sat lost in the conversation of his new acquaintance. It was a most wonderful exper",
+      "source_folders": [
+        "00_毎日確認"
+      ],
+      "priority": 1,
+      "date_missing": false,
+      "article_path": "articles/67040a62f6bf6948460dbad0.json"
+    },
     {
       "id": "4efd35d5855b69ffa8869cfd",
       "title": "Progressives Must Rethink Race",
@@ -21,291 +306,6 @@
       "priority": 1,
       "date_missing": false,
       "article_path": "articles/4efd35d5855b69ffa8869cfd.json"
-    },
-    {
-      "id": "11914d7e3c8eb795b84eca36",
-      "title": "Failed Housing System",
-      "url": "https://www.laprogressive.com/housing-and-homlessness/failed-housing-system",
-      "author": "Dick Platkin",
-      "source": "LA Progressive",
-      "published_at": "2026-11-26T19:16:37+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Los Angeles has a new mayor, Nithya Raman, who will soon be sworn into her four year mayoral term. Can we assume things will then improve, especially regarding the homeless and overcrowded? In a word, NO. This is why. Nithya Raman presented a reduction in the number of homeless people as a success in her fourth Council District, but this statistic has two problems. First, the process which creates widespread and increasing homeless not only remains, but is increasing. Second, her actions did not include the overcrowded, who number over a million in the Los Angeles region. Together, the increasing homeless and overcrowded numbers reveal the inherent problems her and other el",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/11914d7e3c8eb795b84eca36.json"
-    },
-    {
-      "id": "f47f19dc6e627e2cee1a1617",
-      "title": "Thanksgiving Myth",
-      "url": "https://www.laprogressive.com/firstpeoples/thanksgiving-myth",
-      "author": "Jasmyne Cannick",
-      "source": "LA Progressive",
-      "published_at": "2026-11-26T18:51:38+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. I know it's unpopular to talk about certain things on Thanksgiving because apparently we're supposed to suspend our critical thinking for the day in the interest of everybody's comfort. But I'm Gen X, our motto continues to be fuck your feelings, and at my big age, other people's discomfort is not a sufficient reason for me to shut up. If what I'm about to say is going to interfere with your enjoyment of today's festivities, exercise your God-given ability to keep scrolling. I'm not serving dinner, and reading this ain't mandatory. That said… The thing about being a Gen X woman is that the older I get and the more I learn about this country, past and present, the more I fin",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/f47f19dc6e627e2cee1a1617.json"
-    },
-    {
-      "id": "d6018a1dbe744bc6b37a361a",
-      "title": "Illusion of Peace",
-      "url": "https://www.laprogressive.com/foreign-policy/illusion-of-peace",
-      "author": "Ramzy Baroud",
-      "source": "LA Progressive",
-      "published_at": "2026-11-26T18:26:30+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. An established maxim of Islamic jurisprudence, known in Arabic as ma buniya ‘ala batil fa-huwa batil , holds that “what is built upon falsehood is itself false.” A related jurisprudential principle maintains that “if the foundation is invalid, what follows from it is also invalid.” Few places in the world today illustrate the enduring relevance of this wisdom more starkly than Gaza. Consider the political framework imposed on Gaza in the name of peace. We continue to speak of a ceasefire, of US President Donald Trump’s Gaza plan, and of UN Security Council Resolution 2803, adopted on November 17, 2025, which endorsed the plan and lent international legitimacy to the politic",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/d6018a1dbe744bc6b37a361a.json"
-    },
-    {
-      "id": "0ab3de7d087c5c300a39b4cf",
-      "title": "Richard Wolff on Becoming an American Marxist",
-      "url": "https://www.laprogressive.com/economic-equality/richard-wolff-on-becoming-an-american-marxist",
-      "author": "Sharon Kyle, Dick Price",
-      "source": "LA Progressive",
-      "published_at": "2026-11-26T17:38:57+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. The best education Richard Wolff got at Harvard, he told us, began when a man knocked on his dorm-room door. Fritz Pappenheim, a scholar who had served the Spanish Republican government during the civil war, had fled to France after Franco’s victory. Wolff’s father, an old friend, helped him get papers to stay in Paris and later a visa to come to the United States. Years later, Pappenheim found a way to repay him. He offered to teach his son to read Marx in German. The arrangement was simple. Every couple of weeks, the Harvard freshman would come over for dinner and French wine. Pappenheim would find Marxist writings on whatever Wolff was studying, and the two would talk th",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/0ab3de7d087c5c300a39b4cf.json"
-    },
-    {
-      "id": "1d24debe2e8473d26634ce71",
-      "title": "Baby Kohen Wiley",
-      "url": "https://www.laprogressive.com/law-and-justice/baby-kohen-wiley",
-      "author": "Melina Abdullah",
-      "source": "LA Progressive",
-      "published_at": "2026-11-26T17:36:27+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Hunter Foster has the blood of an innocent baby on his hands, as does the entire Senatobia police department. On June 14, the former sergeant shot into a car that was attempting to leave a Walmart parking lot, stealing the life of one-year-old Kohen Wiley, who was being held in his young mother’s arms. Four months later, Mississippi Attorney General Lynn Fitch deemed this horrific killing “justified.” Just as fervently as I pray that Baby Kohen’s soul finds rest, just as fervently as I pray that his parents’ hearts are stitched back together, I also pray that Foster and Fitch face God’s wrath. I pray that they suffer as they have caused such deep suffering. I pray that they",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/1d24debe2e8473d26634ce71.json"
-    },
-    {
-      "id": "dc92090e94aea5dd55b85ee6",
-      "title": "GTA VI Takes Capitalism Seriously",
-      "url": "https://jacobin.com/2026/11/gta-vi-gaming-satire-capitalism-class",
-      "author": "Tim Brinkhof",
-      "source": "Jacobin",
-      "published_at": "2026-11-26T14:12:54+00:00",
-      "content_excerpt": "In the first twenty-odd hours of playing Grand Theft Auto VI , the long-awaited latest installment in developer Rockstar’s open-world simulations of contemporary America, I chased a hovercraft with a helicopter, raced Jet Skis around a superyacht, and shot my way out of a hospital in a wheelchair — though not before spending all my stolen cash on medical bills. I also fixed the leaky roof of my apartment, bought flowers for my incarcerated girlfriend when I learned she was about to be let out on parole, and wiped an unexpected tear from my eye as I watched her jump into the arms of a friend who — for a moment — seemed to be on the brink of tears herself. The blockbuster game’s more slice-of-life-oriented gameplay and sentimental, relationship-focused story are relatively new additions to t",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/dc92090e94aea5dd55b85ee6.json"
-    },
-    {
-      "id": "4c78e01a6de0239c3c96b887",
-      "title": "The Socialist History Behind Thanksgiving’s Most Iconic Image",
-      "url": "https://jacobin.com/2026/11/thanksgiving-fdr-rockwell-bulosan-socialism",
-      "author": "Liza Featherstone",
-      "source": "Jacobin",
-      "published_at": "2026-11-26T14:12:54+00:00",
-      "content_excerpt": "An older woman, still wearing her apron from all her work in the kitchen, brings a large turkey to a table set with cranberry sauce and fruit and full of family, friends, and neighbors, who are smiling, talking, enjoying one another’s company. Her husband stands beside her at the head of the table, surveying the scene with pride. The 1943 Norman Rockwell oil painting has become perhaps the most iconic and ubiquitous image of Thanksgiving in our modern era. It looks like a classic piece of kitschy, complacent Americana. Yet the image has a surprising political history. With so many in America going hungry this year, it’s a good time to remember that the painting was commissioned in honor of Franklin Delano Roosevelt’s bold call for “Freedom from Want” and released with a much bolder critiqu",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/4c78e01a6de0239c3c96b887.json"
-    },
-    {
-      "id": "2f02d46fe63a2495dbd8ed04",
-      "title": "Going to North Lake",
-      "url": "https://medium.com/dsa-detroit-newspaper/going-to-north-lake-d406cec616f4?source=rss-160b7baee925------2",
-      "author": "Detroit DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-11-26T02:54:59+00:00",
-      "content_excerpt": "Portraits of those killed by ICE, as well as offerings of food and flowers. All photos by Althea Mukes . By Dianne Feeley On November 1st, supporters of immigrant rights gathered at the North Lake Processing Center–, the largest immigrant prison in the Midwest– with a Day of the Dead ceremony. About 150 activists, including several Michigan DSA chapters ( — Metro Detroit DSA, Greater Lansing DSA, Northwest MI DSA and Huron Valley DSA) — organized the event in coalition with Coalition to Shut the Camps, Movimiento Cosecha, No Detention Centers in Michigan, People’s Assembly and West Michigan Clergy Action. Detention Watch Network, a national network — working to get ICE out of communities, shut down ICE detention centers and redirect the massive ICE funding to meet social needs — loosely co",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/2f02d46fe63a2495dbd8ed04.json"
-    },
-    {
-      "id": "b8a3a1d21010d05d51e9f32d",
-      "title": "Sherrod Brown: Vote out Chuck Schumer!",
-      "url": "https://www.columbusdsa.org/2026/11/24/sherrod-brown-vote-out-chuck-schumer",
-      "author": "Columbus DSA",
-      "source": "DSA Feed - Global",
-      "published_at": "2026-11-26T02:54:59+00:00",
-      "content_excerpt": "A joint statement from the following Ohio DSA Chapters: Akron, Cleveland, Columbus, Dayton-Miami Valley, Mahoning Valley, Metro Cincinnati & Northern Kentucky, Wooster, Bowling Green O.C., Wheeling O.C. These Ohio Chapters of the Democratic Socialists of America (DSA) endorse the campaign led by the DSA National Electoral Commission (NEC) to Say No to Chuck Schumer as Senate Majority Leader . During his nearly three decades as a US Senator, Chuck Schumer has consistently advanced the interests of corporate power at home and imperialism abroad against the interests of working people. Under Obama, Schumer was among the few Democratic Senators to cross party lines and vote against the negotiated agreement between the United States and Iran. Serving during the Biden administration as Majority ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/b8a3a1d21010d05d51e9f32d.json"
-    },
-    {
-      "id": "e42b5210421b19a9cd0bd471",
-      "title": "This Thanksgiving, Fight for the Red Deal and Indian Sovereignty",
-      "url": "https://democraticleft.dsausa.org/2026/11/25/this-thanksgiving-fight-for-the-red-deal-and-indian-sovereignty",
-      "author": "cale_t",
-      "source": "Democratic Left",
-      "published_at": "2026-11-26T02:47:09+00:00",
-      "content_excerpt": "DSA and the United States must confront and redress its settler colonial past for a socialist future domestically and abroad The post This Thanksgiving, Fight for the Red Deal and Indian Sovereignty appeared first on Democratic Left .",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/e42b5210421b19a9cd0bd471.json"
-    },
-    {
-      "id": "a83a9cae021279fbbb2904de",
-      "title": "Black Agenda Radio November 27, 2026",
-      "url": "https://blackagendareport.com/black-agenda-radio-november-27-2026",
-      "author": "bareditors",
-      "source": "Black Agenda Report",
-      "published_at": "2026-11-26T01:55:08+00:00",
-      "content_excerpt": "Black Agenda Radio November 27, 2026 Authors Black Agenda Radio with Margaret Kimberley bareditors Thu, 11/26/2026 - 06:32 Black Agenda Radio · Black Agenda Radio November 27, 2026 In this week’s segment, we hear about Chicago’s politics, its mayoral election, and why wealthy donors in the city are backing a candidate to oppose incumbent Brandon Johnson. But we begin with a lawsuit filed against Baltimore County Public Schools and the Police Department after four teens were searched at gunpoint over an erroneous report of a gun caused by an A.I. surveillance system that routinely produces false reports of firearms. African America Chicago Baltimore Brandon Johnson Education A.I. Police brutality",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/a83a9cae021279fbbb2904de.json"
-    },
-    {
-      "id": "6ca34a45e328324f6f579123",
-      "title": "A.I. System in Baltimore Schools Results in Police Abuse of Black Students",
-      "url": "https://blackagendareport.com/ai-system-baltimore-schools-results-police-abuse-black-students",
-      "author": "bareditors",
-      "source": "Black Agenda Report",
-      "published_at": "2026-11-26T01:55:08+00:00",
-      "content_excerpt": "A.I. System in Baltimore Schools Results in Police Abuse of Black Students Authors Black Agenda Radio with Margaret Kimberley bareditors Thu, 11/26/2026 - 06:27 The Lawyers’ Committee for Civil Rights Under Law filed a lawsuit against the Baltimore County Public Schools and the Baltimore County Police Department on behalf of four current and former students. The Omnilert A.I. system erroneously reported that a student's bag of chips was a gun. A system purporting to enhance safety instead brings the threat of police brutality to students in their schools. Len Kamdang, Director of the Criminal Justice Project at the Lawyers’ Committee for Civil Rights Under Law, explains the grounds for the lawsuit. African America A.I. Education Baltimore policing Police brutality",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/6ca34a45e328324f6f579123.json"
-    },
-    {
-      "id": "da6649b80b3a2a2e4a35ebba",
-      "title": "Mayor Brandon Johnson's Re-Election Campaign and Community Organizing in Chicago",
-      "url": "https://blackagendareport.com/mayor-brandon-johnsons-re-election-campaign-and-community-organizing-chicago",
-      "author": "bareditors",
-      "source": "Black Agenda Report",
-      "published_at": "2026-11-26T01:55:08+00:00",
-      "content_excerpt": "Mayor Brandon Johnson's Re-Election Campaign and Community Organizing in Chicago Authors Black Agenda Radio with Margaret Kimberley bareditors Thu, 11/26/2026 - 06:22 February 27 is election day in Chicago. Frank Chapman, Executive Director of the National Alliance Against Racist and Political Repression , provides analysis on the NAARPR's role in organizing elected community councils to oversee public safety as the donor class designates a candidate to run against Mayor Brandon Johnson. African America Chicago Brandon Johnson U.S. Elections NAARPR public safety",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/da6649b80b3a2a2e4a35ebba.json"
-    },
-    {
-      "id": "ea54e28ade885435da23f36f",
-      "title": "Henry Giroux on Why Elections Alone Can’t Defeat Fascism",
-      "url": "https://www.laprogressive.com/election-and-campaigns/henry-giroux-why-elections-alone-cant-defeat-fascism",
-      "author": "Dick Price, Sharon Kyle",
-      "source": "LA Progressive",
-      "published_at": "2026-11-26T00:01:42+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Three days after the November 3 midterms, Donald Trump named Stephen Miller his White House chief of staff. Republicans had lost control of Congress. For his new chief of staff, Trump turned to a longtime aide who helped shape his administration’s hard-line immigration policies. When Dick Price and I spoke with Henry A. Giroux, LA Progressive’s associate editor and a scholar of critical pedagogy at McMaster University, we wanted to know what Democrats could do with the opening voters had given them. Giroux had just taken up Miller’s promotion in his LA Progressive essay, “Trump’s Revenge Presidency: Stephen Miller and the Machinery of State Terror.” “Elections don’t defeat ",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/ea54e28ade885435da23f36f.json"
-    },
-    {
-      "id": "834cab24b0d43d9f01ad4795",
-      "title": "Compare Nic Salt Deals",
-      "url": "https://www.laprogressive.com/sponsored/compare-nic-salt-deals",
-      "author": "Tiqua Jackson",
-      "source": "LA Progressive",
-      "published_at": "2026-11-25T23:18:12+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Nic salt offers can look deceptively simple: a multi-buy price, a percentage discount, perhaps a “buy three, get one free” message. Yet the cheapest-looking option is not always the best value—or even the right product for your device and preferences. That matters because nicotine salts are not interchangeable in the way many shoppers assume. Two bottles may have the same listed nicotine strength and flavour name, but differ in bottle size, VG/PG ratio, formula, coil compatibility, batch freshness, and the quality of information available before purchase. A deal only makes sense when the products being compared are genuinely equivalent. The most reliable approach is to slow",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/834cab24b0d43d9f01ad4795.json"
-    },
-    {
-      "id": "6fe5c924622eb4b6e1e18b0b",
-      "title": "Exploring Jackpot Slots Online",
-      "url": "https://www.laprogressive.com/sponsored/exploring-jackpot-slots-online",
-      "author": "Sejal Desai",
-      "source": "LA Progressive",
-      "published_at": "2026-11-25T23:12:10+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. Jackpot slots offer a thrilling blend of chance and strategy, often featuring progressive prizes that grow with every spin. Fortunately, you don’t need to wager real money to experience these games. Many platforms provide free versions of jackpot-style slots, allowing players to explore their mechanics and excitement risk-free. This article breaks down how to identify jackpot slots, navigate game lobbies effectively, and select titles that suit your preferences for free play. Locating Jackpot Games in the Lobby Online casino lobbies typically organize games into categories that highlight popular features, including jackpot slots. These curated sections make it easier to fin",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/6fe5c924622eb4b6e1e18b0b.json"
-    },
-    {
-      "id": "d28434c1571dd1701da8e8e9",
-      "title": "Voter Guide Style:",
-      "url": "https://www.laprogressive.com/sponsored/voter-guide-style",
-      "author": "Britta Hedlund",
-      "source": "LA Progressive",
-      "published_at": "2026-11-25T23:02:15+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. A ranking looks like a fact. Number one sits at the top, number twelve sits below it, and the order feels settled. It is closer to a poll, an opinion with data attached, and it deserves the same questions a careful voter asks of any survey: who built it, with what assumptions, and how sure are they? With Week 10 of the NFL season arriving, plenty of fantasy managers are leaning on fantasy football rankings to decide who starts and who sits. The board RotoWire publishes is a useful example because it states its method plainly: a weekly consensus from named analysts, filterable by scoring format. That is the kind of transparency worth looking for anywhere, and the rest of thi",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/d28434c1571dd1701da8e8e9.json"
-    },
-    {
-      "id": "5e1623eabc34e4216c7defa6",
-      "title": "Read an IPO Prospectus",
-      "url": "https://www.laprogressive.com/sponsored/read-an-ipo-prospectus",
-      "author": "Tiqua Jackson",
-      "source": "LA Progressive",
-      "published_at": "2026-11-25T22:57:03+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. An initial public offering prospectus can look intimidating. Hundreds of pages may cover financial statements, risk factors, legal disclosures, ownership tables, executive compensation, and details about how shares will be sold. Yet investors do not need to memorize every line to understand what the document is trying to reveal. A disciplined reading process can separate the most decision-useful information from the boilerplate and help readers understand how a private company expects to operate under public-market scrutiny. What an IPO Prospectus is Designed to Do A prospectus is primarily a disclosure document. It explains the company, the securities being offered, the ma",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/5e1623eabc34e4216c7defa6.json"
-    },
-    {
-      "id": "7509286fed47287a337e447f",
-      "title": "Sports Betting Promotion",
-      "url": "https://www.laprogressive.com/sponsored/sports-betting-promotion",
-      "author": "Sejal Desai",
-      "source": "LA Progressive",
-      "published_at": "2026-11-25T22:16:37+00:00",
-      "content_excerpt": "The opinions expressed here are solely the author's and do not reflect the opinions or beliefs of the LA Progressive. In July 2026, two major prediction exchanges recorded $53 billion in combined trading volume. Just two months earlier, that figure had stood at $26 billion. Pew Research Center analyst Kaitlyn Radde found that sports contracts accounted for most of the increase . The figures measure global trading activity rather than American gambling revenue, but they reveal how quickly a new form of sports-related speculation has developed. Traditional sportsbooks now compete for attention with businesses operating under federal financial regulations. To a customer watching an NFL game, the products can appear similar. The differences become important when an advertisement promises a bon",
-      "source_folders": [
-        "00_毎日確認"
-      ],
-      "priority": 1,
-      "date_missing": false,
-      "article_path": "articles/7509286fed47287a337e447f.json"
     }
   ]
 }
